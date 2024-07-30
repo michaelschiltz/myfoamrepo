@@ -4,7 +4,7 @@ This #recipe allows you to create custom note macros.
 
 ## Installation
 
-**This extension is not included in the template**
+** This extension is not included in the template**
 
 To install search note-macros in vscode or head to [note-macros - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=NeelyInnovations.note-macros)
 
