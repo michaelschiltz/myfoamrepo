@@ -1,0 +1,22 @@
+#!/usr/bin/env bash
+# Vault pre-commit gate: auto-fix headings, then validate.
+# Install once per clone:  git config core.hooksPath .githooks
+set -euo pipefail
+
+repo_root="$(git rev-parse --show-toplevel)"
+cd "$repo_root"
+
+# 1. auto-fix: blank line after every heading; re-stage anything changed
+changed="$(python3 scripts/normalize_headings.py || true)"
+if [ -n "$changed" ]; then
+  echo "pre-commit: normalized headings in:"
+  echo "$changed" | sed 's/^/  /'
+  echo "$changed" | while read -r f; do [ -n "$f" ] && git add "$f"; done
+fi
+
+# 2. validate: schema, link integrity, tag vocabulary, heading compliance
+if ! python3 scripts/validate_vault.py; then
+  echo ""
+  echo "pre-commit: validation failed — commit aborted. Fix the errors above."
+  exit 1
+fi

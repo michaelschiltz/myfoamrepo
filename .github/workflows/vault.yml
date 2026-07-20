@@ -1,0 +1,44 @@
+name: vault
+
+on:
+  push:
+    branches: [master]
+    paths-ignore:
+      - 'graph/**'        # graph-only commits must not retrigger (prevents loops)
+  pull_request:
+
+permissions:
+  contents: write         # allows the graph rebuild to commit back
+
+jobs:
+  validate-and-graph:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Validate vault (schema, links, headings, tags)
+        run: python3 scripts/validate_vault.py
+
+      - name: Rebuild knowledge graph
+        if: github.event_name == 'push'
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq graphviz
+          python3 scripts/export_graph.py
+          dot -Tsvg graph/graph.dot -o graph/graph.svg || true
+
+      - name: Commit graph if it changed
+        if: github.event_name == 'push'
+        run: |
+          git config user.name  "vault-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add graph/
+          if git diff --cached --quiet; then
+            echo "graph unchanged — nothing to commit"
+          else
+            git commit -m "CI: rebuild knowledge graph [skip ci]"
+            git push
+          fi
