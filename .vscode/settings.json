@@ -23,9 +23,9 @@
   ],
   "julia.packageServer": "https://juliahub.com/",
   "foam.files.exclude": [
-  "**/.foam/templates/**",
-  "**/_foam-docs/**",
-  "**/_layouts/**",
-  "**/_site/**"
+  "**/.foam/templates/**/*",
+  "**/_foam-docs/**/*",
+  "**/_layouts/**/*",
+  "**/_site/**/*"
   ],
 }
