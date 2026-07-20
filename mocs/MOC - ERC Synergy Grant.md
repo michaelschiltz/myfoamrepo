@@ -14,6 +14,6 @@ Project hub for grant-facing material. Kept distinct from the book hub so that i
 > **Stub** — the Part 2 WP1 session's *ideas* (transmission vs independent recurrence, the *ortoq* bridge, the *qirad* Sasanian genealogy, the determinate/contingent typology) will be written as atomic notes and linked here. The grant *editing mechanics* are deliberately excluded.
 
 ## Links
-- [[MOC - Clearing and Settling the Realm]]
+- [[MOC - HistorEE]]
 - [[MOC - Islamic contract doctrine]]
 - [[MOC - Historiography and method]]

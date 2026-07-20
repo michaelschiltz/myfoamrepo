@@ -21,4 +21,4 @@ Thematic hub for the instrument axis: risk-*sharing* forms that keep every party
 ## Links
 - [[MOC - Islamic contract doctrine]]
 - [[MOC - Ergodicity and the time-ensemble distinction]]
-- [[MOC - Clearing and Settling the Realm]]
+- [[MOC - HistorEE]]

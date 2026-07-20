@@ -16,5 +16,5 @@ Thematic hub for the project's methodological guardrails: teleology and its inve
 - *Part 2 WP1* session — transmission vs independent recurrence; the *ortoq* as discriminating bridge; the determinate/contingent typology.
 
 ## Links
-- [[MOC - Clearing and Settling the Realm]]
+- [[MOC - HistorEE]]
 - [[MOC - ERC Synergy Grant]]

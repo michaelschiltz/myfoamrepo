@@ -18,7 +18,7 @@ The pass is the tell of the weak, not the strong, so Harris's charge of Eurocent
 - [[Mare Liberum was a corporate legal weapon]]
 - [[Entity-shielding]]
 - [[MOC - Entity-shielding and corporate forms]]
-- [[MOC - Clearing and Settling the Realm]]
+- [[MOC - HistorEE]]
 
 ## Source
 Contra Ron Harris on organizational trade-offs (militarily-insufficient thesis).

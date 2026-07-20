@@ -23,4 +23,4 @@ Thematic hub for the corporate-form apparatus: asset-partitioning, identity-wrap
 ## Links
 - [[MOC - Risk-sharing vs risk-pricing]]
 - [[MOC - Ergodicity and the time-ensemble distinction]]
-- [[MOC - Clearing and Settling the Realm]]
+- [[MOC - HistorEE]]

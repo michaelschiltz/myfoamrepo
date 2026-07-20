@@ -24,4 +24,4 @@ Thematic hub for the fiqh apparatus bearing on finance: *gharar*, *maysir*, *rib
 
 ## Links
 - [[MOC - Risk-sharing vs risk-pricing]]
-- [[MOC - Clearing and Settling the Realm]]
+- [[MOC - HistorEE]]

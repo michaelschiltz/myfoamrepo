@@ -21,7 +21,7 @@ Theoretical anchors: Benjamin's *rechtsetzende* / *rechtserhaltende Gewalt* — 
 - [[The four-step decoupling from participation to the veil]]
 - [[Entity-shielding]]
 - [[MOC - Entity-shielding and corporate forms]]
-- [[MOC - Clearing and Settling the Realm]]
+- [[MOC - HistorEE]]
 
 ## Source
 Ron Harris session — the Grotius/VOC irony.
