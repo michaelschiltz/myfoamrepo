@@ -19,7 +19,7 @@ Project hub for the book. Atomic notes hang off both this project MOC and a them
 - [[MOC - Islamic contract doctrine]]
 - [[MOC - Historiography and method]]
 
-## Notes so far (pilot: Ron Harris session)
+## Notes — Ron Harris session
 
 - [[Legal violence is the weapon of the militarily insufficient]]
 - [[Mare Liberum was a corporate legal weapon]]
@@ -31,11 +31,45 @@ Project hub for the book. Atomic notes hang off both this project MOC and a them
 - [[Naviganti - Latin Christendom rejected the sea loan too]]
 - [[Scuttling rewards fraud in the sea loan]]
 
-## Pending sessions (approved, not yet written)
+## Notes — Nación flamenca session
 
-- Nación flamenca — naties, *alleenrecht*, identity-wrapper vs asset-partition, *kabu-nakama* pair
-- Part 2 WP1 — transmission vs independent recurrence, *ortoq*, *qirad* Sasanian genealogy, determinate/contingent typology
-- Whiggish history of finance → [[MOC - Historiography and method]]
+- [[Natie is a false cognate]]
+- [[The alleenrecht is monopoly held as tradable property]]
+- [[The naties are a six-century Lindy institution]]
+- [[Identity-wrapper and perpetual-monopoly are distinct shielding facets]]
+- [[Natie and kabu-nakama are a convergence pair]]
+
+## Notes — Ensemble vs time-average session
+
+- [[Separate the genetic and the methodological claims about economics]]
+- [[Economics had its ensemble moment in 1738 and psychologized it]]
+- [[Route Kolmogorov to ergodic theory not the theory of means]]
+- [[The ensemble average is the local descriptor of a barrier-shielded agent]]
+- [[The real cut is shielded-and-pooled versus unshielded]]
+- [[Time-average optimization is a survivorship property not an intention]]
+
+## Notes — Whiggish history session
+
+- [[Whiggish history of finance names the ascent narrative]]
+- [[The ascent narrative is the Jensen error as historiography]]
+- [[Discipline the Whig epithet by pinning it to teleology and survivorship]]
+- [[Guard against reverse-teleology]]
+
+## Notes — Part 2 WP1 session
+
+- [[Transmission versus independent recurrence is the load-bearing test]]
+- [[The ortoq is the discriminating instrument]]
+- [[The qirad's antecedents are Sasanian not Sogdian]]
+- [[The determinate-contingent typology carries the richness]]
+
+## Concept anchors
+
+- [[Absorbing barrier]]
+- [[Time-average]]
+- [[Skin in the game]]
+- [[Entity-shielding]]
+- [[Jensen gap]]
+- [[The ie as entity-shielding]]
 
 
 [MOC - Ergodicity and the time-ensemble distinction]: <MOC - Ergodicity and the time-ensemble distinction.md> "MOC - Ergodicity and the time-ensemble distinction"

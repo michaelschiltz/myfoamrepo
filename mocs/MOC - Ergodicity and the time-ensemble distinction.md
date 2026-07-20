@@ -9,17 +9,20 @@ status: seed
 
 # MOC — Ergodicity and the time-ensemble distinction
 
-Thematic hub for the project's load-bearing distinction: ensemble average vs [[time-average]], multiplicative dynamics, and the absorbing barrier.
+Thematic hub for the project's load-bearing distinction: ensemble average vs [[Time-average|time-average]], multiplicative dynamics, and the absorbing barrier.
 
 ## Notes
 
 - [[Pricing risk does not remove it]]
 - [[Absorbing barrier]]
+- [[Time-average]]
 - [[Jensen gap]]
-
-## Pending
-
-- *Ensemble vs time average economics* session — economics as the self-description of a barrier-shielded society; Bernoulli / Kolmogorov–Nagumo; ergodic hygiene; the *ie* as entity-shielding.
+- [[Separate the genetic and the methodological claims about economics]]
+- [[Economics had its ensemble moment in 1738 and psychologized it]]
+- [[Route Kolmogorov to ergodic theory not the theory of means]]
+- [[The ensemble average is the local descriptor of a barrier-shielded agent]]
+- [[The real cut is shielded-and-pooled versus unshielded]]
+- [[Time-average optimization is a survivorship property not an intention]]
 
 ## Links
 

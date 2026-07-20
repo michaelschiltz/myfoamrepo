@@ -15,6 +15,7 @@ The binding of a party's payoff to the venture's *realized* trajectory — the p
 > **Stub** — to be developed. Taleb's register; make rigorous where he leaves it aphoristic.
 
 ## Links
+
 - [[MOC - Risk-sharing vs risk-pricing]]
 - [[Absorbing barrier]]
 - [[The qirad envelops the sea loan]]

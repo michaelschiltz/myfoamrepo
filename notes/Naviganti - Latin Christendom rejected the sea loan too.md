@@ -15,6 +15,7 @@ The frame "why didn't the sea loan migrate into Islam?" is the wrong question, b
 So the real comparative question is why the *shared* rejection produced *divergent* workarounds. **Latin Europe unbundled** the composite: the pure loan split off as the *bill of exchange*, the pure risk-transfer crystallized as the free-standing *marine insurance* contract in fourteenth-century Genoa and Florence. The **Islamic world** met the same function with the PLS partnership and never needed to unbundle at all. Same doctrinal problem, two institutional solutions — the payoff Harris walks straight past.
 
 ## Links
+
 - [[Islamic doctrine refuses risk-commodification at step one]]
 - [[The qirad envelops the sea loan]]
 - [[The sea loan is a contingent claim not a loan]]
@@ -22,4 +23,5 @@ So the real comparative question is why the *shared* rejection produced *diverge
 - [[MOC - Risk-sharing vs risk-pricing]]
 
 ## Source
+
 Ron Harris session — the shared-rejection / divergent-workaround thesis.

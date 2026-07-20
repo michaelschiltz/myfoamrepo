@@ -17,6 +17,7 @@ Freedom and its denial are thus two settings of a single legal-violence machine,
 Theoretical anchors: Benjamin's *rechtsetzende* / *rechtserhaltende Gewalt* — *Mare Liberum* as law-making violence that shatters the Iberian order; the cartaz and the monopoly as law-preserving violence — and Robert Cover, "Violence and the Word" (law as a thing done "upon a field of pain and death").
 
 ## Links
+
 - [[Legal violence is the weapon of the militarily insufficient]]
 - [[The four-step decoupling from participation to the veil]]
 - [[Entity-shielding]]
@@ -24,4 +25,5 @@ Theoretical anchors: Benjamin's *rechtsetzende* / *rechtserhaltende Gewalt* — 
 - [[MOC - HistorEE]]
 
 ## Source
+
 Ron Harris session — the Grotius/VOC irony.

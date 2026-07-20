@@ -17,6 +17,8 @@ Thematic hub for the fiqh apparatus bearing on finance: *gharar*, *maysir*, *rib
 - [[The qirad envelops the sea loan]]
 - [[Naviganti - Latin Christendom rejected the sea loan too]]
 - [[Scuttling rewards fraud in the sea loan]]
+- [[The qirad's antecedents are Sasanian not Sogdian]]
+- [[The determinate-contingent typology carries the richness]]
 
 ## Open citations to verify
 

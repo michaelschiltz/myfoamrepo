@@ -17,10 +17,13 @@ Thematic hub for the corporate-form apparatus: asset-partitioning, identity-wrap
 - [[Legal violence is the weapon of the militarily insufficient]]
 - [[Mare Liberum was a corporate legal weapon]]
 - [[The four-step decoupling from participation to the veil]]
-
-## Pending
-
-- *Nación flamenca* session — the *naties* and *alleenrecht* (perpetual-monopoly-as-property), the identity-wrapper facet, and the *kabu-nakama* / *kabu* convergence pair.
+- [[Natie is a false cognate]]
+- [[The alleenrecht is monopoly held as tradable property]]
+- [[The naties are a six-century Lindy institution]]
+- [[Identity-wrapper and perpetual-monopoly are distinct shielding facets]]
+- [[Natie and kabu-nakama are a convergence pair]]
+- [[The real cut is shielded-and-pooled versus unshielded]]
+- [[The ie as entity-shielding]]
 
 ## Links
 

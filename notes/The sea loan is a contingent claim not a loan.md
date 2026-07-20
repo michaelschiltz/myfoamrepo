@@ -17,6 +17,7 @@ The correct modern analogue is a **contingent claim / embedded option**, not a f
 So "loan" is the **fossil name** of a bundled instrument: proto-insurance wearing a loan's clothing, adopted because a world with no autonomous category for priced risk had only the loan as a licit wrapper. Its whole subsequent history is the unbundling of its two functions. Specify the contingency: the sea loan is contingent on *physical arrival* (proto-*insurance*), not *commercial outcome* (proto-*equity*).
 
 ## Links
+
 - [[The qirad envelops the sea loan]]
 - [[Pricing risk does not remove it]]
 - [[Islamic doctrine refuses risk-commodification at step one]]
@@ -24,4 +25,5 @@ So "loan" is the **fossil name** of a bundled instrument: proto-insurance wearin
 - [[MOC - Risk-sharing vs risk-pricing]]
 
 ## Source
+
 Ron Harris session — is the sea loan misleadingly named? (Goetzmann, *Money Changes Everything*, on bottomry.)

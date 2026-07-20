@@ -17,6 +17,7 @@ This is why the sea loan did not migrate into Islamic law: **substitution, not b
 And it convicts Harris on his own terms. The *qirad* is *his* prime migratory institution — the one he tracks out of Islamic Arabia as the commenda. He holds both instruments, but treats the sea loan's non-migration and the *qirad*'s migration as *separate facts* rather than two faces of one competitive-substitution dynamic: the *qirad* wins the home niche, so the sea loan has nowhere to land.
 
 ## Links
+
 - [[The sea loan is a contingent claim not a loan]]
 - [[Islamic doctrine refuses risk-commodification at step one]]
 - [[Skin in the game]]
@@ -24,4 +25,5 @@ And it convicts Harris on his own terms. The *qirad* is *his* prime migratory in
 - [[MOC - Islamic contract doctrine]]
 
 ## Source
+
 Ron Harris session — sea-loan non-migration as competitive substitution.

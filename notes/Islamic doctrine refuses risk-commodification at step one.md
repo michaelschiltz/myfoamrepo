@@ -19,6 +19,7 @@ Read this as the law's **revealed preference**: a gravitational bias toward ergo
 Two cautions so a referee cannot knock it over. State it as the law's *revealed preference*, not as practice on the water — *hiyal* blurred the line constantly, and effective risk-pricing crept back via *mudaraba* ratios and *murabaha* markups. And test whether the claim should be **non-institutionalization** rather than **absence**: the Geniza evidence (Goitein, *Mediterranean Society*; and now perhaps the Afghan Geniza) suggests maritime lending was not wholly unknown.
 
 ## Links
+
 - [[The qirad envelops the sea loan]]
 - [[The sea loan is a contingent claim not a loan]]
 - [[Naviganti - Latin Christendom rejected the sea loan too]]
@@ -26,4 +27,5 @@ Two cautions so a referee cannot knock it over. State it as the law's *revealed 
 - [[MOC - Islamic contract doctrine]]
 
 ## Source
+
 Ron Harris session — why the sea loan did not take root in Islamic law.

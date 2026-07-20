@@ -15,6 +15,7 @@ The wedge between the average of a function and the function of the average unde
 > **Stub** — to be developed. Connects the ergodicity apparatus to the entity-shielding one via the charter as veil.
 
 ## Links
+
 - [[MOC - Ergodicity and the time-ensemble distinction]]
 - [[Pricing risk does not remove it]]
 - [[Entity-shielding]]

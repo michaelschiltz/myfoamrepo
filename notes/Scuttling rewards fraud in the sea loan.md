@@ -17,10 +17,12 @@ Archetype: Hegestratos and Zenothemis in Demosthenes, *Against Zenothemis* (Or. 
 The structural point: the sea loan pins payoff to a single, gameable, hard-to-verify event (arrival vs loss) and does worse than permit the fraud — it *rewards* it. Fake the sinking and keep cargo *and* principal; the forgiveness-on-loss feature puts a bounty on manufacturing the loss. The *qirad* gives no such bounty. So **gharar** was never only about metaphysical uncertainty; it was a *verification-and-moral-hazard* objection — doctrine disfavors a contract whose payoff turns on an unverifiable event *because it pays people to lie about the state of the world*. Comparative kicker: Athens met the fraud *ex post* by litigation (Demosthenes in court); Islamic law met it *ex ante* by contract design (favoring the form in which faking gains nothing).
 
 ## Links
+
 - [[Islamic doctrine refuses risk-commodification at step one]]
 - [[The qirad envelops the sea loan]]
 - [[The sea loan is a contingent claim not a loan]]
 - [[MOC - Islamic contract doctrine]]
 
 ## Source
+
 Ron Harris session — the "inside out" move: faked loss as moral hazard.

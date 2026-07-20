@@ -15,10 +15,12 @@ Harris's alibi, inverted, becomes evidence. He argues the companies were militar
 The pass is the tell of the weak, not the strong, so Harris's charge of Eurocentrism runs backwards. And no single body is required: the violence is *in the legal act* — the manufacture of a permission-right where none existed, and the criminalization of the previously licit. The Indian Ocean before them was no free-trade Eden (tolls, straits-lords, port duties, Malacca), so state it precisely: the Europeans converted a plural, multi-jurisdictional maritime commons into a licensed space where the right to sail became a purchasable, revocable permission, and its absence a punishable offense. Violence done through abstraction. The paperwork convicts.
 
 ## Links
+
 - [[Mare Liberum was a corporate legal weapon]]
 - [[Entity-shielding]]
 - [[MOC - Entity-shielding and corporate forms]]
 - [[MOC - HistorEE]]
 
 ## Source
+
 Contra Ron Harris on organizational trade-offs (militarily-insufficient thesis).

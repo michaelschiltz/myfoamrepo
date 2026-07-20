@@ -20,6 +20,7 @@ Facets surfacing so far, to keep distinct:
 > **Stub** — to be developed as the *nación flamenca* and *ie* notes are added.
 
 ## Links
+
 - [[MOC - Entity-shielding and corporate forms]]
 - [[Mare Liberum was a corporate legal weapon]]
 - [[The four-step decoupling from participation to the veil]]

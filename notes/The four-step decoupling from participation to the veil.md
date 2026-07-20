@@ -22,6 +22,7 @@ The sea-loan lender takes only steps 1–2. He still holds *aggregate* skin in t
 The long arc is one trajectory: **sea loan → marine insurance → the joint-stock veil**, each move decoupling payoff further from participation. [[Islamic doctrine refuses risk-commodification at step one]] plants its flag against step 1 and refuses it.
 
 ## Links
+
 - [[Pricing risk does not remove it]]
 - [[Skin in the game]]
 - [[Entity-shielding]]
@@ -29,4 +30,5 @@ The long arc is one trajectory: **sea loan → marine insurance → the joint-st
 - [[MOC - Entity-shielding and corporate forms]]
 
 ## Source
+
 Ron Harris session — staging the decoupling of payoff from participation.

@@ -11,7 +11,14 @@ status: stub
 
 Project hub for grant-facing material. Kept distinct from the book hub so that ideas shared across both are linked, not duplicated: an atomic note keeps `project: clearing-settling-realm` and is *linked* from here when it also serves the grant.
 
-> **Stub** — the Part 2 WP1 session's *ideas* (transmission vs independent recurrence, the *ortoq* bridge, the *qirad* Sasanian genealogy, the determinate/contingent typology) will be written as atomic notes and linked here. The grant *editing mechanics* are deliberately excluded.
+The Part 2 WP1 session's *ideas* are written as atomic notes (below) and kept under `project: clearing-settling-realm`, linked here because they also serve the grant. The grant *editing mechanics* are deliberately excluded.
+
+## Notes (from Part 2 WP1)
+
+- [[Transmission versus independent recurrence is the load-bearing test]]
+- [[The ortoq is the discriminating instrument]]
+- [[The qirad's antecedents are Sasanian not Sogdian]]
+- [[The determinate-contingent typology carries the richness]]
 
 ## Links
 

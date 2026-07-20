@@ -18,6 +18,7 @@ Thematic hub for the instrument axis: risk-*sharing* forms that keep every party
 - [[Pricing risk does not remove it]]
 - [[Naviganti - Latin Christendom rejected the sea loan too]]
 - [[Skin in the game]]
+- [[The determinate-contingent typology carries the richness]]
 
 ## Links
 
