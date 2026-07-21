@@ -2,7 +2,7 @@
 title: Naviganti - Latin Christendom rejected the sea loan too
 type: permanent
 tags: [naviganti, riba, canon-law, marine-insurance, comparative]
-project: clearing-settling-realm
+project: HistorEE
 source-session: ron-harris-tradeoffs
 created: 2026-07-20
 status: seed

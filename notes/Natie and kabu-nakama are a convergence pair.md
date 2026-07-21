@@ -2,7 +2,7 @@
 title: Natie and kabu-nakama are a convergence pair
 type: permanent
 tags: [naties, kabu-nakama, convergence-pair, monopoly-franchise, comparative]
-project: clearing-settling-realm
+project: HistorEE
 source-session: nacion-flamenca-integration
 created: 2026-07-20
 status: seed

@@ -2,7 +2,7 @@
 title: Transmission versus independent recurrence is the load-bearing test
 type: permanent
 tags: [transmission, independent-recurrence, comparative, historiography]
-project: clearing-settling-realm
+project: HistorEE
 source-session: part-2-wp1-editing
 created: 2026-07-20
 status: seed

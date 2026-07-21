@@ -2,7 +2,7 @@
 title: Natie is a false cognate
 type: permanent
 tags: [naties, identity-wrapper, corporate-form, comparative]
-project: clearing-settling-realm
+project: HistorEE
 source-session: nacion-flamenca-integration
 created: 2026-07-20
 status: seed

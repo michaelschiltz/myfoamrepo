@@ -2,7 +2,7 @@
 title: Guard against reverse-teleology
 type: permanent
 tags: [whiggism, teleology, historiography, ergodicity]
-project: clearing-settling-realm
+project: HistorEE
 source-session: whiggish-history-of-finance
 created: 2026-07-20
 status: seed

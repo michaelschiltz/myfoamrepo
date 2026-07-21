@@ -2,7 +2,7 @@
 title: Skin in the game
 type: permanent
 tags: [skin-in-the-game, risk-sharing, ergodicity]
-project: clearing-settling-realm
+project: HistorEE
 source-session: concept-anchor
 created: 2026-07-20
 status: stub

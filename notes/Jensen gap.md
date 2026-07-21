@@ -2,7 +2,7 @@
 title: Jensen gap
 type: permanent
 tags: [jensen-inequality, convexity, risk-pricing]
-project: clearing-settling-realm
+project: HistorEE
 source-session: concept-anchor
 created: 2026-07-20
 status: stub

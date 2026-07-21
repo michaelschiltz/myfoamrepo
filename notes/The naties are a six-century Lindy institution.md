@@ -2,7 +2,7 @@
 title: The naties are a six-century Lindy institution
 type: permanent
 tags: [naties, lindy, monopoly-franchise, entity-shielding]
-project: clearing-settling-realm
+project: HistorEE
 source-session: nacion-flamenca-integration
 created: 2026-07-20
 status: seed

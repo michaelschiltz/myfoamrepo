@@ -2,7 +2,7 @@
 title: The four-step decoupling from participation to the veil
 type: permanent
 tags: [skin-in-the-game, entity-shielding, limited-liability, decoupling, joint-stock]
-project: clearing-settling-realm
+project: HistorEE
 source-session: ron-harris-tradeoffs
 created: 2026-07-20
 status: seed

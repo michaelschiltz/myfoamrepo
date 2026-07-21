@@ -2,7 +2,7 @@
 title: The qirad's antecedents are Sasanian not Sogdian
 type: permanent
 tags: [qirad, sasanian, transmission, comparative]
-project: clearing-settling-realm
+project: HistorEE
 source-session: part-2-wp1-editing
 created: 2026-07-20
 status: seed

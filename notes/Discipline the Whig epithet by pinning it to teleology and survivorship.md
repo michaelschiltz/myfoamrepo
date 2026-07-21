@@ -2,7 +2,7 @@
 title: Discipline the Whig epithet by pinning it to teleology and survivorship
 type: permanent
 tags: [whiggism, teleology, survivorship-bias, historiography]
-project: clearing-settling-realm
+project: HistorEE
 source-session: whiggish-history-of-finance
 created: 2026-07-20
 status: seed

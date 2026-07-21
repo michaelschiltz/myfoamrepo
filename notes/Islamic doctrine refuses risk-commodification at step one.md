@@ -2,7 +2,7 @@
 title: Islamic doctrine refuses risk-commodification at step one
 type: permanent
 tags: [gharar, maysir, riba, salam, hiyal, risk-sharing]
-project: clearing-settling-realm
+project: HistorEE
 source-session: ron-harris-tradeoffs
 created: 2026-07-20
 status: seed

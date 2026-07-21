@@ -2,7 +2,7 @@
 title: The ascent narrative is the Jensen error as historiography
 type: permanent
 tags: [whiggism, survivorship-bias, jensen-inequality, entity-shielding]
-project: clearing-settling-realm
+project: HistorEE
 source-session: whiggish-history-of-finance
 created: 2026-07-20
 status: seed

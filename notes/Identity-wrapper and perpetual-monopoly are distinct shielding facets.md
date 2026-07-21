@@ -2,7 +2,7 @@
 title: Identity-wrapper and perpetual-monopoly are distinct shielding facets
 type: permanent
 tags: [entity-shielding, identity-wrapper, monopoly-franchise, asset-partitioning]
-project: clearing-settling-realm
+project: HistorEE
 source-session: nacion-flamenca-integration
 created: 2026-07-20
 status: seed

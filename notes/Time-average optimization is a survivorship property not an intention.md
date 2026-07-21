@@ -2,7 +2,7 @@
 title: Time-average optimization is a survivorship property not an intention
 type: permanent
 tags: [time-average, survivorship-bias, lindy, ergodicity]
-project: clearing-settling-realm
+project: HistorEE
 source-session: ensemble-vs-time-average
 created: 2026-07-20
 status: seed

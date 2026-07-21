@@ -2,7 +2,7 @@
 title: The ensemble average is the local descriptor of a barrier-shielded agent
 type: permanent
 tags: [ensemble-average, absorbing-barrier, entity-shielding, ergodicity]
-project: clearing-settling-realm
+project: HistorEE
 source-session: ensemble-vs-time-average
 created: 2026-07-20
 status: seed

@@ -2,7 +2,7 @@
 title: Legal violence is the weapon of the militarily insufficient
 type: permanent
 tags: [legal-violence, cartaz, mare-clausum, force-economizing, entity-shielding]
-project: clearing-settling-realm
+project: HistorEE
 source-session: ron-harris-tradeoffs
 created: 2026-07-20
 status: seed

@@ -2,7 +2,7 @@
 title: Entity-shielding
 type: permanent
 tags: [entity-shielding, asset-partitioning, corporate-form]
-project: clearing-settling-realm
+project: HistorEE
 source-session: concept-anchor
 created: 2026-07-20
 status: stub

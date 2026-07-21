@@ -2,7 +2,7 @@
 title: Mare Liberum was a corporate legal weapon
 type: permanent
 tags: [legal-violence, mare-liberum, mare-clausum, grotius, charter]
-project: clearing-settling-realm
+project: HistorEE
 source-session: ron-harris-tradeoffs
 created: 2026-07-20
 status: seed

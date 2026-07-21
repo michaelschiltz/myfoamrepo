@@ -2,7 +2,7 @@
 title: The ie as entity-shielding
 type: permanent
 tags: [ie, entity-shielding, lindy, comparative]
-project: clearing-settling-realm
+project: HistorEE
 source-session: concept-anchor
 created: 2026-07-20
 status: stub

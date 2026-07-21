@@ -2,7 +2,7 @@
 title: MOC - Islamic contract doctrine
 type: moc
 tags: [moc]
-project: clearing-settling-realm
+project: HistorEE
 created: 2026-07-20
 status: seed
 ---

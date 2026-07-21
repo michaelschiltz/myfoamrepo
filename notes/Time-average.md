@@ -2,7 +2,7 @@
 title: Time-average
 type: permanent
 tags: [time-average, ergodicity, multiplicative-dynamics]
-project: clearing-settling-realm
+project: HistorEE
 source-session: concept-anchor
 created: 2026-07-20
 status: stub

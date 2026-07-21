@@ -17,7 +17,7 @@ Working notes for *Clearing and Settling the Realm* (ergodicity economics + enti
   title: <human-readable title, matches filename>
   type: permanent        # permanent | moc | source | reference
   tags: [concept, concept]
-  project: clearing-settling-realm   # or erc-synergy
+  project: HistorEE   # or erc-synergy
   source-session: <slug of originating conversation>
   created: YYYY-MM-DD
   status: seed           # stub | seed | developed

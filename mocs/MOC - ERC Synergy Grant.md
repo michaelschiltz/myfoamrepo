@@ -9,9 +9,9 @@ status: stub
 
 # MOC — ERC Synergy Grant
 
-Project hub for grant-facing material. Kept distinct from the book hub so that ideas shared across both are linked, not duplicated: an atomic note keeps `project: clearing-settling-realm` and is *linked* from here when it also serves the grant.
+Project hub for grant-facing material. Kept distinct from the book hub so that ideas shared across both are linked, not duplicated: an atomic note keeps `project: HistorEE` and is *linked* from here when it also serves the grant.
 
-The Part 2 WP1 session's *ideas* are written as atomic notes (below) and kept under `project: clearing-settling-realm`, linked here because they also serve the grant. The grant *editing mechanics* are deliberately excluded.
+The Part 2 WP1 session's *ideas* are written as atomic notes (below) and kept under `project: HistorEE`, linked here because they also serve the grant. The grant *editing mechanics* are deliberately excluded.
 
 ## Notes (from Part 2 WP1)
 

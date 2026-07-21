@@ -2,7 +2,7 @@
 title: Route Kolmogorov to ergodic theory not the theory of means
 type: permanent
 tags: [ergodicity, ergodic-hygiene, ensemble-average, time-average]
-project: clearing-settling-realm
+project: HistorEE
 source-session: ensemble-vs-time-average
 created: 2026-07-20
 status: seed

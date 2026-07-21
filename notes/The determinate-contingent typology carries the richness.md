@@ -2,7 +2,7 @@
 title: The determinate-contingent typology carries the richness
 type: permanent
 tags: [determinate-contingent, gharar, qingzhong, general-average, comparative]
-project: clearing-settling-realm
+project: HistorEE
 source-session: part-2-wp1-editing
 created: 2026-07-20
 status: seed

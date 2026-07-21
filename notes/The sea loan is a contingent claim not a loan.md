@@ -2,7 +2,7 @@
 title: The sea loan is a contingent claim not a loan
 type: permanent
 tags: [sea-loan, bottomry, foenus-nauticum, contingent-claim, risk-pricing]
-project: clearing-settling-realm
+project: HistorEE
 source-session: ron-harris-tradeoffs
 created: 2026-07-20
 status: seed

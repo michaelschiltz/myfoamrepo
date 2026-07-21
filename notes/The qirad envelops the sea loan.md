@@ -2,7 +2,7 @@
 title: The qirad envelops the sea loan
 type: permanent
 tags: [qirad, mudaraba, commenda, risk-sharing, pls]
-project: clearing-settling-realm
+project: HistorEE
 source-session: ron-harris-tradeoffs
 created: 2026-07-20
 status: seed

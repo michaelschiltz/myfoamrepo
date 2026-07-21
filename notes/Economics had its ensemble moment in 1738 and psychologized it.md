@@ -2,7 +2,7 @@
 title: Economics had its ensemble moment in 1738 and psychologized it
 type: permanent
 tags: [ensemble-average, time-average, kolmogorov-nagumo, expected-utility, ergodicity]
-project: clearing-settling-realm
+project: HistorEE
 source-session: ensemble-vs-time-average
 created: 2026-07-20
 status: seed

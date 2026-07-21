@@ -2,7 +2,7 @@
 title: Scuttling rewards fraud in the sea loan
 type: permanent
 tags: [moral-hazard, gharar, verification, ghishsh, khiyana, comparative]
-project: clearing-settling-realm
+project: HistorEE
 source-session: ron-harris-tradeoffs
 created: 2026-07-20
 status: seed

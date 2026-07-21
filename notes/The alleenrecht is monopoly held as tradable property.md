@@ -2,7 +2,7 @@
 title: The alleenrecht is monopoly held as tradable property
 type: permanent
 tags: [naties, alleenrecht, asset-partitioning, monopoly-franchise, entity-shielding]
-project: clearing-settling-realm
+project: HistorEE
 source-session: nacion-flamenca-integration
 created: 2026-07-20
 status: seed
