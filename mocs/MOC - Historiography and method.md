@@ -19,6 +19,7 @@ Thematic hub for the project's methodological guardrails: teleology and its inve
 - [[Guard against reverse-teleology]]
 - [[Kuran's brake is a refusal of immortal entities]]
 - [[Selection frequency trades against organizational memory]]
+- [[The durable-and-coupled cell is the underexplored one]]
 - [[The liability principle was demoted from rule to maxim]]
 - [[Transmission versus independent recurrence is the load-bearing test]]
 - [[The ortoq is the discriminating instrument]]

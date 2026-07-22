@@ -18,9 +18,13 @@ Neither term dominates. The trade is **selection frequency against organizationa
 
 This is not a third axis. It is the epistemic face of temporal binding: lock-in buys memory and pays in selection frequency, exactly as outcome-coupling buys legibility and pays in scale. Each axis therefore carries a normative and an epistemic face — temporal binding: perpetuity, and memory against pruning; outcome-coupling: entitlement, and legibility. That symmetry is what makes the framework a *decomposition* rather than a preference, and it is the reason it can state the trade-off without ranking the terms.
 
+**Qualifier — the axes are not independent.** Memory is an asset only *conditional on legibility*. If what an organization records, codifies, and transmits is proxy-performance rather than outcome-performance, then memory preserves and propagates error instead of correcting it. Low coupling combined with high memory is therefore not a fair trade against high coupling and low memory; it is **institutionalized error equipped with an apparatus for reproducing itself**. Outcome-coupling conditions the value of temporal binding, and the corporation's side of the ledger is weaker than the symmetric reading above suggests. See [[Decoupling substitutes proxy legibility for outcome legibility]].
+
 ## Links
 
 - [[Outcome-coupling is the condition of legibility]]
+- [[Decoupling substitutes proxy legibility for outcome legibility]]
+- [[The durable-and-coupled cell is the underexplored one]]
 - [[Lock-in and outcome-coupling are distinct bindings]]
 - [[Kuran's brake is a refusal of immortal entities]]
 - [[Guard against reverse-teleology]]

@@ -33,7 +33,7 @@ Keep tags lowercase, hyphenated, singular. Before coining a new tag, check this 
 
 ## Method / historiography
 
-`comparative` · `teleology` · `survivorship-bias` · `selection` · `transmission` · `whiggism` · `historiography` · `independent-recurrence` · `convergence-pair` · `ortoq` · `sasanian` · `qingzhong` · `determinate-contingent`
+`comparative` · `teleology` · `survivorship-bias` · `selection` · `legibility` · `organizational-memory` · `transmission` · `whiggism` · `historiography` · `independent-recurrence` · `convergence-pair` · `ortoq` · `sasanian` · `qingzhong` · `determinate-contingent`
 
 ## Structural
 

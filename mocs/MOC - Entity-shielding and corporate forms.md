@@ -21,6 +21,8 @@ Thematic hub for the corporate-form apparatus: asset-partitioning, identity-wrap
 - [[Entitlement by liability versus entitlement by membership]]
 - [[Persona ficta made the corporation a-moral ab initio]]
 - [[The waqf partition converts absence into refusal]]
+- [[Decoupling substitutes proxy legibility for outcome legibility]]
+- [[The durable-and-coupled cell is the underexplored one]]
 - [[Natie is a false cognate]]
 - [[The alleenrecht is monopoly held as tradable property]]
 - [[The naties are a six-century Lindy institution]]
