@@ -5,6 +5,7 @@ digraph vault {
   "Skin in the game" [fillcolor="#8aa0ad", fontcolor=white];
   "The waqf partition converts absence into refusal" [fillcolor="#2f80a8", fontcolor=white];
   "The mudaraba is revocable not locked in" [fillcolor="#2f80a8", fontcolor=white];
+  "Decoupling substitutes proxy legibility for outcome legibility" [fillcolor="#2f80a8", fontcolor=white];
   "Mare Liberum was a corporate legal weapon" [fillcolor="#2f80a8", fontcolor=white];
   "Kuran's brake is a refusal of immortal entities" [fillcolor="#2f80a8", fontcolor=white];
   "Identity-wrapper and perpetual-monopoly are distinct shielding facets" [fillcolor="#2f80a8", fontcolor=white];
@@ -43,6 +44,7 @@ digraph vault {
   "The qirad envelops the sea loan" [fillcolor="#2f80a8", fontcolor=white];
   "Whiggish history of finance names the ascent narrative" [fillcolor="#2f80a8", fontcolor=white];
   "Persona ficta made the corporation a-moral ab initio" [fillcolor="#2f80a8", fontcolor=white];
+  "The durable-and-coupled cell is the underexplored one" [fillcolor="#2f80a8", fontcolor=white];
   "Guard against reverse-teleology" [fillcolor="#2f80a8", fontcolor=white];
   "Time-average optimization is a survivorship property not an intention" [fillcolor="#2f80a8", fontcolor=white];
   "MOC - Entity-shielding and corporate forms" [fillcolor="#b3541e", fontcolor=white];
@@ -59,6 +61,13 @@ digraph vault {
   "Absorbing barrier" -> "Skin in the game";
   "Absorbing barrier" -> "The four-step decoupling from participation to the veil";
   "Absorbing barrier" -> "Time-average";
+  "Decoupling substitutes proxy legibility for outcome legibility" -> "MOC - Entity-shielding and corporate forms";
+  "Decoupling substitutes proxy legibility for outcome legibility" -> "MOC - HistorEE";
+  "Decoupling substitutes proxy legibility for outcome legibility" -> "MOC - Risk-sharing vs risk-pricing";
+  "Decoupling substitutes proxy legibility for outcome legibility" -> "Outcome-coupling is the condition of legibility";
+  "Decoupling substitutes proxy legibility for outcome legibility" -> "Selection frequency trades against organizational memory";
+  "Decoupling substitutes proxy legibility for outcome legibility" -> "The durable-and-coupled cell is the underexplored one";
+  "Decoupling substitutes proxy legibility for outcome legibility" -> "The four-step decoupling from participation to the veil";
   "Discipline the Whig epithet by pinning it to teleology and survivorship" -> "Guard against reverse-teleology";
   "Discipline the Whig epithet by pinning it to teleology and survivorship" -> "MOC - HistorEE";
   "Discipline the Whig epithet by pinning it to teleology and survivorship" -> "MOC - Historiography and method";
@@ -120,6 +129,7 @@ digraph vault {
   "MOC - ERC Synergy Grant" -> "The ortoq is the discriminating instrument";
   "MOC - ERC Synergy Grant" -> "The qirad's antecedents are Sasanian not Sogdian";
   "MOC - ERC Synergy Grant" -> "Transmission versus independent recurrence is the load-bearing test";
+  "MOC - Entity-shielding and corporate forms" -> "Decoupling substitutes proxy legibility for outcome legibility";
   "MOC - Entity-shielding and corporate forms" -> "Entitlement by liability versus entitlement by membership";
   "MOC - Entity-shielding and corporate forms" -> "Entity-shielding";
   "MOC - Entity-shielding and corporate forms" -> "Identity-wrapper and perpetual-monopoly are distinct shielding facets";
@@ -133,6 +143,7 @@ digraph vault {
   "MOC - Entity-shielding and corporate forms" -> "Natie is a false cognate";
   "MOC - Entity-shielding and corporate forms" -> "Persona ficta made the corporation a-moral ab initio";
   "MOC - Entity-shielding and corporate forms" -> "The alleenrecht is monopoly held as tradable property";
+  "MOC - Entity-shielding and corporate forms" -> "The durable-and-coupled cell is the underexplored one";
   "MOC - Entity-shielding and corporate forms" -> "The four-step decoupling from participation to the veil";
   "MOC - Entity-shielding and corporate forms" -> "The ie as entity-shielding";
   "MOC - Entity-shielding and corporate forms" -> "The naties are a six-century Lindy institution";
@@ -197,6 +208,7 @@ digraph vault {
   "MOC - Historiography and method" -> "MOC - HistorEE";
   "MOC - Historiography and method" -> "Selection frequency trades against organizational memory";
   "MOC - Historiography and method" -> "The ascent narrative is the Jensen error as historiography";
+  "MOC - Historiography and method" -> "The durable-and-coupled cell is the underexplored one";
   "MOC - Historiography and method" -> "The liability principle was demoted from rule to maxim";
   "MOC - Historiography and method" -> "The ortoq is the discriminating instrument";
   "MOC - Historiography and method" -> "The qirad's antecedents are Sasanian not Sogdian";
@@ -214,6 +226,7 @@ digraph vault {
   "MOC - Islamic contract doctrine" -> "The qirad envelops the sea loan";
   "MOC - Islamic contract doctrine" -> "The qirad's antecedents are Sasanian not Sogdian";
   "MOC - Islamic contract doctrine" -> "The waqf partition converts absence into refusal";
+  "MOC - Risk-sharing vs risk-pricing" -> "Decoupling substitutes proxy legibility for outcome legibility";
   "MOC - Risk-sharing vs risk-pricing" -> "Lock-in and outcome-coupling are distinct bindings";
   "MOC - Risk-sharing vs risk-pricing" -> "MOC - Ergodicity and the time-ensemble distinction";
   "MOC - Risk-sharing vs risk-pricing" -> "MOC - HistorEE";
@@ -275,12 +288,14 @@ digraph vault {
   "Scuttling rewards fraud in the sea loan" -> "MOC - Islamic contract doctrine";
   "Scuttling rewards fraud in the sea loan" -> "The qirad envelops the sea loan";
   "Scuttling rewards fraud in the sea loan" -> "The sea loan is a contingent claim not a loan";
+  "Selection frequency trades against organizational memory" -> "Decoupling substitutes proxy legibility for outcome legibility";
   "Selection frequency trades against organizational memory" -> "Guard against reverse-teleology";
   "Selection frequency trades against organizational memory" -> "Kuran's brake is a refusal of immortal entities";
   "Selection frequency trades against organizational memory" -> "Lock-in and outcome-coupling are distinct bindings";
   "Selection frequency trades against organizational memory" -> "MOC - HistorEE";
   "Selection frequency trades against organizational memory" -> "MOC - Historiography and method";
   "Selection frequency trades against organizational memory" -> "Outcome-coupling is the condition of legibility";
+  "Selection frequency trades against organizational memory" -> "The durable-and-coupled cell is the underexplored one";
   "Separate the genetic and the methodological claims about economics" -> "Economics had its ensemble moment in 1738 and psychologized it";
   "Separate the genetic and the methodological claims about economics" -> "MOC - Ergodicity and the time-ensemble distinction";
   "Separate the genetic and the methodological claims about economics" -> "MOC - HistorEE";
@@ -315,6 +330,14 @@ digraph vault {
   "The determinate-contingent typology carries the richness" -> "MOC - HistorEE";
   "The determinate-contingent typology carries the richness" -> "MOC - Risk-sharing vs risk-pricing";
   "The determinate-contingent typology carries the richness" -> "Transmission versus independent recurrence is the load-bearing test";
+  "The durable-and-coupled cell is the underexplored one" -> "Decoupling substitutes proxy legibility for outcome legibility";
+  "The durable-and-coupled cell is the underexplored one" -> "Lock-in and outcome-coupling are distinct bindings";
+  "The durable-and-coupled cell is the underexplored one" -> "MOC - Entity-shielding and corporate forms";
+  "The durable-and-coupled cell is the underexplored one" -> "MOC - HistorEE";
+  "The durable-and-coupled cell is the underexplored one" -> "MOC - Historiography and method";
+  "The durable-and-coupled cell is the underexplored one" -> "Selection frequency trades against organizational memory";
+  "The durable-and-coupled cell is the underexplored one" -> "The ie as entity-shielding";
+  "The durable-and-coupled cell is the underexplored one" -> "The naties are a six-century Lindy institution";
   "The ensemble average is the local descriptor of a barrier-shielded agent" -> "Absorbing barrier";
   "The ensemble average is the local descriptor of a barrier-shielded agent" -> "Entity-shielding";
   "The ensemble average is the local descriptor of a barrier-shielded agent" -> "MOC - Entity-shielding and corporate forms";

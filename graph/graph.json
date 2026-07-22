@@ -33,6 +33,14 @@
       "color": "#2f80a8"
     },
     {
+      "id": "Decoupling substitutes proxy legibility for outcome legibility",
+      "type": "permanent",
+      "group": "seed",
+      "label": "Decoupling substitutes proxy legibility for outcome legibility",
+      "value": 13,
+      "color": "#2f80a8"
+    },
+    {
       "id": "Mare Liberum was a corporate legal weapon",
       "type": "permanent",
       "group": "seed",
@@ -85,7 +93,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Selection frequency trades against organizational memory",
-      "value": 10,
+      "value": 15,
       "color": "#2f80a8"
     },
     {
@@ -117,7 +125,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Lock-in and outcome-coupling are distinct bindings",
-      "value": 20,
+      "value": 21,
       "color": "#2f80a8"
     },
     {
@@ -133,7 +141,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The four-step decoupling from participation to the veil",
-      "value": 16,
+      "value": 17,
       "color": "#2f80a8"
     },
     {
@@ -205,7 +213,7 @@
       "type": "permanent",
       "group": "stub",
       "label": "The ie as entity-shielding",
-      "value": 13,
+      "value": 14,
       "color": "#8aa0ad"
     },
     {
@@ -213,7 +221,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The naties are a six-century Lindy institution",
-      "value": 11,
+      "value": 12,
       "color": "#2f80a8"
     },
     {
@@ -261,7 +269,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Outcome-coupling is the condition of legibility",
-      "value": 9,
+      "value": 10,
       "color": "#2f80a8"
     },
     {
@@ -337,6 +345,14 @@
       "color": "#2f80a8"
     },
     {
+      "id": "The durable-and-coupled cell is the underexplored one",
+      "type": "permanent",
+      "group": "seed",
+      "label": "The durable-and-coupled cell is the underexplored one",
+      "value": 13,
+      "color": "#2f80a8"
+    },
+    {
       "id": "Guard against reverse-teleology",
       "type": "permanent",
       "group": "seed",
@@ -357,7 +373,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Entity-shielding and corporate forms",
-      "value": 38,
+      "value": 42,
       "color": "#b3541e"
     },
     {
@@ -373,7 +389,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Risk-sharing vs risk-pricing",
-      "value": 28,
+      "value": 30,
       "color": "#b3541e"
     },
     {
@@ -389,7 +405,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Historiography and method",
-      "value": 24,
+      "value": 26,
       "color": "#b3541e"
     },
     {
@@ -405,7 +421,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - HistorEE",
-      "value": 77,
+      "value": 79,
       "color": "#b3541e"
     },
     {
@@ -443,6 +459,34 @@
       "to": "Time-average"
     },
     {
+      "from": "Decoupling substitutes proxy legibility for outcome legibility",
+      "to": "MOC - Entity-shielding and corporate forms"
+    },
+    {
+      "from": "Decoupling substitutes proxy legibility for outcome legibility",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Decoupling substitutes proxy legibility for outcome legibility",
+      "to": "MOC - Risk-sharing vs risk-pricing"
+    },
+    {
+      "from": "Decoupling substitutes proxy legibility for outcome legibility",
+      "to": "Outcome-coupling is the condition of legibility"
+    },
+    {
+      "from": "Decoupling substitutes proxy legibility for outcome legibility",
+      "to": "Selection frequency trades against organizational memory"
+    },
+    {
+      "from": "Decoupling substitutes proxy legibility for outcome legibility",
+      "to": "The durable-and-coupled cell is the underexplored one"
+    },
+    {
+      "from": "Decoupling substitutes proxy legibility for outcome legibility",
+      "to": "The four-step decoupling from participation to the veil"
+    },
+    {
       "from": "Discipline the Whig epithet by pinning it to teleology and survivorship",
       "to": "Guard against reverse-teleology"
     },
@@ -688,6 +732,10 @@
     },
     {
       "from": "MOC - Entity-shielding and corporate forms",
+      "to": "Decoupling substitutes proxy legibility for outcome legibility"
+    },
+    {
+      "from": "MOC - Entity-shielding and corporate forms",
       "to": "Entitlement by liability versus entitlement by membership"
     },
     {
@@ -737,6 +785,10 @@
     {
       "from": "MOC - Entity-shielding and corporate forms",
       "to": "The alleenrecht is monopoly held as tradable property"
+    },
+    {
+      "from": "MOC - Entity-shielding and corporate forms",
+      "to": "The durable-and-coupled cell is the underexplored one"
     },
     {
       "from": "MOC - Entity-shielding and corporate forms",
@@ -996,6 +1048,10 @@
     },
     {
       "from": "MOC - Historiography and method",
+      "to": "The durable-and-coupled cell is the underexplored one"
+    },
+    {
+      "from": "MOC - Historiography and method",
       "to": "The liability principle was demoted from rule to maxim"
     },
     {
@@ -1061,6 +1117,10 @@
     {
       "from": "MOC - Islamic contract doctrine",
       "to": "The waqf partition converts absence into refusal"
+    },
+    {
+      "from": "MOC - Risk-sharing vs risk-pricing",
+      "to": "Decoupling substitutes proxy legibility for outcome legibility"
     },
     {
       "from": "MOC - Risk-sharing vs risk-pricing",
@@ -1308,6 +1368,10 @@
     },
     {
       "from": "Selection frequency trades against organizational memory",
+      "to": "Decoupling substitutes proxy legibility for outcome legibility"
+    },
+    {
+      "from": "Selection frequency trades against organizational memory",
       "to": "Guard against reverse-teleology"
     },
     {
@@ -1329,6 +1393,10 @@
     {
       "from": "Selection frequency trades against organizational memory",
       "to": "Outcome-coupling is the condition of legibility"
+    },
+    {
+      "from": "Selection frequency trades against organizational memory",
+      "to": "The durable-and-coupled cell is the underexplored one"
     },
     {
       "from": "Separate the genetic and the methodological claims about economics",
@@ -1465,6 +1533,38 @@
     {
       "from": "The determinate-contingent typology carries the richness",
       "to": "Transmission versus independent recurrence is the load-bearing test"
+    },
+    {
+      "from": "The durable-and-coupled cell is the underexplored one",
+      "to": "Decoupling substitutes proxy legibility for outcome legibility"
+    },
+    {
+      "from": "The durable-and-coupled cell is the underexplored one",
+      "to": "Lock-in and outcome-coupling are distinct bindings"
+    },
+    {
+      "from": "The durable-and-coupled cell is the underexplored one",
+      "to": "MOC - Entity-shielding and corporate forms"
+    },
+    {
+      "from": "The durable-and-coupled cell is the underexplored one",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "The durable-and-coupled cell is the underexplored one",
+      "to": "MOC - Historiography and method"
+    },
+    {
+      "from": "The durable-and-coupled cell is the underexplored one",
+      "to": "Selection frequency trades against organizational memory"
+    },
+    {
+      "from": "The durable-and-coupled cell is the underexplored one",
+      "to": "The ie as entity-shielding"
+    },
+    {
+      "from": "The durable-and-coupled cell is the underexplored one",
+      "to": "The naties are a six-century Lindy institution"
     },
     {
       "from": "The ensemble average is the local descriptor of a barrier-shielded agent",
