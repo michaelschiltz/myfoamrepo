@@ -17,6 +17,7 @@ Thematic hub for the project's methodological guardrails: teleology and its inve
 - [[The ascent narrative is the Jensen error as historiography]]
 - [[Discipline the Whig epithet by pinning it to teleology and survivorship]]
 - [[Guard against reverse-teleology]]
+- [[Kuran's brake is a refusal of immortal entities]]
 - [[Transmission versus independent recurrence is the load-bearing test]]
 - [[The ortoq is the discriminating instrument]]
 - [[The qirad's antecedents are Sasanian not Sogdian]]

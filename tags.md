@@ -21,7 +21,7 @@ Keep tags lowercase, hyphenated, singular. Before coining a new tag, check this 
 
 ## Corporate form / shielding
 
-`entity-shielding` · `asset-partitioning` · `corporate-form` · `charter` · `limited-liability` · `decoupling` · `joint-stock` · `force-economizing` · `naties` · `alleenrecht` · `kabu-nakama` · `monopoly-franchise` · `identity-wrapper` · `ie` · `lindy`
+`entity-shielding` · `asset-partitioning` · `corporate-form` · `charter` · `capital-lock-in` · `perpetual-succession` · `limited-liability` · `decoupling` · `joint-stock` · `force-economizing` · `naties` · `alleenrecht` · `kabu-nakama` · `monopoly-franchise` · `identity-wrapper` · `ie` · `lindy`
 
 ## Islamic contract doctrine
 

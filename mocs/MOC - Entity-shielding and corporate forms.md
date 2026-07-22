@@ -17,6 +17,7 @@ Thematic hub for the corporate-form apparatus: asset-partitioning, identity-wrap
 - [[Legal violence is the weapon of the militarily insufficient]]
 - [[Mare Liberum was a corporate legal weapon]]
 - [[The four-step decoupling from participation to the veil]]
+- [[Lock-in and outcome-coupling are distinct bindings]]
 - [[Natie is a false cognate]]
 - [[The alleenrecht is monopoly held as tradable property]]
 - [[The naties are a six-century Lindy institution]]
