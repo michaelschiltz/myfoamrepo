@@ -13,15 +13,23 @@
       "type": "permanent",
       "group": "stub",
       "label": "Skin in the game",
-      "value": 14,
+      "value": 16,
       "color": "#8aa0ad"
+    },
+    {
+      "id": "The waqf partition converts absence into refusal",
+      "type": "permanent",
+      "group": "seed",
+      "label": "The waqf partition converts absence into refusal",
+      "value": 11,
+      "color": "#2f80a8"
     },
     {
       "id": "The mudaraba is revocable not locked in",
       "type": "permanent",
       "group": "seed",
       "label": "The mudaraba is revocable not locked in",
-      "value": 12,
+      "value": 13,
       "color": "#2f80a8"
     },
     {
@@ -37,7 +45,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Kuran's brake is a refusal of immortal entities",
-      "value": 11,
+      "value": 13,
       "color": "#2f80a8"
     },
     {
@@ -73,6 +81,14 @@
       "color": "#2f80a8"
     },
     {
+      "id": "Selection frequency trades against organizational memory",
+      "type": "permanent",
+      "group": "seed",
+      "label": "Selection frequency trades against organizational memory",
+      "value": 10,
+      "color": "#2f80a8"
+    },
+    {
       "id": "The ortoq is the discriminating instrument",
       "type": "permanent",
       "group": "seed",
@@ -101,7 +117,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Lock-in and outcome-coupling are distinct bindings",
-      "value": 16,
+      "value": 20,
       "color": "#2f80a8"
     },
     {
@@ -117,7 +133,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The four-step decoupling from participation to the veil",
-      "value": 15,
+      "value": 16,
       "color": "#2f80a8"
     },
     {
@@ -126,6 +142,14 @@
       "group": "seed",
       "label": "Scuttling rewards fraud in the sea loan",
       "value": 10,
+      "color": "#2f80a8"
+    },
+    {
+      "id": "Entitlement by liability versus entitlement by membership",
+      "type": "permanent",
+      "group": "seed",
+      "label": "Entitlement by liability versus entitlement by membership",
+      "value": 13,
       "color": "#2f80a8"
     },
     {
@@ -173,7 +197,7 @@
       "type": "permanent",
       "group": "stub",
       "label": "Entity-shielding",
-      "value": 24,
+      "value": 25,
       "color": "#8aa0ad"
     },
     {
@@ -197,6 +221,14 @@
       "type": "permanent",
       "group": "seed",
       "label": "Economics had its ensemble moment in 1738 and psychologized it",
+      "value": 11,
+      "color": "#2f80a8"
+    },
+    {
+      "id": "The liability principle was demoted from rule to maxim",
+      "type": "permanent",
+      "group": "seed",
+      "label": "The liability principle was demoted from rule to maxim",
       "value": 11,
       "color": "#2f80a8"
     },
@@ -225,6 +257,14 @@
       "color": "#2f80a8"
     },
     {
+      "id": "Outcome-coupling is the condition of legibility",
+      "type": "permanent",
+      "group": "seed",
+      "label": "Outcome-coupling is the condition of legibility",
+      "value": 9,
+      "color": "#2f80a8"
+    },
+    {
       "id": "Islamic doctrine refuses risk-commodification at step one",
       "type": "permanent",
       "group": "seed",
@@ -237,7 +277,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The sea loan is a contingent claim not a loan",
-      "value": 13,
+      "value": 14,
       "color": "#2f80a8"
     },
     {
@@ -245,7 +285,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Pricing risk does not remove it",
-      "value": 15,
+      "value": 16,
       "color": "#2f80a8"
     },
     {
@@ -289,11 +329,19 @@
       "color": "#2f80a8"
     },
     {
+      "id": "Persona ficta made the corporation a-moral ab initio",
+      "type": "permanent",
+      "group": "seed",
+      "label": "Persona ficta made the corporation a-moral ab initio",
+      "value": 11,
+      "color": "#2f80a8"
+    },
+    {
       "id": "Guard against reverse-teleology",
       "type": "permanent",
       "group": "seed",
       "label": "Guard against reverse-teleology",
-      "value": 11,
+      "value": 13,
       "color": "#2f80a8"
     },
     {
@@ -309,7 +357,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Entity-shielding and corporate forms",
-      "value": 32,
+      "value": 38,
       "color": "#b3541e"
     },
     {
@@ -325,7 +373,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Risk-sharing vs risk-pricing",
-      "value": 24,
+      "value": 28,
       "color": "#b3541e"
     },
     {
@@ -341,7 +389,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Historiography and method",
-      "value": 20,
+      "value": 24,
       "color": "#b3541e"
     },
     {
@@ -349,7 +397,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Islamic contract doctrine",
-      "value": 21,
+      "value": 25,
       "color": "#b3541e"
     },
     {
@@ -357,7 +405,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - HistorEE",
-      "value": 71,
+      "value": 77,
       "color": "#b3541e"
     },
     {
@@ -431,6 +479,34 @@
       "to": "Time-average"
     },
     {
+      "from": "Entitlement by liability versus entitlement by membership",
+      "to": "Lock-in and outcome-coupling are distinct bindings"
+    },
+    {
+      "from": "Entitlement by liability versus entitlement by membership",
+      "to": "MOC - Entity-shielding and corporate forms"
+    },
+    {
+      "from": "Entitlement by liability versus entitlement by membership",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Entitlement by liability versus entitlement by membership",
+      "to": "MOC - Islamic contract doctrine"
+    },
+    {
+      "from": "Entitlement by liability versus entitlement by membership",
+      "to": "Persona ficta made the corporation a-moral ab initio"
+    },
+    {
+      "from": "Entitlement by liability versus entitlement by membership",
+      "to": "Skin in the game"
+    },
+    {
+      "from": "Entitlement by liability versus entitlement by membership",
+      "to": "The liability principle was demoted from rule to maxim"
+    },
+    {
       "from": "Entity-shielding",
       "to": "Absorbing barrier"
     },
@@ -612,6 +688,10 @@
     },
     {
       "from": "MOC - Entity-shielding and corporate forms",
+      "to": "Entitlement by liability versus entitlement by membership"
+    },
+    {
+      "from": "MOC - Entity-shielding and corporate forms",
       "to": "Entity-shielding"
     },
     {
@@ -652,6 +732,10 @@
     },
     {
       "from": "MOC - Entity-shielding and corporate forms",
+      "to": "Persona ficta made the corporation a-moral ab initio"
+    },
+    {
+      "from": "MOC - Entity-shielding and corporate forms",
       "to": "The alleenrecht is monopoly held as tradable property"
     },
     {
@@ -669,6 +753,10 @@
     {
       "from": "MOC - Entity-shielding and corporate forms",
       "to": "The real cut is shielded-and-pooled versus unshielded"
+    },
+    {
+      "from": "MOC - Entity-shielding and corporate forms",
+      "to": "The waqf partition converts absence into refusal"
     },
     {
       "from": "MOC - Ergodicity and the time-ensemble distinction",
@@ -900,7 +988,15 @@
     },
     {
       "from": "MOC - Historiography and method",
+      "to": "Selection frequency trades against organizational memory"
+    },
+    {
+      "from": "MOC - Historiography and method",
       "to": "The ascent narrative is the Jensen error as historiography"
+    },
+    {
+      "from": "MOC - Historiography and method",
+      "to": "The liability principle was demoted from rule to maxim"
     },
     {
       "from": "MOC - Historiography and method",
@@ -917,6 +1013,10 @@
     {
       "from": "MOC - Historiography and method",
       "to": "Whiggish history of finance names the ascent narrative"
+    },
+    {
+      "from": "MOC - Islamic contract doctrine",
+      "to": "Entitlement by liability versus entitlement by membership"
     },
     {
       "from": "MOC - Islamic contract doctrine",
@@ -959,6 +1059,10 @@
       "to": "The qirad's antecedents are Sasanian not Sogdian"
     },
     {
+      "from": "MOC - Islamic contract doctrine",
+      "to": "The waqf partition converts absence into refusal"
+    },
+    {
       "from": "MOC - Risk-sharing vs risk-pricing",
       "to": "Lock-in and outcome-coupling are distinct bindings"
     },
@@ -980,6 +1084,10 @@
     },
     {
       "from": "MOC - Risk-sharing vs risk-pricing",
+      "to": "Outcome-coupling is the condition of legibility"
+    },
+    {
+      "from": "MOC - Risk-sharing vs risk-pricing",
       "to": "Pricing risk does not remove it"
     },
     {
@@ -993,6 +1101,10 @@
     {
       "from": "MOC - Risk-sharing vs risk-pricing",
       "to": "The determinate-contingent typology carries the richness"
+    },
+    {
+      "from": "MOC - Risk-sharing vs risk-pricing",
+      "to": "The liability principle was demoted from rule to maxim"
     },
     {
       "from": "MOC - Risk-sharing vs risk-pricing",
@@ -1087,6 +1199,54 @@
       "to": "The sea loan is a contingent claim not a loan"
     },
     {
+      "from": "Outcome-coupling is the condition of legibility",
+      "to": "Entitlement by liability versus entitlement by membership"
+    },
+    {
+      "from": "Outcome-coupling is the condition of legibility",
+      "to": "Lock-in and outcome-coupling are distinct bindings"
+    },
+    {
+      "from": "Outcome-coupling is the condition of legibility",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Outcome-coupling is the condition of legibility",
+      "to": "MOC - Risk-sharing vs risk-pricing"
+    },
+    {
+      "from": "Outcome-coupling is the condition of legibility",
+      "to": "Pricing risk does not remove it"
+    },
+    {
+      "from": "Outcome-coupling is the condition of legibility",
+      "to": "Selection frequency trades against organizational memory"
+    },
+    {
+      "from": "Persona ficta made the corporation a-moral ab initio",
+      "to": "Entitlement by liability versus entitlement by membership"
+    },
+    {
+      "from": "Persona ficta made the corporation a-moral ab initio",
+      "to": "Entity-shielding"
+    },
+    {
+      "from": "Persona ficta made the corporation a-moral ab initio",
+      "to": "MOC - Entity-shielding and corporate forms"
+    },
+    {
+      "from": "Persona ficta made the corporation a-moral ab initio",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Persona ficta made the corporation a-moral ab initio",
+      "to": "The four-step decoupling from participation to the veil"
+    },
+    {
+      "from": "Persona ficta made the corporation a-moral ab initio",
+      "to": "The waqf partition converts absence into refusal"
+    },
+    {
       "from": "Pricing risk does not remove it",
       "to": "Absorbing barrier"
     },
@@ -1145,6 +1305,30 @@
     {
       "from": "Scuttling rewards fraud in the sea loan",
       "to": "The sea loan is a contingent claim not a loan"
+    },
+    {
+      "from": "Selection frequency trades against organizational memory",
+      "to": "Guard against reverse-teleology"
+    },
+    {
+      "from": "Selection frequency trades against organizational memory",
+      "to": "Kuran's brake is a refusal of immortal entities"
+    },
+    {
+      "from": "Selection frequency trades against organizational memory",
+      "to": "Lock-in and outcome-coupling are distinct bindings"
+    },
+    {
+      "from": "Selection frequency trades against organizational memory",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Selection frequency trades against organizational memory",
+      "to": "MOC - Historiography and method"
+    },
+    {
+      "from": "Selection frequency trades against organizational memory",
+      "to": "Outcome-coupling is the condition of legibility"
     },
     {
       "from": "Separate the genetic and the methodological claims about economics",
@@ -1355,6 +1539,34 @@
       "to": "The real cut is shielded-and-pooled versus unshielded"
     },
     {
+      "from": "The liability principle was demoted from rule to maxim",
+      "to": "Entitlement by liability versus entitlement by membership"
+    },
+    {
+      "from": "The liability principle was demoted from rule to maxim",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "The liability principle was demoted from rule to maxim",
+      "to": "MOC - Historiography and method"
+    },
+    {
+      "from": "The liability principle was demoted from rule to maxim",
+      "to": "MOC - Risk-sharing vs risk-pricing"
+    },
+    {
+      "from": "The liability principle was demoted from rule to maxim",
+      "to": "Persona ficta made the corporation a-moral ab initio"
+    },
+    {
+      "from": "The liability principle was demoted from rule to maxim",
+      "to": "Skin in the game"
+    },
+    {
+      "from": "The liability principle was demoted from rule to maxim",
+      "to": "The sea loan is a contingent claim not a loan"
+    },
+    {
       "from": "The mudaraba is revocable not locked in",
       "to": "Islamic doctrine refuses risk-commodification at step one"
     },
@@ -1509,6 +1721,34 @@
     {
       "from": "The sea loan is a contingent claim not a loan",
       "to": "The qirad envelops the sea loan"
+    },
+    {
+      "from": "The waqf partition converts absence into refusal",
+      "to": "Kuran's brake is a refusal of immortal entities"
+    },
+    {
+      "from": "The waqf partition converts absence into refusal",
+      "to": "Lock-in and outcome-coupling are distinct bindings"
+    },
+    {
+      "from": "The waqf partition converts absence into refusal",
+      "to": "MOC - Entity-shielding and corporate forms"
+    },
+    {
+      "from": "The waqf partition converts absence into refusal",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "The waqf partition converts absence into refusal",
+      "to": "MOC - Islamic contract doctrine"
+    },
+    {
+      "from": "The waqf partition converts absence into refusal",
+      "to": "Persona ficta made the corporation a-moral ab initio"
+    },
+    {
+      "from": "The waqf partition converts absence into refusal",
+      "to": "The mudaraba is revocable not locked in"
     },
     {
       "from": "Time-average",
