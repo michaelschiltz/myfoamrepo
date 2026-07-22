@@ -5,7 +5,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The ascent narrative is the Jensen error as historiography",
-      "value": 11,
+      "value": 12,
       "color": "#2f80a8"
     },
     {
@@ -13,14 +13,30 @@
       "type": "permanent",
       "group": "stub",
       "label": "Skin in the game",
-      "value": 13,
+      "value": 14,
       "color": "#8aa0ad"
+    },
+    {
+      "id": "The mudaraba is revocable not locked in",
+      "type": "permanent",
+      "group": "seed",
+      "label": "The mudaraba is revocable not locked in",
+      "value": 12,
+      "color": "#2f80a8"
     },
     {
       "id": "Mare Liberum was a corporate legal weapon",
       "type": "permanent",
       "group": "seed",
       "label": "Mare Liberum was a corporate legal weapon",
+      "value": 11,
+      "color": "#2f80a8"
+    },
+    {
+      "id": "Kuran's brake is a refusal of immortal entities",
+      "type": "permanent",
+      "group": "seed",
+      "label": "Kuran's brake is a refusal of immortal entities",
       "value": 11,
       "color": "#2f80a8"
     },
@@ -39,6 +55,14 @@
       "label": "Absorbing barrier",
       "value": 16,
       "color": "#8aa0ad"
+    },
+    {
+      "id": "Skin in the game is asymmetric in the mudaraba",
+      "type": "permanent",
+      "group": "seed",
+      "label": "Skin in the game is asymmetric in the mudaraba",
+      "value": 12,
+      "color": "#2f80a8"
     },
     {
       "id": "Natie is a false cognate",
@@ -73,6 +97,14 @@
       "color": "#2f80a8"
     },
     {
+      "id": "Lock-in and outcome-coupling are distinct bindings",
+      "type": "permanent",
+      "group": "seed",
+      "label": "Lock-in and outcome-coupling are distinct bindings",
+      "value": 16,
+      "color": "#2f80a8"
+    },
+    {
       "id": "The real cut is shielded-and-pooled versus unshielded",
       "type": "permanent",
       "group": "seed",
@@ -85,7 +117,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The four-step decoupling from participation to the veil",
-      "value": 14,
+      "value": 15,
       "color": "#2f80a8"
     },
     {
@@ -93,7 +125,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Scuttling rewards fraud in the sea loan",
-      "value": 8,
+      "value": 10,
       "color": "#2f80a8"
     },
     {
@@ -141,7 +173,7 @@
       "type": "permanent",
       "group": "stub",
       "label": "Entity-shielding",
-      "value": 23,
+      "value": 24,
       "color": "#8aa0ad"
     },
     {
@@ -197,7 +229,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Islamic doctrine refuses risk-commodification at step one",
-      "value": 16,
+      "value": 17,
       "color": "#2f80a8"
     },
     {
@@ -245,7 +277,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The qirad envelops the sea loan",
-      "value": 16,
+      "value": 18,
       "color": "#2f80a8"
     },
     {
@@ -261,7 +293,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Guard against reverse-teleology",
-      "value": 9,
+      "value": 11,
       "color": "#2f80a8"
     },
     {
@@ -277,7 +309,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Entity-shielding and corporate forms",
-      "value": 30,
+      "value": 32,
       "color": "#b3541e"
     },
     {
@@ -293,7 +325,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Risk-sharing vs risk-pricing",
-      "value": 20,
+      "value": 24,
       "color": "#b3541e"
     },
     {
@@ -309,7 +341,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Historiography and method",
-      "value": 18,
+      "value": 20,
       "color": "#b3541e"
     },
     {
@@ -317,7 +349,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Islamic contract doctrine",
-      "value": 17,
+      "value": 21,
       "color": "#b3541e"
     },
     {
@@ -325,7 +357,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - HistorEE",
-      "value": 67,
+      "value": 71,
       "color": "#b3541e"
     },
     {
@@ -483,6 +515,30 @@
       "to": "Pricing risk does not remove it"
     },
     {
+      "from": "Kuran's brake is a refusal of immortal entities",
+      "to": "Guard against reverse-teleology"
+    },
+    {
+      "from": "Kuran's brake is a refusal of immortal entities",
+      "to": "Lock-in and outcome-coupling are distinct bindings"
+    },
+    {
+      "from": "Kuran's brake is a refusal of immortal entities",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Kuran's brake is a refusal of immortal entities",
+      "to": "MOC - Historiography and method"
+    },
+    {
+      "from": "Kuran's brake is a refusal of immortal entities",
+      "to": "The ascent narrative is the Jensen error as historiography"
+    },
+    {
+      "from": "Kuran's brake is a refusal of immortal entities",
+      "to": "The mudaraba is revocable not locked in"
+    },
+    {
       "from": "Legal violence is the weapon of the militarily insufficient",
       "to": "Entity-shielding"
     },
@@ -497,6 +553,34 @@
     {
       "from": "Legal violence is the weapon of the militarily insufficient",
       "to": "Mare Liberum was a corporate legal weapon"
+    },
+    {
+      "from": "Lock-in and outcome-coupling are distinct bindings",
+      "to": "Entity-shielding"
+    },
+    {
+      "from": "Lock-in and outcome-coupling are distinct bindings",
+      "to": "MOC - Entity-shielding and corporate forms"
+    },
+    {
+      "from": "Lock-in and outcome-coupling are distinct bindings",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Lock-in and outcome-coupling are distinct bindings",
+      "to": "MOC - Risk-sharing vs risk-pricing"
+    },
+    {
+      "from": "Lock-in and outcome-coupling are distinct bindings",
+      "to": "Skin in the game is asymmetric in the mudaraba"
+    },
+    {
+      "from": "Lock-in and outcome-coupling are distinct bindings",
+      "to": "The four-step decoupling from participation to the veil"
+    },
+    {
+      "from": "Lock-in and outcome-coupling are distinct bindings",
+      "to": "The mudaraba is revocable not locked in"
     },
     {
       "from": "MOC - ERC Synergy Grant",
@@ -537,6 +621,10 @@
     {
       "from": "MOC - Entity-shielding and corporate forms",
       "to": "Legal violence is the weapon of the militarily insufficient"
+    },
+    {
+      "from": "MOC - Entity-shielding and corporate forms",
+      "to": "Lock-in and outcome-coupling are distinct bindings"
     },
     {
       "from": "MOC - Entity-shielding and corporate forms",
@@ -800,6 +888,10 @@
     },
     {
       "from": "MOC - Historiography and method",
+      "to": "Kuran's brake is a refusal of immortal entities"
+    },
+    {
+      "from": "MOC - Historiography and method",
       "to": "MOC - ERC Synergy Grant"
     },
     {
@@ -848,7 +940,15 @@
     },
     {
       "from": "MOC - Islamic contract doctrine",
+      "to": "Skin in the game is asymmetric in the mudaraba"
+    },
+    {
+      "from": "MOC - Islamic contract doctrine",
       "to": "The determinate-contingent typology carries the richness"
+    },
+    {
+      "from": "MOC - Islamic contract doctrine",
+      "to": "The mudaraba is revocable not locked in"
     },
     {
       "from": "MOC - Islamic contract doctrine",
@@ -857,6 +957,10 @@
     {
       "from": "MOC - Islamic contract doctrine",
       "to": "The qirad's antecedents are Sasanian not Sogdian"
+    },
+    {
+      "from": "MOC - Risk-sharing vs risk-pricing",
+      "to": "Lock-in and outcome-coupling are distinct bindings"
     },
     {
       "from": "MOC - Risk-sharing vs risk-pricing",
@@ -881,6 +985,10 @@
     {
       "from": "MOC - Risk-sharing vs risk-pricing",
       "to": "Skin in the game"
+    },
+    {
+      "from": "MOC - Risk-sharing vs risk-pricing",
+      "to": "Skin in the game is asymmetric in the mudaraba"
     },
     {
       "from": "MOC - Risk-sharing vs risk-pricing",
@@ -1079,6 +1187,34 @@
       "to": "The qirad envelops the sea loan"
     },
     {
+      "from": "Skin in the game is asymmetric in the mudaraba",
+      "to": "Lock-in and outcome-coupling are distinct bindings"
+    },
+    {
+      "from": "Skin in the game is asymmetric in the mudaraba",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Skin in the game is asymmetric in the mudaraba",
+      "to": "MOC - Islamic contract doctrine"
+    },
+    {
+      "from": "Skin in the game is asymmetric in the mudaraba",
+      "to": "MOC - Risk-sharing vs risk-pricing"
+    },
+    {
+      "from": "Skin in the game is asymmetric in the mudaraba",
+      "to": "Scuttling rewards fraud in the sea loan"
+    },
+    {
+      "from": "Skin in the game is asymmetric in the mudaraba",
+      "to": "Skin in the game"
+    },
+    {
+      "from": "Skin in the game is asymmetric in the mudaraba",
+      "to": "The qirad envelops the sea loan"
+    },
+    {
       "from": "The alleenrecht is monopoly held as tradable property",
       "to": "Entity-shielding"
     },
@@ -1217,6 +1353,30 @@
     {
       "from": "The ie as entity-shielding",
       "to": "The real cut is shielded-and-pooled versus unshielded"
+    },
+    {
+      "from": "The mudaraba is revocable not locked in",
+      "to": "Islamic doctrine refuses risk-commodification at step one"
+    },
+    {
+      "from": "The mudaraba is revocable not locked in",
+      "to": "Kuran's brake is a refusal of immortal entities"
+    },
+    {
+      "from": "The mudaraba is revocable not locked in",
+      "to": "Lock-in and outcome-coupling are distinct bindings"
+    },
+    {
+      "from": "The mudaraba is revocable not locked in",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "The mudaraba is revocable not locked in",
+      "to": "MOC - Islamic contract doctrine"
+    },
+    {
+      "from": "The mudaraba is revocable not locked in",
+      "to": "The qirad envelops the sea loan"
     },
     {
       "from": "The naties are a six-century Lindy institution",
