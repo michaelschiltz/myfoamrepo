@@ -19,6 +19,8 @@ Thematic hub for the instrument axis: risk-*sharing* forms that keep every party
 - [[Naviganti - Latin Christendom rejected the sea loan too]]
 - [[Lock-in and outcome-coupling are distinct bindings]]
 - [[Skin in the game is asymmetric in the mudaraba]]
+- [[Outcome-coupling is the condition of legibility]]
+- [[The liability principle was demoted from rule to maxim]]
 - [[Skin in the game]]
 - [[The determinate-contingent typology carries the richness]]
 

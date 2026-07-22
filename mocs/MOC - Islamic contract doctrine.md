@@ -19,6 +19,8 @@ Thematic hub for the fiqh apparatus bearing on finance: *gharar*, *maysir*, *rib
 - [[Scuttling rewards fraud in the sea loan]]
 - [[The mudaraba is revocable not locked in]]
 - [[Skin in the game is asymmetric in the mudaraba]]
+- [[The waqf partition converts absence into refusal]]
+- [[Entitlement by liability versus entitlement by membership]]
 - [[The qirad's antecedents are Sasanian not Sogdian]]
 - [[The determinate-contingent typology carries the richness]]
 
@@ -29,6 +31,9 @@ Thematic hub for the fiqh apparatus bearing on finance: *gharar*, *maysir*, *rib
 - Sasanian genealogy of the *qirad* (*hambāyīh*; Morony 2017; cf. Udovitch 1962) — pending Part 2 WP1 note
 - *ʿaqd jāʾiz* classification of the *mudaraba*, and the Maliki restriction on revocation once the agent has commenced work — schools diverge; confirm before the revocability claim carries weight
 - Harris's engagement with Kuran in chapter 12 — confirm he treats non-perpetuity directly rather than in passing
+- *al-kharāj bi-l-ḍamān* and *al-ghunm bi-l-ghurm* — hadith attribution and standard *qāʿida fiqhiyya* formulations
+- Q 59:7 circulation norm — confirm the *fayʾ* context before generalising it to an anti-concentration principle
+- Harris on the *waqf* in ch. 12 as a candidate origin for the corporation — confirm he frames it as candidate rather than analogue
 
 ## Links
 

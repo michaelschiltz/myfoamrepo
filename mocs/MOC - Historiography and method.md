@@ -18,6 +18,8 @@ Thematic hub for the project's methodological guardrails: teleology and its inve
 - [[Discipline the Whig epithet by pinning it to teleology and survivorship]]
 - [[Guard against reverse-teleology]]
 - [[Kuran's brake is a refusal of immortal entities]]
+- [[Selection frequency trades against organizational memory]]
+- [[The liability principle was demoted from rule to maxim]]
 - [[Transmission versus independent recurrence is the load-bearing test]]
 - [[The ortoq is the discriminating instrument]]
 - [[The qirad's antecedents are Sasanian not Sogdian]]

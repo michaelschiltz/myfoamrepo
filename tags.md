@@ -21,11 +21,11 @@ Keep tags lowercase, hyphenated, singular. Before coining a new tag, check this 
 
 ## Corporate form / shielding
 
-`entity-shielding` · `asset-partitioning` · `corporate-form` · `charter` · `capital-lock-in` · `perpetual-succession` · `limited-liability` · `decoupling` · `joint-stock` · `force-economizing` · `naties` · `alleenrecht` · `kabu-nakama` · `monopoly-franchise` · `identity-wrapper` · `ie` · `lindy`
+`entity-shielding` · `asset-partitioning` · `corporate-form` · `charter` · `capital-lock-in` · `perpetual-succession` · `legal-personality` · `persona-ficta` · `limited-liability` · `decoupling` · `joint-stock` · `force-economizing` · `naties` · `alleenrecht` · `kabu-nakama` · `monopoly-franchise` · `identity-wrapper` · `ie` · `lindy`
 
 ## Islamic contract doctrine
 
-`gharar` · `maysir` · `riba` · `salam` · `hiyal` · `ghishsh` · `khiyana`
+`gharar` · `maysir` · `riba` · `salam` · `hiyal` · `ghishsh` · `khiyana` · `waqf` · `maqasid`
 
 ## Legal / jurisdiction
 
@@ -33,7 +33,7 @@ Keep tags lowercase, hyphenated, singular. Before coining a new tag, check this 
 
 ## Method / historiography
 
-`comparative` · `teleology` · `survivorship-bias` · `transmission` · `whiggism` · `historiography` · `independent-recurrence` · `convergence-pair` · `ortoq` · `sasanian` · `qingzhong` · `determinate-contingent`
+`comparative` · `teleology` · `survivorship-bias` · `selection` · `transmission` · `whiggism` · `historiography` · `independent-recurrence` · `convergence-pair` · `ortoq` · `sasanian` · `qingzhong` · `determinate-contingent`
 
 ## Structural
 
