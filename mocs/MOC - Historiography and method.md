@@ -23,6 +23,7 @@ Thematic hub for the project's methodological guardrails: teleology and its inve
 - [[The liability principle was demoted from rule to maxim]]
 - [[Split provenance into priority and independence]]
 - [[Refusals are observations of the filter not inferences from survivors]]
+- [[The deficit reading of absence is the scalar ranking in evidentiary form]]
 - [[Transmission versus independent recurrence is the load-bearing test]]
 - [[The ortoq is the discriminating instrument]]
 - [[The qirad's antecedents are Sasanian not Sogdian]]

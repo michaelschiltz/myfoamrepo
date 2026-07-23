@@ -40,6 +40,7 @@ digraph vault {
   "Natie is a false cognate" [fillcolor="#2f80a8", fontcolor=white];
   "The ie as entity-shielding" [fillcolor="#8aa0ad", fontcolor=white];
   "Skin in the game" [fillcolor="#8aa0ad", fontcolor=white];
+  "The deficit reading of absence is the scalar ranking in evidentiary form" [fillcolor="#2f80a8", fontcolor=white];
   "The waqf partition converts absence into refusal" [fillcolor="#2f80a8", fontcolor=white];
   "Lock-in and outcome-coupling are distinct bindings" [fillcolor="#2f80a8", fontcolor=white];
   "The determinate-contingent typology carries the richness" [fillcolor="#2f80a8", fontcolor=white];
@@ -212,6 +213,7 @@ digraph vault {
   "MOC - Historiography and method" -> "Selection frequency trades against organizational memory";
   "MOC - Historiography and method" -> "Split provenance into priority and independence";
   "MOC - Historiography and method" -> "The ascent narrative is the Jensen error as historiography";
+  "MOC - Historiography and method" -> "The deficit reading of absence is the scalar ranking in evidentiary form";
   "MOC - Historiography and method" -> "The durable-and-coupled cell is the underexplored one";
   "MOC - Historiography and method" -> "The liability principle was demoted from rule to maxim";
   "MOC - Historiography and method" -> "The ortoq is the discriminating instrument";
@@ -343,6 +345,13 @@ digraph vault {
   "The ascent narrative is the Jensen error as historiography" -> "MOC - Historiography and method";
   "The ascent narrative is the Jensen error as historiography" -> "Time-average optimization is a survivorship property not an intention";
   "The ascent narrative is the Jensen error as historiography" -> "Whiggish history of finance names the ascent narrative";
+  "The deficit reading of absence is the scalar ranking in evidentiary form" -> "Guard against reverse-teleology";
+  "The deficit reading of absence is the scalar ranking in evidentiary form" -> "Kuran's brake is a refusal of immortal entities";
+  "The deficit reading of absence is the scalar ranking in evidentiary form" -> "MOC - HistorEE";
+  "The deficit reading of absence is the scalar ranking in evidentiary form" -> "MOC - Historiography and method";
+  "The deficit reading of absence is the scalar ranking in evidentiary form" -> "Refusals are observations of the filter not inferences from survivors";
+  "The deficit reading of absence is the scalar ranking in evidentiary form" -> "Split provenance into priority and independence";
+  "The deficit reading of absence is the scalar ranking in evidentiary form" -> "The waqf partition converts absence into refusal";
   "The determinate-contingent typology carries the richness" -> "Islamic doctrine refuses risk-commodification at step one";
   "The determinate-contingent typology carries the richness" -> "MOC - ERC Synergy Grant";
   "The determinate-contingent typology carries the richness" -> "MOC - HistorEE";

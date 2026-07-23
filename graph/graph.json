@@ -61,7 +61,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Guard against reverse-teleology",
-      "value": 13,
+      "value": 14,
       "color": "#2f80a8"
     },
     {
@@ -77,7 +77,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Refusals are observations of the filter not inferences from survivors",
-      "value": 13,
+      "value": 15,
       "color": "#2f80a8"
     },
     {
@@ -101,7 +101,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Split provenance into priority and independence",
-      "value": 11,
+      "value": 12,
       "color": "#2f80a8"
     },
     {
@@ -213,7 +213,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Kuran's brake is a refusal of immortal entities",
-      "value": 13,
+      "value": 14,
       "color": "#2f80a8"
     },
     {
@@ -313,11 +313,19 @@
       "color": "#8aa0ad"
     },
     {
+      "id": "The deficit reading of absence is the scalar ranking in evidentiary form",
+      "type": "permanent",
+      "group": "seed",
+      "label": "The deficit reading of absence is the scalar ranking in evidentiary form",
+      "value": 10,
+      "color": "#2f80a8"
+    },
+    {
       "id": "The waqf partition converts absence into refusal",
       "type": "permanent",
       "group": "seed",
       "label": "The waqf partition converts absence into refusal",
-      "value": 11,
+      "value": 12,
       "color": "#2f80a8"
     },
     {
@@ -413,7 +421,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Historiography and method",
-      "value": 30,
+      "value": 32,
       "color": "#b3541e"
     },
     {
@@ -421,7 +429,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - HistorEE",
-      "value": 81,
+      "value": 82,
       "color": "#b3541e"
     },
     {
@@ -1072,6 +1080,10 @@
     },
     {
       "from": "MOC - Historiography and method",
+      "to": "The deficit reading of absence is the scalar ranking in evidentiary form"
+    },
+    {
+      "from": "MOC - Historiography and method",
       "to": "The durable-and-coupled cell is the underexplored one"
     },
     {
@@ -1593,6 +1605,34 @@
     {
       "from": "The ascent narrative is the Jensen error as historiography",
       "to": "Whiggish history of finance names the ascent narrative"
+    },
+    {
+      "from": "The deficit reading of absence is the scalar ranking in evidentiary form",
+      "to": "Guard against reverse-teleology"
+    },
+    {
+      "from": "The deficit reading of absence is the scalar ranking in evidentiary form",
+      "to": "Kuran's brake is a refusal of immortal entities"
+    },
+    {
+      "from": "The deficit reading of absence is the scalar ranking in evidentiary form",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "The deficit reading of absence is the scalar ranking in evidentiary form",
+      "to": "MOC - Historiography and method"
+    },
+    {
+      "from": "The deficit reading of absence is the scalar ranking in evidentiary form",
+      "to": "Refusals are observations of the filter not inferences from survivors"
+    },
+    {
+      "from": "The deficit reading of absence is the scalar ranking in evidentiary form",
+      "to": "Split provenance into priority and independence"
+    },
+    {
+      "from": "The deficit reading of absence is the scalar ranking in evidentiary form",
+      "to": "The waqf partition converts absence into refusal"
     },
     {
       "from": "The determinate-contingent typology carries the richness",
