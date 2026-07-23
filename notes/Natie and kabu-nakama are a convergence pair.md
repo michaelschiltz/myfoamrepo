@@ -4,6 +4,7 @@ type: permanent
 tags: [naties, kabu-nakama, convergence-pair, monopoly-franchise, comparative]
 project: HistorEE
 source-session: nacion-flamenca-integration
+database: [clearing_records]
 created: 2026-07-20
 status: seed
 ---

@@ -22,6 +22,7 @@ WIKILINK = re.compile(r"\[\[([^\]|]+?)(?:\|[^\]]*)?\]\]")
 REFDEF = re.compile(r"^\[[^\]]+\]:\s")          # skip Foam's link-reference-definition footer
 FM_TYPE = re.compile(r"^type:\s*(\w+)", re.M)
 FM_STATUS = re.compile(r"^status:\s*(\w+)", re.M)
+FM_DB = re.compile(r"^database:\s*(.+)$", re.M)   # optional link(s) to HistorEE_codebooks datasets
 
 COLOR = {  # by type / status
     "moc":        "#b3541e",   # hubs — warm
@@ -29,6 +30,7 @@ COLOR = {  # by type / status
     "seed":       "#2f80a8",
     "stub":       "#8aa0ad",
     "reference":  "#777777",
+    "database":   "#455a64",   # HistorEE_codebooks datasets (external evidence)
     "default":    "#2f80a8",
 }
 
@@ -64,13 +66,31 @@ for pat in SRC_GLOBS:
                 if tgt in nodes and tgt != base:
                     edges.append((base, tgt))
 
+# ---- database links: notes -> HistorEE_codebooks datasets, directed toward the DB
+def parse_db(text):
+    m = FM_DB.search(text)
+    if not m:
+        return []
+    raw = m.group(1).strip().strip("[]")
+    return [t.strip().strip('"\'') for t in raw.split(",") if t.strip()]
+
+for pat in SRC_GLOBS:
+    for path in glob.glob(os.path.join(ROOT, pat)):
+        base = os.path.splitext(os.path.basename(path))[0]
+        for ds in parse_db(open(path, encoding="utf-8").read()):
+            if ds not in nodes:
+                nodes[ds] = {"id": ds, "type": "database", "group": "database"}
+            edges.append((base, ds))
+
 # degree for sizing
 deg = {n: 0 for n in nodes}
 for a, b in edges:
     deg[a] += 1; deg[b] += 1
 
 data = {
-    "nodes": [{**v, "label": k, "value": deg[k] + 1, "color": COLOR.get(v["group"], COLOR["default"])}
+    "nodes": [{**v, "label": k, "value": deg[k] + 1,
+               "color": COLOR.get(v["group"], COLOR["default"]),
+               "shape": "database" if v["group"] == "database" else "dot"}
               for k, v in nodes.items()],
     "edges": [{"from": a, "to": b} for a, b in sorted(set(edges))],
 }
@@ -83,7 +103,8 @@ with open(os.path.join(OUT, "graph.dot"), "w", encoding="utf-8") as f:
     f.write("digraph vault {\n  graph [overlap=false, splines=true];\n")
     f.write('  node [style=filled, fontname="Helvetica", shape=ellipse];\n')
     for k, v in nodes.items():
-        f.write(f'  "{k}" [fillcolor="{COLOR.get(v["group"], COLOR["default"])}", fontcolor=white];\n')
+        shape = "cylinder" if v["group"] == "database" else "ellipse"
+        f.write(f'  "{k}" [fillcolor="{COLOR.get(v["group"], COLOR["default"])}", fontcolor=white, shape={shape}];\n')
     for a, b in sorted(set(edges)):
         f.write(f'  "{a}" -> "{b}";\n')
     f.write("}\n")
@@ -98,6 +119,7 @@ html = """<!doctype html><html><head><meta charset="utf-8">
   #legend{position:fixed;top:12px;left:12px;background:#fffef9;border:1px solid #ddd;
           border-radius:8px;padding:10px 12px;font-size:13px;line-height:1.6;box-shadow:0 1px 4px rgba(0,0,0,.08)}
   .dot{display:inline-block;width:10px;height:10px;border-radius:50%;margin-right:6px;vertical-align:middle}
+  .sq{display:inline-block;width:10px;height:10px;border-radius:2px;margin-right:6px;vertical-align:middle}
   h1{font-size:14px;margin:0 0 6px}
 </style></head><body>
 <div id="legend"><h1>Knowledge graph</h1>
@@ -105,6 +127,7 @@ html = """<!doctype html><html><head><meta charset="utf-8">
   <div><span class="dot" style="background:#2f80a8"></span>note (seed)</div>
   <div><span class="dot" style="background:#1f6f54"></span>note (developed)</div>
   <div><span class="dot" style="background:#8aa0ad"></span>concept stub</div>
+  <div><span class="sq" style="background:#455a64"></span>codebooks dataset (arrow = note → data)</div>
 </div>
 <div id="net"></div>
 <script>
@@ -122,7 +145,8 @@ new vis.Network(document.getElementById("net"), {nodes, edges}, {
 html = html.replace("__DATA__", json.dumps(data, ensure_ascii=False))
 open(os.path.join(OUT, "graph.html"), "w", encoding="utf-8").write(html)
 
-print(f"nodes: {len(nodes)}  edges: {len(set(edges))}")
+db_links = [(a, b) for a, b in set(edges) if nodes.get(b, {}).get("group") == "database"]
+print(f"nodes: {len(nodes)}  edges: {len(set(edges))}  database-links: {len(db_links)}")
 print("wrote graph/graph.json, graph/graph.dot, graph/graph.html")
 top = sorted(deg.items(), key=lambda x: -x[1])[:6]
 print("most-connected:", ", ".join(f"{k} ({d})" for k, d in top))

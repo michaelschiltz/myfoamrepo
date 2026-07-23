@@ -25,6 +25,7 @@ No wikilinks below: plain backticks are used for note and file names so that not
 - `tags` — concepts only, drawn from the controlled vocabulary in `tags.md`. Never provenance, never project.
 - `project` — provenance: which output the note serves.
 - `source-session` — slug of the conversation the note came out of.
+- `database` — optional; one or more dataset folders in the sibling `HistorEE_codebooks` repo that the claim draws on. The graph exporter turns each into a database node with a directed edge from the note to the dataset.
 - `created` — YYYY-MM-DD.
 - `status` — `stub` | `seed` | `developed`.
 

@@ -19,10 +19,12 @@ Working notes for *Clearing and Settling the Realm* (ergodicity economics + enti
   tags: [concept, concept]
   project: HistorEE   # or erc-synergy
   source-session: <slug of originating conversation>
+  database: [dataset]    # optional: HistorEE_codebooks dataset(s) this claim draws on
   created: YYYY-MM-DD
   status: seed           # stub | seed | developed
   ---
   ```
+- **`database:` links a claim to its evidence.** Optional. Names one or more dataset folders in the sibling `HistorEE_codebooks` repo (e.g. `clearing_records`). The graph exporter renders each as a database node with a directed edge *from the note to the dataset*, making visible which arguments are anchored in data.
 - **Tags name concepts only** — what a note is *about*. Provenance goes in `project:` and `source-session:`, navigation goes in MOC hubs. Never tag by project. Controlled vocabulary: `tags.md`.
 - **Preserve citation uncertainty**: keep explicit "verify" flags rather than laundering unverified references into confident claims.
 
