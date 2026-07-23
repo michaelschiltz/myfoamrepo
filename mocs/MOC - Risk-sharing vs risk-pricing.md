@@ -21,6 +21,7 @@ Thematic hub for the instrument axis: risk-*sharing* forms that keep every party
 - [[Skin in the game is asymmetric in the mudaraba]]
 - [[Outcome-coupling is the condition of legibility]]
 - [[Decoupling substitutes proxy legibility for outcome legibility]]
+- [[Refusals are observations of the filter not inferences from survivors]]
 - [[The liability principle was demoted from rule to maxim]]
 - [[Skin in the game]]
 - [[The determinate-contingent typology carries the richness]]

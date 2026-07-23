@@ -21,7 +21,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Transmission versus independent recurrence is the load-bearing test",
-      "value": 15,
+      "value": 17,
       "color": "#2f80a8"
     },
     {
@@ -37,7 +37,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Outcome-coupling is the condition of legibility",
-      "value": 10,
+      "value": 11,
       "color": "#2f80a8"
     },
     {
@@ -53,7 +53,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Time-average optimization is a survivorship property not an intention",
-      "value": 13,
+      "value": 16,
       "color": "#2f80a8"
     },
     {
@@ -73,6 +73,14 @@
       "color": "#8aa0ad"
     },
     {
+      "id": "Refusals are observations of the filter not inferences from survivors",
+      "type": "permanent",
+      "group": "seed",
+      "label": "Refusals are observations of the filter not inferences from survivors",
+      "value": 13,
+      "color": "#2f80a8"
+    },
+    {
       "id": "The liability principle was demoted from rule to maxim",
       "type": "permanent",
       "group": "seed",
@@ -86,6 +94,14 @@
       "group": "seed",
       "label": "Natie and kabu-nakama are a convergence pair",
       "value": 15,
+      "color": "#2f80a8"
+    },
+    {
+      "id": "Split provenance into priority and independence",
+      "type": "permanent",
+      "group": "seed",
+      "label": "Split provenance into priority and independence",
+      "value": 11,
       "color": "#2f80a8"
     },
     {
@@ -181,7 +197,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The qirad's antecedents are Sasanian not Sogdian",
-      "value": 15,
+      "value": 16,
       "color": "#2f80a8"
     },
     {
@@ -349,7 +365,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The qirad envelops the sea loan",
-      "value": 18,
+      "value": 19,
       "color": "#2f80a8"
     },
     {
@@ -397,7 +413,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Historiography and method",
-      "value": 26,
+      "value": 30,
       "color": "#b3541e"
     },
     {
@@ -405,7 +421,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - HistorEE",
-      "value": 79,
+      "value": 81,
       "color": "#b3541e"
     },
     {
@@ -413,7 +429,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Risk-sharing vs risk-pricing",
-      "value": 30,
+      "value": 32,
       "color": "#b3541e"
     },
     {
@@ -1040,7 +1056,15 @@
     },
     {
       "from": "MOC - Historiography and method",
+      "to": "Refusals are observations of the filter not inferences from survivors"
+    },
+    {
+      "from": "MOC - Historiography and method",
       "to": "Selection frequency trades against organizational memory"
+    },
+    {
+      "from": "MOC - Historiography and method",
+      "to": "Split provenance into priority and independence"
     },
     {
       "from": "MOC - Historiography and method",
@@ -1149,6 +1173,10 @@
     {
       "from": "MOC - Risk-sharing vs risk-pricing",
       "to": "Pricing risk does not remove it"
+    },
+    {
+      "from": "MOC - Risk-sharing vs risk-pricing",
+      "to": "Refusals are observations of the filter not inferences from survivors"
     },
     {
       "from": "MOC - Risk-sharing vs risk-pricing",
@@ -1331,6 +1359,34 @@
       "to": "Time-average"
     },
     {
+      "from": "Refusals are observations of the filter not inferences from survivors",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Refusals are observations of the filter not inferences from survivors",
+      "to": "MOC - Historiography and method"
+    },
+    {
+      "from": "Refusals are observations of the filter not inferences from survivors",
+      "to": "MOC - Risk-sharing vs risk-pricing"
+    },
+    {
+      "from": "Refusals are observations of the filter not inferences from survivors",
+      "to": "Outcome-coupling is the condition of legibility"
+    },
+    {
+      "from": "Refusals are observations of the filter not inferences from survivors",
+      "to": "Split provenance into priority and independence"
+    },
+    {
+      "from": "Refusals are observations of the filter not inferences from survivors",
+      "to": "The qirad envelops the sea loan"
+    },
+    {
+      "from": "Refusals are observations of the filter not inferences from survivors",
+      "to": "Time-average optimization is a survivorship property not an intention"
+    },
+    {
       "from": "Route Kolmogorov to ergodic theory not the theory of means",
       "to": "Economics had its ensemble moment in 1738 and psychologized it"
     },
@@ -1465,6 +1521,30 @@
     {
       "from": "Skin in the game is asymmetric in the mudaraba",
       "to": "The qirad envelops the sea loan"
+    },
+    {
+      "from": "Split provenance into priority and independence",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Split provenance into priority and independence",
+      "to": "MOC - Historiography and method"
+    },
+    {
+      "from": "Split provenance into priority and independence",
+      "to": "Refusals are observations of the filter not inferences from survivors"
+    },
+    {
+      "from": "Split provenance into priority and independence",
+      "to": "The qirad's antecedents are Sasanian not Sogdian"
+    },
+    {
+      "from": "Split provenance into priority and independence",
+      "to": "Time-average optimization is a survivorship property not an intention"
+    },
+    {
+      "from": "Split provenance into priority and independence",
+      "to": "Transmission versus independent recurrence is the load-bearing test"
     },
     {
       "from": "The alleenrecht is monopoly held as tradable property",

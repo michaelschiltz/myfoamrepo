@@ -10,8 +10,10 @@ digraph vault {
   "Time-average optimization is a survivorship property not an intention" [fillcolor="#2f80a8", fontcolor=white];
   "Guard against reverse-teleology" [fillcolor="#2f80a8", fontcolor=white];
   "Jensen gap" [fillcolor="#8aa0ad", fontcolor=white];
+  "Refusals are observations of the filter not inferences from survivors" [fillcolor="#2f80a8", fontcolor=white];
   "The liability principle was demoted from rule to maxim" [fillcolor="#2f80a8", fontcolor=white];
   "Natie and kabu-nakama are a convergence pair" [fillcolor="#2f80a8", fontcolor=white];
+  "Split provenance into priority and independence" [fillcolor="#2f80a8", fontcolor=white];
   "The ensemble average is the local descriptor of a barrier-shielded agent" [fillcolor="#2f80a8", fontcolor=white];
   "The four-step decoupling from participation to the veil" [fillcolor="#2f80a8", fontcolor=white];
   "Legal violence is the weapon of the militarily insufficient" [fillcolor="#2f80a8", fontcolor=white];
@@ -206,7 +208,9 @@ digraph vault {
   "MOC - Historiography and method" -> "Kuran's brake is a refusal of immortal entities";
   "MOC - Historiography and method" -> "MOC - ERC Synergy Grant";
   "MOC - Historiography and method" -> "MOC - HistorEE";
+  "MOC - Historiography and method" -> "Refusals are observations of the filter not inferences from survivors";
   "MOC - Historiography and method" -> "Selection frequency trades against organizational memory";
+  "MOC - Historiography and method" -> "Split provenance into priority and independence";
   "MOC - Historiography and method" -> "The ascent narrative is the Jensen error as historiography";
   "MOC - Historiography and method" -> "The durable-and-coupled cell is the underexplored one";
   "MOC - Historiography and method" -> "The liability principle was demoted from rule to maxim";
@@ -234,6 +238,7 @@ digraph vault {
   "MOC - Risk-sharing vs risk-pricing" -> "Naviganti - Latin Christendom rejected the sea loan too";
   "MOC - Risk-sharing vs risk-pricing" -> "Outcome-coupling is the condition of legibility";
   "MOC - Risk-sharing vs risk-pricing" -> "Pricing risk does not remove it";
+  "MOC - Risk-sharing vs risk-pricing" -> "Refusals are observations of the filter not inferences from survivors";
   "MOC - Risk-sharing vs risk-pricing" -> "Skin in the game";
   "MOC - Risk-sharing vs risk-pricing" -> "Skin in the game is asymmetric in the mudaraba";
   "MOC - Risk-sharing vs risk-pricing" -> "The determinate-contingent typology carries the richness";
@@ -279,6 +284,13 @@ digraph vault {
   "Pricing risk does not remove it" -> "The four-step decoupling from participation to the veil";
   "Pricing risk does not remove it" -> "The sea loan is a contingent claim not a loan";
   "Pricing risk does not remove it" -> "Time-average";
+  "Refusals are observations of the filter not inferences from survivors" -> "MOC - HistorEE";
+  "Refusals are observations of the filter not inferences from survivors" -> "MOC - Historiography and method";
+  "Refusals are observations of the filter not inferences from survivors" -> "MOC - Risk-sharing vs risk-pricing";
+  "Refusals are observations of the filter not inferences from survivors" -> "Outcome-coupling is the condition of legibility";
+  "Refusals are observations of the filter not inferences from survivors" -> "Split provenance into priority and independence";
+  "Refusals are observations of the filter not inferences from survivors" -> "The qirad envelops the sea loan";
+  "Refusals are observations of the filter not inferences from survivors" -> "Time-average optimization is a survivorship property not an intention";
   "Route Kolmogorov to ergodic theory not the theory of means" -> "Economics had its ensemble moment in 1738 and psychologized it";
   "Route Kolmogorov to ergodic theory not the theory of means" -> "MOC - Ergodicity and the time-ensemble distinction";
   "Route Kolmogorov to ergodic theory not the theory of means" -> "MOC - HistorEE";
@@ -313,6 +325,12 @@ digraph vault {
   "Skin in the game is asymmetric in the mudaraba" -> "Scuttling rewards fraud in the sea loan";
   "Skin in the game is asymmetric in the mudaraba" -> "Skin in the game";
   "Skin in the game is asymmetric in the mudaraba" -> "The qirad envelops the sea loan";
+  "Split provenance into priority and independence" -> "MOC - HistorEE";
+  "Split provenance into priority and independence" -> "MOC - Historiography and method";
+  "Split provenance into priority and independence" -> "Refusals are observations of the filter not inferences from survivors";
+  "Split provenance into priority and independence" -> "The qirad's antecedents are Sasanian not Sogdian";
+  "Split provenance into priority and independence" -> "Time-average optimization is a survivorship property not an intention";
+  "Split provenance into priority and independence" -> "Transmission versus independent recurrence is the load-bearing test";
   "The alleenrecht is monopoly held as tradable property" -> "Entity-shielding";
   "The alleenrecht is monopoly held as tradable property" -> "MOC - Entity-shielding and corporate forms";
   "The alleenrecht is monopoly held as tradable property" -> "MOC - HistorEE";
