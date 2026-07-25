@@ -28,4 +28,13 @@
   "**/_layouts/**/*",
   "**/_site/**/*"
   ],
+  "foam.graph.style": {
+    "lineColor": "#5c5c5c",
+    "node": {
+      "note": "#4063D8",
+      "placeholder": "#CB3C33",
+      "tag": "#389826",
+      "attachment": "#9558B2"
+    }
+  }
 }
