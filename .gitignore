@@ -1,0 +1,10 @@
+# Per-app PKM config — keep each editor's local settings out of the vault,
+# so the same folder opens cleanly in Foam, Zettlr, Obsidian, etc.
+.obsidian/
+.zettlr/
+.ztr-directory
+.logseq/
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
