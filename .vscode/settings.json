@@ -32,10 +32,13 @@
     "lineColor": "#5c5c5c",
     "node": {
       "note": "#4063D8",
+      "permanent": "#4063D8",
+      "reference": "#4063D8",
+      "moc": "#9558B2",
+      "source": "#CB3C33",
       "placeholder": "#CB3C33",
       "tag": "#389826",
-      "attachment": "#9558B2",
-      "source": "#CB3C33"
+      "attachment": "#9558B2"
     }
   }
 }
