@@ -7,6 +7,7 @@ digraph vault {
   "Whiggish history of finance names the ascent narrative" [fillcolor="#2f80a8", fontcolor=white, shape=ellipse];
   "Natie is a false cognate" [fillcolor="#2f80a8", fontcolor=white, shape=ellipse];
   "Guard against reverse-teleology" [fillcolor="#2f80a8", fontcolor=white, shape=ellipse];
+  "The Fugger diversified activity while concentrating the barrier" [fillcolor="#2f80a8", fontcolor=white, shape=ellipse];
   "Discipline the Whig epithet by pinning it to teleology and survivorship" [fillcolor="#2f80a8", fontcolor=white, shape=ellipse];
   "Transmission versus independent recurrence is the load-bearing test" [fillcolor="#2f80a8", fontcolor=white, shape=ellipse];
   "Jensen gap" [fillcolor="#8aa0ad", fontcolor=white, shape=ellipse];
@@ -249,6 +250,7 @@ digraph vault {
   "MOC - Risk-sharing vs risk-pricing" -> "Refusals are observations of the filter not inferences from survivors";
   "MOC - Risk-sharing vs risk-pricing" -> "Skin in the game";
   "MOC - Risk-sharing vs risk-pricing" -> "Skin in the game is asymmetric in the mudaraba";
+  "MOC - Risk-sharing vs risk-pricing" -> "The Fugger diversified activity while concentrating the barrier";
   "MOC - Risk-sharing vs risk-pricing" -> "The determinate-contingent typology carries the richness";
   "MOC - Risk-sharing vs risk-pricing" -> "The liability principle was demoted from rule to maxim";
   "MOC - Risk-sharing vs risk-pricing" -> "The qirad envelops the sea loan";
@@ -294,6 +296,7 @@ digraph vault {
   "Pooling's sign is set by the correlation of its baskets" -> "MOC - HistorEE";
   "Pooling's sign is set by the correlation of its baskets" -> "MOC - Risk-sharing vs risk-pricing";
   "Pooling's sign is set by the correlation of its baskets" -> "Skin in the game";
+  "Pooling's sign is set by the correlation of its baskets" -> "The Fugger diversified activity while concentrating the barrier";
   "Pooling's sign is set by the correlation of its baskets" -> "The real cut is shielded-and-pooled versus unshielded";
   "Pooling's sign is set by the correlation of its baskets" -> "Time-average";
   "Pricing risk does not remove it" -> "Absorbing barrier";
@@ -349,6 +352,13 @@ digraph vault {
   "Split provenance into priority and independence" -> "The qirad's antecedents are Sasanian not Sogdian";
   "Split provenance into priority and independence" -> "Time-average optimization is a survivorship property not an intention";
   "Split provenance into priority and independence" -> "Transmission versus independent recurrence is the load-bearing test";
+  "The Fugger diversified activity while concentrating the barrier" -> "Absorbing barrier";
+  "The Fugger diversified activity while concentrating the barrier" -> "Jensen gap";
+  "The Fugger diversified activity while concentrating the barrier" -> "MOC - Ergodicity and the time-ensemble distinction";
+  "The Fugger diversified activity while concentrating the barrier" -> "MOC - HistorEE";
+  "The Fugger diversified activity while concentrating the barrier" -> "MOC - Risk-sharing vs risk-pricing";
+  "The Fugger diversified activity while concentrating the barrier" -> "Pooling's sign is set by the correlation of its baskets";
+  "The Fugger diversified activity while concentrating the barrier" -> "The real cut is shielded-and-pooled versus unshielded";
   "The alleenrecht is monopoly held as tradable property" -> "Entity-shielding";
   "The alleenrecht is monopoly held as tradable property" -> "MOC - Entity-shielding and corporate forms";
   "The alleenrecht is monopoly held as tradable property" -> "MOC - HistorEE";
