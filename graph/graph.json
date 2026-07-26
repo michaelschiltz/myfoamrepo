@@ -1,204 +1,6 @@
 {
   "nodes": [
     {
-      "id": "The durable-and-coupled cell is the underexplored one",
-      "type": "permanent",
-      "group": "seed",
-      "label": "The durable-and-coupled cell is the underexplored one",
-      "value": 13,
-      "color": "#e6ab02",
-      "shape": "dot"
-    },
-    {
-      "id": "The alleenrecht is monopoly held as tradable property",
-      "type": "permanent",
-      "group": "seed",
-      "label": "The alleenrecht is monopoly held as tradable property",
-      "value": 16,
-      "color": "#e6ab02",
-      "shape": "dot"
-    },
-    {
-      "id": "Transmission versus independent recurrence is the load-bearing test",
-      "type": "permanent",
-      "group": "seed",
-      "label": "Transmission versus independent recurrence is the load-bearing test",
-      "value": 17,
-      "color": "#e6ab02",
-      "shape": "dot"
-    },
-    {
-      "id": "The ascent narrative is the Jensen error as historiography",
-      "type": "permanent",
-      "group": "seed",
-      "label": "The ascent narrative is the Jensen error as historiography",
-      "value": 12,
-      "color": "#e6ab02",
-      "shape": "dot"
-    },
-    {
-      "id": "Outcome-coupling is the condition of legibility",
-      "type": "permanent",
-      "group": "seed",
-      "label": "Outcome-coupling is the condition of legibility",
-      "value": 11,
-      "color": "#e6ab02",
-      "shape": "dot"
-    },
-    {
-      "id": "Entity-shielding",
-      "type": "permanent",
-      "group": "stub",
-      "label": "Entity-shielding",
-      "value": 28,
-      "color": "#666666",
-      "shape": "dot"
-    },
-    {
-      "id": "Time-average optimization is a survivorship property not an intention",
-      "type": "permanent",
-      "group": "seed",
-      "label": "Time-average optimization is a survivorship property not an intention",
-      "value": 16,
-      "color": "#e6ab02",
-      "shape": "dot"
-    },
-    {
-      "id": "Guard against reverse-teleology",
-      "type": "permanent",
-      "group": "seed",
-      "label": "Guard against reverse-teleology",
-      "value": 14,
-      "color": "#e6ab02",
-      "shape": "dot"
-    },
-    {
-      "id": "Jensen gap",
-      "type": "permanent",
-      "group": "stub",
-      "label": "Jensen gap",
-      "value": 12,
-      "color": "#666666",
-      "shape": "dot"
-    },
-    {
-      "id": "Refusals are observations of the filter not inferences from survivors",
-      "type": "permanent",
-      "group": "seed",
-      "label": "Refusals are observations of the filter not inferences from survivors",
-      "value": 17,
-      "color": "#e6ab02",
-      "shape": "dot"
-    },
-    {
-      "id": "The liability principle was demoted from rule to maxim",
-      "type": "permanent",
-      "group": "seed",
-      "label": "The liability principle was demoted from rule to maxim",
-      "value": 12,
-      "color": "#e6ab02",
-      "shape": "dot"
-    },
-    {
-      "id": "Natie and kabu-nakama are a convergence pair",
-      "type": "permanent",
-      "group": "seed",
-      "label": "Natie and kabu-nakama are a convergence pair",
-      "value": 17,
-      "color": "#e6ab02",
-      "shape": "dot"
-    },
-    {
-      "id": "Split provenance into priority and independence",
-      "type": "permanent",
-      "group": "seed",
-      "label": "Split provenance into priority and independence",
-      "value": 12,
-      "color": "#e6ab02",
-      "shape": "dot"
-    },
-    {
-      "id": "The ensemble average is the local descriptor of a barrier-shielded agent",
-      "type": "permanent",
-      "group": "seed",
-      "label": "The ensemble average is the local descriptor of a barrier-shielded agent",
-      "value": 15,
-      "color": "#e6ab02",
-      "shape": "dot"
-    },
-    {
-      "id": "The four-step decoupling from participation to the veil",
-      "type": "permanent",
-      "group": "seed",
-      "label": "The four-step decoupling from participation to the veil",
-      "value": 17,
-      "color": "#e6ab02",
-      "shape": "dot"
-    },
-    {
-      "id": "Legal violence is the weapon of the militarily insufficient",
-      "type": "permanent",
-      "group": "seed",
-      "label": "Legal violence is the weapon of the militarily insufficient",
-      "value": 8,
-      "color": "#e6ab02",
-      "shape": "dot"
-    },
-    {
-      "id": "Identity-wrapper and perpetual-monopoly are distinct shielding facets",
-      "type": "permanent",
-      "group": "seed",
-      "label": "Identity-wrapper and perpetual-monopoly are distinct shielding facets",
-      "value": 10,
-      "color": "#e6ab02",
-      "shape": "dot"
-    },
-    {
-      "id": "Separate the genetic and the methodological claims about economics",
-      "type": "permanent",
-      "group": "seed",
-      "label": "Separate the genetic and the methodological claims about economics",
-      "value": 10,
-      "color": "#e6ab02",
-      "shape": "dot"
-    },
-    {
-      "id": "Decoupling substitutes proxy legibility for outcome legibility",
-      "type": "permanent",
-      "group": "seed",
-      "label": "Decoupling substitutes proxy legibility for outcome legibility",
-      "value": 13,
-      "color": "#e6ab02",
-      "shape": "dot"
-    },
-    {
-      "id": "Absorbing barrier",
-      "type": "permanent",
-      "group": "stub",
-      "label": "Absorbing barrier",
-      "value": 20,
-      "color": "#666666",
-      "shape": "dot"
-    },
-    {
-      "id": "Selection frequency trades against organizational memory",
-      "type": "permanent",
-      "group": "seed",
-      "label": "Selection frequency trades against organizational memory",
-      "value": 15,
-      "color": "#e6ab02",
-      "shape": "dot"
-    },
-    {
-      "id": "The naties are a six-century Lindy institution",
-      "type": "permanent",
-      "group": "seed",
-      "label": "The naties are a six-century Lindy institution",
-      "value": 14,
-      "color": "#e6ab02",
-      "shape": "dot"
-    },
-    {
       "id": "Scuttling rewards fraud in the sea loan",
       "type": "permanent",
       "group": "seed",
@@ -208,20 +10,11 @@
       "shape": "dot"
     },
     {
-      "id": "Pooling's sign is set by the correlation of its baskets",
+      "id": "Identity-wrapper and perpetual-monopoly are distinct shielding facets",
       "type": "permanent",
       "group": "seed",
-      "label": "Pooling's sign is set by the correlation of its baskets",
-      "value": 23,
-      "color": "#e6ab02",
-      "shape": "dot"
-    },
-    {
-      "id": "The mudaraba is revocable not locked in",
-      "type": "permanent",
-      "group": "seed",
-      "label": "The mudaraba is revocable not locked in",
-      "value": 13,
+      "label": "Identity-wrapper and perpetual-monopoly are distinct shielding facets",
+      "value": 10,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -244,47 +37,20 @@
       "shape": "dot"
     },
     {
-      "id": "Kuran's brake is a refusal of immortal entities",
+      "id": "Natie is a false cognate",
       "type": "permanent",
       "group": "seed",
-      "label": "Kuran's brake is a refusal of immortal entities",
-      "value": 14,
-      "color": "#e6ab02",
-      "shape": "dot"
-    },
-    {
-      "id": "Skin in the game is asymmetric in the mudaraba",
-      "type": "permanent",
-      "group": "seed",
-      "label": "Skin in the game is asymmetric in the mudaraba",
+      "label": "Natie is a false cognate",
       "value": 12,
       "color": "#e6ab02",
       "shape": "dot"
     },
     {
-      "id": "The sea loan is a contingent claim not a loan",
+      "id": "Guard against reverse-teleology",
       "type": "permanent",
       "group": "seed",
-      "label": "The sea loan is a contingent claim not a loan",
+      "label": "Guard against reverse-teleology",
       "value": 14,
-      "color": "#e6ab02",
-      "shape": "dot"
-    },
-    {
-      "id": "Islamic doctrine refuses risk-commodification at step one",
-      "type": "permanent",
-      "group": "seed",
-      "label": "Islamic doctrine refuses risk-commodification at step one",
-      "value": 17,
-      "color": "#e6ab02",
-      "shape": "dot"
-    },
-    {
-      "id": "Economics had its ensemble moment in 1738 and psychologized it",
-      "type": "permanent",
-      "group": "seed",
-      "label": "Economics had its ensemble moment in 1738 and psychologized it",
-      "value": 11,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -298,29 +64,110 @@
       "shape": "dot"
     },
     {
-      "id": "Harris 2020 on the late plurality of limited liability",
-      "type": "source",
-      "group": "source",
-      "label": "Harris 2020 on the late plurality of limited liability",
-      "value": 14,
-      "color": "#7570b3",
+      "id": "Discipline the Whig epithet by pinning it to teleology and survivorship",
+      "type": "permanent",
+      "group": "seed",
+      "label": "Discipline the Whig epithet by pinning it to teleology and survivorship",
+      "value": 9,
+      "color": "#e6ab02",
       "shape": "dot"
     },
     {
-      "id": "Naviganti - Latin Christendom rejected the sea loan too",
+      "id": "Transmission versus independent recurrence is the load-bearing test",
       "type": "permanent",
       "group": "seed",
-      "label": "Naviganti - Latin Christendom rejected the sea loan too",
+      "label": "Transmission versus independent recurrence is the load-bearing test",
+      "value": 17,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "Jensen gap",
+      "type": "permanent",
+      "group": "stub",
+      "label": "Jensen gap",
+      "value": 12,
+      "color": "#666666",
+      "shape": "dot"
+    },
+    {
+      "id": "Pooling's sign is set by the correlation of its baskets",
+      "type": "permanent",
+      "group": "seed",
+      "label": "Pooling's sign is set by the correlation of its baskets",
+      "value": 23,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "Lock-in and outcome-coupling are distinct bindings",
+      "type": "permanent",
+      "group": "seed",
+      "label": "Lock-in and outcome-coupling are distinct bindings",
+      "value": 21,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "Skin in the game is asymmetric in the mudaraba",
+      "type": "permanent",
+      "group": "seed",
+      "label": "Skin in the game is asymmetric in the mudaraba",
+      "value": 12,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "The alleenrecht is monopoly held as tradable property",
+      "type": "permanent",
+      "group": "seed",
+      "label": "The alleenrecht is monopoly held as tradable property",
+      "value": 16,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "Absorbing barrier",
+      "type": "permanent",
+      "group": "stub",
+      "label": "Absorbing barrier",
+      "value": 20,
+      "color": "#666666",
+      "shape": "dot"
+    },
+    {
+      "id": "Persona ficta made the corporation a-moral ab initio",
+      "type": "permanent",
+      "group": "seed",
+      "label": "Persona ficta made the corporation a-moral ab initio",
       "value": 11,
       "color": "#e6ab02",
       "shape": "dot"
     },
     {
-      "id": "The real cut is shielded-and-pooled versus unshielded",
+      "id": "The ascent narrative is the Jensen error as historiography",
       "type": "permanent",
       "group": "seed",
-      "label": "The real cut is shielded-and-pooled versus unshielded",
-      "value": 18,
+      "label": "The ascent narrative is the Jensen error as historiography",
+      "value": 12,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "Time-average optimization is a survivorship property not an intention",
+      "type": "permanent",
+      "group": "seed",
+      "label": "Time-average optimization is a survivorship property not an intention",
+      "value": 16,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "The mudaraba is revocable not locked in",
+      "type": "permanent",
+      "group": "seed",
+      "label": "The mudaraba is revocable not locked in",
+      "value": 13,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -334,46 +181,10 @@
       "shape": "dot"
     },
     {
-      "id": "Discipline the Whig epithet by pinning it to teleology and survivorship",
-      "type": "permanent",
-      "group": "seed",
-      "label": "Discipline the Whig epithet by pinning it to teleology and survivorship",
-      "value": 9,
-      "color": "#e6ab02",
-      "shape": "dot"
-    },
-    {
-      "id": "Mare Liberum was a corporate legal weapon",
-      "type": "permanent",
-      "group": "seed",
-      "label": "Mare Liberum was a corporate legal weapon",
-      "value": 11,
-      "color": "#e6ab02",
-      "shape": "dot"
-    },
-    {
-      "id": "Natie is a false cognate",
-      "type": "permanent",
-      "group": "seed",
-      "label": "Natie is a false cognate",
-      "value": 12,
-      "color": "#e6ab02",
-      "shape": "dot"
-    },
-    {
-      "id": "The ie as entity-shielding",
+      "id": "Time-average",
       "type": "permanent",
       "group": "stub",
-      "label": "The ie as entity-shielding",
-      "value": 14,
-      "color": "#666666",
-      "shape": "dot"
-    },
-    {
-      "id": "Skin in the game",
-      "type": "permanent",
-      "group": "stub",
-      "label": "Skin in the game",
+      "label": "Time-average",
       "value": 18,
       "color": "#666666",
       "shape": "dot"
@@ -388,29 +199,29 @@
       "shape": "dot"
     },
     {
-      "id": "The waqf partition converts absence into refusal",
+      "id": "Refusals are observations of the filter not inferences from survivors",
       "type": "permanent",
       "group": "seed",
-      "label": "The waqf partition converts absence into refusal",
-      "value": 12,
+      "label": "Refusals are observations of the filter not inferences from survivors",
+      "value": 17,
       "color": "#e6ab02",
       "shape": "dot"
     },
     {
-      "id": "Lock-in and outcome-coupling are distinct bindings",
+      "id": "The sea loan is a contingent claim not a loan",
       "type": "permanent",
       "group": "seed",
-      "label": "Lock-in and outcome-coupling are distinct bindings",
-      "value": 21,
+      "label": "The sea loan is a contingent claim not a loan",
+      "value": 14,
       "color": "#e6ab02",
       "shape": "dot"
     },
     {
-      "id": "The determinate-contingent typology carries the richness",
+      "id": "The qirad envelops the sea loan",
       "type": "permanent",
       "group": "seed",
-      "label": "The determinate-contingent typology carries the richness",
-      "value": 10,
+      "label": "The qirad envelops the sea loan",
+      "value": 19,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -424,15 +235,6 @@
       "shape": "dot"
     },
     {
-      "id": "Route Kolmogorov to ergodic theory not the theory of means",
-      "type": "permanent",
-      "group": "seed",
-      "label": "Route Kolmogorov to ergodic theory not the theory of means",
-      "value": 11,
-      "color": "#e6ab02",
-      "shape": "dot"
-    },
-    {
       "id": "The corporation is not the omega - the naties are an undisplaced niche",
       "type": "permanent",
       "group": "seed",
@@ -442,29 +244,47 @@
       "shape": "dot"
     },
     {
-      "id": "Time-average",
-      "type": "permanent",
-      "group": "stub",
-      "label": "Time-average",
-      "value": 18,
-      "color": "#666666",
-      "shape": "dot"
-    },
-    {
-      "id": "The qirad envelops the sea loan",
+      "id": "The liability principle was demoted from rule to maxim",
       "type": "permanent",
       "group": "seed",
-      "label": "The qirad envelops the sea loan",
-      "value": 19,
+      "label": "The liability principle was demoted from rule to maxim",
+      "value": 12,
       "color": "#e6ab02",
       "shape": "dot"
     },
     {
-      "id": "Persona ficta made the corporation a-moral ab initio",
+      "id": "Route Kolmogorov to ergodic theory not the theory of means",
       "type": "permanent",
       "group": "seed",
-      "label": "Persona ficta made the corporation a-moral ab initio",
+      "label": "Route Kolmogorov to ergodic theory not the theory of means",
       "value": 11,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "The ie as entity-shielding",
+      "type": "permanent",
+      "group": "stub",
+      "label": "The ie as entity-shielding",
+      "value": 14,
+      "color": "#666666",
+      "shape": "dot"
+    },
+    {
+      "id": "Legal violence is the weapon of the militarily insufficient",
+      "type": "permanent",
+      "group": "seed",
+      "label": "Legal violence is the weapon of the militarily insufficient",
+      "value": 8,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "The naties are a six-century Lindy institution",
+      "type": "permanent",
+      "group": "seed",
+      "label": "The naties are a six-century Lindy institution",
+      "value": 14,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -478,11 +298,209 @@
       "shape": "dot"
     },
     {
+      "id": "Decoupling substitutes proxy legibility for outcome legibility",
+      "type": "permanent",
+      "group": "seed",
+      "label": "Decoupling substitutes proxy legibility for outcome legibility",
+      "value": 13,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "Harris 2020 on the late plurality of limited liability",
+      "type": "source",
+      "group": "source",
+      "label": "Harris 2020 on the late plurality of limited liability",
+      "value": 14,
+      "color": "#7570b3",
+      "shape": "dot"
+    },
+    {
+      "id": "The durable-and-coupled cell is the underexplored one",
+      "type": "permanent",
+      "group": "seed",
+      "label": "The durable-and-coupled cell is the underexplored one",
+      "value": 13,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "Skin in the game",
+      "type": "permanent",
+      "group": "stub",
+      "label": "Skin in the game",
+      "value": 18,
+      "color": "#666666",
+      "shape": "dot"
+    },
+    {
+      "id": "Kuran's brake is a refusal of immortal entities",
+      "type": "permanent",
+      "group": "seed",
+      "label": "Kuran's brake is a refusal of immortal entities",
+      "value": 14,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "The waqf partition converts absence into refusal",
+      "type": "permanent",
+      "group": "seed",
+      "label": "The waqf partition converts absence into refusal",
+      "value": 12,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "Split provenance into priority and independence",
+      "type": "permanent",
+      "group": "seed",
+      "label": "Split provenance into priority and independence",
+      "value": 12,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "Entity-shielding",
+      "type": "permanent",
+      "group": "stub",
+      "label": "Entity-shielding",
+      "value": 28,
+      "color": "#666666",
+      "shape": "dot"
+    },
+    {
+      "id": "The determinate-contingent typology carries the richness",
+      "type": "permanent",
+      "group": "seed",
+      "label": "The determinate-contingent typology carries the richness",
+      "value": 10,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "The real cut is shielded-and-pooled versus unshielded",
+      "type": "permanent",
+      "group": "seed",
+      "label": "The real cut is shielded-and-pooled versus unshielded",
+      "value": 18,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "Separate the genetic and the methodological claims about economics",
+      "type": "permanent",
+      "group": "seed",
+      "label": "Separate the genetic and the methodological claims about economics",
+      "value": 10,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "The four-step decoupling from participation to the veil",
+      "type": "permanent",
+      "group": "seed",
+      "label": "The four-step decoupling from participation to the veil",
+      "value": 17,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "Natie and kabu-nakama are a convergence pair",
+      "type": "permanent",
+      "group": "seed",
+      "label": "Natie and kabu-nakama are a convergence pair",
+      "value": 17,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "Economics had its ensemble moment in 1738 and psychologized it",
+      "type": "permanent",
+      "group": "seed",
+      "label": "Economics had its ensemble moment in 1738 and psychologized it",
+      "value": 11,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "Islamic doctrine refuses risk-commodification at step one",
+      "type": "permanent",
+      "group": "seed",
+      "label": "Islamic doctrine refuses risk-commodification at step one",
+      "value": 17,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "Outcome-coupling is the condition of legibility",
+      "type": "permanent",
+      "group": "seed",
+      "label": "Outcome-coupling is the condition of legibility",
+      "value": 11,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "Naviganti - Latin Christendom rejected the sea loan too",
+      "type": "permanent",
+      "group": "seed",
+      "label": "Naviganti - Latin Christendom rejected the sea loan too",
+      "value": 11,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "The ensemble average is the local descriptor of a barrier-shielded agent",
+      "type": "permanent",
+      "group": "seed",
+      "label": "The ensemble average is the local descriptor of a barrier-shielded agent",
+      "value": 15,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "Mare Liberum was a corporate legal weapon",
+      "type": "permanent",
+      "group": "seed",
+      "label": "Mare Liberum was a corporate legal weapon",
+      "value": 11,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "Selection frequency trades against organizational memory",
+      "type": "permanent",
+      "group": "seed",
+      "label": "Selection frequency trades against organizational memory",
+      "value": 15,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "MOC - Risk-sharing vs risk-pricing",
+      "type": "moc",
+      "group": "moc",
+      "label": "MOC - Risk-sharing vs risk-pricing",
+      "value": 36,
+      "color": "#d95f02",
+      "shape": "dot"
+    },
+    {
       "id": "MOC - Ergodicity and the time-ensemble distinction",
       "type": "moc",
       "group": "moc",
       "label": "MOC - Ergodicity and the time-ensemble distinction",
       "value": 29,
+      "color": "#d95f02",
+      "shape": "dot"
+    },
+    {
+      "id": "MOC - HistorEE",
+      "type": "moc",
+      "group": "moc",
+      "label": "MOC - HistorEE",
+      "value": 86,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -505,38 +523,20 @@
       "shape": "dot"
     },
     {
-      "id": "MOC - Historiography and method",
-      "type": "moc",
-      "group": "moc",
-      "label": "MOC - Historiography and method",
-      "value": 36,
-      "color": "#d95f02",
-      "shape": "dot"
-    },
-    {
-      "id": "MOC - HistorEE",
-      "type": "moc",
-      "group": "moc",
-      "label": "MOC - HistorEE",
-      "value": 86,
-      "color": "#d95f02",
-      "shape": "dot"
-    },
-    {
-      "id": "MOC - Risk-sharing vs risk-pricing",
-      "type": "moc",
-      "group": "moc",
-      "label": "MOC - Risk-sharing vs risk-pricing",
-      "value": 36,
-      "color": "#d95f02",
-      "shape": "dot"
-    },
-    {
       "id": "MOC - Entity-shielding and corporate forms",
       "type": "moc",
       "group": "moc",
       "label": "MOC - Entity-shielding and corporate forms",
       "value": 46,
+      "color": "#d95f02",
+      "shape": "dot"
+    },
+    {
+      "id": "MOC - Historiography and method",
+      "type": "moc",
+      "group": "moc",
+      "label": "MOC - Historiography and method",
+      "value": 36,
       "color": "#d95f02",
       "shape": "dot"
     },

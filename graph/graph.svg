@@ -12,13 +12,13 @@
 <!-- Scuttling rewards fraud in the sea loan -->
 <g id="node1" class="node">
 <title>Scuttling rewards fraud in the sea loan</title>
-<ellipse fill="#2f80a8" stroke="black" cx="8047.29" cy="-2826" rx="185.77" ry="18"/>
+<ellipse fill="#e6ab02" stroke="black" cx="8047.29" cy="-2826" rx="185.77" ry="18"/>
 <text text-anchor="middle" x="8047.29" y="-2822.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="white">Scuttling rewards fraud in the sea loan</text>
 </g>
 <!-- The sea loan is a contingent claim not a loan -->
 <g id="node24" class="node">
 <title>The sea loan is a contingent claim not a loan</title>
-<ellipse fill="#2f80a8" stroke="black" cx="3573.29" cy="-2754" rx="211.76" ry="18"/>
+<ellipse fill="#e6ab02" stroke="black" cx="3573.29" cy="-2754" rx="211.76" ry="18"/>
 <text text-anchor="middle" x="3573.29" y="-2750.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="white">The sea loan is a contingent claim not a loan</text>
 </g>
 <!-- Scuttling rewards fraud in the sea loan&#45;&gt;The sea loan is a contingent claim not a loan -->
@@ -30,7 +30,7 @@
 <!-- The qirad envelops the sea loan -->
 <g id="node25" class="node">
 <title>The qirad envelops the sea loan</title>
-<ellipse fill="#2f80a8" stroke="black" cx="8143.29" cy="-2682" rx="155.17" ry="18"/>
+<ellipse fill="#e6ab02" stroke="black" cx="8143.29" cy="-2682" rx="155.17" ry="18"/>
 <text text-anchor="middle" x="8143.29" y="-2678.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="white">The qirad envelops the sea loan</text>
 </g>
 <!-- Scuttling rewards fraud in the sea loan&#45;&gt;The qirad envelops the sea loan -->
@@ -42,7 +42,7 @@
 <!-- Islamic doctrine refuses risk&#45;commodification at step one -->
 <g id="node48" class="node">
 <title>Islamic doctrine refuses risk&#45;commodification at step one</title>
-<ellipse fill="#2f80a8" stroke="black" cx="8094.29" cy="-90" rx="269.95" ry="18"/>
+<ellipse fill="#e6ab02" stroke="black" cx="8094.29" cy="-90" rx="269.95" ry="18"/>
 <text text-anchor="middle" x="8094.29" y="-86.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="white">Islamic doctrine refuses risk&#45;commodification at step one</text>
 </g>
 <!-- Scuttling rewards fraud in the sea loan&#45;&gt;Islamic doctrine refuses risk&#45;commodification at step one -->
@@ -54,7 +54,7 @@
 <!-- MOC &#45; Islamic contract doctrine -->
 <g id="node58" class="node">
 <title>MOC &#45; Islamic contract doctrine</title>
-<ellipse fill="#b3541e" stroke="black" cx="7951.29" cy="-2610" rx="153.27" ry="18"/>
+<ellipse fill="#d95f02" stroke="black" cx="7951.29" cy="-2610" rx="153.27" ry="18"/>
 <text text-anchor="middle" x="7951.29" y="-2606.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="white">MOC &#45; Islamic contract doctrine</text>
 </g>
 <!-- Scuttling rewards fraud in the sea loan&#45;&gt;MOC &#45; Islamic contract doctrine -->
@@ -66,13 +66,13 @@
 <!-- Identity&#45;wrapper and perpetual&#45;monopoly are distinct shielding facets -->
 <g id="node2" class="node">
 <title>Identity&#45;wrapper and perpetual&#45;monopoly are distinct shielding facets</title>
-<ellipse fill="#2f80a8" stroke="black" cx="2134.29" cy="-1674" rx="327.64" ry="18"/>
+<ellipse fill="#e6ab02" stroke="black" cx="2134.29" cy="-1674" rx="327.64" ry="18"/>
 <text text-anchor="middle" x="2134.29" y="-1670.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="white">Identity&#45;wrapper and perpetual&#45;monopoly are distinct shielding facets</text>
 </g>
 <!-- Natie is a false cognate -->
 <g id="node5" class="node">
 <title>Natie is a false cognate</title>
-<ellipse fill="#2f80a8" stroke="black" cx="2134.29" cy="-1602" rx="116.18" ry="18"/>
+<ellipse fill="#e6ab02" stroke="black" cx="2134.29" cy="-1602" rx="116.18" ry="18"/>
 <text text-anchor="middle" x="2134.29" y="-1598.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="white">Natie is a false cognate</text>
 </g>
 <!-- Identity&#45;wrapper and perpetual&#45;monopoly are distinct shielding facets&#45;&gt;Natie is a false cognate -->
@@ -84,7 +84,7 @@
 <!-- The alleenrecht is monopoly held as tradable property -->
 <g id="node14" class="node">
 <title>The alleenrecht is monopoly held as tradable property</title>
-<ellipse fill="#2f80a8" stroke="black" cx="2134.29" cy="-162" rx="254.55" ry="18"/>
+<ellipse fill="#e6ab02" stroke="black" cx="2134.29" cy="-162" rx="254.55" ry="18"/>
 <text text-anchor="middle" x="2134.29" y="-158.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="white">The alleenrecht is monopoly held as tradable property</text>
 </g>
 <!-- Identity&#45;wrapper and perpetual&#45;monopoly are distinct shielding facets&#45;&gt;The alleenrecht is monopoly held as tradable property -->
@@ -96,7 +96,7 @@
 <!-- Entity&#45;shielding -->
 <g id="node41" class="node">
 <title>Entity&#45;shielding</title>
-<ellipse fill="#8aa0ad" stroke="black" cx="3458.29" cy="-666" rx="81.49" ry="18"/>
+<ellipse fill="#666666" stroke="black" cx="3458.29" cy="-666" rx="81.49" ry="18"/>
 <text text-anchor="middle" x="3458.29" y="-662.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="white">Entity&#45;shielding</text>
 </g>
 <!-- Identity&#45;wrapper and perpetual&#45;monopoly are distinct shielding facets&#45;&gt;Entity&#45;shielding -->
@@ -108,7 +108,7 @@
 <!-- MOC &#45; HistorEE -->
 <g id="node56" class="node">
 <title>MOC &#45; HistorEE</title>
-<ellipse fill="#b3541e" stroke="black" cx="3573.29" cy="-2538" rx="79.89" ry="18"/>
+<ellipse fill="#d95f02" stroke="black" cx="3573.29" cy="-2538" rx="79.89" ry="18"/>
 <text text-anchor="middle" x="3573.29" y="-2534.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="white">MOC &#45; HistorEE</text>
 </g>
 <!-- Identity&#45;wrapper and perpetual&#45;monopoly are distinct shielding facets&#45;&gt;MOC &#45; HistorEE -->
@@ -120,7 +120,7 @@
 <!-- MOC &#45; Entity&#45;shielding and corporate forms -->
 <g id="node59" class="node">
 <title>MOC &#45; Entity&#45;shielding and corporate forms</title>
-<ellipse fill="#b3541e" stroke="black" cx="2947.29" cy="-1746" rx="207.16" ry="18"/>
+<ellipse fill="#d95f02" stroke="black" cx="2947.29" cy="-1746" rx="207.16" ry="18"/>
 <text text-anchor="middle" x="2947.29" y="-1742.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="white">MOC &#45; Entity&#45;shielding and corporate forms</text>
 </g>
 <!-- Identity&#45;wrapper and perpetual&#45;monopoly are distinct shielding facets&#45;&gt;MOC &#45; Entity&#45;shielding and corporate forms -->
@@ -132,13 +132,13 @@
 <!-- The qirad&#39;s antecedents are Sasanian not Sogdian -->
 <g id="node3" class="node">
 <title>The qirad&#39;s antecedents are Sasanian not Sogdian</title>
-<ellipse fill="#2f80a8" stroke="black" cx="6527.29" cy="-2394" rx="237.46" ry="18"/>
+<ellipse fill="#e6ab02" stroke="black" cx="6527.29" cy="-2394" rx="237.46" ry="18"/>
 <text text-anchor="middle" x="6527.29" y="-2390.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="white">The qirad&#39;s antecedents are Sasanian not Sogdian</text>
 </g>
 <!-- Transmission versus independent recurrence is the load&#45;bearing test -->
 <g id="node9" class="node">
 <title>Transmission versus independent recurrence is the load&#45;bearing test</title>
-<ellipse fill="#2f80a8" stroke="black" cx="6199.29" cy="-2322" rx="321.14" ry="18"/>
+<ellipse fill="#e6ab02" stroke="black" cx="6199.29" cy="-2322" rx="321.14" ry="18"/>
 <text text-anchor="middle" x="6199.29" y="-2318.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="white">Transmission versus independent recurrence is the load&#45;bearing test</text>
 </g>
 <!-- The qirad&#39;s antecedents are Sasanian not Sogdian&#45;&gt;Transmission versus independent recurrence is the load&#45;bearing test -->
@@ -156,7 +156,7 @@
 <!-- The ortoq is the discriminating instrument -->
 <g id="node33" class="node">
 <title>The ortoq is the discriminating instrument</title>
-<ellipse fill="#2f80a8" stroke="black" cx="6080.29" cy="-2178" rx="202.26" ry="18"/>
+<ellipse fill="#e6ab02" stroke="black" cx="6080.29" cy="-2178" rx="202.26" ry="18"/>
 <text text-anchor="middle" x="6080.29" y="-2174.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="white">The ortoq is the discriminating instrument</text>
 </g>
 <!-- The qirad&#39;s antecedents are Sasanian not Sogdian&#45;&gt;The ortoq is the discriminating instrument -->
@@ -168,7 +168,7 @@
 <!-- Natie and kabu&#45;nakama are a convergence pair -->
 <g id="node46" class="node">
 <title>Natie and kabu&#45;nakama are a convergence pair</title>
-<ellipse fill="#2f80a8" stroke="black" cx="2687.29" cy="-90" rx="224.46" ry="18"/>
+<ellipse fill="#e6ab02" stroke="black" cx="2687.29" cy="-90" rx="224.46" ry="18"/>
 <text text-anchor="middle" x="2687.29" y="-86.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="white">Natie and kabu&#45;nakama are a convergence pair</text>
 </g>
 <!-- The qirad&#39;s antecedents are Sasanian not Sogdian&#45;&gt;Natie and kabu&#45;nakama are a convergence pair -->
@@ -186,7 +186,7 @@
 <!-- MOC &#45; ERC Synergy Grant -->
 <g id="node57" class="node">
 <title>MOC &#45; ERC Synergy Grant</title>
-<ellipse fill="#b3541e" stroke="black" cx="6568.29" cy="-2250" rx="128.08" ry="18"/>
+<ellipse fill="#d95f02" stroke="black" cx="6568.29" cy="-2250" rx="128.08" ry="18"/>
 <text text-anchor="middle" x="6568.29" y="-2246.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="white">MOC &#45; ERC Synergy Grant</text>
 </g>
 <!-- The qirad&#39;s antecedents are Sasanian not Sogdian&#45;&gt;MOC &#45; ERC Synergy Grant -->
@@ -204,13 +204,13 @@
 <!-- Whiggish history of finance names the ascent narrative -->
 <g id="node4" class="node">
 <title>Whiggish history of finance names the ascent narrative</title>
-<ellipse fill="#2f80a8" stroke="black" cx="4067.29" cy="-810" rx="261.05" ry="18"/>
+<ellipse fill="#e6ab02" stroke="black" cx="4067.29" cy="-810" rx="261.05" ry="18"/>
 <text text-anchor="middle" x="4067.29" y="-806.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="white">Whiggish history of finance names the ascent narrative</text>
 </g>
 <!-- Discipline the Whig epithet by pinning it to teleology and survivorship -->
 <g id="node8" class="node">
 <title>Discipline the Whig epithet by pinning it to teleology and survivorship</title>
-<ellipse fill="#2f80a8" stroke="black" cx="4283.29" cy="-882" rx="326.84" ry="18"/>
+<ellipse fill="#e6ab02" stroke="black" cx="4283.29" cy="-882" rx="326.84" ry="18"/>
 <text text-anchor="middle" x="4283.29" y="-878.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="white">Discipline the Whig epithet by pinning it to teleology and survivorship</text>
 </g>
 <!-- Whiggish history of finance names the ascent narrative&#45;&gt;Discipline the Whig epithet by pinning it to teleology and survivorship -->
@@ -222,7 +222,7 @@
 <!-- The ascent narrative is the Jensen error as historiography -->
 <g id="node17" class="node">
 <title>The ascent narrative is the Jensen error as historiography</title>
-<ellipse fill="#2f80a8" stroke="black" cx="4114.29" cy="-738" rx="270.25" ry="18"/>
+<ellipse fill="#e6ab02" stroke="black" cx="4114.29" cy="-738" rx="270.25" ry="18"/>
 <text text-anchor="middle" x="4114.29" y="-734.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="white">The ascent narrative is the Jensen error as historiography</text>
 </g>
 <!-- Whiggish history of finance names the ascent narrative&#45;&gt;The ascent narrative is the Jensen error as historiography -->
@@ -240,7 +240,7 @@
 <!-- MOC &#45; Historiography and method -->
 <g id="node60" class="node">
 <title>MOC &#45; Historiography and method</title>
-<ellipse fill="#b3541e" stroke="black" cx="5317.29" cy="-2466" rx="165.97" ry="18"/>
+<ellipse fill="#d95f02" stroke="black" cx="5317.29" cy="-2466" rx="165.97" ry="18"/>
 <text text-anchor="middle" x="5317.29" y="-2462.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="white">MOC &#45; Historiography and method</text>
 </g>
 <!-- Whiggish history of finance names the ascent narrative&#45;&gt;MOC &#45; Historiography and method -->
@@ -282,7 +282,7 @@
 <!-- Guard against reverse&#45;teleology -->
 <g id="node6" class="node">
 <title>Guard against reverse&#45;teleology</title>
-<ellipse fill="#2f80a8" stroke="black" cx="5427.29" cy="-954" rx="155.17" ry="18"/>
+<ellipse fill="#e6ab02" stroke="black" cx="5427.29" cy="-954" rx="155.17" ry="18"/>
 <text text-anchor="middle" x="5427.29" y="-950.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="white">Guard against reverse&#45;teleology</text>
 </g>
 <!-- Guard against reverse&#45;teleology&#45;&gt;Discipline the Whig epithet by pinning it to teleology and survivorship -->
@@ -294,7 +294,7 @@
 <!-- Time&#45;average optimization is a survivorship property not an intention -->
 <g id="node18" class="node">
 <title>Time&#45;average optimization is a survivorship property not an intention</title>
-<ellipse fill="#2f80a8" stroke="black" cx="4116.29" cy="-306" rx="324.94" ry="18"/>
+<ellipse fill="#e6ab02" stroke="black" cx="4116.29" cy="-306" rx="324.94" ry="18"/>
 <text text-anchor="middle" x="4116.29" y="-302.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="white">Time&#45;average optimization is a survivorship property not an intention</text>
 </g>
 <!-- Guard against reverse&#45;teleology&#45;&gt;Time&#45;average optimization is a survivorship property not an intention -->
@@ -318,13 +318,13 @@
 <!-- The Fugger diversified activity while concentrating the barrier -->
 <g id="node7" class="node">
 <title>The Fugger diversified activity while concentrating the barrier</title>
-<ellipse fill="#2f80a8" stroke="black" cx="4578.29" cy="-2034" rx="289.75" ry="18"/>
+<ellipse fill="#e6ab02" stroke="black" cx="4578.29" cy="-2034" rx="289.75" ry="18"/>
 <text text-anchor="middle" x="4578.29" y="-2030.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="white">The Fugger diversified activity while concentrating the barrier</text>
 </g>
 <!-- Jensen gap -->
 <g id="node10" class="node">
 <title>Jensen gap</title>
-<ellipse fill="#8aa0ad" stroke="black" cx="4129.29" cy="-1962" rx="61.19" ry="18"/>
+<ellipse fill="#666666" stroke="black" cx="4129.29" cy="-1962" rx="61.19" ry="18"/>
 <text text-anchor="middle" x="4129.29" y="-1958.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="white">Jensen gap</text>
 </g>
 <!-- The Fugger diversified activity while concentrating the barrier&#45;&gt;Jensen gap -->
@@ -336,7 +336,7 @@
 <!-- Pooling&#39;s sign is set by the correlation of its baskets -->
 <g id="node11" class="node">
 <title>Pooling&#39;s sign is set by the correlation of its baskets</title>
-<ellipse fill="#2f80a8" stroke="black" cx="4336.29" cy="-1602" rx="244.26" ry="18"/>
+<ellipse fill="#e6ab02" stroke="black" cx="4336.29" cy="-1602" rx="244.26" ry="18"/>
 <text text-anchor="middle" x="4336.29" y="-1598.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="white">Pooling&#39;s sign is set by the correlation of its baskets</text>
 </g>
 <!-- The Fugger diversified activity while concentrating the barrier&#45;&gt;Pooling&#39;s sign is set by the correlation of its baskets -->
@@ -348,7 +348,7 @@
 <!-- Absorbing barrier -->
 <g id="node15" class="node">
 <title>Absorbing barrier</title>
-<ellipse fill="#8aa0ad" stroke="black" cx="3151.29" cy="-594" rx="90.18" ry="18"/>
+<ellipse fill="#666666" stroke="black" cx="3151.29" cy="-594" rx="90.18" ry="18"/>
 <text text-anchor="middle" x="3151.29" y="-590.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="white">Absorbing barrier</text>
 </g>
 <!-- The Fugger diversified activity while concentrating the barrier&#45;&gt;Absorbing barrier -->
@@ -360,7 +360,7 @@
 <!-- The real cut is shielded&#45;and&#45;pooled versus unshielded -->
 <g id="node43" class="node">
 <title>The real cut is shielded&#45;and&#45;pooled versus unshielded</title>
-<ellipse fill="#2f80a8" stroke="black" cx="3029.29" cy="-378" rx="254.55" ry="18"/>
+<ellipse fill="#e6ab02" stroke="black" cx="3029.29" cy="-378" rx="254.55" ry="18"/>
 <text text-anchor="middle" x="3029.29" y="-374.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="white">The real cut is shielded&#45;and&#45;pooled versus unshielded</text>
 </g>
 <!-- The Fugger diversified activity while concentrating the barrier&#45;&gt;The real cut is shielded&#45;and&#45;pooled versus unshielded -->
@@ -372,7 +372,7 @@
 <!-- MOC &#45; Risk&#45;sharing vs risk&#45;pricing -->
 <g id="node54" class="node">
 <title>MOC &#45; Risk&#45;sharing vs risk&#45;pricing</title>
-<ellipse fill="#b3541e" stroke="black" cx="6863.29" cy="-2106" rx="165.17" ry="18"/>
+<ellipse fill="#d95f02" stroke="black" cx="6863.29" cy="-2106" rx="165.17" ry="18"/>
 <text text-anchor="middle" x="6863.29" y="-2102.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="white">MOC &#45; Risk&#45;sharing vs risk&#45;pricing</text>
 </g>
 <!-- The Fugger diversified activity while concentrating the barrier&#45;&gt;MOC &#45; Risk&#45;sharing vs risk&#45;pricing -->
@@ -384,7 +384,7 @@
 <!-- MOC &#45; Ergodicity and the time&#45;ensemble distinction -->
 <g id="node55" class="node">
 <title>MOC &#45; Ergodicity and the time&#45;ensemble distinction</title>
-<ellipse fill="#b3541e" stroke="black" cx="3228.29" cy="-1818" rx="243.96" ry="18"/>
+<ellipse fill="#d95f02" stroke="black" cx="3228.29" cy="-1818" rx="243.96" ry="18"/>
 <text text-anchor="middle" x="3228.29" y="-1814.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="white">MOC &#45; Ergodicity and the time&#45;ensemble distinction</text>
 </g>
 <!-- The Fugger diversified activity while concentrating the barrier&#45;&gt;MOC &#45; Ergodicity and the time&#45;ensemble distinction -->
@@ -462,7 +462,7 @@
 <!-- Pricing risk does not remove it -->
 <g id="node26" class="node">
 <title>Pricing risk does not remove it</title>
-<ellipse fill="#2f80a8" stroke="black" cx="1112.29" cy="-1890" rx="148.37" ry="18"/>
+<ellipse fill="#e6ab02" stroke="black" cx="1112.29" cy="-1890" rx="148.37" ry="18"/>
 <text text-anchor="middle" x="1112.29" y="-1886.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="white">Pricing risk does not remove it</text>
 </g>
 <!-- Jensen gap&#45;&gt;Pricing risk does not remove it -->
@@ -504,7 +504,7 @@
 <!-- Time&#45;average -->
 <g id="node21" class="node">
 <title>Time&#45;average</title>
-<ellipse fill="#8aa0ad" stroke="black" cx="1211.29" cy="-522" rx="72.59" ry="18"/>
+<ellipse fill="#666666" stroke="black" cx="1211.29" cy="-522" rx="72.59" ry="18"/>
 <text text-anchor="middle" x="1211.29" y="-518.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="white">Time&#45;average</text>
 </g>
 <!-- Pooling&#39;s sign is set by the correlation of its baskets&#45;&gt;Time&#45;average -->
@@ -516,7 +516,7 @@
 <!-- Skin in the game -->
 <g id="node37" class="node">
 <title>Skin in the game</title>
-<ellipse fill="#8aa0ad" stroke="black" cx="7396.29" cy="-234" rx="87.18" ry="18"/>
+<ellipse fill="#666666" stroke="black" cx="7396.29" cy="-234" rx="87.18" ry="18"/>
 <text text-anchor="middle" x="7396.29" y="-230.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="white">Skin in the game</text>
 </g>
 <!-- Pooling&#39;s sign is set by the correlation of its baskets&#45;&gt;Skin in the game -->
@@ -558,13 +558,13 @@
 <!-- Lock&#45;in and outcome&#45;coupling are distinct bindings -->
 <g id="node12" class="node">
 <title>Lock&#45;in and outcome&#45;coupling are distinct bindings</title>
-<ellipse fill="#2f80a8" stroke="black" cx="6436.29" cy="-1170" rx="241.56" ry="18"/>
+<ellipse fill="#e6ab02" stroke="black" cx="6436.29" cy="-1170" rx="241.56" ry="18"/>
 <text text-anchor="middle" x="6436.29" y="-1166.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="white">Lock&#45;in and outcome&#45;coupling are distinct bindings</text>
 </g>
 <!-- Skin in the game is asymmetric in the mudaraba -->
 <g id="node13" class="node">
 <title>Skin in the game is asymmetric in the mudaraba</title>
-<ellipse fill="#2f80a8" stroke="black" cx="7927.29" cy="-1098" rx="231.26" ry="18"/>
+<ellipse fill="#e6ab02" stroke="black" cx="7927.29" cy="-1098" rx="231.26" ry="18"/>
 <text text-anchor="middle" x="7927.29" y="-1094.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="white">Skin in the game is asymmetric in the mudaraba</text>
 </g>
 <!-- Lock&#45;in and outcome&#45;coupling are distinct bindings&#45;&gt;Skin in the game is asymmetric in the mudaraba -->
@@ -576,7 +576,7 @@
 <!-- The mudaraba is revocable not locked in -->
 <g id="node19" class="node">
 <title>The mudaraba is revocable not locked in</title>
-<ellipse fill="#2f80a8" stroke="black" cx="6742.29" cy="-1098" rx="193.87" ry="18"/>
+<ellipse fill="#e6ab02" stroke="black" cx="6742.29" cy="-1098" rx="193.87" ry="18"/>
 <text text-anchor="middle" x="6742.29" y="-1094.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="white">The mudaraba is revocable not locked in</text>
 </g>
 <!-- Lock&#45;in and outcome&#45;coupling are distinct bindings&#45;&gt;The mudaraba is revocable not locked in -->
@@ -594,7 +594,7 @@
 <!-- The four&#45;step decoupling from participation to the veil -->
 <g id="node45" class="node">
 <title>The four&#45;step decoupling from participation to the veil</title>
-<ellipse fill="#2f80a8" stroke="black" cx="3878.29" cy="-162" rx="254.55" ry="18"/>
+<ellipse fill="#e6ab02" stroke="black" cx="3878.29" cy="-162" rx="254.55" ry="18"/>
 <text text-anchor="middle" x="3878.29" y="-158.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="white">The four&#45;step decoupling from participation to the veil</text>
 </g>
 <!-- Lock&#45;in and outcome&#45;coupling are distinct bindings&#45;&gt;The four&#45;step decoupling from participation to the veil -->
@@ -672,7 +672,7 @@
 <!-- The naties are a six&#45;century Lindy institution -->
 <g id="node32" class="node">
 <title>The naties are a six&#45;century Lindy institution</title>
-<ellipse fill="#2f80a8" stroke="black" cx="2572.29" cy="-234" rx="211.76" ry="18"/>
+<ellipse fill="#e6ab02" stroke="black" cx="2572.29" cy="-234" rx="211.76" ry="18"/>
 <text text-anchor="middle" x="2572.29" y="-230.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="white">The naties are a six&#45;century Lindy institution</text>
 </g>
 <!-- The alleenrecht is monopoly held as tradable property&#45;&gt;The naties are a six&#45;century Lindy institution -->
@@ -744,13 +744,13 @@
 <!-- Persona ficta made the corporation a&#45;moral ab initio -->
 <g id="node16" class="node">
 <title>Persona ficta made the corporation a&#45;moral ab initio</title>
-<ellipse fill="#2f80a8" stroke="black" cx="5520.29" cy="-1602" rx="246.16" ry="18"/>
+<ellipse fill="#e6ab02" stroke="black" cx="5520.29" cy="-1602" rx="246.16" ry="18"/>
 <text text-anchor="middle" x="5520.29" y="-1598.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="white">Persona ficta made the corporation a&#45;moral ab initio</text>
 </g>
 <!-- Entitlement by liability versus entitlement by membership -->
 <g id="node20" class="node">
 <title>Entitlement by liability versus entitlement by membership</title>
-<ellipse fill="#2f80a8" stroke="black" cx="6506.29" cy="-1386" rx="274.05" ry="18"/>
+<ellipse fill="#e6ab02" stroke="black" cx="6506.29" cy="-1386" rx="274.05" ry="18"/>
 <text text-anchor="middle" x="6506.29" y="-1382.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="white">Entitlement by liability versus entitlement by membership</text>
 </g>
 <!-- Persona ficta made the corporation a&#45;moral ab initio&#45;&gt;Entitlement by liability versus entitlement by membership -->
@@ -762,7 +762,7 @@
 <!-- The waqf partition converts absence into refusal -->
 <g id="node39" class="node">
 <title>The waqf partition converts absence into refusal</title>
-<ellipse fill="#2f80a8" stroke="black" cx="5717.29" cy="-1530" rx="229.36" ry="18"/>
+<ellipse fill="#e6ab02" stroke="black" cx="5717.29" cy="-1530" rx="229.36" ry="18"/>
 <text text-anchor="middle" x="5717.29" y="-1526.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="white">The waqf partition converts absence into refusal</text>
 </g>
 <!-- Persona ficta made the corporation a&#45;moral ab initio&#45;&gt;The waqf partition converts absence into refusal -->
@@ -882,7 +882,7 @@
 <!-- Kuran&#39;s brake is a refusal of immortal entities -->
 <g id="node38" class="node">
 <title>Kuran&#39;s brake is a refusal of immortal entities</title>
-<ellipse fill="#2f80a8" stroke="black" cx="5750.29" cy="-1026" rx="215.56" ry="18"/>
+<ellipse fill="#e6ab02" stroke="black" cx="5750.29" cy="-1026" rx="215.56" ry="18"/>
 <text text-anchor="middle" x="5750.29" y="-1022.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="white">Kuran&#39;s brake is a refusal of immortal entities</text>
 </g>
 <!-- The mudaraba is revocable not locked in&#45;&gt;Kuran&#39;s brake is a refusal of immortal entities -->
@@ -924,7 +924,7 @@
 <!-- The liability principle was demoted from rule to maxim -->
 <g id="node28" class="node">
 <title>The liability principle was demoted from rule to maxim</title>
-<ellipse fill="#2f80a8" stroke="black" cx="6941.29" cy="-1314" rx="257.25" ry="18"/>
+<ellipse fill="#e6ab02" stroke="black" cx="6941.29" cy="-1314" rx="257.25" ry="18"/>
 <text text-anchor="middle" x="6941.29" y="-1310.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="white">The liability principle was demoted from rule to maxim</text>
 </g>
 <!-- Entitlement by liability versus entitlement by membership&#45;&gt;The liability principle was demoted from rule to maxim -->
@@ -972,7 +972,7 @@
 <!-- Route Kolmogorov to ergodic theory not the theory of means -->
 <g id="node29" class="node">
 <title>Route Kolmogorov to ergodic theory not the theory of means</title>
-<ellipse fill="#2f80a8" stroke="black" cx="1595.29" cy="-234" rx="284.05" ry="18"/>
+<ellipse fill="#e6ab02" stroke="black" cx="1595.29" cy="-234" rx="284.05" ry="18"/>
 <text text-anchor="middle" x="1595.29" y="-230.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="white">Route Kolmogorov to ergodic theory not the theory of means</text>
 </g>
 <!-- Time&#45;average&#45;&gt;Route Kolmogorov to ergodic theory not the theory of means -->
@@ -984,7 +984,7 @@
 <!-- The ensemble average is the local descriptor of a barrier&#45;shielded agent -->
 <g id="node51" class="node">
 <title>The ensemble average is the local descriptor of a barrier&#45;shielded agent</title>
-<ellipse fill="#2f80a8" stroke="black" cx="1635.29" cy="-450" rx="336.04" ry="18"/>
+<ellipse fill="#e6ab02" stroke="black" cx="1635.29" cy="-450" rx="336.04" ry="18"/>
 <text text-anchor="middle" x="1635.29" y="-446.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="white">The ensemble average is the local descriptor of a barrier&#45;shielded agent</text>
 </g>
 <!-- Time&#45;average&#45;&gt;The ensemble average is the local descriptor of a barrier&#45;shielded agent -->
@@ -1002,7 +1002,7 @@
 <!-- The deficit reading of absence is the scalar ranking in evidentiary form -->
 <g id="node22" class="node">
 <title>The deficit reading of absence is the scalar ranking in evidentiary form</title>
-<ellipse fill="#2f80a8" stroke="black" cx="6115.29" cy="-1602" rx="330.64" ry="18"/>
+<ellipse fill="#e6ab02" stroke="black" cx="6115.29" cy="-1602" rx="330.64" ry="18"/>
 <text text-anchor="middle" x="6115.29" y="-1598.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="white">The deficit reading of absence is the scalar ranking in evidentiary form</text>
 </g>
 <!-- The deficit reading of absence is the scalar ranking in evidentiary form&#45;&gt;Guard against reverse&#45;teleology -->
@@ -1014,7 +1014,7 @@
 <!-- Refusals are observations of the filter not inferences from survivors -->
 <g id="node23" class="node">
 <title>Refusals are observations of the filter not inferences from survivors</title>
-<ellipse fill="#2f80a8" stroke="black" cx="6694.29" cy="-1530" rx="315.74" ry="18"/>
+<ellipse fill="#e6ab02" stroke="black" cx="6694.29" cy="-1530" rx="315.74" ry="18"/>
 <text text-anchor="middle" x="6694.29" y="-1526.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="white">Refusals are observations of the filter not inferences from survivors</text>
 </g>
 <!-- The deficit reading of absence is the scalar ranking in evidentiary form&#45;&gt;Refusals are observations of the filter not inferences from survivors -->
@@ -1038,7 +1038,7 @@
 <!-- Split provenance into priority and independence -->
 <g id="node40" class="node">
 <title>Split provenance into priority and independence</title>
-<ellipse fill="#2f80a8" stroke="black" cx="6875.29" cy="-1458" rx="228.56" ry="18"/>
+<ellipse fill="#e6ab02" stroke="black" cx="6875.29" cy="-1458" rx="228.56" ry="18"/>
 <text text-anchor="middle" x="6875.29" y="-1454.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="white">Split provenance into priority and independence</text>
 </g>
 <!-- The deficit reading of absence is the scalar ranking in evidentiary form&#45;&gt;Split provenance into priority and independence -->
@@ -1080,7 +1080,7 @@
 <!-- Outcome&#45;coupling is the condition of legibility -->
 <g id="node49" class="node">
 <title>Outcome&#45;coupling is the condition of legibility</title>
-<ellipse fill="#2f80a8" stroke="black" cx="6166.29" cy="-1458" rx="218.26" ry="18"/>
+<ellipse fill="#e6ab02" stroke="black" cx="6166.29" cy="-1458" rx="218.26" ry="18"/>
 <text text-anchor="middle" x="6166.29" y="-1454.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="white">Outcome&#45;coupling is the condition of legibility</text>
 </g>
 <!-- Refusals are observations of the filter not inferences from survivors&#45;&gt;Outcome&#45;coupling is the condition of legibility -->
@@ -1128,7 +1128,7 @@
 <!-- Naviganti &#45; Latin Christendom rejected the sea loan too -->
 <g id="node50" class="node">
 <title>Naviganti &#45; Latin Christendom rejected the sea loan too</title>
-<ellipse fill="#2f80a8" stroke="black" cx="8094.29" cy="-18" rx="259.95" ry="18"/>
+<ellipse fill="#e6ab02" stroke="black" cx="8094.29" cy="-18" rx="259.95" ry="18"/>
 <text text-anchor="middle" x="8094.29" y="-14.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="white">Naviganti &#45; Latin Christendom rejected the sea loan too</text>
 </g>
 <!-- The sea loan is a contingent claim not a loan&#45;&gt;Naviganti &#45; Latin Christendom rejected the sea loan too -->
@@ -1212,7 +1212,7 @@
 <!-- The corporation is not the omega &#45; the naties are an undisplaced niche -->
 <g id="node27" class="node">
 <title>The corporation is not the omega &#45; the naties are an undisplaced niche</title>
-<ellipse fill="#2f80a8" stroke="black" cx="3877.29" cy="-1674" rx="330.64" ry="18"/>
+<ellipse fill="#e6ab02" stroke="black" cx="3877.29" cy="-1674" rx="330.64" ry="18"/>
 <text text-anchor="middle" x="3877.29" y="-1670.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="white">The corporation is not the omega &#45; the naties are an undisplaced niche</text>
 </g>
 <!-- The corporation is not the omega &#45; the naties are an undisplaced niche&#45;&gt;Natie is a false cognate -->
@@ -1254,7 +1254,7 @@
 <!-- Harris 2020 on the late plurality of limited liability -->
 <g id="node35" class="node">
 <title>Harris 2020 on the late plurality of limited liability</title>
-<ellipse fill="#2f80a8" stroke="black" cx="3801.29" cy="-1602" rx="235.06" ry="18"/>
+<ellipse fill="#7570b3" stroke="black" cx="3801.29" cy="-1602" rx="235.06" ry="18"/>
 <text text-anchor="middle" x="3801.29" y="-1598.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="white">Harris 2020 on the late plurality of limited liability</text>
 </g>
 <!-- The corporation is not the omega &#45; the naties are an undisplaced niche&#45;&gt;Harris 2020 on the late plurality of limited liability -->
@@ -1338,7 +1338,7 @@
 <!-- Economics had its ensemble moment in 1738 and psychologized it -->
 <g id="node47" class="node">
 <title>Economics had its ensemble moment in 1738 and psychologized it</title>
-<ellipse fill="#2f80a8" stroke="black" cx="1195.29" cy="-306" rx="313.04" ry="18"/>
+<ellipse fill="#e6ab02" stroke="black" cx="1195.29" cy="-306" rx="313.04" ry="18"/>
 <text text-anchor="middle" x="1195.29" y="-302.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="white">Economics had its ensemble moment in 1738 and psychologized it</text>
 </g>
 <!-- Route Kolmogorov to ergodic theory not the theory of means&#45;&gt;Economics had its ensemble moment in 1738 and psychologized it -->
@@ -1368,7 +1368,7 @@
 <!-- The ie as entity&#45;shielding -->
 <g id="node30" class="node">
 <title>The ie as entity&#45;shielding</title>
-<ellipse fill="#8aa0ad" stroke="black" cx="2953.29" cy="-306" rx="124.28" ry="18"/>
+<ellipse fill="#666666" stroke="black" cx="2953.29" cy="-306" rx="124.28" ry="18"/>
 <text text-anchor="middle" x="2953.29" y="-302.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="white">The ie as entity&#45;shielding</text>
 </g>
 <!-- The ie as entity&#45;shielding&#45;&gt;The naties are a six&#45;century Lindy institution -->
@@ -1404,7 +1404,7 @@
 <!-- Legal violence is the weapon of the militarily insufficient -->
 <g id="node31" class="node">
 <title>Legal violence is the weapon of the militarily insufficient</title>
-<ellipse fill="#2f80a8" stroke="black" cx="2426.29" cy="-18" rx="264.55" ry="18"/>
+<ellipse fill="#e6ab02" stroke="black" cx="2426.29" cy="-18" rx="264.55" ry="18"/>
 <text text-anchor="middle" x="2426.29" y="-14.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="white">Legal violence is the weapon of the militarily insufficient</text>
 </g>
 <!-- Legal violence is the weapon of the militarily insufficient&#45;&gt;Entity&#45;shielding -->
@@ -1416,7 +1416,7 @@
 <!-- Mare Liberum was a corporate legal weapon -->
 <g id="node52" class="node">
 <title>Mare Liberum was a corporate legal weapon</title>
-<ellipse fill="#2f80a8" stroke="black" cx="3139.29" cy="-90" rx="209.86" ry="18"/>
+<ellipse fill="#e6ab02" stroke="black" cx="3139.29" cy="-90" rx="209.86" ry="18"/>
 <text text-anchor="middle" x="3139.29" y="-86.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="white">Mare Liberum was a corporate legal weapon</text>
 </g>
 <!-- Legal violence is the weapon of the militarily insufficient&#45;&gt;Mare Liberum was a corporate legal weapon -->
@@ -1500,13 +1500,13 @@
 <!-- Decoupling substitutes proxy legibility for outcome legibility -->
 <g id="node34" class="node">
 <title>Decoupling substitutes proxy legibility for outcome legibility</title>
-<ellipse fill="#2f80a8" stroke="black" cx="4966.29" cy="-1314" rx="282.15" ry="18"/>
+<ellipse fill="#e6ab02" stroke="black" cx="4966.29" cy="-1314" rx="282.15" ry="18"/>
 <text text-anchor="middle" x="4966.29" y="-1310.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="white">Decoupling substitutes proxy legibility for outcome legibility</text>
 </g>
 <!-- The durable&#45;and&#45;coupled cell is the underexplored one -->
 <g id="node36" class="node">
 <title>The durable&#45;and&#45;coupled cell is the underexplored one</title>
-<ellipse fill="#2f80a8" stroke="black" cx="4164.29" cy="-1242" rx="258.05" ry="18"/>
+<ellipse fill="#e6ab02" stroke="black" cx="4164.29" cy="-1242" rx="258.05" ry="18"/>
 <text text-anchor="middle" x="4164.29" y="-1238.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="white">The durable&#45;and&#45;coupled cell is the underexplored one</text>
 </g>
 <!-- Decoupling substitutes proxy legibility for outcome legibility&#45;&gt;The durable&#45;and&#45;coupled cell is the underexplored one -->
@@ -1530,7 +1530,7 @@
 <!-- Selection frequency trades against organizational memory -->
 <g id="node53" class="node">
 <title>Selection frequency trades against organizational memory</title>
-<ellipse fill="#2f80a8" stroke="black" cx="5146.29" cy="-1386" rx="274.05" ry="18"/>
+<ellipse fill="#e6ab02" stroke="black" cx="5146.29" cy="-1386" rx="274.05" ry="18"/>
 <text text-anchor="middle" x="5146.29" y="-1382.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="white">Selection frequency trades against organizational memory</text>
 </g>
 <!-- Decoupling substitutes proxy legibility for outcome legibility&#45;&gt;Selection frequency trades against organizational memory -->
@@ -1824,7 +1824,7 @@
 <!-- The determinate&#45;contingent typology carries the richness -->
 <g id="node42" class="node">
 <title>The determinate&#45;contingent typology carries the richness</title>
-<ellipse fill="#2f80a8" stroke="black" cx="6608.29" cy="-2178" rx="270.25" ry="18"/>
+<ellipse fill="#e6ab02" stroke="black" cx="6608.29" cy="-2178" rx="270.25" ry="18"/>
 <text text-anchor="middle" x="6608.29" y="-2174.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="white">The determinate&#45;contingent typology carries the richness</text>
 </g>
 <!-- The determinate&#45;contingent typology carries the richness&#45;&gt;Transmission versus independent recurrence is the load&#45;bearing test -->
@@ -1896,7 +1896,7 @@
 <!-- Separate the genetic and the methodological claims about economics -->
 <g id="node44" class="node">
 <title>Separate the genetic and the methodological claims about economics</title>
-<ellipse fill="#2f80a8" stroke="black" cx="1195.29" cy="-378" rx="324.94" ry="18"/>
+<ellipse fill="#e6ab02" stroke="black" cx="1195.29" cy="-378" rx="324.94" ry="18"/>
 <text text-anchor="middle" x="1195.29" y="-374.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="white">Separate the genetic and the methodological claims about economics</text>
 </g>
 <!-- Separate the genetic and the methodological claims about economics&#45;&gt;Time&#45;average -->
@@ -2004,7 +2004,7 @@
 <!-- clearing_records -->
 <g id="node62" class="node">
 <title>clearing_records</title>
-<path fill="#455a64" stroke="black" d="M2839.29,-32.73C2839.29,-34.53 2810.15,-36 2774.29,-36 2738.42,-36 2709.29,-34.53 2709.29,-32.73 2709.29,-32.73 2709.29,-3.27 2709.29,-3.27 2709.29,-1.47 2738.42,0 2774.29,0 2810.15,0 2839.29,-1.47 2839.29,-3.27 2839.29,-3.27 2839.29,-32.73 2839.29,-32.73"/>
+<path fill="#a6761d" stroke="black" d="M2839.29,-32.73C2839.29,-34.53 2810.15,-36 2774.29,-36 2738.42,-36 2709.29,-34.53 2709.29,-32.73 2709.29,-32.73 2709.29,-3.27 2709.29,-3.27 2709.29,-1.47 2738.42,0 2774.29,0 2810.15,0 2839.29,-1.47 2839.29,-3.27 2839.29,-3.27 2839.29,-32.73 2839.29,-32.73"/>
 <path fill="none" stroke="black" d="M2839.29,-32.73C2839.29,-30.92 2810.15,-29.45 2774.29,-29.45 2738.42,-29.45 2709.29,-30.92 2709.29,-32.73"/>
 <text text-anchor="middle" x="2774.29" y="-14.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="white">clearing_records</text>
 </g>
@@ -3031,7 +3031,7 @@
 <!-- tags -->
 <g id="node61" class="node">
 <title>tags</title>
-<ellipse fill="#777777" stroke="black" cx="8281.29" cy="-2826" rx="30.59" ry="18"/>
+<ellipse fill="#66a61e" stroke="black" cx="8281.29" cy="-2826" rx="30.59" ry="18"/>
 <text text-anchor="middle" x="8281.29" y="-2822.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="white">tags</text>
 </g>
 </g>
