@@ -13,7 +13,7 @@ Keep tags lowercase, hyphenated, singular. Before coining a new tag, check this 
 
 ## Ergodicity / dynamics
 
-`ergodicity` · `time-average` · `ensemble-average` · `multiplicative-dynamics` · `absorbing-barrier` · `jensen-inequality` · `convexity` · `diversification` · `kolmogorov-nagumo` · `expected-utility` · `ergodic-hygiene`
+`ergodicity` · `time-average` · `ensemble-average` · `multiplicative-dynamics` · `absorbing-barrier` · `jensen-inequality` · `convexity` · `diversification` · `synchrony` · `kolmogorov-nagumo` · `expected-utility` · `ergodic-hygiene`
 
 ## Instruments & risk
 
