@@ -23,10 +23,10 @@
   ],
   "julia.packageServer": "https://juliahub.com/",
   "foam.files.exclude": [
-  "**/.foam/templates/**/*",
-  "**/_foam-docs/**/*",
-  "**/_layouts/**/*",
-  "**/_site/**/*"
+    "**/.foam/templates/**/*",
+    "**/_foam-docs/**/*",
+    "**/_layouts/**/*",
+    "**/_site/**/*"
   ],
   "foam.graph.style": {
     "lineColor": "#5c5c5c",
@@ -34,7 +34,8 @@
       "note": "#4063D8",
       "placeholder": "#CB3C33",
       "tag": "#389826",
-      "attachment": "#9558B2"
+      "attachment": "#9558B2",
+      "source": "#9558B2"
     }
   }
 }
