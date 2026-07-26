@@ -10,7 +10,7 @@ status: seed
 
 # The corporation is not the omega - the naties are an undisplaced niche
 
-Harris's "convergent evolution towards the joint-stock company" (Le Bris et al.) reads organizational history as a scalar ascent with the anonymous, tradable-share corporation at its summit. This is a survivorship reading (see [[Refusals are observations of the filter not inferences from survivors]]): it names the scalable survivor and calls the whole landscape a convergence, discarding the forms that persisted by *refusing* scale. The Antwerp harbor *naties* break the teleology — not by antiquity, but by occupying a niche the joint-stock form never reached into and never displaced.
+Harris's "convergent evolution towards the joint-stock company" (Le Bris et al.) reads organizational history as a scalar ascent with the anonymous, tradable-share corporation at its summit. This is a survivorship reading (see [[Refusals are observations of the filter not inferences from survivors]]): it names the scalable survivor and calls the whole landscape a convergence, discarding the forms that persisted by *refusing* scale. Harris's own later work cuts against the frame — [[Harris 2020 on the late plurality of limited liability]] shows the attribute treated as the corporation's cornerstone was late, non-linear, and uniform only in the twentieth century, so even the telos is plural and contingent. The Antwerp harbor *naties* break the teleology — not by antiquity, but by occupying a niche the joint-stock form never reached into and never displaced.
 
 Two disciplines, or the argument leaks.
 
@@ -27,6 +27,7 @@ The niche is legible through [[Pooling's sign is set by the correlation of its b
 - [[Natie and kabu-nakama are a convergence pair]]
 - [[Natie is a false cognate]]
 - [[Pooling's sign is set by the correlation of its baskets]]
+- [[Harris 2020 on the late plurality of limited liability]]
 - [[Refusals are observations of the filter not inferences from survivors]]
 - [[The deficit reading of absence is the scalar ranking in evidentiary form]]
 - [[MOC - Historiography and method]]
