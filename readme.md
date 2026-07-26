@@ -32,6 +32,10 @@ One knowledge base that behaves like the rest of the project: versioned, attribu
 
 `notes/` holds atomic notes, one claim each; `mocs/` holds the hub notes; `tags.md` is the controlled vocabulary; `glossary.md` explains the abbreviations and the frontmatter schema; `scripts/` holds the validator and the graph exporter; `graph/` holds generated output. The full house rules — the note model, the frontmatter schema, the tagging discipline, the voice — live in `CLAUDE.md` and govern any writing in this repository. Read that before adding notes.
 
+## The knowledge graph
+
+`scripts/export_graph.py` renders the vault's wikilink structure to a portable, self-contained `graph/graph.html`, mirroring the interactive graph Foam draws in VS Code. Both are coloured from one categorical palette — ColorBrewer *Dark2* — chosen because it is colourblind-safe: the node classes a reader must tell apart stay distinct under red–green and blue–yellow colour-vision deficiency, which matters for a repository meant to be shown and shared. Colour encodes *category*, never magnitude: MOC hubs in orange, source (literature) notes in purple, concept tags in green, content notes in teal, with note maturity and codebooks datasets given their own Dark2 hues. The mapping is pinned in two places — `.vscode/settings.json` for Foam (keyed by note type) and the exporter's `COLOR` table (keyed by status) — so the two graphs share one colour vocabulary instead of drifting apart.
+
 ## Status
 
 The vault is presently single-author working notes, but it is built to become a shared instrument for HistorEE: the git model, the controlled vocabulary, the MOC hubs, and the validation are all in place precisely so that more than one hand can contribute without the collection decaying. Contribution conventions will track those of `HistorEE_codebooks` — branch, validate, review, sign — as the team grows into it.

@@ -31,14 +31,14 @@
   "foam.graph.style": {
     "lineColor": "#5c5c5c",
     "node": {
-      "note": "#4063D8",
-      "permanent": "#4063D8",
-      "reference": "#4063D8",
-      "moc": "#9558B2",
-      "source": "#CB3C33",
-      "placeholder": "#CB3C33",
-      "tag": "#389826",
-      "attachment": "#9558B2"
+      "note": "#1b9e77",
+      "permanent": "#1b9e77",
+      "moc": "#d95f02",
+      "source": "#7570b3",
+      "reference": "#66a61e",
+      "tag": "#e7298a",
+      "placeholder": "#666666",
+      "attachment": "#a6761d"
     }
   }
 }

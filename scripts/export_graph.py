@@ -24,14 +24,15 @@ FM_TYPE = re.compile(r"^type:\s*(\w+)", re.M)
 FM_STATUS = re.compile(r"^status:\s*(\w+)", re.M)
 FM_DB = re.compile(r"^database:\s*(.+)$", re.M)   # optional link(s) to HistorEE_codebooks datasets
 
-COLOR = {  # by type / status
-    "moc":        "#b3541e",   # hubs — warm
-    "developed":  "#1f6f54",
-    "seed":       "#2f80a8",
-    "stub":       "#8aa0ad",
-    "reference":  "#777777",
-    "database":   "#455a64",   # HistorEE_codebooks datasets (external evidence)
-    "default":    "#2f80a8",
+COLOR = {  # ColorBrewer Dark2 (colourblind-friendly qualitative scheme), by type / status
+    "moc":        "#d95f02",   # hubs                    Dark2-2 orange
+    "source":     "#7570b3",   # literature nodes        Dark2-3 purple
+    "reference":  "#66a61e",   # meta (tags.md)          Dark2-5 green
+    "developed":  "#1b9e77",   # mature notes            Dark2-1 teal
+    "seed":       "#e6ab02",   # seeded notes            Dark2-6 gold
+    "stub":       "#666666",   # concept stubs           Dark2-8 grey
+    "database":   "#a6761d",   # codebooks datasets      Dark2-7 brown
+    "default":    "#1b9e77",   # fallback                Dark2-1 teal
 }
 
 def classify(text, ntype):
@@ -39,6 +40,8 @@ def classify(text, ntype):
         return "moc"
     if ntype == "reference":
         return "reference"
+    if ntype == "source":
+        return "source"
     m = FM_STATUS.search(text)
     return m.group(1) if m else "default"
 
@@ -123,11 +126,14 @@ html = """<!doctype html><html><head><meta charset="utf-8">
   h1{font-size:14px;margin:0 0 6px}
 </style></head><body>
 <div id="legend"><h1>Knowledge graph</h1>
-  <div><span class="dot" style="background:#b3541e"></span>MOC hub</div>
-  <div><span class="dot" style="background:#2f80a8"></span>note (seed)</div>
-  <div><span class="dot" style="background:#1f6f54"></span>note (developed)</div>
-  <div><span class="dot" style="background:#8aa0ad"></span>concept stub</div>
-  <div><span class="sq" style="background:#455a64"></span>codebooks dataset (arrow = note → data)</div>
+  <div><span class="dot" style="background:#d95f02"></span>MOC hub</div>
+  <div><span class="dot" style="background:#1b9e77"></span>note (developed)</div>
+  <div><span class="dot" style="background:#e6ab02"></span>note (seed)</div>
+  <div><span class="dot" style="background:#666666"></span>concept stub</div>
+  <div><span class="dot" style="background:#7570b3"></span>source</div>
+  <div><span class="dot" style="background:#66a61e"></span>reference</div>
+  <div><span class="sq" style="background:#a6761d"></span>codebooks dataset (arrow = note → data)</div>
+  <div style="margin-top:6px;font-size:11px;color:#777">ColorBrewer Dark2 · colourblind-safe</div>
 </div>
 <div id="net"></div>
 <script>
@@ -136,7 +142,7 @@ const nodes = new vis.DataSet(data.nodes);
 const edges = new vis.DataSet(data.edges.map(e => ({...e, arrows:"to"})));
 new vis.Network(document.getElementById("net"), {nodes, edges}, {
   nodes:{shape:"dot", scaling:{min:6,max:34}, font:{size:14, face:"Helvetica"}},
-  edges:{color:{color:"#c9c2b6", highlight:"#b3541e"}, width:0.6, smooth:{type:"continuous"}},
+  edges:{color:{color:"#c9c2b6", highlight:"#d95f02"}, width:0.6, smooth:{type:"continuous"}},
   physics:{barnesHut:{gravitationalConstant:-9000, springLength:130, springConstant:0.03},
            stabilization:{iterations:220}},
   interaction:{hover:true, tooltipDelay:120}
