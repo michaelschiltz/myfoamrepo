@@ -35,6 +35,7 @@ digraph vault {
   "The naties are a six-century Lindy institution" [fillcolor="#2f80a8", fontcolor=white, shape=ellipse];
   "The ortoq is the discriminating instrument" [fillcolor="#2f80a8", fontcolor=white, shape=ellipse];
   "Decoupling substitutes proxy legibility for outcome legibility" [fillcolor="#2f80a8", fontcolor=white, shape=ellipse];
+  "Harris 2020 on the late plurality of limited liability" [fillcolor="#2f80a8", fontcolor=white, shape=ellipse];
   "The durable-and-coupled cell is the underexplored one" [fillcolor="#2f80a8", fontcolor=white, shape=ellipse];
   "Skin in the game" [fillcolor="#8aa0ad", fontcolor=white, shape=ellipse];
   "Kuran's brake is a refusal of immortal entities" [fillcolor="#2f80a8", fontcolor=white, shape=ellipse];
@@ -99,6 +100,14 @@ digraph vault {
   "Guard against reverse-teleology" -> "MOC - HistorEE";
   "Guard against reverse-teleology" -> "MOC - Historiography and method";
   "Guard against reverse-teleology" -> "Time-average optimization is a survivorship property not an intention";
+  "Harris 2020 on the late plurality of limited liability" -> "Entity-shielding";
+  "Harris 2020 on the late plurality of limited liability" -> "MOC - Entity-shielding and corporate forms";
+  "Harris 2020 on the late plurality of limited liability" -> "MOC - HistorEE";
+  "Harris 2020 on the late plurality of limited liability" -> "MOC - Historiography and method";
+  "Harris 2020 on the late plurality of limited liability" -> "The Fugger diversified activity while concentrating the barrier";
+  "Harris 2020 on the late plurality of limited liability" -> "The corporation is not the omega - the naties are an undisplaced niche";
+  "Harris 2020 on the late plurality of limited liability" -> "The liability principle was demoted from rule to maxim";
+  "Harris 2020 on the late plurality of limited liability" -> "Whiggish history of finance names the ascent narrative";
   "Identity-wrapper and perpetual-monopoly are distinct shielding facets" -> "Entity-shielding";
   "Identity-wrapper and perpetual-monopoly are distinct shielding facets" -> "MOC - Entity-shielding and corporate forms";
   "Identity-wrapper and perpetual-monopoly are distinct shielding facets" -> "MOC - HistorEE";
@@ -139,6 +148,7 @@ digraph vault {
   "MOC - Entity-shielding and corporate forms" -> "Decoupling substitutes proxy legibility for outcome legibility";
   "MOC - Entity-shielding and corporate forms" -> "Entitlement by liability versus entitlement by membership";
   "MOC - Entity-shielding and corporate forms" -> "Entity-shielding";
+  "MOC - Entity-shielding and corporate forms" -> "Harris 2020 on the late plurality of limited liability";
   "MOC - Entity-shielding and corporate forms" -> "Identity-wrapper and perpetual-monopoly are distinct shielding facets";
   "MOC - Entity-shielding and corporate forms" -> "Legal violence is the weapon of the militarily insufficient";
   "MOC - Entity-shielding and corporate forms" -> "Lock-in and outcome-coupling are distinct bindings";
@@ -211,6 +221,7 @@ digraph vault {
   "MOC - HistorEE" -> "Whiggish history of finance names the ascent narrative";
   "MOC - Historiography and method" -> "Discipline the Whig epithet by pinning it to teleology and survivorship";
   "MOC - Historiography and method" -> "Guard against reverse-teleology";
+  "MOC - Historiography and method" -> "Harris 2020 on the late plurality of limited liability";
   "MOC - Historiography and method" -> "Kuran's brake is a refusal of immortal entities";
   "MOC - Historiography and method" -> "MOC - ERC Synergy Grant";
   "MOC - Historiography and method" -> "MOC - HistorEE";
@@ -371,6 +382,7 @@ digraph vault {
   "The ascent narrative is the Jensen error as historiography" -> "MOC - Historiography and method";
   "The ascent narrative is the Jensen error as historiography" -> "Time-average optimization is a survivorship property not an intention";
   "The ascent narrative is the Jensen error as historiography" -> "Whiggish history of finance names the ascent narrative";
+  "The corporation is not the omega - the naties are an undisplaced niche" -> "Harris 2020 on the late plurality of limited liability";
   "The corporation is not the omega - the naties are an undisplaced niche" -> "MOC - Entity-shielding and corporate forms";
   "The corporation is not the omega - the naties are an undisplaced niche" -> "MOC - HistorEE";
   "The corporation is not the omega - the naties are an undisplaced niche" -> "MOC - Historiography and method";
