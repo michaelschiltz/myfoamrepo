@@ -12,10 +12,12 @@ digraph vault {
   "Transmission versus independent recurrence is the load-bearing test" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Jensen gap" [fillcolor="#666666", fontcolor=white, shape=ellipse];
   "Pooling's sign is set by the correlation of its baskets" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
+  "The fraterna and compagnia diverge in formation but converge at the barrier" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Lock-in and outcome-coupling are distinct bindings" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Skin in the game is asymmetric in the mudaraba" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "The alleenrecht is monopoly held as tradable property" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Absorbing barrier" [fillcolor="#666666", fontcolor=white, shape=ellipse];
+  "commenda" [fillcolor="#666666", fontcolor=white, shape=ellipse];
   "Persona ficta made the corporation a-moral ab initio" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "The ascent narrative is the Jensen error as historiography" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Time-average optimization is a survivorship property not an intention" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
@@ -29,6 +31,7 @@ digraph vault {
   "Pricing risk does not remove it" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "The corporation is not the omega - the naties are an undisplaced niche" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "The liability principle was demoted from rule to maxim" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
+  "limited-liability" [fillcolor="#666666", fontcolor=white, shape=ellipse];
   "Route Kolmogorov to ergodic theory not the theory of means" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "The ie as entity-shielding" [fillcolor="#666666", fontcolor=white, shape=ellipse];
   "Legal violence is the weapon of the militarily insufficient" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
@@ -426,6 +429,15 @@ digraph vault {
   "The four-step decoupling from participation to the veil" -> "Mare Liberum was a corporate legal weapon";
   "The four-step decoupling from participation to the veil" -> "Pricing risk does not remove it";
   "The four-step decoupling from participation to the veil" -> "Skin in the game";
+  "The fraterna and compagnia diverge in formation but converge at the barrier" -> "Absorbing barrier";
+  "The fraterna and compagnia diverge in formation but converge at the barrier" -> "Entitlement by liability versus entitlement by membership";
+  "The fraterna and compagnia diverge in formation but converge at the barrier" -> "Entity-shielding";
+  "The fraterna and compagnia diverge in formation but converge at the barrier" -> "MOC - Entity-shielding and corporate forms";
+  "The fraterna and compagnia diverge in formation but converge at the barrier" -> "MOC - HistorEE";
+  "The fraterna and compagnia diverge in formation but converge at the barrier" -> "The Fugger diversified activity while concentrating the barrier";
+  "The fraterna and compagnia diverge in formation but converge at the barrier" -> "The four-step decoupling from participation to the veil";
+  "The fraterna and compagnia diverge in formation but converge at the barrier" -> "commenda";
+  "The fraterna and compagnia diverge in formation but converge at the barrier" -> "limited-liability";
   "The ie as entity-shielding" -> "Entity-shielding";
   "The ie as entity-shielding" -> "MOC - Entity-shielding and corporate forms";
   "The ie as entity-shielding" -> "Natie and kabu-nakama are a convergence pair";
@@ -505,4 +517,14 @@ digraph vault {
   "Whiggish history of finance names the ascent narrative" -> "MOC - HistorEE";
   "Whiggish history of finance names the ascent narrative" -> "MOC - Historiography and method";
   "Whiggish history of finance names the ascent narrative" -> "The ascent narrative is the Jensen error as historiography";
+  "commenda" -> "MOC - HistorEE";
+  "commenda" -> "MOC - Risk-sharing vs risk-pricing";
+  "commenda" -> "Skin in the game is asymmetric in the mudaraba";
+  "commenda" -> "The fraterna and compagnia diverge in formation but converge at the barrier";
+  "commenda" -> "limited-liability";
+  "limited-liability" -> "Entity-shielding";
+  "limited-liability" -> "Harris 2020 on the late plurality of limited liability";
+  "limited-liability" -> "MOC - Entity-shielding and corporate forms";
+  "limited-liability" -> "MOC - HistorEE";
+  "limited-liability" -> "The fraterna and compagnia diverge in formation but converge at the barrier";
 }
