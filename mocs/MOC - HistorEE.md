@@ -62,6 +62,12 @@ Project hub for the book. Atomic notes hang off both this project MOC and a them
 - [[The qirad's antecedents are Sasanian not Sogdian]]
 - [[The determinate-contingent typology carries the richness]]
 
+## Notes — Referee round 5 session
+
+- [[Hierro Anibarro 2005 on the asiento de averia and the privileged company]]
+- [[The asiento de averia is the pooling-to-corporation hinge]]
+- [[Olivares's junta coded the asiento as a privileged company]]
+
 ## Concept anchors
 
 - [[Absorbing barrier]]

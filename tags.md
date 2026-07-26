@@ -17,7 +17,7 @@ Keep tags lowercase, hyphenated, singular. Before coining a new tag, check this 
 
 ## Instruments & risk
 
-`risk-sharing` · `risk-pricing` · `pls` · `skin-in-the-game` · `contingent-claim` · `sea-loan` · `bottomry` · `foenus-nauticum` · `marine-insurance` · `qirad` · `mudaraba` · `commenda` · `general-average`
+`risk-sharing` · `risk-pricing` · `pls` · `skin-in-the-game` · `contingent-claim` · `sea-loan` · `bottomry` · `foenus-nauticum` · `marine-insurance` · `qirad` · `mudaraba` · `commenda` · `general-average` · `averia` · `carrera-de-indias`
 
 ## Corporate form / shielding
 
@@ -33,7 +33,7 @@ Keep tags lowercase, hyphenated, singular. Before coining a new tag, check this 
 
 ## Method / historiography
 
-`comparative` · `teleology` · `survivorship-bias` · `selection` · `legibility` · `organizational-memory` · `provenance` · `refused-forms` · `transmission` · `whiggism` · `historiography` · `independent-recurrence` · `convergence-pair` · `ortoq` · `sasanian` · `qingzhong` · `determinate-contingent`
+`comparative` · `teleology` · `survivorship-bias` · `selection` · `legibility` · `organizational-memory` · `provenance` · `refused-forms` · `transmission` · `whiggism` · `historiography` · `independent-recurrence` · `convergence-pair` · `ortoq` · `sasanian` · `qingzhong` · `determinate-contingent` · `legal-consciousness`
 
 ## Structural
 
