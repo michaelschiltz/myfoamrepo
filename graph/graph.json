@@ -32,7 +32,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Whiggish history of finance names the ascent narrative",
-      "value": 9,
+      "value": 10,
       "color": "#2f80a8",
       "shape": "dot"
     },
@@ -59,7 +59,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The Fugger diversified activity while concentrating the barrier",
-      "value": 13,
+      "value": 14,
       "color": "#2f80a8",
       "shape": "dot"
     },
@@ -239,7 +239,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The corporation is not the omega - the naties are an undisplaced niche",
-      "value": 18,
+      "value": 22,
       "color": "#2f80a8",
       "shape": "dot"
     },
@@ -248,7 +248,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The liability principle was demoted from rule to maxim",
-      "value": 11,
+      "value": 12,
       "color": "#2f80a8",
       "shape": "dot"
     },
@@ -307,6 +307,15 @@
       "shape": "dot"
     },
     {
+      "id": "Harris 2020 on the late plurality of limited liability",
+      "type": "source",
+      "group": "seed",
+      "label": "Harris 2020 on the late plurality of limited liability",
+      "value": 14,
+      "color": "#2f80a8",
+      "shape": "dot"
+    },
+    {
       "id": "The durable-and-coupled cell is the underexplored one",
       "type": "permanent",
       "group": "seed",
@@ -356,7 +365,7 @@
       "type": "permanent",
       "group": "stub",
       "label": "Entity-shielding",
-      "value": 27,
+      "value": 28,
       "color": "#8aa0ad",
       "shape": "dot"
     },
@@ -491,7 +500,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - HistorEE",
-      "value": 85,
+      "value": 86,
       "color": "#b3541e",
       "shape": "dot"
     },
@@ -518,7 +527,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Entity-shielding and corporate forms",
-      "value": 44,
+      "value": 46,
       "color": "#b3541e",
       "shape": "dot"
     },
@@ -527,7 +536,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Historiography and method",
-      "value": 34,
+      "value": 36,
       "color": "#b3541e",
       "shape": "dot"
     },
@@ -700,6 +709,38 @@
       "to": "Time-average optimization is a survivorship property not an intention"
     },
     {
+      "from": "Harris 2020 on the late plurality of limited liability",
+      "to": "Entity-shielding"
+    },
+    {
+      "from": "Harris 2020 on the late plurality of limited liability",
+      "to": "MOC - Entity-shielding and corporate forms"
+    },
+    {
+      "from": "Harris 2020 on the late plurality of limited liability",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Harris 2020 on the late plurality of limited liability",
+      "to": "MOC - Historiography and method"
+    },
+    {
+      "from": "Harris 2020 on the late plurality of limited liability",
+      "to": "The Fugger diversified activity while concentrating the barrier"
+    },
+    {
+      "from": "Harris 2020 on the late plurality of limited liability",
+      "to": "The corporation is not the omega - the naties are an undisplaced niche"
+    },
+    {
+      "from": "Harris 2020 on the late plurality of limited liability",
+      "to": "The liability principle was demoted from rule to maxim"
+    },
+    {
+      "from": "Harris 2020 on the late plurality of limited liability",
+      "to": "Whiggish history of finance names the ascent narrative"
+    },
+    {
       "from": "Identity-wrapper and perpetual-monopoly are distinct shielding facets",
       "to": "Entity-shielding"
     },
@@ -858,6 +899,10 @@
     {
       "from": "MOC - Entity-shielding and corporate forms",
       "to": "Entity-shielding"
+    },
+    {
+      "from": "MOC - Entity-shielding and corporate forms",
+      "to": "Harris 2020 on the late plurality of limited liability"
     },
     {
       "from": "MOC - Entity-shielding and corporate forms",
@@ -1146,6 +1191,10 @@
     {
       "from": "MOC - Historiography and method",
       "to": "Guard against reverse-teleology"
+    },
+    {
+      "from": "MOC - Historiography and method",
+      "to": "Harris 2020 on the late plurality of limited liability"
     },
     {
       "from": "MOC - Historiography and method",
@@ -1786,6 +1835,10 @@
     {
       "from": "The ascent narrative is the Jensen error as historiography",
       "to": "Whiggish history of finance names the ascent narrative"
+    },
+    {
+      "from": "The corporation is not the omega - the naties are an undisplaced niche",
+      "to": "Harris 2020 on the late plurality of limited liability"
     },
     {
       "from": "The corporation is not the omega - the naties are an undisplaced niche",
