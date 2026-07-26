@@ -28,6 +28,7 @@ Thematic hub for the corporate-form apparatus: asset-partitioning, identity-wrap
 - [[The naties are a six-century Lindy institution]]
 - [[Identity-wrapper and perpetual-monopoly are distinct shielding facets]]
 - [[Natie and kabu-nakama are a convergence pair]]
+- [[The corporation is not the omega - the naties are an undisplaced niche]]
 - [[The real cut is shielded-and-pooled versus unshielded]]
 - [[The ie as entity-shielding]]
 
