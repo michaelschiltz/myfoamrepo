@@ -26,6 +26,7 @@ digraph vault {
   "The sea loan is a contingent claim not a loan" [fillcolor="#2f80a8", fontcolor=white, shape=ellipse];
   "The qirad envelops the sea loan" [fillcolor="#2f80a8", fontcolor=white, shape=ellipse];
   "Pricing risk does not remove it" [fillcolor="#2f80a8", fontcolor=white, shape=ellipse];
+  "The corporation is not the omega - the naties are an undisplaced niche" [fillcolor="#2f80a8", fontcolor=white, shape=ellipse];
   "The liability principle was demoted from rule to maxim" [fillcolor="#2f80a8", fontcolor=white, shape=ellipse];
   "Route Kolmogorov to ergodic theory not the theory of means" [fillcolor="#2f80a8", fontcolor=white, shape=ellipse];
   "The ie as entity-shielding" [fillcolor="#8aa0ad", fontcolor=white, shape=ellipse];
@@ -148,6 +149,7 @@ digraph vault {
   "MOC - Entity-shielding and corporate forms" -> "Natie is a false cognate";
   "MOC - Entity-shielding and corporate forms" -> "Persona ficta made the corporation a-moral ab initio";
   "MOC - Entity-shielding and corporate forms" -> "The alleenrecht is monopoly held as tradable property";
+  "MOC - Entity-shielding and corporate forms" -> "The corporation is not the omega - the naties are an undisplaced niche";
   "MOC - Entity-shielding and corporate forms" -> "The durable-and-coupled cell is the underexplored one";
   "MOC - Entity-shielding and corporate forms" -> "The four-step decoupling from participation to the veil";
   "MOC - Entity-shielding and corporate forms" -> "The ie as entity-shielding";
@@ -215,6 +217,7 @@ digraph vault {
   "MOC - Historiography and method" -> "Selection frequency trades against organizational memory";
   "MOC - Historiography and method" -> "Split provenance into priority and independence";
   "MOC - Historiography and method" -> "The ascent narrative is the Jensen error as historiography";
+  "MOC - Historiography and method" -> "The corporation is not the omega - the naties are an undisplaced niche";
   "MOC - Historiography and method" -> "The deficit reading of absence is the scalar ranking in evidentiary form";
   "MOC - Historiography and method" -> "The durable-and-coupled cell is the underexplored one";
   "MOC - Historiography and method" -> "The liability principle was demoted from rule to maxim";
@@ -358,6 +361,16 @@ digraph vault {
   "The ascent narrative is the Jensen error as historiography" -> "MOC - Historiography and method";
   "The ascent narrative is the Jensen error as historiography" -> "Time-average optimization is a survivorship property not an intention";
   "The ascent narrative is the Jensen error as historiography" -> "Whiggish history of finance names the ascent narrative";
+  "The corporation is not the omega - the naties are an undisplaced niche" -> "MOC - Entity-shielding and corporate forms";
+  "The corporation is not the omega - the naties are an undisplaced niche" -> "MOC - HistorEE";
+  "The corporation is not the omega - the naties are an undisplaced niche" -> "MOC - Historiography and method";
+  "The corporation is not the omega - the naties are an undisplaced niche" -> "Natie and kabu-nakama are a convergence pair";
+  "The corporation is not the omega - the naties are an undisplaced niche" -> "Natie is a false cognate";
+  "The corporation is not the omega - the naties are an undisplaced niche" -> "Pooling's sign is set by the correlation of its baskets";
+  "The corporation is not the omega - the naties are an undisplaced niche" -> "Refusals are observations of the filter not inferences from survivors";
+  "The corporation is not the omega - the naties are an undisplaced niche" -> "The alleenrecht is monopoly held as tradable property";
+  "The corporation is not the omega - the naties are an undisplaced niche" -> "The deficit reading of absence is the scalar ranking in evidentiary form";
+  "The corporation is not the omega - the naties are an undisplaced niche" -> "The naties are a six-century Lindy institution";
   "The deficit reading of absence is the scalar ranking in evidentiary form" -> "Guard against reverse-teleology";
   "The deficit reading of absence is the scalar ranking in evidentiary form" -> "Kuran's brake is a refusal of immortal entities";
   "The deficit reading of absence is the scalar ranking in evidentiary form" -> "MOC - HistorEE";

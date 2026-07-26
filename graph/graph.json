@@ -41,7 +41,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Natie is a false cognate",
-      "value": 10,
+      "value": 12,
       "color": "#2f80a8",
       "shape": "dot"
     },
@@ -86,7 +86,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Pooling's sign is set by the correlation of its baskets",
-      "value": 17,
+      "value": 19,
       "color": "#2f80a8",
       "shape": "dot"
     },
@@ -113,7 +113,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The alleenrecht is monopoly held as tradable property",
-      "value": 14,
+      "value": 16,
       "color": "#2f80a8",
       "shape": "dot"
     },
@@ -185,7 +185,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The deficit reading of absence is the scalar ranking in evidentiary form",
-      "value": 10,
+      "value": 11,
       "color": "#2f80a8",
       "shape": "dot"
     },
@@ -194,7 +194,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Refusals are observations of the filter not inferences from survivors",
-      "value": 15,
+      "value": 17,
       "color": "#2f80a8",
       "shape": "dot"
     },
@@ -222,6 +222,15 @@
       "group": "seed",
       "label": "Pricing risk does not remove it",
       "value": 16,
+      "color": "#2f80a8",
+      "shape": "dot"
+    },
+    {
+      "id": "The corporation is not the omega - the naties are an undisplaced niche",
+      "type": "permanent",
+      "group": "seed",
+      "label": "The corporation is not the omega - the naties are an undisplaced niche",
+      "value": 18,
       "color": "#2f80a8",
       "shape": "dot"
     },
@@ -266,7 +275,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The naties are a six-century Lindy institution",
-      "value": 12,
+      "value": 14,
       "color": "#2f80a8",
       "shape": "dot"
     },
@@ -383,7 +392,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Natie and kabu-nakama are a convergence pair",
-      "value": 16,
+      "value": 17,
       "color": "#2f80a8",
       "shape": "dot"
     },
@@ -473,7 +482,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - HistorEE",
-      "value": 83,
+      "value": 84,
       "color": "#b3541e",
       "shape": "dot"
     },
@@ -500,7 +509,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Entity-shielding and corporate forms",
-      "value": 42,
+      "value": 44,
       "color": "#b3541e",
       "shape": "dot"
     },
@@ -509,7 +518,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Historiography and method",
-      "value": 32,
+      "value": 34,
       "color": "#b3541e",
       "shape": "dot"
     },
@@ -887,6 +896,10 @@
     },
     {
       "from": "MOC - Entity-shielding and corporate forms",
+      "to": "The corporation is not the omega - the naties are an undisplaced niche"
+    },
+    {
+      "from": "MOC - Entity-shielding and corporate forms",
       "to": "The durable-and-coupled cell is the underexplored one"
     },
     {
@@ -1152,6 +1165,10 @@
     {
       "from": "MOC - Historiography and method",
       "to": "The ascent narrative is the Jensen error as historiography"
+    },
+    {
+      "from": "MOC - Historiography and method",
+      "to": "The corporation is not the omega - the naties are an undisplaced niche"
     },
     {
       "from": "MOC - Historiography and method",
@@ -1724,6 +1741,46 @@
     {
       "from": "The ascent narrative is the Jensen error as historiography",
       "to": "Whiggish history of finance names the ascent narrative"
+    },
+    {
+      "from": "The corporation is not the omega - the naties are an undisplaced niche",
+      "to": "MOC - Entity-shielding and corporate forms"
+    },
+    {
+      "from": "The corporation is not the omega - the naties are an undisplaced niche",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "The corporation is not the omega - the naties are an undisplaced niche",
+      "to": "MOC - Historiography and method"
+    },
+    {
+      "from": "The corporation is not the omega - the naties are an undisplaced niche",
+      "to": "Natie and kabu-nakama are a convergence pair"
+    },
+    {
+      "from": "The corporation is not the omega - the naties are an undisplaced niche",
+      "to": "Natie is a false cognate"
+    },
+    {
+      "from": "The corporation is not the omega - the naties are an undisplaced niche",
+      "to": "Pooling's sign is set by the correlation of its baskets"
+    },
+    {
+      "from": "The corporation is not the omega - the naties are an undisplaced niche",
+      "to": "Refusals are observations of the filter not inferences from survivors"
+    },
+    {
+      "from": "The corporation is not the omega - the naties are an undisplaced niche",
+      "to": "The alleenrecht is monopoly held as tradable property"
+    },
+    {
+      "from": "The corporation is not the omega - the naties are an undisplaced niche",
+      "to": "The deficit reading of absence is the scalar ranking in evidentiary form"
+    },
+    {
+      "from": "The corporation is not the omega - the naties are an undisplaced niche",
+      "to": "The naties are a six-century Lindy institution"
     },
     {
       "from": "The deficit reading of absence is the scalar ranking in evidentiary form",
