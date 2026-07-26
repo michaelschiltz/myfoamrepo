@@ -55,6 +55,15 @@
       "shape": "dot"
     },
     {
+      "id": "The Fugger diversified activity while concentrating the barrier",
+      "type": "permanent",
+      "group": "seed",
+      "label": "The Fugger diversified activity while concentrating the barrier",
+      "value": 13,
+      "color": "#2f80a8",
+      "shape": "dot"
+    },
+    {
       "id": "Discipline the Whig epithet by pinning it to teleology and survivorship",
       "type": "permanent",
       "group": "seed",
@@ -77,7 +86,7 @@
       "type": "permanent",
       "group": "stub",
       "label": "Jensen gap",
-      "value": 11,
+      "value": 12,
       "color": "#8aa0ad",
       "shape": "dot"
     },
@@ -86,7 +95,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Pooling's sign is set by the correlation of its baskets",
-      "value": 19,
+      "value": 23,
       "color": "#2f80a8",
       "shape": "dot"
     },
@@ -122,7 +131,7 @@
       "type": "permanent",
       "group": "stub",
       "label": "Absorbing barrier",
-      "value": 18,
+      "value": 20,
       "color": "#8aa0ad",
       "shape": "dot"
     },
@@ -365,7 +374,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The real cut is shielded-and-pooled versus unshielded",
-      "value": 17,
+      "value": 18,
       "color": "#2f80a8",
       "shape": "dot"
     },
@@ -464,7 +473,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Risk-sharing vs risk-pricing",
-      "value": 34,
+      "value": 36,
       "color": "#b3541e",
       "shape": "dot"
     },
@@ -473,7 +482,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Ergodicity and the time-ensemble distinction",
-      "value": 28,
+      "value": 29,
       "color": "#b3541e",
       "shape": "dot"
     },
@@ -482,7 +491,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - HistorEE",
-      "value": 84,
+      "value": 85,
       "color": "#b3541e",
       "shape": "dot"
     },
@@ -1296,6 +1305,10 @@
     },
     {
       "from": "MOC - Risk-sharing vs risk-pricing",
+      "to": "The Fugger diversified activity while concentrating the barrier"
+    },
+    {
+      "from": "MOC - Risk-sharing vs risk-pricing",
       "to": "The determinate-contingent typology carries the richness"
     },
     {
@@ -1473,6 +1486,10 @@
     {
       "from": "Pooling's sign is set by the correlation of its baskets",
       "to": "Skin in the game"
+    },
+    {
+      "from": "Pooling's sign is set by the correlation of its baskets",
+      "to": "The Fugger diversified activity while concentrating the barrier"
     },
     {
       "from": "Pooling's sign is set by the correlation of its baskets",
@@ -1693,6 +1710,34 @@
     {
       "from": "Split provenance into priority and independence",
       "to": "Transmission versus independent recurrence is the load-bearing test"
+    },
+    {
+      "from": "The Fugger diversified activity while concentrating the barrier",
+      "to": "Absorbing barrier"
+    },
+    {
+      "from": "The Fugger diversified activity while concentrating the barrier",
+      "to": "Jensen gap"
+    },
+    {
+      "from": "The Fugger diversified activity while concentrating the barrier",
+      "to": "MOC - Ergodicity and the time-ensemble distinction"
+    },
+    {
+      "from": "The Fugger diversified activity while concentrating the barrier",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "The Fugger diversified activity while concentrating the barrier",
+      "to": "MOC - Risk-sharing vs risk-pricing"
+    },
+    {
+      "from": "The Fugger diversified activity while concentrating the barrier",
+      "to": "Pooling's sign is set by the correlation of its baskets"
+    },
+    {
+      "from": "The Fugger diversified activity while concentrating the barrier",
+      "to": "The real cut is shielded-and-pooled versus unshielded"
     },
     {
       "from": "The alleenrecht is monopoly held as tradable property",
