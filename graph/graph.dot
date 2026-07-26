@@ -10,6 +10,7 @@ digraph vault {
   "Discipline the Whig epithet by pinning it to teleology and survivorship" [fillcolor="#2f80a8", fontcolor=white, shape=ellipse];
   "Transmission versus independent recurrence is the load-bearing test" [fillcolor="#2f80a8", fontcolor=white, shape=ellipse];
   "Jensen gap" [fillcolor="#8aa0ad", fontcolor=white, shape=ellipse];
+  "Pooling's sign is set by the correlation of its baskets" [fillcolor="#2f80a8", fontcolor=white, shape=ellipse];
   "Lock-in and outcome-coupling are distinct bindings" [fillcolor="#2f80a8", fontcolor=white, shape=ellipse];
   "Skin in the game is asymmetric in the mudaraba" [fillcolor="#2f80a8", fontcolor=white, shape=ellipse];
   "The alleenrecht is monopoly held as tradable property" [fillcolor="#2f80a8", fontcolor=white, shape=ellipse];
@@ -240,6 +241,7 @@ digraph vault {
   "MOC - Risk-sharing vs risk-pricing" -> "MOC - Islamic contract doctrine";
   "MOC - Risk-sharing vs risk-pricing" -> "Naviganti - Latin Christendom rejected the sea loan too";
   "MOC - Risk-sharing vs risk-pricing" -> "Outcome-coupling is the condition of legibility";
+  "MOC - Risk-sharing vs risk-pricing" -> "Pooling's sign is set by the correlation of its baskets";
   "MOC - Risk-sharing vs risk-pricing" -> "Pricing risk does not remove it";
   "MOC - Risk-sharing vs risk-pricing" -> "Refusals are observations of the filter not inferences from survivors";
   "MOC - Risk-sharing vs risk-pricing" -> "Skin in the game";
@@ -282,6 +284,15 @@ digraph vault {
   "Persona ficta made the corporation a-moral ab initio" -> "MOC - HistorEE";
   "Persona ficta made the corporation a-moral ab initio" -> "The four-step decoupling from participation to the veil";
   "Persona ficta made the corporation a-moral ab initio" -> "The waqf partition converts absence into refusal";
+  "Pooling's sign is set by the correlation of its baskets" -> "Absorbing barrier";
+  "Pooling's sign is set by the correlation of its baskets" -> "Entity-shielding";
+  "Pooling's sign is set by the correlation of its baskets" -> "Jensen gap";
+  "Pooling's sign is set by the correlation of its baskets" -> "MOC - Ergodicity and the time-ensemble distinction";
+  "Pooling's sign is set by the correlation of its baskets" -> "MOC - HistorEE";
+  "Pooling's sign is set by the correlation of its baskets" -> "MOC - Risk-sharing vs risk-pricing";
+  "Pooling's sign is set by the correlation of its baskets" -> "Skin in the game";
+  "Pooling's sign is set by the correlation of its baskets" -> "The real cut is shielded-and-pooled versus unshielded";
+  "Pooling's sign is set by the correlation of its baskets" -> "Time-average";
   "Pricing risk does not remove it" -> "Absorbing barrier";
   "Pricing risk does not remove it" -> "Jensen gap";
   "Pricing risk does not remove it" -> "MOC - Ergodicity and the time-ensemble distinction";

@@ -77,8 +77,17 @@
       "type": "permanent",
       "group": "stub",
       "label": "Jensen gap",
-      "value": 9,
+      "value": 11,
       "color": "#8aa0ad",
+      "shape": "dot"
+    },
+    {
+      "id": "Pooling's sign is set by the correlation of its baskets",
+      "type": "permanent",
+      "group": "seed",
+      "label": "Pooling's sign is set by the correlation of its baskets",
+      "value": 17,
+      "color": "#2f80a8",
       "shape": "dot"
     },
     {
@@ -113,7 +122,7 @@
       "type": "permanent",
       "group": "stub",
       "label": "Absorbing barrier",
-      "value": 16,
+      "value": 18,
       "color": "#8aa0ad",
       "shape": "dot"
     },
@@ -167,7 +176,7 @@
       "type": "permanent",
       "group": "stub",
       "label": "Time-average",
-      "value": 16,
+      "value": 18,
       "color": "#8aa0ad",
       "shape": "dot"
     },
@@ -293,7 +302,7 @@
       "type": "permanent",
       "group": "stub",
       "label": "Skin in the game",
-      "value": 16,
+      "value": 18,
       "color": "#8aa0ad",
       "shape": "dot"
     },
@@ -329,7 +338,7 @@
       "type": "permanent",
       "group": "stub",
       "label": "Entity-shielding",
-      "value": 25,
+      "value": 27,
       "color": "#8aa0ad",
       "shape": "dot"
     },
@@ -347,7 +356,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The real cut is shielded-and-pooled versus unshielded",
-      "value": 15,
+      "value": 17,
       "color": "#2f80a8",
       "shape": "dot"
     },
@@ -446,7 +455,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Risk-sharing vs risk-pricing",
-      "value": 32,
+      "value": 34,
       "color": "#b3541e",
       "shape": "dot"
     },
@@ -455,7 +464,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Ergodicity and the time-ensemble distinction",
-      "value": 27,
+      "value": 28,
       "color": "#b3541e",
       "shape": "dot"
     },
@@ -464,7 +473,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - HistorEE",
-      "value": 82,
+      "value": 83,
       "color": "#b3541e",
       "shape": "dot"
     },
@@ -1250,6 +1259,10 @@
     },
     {
       "from": "MOC - Risk-sharing vs risk-pricing",
+      "to": "Pooling's sign is set by the correlation of its baskets"
+    },
+    {
+      "from": "MOC - Risk-sharing vs risk-pricing",
       "to": "Pricing risk does not remove it"
     },
     {
@@ -1415,6 +1428,42 @@
     {
       "from": "Persona ficta made the corporation a-moral ab initio",
       "to": "The waqf partition converts absence into refusal"
+    },
+    {
+      "from": "Pooling's sign is set by the correlation of its baskets",
+      "to": "Absorbing barrier"
+    },
+    {
+      "from": "Pooling's sign is set by the correlation of its baskets",
+      "to": "Entity-shielding"
+    },
+    {
+      "from": "Pooling's sign is set by the correlation of its baskets",
+      "to": "Jensen gap"
+    },
+    {
+      "from": "Pooling's sign is set by the correlation of its baskets",
+      "to": "MOC - Ergodicity and the time-ensemble distinction"
+    },
+    {
+      "from": "Pooling's sign is set by the correlation of its baskets",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Pooling's sign is set by the correlation of its baskets",
+      "to": "MOC - Risk-sharing vs risk-pricing"
+    },
+    {
+      "from": "Pooling's sign is set by the correlation of its baskets",
+      "to": "Skin in the game"
+    },
+    {
+      "from": "Pooling's sign is set by the correlation of its baskets",
+      "to": "The real cut is shielded-and-pooled versus unshielded"
+    },
+    {
+      "from": "Pooling's sign is set by the correlation of its baskets",
+      "to": "Time-average"
     },
     {
       "from": "Pricing risk does not remove it",
