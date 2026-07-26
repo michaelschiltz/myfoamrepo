@@ -59,7 +59,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The Fugger diversified activity while concentrating the barrier",
-      "value": 14,
+      "value": 16,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -100,6 +100,15 @@
       "shape": "dot"
     },
     {
+      "id": "The fraterna and compagnia diverge in formation but converge at the barrier",
+      "type": "permanent",
+      "group": "seed",
+      "label": "The fraterna and compagnia diverge in formation but converge at the barrier",
+      "value": 17,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
       "id": "Lock-in and outcome-coupling are distinct bindings",
       "type": "permanent",
       "group": "seed",
@@ -113,7 +122,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Skin in the game is asymmetric in the mudaraba",
-      "value": 12,
+      "value": 14,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -131,7 +140,16 @@
       "type": "permanent",
       "group": "stub",
       "label": "Absorbing barrier",
-      "value": 20,
+      "value": 22,
+      "color": "#666666",
+      "shape": "dot"
+    },
+    {
+      "id": "commenda",
+      "type": "permanent",
+      "group": "stub",
+      "label": "commenda",
+      "value": 9,
       "color": "#666666",
       "shape": "dot"
     },
@@ -176,7 +194,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Entitlement by liability versus entitlement by membership",
-      "value": 13,
+      "value": 15,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -253,6 +271,15 @@
       "shape": "dot"
     },
     {
+      "id": "limited-liability",
+      "type": "permanent",
+      "group": "stub",
+      "label": "limited-liability",
+      "value": 10,
+      "color": "#666666",
+      "shape": "dot"
+    },
+    {
       "id": "Route Kolmogorov to ergodic theory not the theory of means",
       "type": "permanent",
       "group": "seed",
@@ -311,7 +338,7 @@
       "type": "source",
       "group": "source",
       "label": "Harris 2020 on the late plurality of limited liability",
-      "value": 14,
+      "value": 16,
       "color": "#7570b3",
       "shape": "dot"
     },
@@ -365,7 +392,7 @@
       "type": "permanent",
       "group": "stub",
       "label": "Entity-shielding",
-      "value": 28,
+      "value": 32,
       "color": "#666666",
       "shape": "dot"
     },
@@ -401,7 +428,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The four-step decoupling from participation to the veil",
-      "value": 17,
+      "value": 18,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -482,7 +509,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Risk-sharing vs risk-pricing",
-      "value": 36,
+      "value": 37,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -500,7 +527,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - HistorEE",
-      "value": 86,
+      "value": 89,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -527,7 +554,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Entity-shielding and corporate forms",
-      "value": 46,
+      "value": 48,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -2013,6 +2040,42 @@
       "to": "Skin in the game"
     },
     {
+      "from": "The fraterna and compagnia diverge in formation but converge at the barrier",
+      "to": "Absorbing barrier"
+    },
+    {
+      "from": "The fraterna and compagnia diverge in formation but converge at the barrier",
+      "to": "Entitlement by liability versus entitlement by membership"
+    },
+    {
+      "from": "The fraterna and compagnia diverge in formation but converge at the barrier",
+      "to": "Entity-shielding"
+    },
+    {
+      "from": "The fraterna and compagnia diverge in formation but converge at the barrier",
+      "to": "MOC - Entity-shielding and corporate forms"
+    },
+    {
+      "from": "The fraterna and compagnia diverge in formation but converge at the barrier",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "The fraterna and compagnia diverge in formation but converge at the barrier",
+      "to": "The Fugger diversified activity while concentrating the barrier"
+    },
+    {
+      "from": "The fraterna and compagnia diverge in formation but converge at the barrier",
+      "to": "The four-step decoupling from participation to the veil"
+    },
+    {
+      "from": "The fraterna and compagnia diverge in formation but converge at the barrier",
+      "to": "commenda"
+    },
+    {
+      "from": "The fraterna and compagnia diverge in formation but converge at the barrier",
+      "to": "limited-liability"
+    },
+    {
       "from": "The ie as entity-shielding",
       "to": "Entity-shielding"
     },
@@ -2327,6 +2390,46 @@
     {
       "from": "Whiggish history of finance names the ascent narrative",
       "to": "The ascent narrative is the Jensen error as historiography"
+    },
+    {
+      "from": "commenda",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "commenda",
+      "to": "MOC - Risk-sharing vs risk-pricing"
+    },
+    {
+      "from": "commenda",
+      "to": "Skin in the game is asymmetric in the mudaraba"
+    },
+    {
+      "from": "commenda",
+      "to": "The fraterna and compagnia diverge in formation but converge at the barrier"
+    },
+    {
+      "from": "commenda",
+      "to": "limited-liability"
+    },
+    {
+      "from": "limited-liability",
+      "to": "Entity-shielding"
+    },
+    {
+      "from": "limited-liability",
+      "to": "Harris 2020 on the late plurality of limited liability"
+    },
+    {
+      "from": "limited-liability",
+      "to": "MOC - Entity-shielding and corporate forms"
+    },
+    {
+      "from": "limited-liability",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "limited-liability",
+      "to": "The fraterna and compagnia diverge in formation but converge at the barrier"
     }
   ]
 }
