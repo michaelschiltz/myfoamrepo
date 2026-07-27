@@ -2,6 +2,8 @@
 
 # Working vault — *Clearing and Settling the Realm* & HistorEE
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21615890.svg)](https://doi.org/10.5281/zenodo.21615890)
+
 This repository is the idea-side companion to the HistorEE project and the book *Clearing and Settling the Realm* (ergodicity economics and entity-shielding applied to Japanese and comparative financial history). It is a [Foam](https://foambubble.github.io/foam) vault: a git repository of atomic, cross-linked Markdown notes edited in VS Code. Where the sibling repository [`HistorEE_codebooks`](https://github.com/michaelschiltz/HistorEE_codebooks) holds the *evidence* — datasets, schemas, coding decisions — this vault holds the *claims*: the arguments, distinctions, and objections out of which the chapters and the grant prose are assembled.
 
 ## Why a vault, and why this one

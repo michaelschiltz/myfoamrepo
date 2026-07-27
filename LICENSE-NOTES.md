@@ -26,7 +26,7 @@ This exists for one reason in particular: some notes quote or closely paraphrase
 
 For the prose, cite as:
 
-> Michael Schiltz, *Clearing and Settling the Realm* working vault (HistorEE), CC BY 4.0, https://github.com/michaelschiltz/myfoamrepo
+> Michael Schiltz, *Clearing and Settling the Realm* working vault (HistorEE), v0.1.0, CC BY 4.0. DOI: [10.5281/zenodo.21615890](https://doi.org/10.5281/zenodo.21615890). https://github.com/michaelschiltz/myfoamrepo
 
 A machine-readable citation, including the released version and date, is in [`CITATION.cff`](./CITATION.cff) — GitHub renders it as the "Cite this repository" button.
 
