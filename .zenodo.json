@@ -1,0 +1,21 @@
+{
+  "title": "Clearing and Settling the Realm — working vault (HistorEE)",
+  "description": "<p>A git-native Foam vault of atomic, cross-linked Markdown notes: the idea-side companion to the HistorEE project and the book <em>Clearing and Settling the Realm</em>, applying ergodicity economics and entity-shielding to Japanese and comparative financial history.</p><p>The note prose is licensed CC BY 4.0; the validation and graph-export tooling in <code>scripts/</code> is MIT. Individual notes may narrow their terms via a <code>license:</code> frontmatter field where they quote archive-restricted or in-copyright material.</p>",
+  "upload_type": "dataset",
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "creators": [
+    {
+      "name": "Schiltz, Michael",
+      "affiliation": "Hokkaido University"
+    }
+  ],
+  "keywords": [
+    "ergodicity economics",
+    "entity-shielding",
+    "financial history",
+    "Zettelkasten",
+    "Japanese history",
+    "comparative history"
+  ]
+}

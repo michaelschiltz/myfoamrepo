@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this vault, please cite it as below."
+title: "Clearing and Settling the Realm — working vault (HistorEE)"
+abstract: >-
+  A git-native Foam vault of atomic, cross-linked Markdown notes: the
+  idea-side companion to the HistorEE project and the book "Clearing and
+  Settling the Realm," applying ergodicity economics and entity-shielding
+  to Japanese and comparative financial history. Prose is CC BY 4.0; the
+  validation and graph-export tooling is MIT.
+type: dataset
+authors:
+  - family-names: Schiltz
+    given-names: Michael
+    affiliation: "Hokkaido University"
+    # orcid: "https://orcid.org/XXXX-XXXX-XXXX-XXXX"   # verify / add your ORCID
+repository-code: "https://github.com/michaelschiltz/myfoamrepo"
+url: "https://github.com/michaelschiltz/myfoamrepo"
+keywords:
+  - ergodicity economics
+  - entity-shielding
+  - financial history
+  - Zettelkasten
+  - Japanese history
+license:
+  - CC-BY-4.0
+  - MIT
+version: 0.1.0
+date-released: "2026-07-27"

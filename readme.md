@@ -39,3 +39,7 @@ One knowledge base that behaves like the rest of the project: versioned, attribu
 ## Status
 
 The vault is presently single-author working notes, but it is built to become a shared instrument for HistorEE: the git model, the controlled vocabulary, the MOC hubs, and the validation are all in place precisely so that more than one hand can contribute without the collection decaying. Contribution conventions will track those of `HistorEE_codebooks` — branch, validate, review, sign — as the team grows into it.
+
+## Licence and citation
+
+Two licences, split by what a file *is*, mirroring `HistorEE_codebooks`: the note **prose** (`notes/`, `mocs/`, `tags.md`, `glossary.md`, this readme) is [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); the **code** (`scripts/`, `.githooks/`, `.github/`) is [MIT](./LICENSE). A note may narrow its own terms in a `license:` frontmatter field — used where it quotes archive-restricted or in-copyright material. Full details in [`LICENSE-NOTES.md`](./LICENSE-NOTES.md); machine-readable citation in [`CITATION.cff`](./CITATION.cff).
