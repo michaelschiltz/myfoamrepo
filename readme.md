@@ -44,4 +44,4 @@ The vault is presently single-author working notes, but it is built to become a 
 
 ## Licence and citation
 
-Two licences, split by what a file *is*, mirroring `HistorEE_codebooks`: the note **prose** (`notes/`, `mocs/`, `tags.md`, `glossary.md`, this readme) is [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); the **code** (`scripts/`, `.githooks/`, `.github/`) is [MIT](./LICENSE). A note may narrow its own terms in a `license:` frontmatter field — used where it quotes archive-restricted or in-copyright material. Full details in [`LICENSING.md`](./LICENSING.md); machine-readable citation in [`CITATION.cff`](./CITATION.cff).
+Two licences, split by what a file *is*, mirroring `HistorEE_codebooks`: the note **prose** (`notes/`, `mocs/`, `tags.md`, `glossary.md`, this readme) is [CC BY 4.0](./LICENSE-NOTES.md); the **code** (`scripts/`, `.githooks/`, `.github/`) is [MIT](./LICENSE). A note may narrow its own terms in a `license:` frontmatter field — used where it quotes archive-restricted or in-copyright material. Full details in [`LICENSING.md`](./LICENSING.md); machine-readable citation in [`CITATION.cff`](./CITATION.cff).

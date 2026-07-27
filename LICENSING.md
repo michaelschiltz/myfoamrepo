@@ -4,7 +4,7 @@ This repository carries two licences, split by what a file *is*, mirroring the a
 
 ## The split
 
-**Prose — [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).**
+**Prose — [CC BY 4.0](./LICENSE-NOTES.md).**
 All note content is licensed under the Creative Commons Attribution 4.0 International licence. This covers the atomic notes and hubs (`notes/`, `mocs/`), the controlled vocabulary (`tags.md`), the glossary (`glossary.md`), and the prose of `readme.md`. You may share and adapt this material, including commercially, provided you give appropriate credit (see *Attribution* below).
 
 **Code — [MIT](./LICENSE).**
