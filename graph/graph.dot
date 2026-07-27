@@ -14,6 +14,7 @@ digraph vault {
   "Pooling's sign is set by the correlation of its baskets" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "The fraterna and compagnia diverge in formation but converge at the barrier" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Lock-in and outcome-coupling are distinct bindings" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
+  "Olivares's junta coded the asiento as a privileged company" [fillcolor="#666666", fontcolor=white, shape=ellipse];
   "Skin in the game is asymmetric in the mudaraba" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "The alleenrecht is monopoly held as tradable property" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Absorbing barrier" [fillcolor="#666666", fontcolor=white, shape=ellipse];
@@ -41,6 +42,7 @@ digraph vault {
   "Harris 2020 on the late plurality of limited liability" [fillcolor="#7570b3", fontcolor=white, shape=ellipse];
   "The durable-and-coupled cell is the underexplored one" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Skin in the game" [fillcolor="#666666", fontcolor=white, shape=ellipse];
+  "The asiento de averia is the pooling-to-corporation hinge" [fillcolor="#666666", fontcolor=white, shape=ellipse];
   "Kuran's brake is a refusal of immortal entities" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "The waqf partition converts absence into refusal" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Split provenance into priority and independence" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
@@ -48,6 +50,7 @@ digraph vault {
   "The determinate-contingent typology carries the richness" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "The real cut is shielded-and-pooled versus unshielded" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Separate the genetic and the methodological claims about economics" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
+  "Hierro Anibarro 2005 on the asiento de averia and the privileged company" [fillcolor="#7570b3", fontcolor=white, shape=ellipse];
   "The four-step decoupling from participation to the veil" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Natie and kabu-nakama are a convergence pair" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Economics had its ensemble moment in 1738 and psychologized it" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
@@ -111,6 +114,15 @@ digraph vault {
   "Harris 2020 on the late plurality of limited liability" -> "The corporation is not the omega - the naties are an undisplaced niche";
   "Harris 2020 on the late plurality of limited liability" -> "The liability principle was demoted from rule to maxim";
   "Harris 2020 on the late plurality of limited liability" -> "Whiggish history of finance names the ascent narrative";
+  "Hierro Anibarro 2005 on the asiento de averia and the privileged company" -> "Entity-shielding";
+  "Hierro Anibarro 2005 on the asiento de averia and the privileged company" -> "Harris 2020 on the late plurality of limited liability";
+  "Hierro Anibarro 2005 on the asiento de averia and the privileged company" -> "MOC - ERC Synergy Grant";
+  "Hierro Anibarro 2005 on the asiento de averia and the privileged company" -> "MOC - Entity-shielding and corporate forms";
+  "Hierro Anibarro 2005 on the asiento de averia and the privileged company" -> "MOC - HistorEE";
+  "Hierro Anibarro 2005 on the asiento de averia and the privileged company" -> "Olivares's junta coded the asiento as a privileged company";
+  "Hierro Anibarro 2005 on the asiento de averia and the privileged company" -> "The alleenrecht is monopoly held as tradable property";
+  "Hierro Anibarro 2005 on the asiento de averia and the privileged company" -> "The asiento de averia is the pooling-to-corporation hinge";
+  "Hierro Anibarro 2005 on the asiento de averia and the privileged company" -> "The corporation is not the omega - the naties are an undisplaced niche";
   "Identity-wrapper and perpetual-monopoly are distinct shielding facets" -> "Entity-shielding";
   "Identity-wrapper and perpetual-monopoly are distinct shielding facets" -> "MOC - Entity-shielding and corporate forms";
   "Identity-wrapper and perpetual-monopoly are distinct shielding facets" -> "MOC - HistorEE";
@@ -188,6 +200,7 @@ digraph vault {
   "MOC - HistorEE" -> "Economics had its ensemble moment in 1738 and psychologized it";
   "MOC - HistorEE" -> "Entity-shielding";
   "MOC - HistorEE" -> "Guard against reverse-teleology";
+  "MOC - HistorEE" -> "Hierro Anibarro 2005 on the asiento de averia and the privileged company";
   "MOC - HistorEE" -> "Identity-wrapper and perpetual-monopoly are distinct shielding facets";
   "MOC - HistorEE" -> "Islamic doctrine refuses risk-commodification at step one";
   "MOC - HistorEE" -> "Jensen gap";
@@ -201,6 +214,7 @@ digraph vault {
   "MOC - HistorEE" -> "Natie and kabu-nakama are a convergence pair";
   "MOC - HistorEE" -> "Natie is a false cognate";
   "MOC - HistorEE" -> "Naviganti - Latin Christendom rejected the sea loan too";
+  "MOC - HistorEE" -> "Olivares's junta coded the asiento as a privileged company";
   "MOC - HistorEE" -> "Pricing risk does not remove it";
   "MOC - HistorEE" -> "Route Kolmogorov to ergodic theory not the theory of means";
   "MOC - HistorEE" -> "Scuttling rewards fraud in the sea loan";
@@ -208,6 +222,7 @@ digraph vault {
   "MOC - HistorEE" -> "Skin in the game";
   "MOC - HistorEE" -> "The alleenrecht is monopoly held as tradable property";
   "MOC - HistorEE" -> "The ascent narrative is the Jensen error as historiography";
+  "MOC - HistorEE" -> "The asiento de averia is the pooling-to-corporation hinge";
   "MOC - HistorEE" -> "The determinate-contingent typology carries the richness";
   "MOC - HistorEE" -> "The ensemble average is the local descriptor of a barrier-shielded agent";
   "MOC - HistorEE" -> "The four-step decoupling from participation to the veil";
@@ -291,6 +306,16 @@ digraph vault {
   "Naviganti - Latin Christendom rejected the sea loan too" -> "MOC - Risk-sharing vs risk-pricing";
   "Naviganti - Latin Christendom rejected the sea loan too" -> "The qirad envelops the sea loan";
   "Naviganti - Latin Christendom rejected the sea loan too" -> "The sea loan is a contingent claim not a loan";
+  "Olivares's junta coded the asiento as a privileged company" -> "Guard against reverse-teleology";
+  "Olivares's junta coded the asiento as a privileged company" -> "Hierro Anibarro 2005 on the asiento de averia and the privileged company";
+  "Olivares's junta coded the asiento as a privileged company" -> "MOC - ERC Synergy Grant";
+  "Olivares's junta coded the asiento as a privileged company" -> "MOC - Entity-shielding and corporate forms";
+  "Olivares's junta coded the asiento as a privileged company" -> "MOC - HistorEE";
+  "Olivares's junta coded the asiento as a privileged company" -> "MOC - Historiography and method";
+  "Olivares's junta coded the asiento as a privileged company" -> "Natie and kabu-nakama are a convergence pair";
+  "Olivares's junta coded the asiento as a privileged company" -> "The asiento de averia is the pooling-to-corporation hinge";
+  "Olivares's junta coded the asiento as a privileged company" -> "The deficit reading of absence is the scalar ranking in evidentiary form";
+  "Olivares's junta coded the asiento as a privileged company" -> "Transmission versus independent recurrence is the load-bearing test";
   "Outcome-coupling is the condition of legibility" -> "Entitlement by liability versus entitlement by membership";
   "Outcome-coupling is the condition of legibility" -> "Lock-in and outcome-coupling are distinct bindings";
   "Outcome-coupling is the condition of legibility" -> "MOC - HistorEE";
@@ -385,6 +410,17 @@ digraph vault {
   "The ascent narrative is the Jensen error as historiography" -> "MOC - Historiography and method";
   "The ascent narrative is the Jensen error as historiography" -> "Time-average optimization is a survivorship property not an intention";
   "The ascent narrative is the Jensen error as historiography" -> "Whiggish history of finance names the ascent narrative";
+  "The asiento de averia is the pooling-to-corporation hinge" -> "Entity-shielding";
+  "The asiento de averia is the pooling-to-corporation hinge" -> "Hierro Anibarro 2005 on the asiento de averia and the privileged company";
+  "The asiento de averia is the pooling-to-corporation hinge" -> "MOC - ERC Synergy Grant";
+  "The asiento de averia is the pooling-to-corporation hinge" -> "MOC - Entity-shielding and corporate forms";
+  "The asiento de averia is the pooling-to-corporation hinge" -> "MOC - HistorEE";
+  "The asiento de averia is the pooling-to-corporation hinge" -> "MOC - Risk-sharing vs risk-pricing";
+  "The asiento de averia is the pooling-to-corporation hinge" -> "Olivares's junta coded the asiento as a privileged company";
+  "The asiento de averia is the pooling-to-corporation hinge" -> "Pooling's sign is set by the correlation of its baskets";
+  "The asiento de averia is the pooling-to-corporation hinge" -> "The alleenrecht is monopoly held as tradable property";
+  "The asiento de averia is the pooling-to-corporation hinge" -> "The corporation is not the omega - the naties are an undisplaced niche";
+  "The asiento de averia is the pooling-to-corporation hinge" -> "The determinate-contingent typology carries the richness";
   "The corporation is not the omega - the naties are an undisplaced niche" -> "Harris 2020 on the late plurality of limited liability";
   "The corporation is not the omega - the naties are an undisplaced niche" -> "MOC - Entity-shielding and corporate forms";
   "The corporation is not the omega - the naties are an undisplaced niche" -> "MOC - HistorEE";
