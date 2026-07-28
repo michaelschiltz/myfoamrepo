@@ -3,7 +3,8 @@
 Validate the Foam vault against the conventions in CLAUDE.md.
 
 Checks (errors fail the run, exit code 1):
-  1. Frontmatter present with required keys, and `type` in the allowed set.
+  1. Frontmatter present with required keys (`source-session` required on
+     non-MOC notes only), and `type` in the allowed set.
   2. Every heading (H1-H6) is followed by a blank line.
   3. Every [[wikilink]] resolves (case-insensitively) to an existing note/MOC.
   4. Every frontmatter tag appears in the controlled vocabulary (tags.md).
@@ -22,7 +23,8 @@ WIKILINK = re.compile(r"\[\[([^\]|]+?)(?:\|[^\]]*)?\]\]")
 REFDEF = re.compile(r"^\[[^\]]+\]:\s")
 HEADING = re.compile(r"^#{1,6}\s")
 ALLOWED_TYPES = {"permanent", "moc", "source", "reference"}
-REQUIRED_KEYS = ("title", "type", "tags")
+REQUIRED_KEYS = ("title", "type", "tags", "project", "created", "status")
+REQUIRED_KEYS_NON_MOC = ("source-session",)  # MOCs aggregate sessions; atomic notes originate from one
 
 errors, warnings = [], []
 
@@ -75,6 +77,10 @@ for pat in NOTE_GLOBS:
             mt = re.search(r"^type:\s*(\w+)", fm, re.M)
             if mt and mt.group(1) not in ALLOWED_TYPES:
                 errors.append(f"{rel}: type `{mt.group(1)}` not in {sorted(ALLOWED_TYPES)}")
+            if mt and mt.group(1) != "moc":
+                for key in REQUIRED_KEYS_NON_MOC:
+                    if not re.search(rf"^{key}:", fm, re.M):
+                        errors.append(f"{rel}: frontmatter missing `{key}`")
             # 4. tags in controlled vocab
             if vocab is not None:
                 for t in parse_tags(fm):

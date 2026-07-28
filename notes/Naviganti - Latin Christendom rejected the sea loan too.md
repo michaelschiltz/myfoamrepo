@@ -21,6 +21,7 @@ So the real comparative question is why the *shared* rejection produced *diverge
 - [[The sea loan is a contingent claim not a loan]]
 - [[MOC - Islamic contract doctrine]]
 - [[MOC - Risk-sharing vs risk-pricing]]
+- [[MOC - HistorEE]]
 
 ## Source
 

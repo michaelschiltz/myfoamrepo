@@ -24,3 +24,4 @@ Facets surfacing so far, to keep distinct:
 - [[MOC - Entity-shielding and corporate forms]]
 - [[Mare Liberum was a corporate legal weapon]]
 - [[The four-step decoupling from participation to the veil]]
+- [[MOC - HistorEE]]

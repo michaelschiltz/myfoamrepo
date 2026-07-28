@@ -19,3 +19,4 @@ The wedge between the average of a function and the function of the average unde
 - [[MOC - Ergodicity and the time-ensemble distinction]]
 - [[Pricing risk does not remove it]]
 - [[Entity-shielding]]
+- [[MOC - HistorEE]]

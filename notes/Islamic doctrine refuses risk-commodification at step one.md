@@ -25,6 +25,7 @@ Two cautions so a referee cannot knock it over. State it as the law's *revealed 
 - [[Naviganti - Latin Christendom rejected the sea loan too]]
 - [[Scuttling rewards fraud in the sea loan]]
 - [[MOC - Islamic contract doctrine]]
+- [[MOC - HistorEE]]
 
 ## Source
 

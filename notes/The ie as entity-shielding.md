@@ -21,3 +21,4 @@ The Japanese *ie* (家) — the household as an entity that outlives its individ
 - [[The naties are a six-century Lindy institution]]
 - [[Entity-shielding]]
 - [[MOC - Entity-shielding and corporate forms]]
+- [[MOC - HistorEE]]

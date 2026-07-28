@@ -47,14 +47,14 @@ def classify(text, ntype):
 
 nodes, edges = {}, []
 for pat in SRC_GLOBS:
-    for path in glob.glob(os.path.join(ROOT, pat)):
+    for path in sorted(glob.glob(os.path.join(ROOT, pat))):
         base = os.path.splitext(os.path.basename(path))[0]
         text = open(path, encoding="utf-8").read()
         ntype = (FM_TYPE.search(text) or [None, "permanent"])[1] if FM_TYPE.search(text) else "permanent"
         nodes[base] = {"id": base, "type": ntype, "group": classify(text, ntype)}
 
 for pat in SRC_GLOBS:
-    for path in glob.glob(os.path.join(ROOT, pat)):
+    for path in sorted(glob.glob(os.path.join(ROOT, pat))):
         base = os.path.splitext(os.path.basename(path))[0]
         for line in open(path, encoding="utf-8"):
             if REFDEF.match(line):
@@ -78,7 +78,7 @@ def parse_db(text):
     return [t.strip().strip('"\'') for t in raw.split(",") if t.strip()]
 
 for pat in SRC_GLOBS:
-    for path in glob.glob(os.path.join(ROOT, pat)):
+    for path in sorted(glob.glob(os.path.join(ROOT, pat))):
         base = os.path.splitext(os.path.basename(path))[0]
         for ds in parse_db(open(path, encoding="utf-8").read()):
             if ds not in nodes:

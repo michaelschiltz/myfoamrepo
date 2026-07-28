@@ -23,6 +23,7 @@ And it convicts Harris on his own terms. The *qirad* is *his* prime migratory in
 - [[Skin in the game]]
 - [[MOC - Risk-sharing vs risk-pricing]]
 - [[MOC - Islamic contract doctrine]]
+- [[MOC - HistorEE]]
 
 ## Source
 

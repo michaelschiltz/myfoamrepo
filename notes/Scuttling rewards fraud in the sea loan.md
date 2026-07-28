@@ -22,6 +22,7 @@ The structural point: the sea loan pins payoff to a single, gameable, hard-to-ve
 - [[The qirad envelops the sea loan]]
 - [[The sea loan is a contingent claim not a loan]]
 - [[MOC - Islamic contract doctrine]]
+- [[MOC - HistorEE]]
 
 ## Source
 

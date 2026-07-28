@@ -28,6 +28,7 @@ The long arc is one trajectory: **sea loan → marine insurance → the joint-st
 - [[Entity-shielding]]
 - [[Mare Liberum was a corporate legal weapon]]
 - [[MOC - Entity-shielding and corporate forms]]
+- [[MOC - HistorEE]]
 
 ## Source
 

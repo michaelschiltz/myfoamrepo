@@ -26,7 +26,8 @@
     "**/.foam/templates/**/*",
     "**/_foam-docs/**/*",
     "**/_layouts/**/*",
-    "**/_site/**/*"
+    "**/_site/**/*",
+    "glossary.md"
   ],
   "foam.graph.style": {
     "lineColor": "#5c5c5c",
