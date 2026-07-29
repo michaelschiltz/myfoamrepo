@@ -4,6 +4,7 @@ type: permanent
 tags: [waqf, legal-personality, asset-partitioning, entity-shielding, comparative]
 project: HistorEE
 source-session: nacion-flamenca-waqf
+database: [organizational_forms]
 created: 2026-07-29
 status: seed
 ---

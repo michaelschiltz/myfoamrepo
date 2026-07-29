@@ -4,6 +4,7 @@ type: permanent
 tags: [coding-ontology, teleology, historiography, comparative]
 project: HistorEE
 source-session: org-forms-matrix-design
+database: [organizational_forms]
 created: 2026-07-29
 status: seed
 ---
