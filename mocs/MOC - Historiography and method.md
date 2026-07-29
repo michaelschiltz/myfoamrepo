@@ -26,6 +26,7 @@ Thematic hub for the project's methodological guardrails: teleology and its inve
 - [[The corporation is not the omega - the naties are an undisplaced niche]]
 - [[Harris 2020 on the late plurality of limited liability]]
 - [[The deficit reading of absence is the scalar ranking in evidentiary form]]
+- [[The morphological matrix is dictated by the shape of the feature space]]
 - [[Transmission versus independent recurrence is the load-bearing test]]
 - [[The ortoq is the discriminating instrument]]
 - [[The qirad's antecedents are Sasanian not Sogdian]]
