@@ -59,7 +59,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Guard against reverse-teleology",
-      "value": 16,
+      "value": 18,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -68,7 +68,7 @@
       "type": "source",
       "group": "source",
       "label": "Harris 2020 on the late plurality of limited liability",
-      "value": 17,
+      "value": 19,
       "color": "#7570b3",
       "shape": "dot"
     },
@@ -77,7 +77,7 @@
       "type": "source",
       "group": "source",
       "label": "Hierro Anibarro 2005 on the asiento de averia and the privileged company",
-      "value": 17,
+      "value": 19,
       "color": "#7570b3",
       "shape": "dot"
     },
@@ -174,10 +174,10 @@
     {
       "id": "Olivares's junta coded the asiento as a privileged company",
       "type": "permanent",
-      "group": "stub",
+      "group": "seed",
       "label": "Olivares's junta coded the asiento as a privileged company",
-      "value": 18,
-      "color": "#666666",
+      "value": 17,
+      "color": "#e6ab02",
       "shape": "dot"
     },
     {
@@ -194,7 +194,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Persona ficta made the corporation a-moral ab initio",
-      "value": 11,
+      "value": 12,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -221,7 +221,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Refusals are observations of the filter not inferences from survivors",
-      "value": 17,
+      "value": 18,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -284,7 +284,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Split provenance into priority and independence",
-      "value": 12,
+      "value": 13,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -302,7 +302,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The alleenrecht is monopoly held as tradable property",
-      "value": 18,
+      "value": 16,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -318,10 +318,19 @@
     {
       "id": "The asiento de averia is the pooling-to-corporation hinge",
       "type": "permanent",
-      "group": "stub",
+      "group": "seed",
       "label": "The asiento de averia is the pooling-to-corporation hinge",
-      "value": 18,
-      "color": "#666666",
+      "value": 21,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "The coding commons must record stated rationale not only component presence",
+      "type": "permanent",
+      "group": "seed",
+      "label": "The coding commons must record stated rationale not only component presence",
+      "value": 16,
+      "color": "#e6ab02",
       "shape": "dot"
     },
     {
@@ -329,7 +338,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The corporation is not the omega - the naties are an undisplaced niche",
-      "value": 25,
+      "value": 24,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -338,7 +347,16 @@
       "type": "permanent",
       "group": "seed",
       "label": "The deficit reading of absence is the scalar ranking in evidentiary form",
-      "value": 12,
+      "value": 13,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "The depersonalised share was produced by honour not by pooling logic",
+      "type": "permanent",
+      "group": "seed",
+      "label": "The depersonalised share was produced by honour not by pooling logic",
+      "value": 21,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -374,7 +392,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The four-step decoupling from participation to the veil",
-      "value": 19,
+      "value": 20,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -392,7 +410,7 @@
       "type": "permanent",
       "group": "stub",
       "label": "The ie as entity-shielding",
-      "value": 15,
+      "value": 16,
       "color": "#666666",
       "shape": "dot"
     },
@@ -473,7 +491,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The waqf partition converts absence into refusal",
-      "value": 12,
+      "value": 13,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -500,7 +518,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Transmission versus independent recurrence is the load-bearing test",
-      "value": 18,
+      "value": 20,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -527,7 +545,7 @@
       "type": "permanent",
       "group": "stub",
       "label": "limited-liability",
-      "value": 10,
+      "value": 12,
       "color": "#666666",
       "shape": "dot"
     },
@@ -536,7 +554,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - ERC Synergy Grant",
-      "value": 16,
+      "value": 18,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -545,7 +563,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Entity-shielding and corporate forms",
-      "value": 51,
+      "value": 52,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -563,7 +581,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - HistorEE",
-      "value": 108,
+      "value": 112,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -572,7 +590,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Historiography and method",
-      "value": 37,
+      "value": 39,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -828,15 +846,15 @@
     },
     {
       "from": "Hierro Anibarro 2005 on the asiento de averia and the privileged company",
-      "to": "The alleenrecht is monopoly held as tradable property"
-    },
-    {
-      "from": "Hierro Anibarro 2005 on the asiento de averia and the privileged company",
       "to": "The asiento de averia is the pooling-to-corporation hinge"
     },
     {
       "from": "Hierro Anibarro 2005 on the asiento de averia and the privileged company",
-      "to": "The corporation is not the omega - the naties are an undisplaced niche"
+      "to": "The depersonalised share was produced by honour not by pooling logic"
+    },
+    {
+      "from": "Hierro Anibarro 2005 on the asiento de averia and the privileged company",
+      "to": "limited-liability"
     },
     {
       "from": "Identity-wrapper and perpetual-monopoly are distinct shielding facets",
@@ -1245,6 +1263,14 @@
     {
       "from": "MOC - HistorEE",
       "to": "The asiento de averia is the pooling-to-corporation hinge"
+    },
+    {
+      "from": "MOC - HistorEE",
+      "to": "The coding commons must record stated rationale not only component presence"
+    },
+    {
+      "from": "MOC - HistorEE",
+      "to": "The depersonalised share was produced by honour not by pooling logic"
     },
     {
       "from": "MOC - HistorEE",
@@ -1620,6 +1646,10 @@
     },
     {
       "from": "Olivares's junta coded the asiento as a privileged company",
+      "to": "The depersonalised share was produced by honour not by pooling logic"
+    },
+    {
+      "from": "Olivares's junta coded the asiento as a privileged company",
       "to": "Transmission versus independent recurrence is the load-bearing test"
     },
     {
@@ -2016,6 +2046,10 @@
     },
     {
       "from": "The asiento de averia is the pooling-to-corporation hinge",
+      "to": "Harris 2020 on the late plurality of limited liability"
+    },
+    {
+      "from": "The asiento de averia is the pooling-to-corporation hinge",
       "to": "Hierro Anibarro 2005 on the asiento de averia and the privileged company"
     },
     {
@@ -2044,15 +2078,59 @@
     },
     {
       "from": "The asiento de averia is the pooling-to-corporation hinge",
-      "to": "The alleenrecht is monopoly held as tradable property"
-    },
-    {
-      "from": "The asiento de averia is the pooling-to-corporation hinge",
       "to": "The corporation is not the omega - the naties are an undisplaced niche"
     },
     {
       "from": "The asiento de averia is the pooling-to-corporation hinge",
+      "to": "The depersonalised share was produced by honour not by pooling logic"
+    },
+    {
+      "from": "The asiento de averia is the pooling-to-corporation hinge",
       "to": "The determinate-contingent typology carries the richness"
+    },
+    {
+      "from": "The asiento de averia is the pooling-to-corporation hinge",
+      "to": "limited-liability"
+    },
+    {
+      "from": "The coding commons must record stated rationale not only component presence",
+      "to": "Guard against reverse-teleology"
+    },
+    {
+      "from": "The coding commons must record stated rationale not only component presence",
+      "to": "Hierro Anibarro 2005 on the asiento de averia and the privileged company"
+    },
+    {
+      "from": "The coding commons must record stated rationale not only component presence",
+      "to": "MOC - ERC Synergy Grant"
+    },
+    {
+      "from": "The coding commons must record stated rationale not only component presence",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "The coding commons must record stated rationale not only component presence",
+      "to": "MOC - Historiography and method"
+    },
+    {
+      "from": "The coding commons must record stated rationale not only component presence",
+      "to": "Refusals are observations of the filter not inferences from survivors"
+    },
+    {
+      "from": "The coding commons must record stated rationale not only component presence",
+      "to": "Split provenance into priority and independence"
+    },
+    {
+      "from": "The coding commons must record stated rationale not only component presence",
+      "to": "The deficit reading of absence is the scalar ranking in evidentiary form"
+    },
+    {
+      "from": "The coding commons must record stated rationale not only component presence",
+      "to": "The depersonalised share was produced by honour not by pooling logic"
+    },
+    {
+      "from": "The coding commons must record stated rationale not only component presence",
+      "to": "Transmission versus independent recurrence is the load-bearing test"
     },
     {
       "from": "The corporation is not the omega - the naties are an undisplaced niche",
@@ -2124,6 +2202,54 @@
     },
     {
       "from": "The deficit reading of absence is the scalar ranking in evidentiary form",
+      "to": "The waqf partition converts absence into refusal"
+    },
+    {
+      "from": "The depersonalised share was produced by honour not by pooling logic",
+      "to": "Guard against reverse-teleology"
+    },
+    {
+      "from": "The depersonalised share was produced by honour not by pooling logic",
+      "to": "Hierro Anibarro 2005 on the asiento de averia and the privileged company"
+    },
+    {
+      "from": "The depersonalised share was produced by honour not by pooling logic",
+      "to": "MOC - ERC Synergy Grant"
+    },
+    {
+      "from": "The depersonalised share was produced by honour not by pooling logic",
+      "to": "MOC - Entity-shielding and corporate forms"
+    },
+    {
+      "from": "The depersonalised share was produced by honour not by pooling logic",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "The depersonalised share was produced by honour not by pooling logic",
+      "to": "MOC - Historiography and method"
+    },
+    {
+      "from": "The depersonalised share was produced by honour not by pooling logic",
+      "to": "Persona ficta made the corporation a-moral ab initio"
+    },
+    {
+      "from": "The depersonalised share was produced by honour not by pooling logic",
+      "to": "The asiento de averia is the pooling-to-corporation hinge"
+    },
+    {
+      "from": "The depersonalised share was produced by honour not by pooling logic",
+      "to": "The coding commons must record stated rationale not only component presence"
+    },
+    {
+      "from": "The depersonalised share was produced by honour not by pooling logic",
+      "to": "The four-step decoupling from participation to the veil"
+    },
+    {
+      "from": "The depersonalised share was produced by honour not by pooling logic",
+      "to": "The ie as entity-shielding"
+    },
+    {
+      "from": "The depersonalised share was produced by honour not by pooling logic",
       "to": "The waqf partition converts absence into refusal"
     },
     {
