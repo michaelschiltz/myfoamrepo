@@ -50,7 +50,7 @@
       "type": "permanent",
       "group": "stub",
       "label": "Entity-shielding",
-      "value": 36,
+      "value": 38,
       "color": "#666666",
       "shape": "dot"
     },
@@ -59,7 +59,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Guard against reverse-teleology",
-      "value": 18,
+      "value": 20,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -86,7 +86,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Identity-wrapper and perpetual-monopoly are distinct shielding facets",
-      "value": 10,
+      "value": 11,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -113,7 +113,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Kuran's brake is a refusal of immortal entities",
-      "value": 14,
+      "value": 16,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -190,11 +190,20 @@
       "shape": "dot"
     },
     {
+      "id": "Perpetuity splits into adaptation and petrification",
+      "type": "permanent",
+      "group": "seed",
+      "label": "Perpetuity splits into adaptation and petrification",
+      "value": 13,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
       "id": "Persona ficta made the corporation a-moral ab initio",
       "type": "permanent",
       "group": "seed",
       "label": "Persona ficta made the corporation a-moral ab initio",
-      "value": 12,
+      "value": 13,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -437,7 +446,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The naties are a six-century Lindy institution",
-      "value": 14,
+      "value": 16,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -487,11 +496,20 @@
       "shape": "dot"
     },
     {
+      "id": "The waqf and the nación flamenca diverge only at legal personality",
+      "type": "permanent",
+      "group": "seed",
+      "label": "The waqf and the nación flamenca diverge only at legal personality",
+      "value": 13,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
       "id": "The waqf partition converts absence into refusal",
       "type": "permanent",
       "group": "seed",
       "label": "The waqf partition converts absence into refusal",
-      "value": 13,
+      "value": 15,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -563,7 +581,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Entity-shielding and corporate forms",
-      "value": 52,
+      "value": 56,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -581,7 +599,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - HistorEE",
-      "value": 112,
+      "value": 114,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -599,7 +617,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Islamic contract doctrine",
-      "value": 25,
+      "value": 27,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -1066,6 +1084,10 @@
     },
     {
       "from": "MOC - Entity-shielding and corporate forms",
+      "to": "Perpetuity splits into adaptation and petrification"
+    },
+    {
+      "from": "MOC - Entity-shielding and corporate forms",
       "to": "Persona ficta made the corporation a-moral ab initio"
     },
     {
@@ -1095,6 +1117,10 @@
     {
       "from": "MOC - Entity-shielding and corporate forms",
       "to": "The real cut is shielded-and-pooled versus unshielded"
+    },
+    {
+      "from": "MOC - Entity-shielding and corporate forms",
+      "to": "The waqf and the nación flamenca diverge only at legal personality"
     },
     {
       "from": "MOC - Entity-shielding and corporate forms",
@@ -1446,6 +1472,10 @@
     },
     {
       "from": "MOC - Islamic contract doctrine",
+      "to": "The waqf and the nación flamenca diverge only at legal personality"
+    },
+    {
+      "from": "MOC - Islamic contract doctrine",
       "to": "The waqf partition converts absence into refusal"
     },
     {
@@ -1675,6 +1705,34 @@
     {
       "from": "Outcome-coupling is the condition of legibility",
       "to": "Selection frequency trades against organizational memory"
+    },
+    {
+      "from": "Perpetuity splits into adaptation and petrification",
+      "to": "Entity-shielding"
+    },
+    {
+      "from": "Perpetuity splits into adaptation and petrification",
+      "to": "Guard against reverse-teleology"
+    },
+    {
+      "from": "Perpetuity splits into adaptation and petrification",
+      "to": "Kuran's brake is a refusal of immortal entities"
+    },
+    {
+      "from": "Perpetuity splits into adaptation and petrification",
+      "to": "MOC - Entity-shielding and corporate forms"
+    },
+    {
+      "from": "Perpetuity splits into adaptation and petrification",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Perpetuity splits into adaptation and petrification",
+      "to": "The naties are a six-century Lindy institution"
+    },
+    {
+      "from": "Perpetuity splits into adaptation and petrification",
+      "to": "The waqf and the nación flamenca diverge only at legal personality"
     },
     {
       "from": "Persona ficta made the corporation a-moral ab initio",
@@ -2611,6 +2669,38 @@
     {
       "from": "The sea loan is a contingent claim not a loan",
       "to": "The qirad envelops the sea loan"
+    },
+    {
+      "from": "The waqf and the nación flamenca diverge only at legal personality",
+      "to": "Entity-shielding"
+    },
+    {
+      "from": "The waqf and the nación flamenca diverge only at legal personality",
+      "to": "Identity-wrapper and perpetual-monopoly are distinct shielding facets"
+    },
+    {
+      "from": "The waqf and the nación flamenca diverge only at legal personality",
+      "to": "MOC - Entity-shielding and corporate forms"
+    },
+    {
+      "from": "The waqf and the nación flamenca diverge only at legal personality",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "The waqf and the nación flamenca diverge only at legal personality",
+      "to": "MOC - Islamic contract doctrine"
+    },
+    {
+      "from": "The waqf and the nación flamenca diverge only at legal personality",
+      "to": "Perpetuity splits into adaptation and petrification"
+    },
+    {
+      "from": "The waqf and the nación flamenca diverge only at legal personality",
+      "to": "Persona ficta made the corporation a-moral ab initio"
+    },
+    {
+      "from": "The waqf and the nación flamenca diverge only at legal personality",
+      "to": "The waqf partition converts absence into refusal"
     },
     {
       "from": "The waqf partition converts absence into refusal",

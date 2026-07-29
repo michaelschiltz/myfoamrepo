@@ -22,6 +22,7 @@ digraph vault {
   "Naviganti - Latin Christendom rejected the sea loan too" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Olivares's junta coded the asiento as a privileged company" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Outcome-coupling is the condition of legibility" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
+  "Perpetuity splits into adaptation and petrification" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Persona ficta made the corporation a-moral ab initio" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Pooling's sign is set by the correlation of its baskets" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Pricing risk does not remove it" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
@@ -55,6 +56,7 @@ digraph vault {
   "The qirad's antecedents are Sasanian not Sogdian" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "The real cut is shielded-and-pooled versus unshielded" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "The sea loan is a contingent claim not a loan" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
+  "The waqf and the nación flamenca diverge only at legal personality" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "The waqf partition converts absence into refusal" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Time-average optimization is a survivorship property not an intention" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Time-average" [fillcolor="#666666", fontcolor=white, shape=ellipse];
@@ -179,6 +181,7 @@ digraph vault {
   "MOC - Entity-shielding and corporate forms" -> "Mare Liberum was a corporate legal weapon";
   "MOC - Entity-shielding and corporate forms" -> "Natie and kabu-nakama are a convergence pair";
   "MOC - Entity-shielding and corporate forms" -> "Natie is a false cognate";
+  "MOC - Entity-shielding and corporate forms" -> "Perpetuity splits into adaptation and petrification";
   "MOC - Entity-shielding and corporate forms" -> "Persona ficta made the corporation a-moral ab initio";
   "MOC - Entity-shielding and corporate forms" -> "The alleenrecht is monopoly held as tradable property";
   "MOC - Entity-shielding and corporate forms" -> "The corporation is not the omega - the naties are an undisplaced niche";
@@ -187,6 +190,7 @@ digraph vault {
   "MOC - Entity-shielding and corporate forms" -> "The ie as entity-shielding";
   "MOC - Entity-shielding and corporate forms" -> "The naties are a six-century Lindy institution";
   "MOC - Entity-shielding and corporate forms" -> "The real cut is shielded-and-pooled versus unshielded";
+  "MOC - Entity-shielding and corporate forms" -> "The waqf and the nación flamenca diverge only at legal personality";
   "MOC - Entity-shielding and corporate forms" -> "The waqf partition converts absence into refusal";
   "MOC - Ergodicity and the time-ensemble distinction" -> "Absorbing barrier";
   "MOC - Ergodicity and the time-ensemble distinction" -> "Economics had its ensemble moment in 1738 and psychologized it";
@@ -274,6 +278,7 @@ digraph vault {
   "MOC - Islamic contract doctrine" -> "The mudaraba is revocable not locked in";
   "MOC - Islamic contract doctrine" -> "The qirad envelops the sea loan";
   "MOC - Islamic contract doctrine" -> "The qirad's antecedents are Sasanian not Sogdian";
+  "MOC - Islamic contract doctrine" -> "The waqf and the nación flamenca diverge only at legal personality";
   "MOC - Islamic contract doctrine" -> "The waqf partition converts absence into refusal";
   "MOC - Risk-sharing vs risk-pricing" -> "Decoupling substitutes proxy legibility for outcome legibility";
   "MOC - Risk-sharing vs risk-pricing" -> "Lock-in and outcome-coupling are distinct bindings";
@@ -332,6 +337,13 @@ digraph vault {
   "Outcome-coupling is the condition of legibility" -> "MOC - Risk-sharing vs risk-pricing";
   "Outcome-coupling is the condition of legibility" -> "Pricing risk does not remove it";
   "Outcome-coupling is the condition of legibility" -> "Selection frequency trades against organizational memory";
+  "Perpetuity splits into adaptation and petrification" -> "Entity-shielding";
+  "Perpetuity splits into adaptation and petrification" -> "Guard against reverse-teleology";
+  "Perpetuity splits into adaptation and petrification" -> "Kuran's brake is a refusal of immortal entities";
+  "Perpetuity splits into adaptation and petrification" -> "MOC - Entity-shielding and corporate forms";
+  "Perpetuity splits into adaptation and petrification" -> "MOC - HistorEE";
+  "Perpetuity splits into adaptation and petrification" -> "The naties are a six-century Lindy institution";
+  "Perpetuity splits into adaptation and petrification" -> "The waqf and the nación flamenca diverge only at legal personality";
   "Persona ficta made the corporation a-moral ab initio" -> "Entitlement by liability versus entitlement by membership";
   "Persona ficta made the corporation a-moral ab initio" -> "Entity-shielding";
   "Persona ficta made the corporation a-moral ab initio" -> "MOC - Entity-shielding and corporate forms";
@@ -566,6 +578,14 @@ digraph vault {
   "The sea loan is a contingent claim not a loan" -> "Naviganti - Latin Christendom rejected the sea loan too";
   "The sea loan is a contingent claim not a loan" -> "Pricing risk does not remove it";
   "The sea loan is a contingent claim not a loan" -> "The qirad envelops the sea loan";
+  "The waqf and the nación flamenca diverge only at legal personality" -> "Entity-shielding";
+  "The waqf and the nación flamenca diverge only at legal personality" -> "Identity-wrapper and perpetual-monopoly are distinct shielding facets";
+  "The waqf and the nación flamenca diverge only at legal personality" -> "MOC - Entity-shielding and corporate forms";
+  "The waqf and the nación flamenca diverge only at legal personality" -> "MOC - HistorEE";
+  "The waqf and the nación flamenca diverge only at legal personality" -> "MOC - Islamic contract doctrine";
+  "The waqf and the nación flamenca diverge only at legal personality" -> "Perpetuity splits into adaptation and petrification";
+  "The waqf and the nación flamenca diverge only at legal personality" -> "Persona ficta made the corporation a-moral ab initio";
+  "The waqf and the nación flamenca diverge only at legal personality" -> "The waqf partition converts absence into refusal";
   "The waqf partition converts absence into refusal" -> "Kuran's brake is a refusal of immortal entities";
   "The waqf partition converts absence into refusal" -> "Lock-in and outcome-coupling are distinct bindings";
   "The waqf partition converts absence into refusal" -> "MOC - Entity-shielding and corporate forms";
