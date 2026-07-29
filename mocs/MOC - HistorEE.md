@@ -67,6 +67,8 @@ Project hub for the book. Atomic notes hang off both this project MOC and a them
 - [[Hierro Anibarro 2005 on the asiento de averia and the privileged company]]
 - [[The asiento de averia is the pooling-to-corporation hinge]]
 - [[Olivares's junta coded the asiento as a privileged company]]
+- [[The depersonalised share was produced by honour not by pooling logic]]
+- [[The coding commons must record stated rationale not only component presence]]
 
 ## Concept anchors
 

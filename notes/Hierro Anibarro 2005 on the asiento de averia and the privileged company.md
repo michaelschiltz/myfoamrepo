@@ -1,47 +1,73 @@
 ---
 title: Hierro Anibarro 2005 on the asiento de averia and the privileged company
 type: source
-tags: [averia, carrera-de-indias, corporate-form, joint-stock, charter, asset-partitioning]
+tags: [averia, carrera-de-indias, limited-liability, capital-lock-in, corporate-form, joint-stock, asset-partitioning]
 project: HistorEE
 source-session: referee-round-5
 created: 2026-07-26
-status: stub
+status: developed
 ---
 
 # Hierro Anibarro 2005 on the asiento de averia and the privileged company
 
-Santiago Hierro Anibarro, "El asiento de avería y el origen de la compañía privilegiada en España," *Revista de Historia Económica* XXIII (2005), número extraordinario, 181–211. Open access, UC3M e-Archivo, `hdl.handle.net/10016/3624`. Condenses his 1998 Alcalá doctoral thesis, *El origen de la sociedad anónima en España: la evolución del asiento de avería y el proyecto de compañías de comercio de Olivares, 1521–1633*.
+Santiago Hierro Anibarro, "El asiento de avería y el origen de la compañía privilegiada en España," *Revista de Historia Económica* XXIII (2005), número extraordinario, 181–211. ISSN 0212-6109. Open access, UC3M e-Archivo, `hdl.handle.net/10016/3624`. Condenses Hierro Anibarro (1998), *El origen de la sociedad anónima en España: la evolución del asiento de avería y el proyecto de compañías de comercio de Olivares, 1521–1633*, Universidad de Alcalá.
 
-**Read from the abstract only. The article itself is unread — every claim below is reported, not verified.** The UC3M repository is client-rendered and would not yield full text to a plain fetch.
+Read in full, 26 July 2026. This note replaces an earlier abstract-only version.
 
-## What it argues
+## Structure
 
-The *avería* was the *ad valorem* levy on the Indies trade, first raised in 1521 at the request of the Seville merchants, that paid for the armed escort of the fleets. Hierro Anibarro's claim is that the progressive **"autonomía patrimonial del capital"** assembled for that purpose — the patrimonial autonomy of the pooled capital — acquired the form of a genuine chartered trading company once the Crown devolved the administration of the *avería* entirely to private parties through the system of *asientos*. He treats the result as a direct antecedent of the *sociedad anónima*, and finds the influence of the *asientos* determinant on the first stable Spanish privileged companies, the Compañía del Norte (1624) and the Compañía de las Indias Orientales (1628).
+§1 introduction; §2 the organisation of the fleet system through the *avería* (2.1 the Casa de la Contratación; 2.2 the Consulado de cargadores; 2.3 the appearance of the *asiento*); §3 the statute of the *asientos* (3.1 rights and obligations; 3.2 capital and contributions; 3.3 the limitation of liability; 3.4 administration); §4 the influence of the *asientos* on the first Spanish privileged companies.
 
-The evidentiary centrepiece is that the officials whom Olivares appointed to study foreign chartered companies, with a view to importing them into Spain, could detect no difference between those companies and the *asientos* already in operation. See [[Olivares's junta coded the asiento as a privileged company]].
+## The decisive question, answered negatively
 
-## The question that decides whether this is usable
+*Autonomía patrimonial* in this article does **not** mean entity shielding in the Hansmann–Kraakman–Squire sense. The word *acreedor* does not occur in the text; *patrimonio* occurs once. Hierro Anibarro nowhere asks whether a *partícipe*'s private creditors could reach the fund, which is the entire content of the entity-shielding claim.
 
-Does *autonomía patrimonial* denote **entity shielding** in the Hansmann–Kraakman–Squire sense — the *asiento* pool protected from the personal creditors of the *asentistas* — or something weaker: segregated accounting, a distinct fiscal patrimony, Crown protection against seizure? Only the first does the work that [[Entity-shielding]] requires. Nothing in the abstract settles it, and a Spanish *mercantilista* writing in 1998 need not have meant the term in the Anglophone theoretical sense at all.
+What he documents is administrative and fiscal segregation: the *arca de tres llaves* — the three-key chest whose keys were held by the Prior of the Consulado, the Juez Diputado de averías and the Receptor, with every access entered in a register — together with the jurisdictional independence of the *administradores* and a separate Tribunal de la Contaduría de averías. The supporting authority is largely Céspedes (1945). This is affirmative partitioning at most. See [[Entity-shielding]].
+
+## What is there instead: limited liability, explicit and contractual
+
+§3.3 is the substantive find. Hierro Anibarro's claim is that the *asiento de avería* is "la primera empresa capitalista que formula un régimen de limitación de la responsabilidad absolutamente moderno y nítido en sus términos," distinct from the older, confused formula of the shipowner's liability. He prints the clause repeated in every *asiento*: the participants "no han de estar obligados en mancomun, ni por el todo, ni tener ninguna obligacion general, ni particular"; having handed the signed sum to the administrators, "aquella cantidad solamente ha de quedar obligado para cada uno... sin que contra sus personas, ni bienes se pueda pedir otra cosa alguna... ni por deuda"; their goods remain "libres sin carga de hipoteca especial, ni general." Even in the worst case, "que se perdieren todos los galeones," liability stops at the *puesto principal*. He states that no legal precedent expresses limited liability as clearly.
+
+This is owner shielding — the contractible half of the pair, which is precisely why it appears this early and by private capitulation rather than by organisational law. It bears directly on [[Harris 2020 on the late plurality of limited liability]].
+
+## The component inventory (§3.2)
+
+- The *puesto* names both the contribution and the division of the fund into *partes alícuotas variables* proportional to participation in the common capital. Hierro Anibarro's footnote likens it to *stock* in the English trading companies (Scott 1995).
+- The *puesto principal* is the founding contribution constituting the *cifra de caudal*, and cannot be withdrawn for the fixed term of the enterprise — six years in the capitulation quoted. Capital lock-in, contractual and terminable.
+- Express equality of *partícipes*: none may invoke a particular *fuero* to claim precedence or privilege over the rest; voting is proportional to contribution.
+- "En el asiento no es importante la calidad del aportante, sino la de su crédito."
+- A footnote cites Sayous (1902) on the *transmisión de las participaciones*. Transferability is present; its extent is **unverified** and matters.
+- Perpetuity is absent by design. The *asiento* is a term contract.
+
+## §4 — the Junta de Comercio, precisely
+
+The Junta de Comercio was created on 1 December 1622 under the Marqués de Montesclaros, its purpose the suppression of Dutch contraband. Its resolution of 23 July 1625 (AGS Est. leg. 2847) answers a memorial by Francisco de Retama, a Dutch merchant settled in Jerez de la Frontera, *Sobre fundar compañias en estos Reynos para el trato y comercio con las Indias occidentales*. The Junta replies that the Indies trade "esta bien dispuesta... pues dicha compañía ha de ser para que los gastos dela navegacion sean por quenta della y se ha provado las veces que ha estado por asiento la Armada de los galeones," adds that the Spanish system is better than companies because it avoids the strict monopolies they entail, and advises that companies be founded only for the East Indies and the European routes.
+
+The first Spanish privileged companies — the Compañía del Norte (1624, Seville) and the Compañía de las Indias Orientales (1628, Lisbon) — belong to Olivares's plan for five such companies. See [[Olivares's junta coded the asiento as a privileged company]].
+
+## Archival base
+
+AGI Contaduría 424; AGI Indiferente 2498 lib. 12, 2500 lib. 16, 2688; the printed *asientos* of 1620 (Fernando Correa de Montenegro), 1627 (Juan González), 1634 (viuda de Juan González) and 1640 (Andrés Parra); AGS Estado leg. 2036, 2515, 2847. Statutory frame: *Recopilación de las Leyes de Indias*, Lib. IX, Tít. IX — forty-six laws in the 1681 compilation, by which point the *avería* had practically disappeared, and expressly subsidiary to the *asientos* under Ley xxxxvj.
 
 ## Verify
 
-- Read the article and answer the *autonomía patrimonial* question directly.
-- Author is at Alcalá and writes as a commercial lawyer reconstructing legal descent — a legitimate genre, but Spanish economic historians of the Carrera do not always accept its genealogies. Trace whether Álvarez Nogal, del Valle Pavón, Bernal or García-Baquero engage with it; twenty years of silence from that quarter would itself be informative.
-- Test the genealogy at its weakest joint. Both the 1624 and 1628 companies were short-lived. If they failed quickly and left no descendants, "direct antecedent of the *sociedad anónima*" is a claim about form, not descent — and [[The corporation is not the omega - the naties are an undisplaced niche]] already sets out how little weight form-resemblance carries.
-- Go behind the article to the Olivares junta papers and the two charters.
+- The extent of *transmisión de las participaciones*: free transfer, or transfer with consent? This decides whether the transferable-claim component is genuinely present. Sayous (1902) is the lead.
+- Whether the reverse partition existed — could a *partícipe*'s private creditors reach the *arca*? Not in this article; would have to come from the *asiento* capitulations themselves or from litigation.
+- Internal date inconsistency: §1 dates the *avería*'s appearance to 1521, §3.4 to 1522.
+- Reception. Hierro Anibarro writes as a *mercantilista* at Alcalá. Whether Álvarez Nogal, del Valle Pavón, Bernal or García-Baquero engage with the genealogy is still unchecked and still worth knowing.
 
 ## Links
 
 - [[The asiento de averia is the pooling-to-corporation hinge]]
 - [[Olivares's junta coded the asiento as a privileged company]]
-- [[Entity-shielding]]
-- [[The alleenrecht is monopoly held as tradable property]]
+- [[The depersonalised share was produced by honour not by pooling logic]]
 - [[Harris 2020 on the late plurality of limited liability]]
+- [[Entity-shielding]]
+- [[limited-liability]]
 - [[MOC - Entity-shielding and corporate forms]]
 - [[MOC - HistorEE]]
 - [[MOC - ERC Synergy Grant]]
 
 ## Source
 
-Not in the Zotero library — searched 2026-07-26, no match. Add by handle or DOI before citing. Surfaced while assessing whether the *avería* belongs in WP1 as a European negative case; see also the working note on the *avería* in the ERC outputs folder.
+Zotero item key `SSBGT822`; PDF attachment `57I5WCSP`. Read from the attached PDF via the sandbox, footnote apparatus filtered — quotations are verbatim from the printed text, but a second pass on the footnotes may recover more of the archival detail.

@@ -5,29 +5,30 @@ tags: [averia, legal-consciousness, comparative, corporate-form, historiography]
 project: HistorEE
 source-session: referee-round-5
 created: 2026-07-26
-status: stub
+status: seed
 ---
 
 # Olivares's junta coded the asiento as a privileged company
 
-The officials whom the Count-Duke of Olivares appointed to study the foreign chartered companies, with the object of introducing the form into Spain, reported that they could see no difference between those companies and the *asientos de avería* already operating at home.
+Asked in 1625 whether Spain should import the chartered-company form for the West Indies trade, a Spanish government committee answered that the existing *asiento de avería* already did the same work, and did it better.
 
-That is not a functional equivalence we impose. It is one that contemporaries performed, in their own categories, as an act of state — a seventeenth-century comparative institutional assessment, commissioned for a policy purpose, reaching the conclusion that the domestic pooling contract and the foreign corporation were the same kind of thing.
+The occasion is precise. The Junta de Comercio was created on 1 December 1622 under the Marqués de Montesclaros, its brief the suppression of Dutch contraband within Olivares's economic war against the Dutch Republic. Its resolution of 23 July 1625 (AGS Est. leg. 2847) answers a memorial by Francisco de Retama, a Dutch merchant settled in Jerez de la Frontera, *Sobre fundar compañias en estos Reynos para el trato y comercio con las Indias occidentales*. The Junta replies that the Indies trade "esta bien dispuesta... pues dicha compañía ha de ser para que los gastos dela navegacion sean por quenta della y se ha provado las veces que ha estado por asiento la Armada de los galeones," adds that the Spanish arrangement is superior because it avoids the strict monopolies foreign companies entail, and recommends that companies be founded only for the East Indies and the European routes.
 
-The methodological value is disproportionate to the size of the finding. The standing objection to the comparative programme is that the functional reading is a modern grid laid over pliant material — the Maslow's-hammer charge, and the reason [[Guard against reverse-teleology]] exists. A documented case in which the actors run the comparison themselves, and arrive where we would arrive, is the strongest available answer, because the coding is not ours to be accused of. It is legal consciousness in the operative sense: the categories through which actors actually sorted institutional kinds, recovered from an occasion on which they had to sort them.
+What makes this valuable is the **ground** of the identification. The Junta does not compare charters, forms or names. It compares what the institution does — carry the costs of the navigation on its own account — and finds the function already discharged. That is functional equivalence asserted by contemporaries, in their own categories, for a policy purpose, and it is the strongest available answer to the charge that the functional reading is a modern grid laid over pliant material: here the coding is not ours to be accused of. Compare [[Natie and kabu-nakama are a convergence pair]], which turns on resemblance we identify; this one has the actors doing the comparing.
 
-Two cautions, both load-bearing.
+Three cautions, all load-bearing, and the first is now evidenced rather than speculative.
 
-The junta had a **motive**. Officials arguing that Spain already possessed what Olivares proposed to import were making a bureaucratic case, not a disinterested taxonomic one. Whether the identification reflects the institutions' actual likeness or the politics of the *proyecto de compañías* has to be settled from the papers, and the answer decides whether this is evidence or rhetoric.
+**Motive.** The Junta was rejecting a Dutch proposal in the middle of an economic war with the Dutch. "We already have this, and ours is better" was the bureaucratically and politically convenient answer. Whether the identification reflects institutional likeness or the politics of the *proyecto de compañías* has to be settled from the papers.
 
-And the judgement is **negative in form** — no difference detected — which is weaker than a positive statement of what the two shared. It tells us the junta's working criteria were satisfied without telling us what those criteria were. Recovering them is the actual prize: a contemporary specification of what makes a body a company would be a far better instrument than the five-component grid, because it would be indigenous.
+**Scope.** Hierro Anibarro's framing — officials whom Olivares charged with the study of foreign companies — overstates it. This was a consultation response to memorials forwarded to a contraband committee, not a commissioned comparative study.
 
-**Status.** Reported at second hand from the abstract of [[Hierro Anibarro 2005 on the asiento de averia and the privileged company]]. The junta papers are unread.
+**Form.** The judgement is negative and residual: no difference detected, no company needed. It tells us the Junta's working criteria were satisfied without stating them. Recovering those criteria is the actual prize, because a contemporary Spanish specification of what makes a body a company would be a better instrument than the five-component grid — it would be indigenous. That is a discrete archival target: AGS Estado leg. 2847, the resolutions of 13 and 16 March 1624 and 23 July 1625, and the memoriales behind them.
 
 ## Links
 
 - [[Hierro Anibarro 2005 on the asiento de averia and the privileged company]]
 - [[The asiento de averia is the pooling-to-corporation hinge]]
+- [[The depersonalised share was produced by honour not by pooling logic]]
 - [[Guard against reverse-teleology]]
 - [[Transmission versus independent recurrence is the load-bearing test]]
 - [[The deficit reading of absence is the scalar ranking in evidentiary form]]
@@ -39,4 +40,4 @@ And the judgement is **negative in form** — no difference detected — which i
 
 ## Source
 
-Referee-round-5 session. Runs parallel to [[Natie and kabu-nakama are a convergence pair]] in structure: both turn on resemblance across traditions, but this one has contemporaries doing the comparing.
+Referee-round-5 session. Rewritten after the full reading; the earlier version followed the article's abstract and overstated both the commission and the finding.
