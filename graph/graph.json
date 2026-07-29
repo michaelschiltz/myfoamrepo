@@ -437,7 +437,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The morphological matrix is dictated by the shape of the feature space",
-      "value": 20,
+      "value": 21,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -509,7 +509,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The waqf and the nación flamenca diverge only at legal personality",
-      "value": 13,
+      "value": 14,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -654,6 +654,15 @@
       "group": "database",
       "label": "clearing_records",
       "value": 2,
+      "color": "#a6761d",
+      "shape": "database"
+    },
+    {
+      "id": "organizational_forms",
+      "type": "database",
+      "group": "database",
+      "label": "organizational_forms",
+      "value": 3,
       "color": "#a6761d",
       "shape": "database"
     }
@@ -2564,6 +2573,10 @@
       "to": "The durable-and-coupled cell is the underexplored one"
     },
     {
+      "from": "The morphological matrix is dictated by the shape of the feature space",
+      "to": "organizational_forms"
+    },
+    {
       "from": "The mudaraba is revocable not locked in",
       "to": "Islamic doctrine refuses risk-commodification at step one"
     },
@@ -2758,6 +2771,10 @@
     {
       "from": "The waqf and the nación flamenca diverge only at legal personality",
       "to": "The waqf partition converts absence into refusal"
+    },
+    {
+      "from": "The waqf and the nación flamenca diverge only at legal personality",
+      "to": "organizational_forms"
     },
     {
       "from": "The waqf partition converts absence into refusal",
