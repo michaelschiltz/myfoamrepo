@@ -32,6 +32,8 @@ Thematic hub for the corporate-form apparatus: asset-partitioning, identity-wrap
 - [[Harris 2020 on the late plurality of limited liability]]
 - [[The real cut is shielded-and-pooled versus unshielded]]
 - [[The ie as entity-shielding]]
+- [[The waqf and the nación flamenca diverge only at legal personality]]
+- [[Perpetuity splits into adaptation and petrification]]
 
 ## Links
 

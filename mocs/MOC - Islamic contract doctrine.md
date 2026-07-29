@@ -20,6 +20,7 @@ Thematic hub for the fiqh apparatus bearing on finance: *gharar*, *maysir*, *rib
 - [[The mudaraba is revocable not locked in]]
 - [[Skin in the game is asymmetric in the mudaraba]]
 - [[The waqf partition converts absence into refusal]]
+- [[The waqf and the nación flamenca diverge only at legal personality]]
 - [[Entitlement by liability versus entitlement by membership]]
 - [[The qirad's antecedents are Sasanian not Sogdian]]
 - [[The determinate-contingent typology carries the richness]]
