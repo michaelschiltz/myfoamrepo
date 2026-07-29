@@ -74,6 +74,7 @@ digraph vault {
   "MOC - Risk-sharing vs risk-pricing" [fillcolor="#d95f02", fontcolor=white, shape=ellipse];
   "tags" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
   "clearing_records" [fillcolor="#a6761d", fontcolor=white, shape=cylinder];
+  "organizational_forms" [fillcolor="#a6761d", fontcolor=white, shape=cylinder];
   "Absorbing barrier" -> "Entity-shielding";
   "Absorbing barrier" -> "MOC - Ergodicity and the time-ensemble distinction";
   "Absorbing barrier" -> "MOC - HistorEE";
@@ -550,6 +551,7 @@ digraph vault {
   "The morphological matrix is dictated by the shape of the feature space" -> "The deficit reading of absence is the scalar ranking in evidentiary form";
   "The morphological matrix is dictated by the shape of the feature space" -> "The determinate-contingent typology carries the richness";
   "The morphological matrix is dictated by the shape of the feature space" -> "The durable-and-coupled cell is the underexplored one";
+  "The morphological matrix is dictated by the shape of the feature space" -> "organizational_forms";
   "The mudaraba is revocable not locked in" -> "Islamic doctrine refuses risk-commodification at step one";
   "The mudaraba is revocable not locked in" -> "Kuran's brake is a refusal of immortal entities";
   "The mudaraba is revocable not locked in" -> "Lock-in and outcome-coupling are distinct bindings";
@@ -599,6 +601,7 @@ digraph vault {
   "The waqf and the nación flamenca diverge only at legal personality" -> "Perpetuity splits into adaptation and petrification";
   "The waqf and the nación flamenca diverge only at legal personality" -> "Persona ficta made the corporation a-moral ab initio";
   "The waqf and the nación flamenca diverge only at legal personality" -> "The waqf partition converts absence into refusal";
+  "The waqf and the nación flamenca diverge only at legal personality" -> "organizational_forms";
   "The waqf partition converts absence into refusal" -> "Kuran's brake is a refusal of immortal entities";
   "The waqf partition converts absence into refusal" -> "Lock-in and outcome-coupling are distinct bindings";
   "The waqf partition converts absence into refusal" -> "MOC - Entity-shielding and corporate forms";
