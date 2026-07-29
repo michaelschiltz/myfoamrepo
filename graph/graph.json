@@ -86,7 +86,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Identity-wrapper and perpetual-monopoly are distinct shielding facets",
-      "value": 11,
+      "value": 12,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -230,7 +230,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Refusals are observations of the filter not inferences from survivors",
-      "value": 18,
+      "value": 20,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -320,7 +320,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The ascent narrative is the Jensen error as historiography",
-      "value": 12,
+      "value": 14,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -338,7 +338,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The coding commons must record stated rationale not only component presence",
-      "value": 16,
+      "value": 18,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -347,7 +347,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The corporation is not the omega - the naties are an undisplaced niche",
-      "value": 24,
+      "value": 26,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -356,7 +356,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The deficit reading of absence is the scalar ranking in evidentiary form",
-      "value": 13,
+      "value": 15,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -374,7 +374,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The determinate-contingent typology carries the richness",
-      "value": 12,
+      "value": 14,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -383,7 +383,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The durable-and-coupled cell is the underexplored one",
-      "value": 13,
+      "value": 15,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -429,6 +429,15 @@
       "group": "seed",
       "label": "The liability principle was demoted from rule to maxim",
       "value": 12,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "The morphological matrix is dictated by the shape of the feature space",
+      "type": "permanent",
+      "group": "seed",
+      "label": "The morphological matrix is dictated by the shape of the feature space",
+      "value": 20,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -581,7 +590,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Entity-shielding and corporate forms",
-      "value": 56,
+      "value": 57,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -599,7 +608,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - HistorEE",
-      "value": 114,
+      "value": 115,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -608,7 +617,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Historiography and method",
-      "value": 39,
+      "value": 41,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -1409,6 +1418,10 @@
     {
       "from": "MOC - Historiography and method",
       "to": "The liability principle was demoted from rule to maxim"
+    },
+    {
+      "from": "MOC - Historiography and method",
+      "to": "The morphological matrix is dictated by the shape of the feature space"
     },
     {
       "from": "MOC - Historiography and method",
@@ -2505,6 +2518,50 @@
     {
       "from": "The liability principle was demoted from rule to maxim",
       "to": "The sea loan is a contingent claim not a loan"
+    },
+    {
+      "from": "The morphological matrix is dictated by the shape of the feature space",
+      "to": "Identity-wrapper and perpetual-monopoly are distinct shielding facets"
+    },
+    {
+      "from": "The morphological matrix is dictated by the shape of the feature space",
+      "to": "MOC - Entity-shielding and corporate forms"
+    },
+    {
+      "from": "The morphological matrix is dictated by the shape of the feature space",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "The morphological matrix is dictated by the shape of the feature space",
+      "to": "MOC - Historiography and method"
+    },
+    {
+      "from": "The morphological matrix is dictated by the shape of the feature space",
+      "to": "Refusals are observations of the filter not inferences from survivors"
+    },
+    {
+      "from": "The morphological matrix is dictated by the shape of the feature space",
+      "to": "The ascent narrative is the Jensen error as historiography"
+    },
+    {
+      "from": "The morphological matrix is dictated by the shape of the feature space",
+      "to": "The coding commons must record stated rationale not only component presence"
+    },
+    {
+      "from": "The morphological matrix is dictated by the shape of the feature space",
+      "to": "The corporation is not the omega - the naties are an undisplaced niche"
+    },
+    {
+      "from": "The morphological matrix is dictated by the shape of the feature space",
+      "to": "The deficit reading of absence is the scalar ranking in evidentiary form"
+    },
+    {
+      "from": "The morphological matrix is dictated by the shape of the feature space",
+      "to": "The determinate-contingent typology carries the richness"
+    },
+    {
+      "from": "The morphological matrix is dictated by the shape of the feature space",
+      "to": "The durable-and-coupled cell is the underexplored one"
     },
     {
       "from": "The mudaraba is revocable not locked in",

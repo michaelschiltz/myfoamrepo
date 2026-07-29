@@ -49,6 +49,7 @@ digraph vault {
   "The fraterna and compagnia diverge in formation but converge at the barrier" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "The ie as entity-shielding" [fillcolor="#666666", fontcolor=white, shape=ellipse];
   "The liability principle was demoted from rule to maxim" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
+  "The morphological matrix is dictated by the shape of the feature space" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "The mudaraba is revocable not locked in" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "The naties are a six-century Lindy institution" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "The ortoq is the discriminating instrument" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
@@ -263,6 +264,7 @@ digraph vault {
   "MOC - Historiography and method" -> "The deficit reading of absence is the scalar ranking in evidentiary form";
   "MOC - Historiography and method" -> "The durable-and-coupled cell is the underexplored one";
   "MOC - Historiography and method" -> "The liability principle was demoted from rule to maxim";
+  "MOC - Historiography and method" -> "The morphological matrix is dictated by the shape of the feature space";
   "MOC - Historiography and method" -> "The ortoq is the discriminating instrument";
   "MOC - Historiography and method" -> "The qirad's antecedents are Sasanian not Sogdian";
   "MOC - Historiography and method" -> "Transmission versus independent recurrence is the load-bearing test";
@@ -537,6 +539,17 @@ digraph vault {
   "The liability principle was demoted from rule to maxim" -> "Persona ficta made the corporation a-moral ab initio";
   "The liability principle was demoted from rule to maxim" -> "Skin in the game";
   "The liability principle was demoted from rule to maxim" -> "The sea loan is a contingent claim not a loan";
+  "The morphological matrix is dictated by the shape of the feature space" -> "Identity-wrapper and perpetual-monopoly are distinct shielding facets";
+  "The morphological matrix is dictated by the shape of the feature space" -> "MOC - Entity-shielding and corporate forms";
+  "The morphological matrix is dictated by the shape of the feature space" -> "MOC - HistorEE";
+  "The morphological matrix is dictated by the shape of the feature space" -> "MOC - Historiography and method";
+  "The morphological matrix is dictated by the shape of the feature space" -> "Refusals are observations of the filter not inferences from survivors";
+  "The morphological matrix is dictated by the shape of the feature space" -> "The ascent narrative is the Jensen error as historiography";
+  "The morphological matrix is dictated by the shape of the feature space" -> "The coding commons must record stated rationale not only component presence";
+  "The morphological matrix is dictated by the shape of the feature space" -> "The corporation is not the omega - the naties are an undisplaced niche";
+  "The morphological matrix is dictated by the shape of the feature space" -> "The deficit reading of absence is the scalar ranking in evidentiary form";
+  "The morphological matrix is dictated by the shape of the feature space" -> "The determinate-contingent typology carries the richness";
+  "The morphological matrix is dictated by the shape of the feature space" -> "The durable-and-coupled cell is the underexplored one";
   "The mudaraba is revocable not locked in" -> "Islamic doctrine refuses risk-commodification at step one";
   "The mudaraba is revocable not locked in" -> "Kuran's brake is a refusal of immortal entities";
   "The mudaraba is revocable not locked in" -> "Lock-in and outcome-coupling are distinct bindings";
