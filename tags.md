@@ -25,7 +25,7 @@ Keep tags lowercase, hyphenated, singular. Before coining a new tag, check this 
 
 ## Islamic contract doctrine
 
-`gharar` · `maysir` · `riba` · `salam` · `hiyal` · `ghishsh` · `khiyana` · `waqf` · `maqasid`
+`gharar` · `maysir` · `riba` · `salam` · `hiyal` · `ghishsh` · `khiyana` · `waqf` · `maqasid` · `amana` · `daman`
 
 ## Legal / jurisdiction
 

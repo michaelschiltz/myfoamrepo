@@ -76,6 +76,8 @@ Project hub for the book. Atomic notes hang off both this project MOC and a them
 - [[Non-ergodicity collapses the likelihood ratio on outcomes]]
 - [[Ensemble benchmarking of agents is biased against the honest]]
 - [[Institutions substitute state-verification for outcome-inference as ruin exposure rises]]
+- [[The amana-daman structure refuses to infer fault from loss]]
+- [[Gharar excludes designed-in unverifiability]]
 
 ## Concept anchors
 
