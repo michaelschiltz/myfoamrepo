@@ -28,6 +28,15 @@
       "shape": "dot"
     },
     {
+      "id": "Divergent arbitrary particulars are the independence diagnostic",
+      "type": "permanent",
+      "group": "seed",
+      "label": "Divergent arbitrary particulars are the independence diagnostic",
+      "value": 21,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
       "id": "Economics had its ensemble moment in 1738 and psychologized it",
       "type": "permanent",
       "group": "seed",
@@ -52,6 +61,15 @@
       "label": "Entity-shielding",
       "value": 38,
       "color": "#666666",
+      "shape": "dot"
+    },
+    {
+      "id": "Galton's problem",
+      "type": "permanent",
+      "group": "seed",
+      "label": "Galton's problem",
+      "value": 20,
+      "color": "#e6ab02",
       "shape": "dot"
     },
     {
@@ -149,7 +167,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Natie and kabu-nakama are a convergence pair",
-      "value": 20,
+      "value": 21,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -230,7 +248,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Refusals are observations of the filter not inferences from survivors",
-      "value": 21,
+      "value": 23,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -275,7 +293,7 @@
       "type": "source",
       "group": "source",
       "label": "Simonsohn 2016 on East Syrian civil law and the Sasanian substrate",
-      "value": 17,
+      "value": 18,
       "color": "#7570b3",
       "shape": "dot"
     },
@@ -302,7 +320,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Split provenance into priority and independence",
-      "value": 15,
+      "value": 19,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -347,7 +365,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The coding commons must record stated rationale not only component presence",
-      "value": 20,
+      "value": 23,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -473,7 +491,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The ortoq is the discriminating instrument",
-      "value": 14,
+      "value": 17,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -514,6 +532,15 @@
       "shape": "dot"
     },
     {
+      "id": "The theory predicts recurrence not independent origins",
+      "type": "permanent",
+      "group": "seed",
+      "label": "The theory predicts recurrence not independent origins",
+      "value": 18,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
       "id": "The waqf and the nación flamenca diverge only at legal personality",
       "type": "permanent",
       "group": "seed",
@@ -536,7 +563,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The western family needs only plausible common descent not proven genealogy",
-      "value": 20,
+      "value": 25,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -545,7 +572,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Time-average optimization is a survivorship property not an intention",
-      "value": 16,
+      "value": 18,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -563,7 +590,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Transmission versus independent recurrence is the load-bearing test",
-      "value": 22,
+      "value": 26,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -599,7 +626,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - ERC Synergy Grant",
-      "value": 20,
+      "value": 23,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -617,7 +644,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Ergodicity and the time-ensemble distinction",
-      "value": 29,
+      "value": 30,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -626,7 +653,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - HistorEE",
-      "value": 119,
+      "value": 125,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -635,7 +662,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Historiography and method",
-      "value": 43,
+      "value": 46,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -759,6 +786,54 @@
       "to": "Whiggish history of finance names the ascent narrative"
     },
     {
+      "from": "Divergent arbitrary particulars are the independence diagnostic",
+      "to": "Galton's problem"
+    },
+    {
+      "from": "Divergent arbitrary particulars are the independence diagnostic",
+      "to": "MOC - ERC Synergy Grant"
+    },
+    {
+      "from": "Divergent arbitrary particulars are the independence diagnostic",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Divergent arbitrary particulars are the independence diagnostic",
+      "to": "MOC - Historiography and method"
+    },
+    {
+      "from": "Divergent arbitrary particulars are the independence diagnostic",
+      "to": "Natie and kabu-nakama are a convergence pair"
+    },
+    {
+      "from": "Divergent arbitrary particulars are the independence diagnostic",
+      "to": "Simonsohn 2016 on East Syrian civil law and the Sasanian substrate"
+    },
+    {
+      "from": "Divergent arbitrary particulars are the independence diagnostic",
+      "to": "Split provenance into priority and independence"
+    },
+    {
+      "from": "Divergent arbitrary particulars are the independence diagnostic",
+      "to": "The coding commons must record stated rationale not only component presence"
+    },
+    {
+      "from": "Divergent arbitrary particulars are the independence diagnostic",
+      "to": "The ortoq is the discriminating instrument"
+    },
+    {
+      "from": "Divergent arbitrary particulars are the independence diagnostic",
+      "to": "The theory predicts recurrence not independent origins"
+    },
+    {
+      "from": "Divergent arbitrary particulars are the independence diagnostic",
+      "to": "The western family needs only plausible common descent not proven genealogy"
+    },
+    {
+      "from": "Divergent arbitrary particulars are the independence diagnostic",
+      "to": "Transmission versus independent recurrence is the load-bearing test"
+    },
+    {
       "from": "Economics had its ensemble moment in 1738 and psychologized it",
       "to": "MOC - Ergodicity and the time-ensemble distinction"
     },
@@ -825,6 +900,46 @@
     {
       "from": "Entity-shielding",
       "to": "The four-step decoupling from participation to the veil"
+    },
+    {
+      "from": "Galton's problem",
+      "to": "Divergent arbitrary particulars are the independence diagnostic"
+    },
+    {
+      "from": "Galton's problem",
+      "to": "MOC - ERC Synergy Grant"
+    },
+    {
+      "from": "Galton's problem",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Galton's problem",
+      "to": "MOC - Historiography and method"
+    },
+    {
+      "from": "Galton's problem",
+      "to": "Split provenance into priority and independence"
+    },
+    {
+      "from": "Galton's problem",
+      "to": "The coding commons must record stated rationale not only component presence"
+    },
+    {
+      "from": "Galton's problem",
+      "to": "The ortoq is the discriminating instrument"
+    },
+    {
+      "from": "Galton's problem",
+      "to": "The theory predicts recurrence not independent origins"
+    },
+    {
+      "from": "Galton's problem",
+      "to": "The western family needs only plausible common descent not proven genealogy"
+    },
+    {
+      "from": "Galton's problem",
+      "to": "Transmission versus independent recurrence is the load-bearing test"
     },
     {
       "from": "Guard against reverse-teleology",
@@ -1224,11 +1339,19 @@
     },
     {
       "from": "MOC - HistorEE",
+      "to": "Divergent arbitrary particulars are the independence diagnostic"
+    },
+    {
+      "from": "MOC - HistorEE",
       "to": "Economics had its ensemble moment in 1738 and psychologized it"
     },
     {
       "from": "MOC - HistorEE",
       "to": "Entity-shielding"
+    },
+    {
+      "from": "MOC - HistorEE",
+      "to": "Galton's problem"
     },
     {
       "from": "MOC - HistorEE",
@@ -1377,6 +1500,10 @@
     {
       "from": "MOC - HistorEE",
       "to": "The sea loan is a contingent claim not a loan"
+    },
+    {
+      "from": "MOC - HistorEE",
+      "to": "The theory predicts recurrence not independent origins"
     },
     {
       "from": "MOC - HistorEE",
@@ -2809,6 +2936,50 @@
     {
       "from": "The sea loan is a contingent claim not a loan",
       "to": "The qirad envelops the sea loan"
+    },
+    {
+      "from": "The theory predicts recurrence not independent origins",
+      "to": "Divergent arbitrary particulars are the independence diagnostic"
+    },
+    {
+      "from": "The theory predicts recurrence not independent origins",
+      "to": "Galton's problem"
+    },
+    {
+      "from": "The theory predicts recurrence not independent origins",
+      "to": "MOC - ERC Synergy Grant"
+    },
+    {
+      "from": "The theory predicts recurrence not independent origins",
+      "to": "MOC - Ergodicity and the time-ensemble distinction"
+    },
+    {
+      "from": "The theory predicts recurrence not independent origins",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "The theory predicts recurrence not independent origins",
+      "to": "MOC - Historiography and method"
+    },
+    {
+      "from": "The theory predicts recurrence not independent origins",
+      "to": "Refusals are observations of the filter not inferences from survivors"
+    },
+    {
+      "from": "The theory predicts recurrence not independent origins",
+      "to": "Split provenance into priority and independence"
+    },
+    {
+      "from": "The theory predicts recurrence not independent origins",
+      "to": "The western family needs only plausible common descent not proven genealogy"
+    },
+    {
+      "from": "The theory predicts recurrence not independent origins",
+      "to": "Time-average optimization is a survivorship property not an intention"
+    },
+    {
+      "from": "The theory predicts recurrence not independent origins",
+      "to": "Transmission versus independent recurrence is the load-bearing test"
     },
     {
       "from": "The waqf and the nación flamenca diverge only at legal personality",
