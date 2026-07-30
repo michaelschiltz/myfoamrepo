@@ -31,6 +31,7 @@ digraph vault {
   "Scuttling rewards fraud in the sea loan" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Selection frequency trades against organizational memory" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Separate the genetic and the methodological claims about economics" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
+  "Simonsohn 2016 on East Syrian civil law and the Sasanian substrate" [fillcolor="#7570b3", fontcolor=white, shape=ellipse];
   "Skin in the game is asymmetric in the mudaraba" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Skin in the game" [fillcolor="#666666", fontcolor=white, shape=ellipse];
   "Split provenance into priority and independence" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
@@ -59,6 +60,7 @@ digraph vault {
   "The sea loan is a contingent claim not a loan" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "The waqf and the nación flamenca diverge only at legal personality" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "The waqf partition converts absence into refusal" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
+  "The western family needs only plausible common descent not proven genealogy" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Time-average optimization is a survivorship property not an intention" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Time-average" [fillcolor="#666666", fontcolor=white, shape=ellipse];
   "Transmission versus independent recurrence is the load-bearing test" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
@@ -231,6 +233,7 @@ digraph vault {
   "MOC - HistorEE" -> "Route Kolmogorov to ergodic theory not the theory of means";
   "MOC - HistorEE" -> "Scuttling rewards fraud in the sea loan";
   "MOC - HistorEE" -> "Separate the genetic and the methodological claims about economics";
+  "MOC - HistorEE" -> "Simonsohn 2016 on East Syrian civil law and the Sasanian substrate";
   "MOC - HistorEE" -> "Skin in the game";
   "MOC - HistorEE" -> "The alleenrecht is monopoly held as tradable property";
   "MOC - HistorEE" -> "The ascent narrative is the Jensen error as historiography";
@@ -247,6 +250,7 @@ digraph vault {
   "MOC - HistorEE" -> "The qirad's antecedents are Sasanian not Sogdian";
   "MOC - HistorEE" -> "The real cut is shielded-and-pooled versus unshielded";
   "MOC - HistorEE" -> "The sea loan is a contingent claim not a loan";
+  "MOC - HistorEE" -> "The western family needs only plausible common descent not proven genealogy";
   "MOC - HistorEE" -> "Time-average";
   "MOC - HistorEE" -> "Time-average optimization is a survivorship property not an intention";
   "MOC - HistorEE" -> "Transmission versus independent recurrence is the load-bearing test";
@@ -400,6 +404,15 @@ digraph vault {
   "Separate the genetic and the methodological claims about economics" -> "MOC - HistorEE";
   "Separate the genetic and the methodological claims about economics" -> "The ensemble average is the local descriptor of a barrier-shielded agent";
   "Separate the genetic and the methodological claims about economics" -> "Time-average";
+  "Simonsohn 2016 on East Syrian civil law and the Sasanian substrate" -> "MOC - ERC Synergy Grant";
+  "Simonsohn 2016 on East Syrian civil law and the Sasanian substrate" -> "MOC - HistorEE";
+  "Simonsohn 2016 on East Syrian civil law and the Sasanian substrate" -> "MOC - Historiography and method";
+  "Simonsohn 2016 on East Syrian civil law and the Sasanian substrate" -> "MOC - Islamic contract doctrine";
+  "Simonsohn 2016 on East Syrian civil law and the Sasanian substrate" -> "Split provenance into priority and independence";
+  "Simonsohn 2016 on East Syrian civil law and the Sasanian substrate" -> "The ortoq is the discriminating instrument";
+  "Simonsohn 2016 on East Syrian civil law and the Sasanian substrate" -> "The qirad's antecedents are Sasanian not Sogdian";
+  "Simonsohn 2016 on East Syrian civil law and the Sasanian substrate" -> "The western family needs only plausible common descent not proven genealogy";
+  "Simonsohn 2016 on East Syrian civil law and the Sasanian substrate" -> "Transmission versus independent recurrence is the load-bearing test";
   "Skin in the game" -> "Absorbing barrier";
   "Skin in the game" -> "Islamic doctrine refuses risk-commodification at step one";
   "Skin in the game" -> "MOC - HistorEE";
@@ -578,8 +591,10 @@ digraph vault {
   "The qirad's antecedents are Sasanian not Sogdian" -> "MOC - HistorEE";
   "The qirad's antecedents are Sasanian not Sogdian" -> "MOC - Islamic contract doctrine";
   "The qirad's antecedents are Sasanian not Sogdian" -> "Natie and kabu-nakama are a convergence pair";
+  "The qirad's antecedents are Sasanian not Sogdian" -> "Simonsohn 2016 on East Syrian civil law and the Sasanian substrate";
   "The qirad's antecedents are Sasanian not Sogdian" -> "The ortoq is the discriminating instrument";
   "The qirad's antecedents are Sasanian not Sogdian" -> "The qirad envelops the sea loan";
+  "The qirad's antecedents are Sasanian not Sogdian" -> "The western family needs only plausible common descent not proven genealogy";
   "The qirad's antecedents are Sasanian not Sogdian" -> "Transmission versus independent recurrence is the load-bearing test";
   "The real cut is shielded-and-pooled versus unshielded" -> "Entity-shielding";
   "The real cut is shielded-and-pooled versus unshielded" -> "MOC - Entity-shielding and corporate forms";
@@ -609,6 +624,17 @@ digraph vault {
   "The waqf partition converts absence into refusal" -> "MOC - Islamic contract doctrine";
   "The waqf partition converts absence into refusal" -> "Persona ficta made the corporation a-moral ab initio";
   "The waqf partition converts absence into refusal" -> "The mudaraba is revocable not locked in";
+  "The western family needs only plausible common descent not proven genealogy" -> "MOC - ERC Synergy Grant";
+  "The western family needs only plausible common descent not proven genealogy" -> "MOC - HistorEE";
+  "The western family needs only plausible common descent not proven genealogy" -> "MOC - Historiography and method";
+  "The western family needs only plausible common descent not proven genealogy" -> "MOC - Islamic contract doctrine";
+  "The western family needs only plausible common descent not proven genealogy" -> "Refusals are observations of the filter not inferences from survivors";
+  "The western family needs only plausible common descent not proven genealogy" -> "Simonsohn 2016 on East Syrian civil law and the Sasanian substrate";
+  "The western family needs only plausible common descent not proven genealogy" -> "Split provenance into priority and independence";
+  "The western family needs only plausible common descent not proven genealogy" -> "The coding commons must record stated rationale not only component presence";
+  "The western family needs only plausible common descent not proven genealogy" -> "The ortoq is the discriminating instrument";
+  "The western family needs only plausible common descent not proven genealogy" -> "The qirad's antecedents are Sasanian not Sogdian";
+  "The western family needs only plausible common descent not proven genealogy" -> "Transmission versus independent recurrence is the load-bearing test";
   "Time-average" -> "Absorbing barrier";
   "Time-average" -> "MOC - Ergodicity and the time-ensemble distinction";
   "Time-average" -> "MOC - HistorEE";

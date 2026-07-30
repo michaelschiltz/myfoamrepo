@@ -149,7 +149,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Natie and kabu-nakama are a convergence pair",
-      "value": 19,
+      "value": 20,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -230,7 +230,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Refusals are observations of the filter not inferences from survivors",
-      "value": 20,
+      "value": 21,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -271,6 +271,15 @@
       "shape": "dot"
     },
     {
+      "id": "Simonsohn 2016 on East Syrian civil law and the Sasanian substrate",
+      "type": "source",
+      "group": "source",
+      "label": "Simonsohn 2016 on East Syrian civil law and the Sasanian substrate",
+      "value": 17,
+      "color": "#7570b3",
+      "shape": "dot"
+    },
+    {
       "id": "Skin in the game is asymmetric in the mudaraba",
       "type": "permanent",
       "group": "seed",
@@ -293,7 +302,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Split provenance into priority and independence",
-      "value": 13,
+      "value": 15,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -338,7 +347,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The coding commons must record stated rationale not only component presence",
-      "value": 18,
+      "value": 20,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -464,7 +473,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The ortoq is the discriminating instrument",
-      "value": 12,
+      "value": 14,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -482,7 +491,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The qirad's antecedents are Sasanian not Sogdian",
-      "value": 16,
+      "value": 25,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -523,6 +532,15 @@
       "shape": "dot"
     },
     {
+      "id": "The western family needs only plausible common descent not proven genealogy",
+      "type": "permanent",
+      "group": "seed",
+      "label": "The western family needs only plausible common descent not proven genealogy",
+      "value": 20,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
       "id": "Time-average optimization is a survivorship property not an intention",
       "type": "permanent",
       "group": "seed",
@@ -545,7 +563,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Transmission versus independent recurrence is the load-bearing test",
-      "value": 20,
+      "value": 22,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -581,7 +599,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - ERC Synergy Grant",
-      "value": 18,
+      "value": 20,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -608,7 +626,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - HistorEE",
-      "value": 115,
+      "value": 119,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -617,7 +635,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Historiography and method",
-      "value": 41,
+      "value": 43,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -626,7 +644,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Islamic contract doctrine",
-      "value": 27,
+      "value": 29,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -1294,6 +1312,10 @@
     },
     {
       "from": "MOC - HistorEE",
+      "to": "Simonsohn 2016 on East Syrian civil law and the Sasanian substrate"
+    },
+    {
+      "from": "MOC - HistorEE",
       "to": "Skin in the game"
     },
     {
@@ -1355,6 +1377,10 @@
     {
       "from": "MOC - HistorEE",
       "to": "The sea loan is a contingent claim not a loan"
+    },
+    {
+      "from": "MOC - HistorEE",
+      "to": "The western family needs only plausible common descent not proven genealogy"
     },
     {
       "from": "MOC - HistorEE",
@@ -1967,6 +1993,42 @@
     {
       "from": "Separate the genetic and the methodological claims about economics",
       "to": "Time-average"
+    },
+    {
+      "from": "Simonsohn 2016 on East Syrian civil law and the Sasanian substrate",
+      "to": "MOC - ERC Synergy Grant"
+    },
+    {
+      "from": "Simonsohn 2016 on East Syrian civil law and the Sasanian substrate",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Simonsohn 2016 on East Syrian civil law and the Sasanian substrate",
+      "to": "MOC - Historiography and method"
+    },
+    {
+      "from": "Simonsohn 2016 on East Syrian civil law and the Sasanian substrate",
+      "to": "MOC - Islamic contract doctrine"
+    },
+    {
+      "from": "Simonsohn 2016 on East Syrian civil law and the Sasanian substrate",
+      "to": "Split provenance into priority and independence"
+    },
+    {
+      "from": "Simonsohn 2016 on East Syrian civil law and the Sasanian substrate",
+      "to": "The ortoq is the discriminating instrument"
+    },
+    {
+      "from": "Simonsohn 2016 on East Syrian civil law and the Sasanian substrate",
+      "to": "The qirad's antecedents are Sasanian not Sogdian"
+    },
+    {
+      "from": "Simonsohn 2016 on East Syrian civil law and the Sasanian substrate",
+      "to": "The western family needs only plausible common descent not proven genealogy"
+    },
+    {
+      "from": "Simonsohn 2016 on East Syrian civil law and the Sasanian substrate",
+      "to": "Transmission versus independent recurrence is the load-bearing test"
     },
     {
       "from": "Skin in the game",
@@ -2682,11 +2744,19 @@
     },
     {
       "from": "The qirad's antecedents are Sasanian not Sogdian",
+      "to": "Simonsohn 2016 on East Syrian civil law and the Sasanian substrate"
+    },
+    {
+      "from": "The qirad's antecedents are Sasanian not Sogdian",
       "to": "The ortoq is the discriminating instrument"
     },
     {
       "from": "The qirad's antecedents are Sasanian not Sogdian",
       "to": "The qirad envelops the sea loan"
+    },
+    {
+      "from": "The qirad's antecedents are Sasanian not Sogdian",
+      "to": "The western family needs only plausible common descent not proven genealogy"
     },
     {
       "from": "The qirad's antecedents are Sasanian not Sogdian",
@@ -2803,6 +2873,50 @@
     {
       "from": "The waqf partition converts absence into refusal",
       "to": "The mudaraba is revocable not locked in"
+    },
+    {
+      "from": "The western family needs only plausible common descent not proven genealogy",
+      "to": "MOC - ERC Synergy Grant"
+    },
+    {
+      "from": "The western family needs only plausible common descent not proven genealogy",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "The western family needs only plausible common descent not proven genealogy",
+      "to": "MOC - Historiography and method"
+    },
+    {
+      "from": "The western family needs only plausible common descent not proven genealogy",
+      "to": "MOC - Islamic contract doctrine"
+    },
+    {
+      "from": "The western family needs only plausible common descent not proven genealogy",
+      "to": "Refusals are observations of the filter not inferences from survivors"
+    },
+    {
+      "from": "The western family needs only plausible common descent not proven genealogy",
+      "to": "Simonsohn 2016 on East Syrian civil law and the Sasanian substrate"
+    },
+    {
+      "from": "The western family needs only plausible common descent not proven genealogy",
+      "to": "Split provenance into priority and independence"
+    },
+    {
+      "from": "The western family needs only plausible common descent not proven genealogy",
+      "to": "The coding commons must record stated rationale not only component presence"
+    },
+    {
+      "from": "The western family needs only plausible common descent not proven genealogy",
+      "to": "The ortoq is the discriminating instrument"
+    },
+    {
+      "from": "The western family needs only plausible common descent not proven genealogy",
+      "to": "The qirad's antecedents are Sasanian not Sogdian"
+    },
+    {
+      "from": "The western family needs only plausible common descent not proven genealogy",
+      "to": "Transmission versus independent recurrence is the load-bearing test"
     },
     {
       "from": "Time-average",
