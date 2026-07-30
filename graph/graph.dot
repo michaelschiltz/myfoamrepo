@@ -51,6 +51,7 @@ digraph vault {
   "The deficit reading of absence is the scalar ranking in evidentiary form" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "The depersonalised share was produced by honour not by pooling logic" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "The determinate-contingent typology carries the richness" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
+  "The double refusal of the sea loan is evidence about the filter not about independence" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "The durable-and-coupled cell is the underexplored one" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "The ensemble average is the local descriptor of a barrier-shielded agent" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "The four-step decoupling from participation to the veil" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
@@ -311,6 +312,7 @@ digraph vault {
   "MOC - HistorEE" -> "The coding commons must record stated rationale not only component presence";
   "MOC - HistorEE" -> "The depersonalised share was produced by honour not by pooling logic";
   "MOC - HistorEE" -> "The determinate-contingent typology carries the richness";
+  "MOC - HistorEE" -> "The double refusal of the sea loan is evidence about the filter not about independence";
   "MOC - HistorEE" -> "The ensemble average is the local descriptor of a barrier-shielded agent";
   "MOC - HistorEE" -> "The four-step decoupling from participation to the veil";
   "MOC - HistorEE" -> "The ie as entity-shielding";
@@ -602,6 +604,19 @@ digraph vault {
   "The determinate-contingent typology carries the richness" -> "MOC - HistorEE";
   "The determinate-contingent typology carries the richness" -> "MOC - Risk-sharing vs risk-pricing";
   "The determinate-contingent typology carries the richness" -> "Transmission versus independent recurrence is the load-bearing test";
+  "The double refusal of the sea loan is evidence about the filter not about independence" -> "Divergent arbitrary particulars are the independence diagnostic";
+  "The double refusal of the sea loan is evidence about the filter not about independence" -> "Galton's problem";
+  "The double refusal of the sea loan is evidence about the filter not about independence" -> "Gharar excludes designed-in unverifiability";
+  "The double refusal of the sea loan is evidence about the filter not about independence" -> "Islamic doctrine refuses risk-commodification at step one";
+  "The double refusal of the sea loan is evidence about the filter not about independence" -> "MOC - ERC Synergy Grant";
+  "The double refusal of the sea loan is evidence about the filter not about independence" -> "MOC - HistorEE";
+  "The double refusal of the sea loan is evidence about the filter not about independence" -> "MOC - Historiography and method";
+  "The double refusal of the sea loan is evidence about the filter not about independence" -> "MOC - Islamic contract doctrine";
+  "The double refusal of the sea loan is evidence about the filter not about independence" -> "Naviganti - Latin Christendom rejected the sea loan too";
+  "The double refusal of the sea loan is evidence about the filter not about independence" -> "Refusals are observations of the filter not inferences from survivors";
+  "The double refusal of the sea loan is evidence about the filter not about independence" -> "Scuttling rewards fraud in the sea loan";
+  "The double refusal of the sea loan is evidence about the filter not about independence" -> "The qirad envelops the sea loan";
+  "The double refusal of the sea loan is evidence about the filter not about independence" -> "The theory predicts recurrence not independent origins";
   "The durable-and-coupled cell is the underexplored one" -> "Decoupling substitutes proxy legibility for outcome legibility";
   "The durable-and-coupled cell is the underexplored one" -> "Lock-in and outcome-coupling are distinct bindings";
   "The durable-and-coupled cell is the underexplored one" -> "MOC - Entity-shielding and corporate forms";
