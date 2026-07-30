@@ -71,10 +71,13 @@ Project hub for the book. Atomic notes hang off both this project MOC and a them
 - [[The coding commons must record stated rationale not only component presence]]
 - [[Simonsohn 2016 on East Syrian civil law and the Sasanian substrate]]
 - [[The western family needs only plausible common descent not proven genealogy]]
+- [[The theory predicts recurrence not independent origins]]
+- [[Divergent arbitrary particulars are the independence diagnostic]]
 
 ## Concept anchors
 
 - [[Absorbing barrier]]
+- [[Galton's problem]]
 - [[Time-average]]
 - [[Skin in the game]]
 - [[Entity-shielding]]
