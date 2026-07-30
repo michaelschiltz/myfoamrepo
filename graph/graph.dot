@@ -10,6 +10,7 @@ digraph vault {
   "Entitlement by liability versus entitlement by membership" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Entity-shielding" [fillcolor="#666666", fontcolor=white, shape=ellipse];
   "Galton's problem" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
+  "Gharar excludes designed-in unverifiability" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Guard against reverse-teleology" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Harris 2020 on the late plurality of limited liability" [fillcolor="#7570b3", fontcolor=white, shape=ellipse];
   "Hierro Anibarro 2005 on the asiento de averia and the privileged company" [fillcolor="#7570b3", fontcolor=white, shape=ellipse];
@@ -42,6 +43,7 @@ digraph vault {
   "Split provenance into priority and independence" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "The Fugger diversified activity while concentrating the barrier" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "The alleenrecht is monopoly held as tradable property" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
+  "The amana-daman structure refuses to infer fault from loss" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "The ascent narrative is the Jensen error as historiography" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "The asiento de averia is the pooling-to-corporation hinge" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "The coding commons must record stated rationale not only component presence" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
@@ -150,6 +152,17 @@ digraph vault {
   "Galton's problem" -> "The theory predicts recurrence not independent origins";
   "Galton's problem" -> "The western family needs only plausible common descent not proven genealogy";
   "Galton's problem" -> "Transmission versus independent recurrence is the load-bearing test";
+  "Gharar excludes designed-in unverifiability" -> "Divergent arbitrary particulars are the independence diagnostic";
+  "Gharar excludes designed-in unverifiability" -> "Islamic doctrine refuses risk-commodification at step one";
+  "Gharar excludes designed-in unverifiability" -> "MOC - HistorEE";
+  "Gharar excludes designed-in unverifiability" -> "MOC - Historiography and method";
+  "Gharar excludes designed-in unverifiability" -> "MOC - Islamic contract doctrine";
+  "Gharar excludes designed-in unverifiability" -> "Naviganti - Latin Christendom rejected the sea loan too";
+  "Gharar excludes designed-in unverifiability" -> "Refusals are observations of the filter not inferences from survivors";
+  "Gharar excludes designed-in unverifiability" -> "Scuttling rewards fraud in the sea loan";
+  "Gharar excludes designed-in unverifiability" -> "The amana-daman structure refuses to infer fault from loss";
+  "Gharar excludes designed-in unverifiability" -> "The deficit reading of absence is the scalar ranking in evidentiary form";
+  "Gharar excludes designed-in unverifiability" -> "The qirad envelops the sea loan";
   "Guard against reverse-teleology" -> "Discipline the Whig epithet by pinning it to teleology and survivorship";
   "Guard against reverse-teleology" -> "MOC - HistorEE";
   "Guard against reverse-teleology" -> "MOC - Historiography and method";
@@ -266,6 +279,7 @@ digraph vault {
   "MOC - HistorEE" -> "Ensemble benchmarking of agents is biased against the honest";
   "MOC - HistorEE" -> "Entity-shielding";
   "MOC - HistorEE" -> "Galton's problem";
+  "MOC - HistorEE" -> "Gharar excludes designed-in unverifiability";
   "MOC - HistorEE" -> "Guard against reverse-teleology";
   "MOC - HistorEE" -> "Hierro Anibarro 2005 on the asiento de averia and the privileged company";
   "MOC - HistorEE" -> "Identity-wrapper and perpetual-monopoly are distinct shielding facets";
@@ -291,6 +305,7 @@ digraph vault {
   "MOC - HistorEE" -> "Simonsohn 2016 on East Syrian civil law and the Sasanian substrate";
   "MOC - HistorEE" -> "Skin in the game";
   "MOC - HistorEE" -> "The alleenrecht is monopoly held as tradable property";
+  "MOC - HistorEE" -> "The amana-daman structure refuses to infer fault from loss";
   "MOC - HistorEE" -> "The ascent narrative is the Jensen error as historiography";
   "MOC - HistorEE" -> "The asiento de averia is the pooling-to-corporation hinge";
   "MOC - HistorEE" -> "The coding commons must record stated rationale not only component presence";
@@ -511,6 +526,18 @@ digraph vault {
   "The alleenrecht is monopoly held as tradable property" -> "Natie and kabu-nakama are a convergence pair";
   "The alleenrecht is monopoly held as tradable property" -> "Natie is a false cognate";
   "The alleenrecht is monopoly held as tradable property" -> "The naties are a six-century Lindy institution";
+  "The amana-daman structure refuses to infer fault from loss" -> "Ensemble benchmarking of agents is biased against the honest";
+  "The amana-daman structure refuses to infer fault from loss" -> "Gharar excludes designed-in unverifiability";
+  "The amana-daman structure refuses to infer fault from loss" -> "Institutions substitute state-verification for outcome-inference as ruin exposure rises";
+  "The amana-daman structure refuses to infer fault from loss" -> "MOC - ERC Synergy Grant";
+  "The amana-daman structure refuses to infer fault from loss" -> "MOC - HistorEE";
+  "The amana-daman structure refuses to infer fault from loss" -> "MOC - Islamic contract doctrine";
+  "The amana-daman structure refuses to infer fault from loss" -> "MOC - Risk-sharing vs risk-pricing";
+  "The amana-daman structure refuses to infer fault from loss" -> "Non-ergodicity collapses the likelihood ratio on outcomes";
+  "The amana-daman structure refuses to infer fault from loss" -> "Outcome-coupling is the condition of legibility";
+  "The amana-daman structure refuses to infer fault from loss" -> "Scuttling rewards fraud in the sea loan";
+  "The amana-daman structure refuses to infer fault from loss" -> "Skin in the game is asymmetric in the mudaraba";
+  "The amana-daman structure refuses to infer fault from loss" -> "The mudaraba is revocable not locked in";
   "The ascent narrative is the Jensen error as historiography" -> "Entity-shielding";
   "The ascent narrative is the Jensen error as historiography" -> "Jensen gap";
   "The ascent narrative is the Jensen error as historiography" -> "MOC - HistorEE";
