@@ -29,7 +29,7 @@ Keep tags lowercase, hyphenated, singular. Before coining a new tag, check this 
 
 ## Legal / jurisdiction
 
-`legal-violence` · `mare-liberum` · `mare-clausum` · `cartaz` · `grotius` · `canon-law` · `naviganti` · `verification` · `moral-hazard`
+`legal-violence` · `mare-liberum` · `mare-clausum` · `cartaz` · `grotius` · `canon-law` · `naviganti` · `verification` · `moral-hazard` · `principal-agent`
 
 ## Method / historiography
 
