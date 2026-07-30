@@ -32,7 +32,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Divergent arbitrary particulars are the independence diagnostic",
-      "value": 21,
+      "value": 23,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -50,7 +50,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Ensemble benchmarking of agents is biased against the honest",
-      "value": 17,
+      "value": 18,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -77,6 +77,15 @@
       "type": "permanent",
       "group": "seed",
       "label": "Galton's problem",
+      "value": 20,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "Gharar excludes designed-in unverifiability",
+      "type": "permanent",
+      "group": "seed",
+      "label": "Gharar excludes designed-in unverifiability",
       "value": 20,
       "color": "#e6ab02",
       "shape": "dot"
@@ -122,7 +131,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Institutions substitute state-verification for outcome-inference as ruin exposure rises",
-      "value": 17,
+      "value": 19,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -131,7 +140,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Islamic doctrine refuses risk-commodification at step one",
-      "value": 18,
+      "value": 19,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -203,7 +212,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Naviganti - Latin Christendom rejected the sea loan too",
-      "value": 12,
+      "value": 14,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -212,7 +221,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Non-ergodicity collapses the likelihood ratio on outcomes",
-      "value": 17,
+      "value": 19,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -230,7 +239,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Outcome-coupling is the condition of legibility",
-      "value": 16,
+      "value": 17,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -275,7 +284,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Refusals are observations of the filter not inferences from survivors",
-      "value": 23,
+      "value": 25,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -293,7 +302,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Scuttling rewards fraud in the sea loan",
-      "value": 14,
+      "value": 18,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -329,7 +338,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Skin in the game is asymmetric in the mudaraba",
-      "value": 18,
+      "value": 20,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -366,6 +375,15 @@
       "group": "seed",
       "label": "The alleenrecht is monopoly held as tradable property",
       "value": 16,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "The amana-daman structure refuses to infer fault from loss",
+      "type": "permanent",
+      "group": "seed",
+      "label": "The amana-daman structure refuses to infer fault from loss",
+      "value": 20,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -410,7 +428,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The deficit reading of absence is the scalar ranking in evidentiary form",
-      "value": 15,
+      "value": 17,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -500,7 +518,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The mudaraba is revocable not locked in",
-      "value": 13,
+      "value": 14,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -527,7 +545,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The qirad envelops the sea loan",
-      "value": 20,
+      "value": 21,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -653,7 +671,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - ERC Synergy Grant",
-      "value": 24,
+      "value": 25,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -680,7 +698,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - HistorEE",
-      "value": 131,
+      "value": 135,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -689,7 +707,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Historiography and method",
-      "value": 47,
+      "value": 48,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -698,7 +716,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Islamic contract doctrine",
-      "value": 30,
+      "value": 32,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -707,7 +725,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Risk-sharing vs risk-pricing",
-      "value": 40,
+      "value": 41,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -1007,6 +1025,50 @@
     {
       "from": "Galton's problem",
       "to": "Transmission versus independent recurrence is the load-bearing test"
+    },
+    {
+      "from": "Gharar excludes designed-in unverifiability",
+      "to": "Divergent arbitrary particulars are the independence diagnostic"
+    },
+    {
+      "from": "Gharar excludes designed-in unverifiability",
+      "to": "Islamic doctrine refuses risk-commodification at step one"
+    },
+    {
+      "from": "Gharar excludes designed-in unverifiability",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Gharar excludes designed-in unverifiability",
+      "to": "MOC - Historiography and method"
+    },
+    {
+      "from": "Gharar excludes designed-in unverifiability",
+      "to": "MOC - Islamic contract doctrine"
+    },
+    {
+      "from": "Gharar excludes designed-in unverifiability",
+      "to": "Naviganti - Latin Christendom rejected the sea loan too"
+    },
+    {
+      "from": "Gharar excludes designed-in unverifiability",
+      "to": "Refusals are observations of the filter not inferences from survivors"
+    },
+    {
+      "from": "Gharar excludes designed-in unverifiability",
+      "to": "Scuttling rewards fraud in the sea loan"
+    },
+    {
+      "from": "Gharar excludes designed-in unverifiability",
+      "to": "The amana-daman structure refuses to infer fault from loss"
+    },
+    {
+      "from": "Gharar excludes designed-in unverifiability",
+      "to": "The deficit reading of absence is the scalar ranking in evidentiary form"
+    },
+    {
+      "from": "Gharar excludes designed-in unverifiability",
+      "to": "The qirad envelops the sea loan"
     },
     {
       "from": "Guard against reverse-teleology",
@@ -1474,6 +1536,10 @@
     },
     {
       "from": "MOC - HistorEE",
+      "to": "Gharar excludes designed-in unverifiability"
+    },
+    {
+      "from": "MOC - HistorEE",
       "to": "Guard against reverse-teleology"
     },
     {
@@ -1571,6 +1637,10 @@
     {
       "from": "MOC - HistorEE",
       "to": "The alleenrecht is monopoly held as tradable property"
+    },
+    {
+      "from": "MOC - HistorEE",
+      "to": "The amana-daman structure refuses to infer fault from loss"
     },
     {
       "from": "MOC - HistorEE",
@@ -2451,6 +2521,54 @@
     {
       "from": "The alleenrecht is monopoly held as tradable property",
       "to": "The naties are a six-century Lindy institution"
+    },
+    {
+      "from": "The amana-daman structure refuses to infer fault from loss",
+      "to": "Ensemble benchmarking of agents is biased against the honest"
+    },
+    {
+      "from": "The amana-daman structure refuses to infer fault from loss",
+      "to": "Gharar excludes designed-in unverifiability"
+    },
+    {
+      "from": "The amana-daman structure refuses to infer fault from loss",
+      "to": "Institutions substitute state-verification for outcome-inference as ruin exposure rises"
+    },
+    {
+      "from": "The amana-daman structure refuses to infer fault from loss",
+      "to": "MOC - ERC Synergy Grant"
+    },
+    {
+      "from": "The amana-daman structure refuses to infer fault from loss",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "The amana-daman structure refuses to infer fault from loss",
+      "to": "MOC - Islamic contract doctrine"
+    },
+    {
+      "from": "The amana-daman structure refuses to infer fault from loss",
+      "to": "MOC - Risk-sharing vs risk-pricing"
+    },
+    {
+      "from": "The amana-daman structure refuses to infer fault from loss",
+      "to": "Non-ergodicity collapses the likelihood ratio on outcomes"
+    },
+    {
+      "from": "The amana-daman structure refuses to infer fault from loss",
+      "to": "Outcome-coupling is the condition of legibility"
+    },
+    {
+      "from": "The amana-daman structure refuses to infer fault from loss",
+      "to": "Scuttling rewards fraud in the sea loan"
+    },
+    {
+      "from": "The amana-daman structure refuses to infer fault from loss",
+      "to": "Skin in the game is asymmetric in the mudaraba"
+    },
+    {
+      "from": "The amana-daman structure refuses to infer fault from loss",
+      "to": "The mudaraba is revocable not locked in"
     },
     {
       "from": "The ascent narrative is the Jensen error as historiography",
