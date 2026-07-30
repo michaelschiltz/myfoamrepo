@@ -78,6 +78,7 @@ Project hub for the book. Atomic notes hang off both this project MOC and a them
 - [[Institutions substitute state-verification for outcome-inference as ruin exposure rises]]
 - [[The amana-daman structure refuses to infer fault from loss]]
 - [[Gharar excludes designed-in unverifiability]]
+- [[The double refusal of the sea loan is evidence about the filter not about independence]]
 
 ## Concept anchors
 
