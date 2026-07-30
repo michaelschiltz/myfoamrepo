@@ -69,6 +69,8 @@ Project hub for the book. Atomic notes hang off both this project MOC and a them
 - [[Olivares's junta coded the asiento as a privileged company]]
 - [[The depersonalised share was produced by honour not by pooling logic]]
 - [[The coding commons must record stated rationale not only component presence]]
+- [[Simonsohn 2016 on East Syrian civil law and the Sasanian substrate]]
+- [[The western family needs only plausible common descent not proven genealogy]]
 
 ## Concept anchors
 
