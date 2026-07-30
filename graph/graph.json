@@ -5,7 +5,7 @@
       "type": "permanent",
       "group": "stub",
       "label": "Absorbing barrier",
-      "value": 23,
+      "value": 25,
       "color": "#666666",
       "shape": "dot"
     },
@@ -14,7 +14,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Decoupling substitutes proxy legibility for outcome legibility",
-      "value": 13,
+      "value": 17,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -42,6 +42,15 @@
       "group": "seed",
       "label": "Economics had its ensemble moment in 1738 and psychologized it",
       "value": 11,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "Ensemble benchmarking of agents is biased against the honest",
+      "type": "permanent",
+      "group": "seed",
+      "label": "Ensemble benchmarking of agents is biased against the honest",
+      "value": 17,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -105,6 +114,15 @@
       "group": "seed",
       "label": "Identity-wrapper and perpetual-monopoly are distinct shielding facets",
       "value": 12,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "Institutions substitute state-verification for outcome-inference as ruin exposure rises",
+      "type": "permanent",
+      "group": "seed",
+      "label": "Institutions substitute state-verification for outcome-inference as ruin exposure rises",
+      "value": 17,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -190,6 +208,15 @@
       "shape": "dot"
     },
     {
+      "id": "Non-ergodicity collapses the likelihood ratio on outcomes",
+      "type": "permanent",
+      "group": "seed",
+      "label": "Non-ergodicity collapses the likelihood ratio on outcomes",
+      "value": 17,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
       "id": "Olivares's junta coded the asiento as a privileged company",
       "type": "permanent",
       "group": "seed",
@@ -203,7 +230,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Outcome-coupling is the condition of legibility",
-      "value": 11,
+      "value": 16,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -266,7 +293,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Scuttling rewards fraud in the sea loan",
-      "value": 11,
+      "value": 14,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -302,7 +329,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Skin in the game is asymmetric in the mudaraba",
-      "value": 14,
+      "value": 18,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -419,7 +446,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The ensemble average is the local descriptor of a barrier-shielded agent",
-      "value": 15,
+      "value": 16,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -482,7 +509,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The naties are a six-century Lindy institution",
-      "value": 16,
+      "value": 17,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -572,7 +599,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Time-average optimization is a survivorship property not an intention",
-      "value": 18,
+      "value": 19,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -626,7 +653,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - ERC Synergy Grant",
-      "value": 23,
+      "value": 24,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -644,7 +671,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Ergodicity and the time-ensemble distinction",
-      "value": 30,
+      "value": 32,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -653,7 +680,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - HistorEE",
-      "value": 125,
+      "value": 131,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -662,7 +689,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Historiography and method",
-      "value": 46,
+      "value": 47,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -671,7 +698,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Islamic contract doctrine",
-      "value": 29,
+      "value": 30,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -680,7 +707,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Risk-sharing vs risk-pricing",
-      "value": 38,
+      "value": 40,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -852,6 +879,46 @@
     {
       "from": "Economics had its ensemble moment in 1738 and psychologized it",
       "to": "Time-average"
+    },
+    {
+      "from": "Ensemble benchmarking of agents is biased against the honest",
+      "to": "Decoupling substitutes proxy legibility for outcome legibility"
+    },
+    {
+      "from": "Ensemble benchmarking of agents is biased against the honest",
+      "to": "Institutions substitute state-verification for outcome-inference as ruin exposure rises"
+    },
+    {
+      "from": "Ensemble benchmarking of agents is biased against the honest",
+      "to": "MOC - Ergodicity and the time-ensemble distinction"
+    },
+    {
+      "from": "Ensemble benchmarking of agents is biased against the honest",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Ensemble benchmarking of agents is biased against the honest",
+      "to": "MOC - Islamic contract doctrine"
+    },
+    {
+      "from": "Ensemble benchmarking of agents is biased against the honest",
+      "to": "Non-ergodicity collapses the likelihood ratio on outcomes"
+    },
+    {
+      "from": "Ensemble benchmarking of agents is biased against the honest",
+      "to": "Outcome-coupling is the condition of legibility"
+    },
+    {
+      "from": "Ensemble benchmarking of agents is biased against the honest",
+      "to": "Skin in the game is asymmetric in the mudaraba"
+    },
+    {
+      "from": "Ensemble benchmarking of agents is biased against the honest",
+      "to": "The ensemble average is the local descriptor of a barrier-shielded agent"
+    },
+    {
+      "from": "Ensemble benchmarking of agents is biased against the honest",
+      "to": "Time-average optimization is a survivorship property not an intention"
     },
     {
       "from": "Entitlement by liability versus entitlement by membership",
@@ -1044,6 +1111,54 @@
     {
       "from": "Identity-wrapper and perpetual-monopoly are distinct shielding facets",
       "to": "The alleenrecht is monopoly held as tradable property"
+    },
+    {
+      "from": "Institutions substitute state-verification for outcome-inference as ruin exposure rises",
+      "to": "Absorbing barrier"
+    },
+    {
+      "from": "Institutions substitute state-verification for outcome-inference as ruin exposure rises",
+      "to": "Decoupling substitutes proxy legibility for outcome legibility"
+    },
+    {
+      "from": "Institutions substitute state-verification for outcome-inference as ruin exposure rises",
+      "to": "Ensemble benchmarking of agents is biased against the honest"
+    },
+    {
+      "from": "Institutions substitute state-verification for outcome-inference as ruin exposure rises",
+      "to": "MOC - ERC Synergy Grant"
+    },
+    {
+      "from": "Institutions substitute state-verification for outcome-inference as ruin exposure rises",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Institutions substitute state-verification for outcome-inference as ruin exposure rises",
+      "to": "MOC - Historiography and method"
+    },
+    {
+      "from": "Institutions substitute state-verification for outcome-inference as ruin exposure rises",
+      "to": "MOC - Risk-sharing vs risk-pricing"
+    },
+    {
+      "from": "Institutions substitute state-verification for outcome-inference as ruin exposure rises",
+      "to": "Non-ergodicity collapses the likelihood ratio on outcomes"
+    },
+    {
+      "from": "Institutions substitute state-verification for outcome-inference as ruin exposure rises",
+      "to": "Outcome-coupling is the condition of legibility"
+    },
+    {
+      "from": "Institutions substitute state-verification for outcome-inference as ruin exposure rises",
+      "to": "Scuttling rewards fraud in the sea loan"
+    },
+    {
+      "from": "Institutions substitute state-verification for outcome-inference as ruin exposure rises",
+      "to": "Skin in the game is asymmetric in the mudaraba"
+    },
+    {
+      "from": "Institutions substitute state-verification for outcome-inference as ruin exposure rises",
+      "to": "The naties are a six-century Lindy institution"
     },
     {
       "from": "Islamic doctrine refuses risk-commodification at step one",
@@ -1347,6 +1462,10 @@
     },
     {
       "from": "MOC - HistorEE",
+      "to": "Ensemble benchmarking of agents is biased against the honest"
+    },
+    {
+      "from": "MOC - HistorEE",
       "to": "Entity-shielding"
     },
     {
@@ -1364,6 +1483,10 @@
     {
       "from": "MOC - HistorEE",
       "to": "Identity-wrapper and perpetual-monopoly are distinct shielding facets"
+    },
+    {
+      "from": "MOC - HistorEE",
+      "to": "Institutions substitute state-verification for outcome-inference as ruin exposure rises"
     },
     {
       "from": "MOC - HistorEE",
@@ -1412,6 +1535,10 @@
     {
       "from": "MOC - HistorEE",
       "to": "Naviganti - Latin Christendom rejected the sea loan too"
+    },
+    {
+      "from": "MOC - HistorEE",
+      "to": "Non-ergodicity collapses the likelihood ratio on outcomes"
     },
     {
       "from": "MOC - HistorEE",
@@ -1812,6 +1939,46 @@
     {
       "from": "Naviganti - Latin Christendom rejected the sea loan too",
       "to": "The sea loan is a contingent claim not a loan"
+    },
+    {
+      "from": "Non-ergodicity collapses the likelihood ratio on outcomes",
+      "to": "Absorbing barrier"
+    },
+    {
+      "from": "Non-ergodicity collapses the likelihood ratio on outcomes",
+      "to": "Decoupling substitutes proxy legibility for outcome legibility"
+    },
+    {
+      "from": "Non-ergodicity collapses the likelihood ratio on outcomes",
+      "to": "Ensemble benchmarking of agents is biased against the honest"
+    },
+    {
+      "from": "Non-ergodicity collapses the likelihood ratio on outcomes",
+      "to": "Institutions substitute state-verification for outcome-inference as ruin exposure rises"
+    },
+    {
+      "from": "Non-ergodicity collapses the likelihood ratio on outcomes",
+      "to": "MOC - Ergodicity and the time-ensemble distinction"
+    },
+    {
+      "from": "Non-ergodicity collapses the likelihood ratio on outcomes",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Non-ergodicity collapses the likelihood ratio on outcomes",
+      "to": "MOC - Risk-sharing vs risk-pricing"
+    },
+    {
+      "from": "Non-ergodicity collapses the likelihood ratio on outcomes",
+      "to": "Outcome-coupling is the condition of legibility"
+    },
+    {
+      "from": "Non-ergodicity collapses the likelihood ratio on outcomes",
+      "to": "Scuttling rewards fraud in the sea loan"
+    },
+    {
+      "from": "Non-ergodicity collapses the likelihood ratio on outcomes",
+      "to": "Skin in the game is asymmetric in the mudaraba"
     },
     {
       "from": "Olivares's junta coded the asiento as a privileged company",
