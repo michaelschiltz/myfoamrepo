@@ -63,6 +63,7 @@ The sharper version concerns Spolaore and Wacziarg, whose genetic-distance work 
 ## Links
 
 - [[Homoplasy is the finding not the noise]]
+- [[Never let the units slide from instruments to populations]]
 - [[Galton's problem]]
 - [[Divergent arbitrary particulars are the independence diagnostic]]
 - [[The theory predicts recurrence not independent origins]]

@@ -33,7 +33,7 @@ Keep tags lowercase, hyphenated, singular. Before coining a new tag, check this 
 
 ## Method / historiography
 
-`comparative` · `teleology` · `survivorship-bias` · `selection` · `legibility` · `organizational-memory` · `provenance` · `refused-forms` · `transmission` · `whiggism` · `historiography` · `independent-recurrence` · `convergence-pair` · `ortoq` · `sasanian` · `syriac` · `leitfehler` · `qingzhong` · `determinate-contingent` · `legal-consciousness` · `coding-ontology` · `homology` · `homoplasy` · `parallelism` · `cladistics` · `reticulation` · `symplesiomorphy` · `persistence` · `space-for-time`
+`comparative` · `teleology` · `survivorship-bias` · `selection` · `legibility` · `organizational-memory` · `provenance` · `refused-forms` · `transmission` · `whiggism` · `historiography` · `independent-recurrence` · `convergence-pair` · `ortoq` · `sasanian` · `syriac` · `leitfehler` · `qingzhong` · `determinate-contingent` · `legal-consciousness` · `coding-ontology` · `homology` · `homoplasy` · `parallelism` · `cladistics` · `reticulation` · `symplesiomorphy` · `persistence` · `space-for-time` · `heritability`
 
 **Note on `convergence-pair`.** The tag asserts convergence in the strict cladistic sense — independent arrival from *different* ancestral conditions — and is therefore stronger than it looks. Where a shared ancestral substrate is plausible, the correct term is `parallelism`. See [[Homoplasy is the finding not the noise]]; existing `convergence-pair` notes need auditing against the distinction.
 
