@@ -36,6 +36,7 @@ Thematic hub for the project's methodological guardrails: teleology and its inve
 - [[Homoplasy is the finding not the noise]]
 - [[Deep-roots variables are symplesiomorphies]]
 - [[Never let the units slide from instruments to populations]]
+- [[Borrow the diagnostics not the tree]]
 
 ## Links
 

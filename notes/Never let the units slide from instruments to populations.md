@@ -20,6 +20,8 @@ The **execution attack** is correct and the apparatus licenses it. Clark's infer
 
 The **domain attack** — that lineages are the wrong object here — is far stronger and is foreclosed by the project's own method.
 
+The foreclosure is narrower than it first appears. What running a character matrix concedes is that descent *questions* are legitimate; it does not concede that descent *structures* are recoverable, and the project explicitly declines to recover one. See [[Borrow the diagnostics not the tree]]. This is not the domain attack recovered and should not be dressed as one, but the difference is real and belongs in print.
+
 ## What has to hold, then
 
 Conceding the mode and arguing execution is survivable only if one distinction holds absolutely: **the project's units are instruments, transmitted as texts and drafting practices; Clark's are people and traits, where the transmission mechanism is precisely what is in dispute.** That is a real difference in the object, not a convenience. It is also fragile, and the Sasanian-substrate material is where it is most tempting to let slip — the moment a legal *tradition* is described as a population with a heritable disposition, the distinction is gone and the concession becomes total. See [[The qirad's antecedents are Sasanian not Sogdian]], [[The western family needs only plausible common descent not proven genealogy]].
@@ -42,6 +44,7 @@ Recurrence in this project is a claim about instruments arriving at the same sol
 
 - [[Deep-roots variables are symplesiomorphies]]
 - [[Homoplasy is the finding not the noise]]
+- [[Borrow the diagnostics not the tree]]
 - [[Galton's problem]]
 - [[Non-ergodicity collapses the likelihood ratio on outcomes]]
 - [[The theory predicts recurrence not independent origins]]
