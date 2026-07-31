@@ -27,6 +27,7 @@ digraph vault {
   "Natie and kabu-nakama are a convergence pair" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Natie is a false cognate" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Naviganti - Latin Christendom rejected the sea loan too" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
+  "Never let the units slide from instruments to populations" [fillcolor="#666666", fontcolor=white, shape=ellipse];
   "Non-ergodicity collapses the likelihood ratio on outcomes" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Olivares's junta coded the asiento as a privileged company" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Outcome-coupling is the condition of legibility" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
@@ -110,6 +111,7 @@ digraph vault {
   "Deep-roots variables are symplesiomorphies" -> "MOC - Ergodicity and the time-ensemble distinction";
   "Deep-roots variables are symplesiomorphies" -> "MOC - HistorEE";
   "Deep-roots variables are symplesiomorphies" -> "MOC - Historiography and method";
+  "Deep-roots variables are symplesiomorphies" -> "Never let the units slide from instruments to populations";
   "Deep-roots variables are symplesiomorphies" -> "Non-ergodicity collapses the likelihood ratio on outcomes";
   "Deep-roots variables are symplesiomorphies" -> "Refusals are observations of the filter not inferences from survivors";
   "Deep-roots variables are symplesiomorphies" -> "Separate the genetic and the methodological claims about economics";
@@ -385,6 +387,7 @@ digraph vault {
   "MOC - Historiography and method" -> "Kuran's brake is a refusal of immortal entities";
   "MOC - Historiography and method" -> "MOC - ERC Synergy Grant";
   "MOC - Historiography and method" -> "MOC - HistorEE";
+  "MOC - Historiography and method" -> "Never let the units slide from instruments to populations";
   "MOC - Historiography and method" -> "Refusals are observations of the filter not inferences from survivors";
   "MOC - Historiography and method" -> "Selection frequency trades against organizational memory";
   "MOC - Historiography and method" -> "Split provenance into priority and independence";
@@ -452,6 +455,17 @@ digraph vault {
   "Naviganti - Latin Christendom rejected the sea loan too" -> "MOC - Risk-sharing vs risk-pricing";
   "Naviganti - Latin Christendom rejected the sea loan too" -> "The qirad envelops the sea loan";
   "Naviganti - Latin Christendom rejected the sea loan too" -> "The sea loan is a contingent claim not a loan";
+  "Never let the units slide from instruments to populations" -> "Deep-roots variables are symplesiomorphies";
+  "Never let the units slide from instruments to populations" -> "Galton's problem";
+  "Never let the units slide from instruments to populations" -> "Guard against reverse-teleology";
+  "Never let the units slide from instruments to populations" -> "Homoplasy is the finding not the noise";
+  "Never let the units slide from instruments to populations" -> "MOC - HistorEE";
+  "Never let the units slide from instruments to populations" -> "MOC - Historiography and method";
+  "Never let the units slide from instruments to populations" -> "Non-ergodicity collapses the likelihood ratio on outcomes";
+  "Never let the units slide from instruments to populations" -> "Separate the genetic and the methodological claims about economics";
+  "Never let the units slide from instruments to populations" -> "The qirad's antecedents are Sasanian not Sogdian";
+  "Never let the units slide from instruments to populations" -> "The theory predicts recurrence not independent origins";
+  "Never let the units slide from instruments to populations" -> "The western family needs only plausible common descent not proven genealogy";
   "Non-ergodicity collapses the likelihood ratio on outcomes" -> "Absorbing barrier";
   "Non-ergodicity collapses the likelihood ratio on outcomes" -> "Decoupling substitutes proxy legibility for outcome legibility";
   "Non-ergodicity collapses the likelihood ratio on outcomes" -> "Ensemble benchmarking of agents is biased against the honest";
