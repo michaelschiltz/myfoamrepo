@@ -239,7 +239,7 @@
       "type": "permanent",
       "group": "stub",
       "label": "Never let the units slide from instruments to populations",
-      "value": 20,
+      "value": 19,
       "color": "#666666",
       "shape": "dot"
     },
@@ -343,11 +343,11 @@
       "shape": "dot"
     },
     {
-      "id": "Separate the genetic and the methodological claims about economics",
+      "id": "Separate the sociological and the methodological claims about economics",
       "type": "permanent",
       "group": "seed",
-      "label": "Separate the genetic and the methodological claims about economics",
-      "value": 13,
+      "label": "Separate the sociological and the methodological claims about economics",
+      "value": 12,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -896,7 +896,7 @@
     },
     {
       "from": "Deep-roots variables are symplesiomorphies",
-      "to": "Separate the genetic and the methodological claims about economics"
+      "to": "Separate the sociological and the methodological claims about economics"
     },
     {
       "from": "Deep-roots variables are symplesiomorphies",
@@ -1008,7 +1008,7 @@
     },
     {
       "from": "Economics had its ensemble moment in 1738 and psychologized it",
-      "to": "Separate the genetic and the methodological claims about economics"
+      "to": "Separate the sociological and the methodological claims about economics"
     },
     {
       "from": "Economics had its ensemble moment in 1738 and psychologized it",
@@ -1708,7 +1708,7 @@
     },
     {
       "from": "MOC - Ergodicity and the time-ensemble distinction",
-      "to": "Separate the genetic and the methodological claims about economics"
+      "to": "Separate the sociological and the methodological claims about economics"
     },
     {
       "from": "MOC - Ergodicity and the time-ensemble distinction",
@@ -1844,7 +1844,7 @@
     },
     {
       "from": "MOC - HistorEE",
-      "to": "Separate the genetic and the methodological claims about economics"
+      "to": "Separate the sociological and the methodological claims about economics"
     },
     {
       "from": "MOC - HistorEE",
@@ -2288,7 +2288,7 @@
     },
     {
       "from": "Never let the units slide from instruments to populations",
-      "to": "Separate the genetic and the methodological claims about economics"
+      "to": "Separate the sociological and the methodological claims about economics"
     },
     {
       "from": "Never let the units slide from instruments to populations",
@@ -2631,23 +2631,23 @@
       "to": "The durable-and-coupled cell is the underexplored one"
     },
     {
-      "from": "Separate the genetic and the methodological claims about economics",
+      "from": "Separate the sociological and the methodological claims about economics",
       "to": "Economics had its ensemble moment in 1738 and psychologized it"
     },
     {
-      "from": "Separate the genetic and the methodological claims about economics",
+      "from": "Separate the sociological and the methodological claims about economics",
       "to": "MOC - Ergodicity and the time-ensemble distinction"
     },
     {
-      "from": "Separate the genetic and the methodological claims about economics",
+      "from": "Separate the sociological and the methodological claims about economics",
       "to": "MOC - HistorEE"
     },
     {
-      "from": "Separate the genetic and the methodological claims about economics",
+      "from": "Separate the sociological and the methodological claims about economics",
       "to": "The ensemble average is the local descriptor of a barrier-shielded agent"
     },
     {
-      "from": "Separate the genetic and the methodological claims about economics",
+      "from": "Separate the sociological and the methodological claims about economics",
       "to": "Time-average"
     },
     {
@@ -3224,7 +3224,7 @@
     },
     {
       "from": "The ensemble average is the local descriptor of a barrier-shielded agent",
-      "to": "Separate the genetic and the methodological claims about economics"
+      "to": "Separate the sociological and the methodological claims about economics"
     },
     {
       "from": "The ensemble average is the local descriptor of a barrier-shielded agent",
