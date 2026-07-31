@@ -2,6 +2,7 @@ digraph vault {
   graph [overlap=false, splines=true];
   node [style=filled, fontname="Helvetica", shape=ellipse];
   "Absorbing barrier" [fillcolor="#666666", fontcolor=white, shape=ellipse];
+  "Borrow the diagnostics not the tree" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Decoupling substitutes proxy legibility for outcome legibility" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Deep-roots variables are symplesiomorphies" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Discipline the Whig epithet by pinning it to teleology and survivorship" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
@@ -96,6 +97,21 @@ digraph vault {
   "Absorbing barrier" -> "Skin in the game";
   "Absorbing barrier" -> "The four-step decoupling from participation to the veil";
   "Absorbing barrier" -> "Time-average";
+  "Borrow the diagnostics not the tree" -> "Deep-roots variables are symplesiomorphies";
+  "Borrow the diagnostics not the tree" -> "Divergent arbitrary particulars are the independence diagnostic";
+  "Borrow the diagnostics not the tree" -> "Galton's problem";
+  "Borrow the diagnostics not the tree" -> "Homoplasy is the finding not the noise";
+  "Borrow the diagnostics not the tree" -> "MOC - ERC Synergy Grant";
+  "Borrow the diagnostics not the tree" -> "MOC - HistorEE";
+  "Borrow the diagnostics not the tree" -> "MOC - Historiography and method";
+  "Borrow the diagnostics not the tree" -> "Never let the units slide from instruments to populations";
+  "Borrow the diagnostics not the tree" -> "Refusals are observations of the filter not inferences from survivors";
+  "Borrow the diagnostics not the tree" -> "The coding commons must record stated rationale not only component presence";
+  "Borrow the diagnostics not the tree" -> "The morphological matrix is dictated by the shape of the feature space";
+  "Borrow the diagnostics not the tree" -> "The ortoq is the discriminating instrument";
+  "Borrow the diagnostics not the tree" -> "The qirad's antecedents are Sasanian not Sogdian";
+  "Borrow the diagnostics not the tree" -> "The western family needs only plausible common descent not proven genealogy";
+  "Borrow the diagnostics not the tree" -> "Transmission versus independent recurrence is the load-bearing test";
   "Decoupling substitutes proxy legibility for outcome legibility" -> "MOC - Entity-shielding and corporate forms";
   "Decoupling substitutes proxy legibility for outcome legibility" -> "MOC - HistorEE";
   "Decoupling substitutes proxy legibility for outcome legibility" -> "MOC - Risk-sharing vs risk-pricing";
@@ -103,6 +119,7 @@ digraph vault {
   "Decoupling substitutes proxy legibility for outcome legibility" -> "Selection frequency trades against organizational memory";
   "Decoupling substitutes proxy legibility for outcome legibility" -> "The durable-and-coupled cell is the underexplored one";
   "Decoupling substitutes proxy legibility for outcome legibility" -> "The four-step decoupling from participation to the veil";
+  "Deep-roots variables are symplesiomorphies" -> "Borrow the diagnostics not the tree";
   "Deep-roots variables are symplesiomorphies" -> "Divergent arbitrary particulars are the independence diagnostic";
   "Deep-roots variables are symplesiomorphies" -> "Galton's problem";
   "Deep-roots variables are symplesiomorphies" -> "Guard against reverse-teleology";
@@ -209,6 +226,7 @@ digraph vault {
   "Hierro Anibarro 2005 on the asiento de averia and the privileged company" -> "The asiento de averia is the pooling-to-corporation hinge";
   "Hierro Anibarro 2005 on the asiento de averia and the privileged company" -> "The depersonalised share was produced by honour not by pooling logic";
   "Hierro Anibarro 2005 on the asiento de averia and the privileged company" -> "limited-liability";
+  "Homoplasy is the finding not the noise" -> "Borrow the diagnostics not the tree";
   "Homoplasy is the finding not the noise" -> "Deep-roots variables are symplesiomorphies";
   "Homoplasy is the finding not the noise" -> "Divergent arbitrary particulars are the independence diagnostic";
   "Homoplasy is the finding not the noise" -> "Galton's problem";
@@ -377,6 +395,7 @@ digraph vault {
   "MOC - HistorEE" -> "Time-average optimization is a survivorship property not an intention";
   "MOC - HistorEE" -> "Transmission versus independent recurrence is the load-bearing test";
   "MOC - HistorEE" -> "Whiggish history of finance names the ascent narrative";
+  "MOC - Historiography and method" -> "Borrow the diagnostics not the tree";
   "MOC - Historiography and method" -> "Deep-roots variables are symplesiomorphies";
   "MOC - Historiography and method" -> "Discipline the Whig epithet by pinning it to teleology and survivorship";
   "MOC - Historiography and method" -> "Divergent arbitrary particulars are the independence diagnostic";
@@ -455,6 +474,7 @@ digraph vault {
   "Naviganti - Latin Christendom rejected the sea loan too" -> "MOC - Risk-sharing vs risk-pricing";
   "Naviganti - Latin Christendom rejected the sea loan too" -> "The qirad envelops the sea loan";
   "Naviganti - Latin Christendom rejected the sea loan too" -> "The sea loan is a contingent claim not a loan";
+  "Never let the units slide from instruments to populations" -> "Borrow the diagnostics not the tree";
   "Never let the units slide from instruments to populations" -> "Deep-roots variables are symplesiomorphies";
   "Never let the units slide from instruments to populations" -> "Galton's problem";
   "Never let the units slide from instruments to populations" -> "Guard against reverse-teleology";

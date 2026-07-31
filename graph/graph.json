@@ -10,6 +10,15 @@
       "shape": "dot"
     },
     {
+      "id": "Borrow the diagnostics not the tree",
+      "type": "permanent",
+      "group": "seed",
+      "label": "Borrow the diagnostics not the tree",
+      "value": 31,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
       "id": "Decoupling substitutes proxy legibility for outcome legibility",
       "type": "permanent",
       "group": "seed",
@@ -23,7 +32,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Deep-roots variables are symplesiomorphies",
-      "value": 34,
+      "value": 37,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -41,7 +50,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Divergent arbitrary particulars are the independence diagnostic",
-      "value": 30,
+      "value": 32,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -86,7 +95,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Galton's problem",
-      "value": 32,
+      "value": 34,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -131,7 +140,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Homoplasy is the finding not the noise",
-      "value": 53,
+      "value": 56,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -239,7 +248,7 @@
       "type": "permanent",
       "group": "stub",
       "label": "Never let the units slide from instruments to populations",
-      "value": 19,
+      "value": 23,
       "color": "#666666",
       "shape": "dot"
     },
@@ -311,7 +320,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Refusals are observations of the filter not inferences from survivors",
-      "value": 31,
+      "value": 32,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -437,7 +446,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The coding commons must record stated rationale not only component presence",
-      "value": 25,
+      "value": 27,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -545,7 +554,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The morphological matrix is dictated by the shape of the feature space",
-      "value": 24,
+      "value": 26,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -572,7 +581,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The ortoq is the discriminating instrument",
-      "value": 19,
+      "value": 21,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -590,7 +599,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The qirad's antecedents are Sasanian not Sogdian",
-      "value": 29,
+      "value": 31,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -644,7 +653,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The western family needs only plausible common descent not proven genealogy",
-      "value": 29,
+      "value": 31,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -671,7 +680,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Transmission versus independent recurrence is the load-bearing test",
-      "value": 29,
+      "value": 30,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -707,7 +716,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - ERC Synergy Grant",
-      "value": 28,
+      "value": 29,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -734,7 +743,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - HistorEE",
-      "value": 140,
+      "value": 141,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -743,7 +752,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Historiography and method",
-      "value": 58,
+      "value": 60,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -823,6 +832,66 @@
       "to": "Time-average"
     },
     {
+      "from": "Borrow the diagnostics not the tree",
+      "to": "Deep-roots variables are symplesiomorphies"
+    },
+    {
+      "from": "Borrow the diagnostics not the tree",
+      "to": "Divergent arbitrary particulars are the independence diagnostic"
+    },
+    {
+      "from": "Borrow the diagnostics not the tree",
+      "to": "Galton's problem"
+    },
+    {
+      "from": "Borrow the diagnostics not the tree",
+      "to": "Homoplasy is the finding not the noise"
+    },
+    {
+      "from": "Borrow the diagnostics not the tree",
+      "to": "MOC - ERC Synergy Grant"
+    },
+    {
+      "from": "Borrow the diagnostics not the tree",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Borrow the diagnostics not the tree",
+      "to": "MOC - Historiography and method"
+    },
+    {
+      "from": "Borrow the diagnostics not the tree",
+      "to": "Never let the units slide from instruments to populations"
+    },
+    {
+      "from": "Borrow the diagnostics not the tree",
+      "to": "Refusals are observations of the filter not inferences from survivors"
+    },
+    {
+      "from": "Borrow the diagnostics not the tree",
+      "to": "The coding commons must record stated rationale not only component presence"
+    },
+    {
+      "from": "Borrow the diagnostics not the tree",
+      "to": "The morphological matrix is dictated by the shape of the feature space"
+    },
+    {
+      "from": "Borrow the diagnostics not the tree",
+      "to": "The ortoq is the discriminating instrument"
+    },
+    {
+      "from": "Borrow the diagnostics not the tree",
+      "to": "The qirad's antecedents are Sasanian not Sogdian"
+    },
+    {
+      "from": "Borrow the diagnostics not the tree",
+      "to": "The western family needs only plausible common descent not proven genealogy"
+    },
+    {
+      "from": "Borrow the diagnostics not the tree",
+      "to": "Transmission versus independent recurrence is the load-bearing test"
+    },
+    {
       "from": "Decoupling substitutes proxy legibility for outcome legibility",
       "to": "MOC - Entity-shielding and corporate forms"
     },
@@ -849,6 +918,10 @@
     {
       "from": "Decoupling substitutes proxy legibility for outcome legibility",
       "to": "The four-step decoupling from participation to the veil"
+    },
+    {
+      "from": "Deep-roots variables are symplesiomorphies",
+      "to": "Borrow the diagnostics not the tree"
     },
     {
       "from": "Deep-roots variables are symplesiomorphies",
@@ -1273,6 +1346,10 @@
     {
       "from": "Hierro Anibarro 2005 on the asiento de averia and the privileged company",
       "to": "limited-liability"
+    },
+    {
+      "from": "Homoplasy is the finding not the noise",
+      "to": "Borrow the diagnostics not the tree"
     },
     {
       "from": "Homoplasy is the finding not the noise",
@@ -1948,6 +2025,10 @@
     },
     {
       "from": "MOC - Historiography and method",
+      "to": "Borrow the diagnostics not the tree"
+    },
+    {
+      "from": "MOC - Historiography and method",
       "to": "Deep-roots variables are symplesiomorphies"
     },
     {
@@ -2257,6 +2338,10 @@
     {
       "from": "Naviganti - Latin Christendom rejected the sea loan too",
       "to": "The sea loan is a contingent claim not a loan"
+    },
+    {
+      "from": "Never let the units slide from instruments to populations",
+      "to": "Borrow the diagnostics not the tree"
     },
     {
       "from": "Never let the units slide from instruments to populations",
