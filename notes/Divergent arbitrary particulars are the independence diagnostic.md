@@ -27,6 +27,7 @@ This is also the answer to the objection that the comparison reduces to two case
 ## Links
 
 - [[Galton's problem]]
+- [[Homoplasy is the finding not the noise]]
 - [[The theory predicts recurrence not independent origins]]
 - [[The western family needs only plausible common descent not proven genealogy]]
 - [[The ortoq is the discriminating instrument]]

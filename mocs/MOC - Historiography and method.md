@@ -30,6 +30,10 @@ Thematic hub for the project's methodological guardrails: teleology and its inve
 - [[Transmission versus independent recurrence is the load-bearing test]]
 - [[The ortoq is the discriminating instrument]]
 - [[The qirad's antecedents are Sasanian not Sogdian]]
+- [[Galton's problem]]
+- [[Divergent arbitrary particulars are the independence diagnostic]]
+- [[The theory predicts recurrence not independent origins]]
+- [[Homoplasy is the finding not the noise]]
 
 ## Links
 

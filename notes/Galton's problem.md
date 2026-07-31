@@ -20,6 +20,8 @@ Two routes earn it, and the project uses both.
 
 **Internal evidence.** Look past functional agreement, which is weak evidence of anything because function is constrained by the problem, to the arbitrary particulars, which are not. See [[Divergent arbitrary particulars are the independence diagnostic]].
 
+Neither route is an instrument on its own. The vocabulary that turns the burden into a testable procedure — homology against homoplasy, and the split of homoplasy into convergence, parallelism and reversal — is imported in [[Homoplasy is the finding not the noise]], which also sets out the three preconditions the historical material fails to meet.
+
 ## The reflexive point, which is the interesting one
 
 Galton's problem is the hazard Objective 1 faces. Non-ergodicity is the hazard Objective 3 attacks. **They are the same defect.** The persistence regression treats a spatial cross-section as a set of independent realisations of one process; the cross-civilisational comparison treats a set of traditions as independent arrivals at one solution. In both cases an inference from a population to a mechanism is licensed only if the units are what the inference assumes them to be, and in both cases that condition is asserted rather than shown.
@@ -30,6 +32,7 @@ This is worth saying out loud rather than hoping no one notices. A project whose
 
 - [[The western family needs only plausible common descent not proven genealogy]]
 - [[Divergent arbitrary particulars are the independence diagnostic]]
+- [[Homoplasy is the finding not the noise]]
 - [[The theory predicts recurrence not independent origins]]
 - [[The ortoq is the discriminating instrument]]
 - [[Transmission versus independent recurrence is the load-bearing test]]
