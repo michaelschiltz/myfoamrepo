@@ -18,7 +18,7 @@ So the honest historical claim is the sharper and more damning one: economics ha
 
 ## Links
 
-- [[Separate the genetic and the methodological claims about economics]]
+- [[Separate the sociological and the methodological claims about economics]]
 - [[Route Kolmogorov to ergodic theory not the theory of means]]
 - [[Time-average]]
 - [[MOC - Ergodicity and the time-ensemble distinction]]

@@ -38,6 +38,12 @@ Working notes for *Clearing and Settling the Realm* (ergodicity economics + enti
 
 Forensic, precise, argument-led. No hedging, throat-clearing, or excessive signposting. Dense and confident.
 
+## Terminology (reserved words)
+
+- **`genetic` is reserved for biological heredity.** Never use it for the descent of institutions. The claim that a recurrence is inheritance rather than arrival is the **origination** claim; a set of forms sharing an ancestor is *connected by descent*. The project engages a literature arguing for biological transmission of economic behaviour, and one ambiguous word concedes ground for free. See [[Never let the units slide from instruments to populations]].
+- **`convergence` means convergence in the strict cladistic sense** — independent arrival from *different* ancestral conditions. Where a shared ancestral condition is plausible the word is **parallelism**. See [[Homoplasy is the finding not the noise]] and the note in `tags.md`.
+- **Units are instruments, not populations.** Institutions are transmitted as texts and drafting practices. Never describe a legal tradition as a population with a heritable disposition.
+
 ## Safety
 
 - Do not delete or rename files without explicit confirmation.

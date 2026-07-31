@@ -10,7 +10,7 @@ status: seed
 
 # The western family needs only plausible common descent not proven genealogy
 
-The Sasanian genealogy is currently stated as a finding: the *qirāḍ*'s antecedents lie in Sasanian partnership law, preserved through the East-Syriac law books, therefore the Sasanian, Islamic and Mediterranean forms are a single genetically connected family, therefore the real test of independent recurrence is East Asia against that whole cluster. Stated that way the design is hostage to a philological claim that no consulted expert has yet affirmed.
+The Sasanian genealogy is currently stated as a finding: the *qirāḍ*'s antecedents lie in Sasanian partnership law, preserved through the East-Syriac law books, therefore the Sasanian, Islamic and Mediterranean forms are a single family connected by descent, therefore the real test of independent recurrence is East Asia against that whole cluster. Stated that way the design is hostage to a philological claim that no consulted expert has yet affirmed.
 
 It does not need to be stated that way, and it is stronger when it is not. **The argument requires only that the western forms cannot be *assumed* independent.** Plausible, undisproven common descent is sufficient for that, because the burden runs in the direction the argument needs: under Galton's problem the default for neighbouring, contemporaneous, contact-exposed traditions is non-independence, and independence is the thing that has to be earned. A common Sasanian substrate that is plausible and unrefuted therefore disqualifies the western forms as independent trials *whether or not the specific descent of the qirāḍ is ever demonstrated*.
 

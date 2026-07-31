@@ -17,7 +17,7 @@ Thematic hub for the project's load-bearing distinction: ensemble average vs [[T
 - [[Absorbing barrier]]
 - [[Time-average]]
 - [[Jensen gap]]
-- [[Separate the genetic and the methodological claims about economics]]
+- [[Separate the sociological and the methodological claims about economics]]
 - [[Economics had its ensemble moment in 1738 and psychologized it]]
 - [[Route Kolmogorov to ergodic theory not the theory of means]]
 - [[The ensemble average is the local descriptor of a barrier-shielded agent]]

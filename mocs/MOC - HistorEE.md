@@ -41,7 +41,7 @@ Project hub for the book. Atomic notes hang off both this project MOC and a them
 
 ## Notes — Ensemble vs time-average session
 
-- [[Separate the genetic and the methodological claims about economics]]
+- [[Separate the sociological and the methodological claims about economics]]
 - [[Economics had its ensemble moment in 1738 and psychologized it]]
 - [[Route Kolmogorov to ergodic theory not the theory of means]]
 - [[The ensemble average is the local descriptor of a barrier-shielded agent]]

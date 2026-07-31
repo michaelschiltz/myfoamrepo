@@ -12,7 +12,7 @@ status: seed
 
 Documenting the *ortoq* as transmission (see [[The ortoq is the discriminating instrument]]) relocates the test. The *qirad*'s antecedents lie not east in Sogdiana but in the partnership law of the **Sasanian Near East** — a secular jurisprudence largely lost in its Middle Persian originals and preserved through the East-Syriac law books, the *hambāyīh* standing behind the Ḥanafī and Mālikī *mufāwaḍa* (Morony 2017; cf. Udovitch 1962).
 
-If the Sasanian, Islamic, and Mediterranean forms thus constitute a *single genetically connected western family*, then the genuine test of independent recurrence was never Islamic against Mediterranean — always suspiciously close — but the **East Asian forms against that entire western cluster**, with the *ortoq* as the documented bridge. The comparative payoff (e.g. [[Natie and kabu-nakama are a convergence pair]]) sits precisely on that East-Asia/West seam, so the strand's heaviest evidentiary load falls where the team's archival command is strongest.
+If the Sasanian, Islamic, and Mediterranean forms thus constitute a *single western family connected by descent*, then the genuine test of independent recurrence was never Islamic against Mediterranean — always suspiciously close — but the **East Asian forms against that entire western cluster**, with the *ortoq* as the documented bridge. The comparative payoff (e.g. [[Natie and kabu-nakama are a convergence pair]]) sits precisely on that East-Asia/West seam, so the strand's heaviest evidentiary load falls where the team's archival command is strongest.
 
 ## Evidentiary status — unaffirmed
 

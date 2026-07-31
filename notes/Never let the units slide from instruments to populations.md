@@ -24,9 +24,13 @@ The **domain attack** — that lineages are the wrong object here — is far str
 
 Conceding the mode and arguing execution is survivable only if one distinction holds absolutely: **the project's units are instruments, transmitted as texts and drafting practices; Clark's are people and traits, where the transmission mechanism is precisely what is in dispute.** That is a real difference in the object, not a convenience. It is also fragile, and the Sasanian-substrate material is where it is most tempting to let slip — the moment a legal *tradition* is described as a population with a heritable disposition, the distinction is gone and the concession becomes total. See [[The qirad's antecedents are Sasanian not Sogdian]], [[The western family needs only plausible common descent not proven genealogy]].
 
-## A terminological collision to resolve before drafting
+## The terminological collision, resolved 2026-07-31
 
-The vault already uses **genetic** in the origins sense — [[The theory predicts recurrence not independent origins]] speaks of "the genetic claim" meaning arrival versus inheritance, and [[Separate the genetic and the methodological claims about economics]] uses it the same way. Against Clark, *genetic* means biological heredity. The two senses cannot share a page. Either retire the origins usage in favour of *provenance* or *descent*, or mark the distinction explicitly at first use in any chapter that engages this literature.
+The vault had been running **genetic** in three senses at once: institutional descent ("the genetic claim" = arrival versus inheritance; "a genetically connected family"), the genetic-fallacy sense about the origins of economics as a discipline, and biological heredity. Against Clark only the third is defensible, and a project that will be read as adjacent to heritability arguments cannot afford a word that slides between them.
+
+The rule is now in `CLAUDE.md`: **`genetic` is reserved for biological heredity.** Institutional descent is *connected by descent*; the claim that a recurrence is inheritance rather than arrival is the **origination** claim, which is the vocabulary [[The theory predicts recurrence not independent origins]] already used for the same distinction two sentences later. The disciplinary-origins sense is now **sociological**, which is what the argument was calling it in the body anyway.
+
+Recurrence in this project is a claim about instruments arriving at the same solution. It has never depended on biological heredity and the vocabulary now says so without needing a gloss.
 
 ## To resolve
 
@@ -41,7 +45,7 @@ The vault already uses **genetic** in the origins sense — [[The theory predict
 - [[Galton's problem]]
 - [[Non-ergodicity collapses the likelihood ratio on outcomes]]
 - [[The theory predicts recurrence not independent origins]]
-- [[Separate the genetic and the methodological claims about economics]]
+- [[Separate the sociological and the methodological claims about economics]]
 - [[The qirad's antecedents are Sasanian not Sogdian]]
 - [[The western family needs only plausible common descent not proven genealogy]]
 - [[Guard against reverse-teleology]]

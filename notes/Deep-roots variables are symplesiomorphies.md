@@ -74,7 +74,7 @@ The sharper version concerns Spolaore and Wacziarg, whose genetic-distance work 
 - [[Non-ergodicity collapses the likelihood ratio on outcomes]]
 - [[Time-average optimization is a survivorship property not an intention]]
 - [[The morphological matrix is dictated by the shape of the feature space]]
-- [[Separate the genetic and the methodological claims about economics]]
+- [[Separate the sociological and the methodological claims about economics]]
 - [[Guard against reverse-teleology]]
 - [[The ascent narrative is the Jensen error as historiography]]
 - [[MOC - Historiography and method]]
