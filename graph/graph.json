@@ -23,7 +23,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Deep-roots variables are symplesiomorphies",
-      "value": 31,
+      "value": 34,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -86,7 +86,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Galton's problem",
-      "value": 31,
+      "value": 32,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -104,7 +104,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Guard against reverse-teleology",
-      "value": 21,
+      "value": 22,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -131,7 +131,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Homoplasy is the finding not the noise",
-      "value": 52,
+      "value": 53,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -235,11 +235,20 @@
       "shape": "dot"
     },
     {
+      "id": "Never let the units slide from instruments to populations",
+      "type": "permanent",
+      "group": "stub",
+      "label": "Never let the units slide from instruments to populations",
+      "value": 20,
+      "color": "#666666",
+      "shape": "dot"
+    },
+    {
       "id": "Non-ergodicity collapses the likelihood ratio on outcomes",
       "type": "permanent",
       "group": "seed",
       "label": "Non-ergodicity collapses the likelihood ratio on outcomes",
-      "value": 22,
+      "value": 24,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -338,7 +347,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Separate the genetic and the methodological claims about economics",
-      "value": 11,
+      "value": 13,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -581,7 +590,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The qirad's antecedents are Sasanian not Sogdian",
-      "value": 27,
+      "value": 29,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -608,7 +617,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The theory predicts recurrence not independent origins",
-      "value": 25,
+      "value": 27,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -635,7 +644,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The western family needs only plausible common descent not proven genealogy",
-      "value": 27,
+      "value": 29,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -725,7 +734,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - HistorEE",
-      "value": 139,
+      "value": 140,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -734,7 +743,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Historiography and method",
-      "value": 56,
+      "value": 58,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -872,6 +881,10 @@
     {
       "from": "Deep-roots variables are symplesiomorphies",
       "to": "MOC - Historiography and method"
+    },
+    {
+      "from": "Deep-roots variables are symplesiomorphies",
+      "to": "Never let the units slide from instruments to populations"
     },
     {
       "from": "Deep-roots variables are symplesiomorphies",
@@ -1975,6 +1988,10 @@
     },
     {
       "from": "MOC - Historiography and method",
+      "to": "Never let the units slide from instruments to populations"
+    },
+    {
+      "from": "MOC - Historiography and method",
       "to": "Refusals are observations of the filter not inferences from survivors"
     },
     {
@@ -2240,6 +2257,50 @@
     {
       "from": "Naviganti - Latin Christendom rejected the sea loan too",
       "to": "The sea loan is a contingent claim not a loan"
+    },
+    {
+      "from": "Never let the units slide from instruments to populations",
+      "to": "Deep-roots variables are symplesiomorphies"
+    },
+    {
+      "from": "Never let the units slide from instruments to populations",
+      "to": "Galton's problem"
+    },
+    {
+      "from": "Never let the units slide from instruments to populations",
+      "to": "Guard against reverse-teleology"
+    },
+    {
+      "from": "Never let the units slide from instruments to populations",
+      "to": "Homoplasy is the finding not the noise"
+    },
+    {
+      "from": "Never let the units slide from instruments to populations",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Never let the units slide from instruments to populations",
+      "to": "MOC - Historiography and method"
+    },
+    {
+      "from": "Never let the units slide from instruments to populations",
+      "to": "Non-ergodicity collapses the likelihood ratio on outcomes"
+    },
+    {
+      "from": "Never let the units slide from instruments to populations",
+      "to": "Separate the genetic and the methodological claims about economics"
+    },
+    {
+      "from": "Never let the units slide from instruments to populations",
+      "to": "The qirad's antecedents are Sasanian not Sogdian"
+    },
+    {
+      "from": "Never let the units slide from instruments to populations",
+      "to": "The theory predicts recurrence not independent origins"
+    },
+    {
+      "from": "Never let the units slide from instruments to populations",
+      "to": "The western family needs only plausible common descent not proven genealogy"
     },
     {
       "from": "Non-ergodicity collapses the likelihood ratio on outcomes",
