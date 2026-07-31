@@ -32,7 +32,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Divergent arbitrary particulars are the independence diagnostic",
-      "value": 24,
+      "value": 28,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -77,7 +77,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Galton's problem",
-      "value": 22,
+      "value": 29,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -118,11 +118,20 @@
       "shape": "dot"
     },
     {
+      "id": "Homoplasy is the finding not the noise",
+      "type": "permanent",
+      "group": "seed",
+      "label": "Homoplasy is the finding not the noise",
+      "value": 48,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
       "id": "Identity-wrapper and perpetual-monopoly are distinct shielding facets",
       "type": "permanent",
       "group": "seed",
       "label": "Identity-wrapper and perpetual-monopoly are distinct shielding facets",
-      "value": 12,
+      "value": 14,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -176,7 +185,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Lock-in and outcome-coupling are distinct bindings",
-      "value": 21,
+      "value": 23,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -194,7 +203,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Natie and kabu-nakama are a convergence pair",
-      "value": 21,
+      "value": 23,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -248,7 +257,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Perpetuity splits into adaptation and petrification",
-      "value": 13,
+      "value": 15,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -284,7 +293,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Refusals are observations of the filter not inferences from survivors",
-      "value": 27,
+      "value": 29,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -347,7 +356,7 @@
       "type": "permanent",
       "group": "stub",
       "label": "Skin in the game",
-      "value": 19,
+      "value": 21,
       "color": "#666666",
       "shape": "dot"
     },
@@ -356,7 +365,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Split provenance into priority and independence",
-      "value": 19,
+      "value": 20,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -410,7 +419,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The coding commons must record stated rationale not only component presence",
-      "value": 23,
+      "value": 25,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -428,7 +437,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The deficit reading of absence is the scalar ranking in evidentiary form",
-      "value": 17,
+      "value": 19,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -518,7 +527,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The morphological matrix is dictated by the shape of the feature space",
-      "value": 21,
+      "value": 23,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -536,7 +545,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The naties are a six-century Lindy institution",
-      "value": 17,
+      "value": 19,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -545,7 +554,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The ortoq is the discriminating instrument",
-      "value": 17,
+      "value": 19,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -563,7 +572,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The qirad's antecedents are Sasanian not Sogdian",
-      "value": 25,
+      "value": 27,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -590,7 +599,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The theory predicts recurrence not independent origins",
-      "value": 20,
+      "value": 23,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -608,7 +617,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The waqf partition converts absence into refusal",
-      "value": 15,
+      "value": 17,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -617,7 +626,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The western family needs only plausible common descent not proven genealogy",
-      "value": 25,
+      "value": 27,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -644,7 +653,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Transmission versus independent recurrence is the load-bearing test",
-      "value": 26,
+      "value": 28,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -680,7 +689,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - ERC Synergy Grant",
-      "value": 26,
+      "value": 27,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -707,7 +716,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - HistorEE",
-      "value": 137,
+      "value": 138,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -716,7 +725,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Historiography and method",
-      "value": 49,
+      "value": 54,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -743,7 +752,7 @@
       "type": "reference",
       "group": "reference",
       "label": "tags",
-      "value": 1,
+      "value": 2,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -842,6 +851,10 @@
     {
       "from": "Divergent arbitrary particulars are the independence diagnostic",
       "to": "Galton's problem"
+    },
+    {
+      "from": "Divergent arbitrary particulars are the independence diagnostic",
+      "to": "Homoplasy is the finding not the noise"
     },
     {
       "from": "Divergent arbitrary particulars are the independence diagnostic",
@@ -998,6 +1011,10 @@
     {
       "from": "Galton's problem",
       "to": "Divergent arbitrary particulars are the independence diagnostic"
+    },
+    {
+      "from": "Galton's problem",
+      "to": "Homoplasy is the finding not the noise"
     },
     {
       "from": "Galton's problem",
@@ -1162,6 +1179,94 @@
     {
       "from": "Hierro Anibarro 2005 on the asiento de averia and the privileged company",
       "to": "limited-liability"
+    },
+    {
+      "from": "Homoplasy is the finding not the noise",
+      "to": "Divergent arbitrary particulars are the independence diagnostic"
+    },
+    {
+      "from": "Homoplasy is the finding not the noise",
+      "to": "Galton's problem"
+    },
+    {
+      "from": "Homoplasy is the finding not the noise",
+      "to": "Identity-wrapper and perpetual-monopoly are distinct shielding facets"
+    },
+    {
+      "from": "Homoplasy is the finding not the noise",
+      "to": "Lock-in and outcome-coupling are distinct bindings"
+    },
+    {
+      "from": "Homoplasy is the finding not the noise",
+      "to": "MOC - ERC Synergy Grant"
+    },
+    {
+      "from": "Homoplasy is the finding not the noise",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Homoplasy is the finding not the noise",
+      "to": "MOC - Historiography and method"
+    },
+    {
+      "from": "Homoplasy is the finding not the noise",
+      "to": "Natie and kabu-nakama are a convergence pair"
+    },
+    {
+      "from": "Homoplasy is the finding not the noise",
+      "to": "Perpetuity splits into adaptation and petrification"
+    },
+    {
+      "from": "Homoplasy is the finding not the noise",
+      "to": "Refusals are observations of the filter not inferences from survivors"
+    },
+    {
+      "from": "Homoplasy is the finding not the noise",
+      "to": "Skin in the game"
+    },
+    {
+      "from": "Homoplasy is the finding not the noise",
+      "to": "Split provenance into priority and independence"
+    },
+    {
+      "from": "Homoplasy is the finding not the noise",
+      "to": "The coding commons must record stated rationale not only component presence"
+    },
+    {
+      "from": "Homoplasy is the finding not the noise",
+      "to": "The deficit reading of absence is the scalar ranking in evidentiary form"
+    },
+    {
+      "from": "Homoplasy is the finding not the noise",
+      "to": "The morphological matrix is dictated by the shape of the feature space"
+    },
+    {
+      "from": "Homoplasy is the finding not the noise",
+      "to": "The naties are a six-century Lindy institution"
+    },
+    {
+      "from": "Homoplasy is the finding not the noise",
+      "to": "The ortoq is the discriminating instrument"
+    },
+    {
+      "from": "Homoplasy is the finding not the noise",
+      "to": "The qirad's antecedents are Sasanian not Sogdian"
+    },
+    {
+      "from": "Homoplasy is the finding not the noise",
+      "to": "The theory predicts recurrence not independent origins"
+    },
+    {
+      "from": "Homoplasy is the finding not the noise",
+      "to": "The waqf partition converts absence into refusal"
+    },
+    {
+      "from": "Homoplasy is the finding not the noise",
+      "to": "The western family needs only plausible common descent not proven genealogy"
+    },
+    {
+      "from": "Homoplasy is the finding not the noise",
+      "to": "Transmission versus independent recurrence is the load-bearing test"
     },
     {
       "from": "Identity-wrapper and perpetual-monopoly are distinct shielding facets",
@@ -1741,11 +1846,23 @@
     },
     {
       "from": "MOC - Historiography and method",
+      "to": "Divergent arbitrary particulars are the independence diagnostic"
+    },
+    {
+      "from": "MOC - Historiography and method",
+      "to": "Galton's problem"
+    },
+    {
+      "from": "MOC - Historiography and method",
       "to": "Guard against reverse-teleology"
     },
     {
       "from": "MOC - Historiography and method",
       "to": "Harris 2020 on the late plurality of limited liability"
+    },
+    {
+      "from": "MOC - Historiography and method",
+      "to": "Homoplasy is the finding not the noise"
     },
     {
       "from": "MOC - Historiography and method",
@@ -1802,6 +1919,10 @@
     {
       "from": "MOC - Historiography and method",
       "to": "The qirad's antecedents are Sasanian not Sogdian"
+    },
+    {
+      "from": "MOC - Historiography and method",
+      "to": "The theory predicts recurrence not independent origins"
     },
     {
       "from": "MOC - Historiography and method",
@@ -3566,6 +3687,10 @@
     {
       "from": "limited-liability",
       "to": "The fraterna and compagnia diverge in formation but converge at the barrier"
+    },
+    {
+      "from": "tags",
+      "to": "Homoplasy is the finding not the noise"
     }
   ]
 }

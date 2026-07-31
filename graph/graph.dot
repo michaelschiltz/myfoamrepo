@@ -14,6 +14,7 @@ digraph vault {
   "Guard against reverse-teleology" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Harris 2020 on the late plurality of limited liability" [fillcolor="#7570b3", fontcolor=white, shape=ellipse];
   "Hierro Anibarro 2005 on the asiento de averia and the privileged company" [fillcolor="#7570b3", fontcolor=white, shape=ellipse];
+  "Homoplasy is the finding not the noise" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Identity-wrapper and perpetual-monopoly are distinct shielding facets" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Institutions substitute state-verification for outcome-inference as ruin exposure rises" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Islamic doctrine refuses risk-commodification at step one" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
@@ -105,6 +106,7 @@ digraph vault {
   "Discipline the Whig epithet by pinning it to teleology and survivorship" -> "MOC - Historiography and method";
   "Discipline the Whig epithet by pinning it to teleology and survivorship" -> "Whiggish history of finance names the ascent narrative";
   "Divergent arbitrary particulars are the independence diagnostic" -> "Galton's problem";
+  "Divergent arbitrary particulars are the independence diagnostic" -> "Homoplasy is the finding not the noise";
   "Divergent arbitrary particulars are the independence diagnostic" -> "MOC - ERC Synergy Grant";
   "Divergent arbitrary particulars are the independence diagnostic" -> "MOC - HistorEE";
   "Divergent arbitrary particulars are the independence diagnostic" -> "MOC - Historiography and method";
@@ -144,6 +146,7 @@ digraph vault {
   "Entity-shielding" -> "Mare Liberum was a corporate legal weapon";
   "Entity-shielding" -> "The four-step decoupling from participation to the veil";
   "Galton's problem" -> "Divergent arbitrary particulars are the independence diagnostic";
+  "Galton's problem" -> "Homoplasy is the finding not the noise";
   "Galton's problem" -> "MOC - ERC Synergy Grant";
   "Galton's problem" -> "MOC - HistorEE";
   "Galton's problem" -> "MOC - Historiography and method";
@@ -185,6 +188,28 @@ digraph vault {
   "Hierro Anibarro 2005 on the asiento de averia and the privileged company" -> "The asiento de averia is the pooling-to-corporation hinge";
   "Hierro Anibarro 2005 on the asiento de averia and the privileged company" -> "The depersonalised share was produced by honour not by pooling logic";
   "Hierro Anibarro 2005 on the asiento de averia and the privileged company" -> "limited-liability";
+  "Homoplasy is the finding not the noise" -> "Divergent arbitrary particulars are the independence diagnostic";
+  "Homoplasy is the finding not the noise" -> "Galton's problem";
+  "Homoplasy is the finding not the noise" -> "Identity-wrapper and perpetual-monopoly are distinct shielding facets";
+  "Homoplasy is the finding not the noise" -> "Lock-in and outcome-coupling are distinct bindings";
+  "Homoplasy is the finding not the noise" -> "MOC - ERC Synergy Grant";
+  "Homoplasy is the finding not the noise" -> "MOC - HistorEE";
+  "Homoplasy is the finding not the noise" -> "MOC - Historiography and method";
+  "Homoplasy is the finding not the noise" -> "Natie and kabu-nakama are a convergence pair";
+  "Homoplasy is the finding not the noise" -> "Perpetuity splits into adaptation and petrification";
+  "Homoplasy is the finding not the noise" -> "Refusals are observations of the filter not inferences from survivors";
+  "Homoplasy is the finding not the noise" -> "Skin in the game";
+  "Homoplasy is the finding not the noise" -> "Split provenance into priority and independence";
+  "Homoplasy is the finding not the noise" -> "The coding commons must record stated rationale not only component presence";
+  "Homoplasy is the finding not the noise" -> "The deficit reading of absence is the scalar ranking in evidentiary form";
+  "Homoplasy is the finding not the noise" -> "The morphological matrix is dictated by the shape of the feature space";
+  "Homoplasy is the finding not the noise" -> "The naties are a six-century Lindy institution";
+  "Homoplasy is the finding not the noise" -> "The ortoq is the discriminating instrument";
+  "Homoplasy is the finding not the noise" -> "The qirad's antecedents are Sasanian not Sogdian";
+  "Homoplasy is the finding not the noise" -> "The theory predicts recurrence not independent origins";
+  "Homoplasy is the finding not the noise" -> "The waqf partition converts absence into refusal";
+  "Homoplasy is the finding not the noise" -> "The western family needs only plausible common descent not proven genealogy";
+  "Homoplasy is the finding not the noise" -> "Transmission versus independent recurrence is the load-bearing test";
   "Identity-wrapper and perpetual-monopoly are distinct shielding facets" -> "Entity-shielding";
   "Identity-wrapper and perpetual-monopoly are distinct shielding facets" -> "MOC - Entity-shielding and corporate forms";
   "Identity-wrapper and perpetual-monopoly are distinct shielding facets" -> "MOC - HistorEE";
@@ -329,8 +354,11 @@ digraph vault {
   "MOC - HistorEE" -> "Transmission versus independent recurrence is the load-bearing test";
   "MOC - HistorEE" -> "Whiggish history of finance names the ascent narrative";
   "MOC - Historiography and method" -> "Discipline the Whig epithet by pinning it to teleology and survivorship";
+  "MOC - Historiography and method" -> "Divergent arbitrary particulars are the independence diagnostic";
+  "MOC - Historiography and method" -> "Galton's problem";
   "MOC - Historiography and method" -> "Guard against reverse-teleology";
   "MOC - Historiography and method" -> "Harris 2020 on the late plurality of limited liability";
+  "MOC - Historiography and method" -> "Homoplasy is the finding not the noise";
   "MOC - Historiography and method" -> "Kuran's brake is a refusal of immortal entities";
   "MOC - Historiography and method" -> "MOC - ERC Synergy Grant";
   "MOC - Historiography and method" -> "MOC - HistorEE";
@@ -345,6 +373,7 @@ digraph vault {
   "MOC - Historiography and method" -> "The morphological matrix is dictated by the shape of the feature space";
   "MOC - Historiography and method" -> "The ortoq is the discriminating instrument";
   "MOC - Historiography and method" -> "The qirad's antecedents are Sasanian not Sogdian";
+  "MOC - Historiography and method" -> "The theory predicts recurrence not independent origins";
   "MOC - Historiography and method" -> "Transmission versus independent recurrence is the load-bearing test";
   "MOC - Historiography and method" -> "Whiggish history of finance names the ascent narrative";
   "MOC - Islamic contract doctrine" -> "Entitlement by liability versus entitlement by membership";
@@ -786,4 +815,5 @@ digraph vault {
   "limited-liability" -> "MOC - Entity-shielding and corporate forms";
   "limited-liability" -> "MOC - HistorEE";
   "limited-liability" -> "The fraterna and compagnia diverge in formation but converge at the barrier";
+  "tags" -> "Homoplasy is the finding not the noise";
 }
