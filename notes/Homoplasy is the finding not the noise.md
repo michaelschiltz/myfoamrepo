@@ -73,6 +73,7 @@ One condition attaches, and it is Taleb's own. The retention inference requires 
 ## Links
 
 - [[Galton's problem]]
+- [[Deep-roots variables are symplesiomorphies]]
 - [[Divergent arbitrary particulars are the independence diagnostic]]
 - [[The theory predicts recurrence not independent origins]]
 - [[Transmission versus independent recurrence is the load-bearing test]]

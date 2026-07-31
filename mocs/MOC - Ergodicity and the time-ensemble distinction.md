@@ -23,6 +23,8 @@ Thematic hub for the project's load-bearing distinction: ensemble average vs [[T
 - [[The ensemble average is the local descriptor of a barrier-shielded agent]]
 - [[The real cut is shielded-and-pooled versus unshielded]]
 - [[Time-average optimization is a survivorship property not an intention]]
+- [[Non-ergodicity collapses the likelihood ratio on outcomes]]
+- [[Deep-roots variables are symplesiomorphies]]
 
 ## Links
 
