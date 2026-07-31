@@ -39,7 +39,7 @@ digraph vault {
   "Route Kolmogorov to ergodic theory not the theory of means" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Scuttling rewards fraud in the sea loan" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Selection frequency trades against organizational memory" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
-  "Separate the genetic and the methodological claims about economics" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
+  "Separate the sociological and the methodological claims about economics" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Simonsohn 2016 on East Syrian civil law and the Sasanian substrate" [fillcolor="#7570b3", fontcolor=white, shape=ellipse];
   "Skin in the game is asymmetric in the mudaraba" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Skin in the game" [fillcolor="#666666", fontcolor=white, shape=ellipse];
@@ -114,7 +114,7 @@ digraph vault {
   "Deep-roots variables are symplesiomorphies" -> "Never let the units slide from instruments to populations";
   "Deep-roots variables are symplesiomorphies" -> "Non-ergodicity collapses the likelihood ratio on outcomes";
   "Deep-roots variables are symplesiomorphies" -> "Refusals are observations of the filter not inferences from survivors";
-  "Deep-roots variables are symplesiomorphies" -> "Separate the genetic and the methodological claims about economics";
+  "Deep-roots variables are symplesiomorphies" -> "Separate the sociological and the methodological claims about economics";
   "Deep-roots variables are symplesiomorphies" -> "The ascent narrative is the Jensen error as historiography";
   "Deep-roots variables are symplesiomorphies" -> "The deficit reading of absence is the scalar ranking in evidentiary form";
   "Deep-roots variables are symplesiomorphies" -> "The morphological matrix is dictated by the shape of the feature space";
@@ -142,7 +142,7 @@ digraph vault {
   "Economics had its ensemble moment in 1738 and psychologized it" -> "MOC - Ergodicity and the time-ensemble distinction";
   "Economics had its ensemble moment in 1738 and psychologized it" -> "MOC - HistorEE";
   "Economics had its ensemble moment in 1738 and psychologized it" -> "Route Kolmogorov to ergodic theory not the theory of means";
-  "Economics had its ensemble moment in 1738 and psychologized it" -> "Separate the genetic and the methodological claims about economics";
+  "Economics had its ensemble moment in 1738 and psychologized it" -> "Separate the sociological and the methodological claims about economics";
   "Economics had its ensemble moment in 1738 and psychologized it" -> "Time-average";
   "Ensemble benchmarking of agents is biased against the honest" -> "Decoupling substitutes proxy legibility for outcome legibility";
   "Ensemble benchmarking of agents is biased against the honest" -> "Institutions substitute state-verification for outcome-inference as ruin exposure rises";
@@ -317,7 +317,7 @@ digraph vault {
   "MOC - Ergodicity and the time-ensemble distinction" -> "Non-ergodicity collapses the likelihood ratio on outcomes";
   "MOC - Ergodicity and the time-ensemble distinction" -> "Pricing risk does not remove it";
   "MOC - Ergodicity and the time-ensemble distinction" -> "Route Kolmogorov to ergodic theory not the theory of means";
-  "MOC - Ergodicity and the time-ensemble distinction" -> "Separate the genetic and the methodological claims about economics";
+  "MOC - Ergodicity and the time-ensemble distinction" -> "Separate the sociological and the methodological claims about economics";
   "MOC - Ergodicity and the time-ensemble distinction" -> "The ensemble average is the local descriptor of a barrier-shielded agent";
   "MOC - Ergodicity and the time-ensemble distinction" -> "The real cut is shielded-and-pooled versus unshielded";
   "MOC - Ergodicity and the time-ensemble distinction" -> "Time-average";
@@ -351,7 +351,7 @@ digraph vault {
   "MOC - HistorEE" -> "Pricing risk does not remove it";
   "MOC - HistorEE" -> "Route Kolmogorov to ergodic theory not the theory of means";
   "MOC - HistorEE" -> "Scuttling rewards fraud in the sea loan";
-  "MOC - HistorEE" -> "Separate the genetic and the methodological claims about economics";
+  "MOC - HistorEE" -> "Separate the sociological and the methodological claims about economics";
   "MOC - HistorEE" -> "Simonsohn 2016 on East Syrian civil law and the Sasanian substrate";
   "MOC - HistorEE" -> "Skin in the game";
   "MOC - HistorEE" -> "The alleenrecht is monopoly held as tradable property";
@@ -462,7 +462,7 @@ digraph vault {
   "Never let the units slide from instruments to populations" -> "MOC - HistorEE";
   "Never let the units slide from instruments to populations" -> "MOC - Historiography and method";
   "Never let the units slide from instruments to populations" -> "Non-ergodicity collapses the likelihood ratio on outcomes";
-  "Never let the units slide from instruments to populations" -> "Separate the genetic and the methodological claims about economics";
+  "Never let the units slide from instruments to populations" -> "Separate the sociological and the methodological claims about economics";
   "Never let the units slide from instruments to populations" -> "The qirad's antecedents are Sasanian not Sogdian";
   "Never let the units slide from instruments to populations" -> "The theory predicts recurrence not independent origins";
   "Never let the units slide from instruments to populations" -> "The western family needs only plausible common descent not proven genealogy";
@@ -548,11 +548,11 @@ digraph vault {
   "Selection frequency trades against organizational memory" -> "MOC - Historiography and method";
   "Selection frequency trades against organizational memory" -> "Outcome-coupling is the condition of legibility";
   "Selection frequency trades against organizational memory" -> "The durable-and-coupled cell is the underexplored one";
-  "Separate the genetic and the methodological claims about economics" -> "Economics had its ensemble moment in 1738 and psychologized it";
-  "Separate the genetic and the methodological claims about economics" -> "MOC - Ergodicity and the time-ensemble distinction";
-  "Separate the genetic and the methodological claims about economics" -> "MOC - HistorEE";
-  "Separate the genetic and the methodological claims about economics" -> "The ensemble average is the local descriptor of a barrier-shielded agent";
-  "Separate the genetic and the methodological claims about economics" -> "Time-average";
+  "Separate the sociological and the methodological claims about economics" -> "Economics had its ensemble moment in 1738 and psychologized it";
+  "Separate the sociological and the methodological claims about economics" -> "MOC - Ergodicity and the time-ensemble distinction";
+  "Separate the sociological and the methodological claims about economics" -> "MOC - HistorEE";
+  "Separate the sociological and the methodological claims about economics" -> "The ensemble average is the local descriptor of a barrier-shielded agent";
+  "Separate the sociological and the methodological claims about economics" -> "Time-average";
   "Simonsohn 2016 on East Syrian civil law and the Sasanian substrate" -> "MOC - ERC Synergy Grant";
   "Simonsohn 2016 on East Syrian civil law and the Sasanian substrate" -> "MOC - HistorEE";
   "Simonsohn 2016 on East Syrian civil law and the Sasanian substrate" -> "MOC - Historiography and method";
@@ -696,7 +696,7 @@ digraph vault {
   "The ensemble average is the local descriptor of a barrier-shielded agent" -> "MOC - Entity-shielding and corporate forms";
   "The ensemble average is the local descriptor of a barrier-shielded agent" -> "MOC - Ergodicity and the time-ensemble distinction";
   "The ensemble average is the local descriptor of a barrier-shielded agent" -> "MOC - HistorEE";
-  "The ensemble average is the local descriptor of a barrier-shielded agent" -> "Separate the genetic and the methodological claims about economics";
+  "The ensemble average is the local descriptor of a barrier-shielded agent" -> "Separate the sociological and the methodological claims about economics";
   "The ensemble average is the local descriptor of a barrier-shielded agent" -> "The real cut is shielded-and-pooled versus unshielded";
   "The four-step decoupling from participation to the veil" -> "Entity-shielding";
   "The four-step decoupling from participation to the veil" -> "Islamic doctrine refuses risk-commodification at step one";
