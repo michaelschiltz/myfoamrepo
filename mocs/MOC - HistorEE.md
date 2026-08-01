@@ -80,6 +80,17 @@ Project hub for the book. Atomic notes hang off both this project MOC and a them
 - [[Gharar excludes designed-in unverifiability]]
 - [[The double refusal of the sea loan is evidence about the filter not about independence]]
 
+## Notes — ʿIsqa session
+
+- [[isqa]]
+- [[The isqa refuses the agent's shield]]
+- [[Ribbit mandates exposure rather than forbidding gain]]
+- [[The heter iska restores the fixed return by evidentiary barrier]]
+- [[Isqa qirad and commenda are a liability-variable triad]]
+- [[The isqa's bifurcation belongs to the Sasanian substrate question]]
+- [[The isqa is Lindy because captive not because robust]]
+- [[Isqa reading list to acquire]]
+
 ## Concept anchors
 
 - [[Absorbing barrier]]

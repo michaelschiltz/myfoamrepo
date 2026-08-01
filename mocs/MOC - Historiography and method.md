@@ -37,6 +37,9 @@ Thematic hub for the project's methodological guardrails: teleology and its inve
 - [[Deep-roots variables are symplesiomorphies]]
 - [[Never let the units slide from instruments to populations]]
 - [[Borrow the diagnostics not the tree]]
+- [[Isqa qirad and commenda are a liability-variable triad]]
+- [[The isqa's bifurcation belongs to the Sasanian substrate question]]
+- [[The isqa is Lindy because captive not because robust]]
 
 ## Links
 

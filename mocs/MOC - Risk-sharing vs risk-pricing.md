@@ -27,6 +27,10 @@ Thematic hub for the instrument axis: risk-*sharing* forms that keep every party
 - [[The liability principle was demoted from rule to maxim]]
 - [[Skin in the game]]
 - [[The determinate-contingent typology carries the richness]]
+- [[isqa]]
+- [[The isqa refuses the agent's shield]]
+- [[Ribbit mandates exposure rather than forbidding gain]]
+- [[The heter iska restores the fixed return by evidentiary barrier]]
 
 ## Links
 

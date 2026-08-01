@@ -20,6 +20,10 @@ The Part 2 WP1 session's *ideas* are written as atomic notes (below) and kept un
 - [[The qirad's antecedents are Sasanian not Sogdian]]
 - [[The determinate-contingent typology carries the richness]]
 
+## Leads
+
+- [[The isqa's bifurcation belongs to the Sasanian substrate question]] — the rabbinic route as the least-cost place to run the *Leitfehler* test the *qirāḍ* genealogy turns on, and a stronger approach to Macuch than the Islamic leg alone.
+
 ## Links
 
 - [[MOC - HistorEE]]

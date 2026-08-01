@@ -34,6 +34,9 @@ Thematic hub for the corporate-form apparatus: asset-partitioning, identity-wrap
 - [[The ie as entity-shielding]]
 - [[The waqf and the nación flamenca diverge only at legal personality]]
 - [[Perpetuity splits into adaptation and petrification]]
+- [[The isqa refuses the agent's shield]]
+- [[Isqa qirad and commenda are a liability-variable triad]]
+- [[The isqa is Lindy because captive not because robust]]
 
 ## Links
 

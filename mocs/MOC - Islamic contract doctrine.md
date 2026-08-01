@@ -25,6 +25,15 @@ Thematic hub for the fiqh apparatus bearing on finance: *gharar*, *maysir*, *rib
 - [[The qirad's antecedents are Sasanian not Sogdian]]
 - [[The determinate-contingent typology carries the richness]]
 
+## Comparative — Jewish contract doctrine
+
+The *ribbit* material is filed here rather than in a separate hub, because its value to the project is comparative: the same refusal of the priced-certain return, met by a form that declines to shield the agent.
+
+- [[Ribbit mandates exposure rather than forbidding gain]]
+- [[The isqa refuses the agent's shield]]
+- [[The heter iska restores the fixed return by evidentiary barrier]]
+- [[isqa]]
+
 ## Open citations to verify
 
 - *Naviganti* — Liber Extra X 5.19.19, 1234 (confirm numbering)
@@ -35,6 +44,8 @@ Thematic hub for the fiqh apparatus bearing on finance: *gharar*, *maysir*, *rib
 - *al-kharāj bi-l-ḍamān* and *al-ghunm bi-l-ghurm* — hadith attribution and standard *qāʿida fiqhiyya* formulations
 - Q 59:7 circulation norm — confirm the *fayʾ* context before generalising it to an anti-concentration principle
 - Harris on the *waqf* in ch. 12 as a candidate origin for the corporation — confirm he frames it as candidate rather than analogue
+- R. Mendel Avigdors of Cracow — dates (given as d. 1599) and the received *nusaḥ* of the *Shetar Heter ʿIsqa ke-Tikkun MaHaRaM*; the oath/witness clause varies between recensions and the comparison needs a specific text, not the modern bank form
+- Whether the *ʿisqa* sugya (BT *Bava Metzia* 104b) has already been read against Sasanian partnership law in the Irano-Talmudica literature — sweep before claiming the lead is novel
 
 ## Links
 

@@ -27,6 +27,12 @@ Keep tags lowercase, hyphenated, singular. Before coining a new tag, check this 
 
 `gharar` · `maysir` · `riba` · `salam` · `hiyal` · `ghishsh` · `khiyana` · `waqf` · `maqasid` · `amana` · `daman`
 
+## Jewish contract doctrine
+
+`isqa` · `heter-iska` · `ribbit` · `avak-ribbit`
+
+**Note on `ribbit` vs `riba`.** Kept separate deliberately. The two prohibitions converge on refusing the priced-certain return but diverge in the forms they license — the *qirāḍ* shields the agent, the *ʿisqa* does not. Collapsing them into one tag would hide the divergence that carries the comparative payoff. See [[Ribbit mandates exposure rather than forbidding gain]] and [[The isqa refuses the agent's shield]].
+
 ## Legal / jurisdiction
 
 `legal-violence` · `mare-liberum` · `mare-clausum` · `cartaz` · `grotius` · `canon-law` · `naviganti` · `verification` · `moral-hazard` · `principal-agent`
