@@ -37,6 +37,15 @@
       "shape": "dot"
     },
     {
+      "id": "Desktop and portable capture - CZUR and ScanTent",
+      "type": "reference",
+      "group": "reference",
+      "label": "Desktop and portable capture - CZUR and ScanTent",
+      "value": 14,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
       "id": "Discipline the Whig epithet by pinning it to teleology and survivorship",
       "type": "permanent",
       "group": "seed",
@@ -208,6 +217,15 @@
       "shape": "dot"
     },
     {
+      "id": "Kuzushiji OCR - the NDL and CODH stack",
+      "type": "reference",
+      "group": "reference",
+      "label": "Kuzushiji OCR - the NDL and CODH stack",
+      "value": 11,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
       "id": "Legal violence is the weapon of the militarily insufficient",
       "type": "permanent",
       "group": "seed",
@@ -289,6 +307,15 @@
       "shape": "dot"
     },
     {
+      "id": "Open-source HTR stack - eScriptorium Kraken Loghi",
+      "type": "reference",
+      "group": "reference",
+      "label": "Open-source HTR stack - eScriptorium Kraken Loghi",
+      "value": 8,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
       "id": "Outcome-coupling is the condition of legibility",
       "type": "permanent",
       "group": "seed",
@@ -325,6 +352,15 @@
       "shape": "dot"
     },
     {
+      "id": "Preservation-grade overhead scanners - Zeutschel and i2S",
+      "type": "reference",
+      "group": "reference",
+      "label": "Preservation-grade overhead scanners - Zeutschel and i2S",
+      "value": 8,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
       "id": "Pricing risk does not remove it",
       "type": "permanent",
       "group": "seed",
@@ -349,6 +385,15 @@
       "label": "Ribbit mandates exposure rather than forbidding gain",
       "value": 22,
       "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "Robotic V-cradle book scanners - Treventus and Qidenus",
+      "type": "reference",
+      "group": "reference",
+      "label": "Robotic V-cradle book scanners - Treventus and Qidenus",
+      "value": 8,
+      "color": "#66a61e",
       "shape": "dot"
     },
     {
@@ -739,6 +784,15 @@
       "shape": "dot"
     },
     {
+      "id": "Transkribus - managed HTR platform",
+      "type": "reference",
+      "group": "reference",
+      "label": "Transkribus - managed HTR platform",
+      "value": 13,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
       "id": "Transmission versus independent recurrence is the load-bearing test",
       "type": "permanent",
       "group": "seed",
@@ -781,6 +835,15 @@
       "label": "limited-liability",
       "value": 13,
       "color": "#666666",
+      "shape": "dot"
+    },
+    {
+      "id": "MOC - Digitisation and text recognition",
+      "type": "moc",
+      "group": "moc",
+      "label": "MOC - Digitisation and text recognition",
+      "value": 14,
+      "color": "#d95f02",
       "shape": "dot"
     },
     {
@@ -851,7 +914,7 @@
       "type": "reference",
       "group": "reference",
       "label": "tags",
-      "value": 4,
+      "value": 5,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1070,6 +1133,26 @@
     {
       "from": "Deep-roots variables are symplesiomorphies",
       "to": "Transmission versus independent recurrence is the load-bearing test"
+    },
+    {
+      "from": "Desktop and portable capture - CZUR and ScanTent",
+      "to": "Kuzushiji OCR - the NDL and CODH stack"
+    },
+    {
+      "from": "Desktop and portable capture - CZUR and ScanTent",
+      "to": "MOC - Digitisation and text recognition"
+    },
+    {
+      "from": "Desktop and portable capture - CZUR and ScanTent",
+      "to": "Preservation-grade overhead scanners - Zeutschel and i2S"
+    },
+    {
+      "from": "Desktop and portable capture - CZUR and ScanTent",
+      "to": "Robotic V-cradle book scanners - Treventus and Qidenus"
+    },
+    {
+      "from": "Desktop and portable capture - CZUR and ScanTent",
+      "to": "Transkribus - managed HTR platform"
     },
     {
       "from": "Discipline the Whig epithet by pinning it to teleology and survivorship",
@@ -1724,6 +1807,18 @@
       "to": "The mudaraba is revocable not locked in"
     },
     {
+      "from": "Kuzushiji OCR - the NDL and CODH stack",
+      "to": "MOC - Digitisation and text recognition"
+    },
+    {
+      "from": "Kuzushiji OCR - the NDL and CODH stack",
+      "to": "Open-source HTR stack - eScriptorium Kraken Loghi"
+    },
+    {
+      "from": "Kuzushiji OCR - the NDL and CODH stack",
+      "to": "Transkribus - managed HTR platform"
+    },
+    {
       "from": "Legal violence is the weapon of the militarily insufficient",
       "to": "Entity-shielding"
     },
@@ -1766,6 +1861,30 @@
     {
       "from": "Lock-in and outcome-coupling are distinct bindings",
       "to": "The mudaraba is revocable not locked in"
+    },
+    {
+      "from": "MOC - Digitisation and text recognition",
+      "to": "Desktop and portable capture - CZUR and ScanTent"
+    },
+    {
+      "from": "MOC - Digitisation and text recognition",
+      "to": "Kuzushiji OCR - the NDL and CODH stack"
+    },
+    {
+      "from": "MOC - Digitisation and text recognition",
+      "to": "Open-source HTR stack - eScriptorium Kraken Loghi"
+    },
+    {
+      "from": "MOC - Digitisation and text recognition",
+      "to": "Preservation-grade overhead scanners - Zeutschel and i2S"
+    },
+    {
+      "from": "MOC - Digitisation and text recognition",
+      "to": "Robotic V-cradle book scanners - Treventus and Qidenus"
+    },
+    {
+      "from": "MOC - Digitisation and text recognition",
+      "to": "Transkribus - managed HTR platform"
     },
     {
       "from": "MOC - ERC Synergy Grant",
@@ -2712,6 +2831,18 @@
       "to": "Transmission versus independent recurrence is the load-bearing test"
     },
     {
+      "from": "Open-source HTR stack - eScriptorium Kraken Loghi",
+      "to": "Kuzushiji OCR - the NDL and CODH stack"
+    },
+    {
+      "from": "Open-source HTR stack - eScriptorium Kraken Loghi",
+      "to": "MOC - Digitisation and text recognition"
+    },
+    {
+      "from": "Open-source HTR stack - eScriptorium Kraken Loghi",
+      "to": "Transkribus - managed HTR platform"
+    },
+    {
       "from": "Outcome-coupling is the condition of legibility",
       "to": "Entitlement by liability versus entitlement by membership"
     },
@@ -2828,6 +2959,18 @@
       "to": "Time-average"
     },
     {
+      "from": "Preservation-grade overhead scanners - Zeutschel and i2S",
+      "to": "Desktop and portable capture - CZUR and ScanTent"
+    },
+    {
+      "from": "Preservation-grade overhead scanners - Zeutschel and i2S",
+      "to": "MOC - Digitisation and text recognition"
+    },
+    {
+      "from": "Preservation-grade overhead scanners - Zeutschel and i2S",
+      "to": "Robotic V-cradle book scanners - Treventus and Qidenus"
+    },
+    {
       "from": "Pricing risk does not remove it",
       "to": "Absorbing barrier"
     },
@@ -2926,6 +3069,18 @@
     {
       "from": "Ribbit mandates exposure rather than forbidding gain",
       "to": "isqa"
+    },
+    {
+      "from": "Robotic V-cradle book scanners - Treventus and Qidenus",
+      "to": "Desktop and portable capture - CZUR and ScanTent"
+    },
+    {
+      "from": "Robotic V-cradle book scanners - Treventus and Qidenus",
+      "to": "MOC - Digitisation and text recognition"
+    },
+    {
+      "from": "Robotic V-cradle book scanners - Treventus and Qidenus",
+      "to": "Preservation-grade overhead scanners - Zeutschel and i2S"
     },
     {
       "from": "Route Kolmogorov to ergodic theory not the theory of means",
@@ -4296,6 +4451,22 @@
       "to": "Time-average"
     },
     {
+      "from": "Transkribus - managed HTR platform",
+      "to": "Desktop and portable capture - CZUR and ScanTent"
+    },
+    {
+      "from": "Transkribus - managed HTR platform",
+      "to": "Kuzushiji OCR - the NDL and CODH stack"
+    },
+    {
+      "from": "Transkribus - managed HTR platform",
+      "to": "MOC - Digitisation and text recognition"
+    },
+    {
+      "from": "Transkribus - managed HTR platform",
+      "to": "Open-source HTR stack - eScriptorium Kraken Loghi"
+    },
+    {
       "from": "Transmission versus independent recurrence is the load-bearing test",
       "to": "MOC - ERC Synergy Grant"
     },
@@ -4410,6 +4581,10 @@
     {
       "from": "tags",
       "to": "Homoplasy is the finding not the noise"
+    },
+    {
+      "from": "tags",
+      "to": "MOC - Digitisation and text recognition"
     },
     {
       "from": "tags",
