@@ -46,3 +46,13 @@ Keep tags lowercase, hyphenated, singular. Before coining a new tag, check this 
 ## Structural
 
 `moc` · `meta`
+
+## Tooling — *not* concept vocabulary
+
+`tooling` · `htr` · `ocr` · `kuzushiji` · `scanning-hardware`
+
+**These are not concepts and must not be treated as such.** They label the infrastructure reference layer (`project: infrastructure`, `type: reference`) hubbed at [[MOC - Digitisation and text recognition]] — what a note is *about* in the sense of which machine, not which idea. They exist so the digitisation notes are findable, and they are quarantined here so they do not enter the concept graph and generate a cluster that clusters on nothing.
+
+Rule: **never tag an argument note with a tooling tag, and never tag a tooling note with a concept tag.** If a claim about, say, source legibility genuinely arises from working with these tools, it belongs in `notes/` as a proper atomic note with concept tags — not in the reference layer.
+
+`kuzushiji` sits here rather than in a Japanese-material section deliberately: it labels *the OCR problem*, not the script as an object of study. If the script itself later needs a concept tag, coin a separate one and note the distinction.
