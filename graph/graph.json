@@ -5,7 +5,7 @@
       "type": "permanent",
       "group": "stub",
       "label": "Absorbing barrier",
-      "value": 25,
+      "value": 28,
       "color": "#666666",
       "shape": "dot"
     },
@@ -14,7 +14,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Borrow the diagnostics not the tree",
-      "value": 31,
+      "value": 33,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -23,7 +23,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Decoupling substitutes proxy legibility for outcome legibility",
-      "value": 17,
+      "value": 19,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -86,7 +86,7 @@
       "type": "permanent",
       "group": "stub",
       "label": "Entity-shielding",
-      "value": 38,
+      "value": 39,
       "color": "#666666",
       "shape": "dot"
     },
@@ -95,7 +95,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Galton's problem",
-      "value": 34,
+      "value": 35,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -104,7 +104,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Gharar excludes designed-in unverifiability",
-      "value": 21,
+      "value": 23,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -113,7 +113,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Guard against reverse-teleology",
-      "value": 22,
+      "value": 23,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -140,7 +140,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Homoplasy is the finding not the noise",
-      "value": 56,
+      "value": 58,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -167,8 +167,26 @@
       "type": "permanent",
       "group": "seed",
       "label": "Islamic doctrine refuses risk-commodification at step one",
-      "value": 20,
+      "value": 22,
       "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "Isqa qirad and commenda are a liability-variable triad",
+      "type": "permanent",
+      "group": "seed",
+      "label": "Isqa qirad and commenda are a liability-variable triad",
+      "value": 24,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "Isqa reading list to acquire",
+      "type": "reference",
+      "group": "reference",
+      "label": "Isqa reading list to acquire",
+      "value": 10,
+      "color": "#66a61e",
       "shape": "dot"
     },
     {
@@ -230,7 +248,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Natie is a false cognate",
-      "value": 12,
+      "value": 14,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -239,7 +257,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Naviganti - Latin Christendom rejected the sea loan too",
-      "value": 16,
+      "value": 18,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -248,7 +266,7 @@
       "type": "permanent",
       "group": "stub",
       "label": "Never let the units slide from instruments to populations",
-      "value": 23,
+      "value": 24,
       "color": "#666666",
       "shape": "dot"
     },
@@ -275,7 +293,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Outcome-coupling is the condition of legibility",
-      "value": 17,
+      "value": 18,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -284,7 +302,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Perpetuity splits into adaptation and petrification",
-      "value": 15,
+      "value": 16,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -320,7 +338,16 @@
       "type": "permanent",
       "group": "seed",
       "label": "Refusals are observations of the filter not inferences from survivors",
-      "value": 32,
+      "value": 35,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "Ribbit mandates exposure rather than forbidding gain",
+      "type": "permanent",
+      "group": "seed",
+      "label": "Ribbit mandates exposure rather than forbidding gain",
+      "value": 22,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -365,7 +392,7 @@
       "type": "source",
       "group": "source",
       "label": "Simonsohn 2016 on East Syrian civil law and the Sasanian substrate",
-      "value": 18,
+      "value": 19,
       "color": "#7570b3",
       "shape": "dot"
     },
@@ -374,7 +401,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Skin in the game is asymmetric in the mudaraba",
-      "value": 20,
+      "value": 24,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -383,7 +410,7 @@
       "type": "permanent",
       "group": "stub",
       "label": "Skin in the game",
-      "value": 21,
+      "value": 22,
       "color": "#666666",
       "shape": "dot"
     },
@@ -419,7 +446,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The amana-daman structure refuses to infer fault from loss",
-      "value": 20,
+      "value": 21,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -446,7 +473,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The coding commons must record stated rationale not only component presence",
-      "value": 27,
+      "value": 29,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -532,12 +559,48 @@
       "shape": "dot"
     },
     {
+      "id": "The heter iska restores the fixed return by evidentiary barrier",
+      "type": "permanent",
+      "group": "seed",
+      "label": "The heter iska restores the fixed return by evidentiary barrier",
+      "value": 23,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
       "id": "The ie as entity-shielding",
       "type": "permanent",
       "group": "stub",
       "label": "The ie as entity-shielding",
       "value": 16,
       "color": "#666666",
+      "shape": "dot"
+    },
+    {
+      "id": "The isqa is Lindy because captive not because robust",
+      "type": "permanent",
+      "group": "seed",
+      "label": "The isqa is Lindy because captive not because robust",
+      "value": 19,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "The isqa refuses the agent's shield",
+      "type": "permanent",
+      "group": "seed",
+      "label": "The isqa refuses the agent's shield",
+      "value": 27,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "The isqa's bifurcation belongs to the Sasanian substrate question",
+      "type": "permanent",
+      "group": "seed",
+      "label": "The isqa's bifurcation belongs to the Sasanian substrate question",
+      "value": 15,
+      "color": "#e6ab02",
       "shape": "dot"
     },
     {
@@ -572,7 +635,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The naties are a six-century Lindy institution",
-      "value": 19,
+      "value": 21,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -599,7 +662,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The qirad's antecedents are Sasanian not Sogdian",
-      "value": 31,
+      "value": 34,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -608,7 +671,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The real cut is shielded-and-pooled versus unshielded",
-      "value": 18,
+      "value": 19,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -653,7 +716,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The western family needs only plausible common descent not proven genealogy",
-      "value": 31,
+      "value": 34,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -662,7 +725,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Time-average optimization is a survivorship property not an intention",
-      "value": 20,
+      "value": 22,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -680,7 +743,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Transmission versus independent recurrence is the load-bearing test",
-      "value": 30,
+      "value": 31,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -698,7 +761,16 @@
       "type": "permanent",
       "group": "stub",
       "label": "commenda",
-      "value": 9,
+      "value": 14,
+      "color": "#666666",
+      "shape": "dot"
+    },
+    {
+      "id": "isqa",
+      "type": "permanent",
+      "group": "stub",
+      "label": "isqa",
+      "value": 23,
       "color": "#666666",
       "shape": "dot"
     },
@@ -707,7 +779,7 @@
       "type": "permanent",
       "group": "stub",
       "label": "limited-liability",
-      "value": 12,
+      "value": 13,
       "color": "#666666",
       "shape": "dot"
     },
@@ -716,7 +788,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - ERC Synergy Grant",
-      "value": 29,
+      "value": 31,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -725,7 +797,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Entity-shielding and corporate forms",
-      "value": 57,
+      "value": 63,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -743,7 +815,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - HistorEE",
-      "value": 141,
+      "value": 157,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -752,7 +824,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Historiography and method",
-      "value": 60,
+      "value": 66,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -761,7 +833,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Islamic contract doctrine",
-      "value": 33,
+      "value": 39,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -770,7 +842,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Risk-sharing vs risk-pricing",
-      "value": 41,
+      "value": 49,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -779,7 +851,7 @@
       "type": "reference",
       "group": "reference",
       "label": "tags",
-      "value": 2,
+      "value": 4,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1536,6 +1608,78 @@
       "to": "The sea loan is a contingent claim not a loan"
     },
     {
+      "from": "Isqa qirad and commenda are a liability-variable triad",
+      "to": "Borrow the diagnostics not the tree"
+    },
+    {
+      "from": "Isqa qirad and commenda are a liability-variable triad",
+      "to": "Galton's problem"
+    },
+    {
+      "from": "Isqa qirad and commenda are a liability-variable triad",
+      "to": "Homoplasy is the finding not the noise"
+    },
+    {
+      "from": "Isqa qirad and commenda are a liability-variable triad",
+      "to": "MOC - Entity-shielding and corporate forms"
+    },
+    {
+      "from": "Isqa qirad and commenda are a liability-variable triad",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Isqa qirad and commenda are a liability-variable triad",
+      "to": "MOC - Historiography and method"
+    },
+    {
+      "from": "Isqa qirad and commenda are a liability-variable triad",
+      "to": "Natie is a false cognate"
+    },
+    {
+      "from": "Isqa qirad and commenda are a liability-variable triad",
+      "to": "Never let the units slide from instruments to populations"
+    },
+    {
+      "from": "Isqa qirad and commenda are a liability-variable triad",
+      "to": "The isqa refuses the agent's shield"
+    },
+    {
+      "from": "Isqa qirad and commenda are a liability-variable triad",
+      "to": "The qirad's antecedents are Sasanian not Sogdian"
+    },
+    {
+      "from": "Isqa qirad and commenda are a liability-variable triad",
+      "to": "The western family needs only plausible common descent not proven genealogy"
+    },
+    {
+      "from": "Isqa qirad and commenda are a liability-variable triad",
+      "to": "commenda"
+    },
+    {
+      "from": "Isqa qirad and commenda are a liability-variable triad",
+      "to": "isqa"
+    },
+    {
+      "from": "Isqa reading list to acquire",
+      "to": "Isqa qirad and commenda are a liability-variable triad"
+    },
+    {
+      "from": "Isqa reading list to acquire",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Isqa reading list to acquire",
+      "to": "The heter iska restores the fixed return by evidentiary barrier"
+    },
+    {
+      "from": "Isqa reading list to acquire",
+      "to": "The isqa refuses the agent's shield"
+    },
+    {
+      "from": "Isqa reading list to acquire",
+      "to": "isqa"
+    },
+    {
       "from": "Jensen gap",
       "to": "Entity-shielding"
     },
@@ -1637,6 +1781,10 @@
     },
     {
       "from": "MOC - ERC Synergy Grant",
+      "to": "The isqa's bifurcation belongs to the Sasanian substrate question"
+    },
+    {
+      "from": "MOC - ERC Synergy Grant",
       "to": "The ortoq is the discriminating instrument"
     },
     {
@@ -1666,6 +1814,10 @@
     {
       "from": "MOC - Entity-shielding and corporate forms",
       "to": "Identity-wrapper and perpetual-monopoly are distinct shielding facets"
+    },
+    {
+      "from": "MOC - Entity-shielding and corporate forms",
+      "to": "Isqa qirad and commenda are a liability-variable triad"
     },
     {
       "from": "MOC - Entity-shielding and corporate forms",
@@ -1726,6 +1878,14 @@
     {
       "from": "MOC - Entity-shielding and corporate forms",
       "to": "The ie as entity-shielding"
+    },
+    {
+      "from": "MOC - Entity-shielding and corporate forms",
+      "to": "The isqa is Lindy because captive not because robust"
+    },
+    {
+      "from": "MOC - Entity-shielding and corporate forms",
+      "to": "The isqa refuses the agent's shield"
     },
     {
       "from": "MOC - Entity-shielding and corporate forms",
@@ -1857,6 +2017,14 @@
     },
     {
       "from": "MOC - HistorEE",
+      "to": "Isqa qirad and commenda are a liability-variable triad"
+    },
+    {
+      "from": "MOC - HistorEE",
+      "to": "Isqa reading list to acquire"
+    },
+    {
+      "from": "MOC - HistorEE",
       "to": "Jensen gap"
     },
     {
@@ -1910,6 +2078,10 @@
     {
       "from": "MOC - HistorEE",
       "to": "Pricing risk does not remove it"
+    },
+    {
+      "from": "MOC - HistorEE",
+      "to": "Ribbit mandates exposure rather than forbidding gain"
     },
     {
       "from": "MOC - HistorEE",
@@ -1973,7 +2145,23 @@
     },
     {
       "from": "MOC - HistorEE",
+      "to": "The heter iska restores the fixed return by evidentiary barrier"
+    },
+    {
+      "from": "MOC - HistorEE",
       "to": "The ie as entity-shielding"
+    },
+    {
+      "from": "MOC - HistorEE",
+      "to": "The isqa is Lindy because captive not because robust"
+    },
+    {
+      "from": "MOC - HistorEE",
+      "to": "The isqa refuses the agent's shield"
+    },
+    {
+      "from": "MOC - HistorEE",
+      "to": "The isqa's bifurcation belongs to the Sasanian substrate question"
     },
     {
       "from": "MOC - HistorEE",
@@ -2024,6 +2212,10 @@
       "to": "Whiggish history of finance names the ascent narrative"
     },
     {
+      "from": "MOC - HistorEE",
+      "to": "isqa"
+    },
+    {
       "from": "MOC - Historiography and method",
       "to": "Borrow the diagnostics not the tree"
     },
@@ -2054,6 +2246,10 @@
     {
       "from": "MOC - Historiography and method",
       "to": "Homoplasy is the finding not the noise"
+    },
+    {
+      "from": "MOC - Historiography and method",
+      "to": "Isqa qirad and commenda are a liability-variable triad"
     },
     {
       "from": "MOC - Historiography and method",
@@ -2098,6 +2294,14 @@
     {
       "from": "MOC - Historiography and method",
       "to": "The durable-and-coupled cell is the underexplored one"
+    },
+    {
+      "from": "MOC - Historiography and method",
+      "to": "The isqa is Lindy because captive not because robust"
+    },
+    {
+      "from": "MOC - Historiography and method",
+      "to": "The isqa's bifurcation belongs to the Sasanian substrate question"
     },
     {
       "from": "MOC - Historiography and method",
@@ -2149,6 +2353,10 @@
     },
     {
       "from": "MOC - Islamic contract doctrine",
+      "to": "Ribbit mandates exposure rather than forbidding gain"
+    },
+    {
+      "from": "MOC - Islamic contract doctrine",
       "to": "Scuttling rewards fraud in the sea loan"
     },
     {
@@ -2158,6 +2366,14 @@
     {
       "from": "MOC - Islamic contract doctrine",
       "to": "The determinate-contingent typology carries the richness"
+    },
+    {
+      "from": "MOC - Islamic contract doctrine",
+      "to": "The heter iska restores the fixed return by evidentiary barrier"
+    },
+    {
+      "from": "MOC - Islamic contract doctrine",
+      "to": "The isqa refuses the agent's shield"
     },
     {
       "from": "MOC - Islamic contract doctrine",
@@ -2178,6 +2394,10 @@
     {
       "from": "MOC - Islamic contract doctrine",
       "to": "The waqf partition converts absence into refusal"
+    },
+    {
+      "from": "MOC - Islamic contract doctrine",
+      "to": "isqa"
     },
     {
       "from": "MOC - Risk-sharing vs risk-pricing",
@@ -2221,6 +2441,10 @@
     },
     {
       "from": "MOC - Risk-sharing vs risk-pricing",
+      "to": "Ribbit mandates exposure rather than forbidding gain"
+    },
+    {
+      "from": "MOC - Risk-sharing vs risk-pricing",
       "to": "Skin in the game"
     },
     {
@@ -2237,6 +2461,14 @@
     },
     {
       "from": "MOC - Risk-sharing vs risk-pricing",
+      "to": "The heter iska restores the fixed return by evidentiary barrier"
+    },
+    {
+      "from": "MOC - Risk-sharing vs risk-pricing",
+      "to": "The isqa refuses the agent's shield"
+    },
+    {
+      "from": "MOC - Risk-sharing vs risk-pricing",
       "to": "The liability principle was demoted from rule to maxim"
     },
     {
@@ -2246,6 +2478,10 @@
     {
       "from": "MOC - Risk-sharing vs risk-pricing",
       "to": "The sea loan is a contingent claim not a loan"
+    },
+    {
+      "from": "MOC - Risk-sharing vs risk-pricing",
+      "to": "isqa"
     },
     {
       "from": "Mare Liberum was a corporate legal weapon",
@@ -2642,6 +2878,50 @@
     {
       "from": "Refusals are observations of the filter not inferences from survivors",
       "to": "Time-average optimization is a survivorship property not an intention"
+    },
+    {
+      "from": "Ribbit mandates exposure rather than forbidding gain",
+      "to": "Absorbing barrier"
+    },
+    {
+      "from": "Ribbit mandates exposure rather than forbidding gain",
+      "to": "Islamic doctrine refuses risk-commodification at step one"
+    },
+    {
+      "from": "Ribbit mandates exposure rather than forbidding gain",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Ribbit mandates exposure rather than forbidding gain",
+      "to": "MOC - Islamic contract doctrine"
+    },
+    {
+      "from": "Ribbit mandates exposure rather than forbidding gain",
+      "to": "MOC - Risk-sharing vs risk-pricing"
+    },
+    {
+      "from": "Ribbit mandates exposure rather than forbidding gain",
+      "to": "Naviganti - Latin Christendom rejected the sea loan too"
+    },
+    {
+      "from": "Ribbit mandates exposure rather than forbidding gain",
+      "to": "Refusals are observations of the filter not inferences from survivors"
+    },
+    {
+      "from": "Ribbit mandates exposure rather than forbidding gain",
+      "to": "The coding commons must record stated rationale not only component presence"
+    },
+    {
+      "from": "Ribbit mandates exposure rather than forbidding gain",
+      "to": "The heter iska restores the fixed return by evidentiary barrier"
+    },
+    {
+      "from": "Ribbit mandates exposure rather than forbidding gain",
+      "to": "The isqa refuses the agent's shield"
+    },
+    {
+      "from": "Ribbit mandates exposure rather than forbidding gain",
+      "to": "isqa"
     },
     {
       "from": "Route Kolmogorov to ergodic theory not the theory of means",
@@ -3380,6 +3660,46 @@
       "to": "limited-liability"
     },
     {
+      "from": "The heter iska restores the fixed return by evidentiary barrier",
+      "to": "Decoupling substitutes proxy legibility for outcome legibility"
+    },
+    {
+      "from": "The heter iska restores the fixed return by evidentiary barrier",
+      "to": "Gharar excludes designed-in unverifiability"
+    },
+    {
+      "from": "The heter iska restores the fixed return by evidentiary barrier",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "The heter iska restores the fixed return by evidentiary barrier",
+      "to": "MOC - Islamic contract doctrine"
+    },
+    {
+      "from": "The heter iska restores the fixed return by evidentiary barrier",
+      "to": "MOC - Risk-sharing vs risk-pricing"
+    },
+    {
+      "from": "The heter iska restores the fixed return by evidentiary barrier",
+      "to": "Outcome-coupling is the condition of legibility"
+    },
+    {
+      "from": "The heter iska restores the fixed return by evidentiary barrier",
+      "to": "Ribbit mandates exposure rather than forbidding gain"
+    },
+    {
+      "from": "The heter iska restores the fixed return by evidentiary barrier",
+      "to": "The amana-daman structure refuses to infer fault from loss"
+    },
+    {
+      "from": "The heter iska restores the fixed return by evidentiary barrier",
+      "to": "The isqa is Lindy because captive not because robust"
+    },
+    {
+      "from": "The heter iska restores the fixed return by evidentiary barrier",
+      "to": "isqa"
+    },
+    {
       "from": "The ie as entity-shielding",
       "to": "Entity-shielding"
     },
@@ -3402,6 +3722,126 @@
     {
       "from": "The ie as entity-shielding",
       "to": "The real cut is shielded-and-pooled versus unshielded"
+    },
+    {
+      "from": "The isqa is Lindy because captive not because robust",
+      "to": "Guard against reverse-teleology"
+    },
+    {
+      "from": "The isqa is Lindy because captive not because robust",
+      "to": "MOC - Entity-shielding and corporate forms"
+    },
+    {
+      "from": "The isqa is Lindy because captive not because robust",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "The isqa is Lindy because captive not because robust",
+      "to": "MOC - Historiography and method"
+    },
+    {
+      "from": "The isqa is Lindy because captive not because robust",
+      "to": "Perpetuity splits into adaptation and petrification"
+    },
+    {
+      "from": "The isqa is Lindy because captive not because robust",
+      "to": "Refusals are observations of the filter not inferences from survivors"
+    },
+    {
+      "from": "The isqa is Lindy because captive not because robust",
+      "to": "The heter iska restores the fixed return by evidentiary barrier"
+    },
+    {
+      "from": "The isqa is Lindy because captive not because robust",
+      "to": "The naties are a six-century Lindy institution"
+    },
+    {
+      "from": "The isqa is Lindy because captive not because robust",
+      "to": "Time-average optimization is a survivorship property not an intention"
+    },
+    {
+      "from": "The isqa is Lindy because captive not because robust",
+      "to": "isqa"
+    },
+    {
+      "from": "The isqa refuses the agent's shield",
+      "to": "Absorbing barrier"
+    },
+    {
+      "from": "The isqa refuses the agent's shield",
+      "to": "Entity-shielding"
+    },
+    {
+      "from": "The isqa refuses the agent's shield",
+      "to": "Isqa qirad and commenda are a liability-variable triad"
+    },
+    {
+      "from": "The isqa refuses the agent's shield",
+      "to": "MOC - Entity-shielding and corporate forms"
+    },
+    {
+      "from": "The isqa refuses the agent's shield",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "The isqa refuses the agent's shield",
+      "to": "MOC - Risk-sharing vs risk-pricing"
+    },
+    {
+      "from": "The isqa refuses the agent's shield",
+      "to": "Skin in the game is asymmetric in the mudaraba"
+    },
+    {
+      "from": "The isqa refuses the agent's shield",
+      "to": "The real cut is shielded-and-pooled versus unshielded"
+    },
+    {
+      "from": "The isqa refuses the agent's shield",
+      "to": "commenda"
+    },
+    {
+      "from": "The isqa refuses the agent's shield",
+      "to": "isqa"
+    },
+    {
+      "from": "The isqa refuses the agent's shield",
+      "to": "limited-liability"
+    },
+    {
+      "from": "The isqa's bifurcation belongs to the Sasanian substrate question",
+      "to": "Isqa qirad and commenda are a liability-variable triad"
+    },
+    {
+      "from": "The isqa's bifurcation belongs to the Sasanian substrate question",
+      "to": "MOC - ERC Synergy Grant"
+    },
+    {
+      "from": "The isqa's bifurcation belongs to the Sasanian substrate question",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "The isqa's bifurcation belongs to the Sasanian substrate question",
+      "to": "MOC - Historiography and method"
+    },
+    {
+      "from": "The isqa's bifurcation belongs to the Sasanian substrate question",
+      "to": "Simonsohn 2016 on East Syrian civil law and the Sasanian substrate"
+    },
+    {
+      "from": "The isqa's bifurcation belongs to the Sasanian substrate question",
+      "to": "The qirad's antecedents are Sasanian not Sogdian"
+    },
+    {
+      "from": "The isqa's bifurcation belongs to the Sasanian substrate question",
+      "to": "The western family needs only plausible common descent not proven genealogy"
+    },
+    {
+      "from": "The isqa's bifurcation belongs to the Sasanian substrate question",
+      "to": "Transmission versus independent recurrence is the load-bearing test"
+    },
+    {
+      "from": "The isqa's bifurcation belongs to the Sasanian substrate question",
+      "to": "isqa"
     },
     {
       "from": "The liability principle was demoted from rule to maxim",
@@ -3912,6 +4352,38 @@
       "to": "limited-liability"
     },
     {
+      "from": "isqa",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "isqa",
+      "to": "MOC - Risk-sharing vs risk-pricing"
+    },
+    {
+      "from": "isqa",
+      "to": "Ribbit mandates exposure rather than forbidding gain"
+    },
+    {
+      "from": "isqa",
+      "to": "Skin in the game"
+    },
+    {
+      "from": "isqa",
+      "to": "Skin in the game is asymmetric in the mudaraba"
+    },
+    {
+      "from": "isqa",
+      "to": "The heter iska restores the fixed return by evidentiary barrier"
+    },
+    {
+      "from": "isqa",
+      "to": "The isqa refuses the agent's shield"
+    },
+    {
+      "from": "isqa",
+      "to": "commenda"
+    },
+    {
       "from": "limited-liability",
       "to": "Entity-shielding"
     },
@@ -3934,6 +4406,14 @@
     {
       "from": "tags",
       "to": "Homoplasy is the finding not the noise"
+    },
+    {
+      "from": "tags",
+      "to": "Ribbit mandates exposure rather than forbidding gain"
+    },
+    {
+      "from": "tags",
+      "to": "The isqa refuses the agent's shield"
     }
   ]
 }
