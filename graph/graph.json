@@ -185,7 +185,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Isqa reading list to acquire",
-      "value": 10,
+      "value": 11,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -491,7 +491,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The deficit reading of absence is the scalar ranking in evidentiary form",
-      "value": 21,
+      "value": 22,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1666,6 +1666,10 @@
     {
       "from": "Isqa reading list to acquire",
       "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Isqa reading list to acquire",
+      "to": "The deficit reading of absence is the scalar ranking in evidentiary form"
     },
     {
       "from": "Isqa reading list to acquire",

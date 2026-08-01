@@ -296,6 +296,7 @@ digraph vault {
   "Isqa qirad and commenda are a liability-variable triad" -> "isqa";
   "Isqa reading list to acquire" -> "Isqa qirad and commenda are a liability-variable triad";
   "Isqa reading list to acquire" -> "MOC - HistorEE";
+  "Isqa reading list to acquire" -> "The deficit reading of absence is the scalar ranking in evidentiary form";
   "Isqa reading list to acquire" -> "The heter iska restores the fixed return by evidentiary barrier";
   "Isqa reading list to acquire" -> "The isqa refuses the agent's shield";
   "Isqa reading list to acquire" -> "isqa";
