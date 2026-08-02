@@ -5,6 +5,7 @@ digraph vault {
   "Borrow the diagnostics not the tree" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Decoupling substitutes proxy legibility for outcome legibility" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Deep-roots variables are symplesiomorphies" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
+  "Desktop and portable capture - CZUR and ScanTent" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
   "Discipline the Whig epithet by pinning it to teleology and survivorship" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Divergent arbitrary particulars are the independence diagnostic" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Economics had its ensemble moment in 1738 and psychologized it" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
@@ -24,6 +25,7 @@ digraph vault {
   "Isqa reading list to acquire" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
   "Jensen gap" [fillcolor="#666666", fontcolor=white, shape=ellipse];
   "Kuran's brake is a refusal of immortal entities" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
+  "Kuzushiji OCR - the NDL and CODH stack" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
   "Legal violence is the weapon of the militarily insufficient" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Lock-in and outcome-coupling are distinct bindings" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Mare Liberum was a corporate legal weapon" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
@@ -33,13 +35,16 @@ digraph vault {
   "Never let the units slide from instruments to populations" [fillcolor="#666666", fontcolor=white, shape=ellipse];
   "Non-ergodicity collapses the likelihood ratio on outcomes" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Olivares's junta coded the asiento as a privileged company" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
+  "Open-source HTR stack - eScriptorium Kraken Loghi" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
   "Outcome-coupling is the condition of legibility" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Perpetuity splits into adaptation and petrification" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Persona ficta made the corporation a-moral ab initio" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Pooling's sign is set by the correlation of its baskets" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
+  "Preservation-grade overhead scanners - Zeutschel and i2S" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
   "Pricing risk does not remove it" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Refusals are observations of the filter not inferences from survivors" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Ribbit mandates exposure rather than forbidding gain" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
+  "Robotic V-cradle book scanners - Treventus and Qidenus" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
   "Route Kolmogorov to ergodic theory not the theory of means" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Scuttling rewards fraud in the sea loan" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Selection frequency trades against organizational memory" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
@@ -83,11 +88,13 @@ digraph vault {
   "The western family needs only plausible common descent not proven genealogy" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Time-average optimization is a survivorship property not an intention" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Time-average" [fillcolor="#666666", fontcolor=white, shape=ellipse];
+  "Transkribus - managed HTR platform" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
   "Transmission versus independent recurrence is the load-bearing test" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Whiggish history of finance names the ascent narrative" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "commenda" [fillcolor="#666666", fontcolor=white, shape=ellipse];
   "isqa" [fillcolor="#666666", fontcolor=white, shape=ellipse];
   "limited-liability" [fillcolor="#666666", fontcolor=white, shape=ellipse];
+  "MOC - Digitisation and text recognition" [fillcolor="#d95f02", fontcolor=white, shape=ellipse];
   "MOC - ERC Synergy Grant" [fillcolor="#d95f02", fontcolor=white, shape=ellipse];
   "MOC - Entity-shielding and corporate forms" [fillcolor="#d95f02", fontcolor=white, shape=ellipse];
   "MOC - Ergodicity and the time-ensemble distinction" [fillcolor="#d95f02", fontcolor=white, shape=ellipse];
@@ -147,6 +154,11 @@ digraph vault {
   "Deep-roots variables are symplesiomorphies" -> "The waqf partition converts absence into refusal";
   "Deep-roots variables are symplesiomorphies" -> "Time-average optimization is a survivorship property not an intention";
   "Deep-roots variables are symplesiomorphies" -> "Transmission versus independent recurrence is the load-bearing test";
+  "Desktop and portable capture - CZUR and ScanTent" -> "Kuzushiji OCR - the NDL and CODH stack";
+  "Desktop and portable capture - CZUR and ScanTent" -> "MOC - Digitisation and text recognition";
+  "Desktop and portable capture - CZUR and ScanTent" -> "Preservation-grade overhead scanners - Zeutschel and i2S";
+  "Desktop and portable capture - CZUR and ScanTent" -> "Robotic V-cradle book scanners - Treventus and Qidenus";
+  "Desktop and portable capture - CZUR and ScanTent" -> "Transkribus - managed HTR platform";
   "Discipline the Whig epithet by pinning it to teleology and survivorship" -> "Guard against reverse-teleology";
   "Discipline the Whig epithet by pinning it to teleology and survivorship" -> "MOC - HistorEE";
   "Discipline the Whig epithet by pinning it to teleology and survivorship" -> "MOC - Historiography and method";
@@ -310,6 +322,9 @@ digraph vault {
   "Kuran's brake is a refusal of immortal entities" -> "MOC - Historiography and method";
   "Kuran's brake is a refusal of immortal entities" -> "The ascent narrative is the Jensen error as historiography";
   "Kuran's brake is a refusal of immortal entities" -> "The mudaraba is revocable not locked in";
+  "Kuzushiji OCR - the NDL and CODH stack" -> "MOC - Digitisation and text recognition";
+  "Kuzushiji OCR - the NDL and CODH stack" -> "Open-source HTR stack - eScriptorium Kraken Loghi";
+  "Kuzushiji OCR - the NDL and CODH stack" -> "Transkribus - managed HTR platform";
   "Legal violence is the weapon of the militarily insufficient" -> "Entity-shielding";
   "Legal violence is the weapon of the militarily insufficient" -> "MOC - Entity-shielding and corporate forms";
   "Legal violence is the weapon of the militarily insufficient" -> "MOC - HistorEE";
@@ -321,6 +336,12 @@ digraph vault {
   "Lock-in and outcome-coupling are distinct bindings" -> "Skin in the game is asymmetric in the mudaraba";
   "Lock-in and outcome-coupling are distinct bindings" -> "The four-step decoupling from participation to the veil";
   "Lock-in and outcome-coupling are distinct bindings" -> "The mudaraba is revocable not locked in";
+  "MOC - Digitisation and text recognition" -> "Desktop and portable capture - CZUR and ScanTent";
+  "MOC - Digitisation and text recognition" -> "Kuzushiji OCR - the NDL and CODH stack";
+  "MOC - Digitisation and text recognition" -> "Open-source HTR stack - eScriptorium Kraken Loghi";
+  "MOC - Digitisation and text recognition" -> "Preservation-grade overhead scanners - Zeutschel and i2S";
+  "MOC - Digitisation and text recognition" -> "Robotic V-cradle book scanners - Treventus and Qidenus";
+  "MOC - Digitisation and text recognition" -> "Transkribus - managed HTR platform";
   "MOC - ERC Synergy Grant" -> "MOC - HistorEE";
   "MOC - ERC Synergy Grant" -> "MOC - Historiography and method";
   "MOC - ERC Synergy Grant" -> "MOC - Islamic contract doctrine";
@@ -557,6 +578,9 @@ digraph vault {
   "Olivares's junta coded the asiento as a privileged company" -> "The deficit reading of absence is the scalar ranking in evidentiary form";
   "Olivares's junta coded the asiento as a privileged company" -> "The depersonalised share was produced by honour not by pooling logic";
   "Olivares's junta coded the asiento as a privileged company" -> "Transmission versus independent recurrence is the load-bearing test";
+  "Open-source HTR stack - eScriptorium Kraken Loghi" -> "Kuzushiji OCR - the NDL and CODH stack";
+  "Open-source HTR stack - eScriptorium Kraken Loghi" -> "MOC - Digitisation and text recognition";
+  "Open-source HTR stack - eScriptorium Kraken Loghi" -> "Transkribus - managed HTR platform";
   "Outcome-coupling is the condition of legibility" -> "Entitlement by liability versus entitlement by membership";
   "Outcome-coupling is the condition of legibility" -> "Lock-in and outcome-coupling are distinct bindings";
   "Outcome-coupling is the condition of legibility" -> "MOC - HistorEE";
@@ -586,6 +610,9 @@ digraph vault {
   "Pooling's sign is set by the correlation of its baskets" -> "The Fugger diversified activity while concentrating the barrier";
   "Pooling's sign is set by the correlation of its baskets" -> "The real cut is shielded-and-pooled versus unshielded";
   "Pooling's sign is set by the correlation of its baskets" -> "Time-average";
+  "Preservation-grade overhead scanners - Zeutschel and i2S" -> "Desktop and portable capture - CZUR and ScanTent";
+  "Preservation-grade overhead scanners - Zeutschel and i2S" -> "MOC - Digitisation and text recognition";
+  "Preservation-grade overhead scanners - Zeutschel and i2S" -> "Robotic V-cradle book scanners - Treventus and Qidenus";
   "Pricing risk does not remove it" -> "Absorbing barrier";
   "Pricing risk does not remove it" -> "Jensen gap";
   "Pricing risk does not remove it" -> "MOC - Ergodicity and the time-ensemble distinction";
@@ -611,6 +638,9 @@ digraph vault {
   "Ribbit mandates exposure rather than forbidding gain" -> "The heter iska restores the fixed return by evidentiary barrier";
   "Ribbit mandates exposure rather than forbidding gain" -> "The isqa refuses the agent's shield";
   "Ribbit mandates exposure rather than forbidding gain" -> "isqa";
+  "Robotic V-cradle book scanners - Treventus and Qidenus" -> "Desktop and portable capture - CZUR and ScanTent";
+  "Robotic V-cradle book scanners - Treventus and Qidenus" -> "MOC - Digitisation and text recognition";
+  "Robotic V-cradle book scanners - Treventus and Qidenus" -> "Preservation-grade overhead scanners - Zeutschel and i2S";
   "Route Kolmogorov to ergodic theory not the theory of means" -> "Economics had its ensemble moment in 1738 and psychologized it";
   "Route Kolmogorov to ergodic theory not the theory of means" -> "MOC - Ergodicity and the time-ensemble distinction";
   "Route Kolmogorov to ergodic theory not the theory of means" -> "MOC - HistorEE";
@@ -953,6 +983,10 @@ digraph vault {
   "Time-average optimization is a survivorship property not an intention" -> "Skin in the game";
   "Time-average optimization is a survivorship property not an intention" -> "The real cut is shielded-and-pooled versus unshielded";
   "Time-average optimization is a survivorship property not an intention" -> "Time-average";
+  "Transkribus - managed HTR platform" -> "Desktop and portable capture - CZUR and ScanTent";
+  "Transkribus - managed HTR platform" -> "Kuzushiji OCR - the NDL and CODH stack";
+  "Transkribus - managed HTR platform" -> "MOC - Digitisation and text recognition";
+  "Transkribus - managed HTR platform" -> "Open-source HTR stack - eScriptorium Kraken Loghi";
   "Transmission versus independent recurrence is the load-bearing test" -> "MOC - ERC Synergy Grant";
   "Transmission versus independent recurrence is the load-bearing test" -> "MOC - HistorEE";
   "Transmission versus independent recurrence is the load-bearing test" -> "MOC - Historiography and method";
@@ -982,6 +1016,7 @@ digraph vault {
   "limited-liability" -> "MOC - HistorEE";
   "limited-liability" -> "The fraterna and compagnia diverge in formation but converge at the barrier";
   "tags" -> "Homoplasy is the finding not the noise";
+  "tags" -> "MOC - Digitisation and text recognition";
   "tags" -> "Ribbit mandates exposure rather than forbidding gain";
   "tags" -> "The isqa refuses the agent's shield";
 }
