@@ -3,6 +3,7 @@ digraph vault {
   node [style=filled, fontname="Helvetica", shape=ellipse];
   "Absorbing barrier" [fillcolor="#666666", fontcolor=white, shape=ellipse];
   "Borrow the diagnostics not the tree" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
+  "Count degrees of freedom not cells" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Decoupling substitutes proxy legibility for outcome legibility" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Deep-roots variables are symplesiomorphies" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Desktop and portable capture - CZUR and ScanTent" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
@@ -128,6 +129,16 @@ digraph vault {
   "Borrow the diagnostics not the tree" -> "The qirad's antecedents are Sasanian not Sogdian";
   "Borrow the diagnostics not the tree" -> "The western family needs only plausible common descent not proven genealogy";
   "Borrow the diagnostics not the tree" -> "Transmission versus independent recurrence is the load-bearing test";
+  "Count degrees of freedom not cells" -> "Borrow the diagnostics not the tree";
+  "Count degrees of freedom not cells" -> "Divergent arbitrary particulars are the independence diagnostic";
+  "Count degrees of freedom not cells" -> "Homoplasy is the finding not the noise";
+  "Count degrees of freedom not cells" -> "Isqa qirad and commenda are a liability-variable triad";
+  "Count degrees of freedom not cells" -> "MOC - HistorEE";
+  "Count degrees of freedom not cells" -> "MOC - Historiography and method";
+  "Count degrees of freedom not cells" -> "Skin in the game is asymmetric in the mudaraba";
+  "Count degrees of freedom not cells" -> "The coding commons must record stated rationale not only component presence";
+  "Count degrees of freedom not cells" -> "The morphological matrix is dictated by the shape of the feature space";
+  "Count degrees of freedom not cells" -> "organizational_forms";
   "Decoupling substitutes proxy legibility for outcome legibility" -> "MOC - Entity-shielding and corporate forms";
   "Decoupling substitutes proxy legibility for outcome legibility" -> "MOC - HistorEE";
   "Decoupling substitutes proxy legibility for outcome legibility" -> "MOC - Risk-sharing vs risk-pricing";
@@ -396,6 +407,7 @@ digraph vault {
   "MOC - Ergodicity and the time-ensemble distinction" -> "Time-average";
   "MOC - Ergodicity and the time-ensemble distinction" -> "Time-average optimization is a survivorship property not an intention";
   "MOC - HistorEE" -> "Absorbing barrier";
+  "MOC - HistorEE" -> "Count degrees of freedom not cells";
   "MOC - HistorEE" -> "Discipline the Whig epithet by pinning it to teleology and survivorship";
   "MOC - HistorEE" -> "Divergent arbitrary particulars are the independence diagnostic";
   "MOC - HistorEE" -> "Economics had its ensemble moment in 1738 and psychologized it";
@@ -460,6 +472,7 @@ digraph vault {
   "MOC - HistorEE" -> "Whiggish history of finance names the ascent narrative";
   "MOC - HistorEE" -> "isqa";
   "MOC - Historiography and method" -> "Borrow the diagnostics not the tree";
+  "MOC - Historiography and method" -> "Count degrees of freedom not cells";
   "MOC - Historiography and method" -> "Deep-roots variables are symplesiomorphies";
   "MOC - Historiography and method" -> "Discipline the Whig epithet by pinning it to teleology and survivorship";
   "MOC - Historiography and method" -> "Divergent arbitrary particulars are the independence diagnostic";

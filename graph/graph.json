@@ -14,7 +14,16 @@
       "type": "permanent",
       "group": "seed",
       "label": "Borrow the diagnostics not the tree",
-      "value": 33,
+      "value": 35,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "Count degrees of freedom not cells",
+      "type": "permanent",
+      "group": "seed",
+      "label": "Count degrees of freedom not cells",
+      "value": 16,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -59,7 +68,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Divergent arbitrary particulars are the independence diagnostic",
-      "value": 32,
+      "value": 33,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -149,7 +158,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Homoplasy is the finding not the noise",
-      "value": 58,
+      "value": 59,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -185,7 +194,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Isqa qirad and commenda are a liability-variable triad",
-      "value": 25,
+      "value": 26,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -446,7 +455,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Skin in the game is asymmetric in the mudaraba",
-      "value": 26,
+      "value": 28,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -518,7 +527,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The coding commons must record stated rationale not only component presence",
-      "value": 31,
+      "value": 32,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -662,7 +671,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The morphological matrix is dictated by the shape of the feature space",
-      "value": 26,
+      "value": 28,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -887,7 +896,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - HistorEE",
-      "value": 159,
+      "value": 161,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -896,7 +905,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Historiography and method",
-      "value": 68,
+      "value": 70,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -932,7 +941,7 @@
       "type": "database",
       "group": "database",
       "label": "organizational_forms",
-      "value": 6,
+      "value": 7,
       "color": "#a6761d",
       "shape": "database"
     },
@@ -1034,6 +1043,46 @@
     {
       "from": "Borrow the diagnostics not the tree",
       "to": "Transmission versus independent recurrence is the load-bearing test"
+    },
+    {
+      "from": "Count degrees of freedom not cells",
+      "to": "Borrow the diagnostics not the tree"
+    },
+    {
+      "from": "Count degrees of freedom not cells",
+      "to": "Divergent arbitrary particulars are the independence diagnostic"
+    },
+    {
+      "from": "Count degrees of freedom not cells",
+      "to": "Homoplasy is the finding not the noise"
+    },
+    {
+      "from": "Count degrees of freedom not cells",
+      "to": "Isqa qirad and commenda are a liability-variable triad"
+    },
+    {
+      "from": "Count degrees of freedom not cells",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Count degrees of freedom not cells",
+      "to": "MOC - Historiography and method"
+    },
+    {
+      "from": "Count degrees of freedom not cells",
+      "to": "Skin in the game is asymmetric in the mudaraba"
+    },
+    {
+      "from": "Count degrees of freedom not cells",
+      "to": "The coding commons must record stated rationale not only component presence"
+    },
+    {
+      "from": "Count degrees of freedom not cells",
+      "to": "The morphological matrix is dictated by the shape of the feature space"
+    },
+    {
+      "from": "Count degrees of freedom not cells",
+      "to": "organizational_forms"
     },
     {
       "from": "Decoupling substitutes proxy legibility for outcome legibility",
@@ -2109,6 +2158,10 @@
     },
     {
       "from": "MOC - HistorEE",
+      "to": "Count degrees of freedom not cells"
+    },
+    {
+      "from": "MOC - HistorEE",
       "to": "Discipline the Whig epithet by pinning it to teleology and survivorship"
     },
     {
@@ -2362,6 +2415,10 @@
     {
       "from": "MOC - Historiography and method",
       "to": "Borrow the diagnostics not the tree"
+    },
+    {
+      "from": "MOC - Historiography and method",
+      "to": "Count degrees of freedom not cells"
     },
     {
       "from": "MOC - Historiography and method",
