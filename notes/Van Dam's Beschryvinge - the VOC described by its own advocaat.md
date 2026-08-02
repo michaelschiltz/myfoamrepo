@@ -1,7 +1,7 @@
 ---
 title: Van Dam's Beschryvinge - the VOC described by its own advocaat
 type: source
-tags: [voc, primary-source, dutch, entity-shielding, corporate-form, stated-rationale, digital-edition, huygens, verification]
+tags: [entity-shielding, corporate-form, capital-lock-in, joint-stock, charter, coding-ontology, legal-consciousness, historiography, verification]
 project: HistorEE
 source-session: voc-pillar
 created: 2026-08-02
