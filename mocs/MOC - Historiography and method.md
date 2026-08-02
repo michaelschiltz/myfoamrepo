@@ -42,6 +42,7 @@ Thematic hub for the project's methodological guardrails: teleology and its inve
 - [[The isqa is Lindy because captive not because robust]]
 - [[Count degrees of freedom not cells]]
 - [[Typology and character coding literature]]
+- [[The Roman universitas makes the JSC case parallelism not convergence]]
 - [[Van Dam's Beschryvinge - the VOC described by its own advocaat]]
 
 ## Links

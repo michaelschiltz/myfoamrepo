@@ -23,6 +23,7 @@ The Part 2 WP1 session's *ideas* are written as atomic notes (below) and kept un
 ## Leads
 
 - [[The isqa's bifurcation belongs to the Sasanian substrate question]] — the rabbinic route as the least-cost place to run the *Leitfehler* test the *qirāḍ* genealogy turns on, and a stronger approach to Macuch than the Islamic leg alone.
+- [[The Roman universitas makes the JSC case parallelism not convergence]] — a named, published convergence claim that fails its own cladistic test, with the counter-evidence assembled by its own authors. The strongest available demonstration that the intra-western comparison cannot carry the independence argument, which is the premise of the East Asia / western-cluster design.
 
 ## Links
 

@@ -91,6 +91,7 @@ Project hub for the book. Atomic notes hang off both this project MOC and a them
 - [[The isqa is Lindy because captive not because robust]]
 - [[Count degrees of freedom not cells]]
 - [[Typology and character coding literature]]
+- [[The Roman universitas makes the JSC case parallelism not convergence]]
 - [[Isqa reading list to acquire]]
 
 ## Notes — VOC pillar session
