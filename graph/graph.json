@@ -14,7 +14,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Borrow the diagnostics not the tree",
-      "value": 35,
+      "value": 36,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -23,7 +23,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Count degrees of freedom not cells",
-      "value": 16,
+      "value": 19,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -113,7 +113,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Galton's problem",
-      "value": 35,
+      "value": 37,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -158,7 +158,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Homoplasy is the finding not the noise",
-      "value": 59,
+      "value": 60,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -293,7 +293,7 @@
       "type": "permanent",
       "group": "stub",
       "label": "Never let the units slide from instruments to populations",
-      "value": 24,
+      "value": 25,
       "color": "#666666",
       "shape": "dot"
     },
@@ -527,7 +527,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The coding commons must record stated rationale not only component presence",
-      "value": 32,
+      "value": 33,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -671,7 +671,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The morphological matrix is dictated by the shape of the feature space",
-      "value": 28,
+      "value": 29,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -811,6 +811,15 @@
       "shape": "dot"
     },
     {
+      "id": "Typology and character coding literature",
+      "type": "reference",
+      "group": "reference",
+      "label": "Typology and character coding literature",
+      "value": 17,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
       "id": "Van Dam's Beschryvinge - the VOC described by its own advocaat",
       "type": "source",
       "group": "source",
@@ -896,7 +905,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - HistorEE",
-      "value": 161,
+      "value": 163,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -905,7 +914,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Historiography and method",
-      "value": 70,
+      "value": 72,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -932,7 +941,7 @@
       "type": "reference",
       "group": "reference",
       "label": "tags",
-      "value": 5,
+      "value": 6,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -941,7 +950,7 @@
       "type": "database",
       "group": "database",
       "label": "organizational_forms",
-      "value": 7,
+      "value": 8,
       "color": "#a6761d",
       "shape": "database"
     },
@@ -1079,6 +1088,10 @@
     {
       "from": "Count degrees of freedom not cells",
       "to": "The morphological matrix is dictated by the shape of the feature space"
+    },
+    {
+      "from": "Count degrees of freedom not cells",
+      "to": "Typology and character coding literature"
     },
     {
       "from": "Count degrees of freedom not cells",
@@ -2402,6 +2415,10 @@
     },
     {
       "from": "MOC - HistorEE",
+      "to": "Typology and character coding literature"
+    },
+    {
+      "from": "MOC - HistorEE",
       "to": "Van Dam's Beschryvinge - the VOC described by its own advocaat"
     },
     {
@@ -2527,6 +2544,10 @@
     {
       "from": "MOC - Historiography and method",
       "to": "Transmission versus independent recurrence is the load-bearing test"
+    },
+    {
+      "from": "MOC - Historiography and method",
+      "to": "Typology and character coding literature"
     },
     {
       "from": "MOC - Historiography and method",
@@ -4585,6 +4606,46 @@
       "to": "The qirad's antecedents are Sasanian not Sogdian"
     },
     {
+      "from": "Typology and character coding literature",
+      "to": "Borrow the diagnostics not the tree"
+    },
+    {
+      "from": "Typology and character coding literature",
+      "to": "Count degrees of freedom not cells"
+    },
+    {
+      "from": "Typology and character coding literature",
+      "to": "Galton's problem"
+    },
+    {
+      "from": "Typology and character coding literature",
+      "to": "Homoplasy is the finding not the noise"
+    },
+    {
+      "from": "Typology and character coding literature",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Typology and character coding literature",
+      "to": "MOC - Historiography and method"
+    },
+    {
+      "from": "Typology and character coding literature",
+      "to": "Never let the units slide from instruments to populations"
+    },
+    {
+      "from": "Typology and character coding literature",
+      "to": "The coding commons must record stated rationale not only component presence"
+    },
+    {
+      "from": "Typology and character coding literature",
+      "to": "The morphological matrix is dictated by the shape of the feature space"
+    },
+    {
+      "from": "Typology and character coding literature",
+      "to": "organizational_forms"
+    },
+    {
       "from": "Van Dam's Beschryvinge - the VOC described by its own advocaat",
       "to": "Entity-shielding"
     },
@@ -4747,6 +4808,10 @@
     {
       "from": "tags",
       "to": "The isqa refuses the agent's shield"
+    },
+    {
+      "from": "tags",
+      "to": "Typology and character coding literature"
     }
   ]
 }

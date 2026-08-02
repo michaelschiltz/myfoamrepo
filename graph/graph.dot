@@ -91,6 +91,7 @@ digraph vault {
   "Time-average" [fillcolor="#666666", fontcolor=white, shape=ellipse];
   "Transkribus - managed HTR platform" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
   "Transmission versus independent recurrence is the load-bearing test" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
+  "Typology and character coding literature" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
   "Van Dam's Beschryvinge - the VOC described by its own advocaat" [fillcolor="#7570b3", fontcolor=white, shape=ellipse];
   "Whiggish history of finance names the ascent narrative" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "commenda" [fillcolor="#666666", fontcolor=white, shape=ellipse];
@@ -138,6 +139,7 @@ digraph vault {
   "Count degrees of freedom not cells" -> "Skin in the game is asymmetric in the mudaraba";
   "Count degrees of freedom not cells" -> "The coding commons must record stated rationale not only component presence";
   "Count degrees of freedom not cells" -> "The morphological matrix is dictated by the shape of the feature space";
+  "Count degrees of freedom not cells" -> "Typology and character coding literature";
   "Count degrees of freedom not cells" -> "organizational_forms";
   "Decoupling substitutes proxy legibility for outcome legibility" -> "MOC - Entity-shielding and corporate forms";
   "Decoupling substitutes proxy legibility for outcome legibility" -> "MOC - HistorEE";
@@ -468,6 +470,7 @@ digraph vault {
   "MOC - HistorEE" -> "Time-average";
   "MOC - HistorEE" -> "Time-average optimization is a survivorship property not an intention";
   "MOC - HistorEE" -> "Transmission versus independent recurrence is the load-bearing test";
+  "MOC - HistorEE" -> "Typology and character coding literature";
   "MOC - HistorEE" -> "Van Dam's Beschryvinge - the VOC described by its own advocaat";
   "MOC - HistorEE" -> "Whiggish history of finance names the ascent narrative";
   "MOC - HistorEE" -> "isqa";
@@ -500,6 +503,7 @@ digraph vault {
   "MOC - Historiography and method" -> "The qirad's antecedents are Sasanian not Sogdian";
   "MOC - Historiography and method" -> "The theory predicts recurrence not independent origins";
   "MOC - Historiography and method" -> "Transmission versus independent recurrence is the load-bearing test";
+  "MOC - Historiography and method" -> "Typology and character coding literature";
   "MOC - Historiography and method" -> "Van Dam's Beschryvinge - the VOC described by its own advocaat";
   "MOC - Historiography and method" -> "Whiggish history of finance names the ascent narrative";
   "MOC - Islamic contract doctrine" -> "Entitlement by liability versus entitlement by membership";
@@ -1014,6 +1018,16 @@ digraph vault {
   "Transmission versus independent recurrence is the load-bearing test" -> "Natie and kabu-nakama are a convergence pair";
   "Transmission versus independent recurrence is the load-bearing test" -> "The ortoq is the discriminating instrument";
   "Transmission versus independent recurrence is the load-bearing test" -> "The qirad's antecedents are Sasanian not Sogdian";
+  "Typology and character coding literature" -> "Borrow the diagnostics not the tree";
+  "Typology and character coding literature" -> "Count degrees of freedom not cells";
+  "Typology and character coding literature" -> "Galton's problem";
+  "Typology and character coding literature" -> "Homoplasy is the finding not the noise";
+  "Typology and character coding literature" -> "MOC - HistorEE";
+  "Typology and character coding literature" -> "MOC - Historiography and method";
+  "Typology and character coding literature" -> "Never let the units slide from instruments to populations";
+  "Typology and character coding literature" -> "The coding commons must record stated rationale not only component presence";
+  "Typology and character coding literature" -> "The morphological matrix is dictated by the shape of the feature space";
+  "Typology and character coding literature" -> "organizational_forms";
   "Van Dam's Beschryvinge - the VOC described by its own advocaat" -> "Entity-shielding";
   "Van Dam's Beschryvinge - the VOC described by its own advocaat" -> "Guard against reverse-teleology";
   "Van Dam's Beschryvinge - the VOC described by its own advocaat" -> "Lock-in and outcome-coupling are distinct bindings";
@@ -1055,4 +1069,5 @@ digraph vault {
   "tags" -> "MOC - Digitisation and text recognition";
   "tags" -> "Ribbit mandates exposure rather than forbidding gain";
   "tags" -> "The isqa refuses the agent's shield";
+  "tags" -> "Typology and character coding literature";
 }
