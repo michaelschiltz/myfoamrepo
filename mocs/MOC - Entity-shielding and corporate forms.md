@@ -37,6 +37,7 @@ Thematic hub for the corporate-form apparatus: asset-partitioning, identity-wrap
 - [[The isqa refuses the agent's shield]]
 - [[Isqa qirad and commenda are a liability-variable triad]]
 - [[The isqa is Lindy because captive not because robust]]
+- [[Van Dam's Beschryvinge - the VOC described by its own advocaat]]
 
 ## Links
 

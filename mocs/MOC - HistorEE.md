@@ -91,6 +91,10 @@ Project hub for the book. Atomic notes hang off both this project MOC and a them
 - [[The isqa is Lindy because captive not because robust]]
 - [[Isqa reading list to acquire]]
 
+## Notes — VOC pillar session
+
+- [[Van Dam's Beschryvinge - the VOC described by its own advocaat]]
+
 ## Concept anchors
 
 - [[Absorbing barrier]]
