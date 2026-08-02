@@ -90,6 +90,7 @@ digraph vault {
   "Time-average" [fillcolor="#666666", fontcolor=white, shape=ellipse];
   "Transkribus - managed HTR platform" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
   "Transmission versus independent recurrence is the load-bearing test" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
+  "Van Dam's Beschryvinge - the VOC described by its own advocaat" [fillcolor="#7570b3", fontcolor=white, shape=ellipse];
   "Whiggish history of finance names the ascent narrative" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "commenda" [fillcolor="#666666", fontcolor=white, shape=ellipse];
   "isqa" [fillcolor="#666666", fontcolor=white, shape=ellipse];
@@ -377,6 +378,7 @@ digraph vault {
   "MOC - Entity-shielding and corporate forms" -> "The real cut is shielded-and-pooled versus unshielded";
   "MOC - Entity-shielding and corporate forms" -> "The waqf and the nación flamenca diverge only at legal personality";
   "MOC - Entity-shielding and corporate forms" -> "The waqf partition converts absence into refusal";
+  "MOC - Entity-shielding and corporate forms" -> "Van Dam's Beschryvinge - the VOC described by its own advocaat";
   "MOC - Ergodicity and the time-ensemble distinction" -> "Absorbing barrier";
   "MOC - Ergodicity and the time-ensemble distinction" -> "Deep-roots variables are symplesiomorphies";
   "MOC - Ergodicity and the time-ensemble distinction" -> "Economics had its ensemble moment in 1738 and psychologized it";
@@ -453,6 +455,7 @@ digraph vault {
   "MOC - HistorEE" -> "Time-average";
   "MOC - HistorEE" -> "Time-average optimization is a survivorship property not an intention";
   "MOC - HistorEE" -> "Transmission versus independent recurrence is the load-bearing test";
+  "MOC - HistorEE" -> "Van Dam's Beschryvinge - the VOC described by its own advocaat";
   "MOC - HistorEE" -> "Whiggish history of finance names the ascent narrative";
   "MOC - HistorEE" -> "isqa";
   "MOC - Historiography and method" -> "Borrow the diagnostics not the tree";
@@ -483,6 +486,7 @@ digraph vault {
   "MOC - Historiography and method" -> "The qirad's antecedents are Sasanian not Sogdian";
   "MOC - Historiography and method" -> "The theory predicts recurrence not independent origins";
   "MOC - Historiography and method" -> "Transmission versus independent recurrence is the load-bearing test";
+  "MOC - Historiography and method" -> "Van Dam's Beschryvinge - the VOC described by its own advocaat";
   "MOC - Historiography and method" -> "Whiggish history of finance names the ascent narrative";
   "MOC - Islamic contract doctrine" -> "Entitlement by liability versus entitlement by membership";
   "MOC - Islamic contract doctrine" -> "Islamic doctrine refuses risk-commodification at step one";
@@ -993,6 +997,21 @@ digraph vault {
   "Transmission versus independent recurrence is the load-bearing test" -> "Natie and kabu-nakama are a convergence pair";
   "Transmission versus independent recurrence is the load-bearing test" -> "The ortoq is the discriminating instrument";
   "Transmission versus independent recurrence is the load-bearing test" -> "The qirad's antecedents are Sasanian not Sogdian";
+  "Van Dam's Beschryvinge - the VOC described by its own advocaat" -> "Entity-shielding";
+  "Van Dam's Beschryvinge - the VOC described by its own advocaat" -> "Guard against reverse-teleology";
+  "Van Dam's Beschryvinge - the VOC described by its own advocaat" -> "Lock-in and outcome-coupling are distinct bindings";
+  "Van Dam's Beschryvinge - the VOC described by its own advocaat" -> "MOC - Entity-shielding and corporate forms";
+  "Van Dam's Beschryvinge - the VOC described by its own advocaat" -> "MOC - HistorEE";
+  "Van Dam's Beschryvinge - the VOC described by its own advocaat" -> "MOC - Historiography and method";
+  "Van Dam's Beschryvinge - the VOC described by its own advocaat" -> "Mare Liberum was a corporate legal weapon";
+  "Van Dam's Beschryvinge - the VOC described by its own advocaat" -> "Perpetuity splits into adaptation and petrification";
+  "Van Dam's Beschryvinge - the VOC described by its own advocaat" -> "Refusals are observations of the filter not inferences from survivors";
+  "Van Dam's Beschryvinge - the VOC described by its own advocaat" -> "The ascent narrative is the Jensen error as historiography";
+  "Van Dam's Beschryvinge - the VOC described by its own advocaat" -> "The coding commons must record stated rationale not only component presence";
+  "Van Dam's Beschryvinge - the VOC described by its own advocaat" -> "The deficit reading of absence is the scalar ranking in evidentiary form";
+  "Van Dam's Beschryvinge - the VOC described by its own advocaat" -> "The depersonalised share was produced by honour not by pooling logic";
+  "Van Dam's Beschryvinge - the VOC described by its own advocaat" -> "The four-step decoupling from participation to the veil";
+  "Van Dam's Beschryvinge - the VOC described by its own advocaat" -> "Transkribus - managed HTR platform";
   "Whiggish history of finance names the ascent narrative" -> "Discipline the Whig epithet by pinning it to teleology and survivorship";
   "Whiggish history of finance names the ascent narrative" -> "MOC - HistorEE";
   "Whiggish history of finance names the ascent narrative" -> "MOC - Historiography and method";
