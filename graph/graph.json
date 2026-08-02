@@ -23,7 +23,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Count degrees of freedom not cells",
-      "value": 19,
+      "value": 20,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -68,7 +68,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Divergent arbitrary particulars are the independence diagnostic",
-      "value": 33,
+      "value": 34,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -158,7 +158,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Homoplasy is the finding not the noise",
-      "value": 60,
+      "value": 62,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -293,7 +293,7 @@
       "type": "permanent",
       "group": "stub",
       "label": "Never let the units slide from instruments to populations",
-      "value": 25,
+      "value": 27,
       "color": "#666666",
       "shape": "dot"
     },
@@ -473,7 +473,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Split provenance into priority and independence",
-      "value": 20,
+      "value": 21,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -483,6 +483,15 @@
       "group": "seed",
       "label": "The Fugger diversified activity while concentrating the barrier",
       "value": 16,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "The Roman universitas makes the JSC case parallelism not convergence",
+      "type": "permanent",
+      "group": "seed",
+      "label": "The Roman universitas makes the JSC case parallelism not convergence",
+      "value": 23,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -716,7 +725,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The qirad's antecedents are Sasanian not Sogdian",
-      "value": 34,
+      "value": 36,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -743,7 +752,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The theory predicts recurrence not independent origins",
-      "value": 27,
+      "value": 28,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -770,7 +779,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The western family needs only plausible common descent not proven genealogy",
-      "value": 34,
+      "value": 36,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -806,7 +815,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Transmission versus independent recurrence is the load-bearing test",
-      "value": 31,
+      "value": 33,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -878,7 +887,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - ERC Synergy Grant",
-      "value": 31,
+      "value": 33,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -887,7 +896,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Entity-shielding and corporate forms",
-      "value": 65,
+      "value": 67,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -905,7 +914,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - HistorEE",
-      "value": 163,
+      "value": 165,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -914,7 +923,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Historiography and method",
-      "value": 72,
+      "value": 74,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -1975,6 +1984,10 @@
     },
     {
       "from": "MOC - ERC Synergy Grant",
+      "to": "The Roman universitas makes the JSC case parallelism not convergence"
+    },
+    {
+      "from": "MOC - ERC Synergy Grant",
       "to": "The determinate-contingent typology carries the richness"
     },
     {
@@ -2056,6 +2069,10 @@
     {
       "from": "MOC - Entity-shielding and corporate forms",
       "to": "Persona ficta made the corporation a-moral ab initio"
+    },
+    {
+      "from": "MOC - Entity-shielding and corporate forms",
+      "to": "The Roman universitas makes the JSC case parallelism not convergence"
     },
     {
       "from": "MOC - Entity-shielding and corporate forms",
@@ -2311,6 +2328,10 @@
     },
     {
       "from": "MOC - HistorEE",
+      "to": "The Roman universitas makes the JSC case parallelism not convergence"
+    },
+    {
+      "from": "MOC - HistorEE",
       "to": "The alleenrecht is monopoly held as tradable property"
     },
     {
@@ -2496,6 +2517,10 @@
     {
       "from": "MOC - Historiography and method",
       "to": "Split provenance into priority and independence"
+    },
+    {
+      "from": "MOC - Historiography and method",
+      "to": "The Roman universitas makes the JSC case parallelism not convergence"
     },
     {
       "from": "MOC - Historiography and method",
@@ -3424,6 +3449,58 @@
     {
       "from": "The Fugger diversified activity while concentrating the barrier",
       "to": "The real cut is shielded-and-pooled versus unshielded"
+    },
+    {
+      "from": "The Roman universitas makes the JSC case parallelism not convergence",
+      "to": "Count degrees of freedom not cells"
+    },
+    {
+      "from": "The Roman universitas makes the JSC case parallelism not convergence",
+      "to": "Divergent arbitrary particulars are the independence diagnostic"
+    },
+    {
+      "from": "The Roman universitas makes the JSC case parallelism not convergence",
+      "to": "Homoplasy is the finding not the noise"
+    },
+    {
+      "from": "The Roman universitas makes the JSC case parallelism not convergence",
+      "to": "MOC - ERC Synergy Grant"
+    },
+    {
+      "from": "The Roman universitas makes the JSC case parallelism not convergence",
+      "to": "MOC - Entity-shielding and corporate forms"
+    },
+    {
+      "from": "The Roman universitas makes the JSC case parallelism not convergence",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "The Roman universitas makes the JSC case parallelism not convergence",
+      "to": "MOC - Historiography and method"
+    },
+    {
+      "from": "The Roman universitas makes the JSC case parallelism not convergence",
+      "to": "Never let the units slide from instruments to populations"
+    },
+    {
+      "from": "The Roman universitas makes the JSC case parallelism not convergence",
+      "to": "Split provenance into priority and independence"
+    },
+    {
+      "from": "The Roman universitas makes the JSC case parallelism not convergence",
+      "to": "The qirad's antecedents are Sasanian not Sogdian"
+    },
+    {
+      "from": "The Roman universitas makes the JSC case parallelism not convergence",
+      "to": "The theory predicts recurrence not independent origins"
+    },
+    {
+      "from": "The Roman universitas makes the JSC case parallelism not convergence",
+      "to": "The western family needs only plausible common descent not proven genealogy"
+    },
+    {
+      "from": "The Roman universitas makes the JSC case parallelism not convergence",
+      "to": "Transmission versus independent recurrence is the load-bearing test"
     },
     {
       "from": "The alleenrecht is monopoly held as tradable property",
