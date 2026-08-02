@@ -55,6 +55,7 @@ digraph vault {
   "Skin in the game" [fillcolor="#666666", fontcolor=white, shape=ellipse];
   "Split provenance into priority and independence" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "The Fugger diversified activity while concentrating the barrier" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
+  "The Roman universitas makes the JSC case parallelism not convergence" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "The alleenrecht is monopoly held as tradable property" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "The amana-daman structure refuses to infer fault from loss" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "The ascent narrative is the Jensen error as historiography" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
@@ -360,6 +361,7 @@ digraph vault {
   "MOC - ERC Synergy Grant" -> "MOC - HistorEE";
   "MOC - ERC Synergy Grant" -> "MOC - Historiography and method";
   "MOC - ERC Synergy Grant" -> "MOC - Islamic contract doctrine";
+  "MOC - ERC Synergy Grant" -> "The Roman universitas makes the JSC case parallelism not convergence";
   "MOC - ERC Synergy Grant" -> "The determinate-contingent typology carries the richness";
   "MOC - ERC Synergy Grant" -> "The isqa's bifurcation belongs to the Sasanian substrate question";
   "MOC - ERC Synergy Grant" -> "The ortoq is the discriminating instrument";
@@ -381,6 +383,7 @@ digraph vault {
   "MOC - Entity-shielding and corporate forms" -> "Natie is a false cognate";
   "MOC - Entity-shielding and corporate forms" -> "Perpetuity splits into adaptation and petrification";
   "MOC - Entity-shielding and corporate forms" -> "Persona ficta made the corporation a-moral ab initio";
+  "MOC - Entity-shielding and corporate forms" -> "The Roman universitas makes the JSC case parallelism not convergence";
   "MOC - Entity-shielding and corporate forms" -> "The alleenrecht is monopoly held as tradable property";
   "MOC - Entity-shielding and corporate forms" -> "The corporation is not the omega - the naties are an undisplaced niche";
   "MOC - Entity-shielding and corporate forms" -> "The durable-and-coupled cell is the underexplored one";
@@ -444,6 +447,7 @@ digraph vault {
   "MOC - HistorEE" -> "Separate the sociological and the methodological claims about economics";
   "MOC - HistorEE" -> "Simonsohn 2016 on East Syrian civil law and the Sasanian substrate";
   "MOC - HistorEE" -> "Skin in the game";
+  "MOC - HistorEE" -> "The Roman universitas makes the JSC case parallelism not convergence";
   "MOC - HistorEE" -> "The alleenrecht is monopoly held as tradable property";
   "MOC - HistorEE" -> "The amana-daman structure refuses to infer fault from loss";
   "MOC - HistorEE" -> "The ascent narrative is the Jensen error as historiography";
@@ -491,6 +495,7 @@ digraph vault {
   "MOC - Historiography and method" -> "Refusals are observations of the filter not inferences from survivors";
   "MOC - Historiography and method" -> "Selection frequency trades against organizational memory";
   "MOC - Historiography and method" -> "Split provenance into priority and independence";
+  "MOC - Historiography and method" -> "The Roman universitas makes the JSC case parallelism not convergence";
   "MOC - Historiography and method" -> "The ascent narrative is the Jensen error as historiography";
   "MOC - Historiography and method" -> "The corporation is not the omega - the naties are an undisplaced niche";
   "MOC - Historiography and method" -> "The deficit reading of absence is the scalar ranking in evidentiary form";
@@ -723,6 +728,19 @@ digraph vault {
   "The Fugger diversified activity while concentrating the barrier" -> "MOC - Risk-sharing vs risk-pricing";
   "The Fugger diversified activity while concentrating the barrier" -> "Pooling's sign is set by the correlation of its baskets";
   "The Fugger diversified activity while concentrating the barrier" -> "The real cut is shielded-and-pooled versus unshielded";
+  "The Roman universitas makes the JSC case parallelism not convergence" -> "Count degrees of freedom not cells";
+  "The Roman universitas makes the JSC case parallelism not convergence" -> "Divergent arbitrary particulars are the independence diagnostic";
+  "The Roman universitas makes the JSC case parallelism not convergence" -> "Homoplasy is the finding not the noise";
+  "The Roman universitas makes the JSC case parallelism not convergence" -> "MOC - ERC Synergy Grant";
+  "The Roman universitas makes the JSC case parallelism not convergence" -> "MOC - Entity-shielding and corporate forms";
+  "The Roman universitas makes the JSC case parallelism not convergence" -> "MOC - HistorEE";
+  "The Roman universitas makes the JSC case parallelism not convergence" -> "MOC - Historiography and method";
+  "The Roman universitas makes the JSC case parallelism not convergence" -> "Never let the units slide from instruments to populations";
+  "The Roman universitas makes the JSC case parallelism not convergence" -> "Split provenance into priority and independence";
+  "The Roman universitas makes the JSC case parallelism not convergence" -> "The qirad's antecedents are Sasanian not Sogdian";
+  "The Roman universitas makes the JSC case parallelism not convergence" -> "The theory predicts recurrence not independent origins";
+  "The Roman universitas makes the JSC case parallelism not convergence" -> "The western family needs only plausible common descent not proven genealogy";
+  "The Roman universitas makes the JSC case parallelism not convergence" -> "Transmission versus independent recurrence is the load-bearing test";
   "The alleenrecht is monopoly held as tradable property" -> "Entity-shielding";
   "The alleenrecht is monopoly held as tradable property" -> "MOC - Entity-shielding and corporate forms";
   "The alleenrecht is monopoly held as tradable property" -> "MOC - HistorEE";
