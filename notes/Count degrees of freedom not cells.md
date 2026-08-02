@@ -66,6 +66,7 @@ A characteristic returning the **same value for every form** is the mirror image
 
 ## Links
 
+- [[Typology and character coding literature]]
 - [[The morphological matrix is dictated by the shape of the feature space]]
 - [[Borrow the diagnostics not the tree]]
 - [[Isqa qirad and commenda are a liability-variable triad]]

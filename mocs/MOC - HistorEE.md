@@ -90,6 +90,7 @@ Project hub for the book. Atomic notes hang off both this project MOC and a them
 - [[The isqa's bifurcation belongs to the Sasanian substrate question]]
 - [[The isqa is Lindy because captive not because robust]]
 - [[Count degrees of freedom not cells]]
+- [[Typology and character coding literature]]
 - [[Isqa reading list to acquire]]
 
 ## Notes — VOC pillar session
