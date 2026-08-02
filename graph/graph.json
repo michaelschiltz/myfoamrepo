@@ -95,7 +95,7 @@
       "type": "permanent",
       "group": "stub",
       "label": "Entity-shielding",
-      "value": 39,
+      "value": 41,
       "color": "#666666",
       "shape": "dot"
     },
@@ -122,7 +122,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Guard against reverse-teleology",
-      "value": 23,
+      "value": 25,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -239,7 +239,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Lock-in and outcome-coupling are distinct bindings",
-      "value": 23,
+      "value": 25,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -248,7 +248,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Mare Liberum was a corporate legal weapon",
-      "value": 11,
+      "value": 12,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -329,7 +329,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Perpetuity splits into adaptation and petrification",
-      "value": 16,
+      "value": 18,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -374,7 +374,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Refusals are observations of the filter not inferences from survivors",
-      "value": 35,
+      "value": 36,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -500,7 +500,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The ascent narrative is the Jensen error as historiography",
-      "value": 15,
+      "value": 16,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -518,7 +518,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The coding commons must record stated rationale not only component presence",
-      "value": 29,
+      "value": 31,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -536,7 +536,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The deficit reading of absence is the scalar ranking in evidentiary form",
-      "value": 22,
+      "value": 24,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -545,7 +545,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The depersonalised share was produced by honour not by pooling logic",
-      "value": 21,
+      "value": 23,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -590,7 +590,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The four-step decoupling from participation to the veil",
-      "value": 20,
+      "value": 21,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -788,7 +788,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Transkribus - managed HTR platform",
-      "value": 13,
+      "value": 15,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -799,6 +799,15 @@
       "label": "Transmission versus independent recurrence is the load-bearing test",
       "value": 31,
       "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "Van Dam's Beschryvinge - the VOC described by its own advocaat",
+      "type": "source",
+      "group": "source",
+      "label": "Van Dam's Beschryvinge - the VOC described by its own advocaat",
+      "value": 27,
+      "color": "#7570b3",
       "shape": "dot"
     },
     {
@@ -860,7 +869,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Entity-shielding and corporate forms",
-      "value": 63,
+      "value": 65,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -878,7 +887,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - HistorEE",
-      "value": 157,
+      "value": 159,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -887,7 +896,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Historiography and method",
-      "value": 66,
+      "value": 68,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -2027,6 +2036,10 @@
       "to": "The waqf partition converts absence into refusal"
     },
     {
+      "from": "MOC - Entity-shielding and corporate forms",
+      "to": "Van Dam's Beschryvinge - the VOC described by its own advocaat"
+    },
+    {
       "from": "MOC - Ergodicity and the time-ensemble distinction",
       "to": "Absorbing barrier"
     },
@@ -2332,6 +2345,10 @@
     },
     {
       "from": "MOC - HistorEE",
+      "to": "Van Dam's Beschryvinge - the VOC described by its own advocaat"
+    },
+    {
+      "from": "MOC - HistorEE",
       "to": "Whiggish history of finance names the ascent narrative"
     },
     {
@@ -2449,6 +2466,10 @@
     {
       "from": "MOC - Historiography and method",
       "to": "Transmission versus independent recurrence is the load-bearing test"
+    },
+    {
+      "from": "MOC - Historiography and method",
+      "to": "Van Dam's Beschryvinge - the VOC described by its own advocaat"
     },
     {
       "from": "MOC - Historiography and method",
@@ -4489,6 +4510,66 @@
     {
       "from": "Transmission versus independent recurrence is the load-bearing test",
       "to": "The qirad's antecedents are Sasanian not Sogdian"
+    },
+    {
+      "from": "Van Dam's Beschryvinge - the VOC described by its own advocaat",
+      "to": "Entity-shielding"
+    },
+    {
+      "from": "Van Dam's Beschryvinge - the VOC described by its own advocaat",
+      "to": "Guard against reverse-teleology"
+    },
+    {
+      "from": "Van Dam's Beschryvinge - the VOC described by its own advocaat",
+      "to": "Lock-in and outcome-coupling are distinct bindings"
+    },
+    {
+      "from": "Van Dam's Beschryvinge - the VOC described by its own advocaat",
+      "to": "MOC - Entity-shielding and corporate forms"
+    },
+    {
+      "from": "Van Dam's Beschryvinge - the VOC described by its own advocaat",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Van Dam's Beschryvinge - the VOC described by its own advocaat",
+      "to": "MOC - Historiography and method"
+    },
+    {
+      "from": "Van Dam's Beschryvinge - the VOC described by its own advocaat",
+      "to": "Mare Liberum was a corporate legal weapon"
+    },
+    {
+      "from": "Van Dam's Beschryvinge - the VOC described by its own advocaat",
+      "to": "Perpetuity splits into adaptation and petrification"
+    },
+    {
+      "from": "Van Dam's Beschryvinge - the VOC described by its own advocaat",
+      "to": "Refusals are observations of the filter not inferences from survivors"
+    },
+    {
+      "from": "Van Dam's Beschryvinge - the VOC described by its own advocaat",
+      "to": "The ascent narrative is the Jensen error as historiography"
+    },
+    {
+      "from": "Van Dam's Beschryvinge - the VOC described by its own advocaat",
+      "to": "The coding commons must record stated rationale not only component presence"
+    },
+    {
+      "from": "Van Dam's Beschryvinge - the VOC described by its own advocaat",
+      "to": "The deficit reading of absence is the scalar ranking in evidentiary form"
+    },
+    {
+      "from": "Van Dam's Beschryvinge - the VOC described by its own advocaat",
+      "to": "The depersonalised share was produced by honour not by pooling logic"
+    },
+    {
+      "from": "Van Dam's Beschryvinge - the VOC described by its own advocaat",
+      "to": "The four-step decoupling from participation to the veil"
+    },
+    {
+      "from": "Van Dam's Beschryvinge - the VOC described by its own advocaat",
+      "to": "Transkribus - managed HTR platform"
     },
     {
       "from": "Whiggish history of finance names the ascent narrative",
