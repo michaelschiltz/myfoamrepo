@@ -8,3 +8,9 @@
 # OS / editor noise
 .DS_Store
 Thumbs.db
+
+# Graphviz render — layout output is version-dependent, so committing it
+# churns thousands of lines whenever the renderer differs. Nothing consumes
+# it (graph.html is the shareable graph). Render on demand:
+#   dot -Tsvg graph/graph.dot -o /tmp/graph.svg
+graph/graph.svg

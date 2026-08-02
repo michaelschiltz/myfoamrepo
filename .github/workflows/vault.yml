@@ -25,10 +25,13 @@ jobs:
 
       - name: Rebuild knowledge graph
         if: github.event_name == 'push'
-        run: |
-          sudo apt-get update -qq && sudo apt-get install -y -qq graphviz
-          python3 scripts/export_graph.py
-          dot -Tsvg graph/graph.dot -o graph/graph.svg || true
+        # graph.svg is deliberately not built here. Graphviz layout is
+        # version-dependent, so a runner-rendered SVG and a locally-rendered
+        # one differ by thousands of lines for an identical graph. Nothing in
+        # the repo consumes the SVG — graph.html is the shareable artefact —
+        # so it is gitignored and rendered on demand:
+        #   dot -Tsvg graph/graph.dot -o /tmp/graph.svg
+        run: python3 scripts/export_graph.py
 
       - name: Commit graph if it changed
         if: github.event_name == 'push'
