@@ -89,6 +89,7 @@ Project hub for the book. Atomic notes hang off both this project MOC and a them
 - [[Isqa qirad and commenda are a liability-variable triad]]
 - [[The isqa's bifurcation belongs to the Sasanian substrate question]]
 - [[The isqa is Lindy because captive not because robust]]
+- [[Count degrees of freedom not cells]]
 - [[Isqa reading list to acquire]]
 
 ## Notes — VOC pillar session

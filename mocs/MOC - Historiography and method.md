@@ -40,6 +40,7 @@ Thematic hub for the project's methodological guardrails: teleology and its inve
 - [[Isqa qirad and commenda are a liability-variable triad]]
 - [[The isqa's bifurcation belongs to the Sasanian substrate question]]
 - [[The isqa is Lindy because captive not because robust]]
+- [[Count degrees of freedom not cells]]
 - [[Van Dam's Beschryvinge - the VOC described by its own advocaat]]
 
 ## Links
