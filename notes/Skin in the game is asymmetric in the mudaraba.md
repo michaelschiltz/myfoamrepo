@@ -4,6 +4,7 @@ type: permanent
 tags: [mudaraba, qirad, skin-in-the-game, pls, risk-sharing]
 project: HistorEE
 source-session: ron-harris-tradeoffs
+database: [organizational_forms]
 created: 2026-07-22
 status: seed
 ---
@@ -17,6 +18,8 @@ The modern analogue is exact and worth using: an LP/GP fund in which the general
 This is the classical principal-agent hazard, and the tradition recognized it. The elaborate negligence-and-instructions liability doctrine exists precisely to restore the agent's skin in the game where the profit share alone left it thin. That strengthens the argument rather than weakening it: it shows the fiqh reasoning about trajectory-binding *explicitly*, as a designed correction, rather than stumbling into it.
 
 Note the contrast with the sea loan, where the asymmetry runs the other way: there the lender bears the peril tail and the borrower walks away on loss, which is what makes fraud pay. See [[Scuttling rewards fraud in the sea loan]].
+
+**Now coded.** The `organizational_forms` matrix carries this as `LR6 coupling symmetry` (`symmetric|upside-only|downside-only`), added because `LR2` returned `coupled` for the *muḍāraba*, the *commenda* and the *ʿisqa* alike and so erased the very asymmetry this note is about. *Qirāḍ* and *commenda* code `upside-only`; the *ʿisqa* codes `symmetric` — see [[The isqa refuses the agent's shield]].
 
 ## Links
 

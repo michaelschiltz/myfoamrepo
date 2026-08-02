@@ -4,6 +4,7 @@ type: permanent
 tags: [isqa, qirad, commenda, entity-shielding, limited-liability, absorbing-barrier, skin-in-the-game]
 project: HistorEE
 source-session: isqa-qirad-commenda
+database: [organizational_forms]
 created: 2026-08-01
 status: seed
 ---

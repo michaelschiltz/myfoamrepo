@@ -4,6 +4,7 @@ type: permanent
 tags: [isqa, qirad, commenda, comparative, parallelism, limited-liability, entity-shielding]
 project: HistorEE
 source-session: isqa-qirad-commenda
+database: [organizational_forms]
 created: 2026-08-01
 status: seed
 ---
