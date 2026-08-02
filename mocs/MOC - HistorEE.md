@@ -92,6 +92,7 @@ Project hub for the book. Atomic notes hang off both this project MOC and a them
 - [[Count degrees of freedom not cells]]
 - [[Typology and character coding literature]]
 - [[The Roman universitas makes the JSC case parallelism not convergence]]
+- [[Le Bris Goetzmann Pouget 2023 on convergent evolution toward the joint-stock company]]
 - [[Isqa reading list to acquire]]
 
 ## Notes — VOC pillar session

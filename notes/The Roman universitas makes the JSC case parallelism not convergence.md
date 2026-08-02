@@ -59,6 +59,7 @@ They write that "an analogy can be made between organizations and organisms, the
 
 ## Links
 
+- [[Le Bris Goetzmann Pouget 2023 on convergent evolution toward the joint-stock company]]
 - [[Homoplasy is the finding not the noise]]
 - [[The western family needs only plausible common descent not proven genealogy]]
 - [[Transmission versus independent recurrence is the load-bearing test]]

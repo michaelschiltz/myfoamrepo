@@ -38,6 +38,7 @@ Thematic hub for the corporate-form apparatus: asset-partitioning, identity-wrap
 - [[Isqa qirad and commenda are a liability-variable triad]]
 - [[The isqa is Lindy because captive not because robust]]
 - [[The Roman universitas makes the JSC case parallelism not convergence]]
+- [[Le Bris Goetzmann Pouget 2023 on convergent evolution toward the joint-stock company]]
 - [[Van Dam's Beschryvinge - the VOC described by its own advocaat]]
 
 ## Links
