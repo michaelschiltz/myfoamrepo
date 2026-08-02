@@ -104,8 +104,8 @@ digraph vault {
   "MOC - Islamic contract doctrine" [fillcolor="#d95f02", fontcolor=white, shape=ellipse];
   "MOC - Risk-sharing vs risk-pricing" [fillcolor="#d95f02", fontcolor=white, shape=ellipse];
   "tags" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
-  "clearing_records" [fillcolor="#a6761d", fontcolor=white, shape=cylinder];
   "organizational_forms" [fillcolor="#a6761d", fontcolor=white, shape=cylinder];
+  "clearing_records" [fillcolor="#a6761d", fontcolor=white, shape=cylinder];
   "Absorbing barrier" -> "Entity-shielding";
   "Absorbing barrier" -> "MOC - Ergodicity and the time-ensemble distinction";
   "Absorbing barrier" -> "MOC - HistorEE";
@@ -307,6 +307,7 @@ digraph vault {
   "Isqa qirad and commenda are a liability-variable triad" -> "The western family needs only plausible common descent not proven genealogy";
   "Isqa qirad and commenda are a liability-variable triad" -> "commenda";
   "Isqa qirad and commenda are a liability-variable triad" -> "isqa";
+  "Isqa qirad and commenda are a liability-variable triad" -> "organizational_forms";
   "Isqa reading list to acquire" -> "Isqa qirad and commenda are a liability-variable triad";
   "Isqa reading list to acquire" -> "MOC - HistorEE";
   "Isqa reading list to acquire" -> "The deficit reading of absence is the scalar ranking in evidentiary form";
@@ -689,7 +690,9 @@ digraph vault {
   "Skin in the game is asymmetric in the mudaraba" -> "MOC - Risk-sharing vs risk-pricing";
   "Skin in the game is asymmetric in the mudaraba" -> "Scuttling rewards fraud in the sea loan";
   "Skin in the game is asymmetric in the mudaraba" -> "Skin in the game";
+  "Skin in the game is asymmetric in the mudaraba" -> "The isqa refuses the agent's shield";
   "Skin in the game is asymmetric in the mudaraba" -> "The qirad envelops the sea loan";
+  "Skin in the game is asymmetric in the mudaraba" -> "organizational_forms";
   "Split provenance into priority and independence" -> "MOC - HistorEE";
   "Split provenance into priority and independence" -> "MOC - Historiography and method";
   "Split provenance into priority and independence" -> "Refusals are observations of the filter not inferences from survivors";
@@ -866,6 +869,7 @@ digraph vault {
   "The isqa refuses the agent's shield" -> "commenda";
   "The isqa refuses the agent's shield" -> "isqa";
   "The isqa refuses the agent's shield" -> "limited-liability";
+  "The isqa refuses the agent's shield" -> "organizational_forms";
   "The isqa's bifurcation belongs to the Sasanian substrate question" -> "Isqa qirad and commenda are a liability-variable triad";
   "The isqa's bifurcation belongs to the Sasanian substrate question" -> "MOC - ERC Synergy Grant";
   "The isqa's bifurcation belongs to the Sasanian substrate question" -> "MOC - HistorEE";
