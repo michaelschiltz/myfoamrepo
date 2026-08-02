@@ -185,7 +185,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Isqa qirad and commenda are a liability-variable triad",
-      "value": 24,
+      "value": 25,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -446,7 +446,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Skin in the game is asymmetric in the mudaraba",
-      "value": 24,
+      "value": 26,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -635,7 +635,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The isqa refuses the agent's shield",
-      "value": 27,
+      "value": 29,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -928,20 +928,20 @@
       "shape": "dot"
     },
     {
+      "id": "organizational_forms",
+      "type": "database",
+      "group": "database",
+      "label": "organizational_forms",
+      "value": 6,
+      "color": "#a6761d",
+      "shape": "database"
+    },
+    {
       "id": "clearing_records",
       "type": "database",
       "group": "database",
       "label": "clearing_records",
       "value": 2,
-      "color": "#a6761d",
-      "shape": "database"
-    },
-    {
-      "id": "organizational_forms",
-      "type": "database",
-      "group": "database",
-      "label": "organizational_forms",
-      "value": 3,
       "color": "#a6761d",
       "shape": "database"
     }
@@ -1750,6 +1750,10 @@
     {
       "from": "Isqa qirad and commenda are a liability-variable triad",
       "to": "isqa"
+    },
+    {
+      "from": "Isqa qirad and commenda are a liability-variable triad",
+      "to": "organizational_forms"
     },
     {
       "from": "Isqa reading list to acquire",
@@ -3281,7 +3285,15 @@
     },
     {
       "from": "Skin in the game is asymmetric in the mudaraba",
+      "to": "The isqa refuses the agent's shield"
+    },
+    {
+      "from": "Skin in the game is asymmetric in the mudaraba",
       "to": "The qirad envelops the sea loan"
+    },
+    {
+      "from": "Skin in the game is asymmetric in the mudaraba",
+      "to": "organizational_forms"
     },
     {
       "from": "Split provenance into priority and independence",
@@ -3986,6 +3998,10 @@
     {
       "from": "The isqa refuses the agent's shield",
       "to": "limited-liability"
+    },
+    {
+      "from": "The isqa refuses the agent's shield",
+      "to": "organizational_forms"
     },
     {
       "from": "The isqa's bifurcation belongs to the Sasanian substrate question",
