@@ -27,6 +27,7 @@ digraph vault {
   "Jensen gap" [fillcolor="#666666", fontcolor=white, shape=ellipse];
   "Kuran's brake is a refusal of immortal entities" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Kuzushiji OCR - the NDL and CODH stack" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
+  "Le Bris Goetzmann Pouget 2023 on convergent evolution toward the joint-stock company" [fillcolor="#7570b3", fontcolor=white, shape=ellipse];
   "Legal violence is the weapon of the militarily insufficient" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Lock-in and outcome-coupling are distinct bindings" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Mare Liberum was a corporate legal weapon" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
@@ -341,6 +342,18 @@ digraph vault {
   "Kuzushiji OCR - the NDL and CODH stack" -> "MOC - Digitisation and text recognition";
   "Kuzushiji OCR - the NDL and CODH stack" -> "Open-source HTR stack - eScriptorium Kraken Loghi";
   "Kuzushiji OCR - the NDL and CODH stack" -> "Transkribus - managed HTR platform";
+  "Le Bris Goetzmann Pouget 2023 on convergent evolution toward the joint-stock company" -> "Count degrees of freedom not cells";
+  "Le Bris Goetzmann Pouget 2023 on convergent evolution toward the joint-stock company" -> "Harris 2020 on the late plurality of limited liability";
+  "Le Bris Goetzmann Pouget 2023 on convergent evolution toward the joint-stock company" -> "Homoplasy is the finding not the noise";
+  "Le Bris Goetzmann Pouget 2023 on convergent evolution toward the joint-stock company" -> "MOC - ERC Synergy Grant";
+  "Le Bris Goetzmann Pouget 2023 on convergent evolution toward the joint-stock company" -> "MOC - Entity-shielding and corporate forms";
+  "Le Bris Goetzmann Pouget 2023 on convergent evolution toward the joint-stock company" -> "MOC - HistorEE";
+  "Le Bris Goetzmann Pouget 2023 on convergent evolution toward the joint-stock company" -> "MOC - Historiography and method";
+  "Le Bris Goetzmann Pouget 2023 on convergent evolution toward the joint-stock company" -> "Never let the units slide from instruments to populations";
+  "Le Bris Goetzmann Pouget 2023 on convergent evolution toward the joint-stock company" -> "The Roman universitas makes the JSC case parallelism not convergence";
+  "Le Bris Goetzmann Pouget 2023 on convergent evolution toward the joint-stock company" -> "The western family needs only plausible common descent not proven genealogy";
+  "Le Bris Goetzmann Pouget 2023 on convergent evolution toward the joint-stock company" -> "Transmission versus independent recurrence is the load-bearing test";
+  "Le Bris Goetzmann Pouget 2023 on convergent evolution toward the joint-stock company" -> "organizational_forms";
   "Legal violence is the weapon of the militarily insufficient" -> "Entity-shielding";
   "Legal violence is the weapon of the militarily insufficient" -> "MOC - Entity-shielding and corporate forms";
   "Legal violence is the weapon of the militarily insufficient" -> "MOC - HistorEE";
@@ -373,6 +386,7 @@ digraph vault {
   "MOC - Entity-shielding and corporate forms" -> "Harris 2020 on the late plurality of limited liability";
   "MOC - Entity-shielding and corporate forms" -> "Identity-wrapper and perpetual-monopoly are distinct shielding facets";
   "MOC - Entity-shielding and corporate forms" -> "Isqa qirad and commenda are a liability-variable triad";
+  "MOC - Entity-shielding and corporate forms" -> "Le Bris Goetzmann Pouget 2023 on convergent evolution toward the joint-stock company";
   "MOC - Entity-shielding and corporate forms" -> "Legal violence is the weapon of the militarily insufficient";
   "MOC - Entity-shielding and corporate forms" -> "Lock-in and outcome-coupling are distinct bindings";
   "MOC - Entity-shielding and corporate forms" -> "MOC - Ergodicity and the time-ensemble distinction";
@@ -428,6 +442,7 @@ digraph vault {
   "MOC - HistorEE" -> "Isqa qirad and commenda are a liability-variable triad";
   "MOC - HistorEE" -> "Isqa reading list to acquire";
   "MOC - HistorEE" -> "Jensen gap";
+  "MOC - HistorEE" -> "Le Bris Goetzmann Pouget 2023 on convergent evolution toward the joint-stock company";
   "MOC - HistorEE" -> "Legal violence is the weapon of the militarily insufficient";
   "MOC - HistorEE" -> "MOC - Entity-shielding and corporate forms";
   "MOC - HistorEE" -> "MOC - Ergodicity and the time-ensemble distinction";
@@ -731,6 +746,7 @@ digraph vault {
   "The Roman universitas makes the JSC case parallelism not convergence" -> "Count degrees of freedom not cells";
   "The Roman universitas makes the JSC case parallelism not convergence" -> "Divergent arbitrary particulars are the independence diagnostic";
   "The Roman universitas makes the JSC case parallelism not convergence" -> "Homoplasy is the finding not the noise";
+  "The Roman universitas makes the JSC case parallelism not convergence" -> "Le Bris Goetzmann Pouget 2023 on convergent evolution toward the joint-stock company";
   "The Roman universitas makes the JSC case parallelism not convergence" -> "MOC - ERC Synergy Grant";
   "The Roman universitas makes the JSC case parallelism not convergence" -> "MOC - Entity-shielding and corporate forms";
   "The Roman universitas makes the JSC case parallelism not convergence" -> "MOC - HistorEE";

@@ -23,7 +23,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Count degrees of freedom not cells",
-      "value": 20,
+      "value": 22,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -140,7 +140,7 @@
       "type": "source",
       "group": "source",
       "label": "Harris 2020 on the late plurality of limited liability",
-      "value": 19,
+      "value": 20,
       "color": "#7570b3",
       "shape": "dot"
     },
@@ -158,7 +158,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Homoplasy is the finding not the noise",
-      "value": 62,
+      "value": 63,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -235,6 +235,15 @@
       "shape": "dot"
     },
     {
+      "id": "Le Bris Goetzmann Pouget 2023 on convergent evolution toward the joint-stock company",
+      "type": "source",
+      "group": "source",
+      "label": "Le Bris Goetzmann Pouget 2023 on convergent evolution toward the joint-stock company",
+      "value": 19,
+      "color": "#7570b3",
+      "shape": "dot"
+    },
+    {
       "id": "Legal violence is the weapon of the militarily insufficient",
       "type": "permanent",
       "group": "seed",
@@ -293,7 +302,7 @@
       "type": "permanent",
       "group": "stub",
       "label": "Never let the units slide from instruments to populations",
-      "value": 27,
+      "value": 29,
       "color": "#666666",
       "shape": "dot"
     },
@@ -491,7 +500,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The Roman universitas makes the JSC case parallelism not convergence",
-      "value": 23,
+      "value": 26,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -779,7 +788,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The western family needs only plausible common descent not proven genealogy",
-      "value": 36,
+      "value": 37,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -815,7 +824,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Transmission versus independent recurrence is the load-bearing test",
-      "value": 33,
+      "value": 34,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -887,7 +896,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - ERC Synergy Grant",
-      "value": 33,
+      "value": 34,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -896,7 +905,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Entity-shielding and corporate forms",
-      "value": 67,
+      "value": 69,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -914,7 +923,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - HistorEE",
-      "value": 165,
+      "value": 167,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -923,7 +932,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Historiography and method",
-      "value": 74,
+      "value": 75,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -959,7 +968,7 @@
       "type": "database",
       "group": "database",
       "label": "organizational_forms",
-      "value": 8,
+      "value": 9,
       "color": "#a6761d",
       "shape": "database"
     },
@@ -1903,6 +1912,54 @@
       "to": "Transkribus - managed HTR platform"
     },
     {
+      "from": "Le Bris Goetzmann Pouget 2023 on convergent evolution toward the joint-stock company",
+      "to": "Count degrees of freedom not cells"
+    },
+    {
+      "from": "Le Bris Goetzmann Pouget 2023 on convergent evolution toward the joint-stock company",
+      "to": "Harris 2020 on the late plurality of limited liability"
+    },
+    {
+      "from": "Le Bris Goetzmann Pouget 2023 on convergent evolution toward the joint-stock company",
+      "to": "Homoplasy is the finding not the noise"
+    },
+    {
+      "from": "Le Bris Goetzmann Pouget 2023 on convergent evolution toward the joint-stock company",
+      "to": "MOC - ERC Synergy Grant"
+    },
+    {
+      "from": "Le Bris Goetzmann Pouget 2023 on convergent evolution toward the joint-stock company",
+      "to": "MOC - Entity-shielding and corporate forms"
+    },
+    {
+      "from": "Le Bris Goetzmann Pouget 2023 on convergent evolution toward the joint-stock company",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Le Bris Goetzmann Pouget 2023 on convergent evolution toward the joint-stock company",
+      "to": "MOC - Historiography and method"
+    },
+    {
+      "from": "Le Bris Goetzmann Pouget 2023 on convergent evolution toward the joint-stock company",
+      "to": "Never let the units slide from instruments to populations"
+    },
+    {
+      "from": "Le Bris Goetzmann Pouget 2023 on convergent evolution toward the joint-stock company",
+      "to": "The Roman universitas makes the JSC case parallelism not convergence"
+    },
+    {
+      "from": "Le Bris Goetzmann Pouget 2023 on convergent evolution toward the joint-stock company",
+      "to": "The western family needs only plausible common descent not proven genealogy"
+    },
+    {
+      "from": "Le Bris Goetzmann Pouget 2023 on convergent evolution toward the joint-stock company",
+      "to": "Transmission versus independent recurrence is the load-bearing test"
+    },
+    {
+      "from": "Le Bris Goetzmann Pouget 2023 on convergent evolution toward the joint-stock company",
+      "to": "organizational_forms"
+    },
+    {
       "from": "Legal violence is the weapon of the militarily insufficient",
       "to": "Entity-shielding"
     },
@@ -2029,6 +2086,10 @@
     {
       "from": "MOC - Entity-shielding and corporate forms",
       "to": "Isqa qirad and commenda are a liability-variable triad"
+    },
+    {
+      "from": "MOC - Entity-shielding and corporate forms",
+      "to": "Le Bris Goetzmann Pouget 2023 on convergent evolution toward the joint-stock company"
     },
     {
       "from": "MOC - Entity-shielding and corporate forms",
@@ -2249,6 +2310,10 @@
     {
       "from": "MOC - HistorEE",
       "to": "Jensen gap"
+    },
+    {
+      "from": "MOC - HistorEE",
+      "to": "Le Bris Goetzmann Pouget 2023 on convergent evolution toward the joint-stock company"
     },
     {
       "from": "MOC - HistorEE",
@@ -3461,6 +3526,10 @@
     {
       "from": "The Roman universitas makes the JSC case parallelism not convergence",
       "to": "Homoplasy is the finding not the noise"
+    },
+    {
+      "from": "The Roman universitas makes the JSC case parallelism not convergence",
+      "to": "Le Bris Goetzmann Pouget 2023 on convergent evolution toward the joint-stock company"
     },
     {
       "from": "The Roman universitas makes the JSC case parallelism not convergence",
