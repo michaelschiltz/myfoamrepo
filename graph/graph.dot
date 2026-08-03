@@ -12,6 +12,7 @@ digraph vault {
   "Economics had its ensemble moment in 1738 and psychologized it" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Ensemble benchmarking of agents is biased against the honest" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Entitlement by liability versus entitlement by membership" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
+  "Entity shielding and owner shielding protect different trajectories" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Entity-shielding" [fillcolor="#666666", fontcolor=white, shape=ellipse];
   "Galton's problem" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Gharar excludes designed-in unverifiability" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
@@ -91,6 +92,7 @@ digraph vault {
   "The western family needs only plausible common descent not proven genealogy" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Time-average optimization is a survivorship property not an intention" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Time-average" [fillcolor="#666666", fontcolor=white, shape=ellipse];
+  "Transferable claims reconcile lock-in with member exit" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Transkribus - managed HTR platform" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
   "Transmission versus independent recurrence is the load-bearing test" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Typology and character coding literature" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
@@ -214,6 +216,20 @@ digraph vault {
   "Entitlement by liability versus entitlement by membership" -> "Persona ficta made the corporation a-moral ab initio";
   "Entitlement by liability versus entitlement by membership" -> "Skin in the game";
   "Entitlement by liability versus entitlement by membership" -> "The liability principle was demoted from rule to maxim";
+  "Entity shielding and owner shielding protect different trajectories" -> "Absorbing barrier";
+  "Entity shielding and owner shielding protect different trajectories" -> "Entity-shielding";
+  "Entity shielding and owner shielding protect different trajectories" -> "Harris 2020 on the late plurality of limited liability";
+  "Entity shielding and owner shielding protect different trajectories" -> "Kuran's brake is a refusal of immortal entities";
+  "Entity shielding and owner shielding protect different trajectories" -> "Lock-in and outcome-coupling are distinct bindings";
+  "Entity shielding and owner shielding protect different trajectories" -> "MOC - ERC Synergy Grant";
+  "Entity shielding and owner shielding protect different trajectories" -> "MOC - Entity-shielding and corporate forms";
+  "Entity shielding and owner shielding protect different trajectories" -> "MOC - Ergodicity and the time-ensemble distinction";
+  "Entity shielding and owner shielding protect different trajectories" -> "MOC - HistorEE";
+  "Entity shielding and owner shielding protect different trajectories" -> "The isqa refuses the agent's shield";
+  "Entity shielding and owner shielding protect different trajectories" -> "The real cut is shielded-and-pooled versus unshielded";
+  "Entity shielding and owner shielding protect different trajectories" -> "Transferable claims reconcile lock-in with member exit";
+  "Entity shielding and owner shielding protect different trajectories" -> "limited-liability";
+  "Entity shielding and owner shielding protect different trajectories" -> "organizational_forms";
   "Entity-shielding" -> "Absorbing barrier";
   "Entity-shielding" -> "MOC - Entity-shielding and corporate forms";
   "Entity-shielding" -> "MOC - HistorEE";
@@ -382,6 +398,7 @@ digraph vault {
   "MOC - ERC Synergy Grant" -> "Transmission versus independent recurrence is the load-bearing test";
   "MOC - Entity-shielding and corporate forms" -> "Decoupling substitutes proxy legibility for outcome legibility";
   "MOC - Entity-shielding and corporate forms" -> "Entitlement by liability versus entitlement by membership";
+  "MOC - Entity-shielding and corporate forms" -> "Entity shielding and owner shielding protect different trajectories";
   "MOC - Entity-shielding and corporate forms" -> "Entity-shielding";
   "MOC - Entity-shielding and corporate forms" -> "Harris 2020 on the late plurality of limited liability";
   "MOC - Entity-shielding and corporate forms" -> "Identity-wrapper and perpetual-monopoly are distinct shielding facets";
@@ -409,6 +426,7 @@ digraph vault {
   "MOC - Entity-shielding and corporate forms" -> "The real cut is shielded-and-pooled versus unshielded";
   "MOC - Entity-shielding and corporate forms" -> "The waqf and the nación flamenca diverge only at legal personality";
   "MOC - Entity-shielding and corporate forms" -> "The waqf partition converts absence into refusal";
+  "MOC - Entity-shielding and corporate forms" -> "Transferable claims reconcile lock-in with member exit";
   "MOC - Entity-shielding and corporate forms" -> "Van Dam's Beschryvinge - the VOC described by its own advocaat";
   "MOC - Ergodicity and the time-ensemble distinction" -> "Absorbing barrier";
   "MOC - Ergodicity and the time-ensemble distinction" -> "Deep-roots variables are symplesiomorphies";
@@ -431,6 +449,7 @@ digraph vault {
   "MOC - HistorEE" -> "Divergent arbitrary particulars are the independence diagnostic";
   "MOC - HistorEE" -> "Economics had its ensemble moment in 1738 and psychologized it";
   "MOC - HistorEE" -> "Ensemble benchmarking of agents is biased against the honest";
+  "MOC - HistorEE" -> "Entity shielding and owner shielding protect different trajectories";
   "MOC - HistorEE" -> "Entity-shielding";
   "MOC - HistorEE" -> "Galton's problem";
   "MOC - HistorEE" -> "Gharar excludes designed-in unverifiability";
@@ -488,6 +507,7 @@ digraph vault {
   "MOC - HistorEE" -> "The western family needs only plausible common descent not proven genealogy";
   "MOC - HistorEE" -> "Time-average";
   "MOC - HistorEE" -> "Time-average optimization is a survivorship property not an intention";
+  "MOC - HistorEE" -> "Transferable claims reconcile lock-in with member exit";
   "MOC - HistorEE" -> "Transmission versus independent recurrence is the load-bearing test";
   "MOC - HistorEE" -> "Typology and character coding literature";
   "MOC - HistorEE" -> "Van Dam's Beschryvinge - the VOC described by its own advocaat";
@@ -1042,6 +1062,18 @@ digraph vault {
   "Time-average optimization is a survivorship property not an intention" -> "Skin in the game";
   "Time-average optimization is a survivorship property not an intention" -> "The real cut is shielded-and-pooled versus unshielded";
   "Time-average optimization is a survivorship property not an intention" -> "Time-average";
+  "Transferable claims reconcile lock-in with member exit" -> "Count degrees of freedom not cells";
+  "Transferable claims reconcile lock-in with member exit" -> "Entity shielding and owner shielding protect different trajectories";
+  "Transferable claims reconcile lock-in with member exit" -> "Harris 2020 on the late plurality of limited liability";
+  "Transferable claims reconcile lock-in with member exit" -> "Lock-in and outcome-coupling are distinct bindings";
+  "Transferable claims reconcile lock-in with member exit" -> "MOC - Entity-shielding and corporate forms";
+  "Transferable claims reconcile lock-in with member exit" -> "MOC - HistorEE";
+  "Transferable claims reconcile lock-in with member exit" -> "MOC - Risk-sharing vs risk-pricing";
+  "Transferable claims reconcile lock-in with member exit" -> "The Roman universitas makes the JSC case parallelism not convergence";
+  "Transferable claims reconcile lock-in with member exit" -> "The asiento de averia is the pooling-to-corporation hinge";
+  "Transferable claims reconcile lock-in with member exit" -> "The depersonalised share was produced by honour not by pooling logic";
+  "Transferable claims reconcile lock-in with member exit" -> "limited-liability";
+  "Transferable claims reconcile lock-in with member exit" -> "organizational_forms";
   "Transkribus - managed HTR platform" -> "Desktop and portable capture - CZUR and ScanTent";
   "Transkribus - managed HTR platform" -> "Kuzushiji OCR - the NDL and CODH stack";
   "Transkribus - managed HTR platform" -> "MOC - Digitisation and text recognition";
