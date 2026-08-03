@@ -5,7 +5,7 @@
       "type": "permanent",
       "group": "stub",
       "label": "Absorbing barrier",
-      "value": 28,
+      "value": 29,
       "color": "#666666",
       "shape": "dot"
     },
@@ -23,7 +23,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Count degrees of freedom not cells",
-      "value": 22,
+      "value": 23,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -100,11 +100,20 @@
       "shape": "dot"
     },
     {
+      "id": "Entity shielding and owner shielding protect different trajectories",
+      "type": "permanent",
+      "group": "seed",
+      "label": "Entity shielding and owner shielding protect different trajectories",
+      "value": 23,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
       "id": "Entity-shielding",
       "type": "permanent",
       "group": "stub",
       "label": "Entity-shielding",
-      "value": 41,
+      "value": 42,
       "color": "#666666",
       "shape": "dot"
     },
@@ -140,7 +149,7 @@
       "type": "source",
       "group": "source",
       "label": "Harris 2020 on the late plurality of limited liability",
-      "value": 20,
+      "value": 23,
       "color": "#7570b3",
       "shape": "dot"
     },
@@ -221,7 +230,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Kuran's brake is a refusal of immortal entities",
-      "value": 16,
+      "value": 18,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -257,7 +266,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Lock-in and outcome-coupling are distinct bindings",
-      "value": 25,
+      "value": 27,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -500,7 +509,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The Roman universitas makes the JSC case parallelism not convergence",
-      "value": 26,
+      "value": 28,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -536,7 +545,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The asiento de averia is the pooling-to-corporation hinge",
-      "value": 21,
+      "value": 22,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -572,7 +581,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The depersonalised share was produced by honour not by pooling logic",
-      "value": 23,
+      "value": 24,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -662,7 +671,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The isqa refuses the agent's shield",
-      "value": 29,
+      "value": 30,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -743,7 +752,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The real cut is shielded-and-pooled versus unshielded",
-      "value": 19,
+      "value": 20,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -808,6 +817,15 @@
       "label": "Time-average",
       "value": 19,
       "color": "#666666",
+      "shape": "dot"
+    },
+    {
+      "id": "Transferable claims reconcile lock-in with member exit",
+      "type": "permanent",
+      "group": "seed",
+      "label": "Transferable claims reconcile lock-in with member exit",
+      "value": 20,
+      "color": "#e6ab02",
       "shape": "dot"
     },
     {
@@ -878,7 +896,7 @@
       "type": "permanent",
       "group": "stub",
       "label": "limited-liability",
-      "value": 13,
+      "value": 15,
       "color": "#666666",
       "shape": "dot"
     },
@@ -896,7 +914,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - ERC Synergy Grant",
-      "value": 34,
+      "value": 35,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -905,7 +923,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Entity-shielding and corporate forms",
-      "value": 69,
+      "value": 73,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -914,7 +932,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Ergodicity and the time-ensemble distinction",
-      "value": 35,
+      "value": 36,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -923,7 +941,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - HistorEE",
-      "value": 167,
+      "value": 171,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -950,7 +968,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Risk-sharing vs risk-pricing",
-      "value": 49,
+      "value": 50,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -968,7 +986,7 @@
       "type": "database",
       "group": "database",
       "label": "organizational_forms",
-      "value": 9,
+      "value": 11,
       "color": "#a6761d",
       "shape": "database"
     },
@@ -1398,6 +1416,62 @@
     {
       "from": "Entitlement by liability versus entitlement by membership",
       "to": "The liability principle was demoted from rule to maxim"
+    },
+    {
+      "from": "Entity shielding and owner shielding protect different trajectories",
+      "to": "Absorbing barrier"
+    },
+    {
+      "from": "Entity shielding and owner shielding protect different trajectories",
+      "to": "Entity-shielding"
+    },
+    {
+      "from": "Entity shielding and owner shielding protect different trajectories",
+      "to": "Harris 2020 on the late plurality of limited liability"
+    },
+    {
+      "from": "Entity shielding and owner shielding protect different trajectories",
+      "to": "Kuran's brake is a refusal of immortal entities"
+    },
+    {
+      "from": "Entity shielding and owner shielding protect different trajectories",
+      "to": "Lock-in and outcome-coupling are distinct bindings"
+    },
+    {
+      "from": "Entity shielding and owner shielding protect different trajectories",
+      "to": "MOC - ERC Synergy Grant"
+    },
+    {
+      "from": "Entity shielding and owner shielding protect different trajectories",
+      "to": "MOC - Entity-shielding and corporate forms"
+    },
+    {
+      "from": "Entity shielding and owner shielding protect different trajectories",
+      "to": "MOC - Ergodicity and the time-ensemble distinction"
+    },
+    {
+      "from": "Entity shielding and owner shielding protect different trajectories",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Entity shielding and owner shielding protect different trajectories",
+      "to": "The isqa refuses the agent's shield"
+    },
+    {
+      "from": "Entity shielding and owner shielding protect different trajectories",
+      "to": "The real cut is shielded-and-pooled versus unshielded"
+    },
+    {
+      "from": "Entity shielding and owner shielding protect different trajectories",
+      "to": "Transferable claims reconcile lock-in with member exit"
+    },
+    {
+      "from": "Entity shielding and owner shielding protect different trajectories",
+      "to": "limited-liability"
+    },
+    {
+      "from": "Entity shielding and owner shielding protect different trajectories",
+      "to": "organizational_forms"
     },
     {
       "from": "Entity-shielding",
@@ -2073,6 +2147,10 @@
     },
     {
       "from": "MOC - Entity-shielding and corporate forms",
+      "to": "Entity shielding and owner shielding protect different trajectories"
+    },
+    {
+      "from": "MOC - Entity-shielding and corporate forms",
       "to": "Entity-shielding"
     },
     {
@@ -2181,6 +2259,10 @@
     },
     {
       "from": "MOC - Entity-shielding and corporate forms",
+      "to": "Transferable claims reconcile lock-in with member exit"
+    },
+    {
+      "from": "MOC - Entity-shielding and corporate forms",
       "to": "Van Dam's Beschryvinge - the VOC described by its own advocaat"
     },
     {
@@ -2266,6 +2348,10 @@
     {
       "from": "MOC - HistorEE",
       "to": "Ensemble benchmarking of agents is biased against the honest"
+    },
+    {
+      "from": "MOC - HistorEE",
+      "to": "Entity shielding and owner shielding protect different trajectories"
     },
     {
       "from": "MOC - HistorEE",
@@ -2494,6 +2580,10 @@
     {
       "from": "MOC - HistorEE",
       "to": "Time-average optimization is a survivorship property not an intention"
+    },
+    {
+      "from": "MOC - HistorEE",
+      "to": "Transferable claims reconcile lock-in with member exit"
     },
     {
       "from": "MOC - HistorEE",
@@ -4710,6 +4800,54 @@
     {
       "from": "Time-average optimization is a survivorship property not an intention",
       "to": "Time-average"
+    },
+    {
+      "from": "Transferable claims reconcile lock-in with member exit",
+      "to": "Count degrees of freedom not cells"
+    },
+    {
+      "from": "Transferable claims reconcile lock-in with member exit",
+      "to": "Entity shielding and owner shielding protect different trajectories"
+    },
+    {
+      "from": "Transferable claims reconcile lock-in with member exit",
+      "to": "Harris 2020 on the late plurality of limited liability"
+    },
+    {
+      "from": "Transferable claims reconcile lock-in with member exit",
+      "to": "Lock-in and outcome-coupling are distinct bindings"
+    },
+    {
+      "from": "Transferable claims reconcile lock-in with member exit",
+      "to": "MOC - Entity-shielding and corporate forms"
+    },
+    {
+      "from": "Transferable claims reconcile lock-in with member exit",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Transferable claims reconcile lock-in with member exit",
+      "to": "MOC - Risk-sharing vs risk-pricing"
+    },
+    {
+      "from": "Transferable claims reconcile lock-in with member exit",
+      "to": "The Roman universitas makes the JSC case parallelism not convergence"
+    },
+    {
+      "from": "Transferable claims reconcile lock-in with member exit",
+      "to": "The asiento de averia is the pooling-to-corporation hinge"
+    },
+    {
+      "from": "Transferable claims reconcile lock-in with member exit",
+      "to": "The depersonalised share was produced by honour not by pooling logic"
+    },
+    {
+      "from": "Transferable claims reconcile lock-in with member exit",
+      "to": "limited-liability"
+    },
+    {
+      "from": "Transferable claims reconcile lock-in with member exit",
+      "to": "organizational_forms"
     },
     {
       "from": "Transkribus - managed HTR platform",
