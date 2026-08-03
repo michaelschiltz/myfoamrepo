@@ -33,7 +33,7 @@ Filed to the Zotero collection **HistorEE — partnership forms**. ✅ = added.
 ## Priority — the live controversy
 
 - ✅ **Ackerman-Lieberman, Phillip I.** *The Business of Identity: Jews, Muslims, and Economic Life in Medieval Egypt.* Stanford UP, 2014. ISBN 9780804785471; DOI `10.11126/stanford/9780804785471.001.0001`. Zotero key `TAU5WETW`. Argues, against Goitein and Udovitch, that Geniza Jews transacted in distinctively **Talmudic** rather than Islamic partnership forms. This is the evidentiary crux for [[The isqa refuses the agent's shield]] and the terminological caution in [[Isqa qirad and commenda are a liability-variable triad]].
-- ⚠️ **Ackerman-Lieberman.** 'Contractual Partnerships in the Geniza…', *JESHO* 54 (2011), 646–676. DOI `10.1163/156852011x614000` — resolved via CrossRef. **Added as `9JC2D6DP`, which duplicates the existing `ZJ24ZN53`.** `if_exists: file` matches on DOI and the existing record carries none, so the collision went undetected. Delete `9JC2D6DP` and add the DOI to `ZJ24ZN53` instead.
+- ✅ **Ackerman-Lieberman.** 'Contractual Partnerships in the Geniza…', *JESHO* 54 (2011), 646–676. DOI `10.1163/156852011x614000`, resolved via CrossRef. Held as **`ZJ24ZN53`**. My duplicate `9JC2D6DP` was merged into it on 2026-08-03, carrying the DOI and five tags across. The collision had gone undetected because `if_exists: file` matches on DOI and the original record carried none — a reminder that idempotency keys only work on the field they key on.
 
 ## Ribbit and the isqa
 

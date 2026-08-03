@@ -44,7 +44,7 @@ This is the sharpest external objection available to our matrix, and three chara
 
 ## Whether two characteristics are one construct
 
-**Campbell & Fiske, 'Convergent and discriminant validation by the multitrait-multimethod matrix', *Psychological Bulletin* 56 (1959), 81–105.** Discriminant validity **cannot be settled analytically** — only by observing cases where the constructs come apart. Which is what coding the *asiento* did to `agent-loss-exposure`. **Pagination unverified; not yet in Zotero.**
+**Campbell & Fiske, 'Convergent and discriminant validation by the multitrait-multimethod matrix', *Psychological Bulletin* 56 (1959), 81–105.** `10.1037/h0046016` — verified, pagination correct. Discriminant validity **cannot be settled analytically** — only by observing cases where the constructs come apart. Which is what coding the *asiento* did to `agent-loss-exposure`.
 
 ## How many characteristics one can afford
 
@@ -58,11 +58,23 @@ Simulated **over five million random datasets** to locate the point at which con
 
 **Collier, LaPorte & Seawright, 'Putting typologies to work', *Political Research Quarterly* 65 (2012), 217–232.** `10.1177/1065912912437162` · **Sartori, 'Concept misformation in comparative politics', *APSR* 64 (1970), 1033–1053.** `10.2307/1958356` on the ladder of abstraction and conceptual stretching.
 
-**Lazarsfeld (1937)** on typological procedure and **Barton (1955)** on *property space* — the Zwicky matrix under an earlier name, with explicit operations of **reduction** from a full attribute space to a workable typology. This is the direct ancestor of what the codebook does. **Both unverified; not yet in Zotero.**
+**Elman, 'Explanatory typologies in qualitative studies of international politics', *International Organization* 59:2 (2005), 293–326.** `10.1017/S0020818305050101` — **already in the library** as `B3MFB58X`; I recorded it as absent without checking by surname. Read 2026-08-03.
+
+The operational payoff. Elman gives a **typology of the legitimate ways to shrink a property space**, with the cost of each: *rescaling* (lower the level of measurement), *indexing* (weight and combine into a composite), *logical compression* (delete cells from impossible combinations), *empirical compression* (delete empty cells), *pragmatic compression* (collapse cells whose division serves no purpose). The mapping onto the codebook is close to exact — `applicability_on` plus `.NA` **is** logical compression; `.NR` exists to prevent empirical compression; an unweighted distance metric **is** indexing done implicitly; merging `AP2`/`CI2` would have been pragmatic compression. He also treats *expansion* and the **rediscovery of deleted cells** as first-class, which is why conflating `.NR` with `.NA` is unrecoverable rather than merely untidy — and warns against **reification**, the standing risk for `dependence_group`.
+
+**Lazarsfeld (1937)** on typological procedure and **Barton (1955)** on *property space* — the Zwicky matrix under an earlier name, with explicit operations of **reduction**. **Both unverified and absent from the library** (checked by surname). Barton is cited in Collier et al.'s reference list and could be resolved from there.
 
 ## The disciplinary analogue we should be reading
 
-Archaeology had this argument sixty years ago, over material forms, morphological attributes and no direct access to descent — closer to our position than biology is. The **Ford–Spaulding debate** (*American Antiquity*, 1953–54) on whether types are discovered or imposed; **Dunnell, *Systematics in Prehistory* (1971)** on classification versus grouping; **Adams & Adams, *Archaeological Typology and Practical Reality* (1991)**. Historians reach for biology and skip the field that had the argument in the medium closest to theirs. **All unverified, none consulted.**
+Archaeology had this argument sixty years ago, over material forms, morphological attributes and no direct access to descent — closer to our position than biology is. Historians reach for biology and skip the field that had the argument in the medium closest to theirs.
+
+**Spaulding, 'Statistical techniques for the discovery of artifact types', *American Antiquity* 18:4 (1953), 305–313.** `10.2307/277099`, JSTOR `277099`. Read 2026-08-03. Types are "groups of combinations of attributes favored by the makers of the artifacts, **not an arbitrary procedure of the classifier**"; method is chi square on contingency tables of attribute pairs, so a type is an association recurring beyond random drawing.
+
+**This is an empirical escape from the ugly duckling problem, and it is closed to us.** Watanabe says the weighting cannot come from the objects; Spaulding answers that it comes from the *data* — combinations recurring beyond chance are features of practice, not of the analyst's attention. But chi square needs cases, and at four fully-coded forms there are none to spare. So the Ford–Spaulding debate states our position as a fork: **Spaulding's route needs cases we lack; Ford's route — types as constructs imposed for a stated purpose, the purpose supplying the weighting — needs a declared analytical core we have not written.** We have neither.
+
+The library holds the 1997 reprint (`DJZB7ZUV`, in Lyman, O'Brien & Dunnell's *Americanist Culture History*); the 1953 original is now added as `5GR482JX` and the two are linked `owl:sameAs` rather than merged, since original and reprint are separately citable and the pagination differs.
+
+**Still unread:** Ford's reply (*American Antiquity*, 1954) — the other half of the fork, and my characterisation of it above is secondhand; **Dunnell, *Systematics in Prehistory* (1971)**; **Adams & Adams, *Archaeological Typology and Practical Reality* (1991)**. Ford is now the highest-priority unread item.
 
 Also **Ritchey** on cross-consistency assessment in general morphological analysis, which exists to prune the combinatorial explosion. **Unverified.**
 

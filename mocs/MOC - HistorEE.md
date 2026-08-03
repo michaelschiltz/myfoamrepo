@@ -93,6 +93,8 @@ Project hub for the book. Atomic notes hang off both this project MOC and a them
 - [[Typology and character coding literature]]
 - [[The Roman universitas makes the JSC case parallelism not convergence]]
 - [[Le Bris Goetzmann Pouget 2023 on convergent evolution toward the joint-stock company]]
+- [[Entity shielding and owner shielding protect different trajectories]]
+- [[Transferable claims reconcile lock-in with member exit]]
 - [[Isqa reading list to acquire]]
 
 ## Notes — VOC pillar session

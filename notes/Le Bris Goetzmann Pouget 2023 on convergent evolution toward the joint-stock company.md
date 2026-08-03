@@ -81,4 +81,4 @@ The `pariage` evidence is excellent and largely new to the anglophone literature
 
 ## Source
 
-NBER WP 31821 read from the PDF supplied in session, 3 August 2026. `bazacle_mill` coded into `organizational_forms` (`OF-0124`–`OF-0155`) from this paper plus Sicard.
+NBER WP 31821 read from the PDF supplied in session, 3 August 2026. `bazacle_mill` coded into `organizational_forms` (`OF-0124`–`OF-0155`) from this paper plus Sicard. Zotero duplicates merged 2026-08-03: the article record is now `FQWLWX4S` and the Bazacle price series `D56UBV5Q`.
