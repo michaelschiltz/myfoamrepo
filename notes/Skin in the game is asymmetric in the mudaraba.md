@@ -34,3 +34,12 @@ Note the contrast with the sea loan, where the asymmetry runs the other way: the
 ## Source
 
 Ron Harris session — commenda chapter; loss allocation and the *amāna*/*ḍamān* structure.
+
+[Scuttling rewards fraud in the sea loan]: <Scuttling rewards fraud in the sea loan.md> "Scuttling rewards fraud in the sea loan"
+[The isqa refuses the agent's shield]: <The isqa refuses the agent's shield.md> "The isqa refuses the agent's shield"
+[Lock-in and outcome-coupling are distinct bindings]: <Lock-in and outcome-coupling are distinct bindings.md> "Lock-in and outcome-coupling are distinct bindings"
+[The qirad envelops the sea loan]: <The qirad envelops the sea loan.md> "The qirad envelops the sea loan"
+[Skin in the game]: <Skin in the game.md> "Skin in the game"
+[MOC - Islamic contract doctrine]: <../mocs/MOC - Islamic contract doctrine.md> "MOC - Islamic contract doctrine"
+[MOC - Risk-sharing vs risk-pricing]: <../mocs/MOC - Risk-sharing vs risk-pricing.md> "MOC - Risk-sharing vs risk-pricing"
+[MOC - HistorEE]: <../mocs/MOC - HistorEE.md> "MOC - HistorEE"
