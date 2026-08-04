@@ -1,0 +1,31 @@
+# Keep the bundled Foam scaffolding out of release archives.
+#
+# `export-ignore` affects `git archive` only — that is, the source tarballs
+# GitHub generates for a release, which are what Zenodo ingests. The working
+# repository is untouched: the docs still render locally, the images still
+# resolve, and nothing is deleted or rewritten.
+#
+# The rationale is the one stated in LICENSING.md: these three paths are the
+# work of the Foam project under Foam's own MIT licence, not material of this
+# repository. The Zenodo deposit describes "a git-native Foam vault of atomic,
+# cross-linked Markdown notes", and shipping ~30 MB of third-party feature
+# demonstrations inside a citable research artefact misdescribes it.
+#
+# Reversible by deleting these three lines.
+
+assets/      export-ignore
+_foam-docs/  export-ignore
+_layouts/    export-ignore
+
+# Normalise line endings so a vault edited across macOS, Windows and Linux
+# does not churn diffs. Markdown is the canonical content here.
+* text=auto eol=lf
+*.md text eol=lf
+*.py text eol=lf
+
+# Treat these as binary: no line-ending translation, no attempted textual diff.
+*.png binary
+*.gif binary
+*.jpg binary
+*.pdf binary
+*.docx binary
