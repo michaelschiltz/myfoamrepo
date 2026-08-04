@@ -48,3 +48,6 @@ Forensic, precise, argument-led. No hedging, throat-clearing, or excessive signp
 
 - Do not delete or rename files without explicit confirmation.
 - Git commits/pushes are done by the user in VSCode (the sandbox cannot write to `.git`).
+
+[Never let the units slide from instruments to populations]: <notes/Never let the units slide from instruments to populations.md> "Never let the units slide from instruments to populations"
+[Homoplasy is the finding not the noise]: <notes/Homoplasy is the finding not the noise.md> "Homoplasy is the finding not the noise"
