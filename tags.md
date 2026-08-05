@@ -15,6 +15,14 @@ Keep tags lowercase, hyphenated, singular. Before coining a new tag, check this 
 
 `ergodicity` · `time-average` · `ensemble-average` · `multiplicative-dynamics` · `absorbing-barrier` · `jensen-inequality` · `convexity` · `diversification` · `synchrony` · `kolmogorov-nagumo` · `expected-utility` · `ergodic-hygiene`
 
+## Path dependence / sequence
+
+`path-dependence` · `non-commutativity` · `reinforcement` · `attractor-selection`
+
+**Note on the two senses of lock-in.** `capital-lock-in` (below, under corporate form) is the *legal* property — contributed capital non-withdrawable at the member's will. Arthur's *lock-in* is the *dynamic* property — a stochastic process entering one of several stable basins and being unable to leave. They are independent along both axes and the interesting claim lives in their interaction, so the vocabulary keeps them apart: the dynamic sense takes `attractor-selection`, and prose writes *attractor lock-in* or *capital lock-in* in full wherever either could be meant. Never tag a dynamic claim `capital-lock-in`. See [[Arthur's lock-in and capital lock-in are different objects]].
+
+**Note on `path-dependence`.** The tag asserts that the operations are *non-commuting* — that a permutation of the same events yields a different outcome — and is therefore stronger than the ordinary historiographical usage. Where the claim is only that the *set* of past events matters, the phenomenon is Page's **phat dependence** and is compatible with full permutation invariance; do not tag it. Where the claim is that an outcome persists without order-sensitivity, use `persistence`. See [[Path dependence requires naming the non-commuting operation]].
+
 ## Instruments & risk
 
 `risk-sharing` · `risk-pricing` · `pls` · `skin-in-the-game` · `contingent-claim` · `sea-loan` · `bottomry` · `foenus-nauticum` · `marine-insurance` · `qirad` · `mudaraba` · `commenda` · `general-average` · `averia` · `carrera-de-indias`

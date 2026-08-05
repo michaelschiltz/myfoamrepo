@@ -25,11 +25,17 @@ Thematic hub for the project's load-bearing distinction: ensemble average vs [[T
 - [[Time-average optimization is a survivorship property not an intention]]
 - [[Non-ergodicity collapses the likelihood ratio on outcomes]]
 - [[Deep-roots variables are symplesiomorphies]]
+- [[Pure multiplicative dynamics are permutation-invariant]]
+- [[Flows make the dynamic affine and affine maps do not commute]]
+- [[Terminal wealth is permutation-invariant but survival is not]]
+- [[Reinforcement selects an attractor the ensemble average never occupies]]
+- [[Absorption is a path-dependence mechanism distinct from reinforcement]]
 
 ## Links
 
 - [[MOC - Risk-sharing vs risk-pricing]]
 - [[MOC - Entity-shielding and corporate forms]]
+- [[MOC - Path dependence and sequence]]
 - [[MOC - HistorEE]]
 
 

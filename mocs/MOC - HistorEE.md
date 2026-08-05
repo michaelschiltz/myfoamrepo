@@ -18,6 +18,7 @@ Project hub for the book. Atomic notes hang off both this project MOC and a them
 - [[MOC - Risk-sharing vs risk-pricing]]
 - [[MOC - Islamic contract doctrine]]
 - [[MOC - Historiography and method]]
+- [[MOC - Path dependence and sequence]]
 
 ## Notes — Ron Harris session
 
@@ -100,6 +101,17 @@ Project hub for the book. Atomic notes hang off both this project MOC and a them
 ## Notes — VOC pillar session
 
 - [[Van Dam's Beschryvinge - the VOC described by its own advocaat]]
+
+## Notes — Path dependence session
+
+- [[Pure multiplicative dynamics are permutation-invariant]]
+- [[Flows make the dynamic affine and affine maps do not commute]]
+- [[Terminal wealth is permutation-invariant but survival is not]]
+- [[Reinforcement selects an attractor the ensemble average never occupies]]
+- [[Path dependence requires naming the non-commuting operation]]
+- [[Arthur's lock-in and capital lock-in are different objects]]
+- [[Absorption is a path-dependence mechanism distinct from reinforcement]]
+- [[Path dependence literature]]
 
 ## Concept anchors
 

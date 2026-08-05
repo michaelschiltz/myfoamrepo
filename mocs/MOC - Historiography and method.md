@@ -45,10 +45,14 @@ Thematic hub for the project's methodological guardrails: teleology and its inve
 - [[The Roman universitas makes the JSC case parallelism not convergence]]
 - [[Van Dam's Beschryvinge - the VOC described by its own advocaat]]
 
+- [[Path dependence requires naming the non-commuting operation]]
+- [[Path dependence literature]]
+
 ## Links
 
 - [[MOC - HistorEE]]
 - [[MOC - ERC Synergy Grant]]
+- [[MOC - Path dependence and sequence]]
 
 
 [MOC - HistorEE]: <MOC - HistorEE.md> "MOC - Clearing and Settling the Realm"
