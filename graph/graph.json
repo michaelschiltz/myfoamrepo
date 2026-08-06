@@ -5,8 +5,26 @@
       "type": "permanent",
       "group": "stub",
       "label": "Absorbing barrier",
-      "value": 29,
+      "value": 34,
       "color": "#666666",
+      "shape": "dot"
+    },
+    {
+      "id": "Absorption is a path-dependence mechanism distinct from reinforcement",
+      "type": "permanent",
+      "group": "seed",
+      "label": "Absorption is a path-dependence mechanism distinct from reinforcement",
+      "value": 23,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "Arthur's lock-in and capital lock-in are different objects",
+      "type": "permanent",
+      "group": "seed",
+      "label": "Arthur's lock-in and capital lock-in are different objects",
+      "value": 20,
+      "color": "#e6ab02",
       "shape": "dot"
     },
     {
@@ -104,7 +122,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Entity shielding and owner shielding protect different trajectories",
-      "value": 23,
+      "value": 24,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -113,8 +131,17 @@
       "type": "permanent",
       "group": "stub",
       "label": "Entity-shielding",
-      "value": 42,
+      "value": 44,
       "color": "#666666",
+      "shape": "dot"
+    },
+    {
+      "id": "Flows make the dynamic affine and affine maps do not commute",
+      "type": "permanent",
+      "group": "seed",
+      "label": "Flows make the dynamic affine and affine maps do not commute",
+      "value": 19,
+      "color": "#e6ab02",
       "shape": "dot"
     },
     {
@@ -140,7 +167,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Guard against reverse-teleology",
-      "value": 25,
+      "value": 26,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -266,7 +293,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Lock-in and outcome-coupling are distinct bindings",
-      "value": 27,
+      "value": 29,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -320,7 +347,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Non-ergodicity collapses the likelihood ratio on outcomes",
-      "value": 24,
+      "value": 26,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -348,6 +375,24 @@
       "group": "seed",
       "label": "Outcome-coupling is the condition of legibility",
       "value": 18,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "Path dependence literature",
+      "type": "reference",
+      "group": "reference",
+      "label": "Path dependence literature",
+      "value": 27,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "Path dependence requires naming the non-commuting operation",
+      "type": "permanent",
+      "group": "seed",
+      "label": "Path dependence requires naming the non-commuting operation",
+      "value": 26,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -397,11 +442,29 @@
       "shape": "dot"
     },
     {
+      "id": "Pure multiplicative dynamics are permutation-invariant",
+      "type": "permanent",
+      "group": "seed",
+      "label": "Pure multiplicative dynamics are permutation-invariant",
+      "value": 24,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
       "id": "Refusals are observations of the filter not inferences from survivors",
       "type": "permanent",
       "group": "seed",
       "label": "Refusals are observations of the filter not inferences from survivors",
-      "value": 36,
+      "value": 38,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "Reinforcement selects an attractor the ensemble average never occupies",
+      "type": "permanent",
+      "group": "seed",
+      "label": "Reinforcement selects an attractor the ensemble average never occupies",
+      "value": 22,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -492,6 +555,15 @@
       "group": "seed",
       "label": "Split provenance into priority and independence",
       "value": 21,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "Terminal wealth is permutation-invariant but survival is not",
+      "type": "permanent",
+      "group": "seed",
+      "label": "Terminal wealth is permutation-invariant but survival is not",
+      "value": 24,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -617,7 +689,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The ensemble average is the local descriptor of a barrier-shielded agent",
-      "value": 16,
+      "value": 17,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -806,7 +878,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Time-average optimization is a survivorship property not an intention",
-      "value": 22,
+      "value": 24,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -815,7 +887,7 @@
       "type": "permanent",
       "group": "stub",
       "label": "Time-average",
-      "value": 19,
+      "value": 22,
       "color": "#666666",
       "shape": "dot"
     },
@@ -824,7 +896,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Transferable claims reconcile lock-in with member exit",
-      "value": 20,
+      "value": 21,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -851,7 +923,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Typology and character coding literature",
-      "value": 17,
+      "value": 18,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -923,7 +995,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Entity-shielding and corporate forms",
-      "value": 73,
+      "value": 79,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -932,7 +1004,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Ergodicity and the time-ensemble distinction",
-      "value": 36,
+      "value": 48,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -941,7 +1013,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - HistorEE",
-      "value": 171,
+      "value": 189,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -950,7 +1022,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Historiography and method",
-      "value": 75,
+      "value": 81,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -960,6 +1032,15 @@
       "group": "moc",
       "label": "MOC - Islamic contract doctrine",
       "value": 39,
+      "color": "#d95f02",
+      "shape": "dot"
+    },
+    {
+      "id": "MOC - Path dependence and sequence",
+      "type": "moc",
+      "group": "moc",
+      "label": "MOC - Path dependence and sequence",
+      "value": 25,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -977,7 +1058,7 @@
       "type": "reference",
       "group": "reference",
       "label": "tags",
-      "value": 6,
+      "value": 8,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1028,6 +1109,82 @@
     {
       "from": "Absorbing barrier",
       "to": "Time-average"
+    },
+    {
+      "from": "Absorption is a path-dependence mechanism distinct from reinforcement",
+      "to": "Absorbing barrier"
+    },
+    {
+      "from": "Absorption is a path-dependence mechanism distinct from reinforcement",
+      "to": "Entity shielding and owner shielding protect different trajectories"
+    },
+    {
+      "from": "Absorption is a path-dependence mechanism distinct from reinforcement",
+      "to": "Entity-shielding"
+    },
+    {
+      "from": "Absorption is a path-dependence mechanism distinct from reinforcement",
+      "to": "MOC - Entity-shielding and corporate forms"
+    },
+    {
+      "from": "Absorption is a path-dependence mechanism distinct from reinforcement",
+      "to": "MOC - Ergodicity and the time-ensemble distinction"
+    },
+    {
+      "from": "Absorption is a path-dependence mechanism distinct from reinforcement",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Absorption is a path-dependence mechanism distinct from reinforcement",
+      "to": "MOC - Path dependence and sequence"
+    },
+    {
+      "from": "Absorption is a path-dependence mechanism distinct from reinforcement",
+      "to": "Path dependence literature"
+    },
+    {
+      "from": "Absorption is a path-dependence mechanism distinct from reinforcement",
+      "to": "Reinforcement selects an attractor the ensemble average never occupies"
+    },
+    {
+      "from": "Absorption is a path-dependence mechanism distinct from reinforcement",
+      "to": "Terminal wealth is permutation-invariant but survival is not"
+    },
+    {
+      "from": "Absorption is a path-dependence mechanism distinct from reinforcement",
+      "to": "The ensemble average is the local descriptor of a barrier-shielded agent"
+    },
+    {
+      "from": "Arthur's lock-in and capital lock-in are different objects",
+      "to": "Entity-shielding"
+    },
+    {
+      "from": "Arthur's lock-in and capital lock-in are different objects",
+      "to": "Lock-in and outcome-coupling are distinct bindings"
+    },
+    {
+      "from": "Arthur's lock-in and capital lock-in are different objects",
+      "to": "MOC - Entity-shielding and corporate forms"
+    },
+    {
+      "from": "Arthur's lock-in and capital lock-in are different objects",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Arthur's lock-in and capital lock-in are different objects",
+      "to": "MOC - Path dependence and sequence"
+    },
+    {
+      "from": "Arthur's lock-in and capital lock-in are different objects",
+      "to": "Path dependence requires naming the non-commuting operation"
+    },
+    {
+      "from": "Arthur's lock-in and capital lock-in are different objects",
+      "to": "Reinforcement selects an attractor the ensemble average never occupies"
+    },
+    {
+      "from": "Arthur's lock-in and capital lock-in are different objects",
+      "to": "Transferable claims reconcile lock-in with member exit"
     },
     {
       "from": "Borrow the diagnostics not the tree",
@@ -1492,6 +1649,34 @@
     {
       "from": "Entity-shielding",
       "to": "The four-step decoupling from participation to the veil"
+    },
+    {
+      "from": "Flows make the dynamic affine and affine maps do not commute",
+      "to": "MOC - Ergodicity and the time-ensemble distinction"
+    },
+    {
+      "from": "Flows make the dynamic affine and affine maps do not commute",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Flows make the dynamic affine and affine maps do not commute",
+      "to": "MOC - Path dependence and sequence"
+    },
+    {
+      "from": "Flows make the dynamic affine and affine maps do not commute",
+      "to": "Path dependence literature"
+    },
+    {
+      "from": "Flows make the dynamic affine and affine maps do not commute",
+      "to": "Path dependence requires naming the non-commuting operation"
+    },
+    {
+      "from": "Flows make the dynamic affine and affine maps do not commute",
+      "to": "Pure multiplicative dynamics are permutation-invariant"
+    },
+    {
+      "from": "Flows make the dynamic affine and affine maps do not commute",
+      "to": "Terminal wealth is permutation-invariant but survival is not"
     },
     {
       "from": "Galton's problem",
@@ -2139,6 +2324,14 @@
     },
     {
       "from": "MOC - Entity-shielding and corporate forms",
+      "to": "Absorption is a path-dependence mechanism distinct from reinforcement"
+    },
+    {
+      "from": "MOC - Entity-shielding and corporate forms",
+      "to": "Arthur's lock-in and capital lock-in are different objects"
+    },
+    {
+      "from": "MOC - Entity-shielding and corporate forms",
       "to": "Decoupling substitutes proxy legibility for outcome legibility"
     },
     {
@@ -2184,6 +2377,10 @@
     {
       "from": "MOC - Entity-shielding and corporate forms",
       "to": "MOC - HistorEE"
+    },
+    {
+      "from": "MOC - Entity-shielding and corporate forms",
+      "to": "MOC - Path dependence and sequence"
     },
     {
       "from": "MOC - Entity-shielding and corporate forms",
@@ -2271,11 +2468,19 @@
     },
     {
       "from": "MOC - Ergodicity and the time-ensemble distinction",
+      "to": "Absorption is a path-dependence mechanism distinct from reinforcement"
+    },
+    {
+      "from": "MOC - Ergodicity and the time-ensemble distinction",
       "to": "Deep-roots variables are symplesiomorphies"
     },
     {
       "from": "MOC - Ergodicity and the time-ensemble distinction",
       "to": "Economics had its ensemble moment in 1738 and psychologized it"
+    },
+    {
+      "from": "MOC - Ergodicity and the time-ensemble distinction",
+      "to": "Flows make the dynamic affine and affine maps do not commute"
     },
     {
       "from": "MOC - Ergodicity and the time-ensemble distinction",
@@ -2291,6 +2496,10 @@
     },
     {
       "from": "MOC - Ergodicity and the time-ensemble distinction",
+      "to": "MOC - Path dependence and sequence"
+    },
+    {
+      "from": "MOC - Ergodicity and the time-ensemble distinction",
       "to": "MOC - Risk-sharing vs risk-pricing"
     },
     {
@@ -2303,11 +2512,23 @@
     },
     {
       "from": "MOC - Ergodicity and the time-ensemble distinction",
+      "to": "Pure multiplicative dynamics are permutation-invariant"
+    },
+    {
+      "from": "MOC - Ergodicity and the time-ensemble distinction",
+      "to": "Reinforcement selects an attractor the ensemble average never occupies"
+    },
+    {
+      "from": "MOC - Ergodicity and the time-ensemble distinction",
       "to": "Route Kolmogorov to ergodic theory not the theory of means"
     },
     {
       "from": "MOC - Ergodicity and the time-ensemble distinction",
       "to": "Separate the sociological and the methodological claims about economics"
+    },
+    {
+      "from": "MOC - Ergodicity and the time-ensemble distinction",
+      "to": "Terminal wealth is permutation-invariant but survival is not"
     },
     {
       "from": "MOC - Ergodicity and the time-ensemble distinction",
@@ -2328,6 +2549,14 @@
     {
       "from": "MOC - HistorEE",
       "to": "Absorbing barrier"
+    },
+    {
+      "from": "MOC - HistorEE",
+      "to": "Absorption is a path-dependence mechanism distinct from reinforcement"
+    },
+    {
+      "from": "MOC - HistorEE",
+      "to": "Arthur's lock-in and capital lock-in are different objects"
     },
     {
       "from": "MOC - HistorEE",
@@ -2356,6 +2585,10 @@
     {
       "from": "MOC - HistorEE",
       "to": "Entity-shielding"
+    },
+    {
+      "from": "MOC - HistorEE",
+      "to": "Flows make the dynamic affine and affine maps do not commute"
     },
     {
       "from": "MOC - HistorEE",
@@ -2423,6 +2656,10 @@
     },
     {
       "from": "MOC - HistorEE",
+      "to": "MOC - Path dependence and sequence"
+    },
+    {
+      "from": "MOC - HistorEE",
       "to": "MOC - Risk-sharing vs risk-pricing"
     },
     {
@@ -2451,7 +2688,23 @@
     },
     {
       "from": "MOC - HistorEE",
+      "to": "Path dependence literature"
+    },
+    {
+      "from": "MOC - HistorEE",
+      "to": "Path dependence requires naming the non-commuting operation"
+    },
+    {
+      "from": "MOC - HistorEE",
       "to": "Pricing risk does not remove it"
+    },
+    {
+      "from": "MOC - HistorEE",
+      "to": "Pure multiplicative dynamics are permutation-invariant"
+    },
+    {
+      "from": "MOC - HistorEE",
+      "to": "Reinforcement selects an attractor the ensemble average never occupies"
     },
     {
       "from": "MOC - HistorEE",
@@ -2476,6 +2729,10 @@
     {
       "from": "MOC - HistorEE",
       "to": "Skin in the game"
+    },
+    {
+      "from": "MOC - HistorEE",
+      "to": "Terminal wealth is permutation-invariant but survival is not"
     },
     {
       "from": "MOC - HistorEE",
@@ -2659,7 +2916,19 @@
     },
     {
       "from": "MOC - Historiography and method",
+      "to": "MOC - Path dependence and sequence"
+    },
+    {
+      "from": "MOC - Historiography and method",
       "to": "Never let the units slide from instruments to populations"
+    },
+    {
+      "from": "MOC - Historiography and method",
+      "to": "Path dependence literature"
+    },
+    {
+      "from": "MOC - Historiography and method",
+      "to": "Path dependence requires naming the non-commuting operation"
     },
     {
       "from": "MOC - Historiography and method",
@@ -2804,6 +3073,54 @@
     {
       "from": "MOC - Islamic contract doctrine",
       "to": "isqa"
+    },
+    {
+      "from": "MOC - Path dependence and sequence",
+      "to": "Absorption is a path-dependence mechanism distinct from reinforcement"
+    },
+    {
+      "from": "MOC - Path dependence and sequence",
+      "to": "Arthur's lock-in and capital lock-in are different objects"
+    },
+    {
+      "from": "MOC - Path dependence and sequence",
+      "to": "Flows make the dynamic affine and affine maps do not commute"
+    },
+    {
+      "from": "MOC - Path dependence and sequence",
+      "to": "MOC - Entity-shielding and corporate forms"
+    },
+    {
+      "from": "MOC - Path dependence and sequence",
+      "to": "MOC - Ergodicity and the time-ensemble distinction"
+    },
+    {
+      "from": "MOC - Path dependence and sequence",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "MOC - Path dependence and sequence",
+      "to": "MOC - Historiography and method"
+    },
+    {
+      "from": "MOC - Path dependence and sequence",
+      "to": "Path dependence literature"
+    },
+    {
+      "from": "MOC - Path dependence and sequence",
+      "to": "Path dependence requires naming the non-commuting operation"
+    },
+    {
+      "from": "MOC - Path dependence and sequence",
+      "to": "Pure multiplicative dynamics are permutation-invariant"
+    },
+    {
+      "from": "MOC - Path dependence and sequence",
+      "to": "Reinforcement selects an attractor the ensemble average never occupies"
+    },
+    {
+      "from": "MOC - Path dependence and sequence",
+      "to": "Terminal wealth is permutation-invariant but survival is not"
     },
     {
       "from": "MOC - Risk-sharing vs risk-pricing",
@@ -3150,6 +3467,90 @@
       "to": "Selection frequency trades against organizational memory"
     },
     {
+      "from": "Path dependence literature",
+      "to": "Absorption is a path-dependence mechanism distinct from reinforcement"
+    },
+    {
+      "from": "Path dependence literature",
+      "to": "Arthur's lock-in and capital lock-in are different objects"
+    },
+    {
+      "from": "Path dependence literature",
+      "to": "Flows make the dynamic affine and affine maps do not commute"
+    },
+    {
+      "from": "Path dependence literature",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Path dependence literature",
+      "to": "MOC - Historiography and method"
+    },
+    {
+      "from": "Path dependence literature",
+      "to": "MOC - Path dependence and sequence"
+    },
+    {
+      "from": "Path dependence literature",
+      "to": "Path dependence requires naming the non-commuting operation"
+    },
+    {
+      "from": "Path dependence literature",
+      "to": "Pure multiplicative dynamics are permutation-invariant"
+    },
+    {
+      "from": "Path dependence literature",
+      "to": "Reinforcement selects an attractor the ensemble average never occupies"
+    },
+    {
+      "from": "Path dependence literature",
+      "to": "Terminal wealth is permutation-invariant but survival is not"
+    },
+    {
+      "from": "Path dependence literature",
+      "to": "Typology and character coding literature"
+    },
+    {
+      "from": "Path dependence requires naming the non-commuting operation",
+      "to": "Arthur's lock-in and capital lock-in are different objects"
+    },
+    {
+      "from": "Path dependence requires naming the non-commuting operation",
+      "to": "Flows make the dynamic affine and affine maps do not commute"
+    },
+    {
+      "from": "Path dependence requires naming the non-commuting operation",
+      "to": "Guard against reverse-teleology"
+    },
+    {
+      "from": "Path dependence requires naming the non-commuting operation",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Path dependence requires naming the non-commuting operation",
+      "to": "MOC - Historiography and method"
+    },
+    {
+      "from": "Path dependence requires naming the non-commuting operation",
+      "to": "MOC - Path dependence and sequence"
+    },
+    {
+      "from": "Path dependence requires naming the non-commuting operation",
+      "to": "Path dependence literature"
+    },
+    {
+      "from": "Path dependence requires naming the non-commuting operation",
+      "to": "Pure multiplicative dynamics are permutation-invariant"
+    },
+    {
+      "from": "Path dependence requires naming the non-commuting operation",
+      "to": "Reinforcement selects an attractor the ensemble average never occupies"
+    },
+    {
+      "from": "Path dependence requires naming the non-commuting operation",
+      "to": "Terminal wealth is permutation-invariant but survival is not"
+    },
+    {
       "from": "Perpetuity splits into adaptation and petrification",
       "to": "Entity-shielding"
     },
@@ -3282,6 +3683,42 @@
       "to": "Time-average"
     },
     {
+      "from": "Pure multiplicative dynamics are permutation-invariant",
+      "to": "Absorbing barrier"
+    },
+    {
+      "from": "Pure multiplicative dynamics are permutation-invariant",
+      "to": "Flows make the dynamic affine and affine maps do not commute"
+    },
+    {
+      "from": "Pure multiplicative dynamics are permutation-invariant",
+      "to": "MOC - Ergodicity and the time-ensemble distinction"
+    },
+    {
+      "from": "Pure multiplicative dynamics are permutation-invariant",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Pure multiplicative dynamics are permutation-invariant",
+      "to": "MOC - Path dependence and sequence"
+    },
+    {
+      "from": "Pure multiplicative dynamics are permutation-invariant",
+      "to": "Path dependence requires naming the non-commuting operation"
+    },
+    {
+      "from": "Pure multiplicative dynamics are permutation-invariant",
+      "to": "Reinforcement selects an attractor the ensemble average never occupies"
+    },
+    {
+      "from": "Pure multiplicative dynamics are permutation-invariant",
+      "to": "Terminal wealth is permutation-invariant but survival is not"
+    },
+    {
+      "from": "Pure multiplicative dynamics are permutation-invariant",
+      "to": "Time-average"
+    },
+    {
       "from": "Refusals are observations of the filter not inferences from survivors",
       "to": "MOC - HistorEE"
     },
@@ -3308,6 +3745,38 @@
     {
       "from": "Refusals are observations of the filter not inferences from survivors",
       "to": "Time-average optimization is a survivorship property not an intention"
+    },
+    {
+      "from": "Reinforcement selects an attractor the ensemble average never occupies",
+      "to": "Absorption is a path-dependence mechanism distinct from reinforcement"
+    },
+    {
+      "from": "Reinforcement selects an attractor the ensemble average never occupies",
+      "to": "Arthur's lock-in and capital lock-in are different objects"
+    },
+    {
+      "from": "Reinforcement selects an attractor the ensemble average never occupies",
+      "to": "MOC - Ergodicity and the time-ensemble distinction"
+    },
+    {
+      "from": "Reinforcement selects an attractor the ensemble average never occupies",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Reinforcement selects an attractor the ensemble average never occupies",
+      "to": "MOC - Path dependence and sequence"
+    },
+    {
+      "from": "Reinforcement selects an attractor the ensemble average never occupies",
+      "to": "Non-ergodicity collapses the likelihood ratio on outcomes"
+    },
+    {
+      "from": "Reinforcement selects an attractor the ensemble average never occupies",
+      "to": "Path dependence literature"
+    },
+    {
+      "from": "Reinforcement selects an attractor the ensemble average never occupies",
+      "to": "Path dependence requires naming the non-commuting operation"
     },
     {
       "from": "Ribbit mandates exposure rather than forbidding gain",
@@ -3576,6 +4045,42 @@
     {
       "from": "Split provenance into priority and independence",
       "to": "Transmission versus independent recurrence is the load-bearing test"
+    },
+    {
+      "from": "Terminal wealth is permutation-invariant but survival is not",
+      "to": "Absorbing barrier"
+    },
+    {
+      "from": "Terminal wealth is permutation-invariant but survival is not",
+      "to": "Absorption is a path-dependence mechanism distinct from reinforcement"
+    },
+    {
+      "from": "Terminal wealth is permutation-invariant but survival is not",
+      "to": "MOC - Ergodicity and the time-ensemble distinction"
+    },
+    {
+      "from": "Terminal wealth is permutation-invariant but survival is not",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Terminal wealth is permutation-invariant but survival is not",
+      "to": "MOC - Path dependence and sequence"
+    },
+    {
+      "from": "Terminal wealth is permutation-invariant but survival is not",
+      "to": "Pure multiplicative dynamics are permutation-invariant"
+    },
+    {
+      "from": "Terminal wealth is permutation-invariant but survival is not",
+      "to": "Refusals are observations of the filter not inferences from survivors"
+    },
+    {
+      "from": "Terminal wealth is permutation-invariant but survival is not",
+      "to": "Time-average"
+    },
+    {
+      "from": "Terminal wealth is permutation-invariant but survival is not",
+      "to": "Time-average optimization is a survivorship property not an intention"
     },
     {
       "from": "The Fugger diversified activity while concentrating the barrier",
@@ -5079,11 +5584,19 @@
     },
     {
       "from": "tags",
+      "to": "Arthur's lock-in and capital lock-in are different objects"
+    },
+    {
+      "from": "tags",
       "to": "Homoplasy is the finding not the noise"
     },
     {
       "from": "tags",
       "to": "MOC - Digitisation and text recognition"
+    },
+    {
+      "from": "tags",
+      "to": "Path dependence requires naming the non-commuting operation"
     },
     {
       "from": "tags",
