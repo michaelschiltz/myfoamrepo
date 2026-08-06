@@ -27,6 +27,7 @@ The Part 2 WP1 session's *ideas* are written as atomic notes (below) and kept un
 - [[Nothing in the ergodic theorem fails in geometric Brownian motion]] — the defensive restatement, with the two concessions to make before a referee extracts them
 - [[An absorbing barrier breaks ergodicity by construction]] — the strongest formal card
 - [[Distinguish strong from weak ergodicity breaking]] — most of our cases are weak, and we have been writing as though they were strong
+- [[Jensen supplies the gap but only the dynamic privileges the logarithm]] — where the logarithm's privilege actually comes from, and the "which dynamic?" objection that replaces "which utility?"
 
 ## Leads
 

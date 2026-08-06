@@ -21,6 +21,7 @@ Written for WP3, to the standard a mathematically literate referee would apply.
 - [[Nothing in the ergodic theorem fails in geometric Brownian motion]]
 - [[An absorbing barrier breaks ergodicity by construction]]
 - [[Distinguish strong from weak ergodicity breaking]]
+- [[Jensen supplies the gap but only the dynamic privileges the logarithm]]
 
 ## Notes
 
