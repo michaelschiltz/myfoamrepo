@@ -3,10 +3,10 @@
     {
       "id": "Absorbing barrier",
       "type": "permanent",
-      "group": "stub",
+      "group": "seed",
       "label": "Absorbing barrier",
-      "value": 34,
-      "color": "#666666",
+      "value": 43,
+      "color": "#e6ab02",
       "shape": "dot"
     },
     {
@@ -14,7 +14,16 @@
       "type": "permanent",
       "group": "seed",
       "label": "Absorption is a path-dependence mechanism distinct from reinforcement",
-      "value": 23,
+      "value": 24,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "An absorbing barrier breaks ergodicity by construction",
+      "type": "permanent",
+      "group": "seed",
+      "label": "An absorbing barrier breaks ergodicity by construction",
+      "value": 27,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -59,7 +68,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Deep-roots variables are symplesiomorphies",
-      "value": 37,
+      "value": 38,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -82,6 +91,15 @@
       "shape": "dot"
     },
     {
+      "id": "Distinguish strong from weak ergodicity breaking",
+      "type": "permanent",
+      "group": "seed",
+      "label": "Distinguish strong from weak ergodicity breaking",
+      "value": 14,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
       "id": "Divergent arbitrary particulars are the independence diagnostic",
       "type": "permanent",
       "group": "seed",
@@ -95,7 +113,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Economics had its ensemble moment in 1738 and psychologized it",
-      "value": 11,
+      "value": 12,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -131,8 +149,17 @@
       "type": "permanent",
       "group": "stub",
       "label": "Entity-shielding",
-      "value": 44,
+      "value": 46,
       "color": "#666666",
+      "shape": "dot"
+    },
+    {
+      "id": "Ergodicity is indecomposability not randomness",
+      "type": "permanent",
+      "group": "seed",
+      "label": "Ergodicity is indecomposability not randomness",
+      "value": 20,
+      "color": "#e6ab02",
       "shape": "dot"
     },
     {
@@ -248,7 +275,7 @@
       "type": "permanent",
       "group": "stub",
       "label": "Jensen gap",
-      "value": 13,
+      "value": 22,
       "color": "#666666",
       "shape": "dot"
     },
@@ -348,6 +375,15 @@
       "group": "seed",
       "label": "Non-ergodicity collapses the likelihood ratio on outcomes",
       "value": 26,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "Nothing in the ergodic theorem fails in geometric Brownian motion",
+      "type": "permanent",
+      "group": "seed",
+      "label": "Nothing in the ergodic theorem fails in geometric Brownian motion",
+      "value": 21,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -491,7 +527,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Route Kolmogorov to ergodic theory not the theory of means",
-      "value": 11,
+      "value": 15,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -518,7 +554,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Separate the sociological and the methodological claims about economics",
-      "value": 12,
+      "value": 13,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -555,6 +591,15 @@
       "group": "seed",
       "label": "Split provenance into priority and independence",
       "value": 21,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "Stationarity is a precondition of ergodicity not a corollary",
+      "type": "permanent",
+      "group": "seed",
+      "label": "Stationarity is a precondition of ergodicity not a corollary",
+      "value": 20,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -608,7 +653,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The ascent narrative is the Jensen error as historiography",
-      "value": 16,
+      "value": 18,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -689,7 +734,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The ensemble average is the local descriptor of a barrier-shielded agent",
-      "value": 17,
+      "value": 19,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -824,7 +869,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The real cut is shielded-and-pooled versus unshielded",
-      "value": 20,
+      "value": 22,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -874,21 +919,30 @@
       "shape": "dot"
     },
     {
+      "id": "The word ergodic carries four incompatible senses",
+      "type": "permanent",
+      "group": "seed",
+      "label": "The word ergodic carries four incompatible senses",
+      "value": 17,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
       "id": "Time-average optimization is a survivorship property not an intention",
       "type": "permanent",
       "group": "seed",
       "label": "Time-average optimization is a survivorship property not an intention",
-      "value": 24,
+      "value": 26,
       "color": "#e6ab02",
       "shape": "dot"
     },
     {
       "id": "Time-average",
       "type": "permanent",
-      "group": "stub",
+      "group": "seed",
       "label": "Time-average",
-      "value": 22,
-      "color": "#666666",
+      "value": 35,
+      "color": "#e6ab02",
       "shape": "dot"
     },
     {
@@ -986,7 +1040,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - ERC Synergy Grant",
-      "value": 35,
+      "value": 40,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -995,7 +1049,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Entity-shielding and corporate forms",
-      "value": 79,
+      "value": 80,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -1004,7 +1058,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Ergodicity and the time-ensemble distinction",
-      "value": 48,
+      "value": 60,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -1013,7 +1067,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - HistorEE",
-      "value": 189,
+      "value": 195,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -1022,7 +1076,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Historiography and method",
-      "value": 81,
+      "value": 83,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -1084,7 +1138,19 @@
   "edges": [
     {
       "from": "Absorbing barrier",
+      "to": "An absorbing barrier breaks ergodicity by construction"
+    },
+    {
+      "from": "Absorbing barrier",
+      "to": "Distinguish strong from weak ergodicity breaking"
+    },
+    {
+      "from": "Absorbing barrier",
       "to": "Entity-shielding"
+    },
+    {
+      "from": "Absorbing barrier",
+      "to": "Ergodicity is indecomposability not randomness"
     },
     {
       "from": "Absorbing barrier",
@@ -1153,6 +1219,50 @@
     {
       "from": "Absorption is a path-dependence mechanism distinct from reinforcement",
       "to": "The ensemble average is the local descriptor of a barrier-shielded agent"
+    },
+    {
+      "from": "An absorbing barrier breaks ergodicity by construction",
+      "to": "Absorbing barrier"
+    },
+    {
+      "from": "An absorbing barrier breaks ergodicity by construction",
+      "to": "Absorption is a path-dependence mechanism distinct from reinforcement"
+    },
+    {
+      "from": "An absorbing barrier breaks ergodicity by construction",
+      "to": "Distinguish strong from weak ergodicity breaking"
+    },
+    {
+      "from": "An absorbing barrier breaks ergodicity by construction",
+      "to": "Entity-shielding"
+    },
+    {
+      "from": "An absorbing barrier breaks ergodicity by construction",
+      "to": "Ergodicity is indecomposability not randomness"
+    },
+    {
+      "from": "An absorbing barrier breaks ergodicity by construction",
+      "to": "MOC - Entity-shielding and corporate forms"
+    },
+    {
+      "from": "An absorbing barrier breaks ergodicity by construction",
+      "to": "MOC - Ergodicity and the time-ensemble distinction"
+    },
+    {
+      "from": "An absorbing barrier breaks ergodicity by construction",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "An absorbing barrier breaks ergodicity by construction",
+      "to": "Nothing in the ergodic theorem fails in geometric Brownian motion"
+    },
+    {
+      "from": "An absorbing barrier breaks ergodicity by construction",
+      "to": "The ensemble average is the local descriptor of a barrier-shielded agent"
+    },
+    {
+      "from": "An absorbing barrier breaks ergodicity by construction",
+      "to": "The real cut is shielded-and-pooled versus unshielded"
     },
     {
       "from": "Arthur's lock-in and capital lock-in are different objects",
@@ -1435,6 +1545,34 @@
       "to": "Whiggish history of finance names the ascent narrative"
     },
     {
+      "from": "Distinguish strong from weak ergodicity breaking",
+      "to": "Absorbing barrier"
+    },
+    {
+      "from": "Distinguish strong from weak ergodicity breaking",
+      "to": "An absorbing barrier breaks ergodicity by construction"
+    },
+    {
+      "from": "Distinguish strong from weak ergodicity breaking",
+      "to": "Ergodicity is indecomposability not randomness"
+    },
+    {
+      "from": "Distinguish strong from weak ergodicity breaking",
+      "to": "MOC - Ergodicity and the time-ensemble distinction"
+    },
+    {
+      "from": "Distinguish strong from weak ergodicity breaking",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Distinguish strong from weak ergodicity breaking",
+      "to": "Stationarity is a precondition of ergodicity not a corollary"
+    },
+    {
+      "from": "Distinguish strong from weak ergodicity breaking",
+      "to": "The word ergodic carries four incompatible senses"
+    },
+    {
       "from": "Divergent arbitrary particulars are the independence diagnostic",
       "to": "Galton's problem"
     },
@@ -1649,6 +1787,38 @@
     {
       "from": "Entity-shielding",
       "to": "The four-step decoupling from participation to the veil"
+    },
+    {
+      "from": "Ergodicity is indecomposability not randomness",
+      "to": "Absorbing barrier"
+    },
+    {
+      "from": "Ergodicity is indecomposability not randomness",
+      "to": "An absorbing barrier breaks ergodicity by construction"
+    },
+    {
+      "from": "Ergodicity is indecomposability not randomness",
+      "to": "MOC - Ergodicity and the time-ensemble distinction"
+    },
+    {
+      "from": "Ergodicity is indecomposability not randomness",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Ergodicity is indecomposability not randomness",
+      "to": "Route Kolmogorov to ergodic theory not the theory of means"
+    },
+    {
+      "from": "Ergodicity is indecomposability not randomness",
+      "to": "Stationarity is a precondition of ergodicity not a corollary"
+    },
+    {
+      "from": "Ergodicity is indecomposability not randomness",
+      "to": "The word ergodic carries four incompatible senses"
+    },
+    {
+      "from": "Ergodicity is indecomposability not randomness",
+      "to": "Time-average"
     },
     {
       "from": "Flows make the dynamic affine and affine maps do not commute",
@@ -2132,7 +2302,19 @@
     },
     {
       "from": "Jensen gap",
+      "to": "Nothing in the ergodic theorem fails in geometric Brownian motion"
+    },
+    {
+      "from": "Jensen gap",
       "to": "Pricing risk does not remove it"
+    },
+    {
+      "from": "Jensen gap",
+      "to": "The ascent narrative is the Jensen error as historiography"
+    },
+    {
+      "from": "Jensen gap",
+      "to": "Time-average"
     },
     {
       "from": "Kuran's brake is a refusal of immortal entities",
@@ -2288,6 +2470,14 @@
     },
     {
       "from": "MOC - ERC Synergy Grant",
+      "to": "An absorbing barrier breaks ergodicity by construction"
+    },
+    {
+      "from": "MOC - ERC Synergy Grant",
+      "to": "Distinguish strong from weak ergodicity breaking"
+    },
+    {
+      "from": "MOC - ERC Synergy Grant",
       "to": "MOC - HistorEE"
     },
     {
@@ -2297,6 +2487,14 @@
     {
       "from": "MOC - ERC Synergy Grant",
       "to": "MOC - Islamic contract doctrine"
+    },
+    {
+      "from": "MOC - ERC Synergy Grant",
+      "to": "Nothing in the ergodic theorem fails in geometric Brownian motion"
+    },
+    {
+      "from": "MOC - ERC Synergy Grant",
+      "to": "Stationarity is a precondition of ergodicity not a corollary"
     },
     {
       "from": "MOC - ERC Synergy Grant",
@@ -2317,6 +2515,10 @@
     {
       "from": "MOC - ERC Synergy Grant",
       "to": "The qirad's antecedents are Sasanian not Sogdian"
+    },
+    {
+      "from": "MOC - ERC Synergy Grant",
+      "to": "The word ergodic carries four incompatible senses"
     },
     {
       "from": "MOC - ERC Synergy Grant",
@@ -2472,11 +2674,23 @@
     },
     {
       "from": "MOC - Ergodicity and the time-ensemble distinction",
+      "to": "An absorbing barrier breaks ergodicity by construction"
+    },
+    {
+      "from": "MOC - Ergodicity and the time-ensemble distinction",
       "to": "Deep-roots variables are symplesiomorphies"
     },
     {
       "from": "MOC - Ergodicity and the time-ensemble distinction",
+      "to": "Distinguish strong from weak ergodicity breaking"
+    },
+    {
+      "from": "MOC - Ergodicity and the time-ensemble distinction",
       "to": "Economics had its ensemble moment in 1738 and psychologized it"
+    },
+    {
+      "from": "MOC - Ergodicity and the time-ensemble distinction",
+      "to": "Ergodicity is indecomposability not randomness"
     },
     {
       "from": "MOC - Ergodicity and the time-ensemble distinction",
@@ -2508,6 +2722,10 @@
     },
     {
       "from": "MOC - Ergodicity and the time-ensemble distinction",
+      "to": "Nothing in the ergodic theorem fails in geometric Brownian motion"
+    },
+    {
+      "from": "MOC - Ergodicity and the time-ensemble distinction",
       "to": "Pricing risk does not remove it"
     },
     {
@@ -2528,6 +2746,10 @@
     },
     {
       "from": "MOC - Ergodicity and the time-ensemble distinction",
+      "to": "Stationarity is a precondition of ergodicity not a corollary"
+    },
+    {
+      "from": "MOC - Ergodicity and the time-ensemble distinction",
       "to": "Terminal wealth is permutation-invariant but survival is not"
     },
     {
@@ -2537,6 +2759,10 @@
     {
       "from": "MOC - Ergodicity and the time-ensemble distinction",
       "to": "The real cut is shielded-and-pooled versus unshielded"
+    },
+    {
+      "from": "MOC - Ergodicity and the time-ensemble distinction",
+      "to": "The word ergodic carries four incompatible senses"
     },
     {
       "from": "MOC - Ergodicity and the time-ensemble distinction",
@@ -3387,6 +3613,38 @@
       "to": "Skin in the game is asymmetric in the mudaraba"
     },
     {
+      "from": "Nothing in the ergodic theorem fails in geometric Brownian motion",
+      "to": "An absorbing barrier breaks ergodicity by construction"
+    },
+    {
+      "from": "Nothing in the ergodic theorem fails in geometric Brownian motion",
+      "to": "Jensen gap"
+    },
+    {
+      "from": "Nothing in the ergodic theorem fails in geometric Brownian motion",
+      "to": "MOC - Ergodicity and the time-ensemble distinction"
+    },
+    {
+      "from": "Nothing in the ergodic theorem fails in geometric Brownian motion",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Nothing in the ergodic theorem fails in geometric Brownian motion",
+      "to": "Stationarity is a precondition of ergodicity not a corollary"
+    },
+    {
+      "from": "Nothing in the ergodic theorem fails in geometric Brownian motion",
+      "to": "The ensemble average is the local descriptor of a barrier-shielded agent"
+    },
+    {
+      "from": "Nothing in the ergodic theorem fails in geometric Brownian motion",
+      "to": "Time-average"
+    },
+    {
+      "from": "Nothing in the ergodic theorem fails in geometric Brownian motion",
+      "to": "Time-average optimization is a survivorship property not an intention"
+    },
+    {
       "from": "Olivares's junta coded the asiento as a privileged company",
       "to": "Guard against reverse-teleology"
     },
@@ -4045,6 +4303,42 @@
     {
       "from": "Split provenance into priority and independence",
       "to": "Transmission versus independent recurrence is the load-bearing test"
+    },
+    {
+      "from": "Stationarity is a precondition of ergodicity not a corollary",
+      "to": "An absorbing barrier breaks ergodicity by construction"
+    },
+    {
+      "from": "Stationarity is a precondition of ergodicity not a corollary",
+      "to": "Deep-roots variables are symplesiomorphies"
+    },
+    {
+      "from": "Stationarity is a precondition of ergodicity not a corollary",
+      "to": "Ergodicity is indecomposability not randomness"
+    },
+    {
+      "from": "Stationarity is a precondition of ergodicity not a corollary",
+      "to": "MOC - Ergodicity and the time-ensemble distinction"
+    },
+    {
+      "from": "Stationarity is a precondition of ergodicity not a corollary",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Stationarity is a precondition of ergodicity not a corollary",
+      "to": "MOC - Historiography and method"
+    },
+    {
+      "from": "Stationarity is a precondition of ergodicity not a corollary",
+      "to": "Nothing in the ergodic theorem fails in geometric Brownian motion"
+    },
+    {
+      "from": "Stationarity is a precondition of ergodicity not a corollary",
+      "to": "Route Kolmogorov to ergodic theory not the theory of means"
+    },
+    {
+      "from": "Stationarity is a precondition of ergodicity not a corollary",
+      "to": "The word ergodic carries four incompatible senses"
     },
     {
       "from": "Terminal wealth is permutation-invariant but survival is not",
@@ -5259,8 +5553,52 @@
       "to": "Transmission versus independent recurrence is the load-bearing test"
     },
     {
+      "from": "The word ergodic carries four incompatible senses",
+      "to": "Economics had its ensemble moment in 1738 and psychologized it"
+    },
+    {
+      "from": "The word ergodic carries four incompatible senses",
+      "to": "Ergodicity is indecomposability not randomness"
+    },
+    {
+      "from": "The word ergodic carries four incompatible senses",
+      "to": "MOC - Ergodicity and the time-ensemble distinction"
+    },
+    {
+      "from": "The word ergodic carries four incompatible senses",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "The word ergodic carries four incompatible senses",
+      "to": "MOC - Historiography and method"
+    },
+    {
+      "from": "The word ergodic carries four incompatible senses",
+      "to": "Route Kolmogorov to ergodic theory not the theory of means"
+    },
+    {
+      "from": "The word ergodic carries four incompatible senses",
+      "to": "Separate the sociological and the methodological claims about economics"
+    },
+    {
+      "from": "The word ergodic carries four incompatible senses",
+      "to": "Stationarity is a precondition of ergodicity not a corollary"
+    },
+    {
       "from": "Time-average",
       "to": "Absorbing barrier"
+    },
+    {
+      "from": "Time-average",
+      "to": "An absorbing barrier breaks ergodicity by construction"
+    },
+    {
+      "from": "Time-average",
+      "to": "Ergodicity is indecomposability not randomness"
+    },
+    {
+      "from": "Time-average",
+      "to": "Jensen gap"
     },
     {
       "from": "Time-average",
@@ -5272,11 +5610,19 @@
     },
     {
       "from": "Time-average",
+      "to": "Nothing in the ergodic theorem fails in geometric Brownian motion"
+    },
+    {
+      "from": "Time-average",
       "to": "Pricing risk does not remove it"
     },
     {
       "from": "Time-average",
       "to": "Route Kolmogorov to ergodic theory not the theory of means"
+    },
+    {
+      "from": "Time-average",
+      "to": "Stationarity is a precondition of ergodicity not a corollary"
     },
     {
       "from": "Time-average",
