@@ -20,6 +20,14 @@ The Part 2 WP1 session's *ideas* are written as atomic notes (below) and kept un
 - [[The qirad's antecedents are Sasanian not Sogdian]]
 - [[The determinate-contingent typology carries the richness]]
 
+## Notes (WP3 formal criterion)
+
+- [[Stationarity is a precondition of ergodicity not a corollary]] — the domain condition, and the repair that keeps the space-for-time critique from collapsing into Davidson
+- [[The word ergodic carries four incompatible senses]] — which sense the application is claiming, and why it must say so
+- [[Nothing in the ergodic theorem fails in geometric Brownian motion]] — the defensive restatement, with the two concessions to make before a referee extracts them
+- [[An absorbing barrier breaks ergodicity by construction]] — the strongest formal card
+- [[Distinguish strong from weak ergodicity breaking]] — most of our cases are weak, and we have been writing as though they were strong
+
 ## Leads
 
 - [[The isqa's bifurcation belongs to the Sasanian substrate question]] — the rabbinic route as the least-cost place to run the *Leitfehler* test the *qirāḍ* genealogy turns on, and a stronger approach to Macuch than the Islamic leg alone.

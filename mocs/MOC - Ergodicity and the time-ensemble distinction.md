@@ -11,6 +11,17 @@ status: seed
 
 Thematic hub for the project's load-bearing distinction: ensemble average vs [[Time-average|time-average]], multiplicative dynamics, and the absorbing barrier.
 
+## Formal placement
+
+Written for WP3, to the standard a mathematically literate referee would apply.
+
+- [[Ergodicity is indecomposability not randomness]]
+- [[Stationarity is a precondition of ergodicity not a corollary]]
+- [[The word ergodic carries four incompatible senses]]
+- [[Nothing in the ergodic theorem fails in geometric Brownian motion]]
+- [[An absorbing barrier breaks ergodicity by construction]]
+- [[Distinguish strong from weak ergodicity breaking]]
+
 ## Notes
 
 - [[Pricing risk does not remove it]]
