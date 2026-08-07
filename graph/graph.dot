@@ -32,6 +32,7 @@ digraph vault {
   "Isqa qirad and commenda are a liability-variable triad" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Isqa reading list to acquire" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
   "Jensen gap" [fillcolor="#666666", fontcolor=white, shape=ellipse];
+  "Jensen supplies the gap but only the dynamic privileges the logarithm" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Kuran's brake is a refusal of immortal entities" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Kuzushiji OCR - the NDL and CODH stack" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
   "Le Bris Goetzmann Pouget 2023 on convergent evolution toward the joint-stock company" [fillcolor="#7570b3", fontcolor=white, shape=ellipse];
@@ -416,12 +417,21 @@ digraph vault {
   "Isqa reading list to acquire" -> "The isqa refuses the agent's shield";
   "Isqa reading list to acquire" -> "isqa";
   "Jensen gap" -> "Entity-shielding";
+  "Jensen gap" -> "Jensen supplies the gap but only the dynamic privileges the logarithm";
   "Jensen gap" -> "MOC - Ergodicity and the time-ensemble distinction";
   "Jensen gap" -> "MOC - HistorEE";
   "Jensen gap" -> "Nothing in the ergodic theorem fails in geometric Brownian motion";
   "Jensen gap" -> "Pricing risk does not remove it";
   "Jensen gap" -> "The ascent narrative is the Jensen error as historiography";
   "Jensen gap" -> "Time-average";
+  "Jensen supplies the gap but only the dynamic privileges the logarithm" -> "Economics had its ensemble moment in 1738 and psychologized it";
+  "Jensen supplies the gap but only the dynamic privileges the logarithm" -> "Jensen gap";
+  "Jensen supplies the gap but only the dynamic privileges the logarithm" -> "MOC - Ergodicity and the time-ensemble distinction";
+  "Jensen supplies the gap but only the dynamic privileges the logarithm" -> "MOC - HistorEE";
+  "Jensen supplies the gap but only the dynamic privileges the logarithm" -> "Nothing in the ergodic theorem fails in geometric Brownian motion";
+  "Jensen supplies the gap but only the dynamic privileges the logarithm" -> "Route Kolmogorov to ergodic theory not the theory of means";
+  "Jensen supplies the gap but only the dynamic privileges the logarithm" -> "Stationarity is a precondition of ergodicity not a corollary";
+  "Jensen supplies the gap but only the dynamic privileges the logarithm" -> "Time-average";
   "Kuran's brake is a refusal of immortal entities" -> "Guard against reverse-teleology";
   "Kuran's brake is a refusal of immortal entities" -> "Lock-in and outcome-coupling are distinct bindings";
   "Kuran's brake is a refusal of immortal entities" -> "MOC - HistorEE";
@@ -462,6 +472,7 @@ digraph vault {
   "MOC - Digitisation and text recognition" -> "Transkribus - managed HTR platform";
   "MOC - ERC Synergy Grant" -> "An absorbing barrier breaks ergodicity by construction";
   "MOC - ERC Synergy Grant" -> "Distinguish strong from weak ergodicity breaking";
+  "MOC - ERC Synergy Grant" -> "Jensen supplies the gap but only the dynamic privileges the logarithm";
   "MOC - ERC Synergy Grant" -> "MOC - HistorEE";
   "MOC - ERC Synergy Grant" -> "MOC - Historiography and method";
   "MOC - ERC Synergy Grant" -> "MOC - Islamic contract doctrine";
@@ -518,6 +529,7 @@ digraph vault {
   "MOC - Ergodicity and the time-ensemble distinction" -> "Ergodicity is indecomposability not randomness";
   "MOC - Ergodicity and the time-ensemble distinction" -> "Flows make the dynamic affine and affine maps do not commute";
   "MOC - Ergodicity and the time-ensemble distinction" -> "Jensen gap";
+  "MOC - Ergodicity and the time-ensemble distinction" -> "Jensen supplies the gap but only the dynamic privileges the logarithm";
   "MOC - Ergodicity and the time-ensemble distinction" -> "MOC - Entity-shielding and corporate forms";
   "MOC - Ergodicity and the time-ensemble distinction" -> "MOC - HistorEE";
   "MOC - Ergodicity and the time-ensemble distinction" -> "MOC - Path dependence and sequence";
