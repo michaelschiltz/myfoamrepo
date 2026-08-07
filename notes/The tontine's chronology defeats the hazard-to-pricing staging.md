@@ -36,4 +36,4 @@ The tontine's value is not as a stage. It is the negative control — see [[The 
 
 ## Source
 
-Tontines and annuity valuation session, 2026-08-07. Figures from the secondary literature (Milevsky 2015 review notices; *Tontine et rentes viagères en 1693 en Angleterre*) — both flagged for verification against Weir 1989. Goetzmann 2016, chs. 15 and 19; page references not yet checked against the text.
+Tontines and annuity valuation session, 2026-08-07. Figures from the secondary literature (Milevsky 2015 review notices; *Tontine et rentes viagères en 1693 en Angleterre*) — both flagged for verification against Weir, David R. 1989. "Tontines, Public Finance, and Revolution in France and England, 1688–1789." *Journal of Economic History* 49 (1): 95–124. `10.1017/S002205070000735X`, DOI resolved through CrossRef. Note that the DOI carried from memory in an earlier draft was wrong — it resolved to an article on coal-town sanitation. Goetzmann 2016, chs. 15 and 19; page references not yet checked against the text. Zotero collection: *HistorEE — pricing and pooling*.

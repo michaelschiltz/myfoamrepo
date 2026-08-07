@@ -36,4 +36,4 @@ One hazard on the analyst's side. "Pooling in form, dispersal in function" is a 
 
 ## Source
 
-Tontines and annuity valuation session, 2026-08-07. Peters & Adamou on the cooperation result (verify exact reference). Coded in `loss_mitigation_forms` as `tontine_en_1693` and `tontine_fr_royal`.
+Tontines and annuity valuation session, 2026-08-07. Peters, Ole, and Alexander Adamou. 2022. "The Ergodicity Solution of the Cooperation Puzzle." *Philosophical Transactions of the Royal Society A* 380 (2227): 20200425. `10.1098/rsta.2020.0425` — DOI resolved through CrossRef, reference now verified. Coded in `loss_mitigation_forms` as `tontine_en_1693` and `tontine_fr_royal`. Zotero collection: *HistorEE — pricing and pooling*.
