@@ -5,7 +5,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Absorbing barrier",
-      "value": 43,
+      "value": 45,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -23,7 +23,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "An absorbing barrier breaks ergodicity by construction",
-      "value": 27,
+      "value": 29,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -50,7 +50,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Count degrees of freedom not cells",
-      "value": 23,
+      "value": 26,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -86,7 +86,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Discipline the Whig epithet by pinning it to teleology and survivorship",
-      "value": 9,
+      "value": 11,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -118,6 +118,15 @@
       "shape": "dot"
     },
     {
+      "id": "Endogenised absorption has a sign",
+      "type": "permanent",
+      "group": "seed",
+      "label": "Endogenised absorption has a sign",
+      "value": 15,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
       "id": "Ensemble benchmarking of agents is biased against the honest",
       "type": "permanent",
       "group": "seed",
@@ -131,7 +140,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Entitlement by liability versus entitlement by membership",
-      "value": 15,
+      "value": 16,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -464,7 +473,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Pooling's sign is set by the correlation of its baskets",
-      "value": 24,
+      "value": 26,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -478,11 +487,20 @@
       "shape": "dot"
     },
     {
+      "id": "Pricing is orthogonal to mitigation mechanism not a stage of it",
+      "type": "permanent",
+      "group": "seed",
+      "label": "Pricing is orthogonal to mitigation mechanism not a stage of it",
+      "value": 16,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
       "id": "Pricing risk does not remove it",
       "type": "permanent",
       "group": "seed",
       "label": "Pricing risk does not remove it",
-      "value": 17,
+      "value": 19,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -500,7 +518,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Refusals are observations of the filter not inferences from survivors",
-      "value": 38,
+      "value": 40,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -590,7 +608,7 @@
       "type": "permanent",
       "group": "stub",
       "label": "Skin in the game",
-      "value": 22,
+      "value": 23,
       "color": "#666666",
       "shape": "dot"
     },
@@ -662,7 +680,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The ascent narrative is the Jensen error as historiography",
-      "value": 18,
+      "value": 19,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -680,7 +698,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The coding commons must record stated rationale not only component presence",
-      "value": 33,
+      "value": 35,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -716,7 +734,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The determinate-contingent typology carries the richness",
-      "value": 14,
+      "value": 16,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -788,7 +806,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The isqa is Lindy because captive not because robust",
-      "value": 19,
+      "value": 20,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -901,6 +919,24 @@
       "shape": "dot"
     },
     {
+      "id": "The tontine is pooling in form and dispersal in function",
+      "type": "permanent",
+      "group": "seed",
+      "label": "The tontine is pooling in form and dispersal in function",
+      "value": 21,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "The tontine's chronology defeats the hazard-to-pricing staging",
+      "type": "permanent",
+      "group": "seed",
+      "label": "The tontine's chronology defeats the hazard-to-pricing staging",
+      "value": 21,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
       "id": "The waqf and the nación flamenca diverge only at legal personality",
       "type": "permanent",
       "group": "seed",
@@ -950,7 +986,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Time-average",
-      "value": 36,
+      "value": 37,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -986,7 +1022,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Typology and character coding literature",
-      "value": 18,
+      "value": 20,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1004,7 +1040,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Whiggish history of finance names the ascent narrative",
-      "value": 10,
+      "value": 13,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1067,7 +1103,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Ergodicity and the time-ensemble distinction",
-      "value": 62,
+      "value": 64,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -1076,7 +1112,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - HistorEE",
-      "value": 196,
+      "value": 200,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -1085,7 +1121,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Historiography and method",
-      "value": 83,
+      "value": 85,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -1112,7 +1148,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Risk-sharing vs risk-pricing",
-      "value": 50,
+      "value": 58,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -1131,6 +1167,15 @@
       "group": "database",
       "label": "organizational_forms",
       "value": 11,
+      "color": "#a6761d",
+      "shape": "database"
+    },
+    {
+      "id": "loss_mitigation_forms",
+      "type": "database",
+      "group": "database",
+      "label": "loss_mitigation_forms",
+      "value": 5,
       "color": "#a6761d",
       "shape": "database"
     },
@@ -1652,6 +1697,46 @@
     {
       "from": "Economics had its ensemble moment in 1738 and psychologized it",
       "to": "Time-average"
+    },
+    {
+      "from": "Endogenised absorption has a sign",
+      "to": "Absorbing barrier"
+    },
+    {
+      "from": "Endogenised absorption has a sign",
+      "to": "An absorbing barrier breaks ergodicity by construction"
+    },
+    {
+      "from": "Endogenised absorption has a sign",
+      "to": "Count degrees of freedom not cells"
+    },
+    {
+      "from": "Endogenised absorption has a sign",
+      "to": "Entitlement by liability versus entitlement by membership"
+    },
+    {
+      "from": "Endogenised absorption has a sign",
+      "to": "MOC - Ergodicity and the time-ensemble distinction"
+    },
+    {
+      "from": "Endogenised absorption has a sign",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Endogenised absorption has a sign",
+      "to": "MOC - Risk-sharing vs risk-pricing"
+    },
+    {
+      "from": "Endogenised absorption has a sign",
+      "to": "The tontine is pooling in form and dispersal in function"
+    },
+    {
+      "from": "Endogenised absorption has a sign",
+      "to": "Typology and character coding literature"
+    },
+    {
+      "from": "Endogenised absorption has a sign",
+      "to": "loss_mitigation_forms"
     },
     {
       "from": "Ensemble benchmarking of agents is biased against the honest",
@@ -3407,6 +3492,10 @@
     },
     {
       "from": "MOC - Risk-sharing vs risk-pricing",
+      "to": "Endogenised absorption has a sign"
+    },
+    {
+      "from": "MOC - Risk-sharing vs risk-pricing",
       "to": "Lock-in and outcome-coupling are distinct bindings"
     },
     {
@@ -3432,6 +3521,10 @@
     {
       "from": "MOC - Risk-sharing vs risk-pricing",
       "to": "Pooling's sign is set by the correlation of its baskets"
+    },
+    {
+      "from": "MOC - Risk-sharing vs risk-pricing",
+      "to": "Pricing is orthogonal to mitigation mechanism not a stage of it"
     },
     {
       "from": "MOC - Risk-sharing vs risk-pricing",
@@ -3480,6 +3573,14 @@
     {
       "from": "MOC - Risk-sharing vs risk-pricing",
       "to": "The sea loan is a contingent claim not a loan"
+    },
+    {
+      "from": "MOC - Risk-sharing vs risk-pricing",
+      "to": "The tontine is pooling in form and dispersal in function"
+    },
+    {
+      "from": "MOC - Risk-sharing vs risk-pricing",
+      "to": "The tontine's chronology defeats the hazard-to-pricing staging"
     },
     {
       "from": "MOC - Risk-sharing vs risk-pricing",
@@ -3964,6 +4065,46 @@
     {
       "from": "Preservation-grade overhead scanners - Zeutschel and i2S",
       "to": "Robotic V-cradle book scanners - Treventus and Qidenus"
+    },
+    {
+      "from": "Pricing is orthogonal to mitigation mechanism not a stage of it",
+      "to": "Count degrees of freedom not cells"
+    },
+    {
+      "from": "Pricing is orthogonal to mitigation mechanism not a stage of it",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Pricing is orthogonal to mitigation mechanism not a stage of it",
+      "to": "MOC - Historiography and method"
+    },
+    {
+      "from": "Pricing is orthogonal to mitigation mechanism not a stage of it",
+      "to": "MOC - Risk-sharing vs risk-pricing"
+    },
+    {
+      "from": "Pricing is orthogonal to mitigation mechanism not a stage of it",
+      "to": "Pricing risk does not remove it"
+    },
+    {
+      "from": "Pricing is orthogonal to mitigation mechanism not a stage of it",
+      "to": "The determinate-contingent typology carries the richness"
+    },
+    {
+      "from": "Pricing is orthogonal to mitigation mechanism not a stage of it",
+      "to": "The tontine is pooling in form and dispersal in function"
+    },
+    {
+      "from": "Pricing is orthogonal to mitigation mechanism not a stage of it",
+      "to": "The tontine's chronology defeats the hazard-to-pricing staging"
+    },
+    {
+      "from": "Pricing is orthogonal to mitigation mechanism not a stage of it",
+      "to": "Typology and character coding literature"
+    },
+    {
+      "from": "Pricing is orthogonal to mitigation mechanism not a stage of it",
+      "to": "loss_mitigation_forms"
     },
     {
       "from": "Pricing risk does not remove it",
@@ -5498,6 +5639,98 @@
       "to": "Transmission versus independent recurrence is the load-bearing test"
     },
     {
+      "from": "The tontine is pooling in form and dispersal in function",
+      "to": "Absorbing barrier"
+    },
+    {
+      "from": "The tontine is pooling in form and dispersal in function",
+      "to": "Endogenised absorption has a sign"
+    },
+    {
+      "from": "The tontine is pooling in form and dispersal in function",
+      "to": "MOC - Ergodicity and the time-ensemble distinction"
+    },
+    {
+      "from": "The tontine is pooling in form and dispersal in function",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "The tontine is pooling in form and dispersal in function",
+      "to": "MOC - Risk-sharing vs risk-pricing"
+    },
+    {
+      "from": "The tontine is pooling in form and dispersal in function",
+      "to": "Pooling's sign is set by the correlation of its baskets"
+    },
+    {
+      "from": "The tontine is pooling in form and dispersal in function",
+      "to": "Skin in the game"
+    },
+    {
+      "from": "The tontine is pooling in form and dispersal in function",
+      "to": "The coding commons must record stated rationale not only component presence"
+    },
+    {
+      "from": "The tontine is pooling in form and dispersal in function",
+      "to": "The isqa is Lindy because captive not because robust"
+    },
+    {
+      "from": "The tontine is pooling in form and dispersal in function",
+      "to": "The tontine's chronology defeats the hazard-to-pricing staging"
+    },
+    {
+      "from": "The tontine is pooling in form and dispersal in function",
+      "to": "Time-average"
+    },
+    {
+      "from": "The tontine is pooling in form and dispersal in function",
+      "to": "loss_mitigation_forms"
+    },
+    {
+      "from": "The tontine's chronology defeats the hazard-to-pricing staging",
+      "to": "Discipline the Whig epithet by pinning it to teleology and survivorship"
+    },
+    {
+      "from": "The tontine's chronology defeats the hazard-to-pricing staging",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "The tontine's chronology defeats the hazard-to-pricing staging",
+      "to": "MOC - Historiography and method"
+    },
+    {
+      "from": "The tontine's chronology defeats the hazard-to-pricing staging",
+      "to": "MOC - Risk-sharing vs risk-pricing"
+    },
+    {
+      "from": "The tontine's chronology defeats the hazard-to-pricing staging",
+      "to": "Pricing is orthogonal to mitigation mechanism not a stage of it"
+    },
+    {
+      "from": "The tontine's chronology defeats the hazard-to-pricing staging",
+      "to": "Pricing risk does not remove it"
+    },
+    {
+      "from": "The tontine's chronology defeats the hazard-to-pricing staging",
+      "to": "Refusals are observations of the filter not inferences from survivors"
+    },
+    {
+      "from": "The tontine's chronology defeats the hazard-to-pricing staging",
+      "to": "The ascent narrative is the Jensen error as historiography"
+    },
+    {
+      "from": "The tontine's chronology defeats the hazard-to-pricing staging",
+      "to": "The tontine is pooling in form and dispersal in function"
+    },
+    {
+      "from": "The tontine's chronology defeats the hazard-to-pricing staging",
+      "to": "Whiggish history of finance names the ascent narrative"
+    },
+    {
+      "from": "The tontine's chronology defeats the hazard-to-pricing staging",
+      "to": "loss_mitigation_forms"
+    },
+    {
       "from": "The waqf and the nación flamenca diverge only at legal personality",
       "to": "Entity-shielding"
     },
@@ -5908,6 +6141,10 @@
     {
       "from": "Whiggish history of finance names the ascent narrative",
       "to": "The ascent narrative is the Jensen error as historiography"
+    },
+    {
+      "from": "Whiggish history of finance names the ascent narrative",
+      "to": "The tontine's chronology defeats the hazard-to-pricing staging"
     },
     {
       "from": "commenda",
