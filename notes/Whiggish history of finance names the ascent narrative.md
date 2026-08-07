@@ -20,6 +20,7 @@ Note that this is an *extension by analogy*: Butterfield's thesis was about cons
 
 - [[The ascent narrative is the Jensen error as historiography]]
 - [[Discipline the Whig epithet by pinning it to teleology and survivorship]]
+- [[The tontine's chronology defeats the hazard-to-pricing staging]]
 - [[MOC - Historiography and method]]
 - [[MOC - HistorEE]]
 
