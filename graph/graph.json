@@ -113,7 +113,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Economics had its ensemble moment in 1738 and psychologized it",
-      "value": 13,
+      "value": 14,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -383,7 +383,7 @@
       "type": "permanent",
       "group": "stub",
       "label": "Never let the units slide from instruments to populations",
-      "value": 29,
+      "value": 31,
       "color": "#666666",
       "shape": "dot"
     },
@@ -455,7 +455,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Perpetuity splits into adaptation and petrification",
-      "value": 18,
+      "value": 19,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -491,7 +491,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Pricing is orthogonal to mitigation mechanism not a stage of it",
-      "value": 16,
+      "value": 18,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -510,6 +510,15 @@
       "group": "seed",
       "label": "Pure multiplicative dynamics are permutation-invariant",
       "value": 24,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "Read the Nakai anomaly against the ie's horizon not the transaction's",
+      "type": "permanent",
+      "group": "seed",
+      "label": "Read the Nakai anomaly against the ie's horizon not the transaction's",
+      "value": 18,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -572,7 +581,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Selection frequency trades against organizational memory",
-      "value": 15,
+      "value": 16,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -644,6 +653,15 @@
       "type": "permanent",
       "group": "seed",
       "label": "The Fugger diversified activity while concentrating the barrier",
+      "value": 16,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "The Nakai ledger scores as losses what present value scores as gains",
+      "type": "permanent",
+      "group": "seed",
+      "label": "The Nakai ledger scores as losses what present value scores as gains",
       "value": 16,
       "color": "#e6ab02",
       "shape": "dot"
@@ -761,7 +779,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The ensemble average is the local descriptor of a barrier-shielded agent",
-      "value": 19,
+      "value": 20,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -797,7 +815,7 @@
       "type": "permanent",
       "group": "stub",
       "label": "The ie as entity-shielding",
-      "value": 16,
+      "value": 17,
       "color": "#666666",
       "shape": "dot"
     },
@@ -977,7 +995,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Time-average optimization is a survivorship property not an intention",
-      "value": 26,
+      "value": 30,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1094,7 +1112,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Entity-shielding and corporate forms",
-      "value": 80,
+      "value": 82,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -1103,7 +1121,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Ergodicity and the time-ensemble distinction",
-      "value": 64,
+      "value": 68,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -1112,7 +1130,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - HistorEE",
-      "value": 200,
+      "value": 202,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -1148,7 +1166,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Risk-sharing vs risk-pricing",
-      "value": 58,
+      "value": 59,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -1175,7 +1193,7 @@
       "type": "database",
       "group": "database",
       "label": "loss_mitigation_forms",
-      "value": 5,
+      "value": 7,
       "color": "#a6761d",
       "shape": "database"
     },
@@ -2744,6 +2762,10 @@
     },
     {
       "from": "MOC - Entity-shielding and corporate forms",
+      "to": "Read the Nakai anomaly against the ie's horizon not the transaction's"
+    },
+    {
+      "from": "MOC - Entity-shielding and corporate forms",
       "to": "The Roman universitas makes the JSC case parallelism not convergence"
     },
     {
@@ -2872,6 +2894,10 @@
     },
     {
       "from": "MOC - Ergodicity and the time-ensemble distinction",
+      "to": "Read the Nakai anomaly against the ie's horizon not the transaction's"
+    },
+    {
+      "from": "MOC - Ergodicity and the time-ensemble distinction",
       "to": "Reinforcement selects an attractor the ensemble average never occupies"
     },
     {
@@ -2889,6 +2915,10 @@
     {
       "from": "MOC - Ergodicity and the time-ensemble distinction",
       "to": "Terminal wealth is permutation-invariant but survival is not"
+    },
+    {
+      "from": "MOC - Ergodicity and the time-ensemble distinction",
+      "to": "The Nakai ledger scores as losses what present value scores as gains"
     },
     {
       "from": "MOC - Ergodicity and the time-ensemble distinction",
@@ -4171,6 +4201,46 @@
       "to": "Time-average"
     },
     {
+      "from": "Read the Nakai anomaly against the ie's horizon not the transaction's",
+      "to": "MOC - Entity-shielding and corporate forms"
+    },
+    {
+      "from": "Read the Nakai anomaly against the ie's horizon not the transaction's",
+      "to": "MOC - Ergodicity and the time-ensemble distinction"
+    },
+    {
+      "from": "Read the Nakai anomaly against the ie's horizon not the transaction's",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Read the Nakai anomaly against the ie's horizon not the transaction's",
+      "to": "Never let the units slide from instruments to populations"
+    },
+    {
+      "from": "Read the Nakai anomaly against the ie's horizon not the transaction's",
+      "to": "Perpetuity splits into adaptation and petrification"
+    },
+    {
+      "from": "Read the Nakai anomaly against the ie's horizon not the transaction's",
+      "to": "Selection frequency trades against organizational memory"
+    },
+    {
+      "from": "Read the Nakai anomaly against the ie's horizon not the transaction's",
+      "to": "The Nakai ledger scores as losses what present value scores as gains"
+    },
+    {
+      "from": "Read the Nakai anomaly against the ie's horizon not the transaction's",
+      "to": "The ie as entity-shielding"
+    },
+    {
+      "from": "Read the Nakai anomaly against the ie's horizon not the transaction's",
+      "to": "Time-average optimization is a survivorship property not an intention"
+    },
+    {
+      "from": "Read the Nakai anomaly against the ie's horizon not the transaction's",
+      "to": "loss_mitigation_forms"
+    },
+    {
       "from": "Refusals are observations of the filter not inferences from survivors",
       "to": "MOC - HistorEE"
     },
@@ -4597,6 +4667,42 @@
     {
       "from": "The Fugger diversified activity while concentrating the barrier",
       "to": "The real cut is shielded-and-pooled versus unshielded"
+    },
+    {
+      "from": "The Nakai ledger scores as losses what present value scores as gains",
+      "to": "Economics had its ensemble moment in 1738 and psychologized it"
+    },
+    {
+      "from": "The Nakai ledger scores as losses what present value scores as gains",
+      "to": "MOC - Ergodicity and the time-ensemble distinction"
+    },
+    {
+      "from": "The Nakai ledger scores as losses what present value scores as gains",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "The Nakai ledger scores as losses what present value scores as gains",
+      "to": "MOC - Risk-sharing vs risk-pricing"
+    },
+    {
+      "from": "The Nakai ledger scores as losses what present value scores as gains",
+      "to": "Pricing is orthogonal to mitigation mechanism not a stage of it"
+    },
+    {
+      "from": "The Nakai ledger scores as losses what present value scores as gains",
+      "to": "Read the Nakai anomaly against the ie's horizon not the transaction's"
+    },
+    {
+      "from": "The Nakai ledger scores as losses what present value scores as gains",
+      "to": "The ensemble average is the local descriptor of a barrier-shielded agent"
+    },
+    {
+      "from": "The Nakai ledger scores as losses what present value scores as gains",
+      "to": "Time-average optimization is a survivorship property not an intention"
+    },
+    {
+      "from": "The Nakai ledger scores as losses what present value scores as gains",
+      "to": "loss_mitigation_forms"
     },
     {
       "from": "The Roman universitas makes the JSC case parallelism not convergence",

@@ -26,6 +26,8 @@ Written for WP3, to the standard a mathematically literate referee would apply.
 ## Notes
 
 - [[Pricing risk does not remove it]]
+- [[The Nakai ledger scores as losses what present value scores as gains]]
+- [[Read the Nakai anomaly against the ie's horizon not the transaction's]]
 - [[Absorbing barrier]]
 - [[Time-average]]
 - [[Jensen gap]]
