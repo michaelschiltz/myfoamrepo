@@ -22,6 +22,7 @@ Thematic hub for the instrument axis: risk-*sharing* forms that keep every party
 - [[Warichi re-randomises after absorption rather than diversifying]]
 - [[Warichi and general average spread the incidence of an irreversible loss]]
 - [[General average shares decisions where warichi shares hazards]]
+- [[The general-particular boundary is unverifiable and its leakage subsidises sailing]]
 - [[Brown tests equality where a risk reading predicts dispersion]]
 - [[Endogenised absorption has a sign]]
 - [[The tontine's chronology defeats the hazard-to-pricing staging]]

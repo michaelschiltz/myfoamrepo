@@ -95,6 +95,7 @@ digraph vault {
   "The fictive household supplied partition and perpetuity without legal personality" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "The four-step decoupling from participation to the veil" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "The fraterna and compagnia diverge in formation but converge at the barrier" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
+  "The general-particular boundary is unverifiable and its leakage subsidises sailing" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "The heter iska restores the fixed return by evidentiary barrier" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "The ie as entity-shielding" [fillcolor="#666666", fontcolor=white, shape=ellipse];
   "The isqa is Lindy because captive not because robust" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
@@ -355,6 +356,7 @@ digraph vault {
   "General average shares decisions where warichi shares hazards" -> "Outcome-coupling is the condition of legibility";
   "General average shares decisions where warichi shares hazards" -> "Pricing risk does not remove it";
   "General average shares decisions where warichi shares hazards" -> "The amana-daman structure refuses to infer fault from loss";
+  "General average shares decisions where warichi shares hazards" -> "The general-particular boundary is unverifiable and its leakage subsidises sailing";
   "General average shares decisions where warichi shares hazards" -> "Warichi and general average spread the incidence of an irreversible loss";
   "General average shares decisions where warichi shares hazards" -> "Warichi re-randomises after absorption rather than diversifying";
   "General average shares decisions where warichi shares hazards" -> "loss_mitigation_forms";
@@ -759,6 +761,7 @@ digraph vault {
   "MOC - Risk-sharing vs risk-pricing" -> "The Fugger diversified activity while concentrating the barrier";
   "MOC - Risk-sharing vs risk-pricing" -> "The bidding ko transfers from the liquidity-constrained to the liquid";
   "MOC - Risk-sharing vs risk-pricing" -> "The determinate-contingent typology carries the richness";
+  "MOC - Risk-sharing vs risk-pricing" -> "The general-particular boundary is unverifiable and its leakage subsidises sailing";
   "MOC - Risk-sharing vs risk-pricing" -> "The heter iska restores the fixed return by evidentiary barrier";
   "MOC - Risk-sharing vs risk-pricing" -> "The isqa refuses the agent's shield";
   "MOC - Risk-sharing vs risk-pricing" -> "The liability principle was demoted from rule to maxim";
@@ -1216,6 +1219,15 @@ digraph vault {
   "The fraterna and compagnia diverge in formation but converge at the barrier" -> "The four-step decoupling from participation to the veil";
   "The fraterna and compagnia diverge in formation but converge at the barrier" -> "commenda";
   "The fraterna and compagnia diverge in formation but converge at the barrier" -> "limited-liability";
+  "The general-particular boundary is unverifiable and its leakage subsidises sailing" -> "Absorbing barrier";
+  "The general-particular boundary is unverifiable and its leakage subsidises sailing" -> "Decoupling substitutes proxy legibility for outcome legibility";
+  "The general-particular boundary is unverifiable and its leakage subsidises sailing" -> "General average shares decisions where warichi shares hazards";
+  "The general-particular boundary is unverifiable and its leakage subsidises sailing" -> "MOC - HistorEE";
+  "The general-particular boundary is unverifiable and its leakage subsidises sailing" -> "MOC - Risk-sharing vs risk-pricing";
+  "The general-particular boundary is unverifiable and its leakage subsidises sailing" -> "Outcome-coupling is the condition of legibility";
+  "The general-particular boundary is unverifiable and its leakage subsidises sailing" -> "Scuttling rewards fraud in the sea loan";
+  "The general-particular boundary is unverifiable and its leakage subsidises sailing" -> "The amana-daman structure refuses to infer fault from loss";
+  "The general-particular boundary is unverifiable and its leakage subsidises sailing" -> "loss_mitigation_forms";
   "The heter iska restores the fixed return by evidentiary barrier" -> "Decoupling substitutes proxy legibility for outcome legibility";
   "The heter iska restores the fixed return by evidentiary barrier" -> "Gharar excludes designed-in unverifiability";
   "The heter iska restores the fixed return by evidentiary barrier" -> "MOC - HistorEE";

@@ -5,7 +5,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Absorbing barrier",
-      "value": 48,
+      "value": 49,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -68,7 +68,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Decoupling substitutes proxy legibility for outcome legibility",
-      "value": 19,
+      "value": 20,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -203,7 +203,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "General average shares decisions where warichi shares hazards",
-      "value": 13,
+      "value": 17,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -446,7 +446,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Outcome-coupling is the condition of legibility",
-      "value": 19,
+      "value": 21,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -599,7 +599,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Scuttling rewards fraud in the sea loan",
-      "value": 19,
+      "value": 21,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -716,7 +716,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The amana-daman structure refuses to infer fault from loss",
-      "value": 23,
+      "value": 24,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -843,6 +843,15 @@
       "group": "seed",
       "label": "The fraterna and compagnia diverge in formation but converge at the barrier",
       "value": 17,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "The general-particular boundary is unverifiable and its leakage subsidises sailing",
+      "type": "permanent",
+      "group": "seed",
+      "label": "The general-particular boundary is unverifiable and its leakage subsidises sailing",
+      "value": 14,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1193,7 +1202,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - HistorEE",
-      "value": 209,
+      "value": 210,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -1229,7 +1238,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Risk-sharing vs risk-pricing",
-      "value": 70,
+      "value": 72,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -1247,7 +1256,7 @@
       "type": "database",
       "group": "database",
       "label": "loss_mitigation_forms",
-      "value": 13,
+      "value": 14,
       "color": "#a6761d",
       "shape": "database"
     },
@@ -2122,6 +2131,10 @@
     {
       "from": "General average shares decisions where warichi shares hazards",
       "to": "The amana-daman structure refuses to infer fault from loss"
+    },
+    {
+      "from": "General average shares decisions where warichi shares hazards",
+      "to": "The general-particular boundary is unverifiable and its leakage subsidises sailing"
     },
     {
       "from": "General average shares decisions where warichi shares hazards",
@@ -3738,6 +3751,10 @@
     {
       "from": "MOC - Risk-sharing vs risk-pricing",
       "to": "The determinate-contingent typology carries the richness"
+    },
+    {
+      "from": "MOC - Risk-sharing vs risk-pricing",
+      "to": "The general-particular boundary is unverifiable and its leakage subsidises sailing"
     },
     {
       "from": "MOC - Risk-sharing vs risk-pricing",
@@ -5566,6 +5583,42 @@
     {
       "from": "The fraterna and compagnia diverge in formation but converge at the barrier",
       "to": "limited-liability"
+    },
+    {
+      "from": "The general-particular boundary is unverifiable and its leakage subsidises sailing",
+      "to": "Absorbing barrier"
+    },
+    {
+      "from": "The general-particular boundary is unverifiable and its leakage subsidises sailing",
+      "to": "Decoupling substitutes proxy legibility for outcome legibility"
+    },
+    {
+      "from": "The general-particular boundary is unverifiable and its leakage subsidises sailing",
+      "to": "General average shares decisions where warichi shares hazards"
+    },
+    {
+      "from": "The general-particular boundary is unverifiable and its leakage subsidises sailing",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "The general-particular boundary is unverifiable and its leakage subsidises sailing",
+      "to": "MOC - Risk-sharing vs risk-pricing"
+    },
+    {
+      "from": "The general-particular boundary is unverifiable and its leakage subsidises sailing",
+      "to": "Outcome-coupling is the condition of legibility"
+    },
+    {
+      "from": "The general-particular boundary is unverifiable and its leakage subsidises sailing",
+      "to": "Scuttling rewards fraud in the sea loan"
+    },
+    {
+      "from": "The general-particular boundary is unverifiable and its leakage subsidises sailing",
+      "to": "The amana-daman structure refuses to infer fault from loss"
+    },
+    {
+      "from": "The general-particular boundary is unverifiable and its leakage subsidises sailing",
+      "to": "loss_mitigation_forms"
     },
     {
       "from": "The heter iska restores the fixed return by evidentiary barrier",
