@@ -149,7 +149,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Entity shielding and owner shielding protect different trajectories",
-      "value": 24,
+      "value": 25,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -158,7 +158,7 @@
       "type": "permanent",
       "group": "stub",
       "label": "Entity-shielding",
-      "value": 46,
+      "value": 47,
       "color": "#666666",
       "shape": "dot"
     },
@@ -212,7 +212,7 @@
       "type": "source",
       "group": "source",
       "label": "Harris 2020 on the late plurality of limited liability",
-      "value": 23,
+      "value": 25,
       "color": "#7570b3",
       "shape": "dot"
     },
@@ -239,7 +239,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Identity-wrapper and perpetual-monopoly are distinct shielding facets",
-      "value": 14,
+      "value": 15,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -383,7 +383,7 @@
       "type": "permanent",
       "group": "stub",
       "label": "Never let the units slide from instruments to populations",
-      "value": 31,
+      "value": 33,
       "color": "#666666",
       "shape": "dot"
     },
@@ -464,7 +464,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Persona ficta made the corporation a-moral ab initio",
-      "value": 13,
+      "value": 14,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -518,7 +518,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Read the Nakai anomaly against the ie's horizon not the transaction's",
-      "value": 18,
+      "value": 20,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -527,7 +527,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Refusals are observations of the filter not inferences from survivors",
-      "value": 40,
+      "value": 42,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -725,7 +725,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The corporation is not the omega - the naties are an undisplaced niche",
-      "value": 26,
+      "value": 28,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -784,6 +784,15 @@
       "shape": "dot"
     },
     {
+      "id": "The fictive household supplied partition and perpetuity without legal personality",
+      "type": "permanent",
+      "group": "seed",
+      "label": "The fictive household supplied partition and perpetuity without legal personality",
+      "value": 20,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
       "id": "The four-step decoupling from participation to the veil",
       "type": "permanent",
       "group": "seed",
@@ -815,7 +824,7 @@
       "type": "permanent",
       "group": "stub",
       "label": "The ie as entity-shielding",
-      "value": 17,
+      "value": 18,
       "color": "#666666",
       "shape": "dot"
     },
@@ -1013,7 +1022,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Transferable claims reconcile lock-in with member exit",
-      "value": 21,
+      "value": 22,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1112,7 +1121,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Entity-shielding and corporate forms",
-      "value": 82,
+      "value": 84,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -1130,7 +1139,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - HistorEE",
-      "value": 202,
+      "value": 203,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -2782,6 +2791,10 @@
     },
     {
       "from": "MOC - Entity-shielding and corporate forms",
+      "to": "The fictive household supplied partition and perpetuity without legal personality"
+    },
+    {
+      "from": "MOC - Entity-shielding and corporate forms",
       "to": "The four-step decoupling from participation to the veil"
     },
     {
@@ -4230,6 +4243,10 @@
     },
     {
       "from": "Read the Nakai anomaly against the ie's horizon not the transaction's",
+      "to": "The fictive household supplied partition and perpetuity without legal personality"
+    },
+    {
+      "from": "Read the Nakai anomaly against the ie's horizon not the transaction's",
       "to": "The ie as entity-shielding"
     },
     {
@@ -5199,6 +5216,58 @@
     {
       "from": "The ensemble average is the local descriptor of a barrier-shielded agent",
       "to": "The real cut is shielded-and-pooled versus unshielded"
+    },
+    {
+      "from": "The fictive household supplied partition and perpetuity without legal personality",
+      "to": "Entity shielding and owner shielding protect different trajectories"
+    },
+    {
+      "from": "The fictive household supplied partition and perpetuity without legal personality",
+      "to": "Entity-shielding"
+    },
+    {
+      "from": "The fictive household supplied partition and perpetuity without legal personality",
+      "to": "Harris 2020 on the late plurality of limited liability"
+    },
+    {
+      "from": "The fictive household supplied partition and perpetuity without legal personality",
+      "to": "Identity-wrapper and perpetual-monopoly are distinct shielding facets"
+    },
+    {
+      "from": "The fictive household supplied partition and perpetuity without legal personality",
+      "to": "MOC - Entity-shielding and corporate forms"
+    },
+    {
+      "from": "The fictive household supplied partition and perpetuity without legal personality",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "The fictive household supplied partition and perpetuity without legal personality",
+      "to": "Never let the units slide from instruments to populations"
+    },
+    {
+      "from": "The fictive household supplied partition and perpetuity without legal personality",
+      "to": "Persona ficta made the corporation a-moral ab initio"
+    },
+    {
+      "from": "The fictive household supplied partition and perpetuity without legal personality",
+      "to": "Read the Nakai anomaly against the ie's horizon not the transaction's"
+    },
+    {
+      "from": "The fictive household supplied partition and perpetuity without legal personality",
+      "to": "Refusals are observations of the filter not inferences from survivors"
+    },
+    {
+      "from": "The fictive household supplied partition and perpetuity without legal personality",
+      "to": "The corporation is not the omega - the naties are an undisplaced niche"
+    },
+    {
+      "from": "The fictive household supplied partition and perpetuity without legal personality",
+      "to": "The ie as entity-shielding"
+    },
+    {
+      "from": "The fictive household supplied partition and perpetuity without legal personality",
+      "to": "Transferable claims reconcile lock-in with member exit"
     },
     {
       "from": "The four-step decoupling from participation to the veil",

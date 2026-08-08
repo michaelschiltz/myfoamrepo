@@ -14,6 +14,7 @@ Thematic hub for the corporate-form apparatus: asset-partitioning, identity-wrap
 ## Notes
 
 - [[Entity-shielding]]
+- [[The fictive household supplied partition and perpetuity without legal personality]]
 - [[Read the Nakai anomaly against the ie's horizon not the transaction's]]
 - [[Legal violence is the weapon of the militarily insufficient]]
 - [[Mare Liberum was a corporate legal weapon]]

@@ -88,6 +88,7 @@ digraph vault {
   "The double refusal of the sea loan is evidence about the filter not about independence" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "The durable-and-coupled cell is the underexplored one" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "The ensemble average is the local descriptor of a barrier-shielded agent" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
+  "The fictive household supplied partition and perpetuity without legal personality" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "The four-step decoupling from participation to the veil" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "The fraterna and compagnia diverge in formation but converge at the barrier" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "The heter iska restores the fixed return by evidentiary barrier" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
@@ -528,6 +529,7 @@ digraph vault {
   "MOC - Entity-shielding and corporate forms" -> "The alleenrecht is monopoly held as tradable property";
   "MOC - Entity-shielding and corporate forms" -> "The corporation is not the omega - the naties are an undisplaced niche";
   "MOC - Entity-shielding and corporate forms" -> "The durable-and-coupled cell is the underexplored one";
+  "MOC - Entity-shielding and corporate forms" -> "The fictive household supplied partition and perpetuity without legal personality";
   "MOC - Entity-shielding and corporate forms" -> "The four-step decoupling from participation to the veil";
   "MOC - Entity-shielding and corporate forms" -> "The ie as entity-shielding";
   "MOC - Entity-shielding and corporate forms" -> "The isqa is Lindy because captive not because robust";
@@ -890,6 +892,7 @@ digraph vault {
   "Read the Nakai anomaly against the ie's horizon not the transaction's" -> "Perpetuity splits into adaptation and petrification";
   "Read the Nakai anomaly against the ie's horizon not the transaction's" -> "Selection frequency trades against organizational memory";
   "Read the Nakai anomaly against the ie's horizon not the transaction's" -> "The Nakai ledger scores as losses what present value scores as gains";
+  "Read the Nakai anomaly against the ie's horizon not the transaction's" -> "The fictive household supplied partition and perpetuity without legal personality";
   "Read the Nakai anomaly against the ie's horizon not the transaction's" -> "The ie as entity-shielding";
   "Read the Nakai anomaly against the ie's horizon not the transaction's" -> "Time-average optimization is a survivorship property not an intention";
   "Read the Nakai anomaly against the ie's horizon not the transaction's" -> "loss_mitigation_forms";
@@ -1133,6 +1136,19 @@ digraph vault {
   "The ensemble average is the local descriptor of a barrier-shielded agent" -> "MOC - HistorEE";
   "The ensemble average is the local descriptor of a barrier-shielded agent" -> "Separate the sociological and the methodological claims about economics";
   "The ensemble average is the local descriptor of a barrier-shielded agent" -> "The real cut is shielded-and-pooled versus unshielded";
+  "The fictive household supplied partition and perpetuity without legal personality" -> "Entity shielding and owner shielding protect different trajectories";
+  "The fictive household supplied partition and perpetuity without legal personality" -> "Entity-shielding";
+  "The fictive household supplied partition and perpetuity without legal personality" -> "Harris 2020 on the late plurality of limited liability";
+  "The fictive household supplied partition and perpetuity without legal personality" -> "Identity-wrapper and perpetual-monopoly are distinct shielding facets";
+  "The fictive household supplied partition and perpetuity without legal personality" -> "MOC - Entity-shielding and corporate forms";
+  "The fictive household supplied partition and perpetuity without legal personality" -> "MOC - HistorEE";
+  "The fictive household supplied partition and perpetuity without legal personality" -> "Never let the units slide from instruments to populations";
+  "The fictive household supplied partition and perpetuity without legal personality" -> "Persona ficta made the corporation a-moral ab initio";
+  "The fictive household supplied partition and perpetuity without legal personality" -> "Read the Nakai anomaly against the ie's horizon not the transaction's";
+  "The fictive household supplied partition and perpetuity without legal personality" -> "Refusals are observations of the filter not inferences from survivors";
+  "The fictive household supplied partition and perpetuity without legal personality" -> "The corporation is not the omega - the naties are an undisplaced niche";
+  "The fictive household supplied partition and perpetuity without legal personality" -> "The ie as entity-shielding";
+  "The fictive household supplied partition and perpetuity without legal personality" -> "Transferable claims reconcile lock-in with member exit";
   "The four-step decoupling from participation to the veil" -> "Entity-shielding";
   "The four-step decoupling from participation to the veil" -> "Islamic doctrine refuses risk-commodification at step one";
   "The four-step decoupling from participation to the veil" -> "MOC - Entity-shielding and corporate forms";
