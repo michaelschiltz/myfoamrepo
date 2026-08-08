@@ -5,7 +5,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Absorbing barrier",
-      "value": 45,
+      "value": 46,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -122,7 +122,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Endogenised absorption has a sign",
-      "value": 15,
+      "value": 16,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -203,7 +203,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Guard against reverse-teleology",
-      "value": 26,
+      "value": 28,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -473,7 +473,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Pooling's sign is set by the correlation of its baskets",
-      "value": 26,
+      "value": 28,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -491,7 +491,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Pricing is orthogonal to mitigation mechanism not a stage of it",
-      "value": 18,
+      "value": 19,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -500,7 +500,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Pricing risk does not remove it",
-      "value": 19,
+      "value": 20,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -708,6 +708,15 @@
       "group": "seed",
       "label": "The asiento de averia is the pooling-to-corporation hinge",
       "value": 22,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "The bidding ko transfers from the liquidity-constrained to the liquid",
+      "type": "permanent",
+      "group": "seed",
+      "label": "The bidding ko transfers from the liquidity-constrained to the liquid",
+      "value": 17,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -950,7 +959,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The tontine is pooling in form and dispersal in function",
-      "value": 21,
+      "value": 24,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1130,7 +1139,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Ergodicity and the time-ensemble distinction",
-      "value": 68,
+      "value": 69,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -1139,7 +1148,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - HistorEE",
-      "value": 203,
+      "value": 204,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -1175,7 +1184,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Risk-sharing vs risk-pricing",
-      "value": 59,
+      "value": 61,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -1202,7 +1211,7 @@
       "type": "database",
       "group": "database",
       "label": "loss_mitigation_forms",
-      "value": 7,
+      "value": 8,
       "color": "#a6761d",
       "shape": "database"
     },
@@ -3595,6 +3604,10 @@
     },
     {
       "from": "MOC - Risk-sharing vs risk-pricing",
+      "to": "The bidding ko transfers from the liquidity-constrained to the liquid"
+    },
+    {
+      "from": "MOC - Risk-sharing vs risk-pricing",
       "to": "The determinate-contingent typology carries the richness"
     },
     {
@@ -4926,6 +4939,50 @@
       "to": "limited-liability"
     },
     {
+      "from": "The bidding ko transfers from the liquidity-constrained to the liquid",
+      "to": "Absorbing barrier"
+    },
+    {
+      "from": "The bidding ko transfers from the liquidity-constrained to the liquid",
+      "to": "Endogenised absorption has a sign"
+    },
+    {
+      "from": "The bidding ko transfers from the liquidity-constrained to the liquid",
+      "to": "Guard against reverse-teleology"
+    },
+    {
+      "from": "The bidding ko transfers from the liquidity-constrained to the liquid",
+      "to": "MOC - Ergodicity and the time-ensemble distinction"
+    },
+    {
+      "from": "The bidding ko transfers from the liquidity-constrained to the liquid",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "The bidding ko transfers from the liquidity-constrained to the liquid",
+      "to": "MOC - Risk-sharing vs risk-pricing"
+    },
+    {
+      "from": "The bidding ko transfers from the liquidity-constrained to the liquid",
+      "to": "Pooling's sign is set by the correlation of its baskets"
+    },
+    {
+      "from": "The bidding ko transfers from the liquidity-constrained to the liquid",
+      "to": "Pricing is orthogonal to mitigation mechanism not a stage of it"
+    },
+    {
+      "from": "The bidding ko transfers from the liquidity-constrained to the liquid",
+      "to": "Pricing risk does not remove it"
+    },
+    {
+      "from": "The bidding ko transfers from the liquidity-constrained to the liquid",
+      "to": "The tontine is pooling in form and dispersal in function"
+    },
+    {
+      "from": "The bidding ko transfers from the liquidity-constrained to the liquid",
+      "to": "loss_mitigation_forms"
+    },
+    {
       "from": "The coding commons must record stated rationale not only component presence",
       "to": "Guard against reverse-teleology"
     },
@@ -5840,6 +5897,10 @@
     {
       "from": "The tontine is pooling in form and dispersal in function",
       "to": "Skin in the game"
+    },
+    {
+      "from": "The tontine is pooling in form and dispersal in function",
+      "to": "The bidding ko transfers from the liquidity-constrained to the liquid"
     },
     {
       "from": "The tontine is pooling in form and dispersal in function",
