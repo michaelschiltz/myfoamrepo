@@ -18,6 +18,7 @@ Thematic hub for the instrument axis: risk-*sharing* forms that keep every party
 - [[Pricing risk does not remove it]]
 - [[Pooling's sign is set by the correlation of its baskets]]
 - [[The tontine is pooling in form and dispersal in function]]
+- [[The bidding ko transfers from the liquidity-constrained to the liquid]]
 - [[Endogenised absorption has a sign]]
 - [[The tontine's chronology defeats the hazard-to-pricing staging]]
 - [[Pricing is orthogonal to mitigation mechanism not a stage of it]]
