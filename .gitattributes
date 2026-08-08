@@ -29,3 +29,22 @@ _layouts/    export-ignore
 *.jpg binary
 *.pdf binary
 *.docx binary
+
+# The graph is generated, so never merge it textually.
+#
+# graph.json/.dot/.html are emitted by scripts/export_graph.py from the whole
+# note set, and every node carries a degree count. Two clones that each add a
+# note therefore produce different numbers on the same lines, and git reports a
+# conflict on values that are both correct outputs of different inputs. Picking
+# a side by hand is meaningless — the answer is to regenerate.
+#
+# `merge=ours` keeps the local copy instead of conflicting; the pre-commit hook
+# then reruns export_graph.py so the committed graph matches the merged notes.
+# Both halves are required: the attribute alone would preserve a stale graph.
+#
+# REQUIRES ONE-TIME CONFIG PER CLONE — `ours` is not a built-in merge driver:
+#     git config merge.ours.driver true
+# Without it this line silently does nothing and conflicts return. Set it
+# alongside `git config core.hooksPath .githooks`.
+
+graph/* merge=ours

@@ -1,6 +1,8 @@
 #!/usr/bin/env bash
-# Vault pre-commit gate: auto-fix headings, then validate.
-# Install once per clone:  git config core.hooksPath .githooks
+# Vault pre-commit gate: auto-fix headings, validate, then regenerate the graph.
+# Install once per clone:
+#   git config core.hooksPath .githooks
+#   git config merge.ours.driver true    # required by graph/* merge=ours
 set -euo pipefail
 
 repo_root="$(git rev-parse --show-toplevel)"
@@ -20,3 +22,11 @@ if ! python3 scripts/validate_vault.py; then
   echo "pre-commit: validation failed — commit aborted. Fix the errors above."
   exit 1
 fi
+
+# 3. regenerate the graph from the (now validated) note set and re-stage it.
+#    The graph is derived, never hand-edited, and `graph/* merge=ours` in
+#    .gitattributes keeps the local copy through a merge rather than
+#    conflicting — which leaves it stale until this step reruns the exporter.
+#    Deterministic output, so this is a no-op when the notes are unchanged.
+python3 scripts/export_graph.py >/dev/null
+git add graph/
