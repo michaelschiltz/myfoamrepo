@@ -6,6 +6,7 @@ digraph vault {
   "An absorbing barrier breaks ergodicity by construction" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Arthur's lock-in and capital lock-in are different objects" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Borrow the diagnostics not the tree" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
+  "Brown tests equality where a risk reading predicts dispersion" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Count degrees of freedom not cells" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Decoupling substitutes proxy legibility for outcome legibility" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Deep-roots variables are symplesiomorphies" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
@@ -121,6 +122,7 @@ digraph vault {
   "Transmission versus independent recurrence is the load-bearing test" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Typology and character coding literature" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
   "Van Dam's Beschryvinge - the VOC described by its own advocaat" [fillcolor="#7570b3", fontcolor=white, shape=ellipse];
+  "Warichi re-randomises after absorption rather than diversifying" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Whiggish history of finance names the ascent narrative" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "commenda" [fillcolor="#666666", fontcolor=white, shape=ellipse];
   "isqa" [fillcolor="#666666", fontcolor=white, shape=ellipse];
@@ -135,8 +137,8 @@ digraph vault {
   "MOC - Path dependence and sequence" [fillcolor="#d95f02", fontcolor=white, shape=ellipse];
   "MOC - Risk-sharing vs risk-pricing" [fillcolor="#d95f02", fontcolor=white, shape=ellipse];
   "tags" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
-  "organizational_forms" [fillcolor="#a6761d", fontcolor=white, shape=cylinder];
   "loss_mitigation_forms" [fillcolor="#a6761d", fontcolor=white, shape=cylinder];
+  "organizational_forms" [fillcolor="#a6761d", fontcolor=white, shape=cylinder];
   "clearing_records" [fillcolor="#a6761d", fontcolor=white, shape=cylinder];
   "Absorbing barrier" -> "An absorbing barrier breaks ergodicity by construction";
   "Absorbing barrier" -> "Distinguish strong from weak ergodicity breaking";
@@ -193,6 +195,15 @@ digraph vault {
   "Borrow the diagnostics not the tree" -> "The qirad's antecedents are Sasanian not Sogdian";
   "Borrow the diagnostics not the tree" -> "The western family needs only plausible common descent not proven genealogy";
   "Borrow the diagnostics not the tree" -> "Transmission versus independent recurrence is the load-bearing test";
+  "Brown tests equality where a risk reading predicts dispersion" -> "MOC - HistorEE";
+  "Brown tests equality where a risk reading predicts dispersion" -> "MOC - Historiography and method";
+  "Brown tests equality where a risk reading predicts dispersion" -> "MOC - Risk-sharing vs risk-pricing";
+  "Brown tests equality where a risk reading predicts dispersion" -> "Refusals are observations of the filter not inferences from survivors";
+  "Brown tests equality where a risk reading predicts dispersion" -> "The bidding ko transfers from the liquidity-constrained to the liquid";
+  "Brown tests equality where a risk reading predicts dispersion" -> "The deficit reading of absence is the scalar ranking in evidentiary form";
+  "Brown tests equality where a risk reading predicts dispersion" -> "The tontine is pooling in form and dispersal in function";
+  "Brown tests equality where a risk reading predicts dispersion" -> "Warichi re-randomises after absorption rather than diversifying";
+  "Brown tests equality where a risk reading predicts dispersion" -> "loss_mitigation_forms";
   "Count degrees of freedom not cells" -> "Borrow the diagnostics not the tree";
   "Count degrees of freedom not cells" -> "Divergent arbitrary particulars are the independence diagnostic";
   "Count degrees of freedom not cells" -> "Homoplasy is the finding not the noise";
@@ -652,6 +663,7 @@ digraph vault {
   "MOC - HistorEE" -> "Whiggish history of finance names the ascent narrative";
   "MOC - HistorEE" -> "isqa";
   "MOC - Historiography and method" -> "Borrow the diagnostics not the tree";
+  "MOC - Historiography and method" -> "Brown tests equality where a risk reading predicts dispersion";
   "MOC - Historiography and method" -> "Count degrees of freedom not cells";
   "MOC - Historiography and method" -> "Deep-roots variables are symplesiomorphies";
   "MOC - Historiography and method" -> "Discipline the Whig epithet by pinning it to teleology and survivorship";
@@ -717,6 +729,7 @@ digraph vault {
   "MOC - Path dependence and sequence" -> "Pure multiplicative dynamics are permutation-invariant";
   "MOC - Path dependence and sequence" -> "Reinforcement selects an attractor the ensemble average never occupies";
   "MOC - Path dependence and sequence" -> "Terminal wealth is permutation-invariant but survival is not";
+  "MOC - Risk-sharing vs risk-pricing" -> "Brown tests equality where a risk reading predicts dispersion";
   "MOC - Risk-sharing vs risk-pricing" -> "Decoupling substitutes proxy legibility for outcome legibility";
   "MOC - Risk-sharing vs risk-pricing" -> "Endogenised absorption has a sign";
   "MOC - Risk-sharing vs risk-pricing" -> "Lock-in and outcome-coupling are distinct bindings";
@@ -742,6 +755,7 @@ digraph vault {
   "MOC - Risk-sharing vs risk-pricing" -> "The sea loan is a contingent claim not a loan";
   "MOC - Risk-sharing vs risk-pricing" -> "The tontine is pooling in form and dispersal in function";
   "MOC - Risk-sharing vs risk-pricing" -> "The tontine's chronology defeats the hazard-to-pricing staging";
+  "MOC - Risk-sharing vs risk-pricing" -> "Warichi re-randomises after absorption rather than diversifying";
   "MOC - Risk-sharing vs risk-pricing" -> "isqa";
   "Mare Liberum was a corporate legal weapon" -> "Entity-shielding";
   "Mare Liberum was a corporate legal weapon" -> "Legal violence is the weapon of the militarily insufficient";
@@ -1433,6 +1447,17 @@ digraph vault {
   "Van Dam's Beschryvinge - the VOC described by its own advocaat" -> "The depersonalised share was produced by honour not by pooling logic";
   "Van Dam's Beschryvinge - the VOC described by its own advocaat" -> "The four-step decoupling from participation to the veil";
   "Van Dam's Beschryvinge - the VOC described by its own advocaat" -> "Transkribus - managed HTR platform";
+  "Warichi re-randomises after absorption rather than diversifying" -> "Absorbing barrier";
+  "Warichi re-randomises after absorption rather than diversifying" -> "An absorbing barrier breaks ergodicity by construction";
+  "Warichi re-randomises after absorption rather than diversifying" -> "Brown tests equality where a risk reading predicts dispersion";
+  "Warichi re-randomises after absorption rather than diversifying" -> "MOC - Ergodicity and the time-ensemble distinction";
+  "Warichi re-randomises after absorption rather than diversifying" -> "MOC - HistorEE";
+  "Warichi re-randomises after absorption rather than diversifying" -> "MOC - Risk-sharing vs risk-pricing";
+  "Warichi re-randomises after absorption rather than diversifying" -> "Pooling's sign is set by the correlation of its baskets";
+  "Warichi re-randomises after absorption rather than diversifying" -> "Stationarity is a precondition of ergodicity not a corollary";
+  "Warichi re-randomises after absorption rather than diversifying" -> "Terminal wealth is permutation-invariant but survival is not";
+  "Warichi re-randomises after absorption rather than diversifying" -> "Time-average";
+  "Warichi re-randomises after absorption rather than diversifying" -> "loss_mitigation_forms";
   "Whiggish history of finance names the ascent narrative" -> "Discipline the Whig epithet by pinning it to teleology and survivorship";
   "Whiggish history of finance names the ascent narrative" -> "MOC - HistorEE";
   "Whiggish history of finance names the ascent narrative" -> "MOC - Historiography and method";

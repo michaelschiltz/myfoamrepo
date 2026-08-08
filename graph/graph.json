@@ -5,7 +5,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Absorbing barrier",
-      "value": 46,
+      "value": 47,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -23,7 +23,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "An absorbing barrier breaks ergodicity by construction",
-      "value": 29,
+      "value": 31,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -42,6 +42,15 @@
       "group": "seed",
       "label": "Borrow the diagnostics not the tree",
       "value": 36,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "Brown tests equality where a risk reading predicts dispersion",
+      "type": "permanent",
+      "group": "seed",
+      "label": "Brown tests equality where a risk reading predicts dispersion",
+      "value": 15,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -473,7 +482,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Pooling's sign is set by the correlation of its baskets",
-      "value": 28,
+      "value": 29,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -527,7 +536,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Refusals are observations of the filter not inferences from survivors",
-      "value": 44,
+      "value": 45,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -644,7 +653,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Stationarity is a precondition of ergodicity not a corollary",
-      "value": 21,
+      "value": 22,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -653,7 +662,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Terminal wealth is permutation-invariant but survival is not",
-      "value": 24,
+      "value": 25,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -725,7 +734,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The bidding ko transfers from the liquidity-constrained to the liquid",
-      "value": 18,
+      "value": 20,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -752,7 +761,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The deficit reading of absence is the scalar ranking in evidentiary form",
-      "value": 24,
+      "value": 25,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -968,7 +977,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The tontine is pooling in form and dispersal in function",
-      "value": 24,
+      "value": 26,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1031,7 +1040,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Time-average",
-      "value": 37,
+      "value": 38,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1078,6 +1087,15 @@
       "label": "Van Dam's Beschryvinge - the VOC described by its own advocaat",
       "value": 27,
       "color": "#7570b3",
+      "shape": "dot"
+    },
+    {
+      "id": "Warichi re-randomises after absorption rather than diversifying",
+      "type": "permanent",
+      "group": "seed",
+      "label": "Warichi re-randomises after absorption rather than diversifying",
+      "value": 15,
+      "color": "#e6ab02",
       "shape": "dot"
     },
     {
@@ -1148,7 +1166,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Ergodicity and the time-ensemble distinction",
-      "value": 69,
+      "value": 70,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -1157,7 +1175,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - HistorEE",
-      "value": 205,
+      "value": 207,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -1166,7 +1184,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Historiography and method",
-      "value": 87,
+      "value": 89,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -1193,7 +1211,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Risk-sharing vs risk-pricing",
-      "value": 62,
+      "value": 66,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -1207,20 +1225,20 @@
       "shape": "dot"
     },
     {
-      "id": "organizational_forms",
+      "id": "loss_mitigation_forms",
       "type": "database",
       "group": "database",
-      "label": "organizational_forms",
+      "label": "loss_mitigation_forms",
       "value": 11,
       "color": "#a6761d",
       "shape": "database"
     },
     {
-      "id": "loss_mitigation_forms",
+      "id": "organizational_forms",
       "type": "database",
       "group": "database",
-      "label": "loss_mitigation_forms",
-      "value": 9,
+      "label": "organizational_forms",
+      "value": 11,
       "color": "#a6761d",
       "shape": "database"
     },
@@ -1454,6 +1472,42 @@
     {
       "from": "Borrow the diagnostics not the tree",
       "to": "Transmission versus independent recurrence is the load-bearing test"
+    },
+    {
+      "from": "Brown tests equality where a risk reading predicts dispersion",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Brown tests equality where a risk reading predicts dispersion",
+      "to": "MOC - Historiography and method"
+    },
+    {
+      "from": "Brown tests equality where a risk reading predicts dispersion",
+      "to": "MOC - Risk-sharing vs risk-pricing"
+    },
+    {
+      "from": "Brown tests equality where a risk reading predicts dispersion",
+      "to": "Refusals are observations of the filter not inferences from survivors"
+    },
+    {
+      "from": "Brown tests equality where a risk reading predicts dispersion",
+      "to": "The bidding ko transfers from the liquidity-constrained to the liquid"
+    },
+    {
+      "from": "Brown tests equality where a risk reading predicts dispersion",
+      "to": "The deficit reading of absence is the scalar ranking in evidentiary form"
+    },
+    {
+      "from": "Brown tests equality where a risk reading predicts dispersion",
+      "to": "The tontine is pooling in form and dispersal in function"
+    },
+    {
+      "from": "Brown tests equality where a risk reading predicts dispersion",
+      "to": "Warichi re-randomises after absorption rather than diversifying"
+    },
+    {
+      "from": "Brown tests equality where a risk reading predicts dispersion",
+      "to": "loss_mitigation_forms"
     },
     {
       "from": "Count degrees of freedom not cells",
@@ -3293,6 +3347,10 @@
     },
     {
       "from": "MOC - Historiography and method",
+      "to": "Brown tests equality where a risk reading predicts dispersion"
+    },
+    {
+      "from": "MOC - Historiography and method",
       "to": "Count degrees of freedom not cells"
     },
     {
@@ -3553,6 +3611,10 @@
     },
     {
       "from": "MOC - Risk-sharing vs risk-pricing",
+      "to": "Brown tests equality where a risk reading predicts dispersion"
+    },
+    {
+      "from": "MOC - Risk-sharing vs risk-pricing",
       "to": "Decoupling substitutes proxy legibility for outcome legibility"
     },
     {
@@ -3650,6 +3712,10 @@
     {
       "from": "MOC - Risk-sharing vs risk-pricing",
       "to": "The tontine's chronology defeats the hazard-to-pricing staging"
+    },
+    {
+      "from": "MOC - Risk-sharing vs risk-pricing",
+      "to": "Warichi re-randomises after absorption rather than diversifying"
     },
     {
       "from": "MOC - Risk-sharing vs risk-pricing",
@@ -6414,6 +6480,50 @@
     {
       "from": "Van Dam's Beschryvinge - the VOC described by its own advocaat",
       "to": "Transkribus - managed HTR platform"
+    },
+    {
+      "from": "Warichi re-randomises after absorption rather than diversifying",
+      "to": "Absorbing barrier"
+    },
+    {
+      "from": "Warichi re-randomises after absorption rather than diversifying",
+      "to": "An absorbing barrier breaks ergodicity by construction"
+    },
+    {
+      "from": "Warichi re-randomises after absorption rather than diversifying",
+      "to": "Brown tests equality where a risk reading predicts dispersion"
+    },
+    {
+      "from": "Warichi re-randomises after absorption rather than diversifying",
+      "to": "MOC - Ergodicity and the time-ensemble distinction"
+    },
+    {
+      "from": "Warichi re-randomises after absorption rather than diversifying",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Warichi re-randomises after absorption rather than diversifying",
+      "to": "MOC - Risk-sharing vs risk-pricing"
+    },
+    {
+      "from": "Warichi re-randomises after absorption rather than diversifying",
+      "to": "Pooling's sign is set by the correlation of its baskets"
+    },
+    {
+      "from": "Warichi re-randomises after absorption rather than diversifying",
+      "to": "Stationarity is a precondition of ergodicity not a corollary"
+    },
+    {
+      "from": "Warichi re-randomises after absorption rather than diversifying",
+      "to": "Terminal wealth is permutation-invariant but survival is not"
+    },
+    {
+      "from": "Warichi re-randomises after absorption rather than diversifying",
+      "to": "Time-average"
+    },
+    {
+      "from": "Warichi re-randomises after absorption rather than diversifying",
+      "to": "loss_mitigation_forms"
     },
     {
       "from": "Whiggish history of finance names the ascent narrative",
