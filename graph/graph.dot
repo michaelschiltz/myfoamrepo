@@ -23,6 +23,7 @@ digraph vault {
   "Ergodicity is indecomposability not randomness" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Flows make the dynamic affine and affine maps do not commute" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Galton's problem" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
+  "General average shares decisions where warichi shares hazards" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Gharar excludes designed-in unverifiability" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Guard against reverse-teleology" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Harris 2020 on the late plurality of limited liability" [fillcolor="#7570b3", fontcolor=white, shape=ellipse];
@@ -349,6 +350,14 @@ digraph vault {
   "Galton's problem" -> "The theory predicts recurrence not independent origins";
   "Galton's problem" -> "The western family needs only plausible common descent not proven genealogy";
   "Galton's problem" -> "Transmission versus independent recurrence is the load-bearing test";
+  "General average shares decisions where warichi shares hazards" -> "MOC - HistorEE";
+  "General average shares decisions where warichi shares hazards" -> "MOC - Risk-sharing vs risk-pricing";
+  "General average shares decisions where warichi shares hazards" -> "Outcome-coupling is the condition of legibility";
+  "General average shares decisions where warichi shares hazards" -> "Pricing risk does not remove it";
+  "General average shares decisions where warichi shares hazards" -> "The amana-daman structure refuses to infer fault from loss";
+  "General average shares decisions where warichi shares hazards" -> "Warichi and general average spread the incidence of an irreversible loss";
+  "General average shares decisions where warichi shares hazards" -> "Warichi re-randomises after absorption rather than diversifying";
+  "General average shares decisions where warichi shares hazards" -> "loss_mitigation_forms";
   "Gharar excludes designed-in unverifiability" -> "Divergent arbitrary particulars are the independence diagnostic";
   "Gharar excludes designed-in unverifiability" -> "Islamic doctrine refuses risk-commodification at step one";
   "Gharar excludes designed-in unverifiability" -> "MOC - HistorEE";
@@ -733,6 +742,7 @@ digraph vault {
   "MOC - Risk-sharing vs risk-pricing" -> "Brown tests equality where a risk reading predicts dispersion";
   "MOC - Risk-sharing vs risk-pricing" -> "Decoupling substitutes proxy legibility for outcome legibility";
   "MOC - Risk-sharing vs risk-pricing" -> "Endogenised absorption has a sign";
+  "MOC - Risk-sharing vs risk-pricing" -> "General average shares decisions where warichi shares hazards";
   "MOC - Risk-sharing vs risk-pricing" -> "Lock-in and outcome-coupling are distinct bindings";
   "MOC - Risk-sharing vs risk-pricing" -> "MOC - Ergodicity and the time-ensemble distinction";
   "MOC - Risk-sharing vs risk-pricing" -> "MOC - HistorEE";
@@ -1452,6 +1462,7 @@ digraph vault {
   "Warichi and general average spread the incidence of an irreversible loss" -> "Absorbing barrier";
   "Warichi and general average spread the incidence of an irreversible loss" -> "Brown tests equality where a risk reading predicts dispersion";
   "Warichi and general average spread the incidence of an irreversible loss" -> "Divergent arbitrary particulars are the independence diagnostic";
+  "Warichi and general average spread the incidence of an irreversible loss" -> "General average shares decisions where warichi shares hazards";
   "Warichi and general average spread the incidence of an irreversible loss" -> "MOC - Ergodicity and the time-ensemble distinction";
   "Warichi and general average spread the incidence of an irreversible loss" -> "MOC - HistorEE";
   "Warichi and general average spread the incidence of an irreversible loss" -> "MOC - Risk-sharing vs risk-pricing";

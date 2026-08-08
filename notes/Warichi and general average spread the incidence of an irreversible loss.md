@@ -21,6 +21,8 @@ That is a sharper description than either "insurance" or "reset". Insurance impl
 
 **Not yet a claim about independent arrival.** The pairing is asserted here at the level of function only. Whether it survives as an independence case requires the *Leitfehler* treatment — arbitrary particulars diverging where a shared ancestor would predict agreement — and neither form has been examined for that ([[Transmission versus independent recurrence is the load-bearing test]]). The word to avoid meanwhile is the cladistic one.
 
+**The pairing needs one qualification, and it is doctrinal.** General average requires a *deliberate* sacrifice for the common safety; damage that merely befalls the venture is *particular* average and is not shared at all. So the two forms agree that incidence should be spread and disagree about which losses qualify — see [[General average shares decisions where warichi shares hazards]], which is the sharper statement of what this pairing establishes.
+
 **One open question that would discriminate.** General average is triggered by an event: a jettison happens, an assessment follows. *Warichi* runs on a calendar: redistribution occurs at five- or ten-year intervals whether or not a parcel has been destroyed. If incidence-spreading were the whole story one would expect event-triggered reallocation, and Brown's interval data show scheduled reallocation instead. Either the schedule is a cheap approximation to event-triggering under costly verification, or the institution is doing something besides incidence-spreading. That is the question his interval series could actually answer.
 
 ## Links

@@ -199,6 +199,15 @@
       "shape": "dot"
     },
     {
+      "id": "General average shares decisions where warichi shares hazards",
+      "type": "permanent",
+      "group": "seed",
+      "label": "General average shares decisions where warichi shares hazards",
+      "value": 13,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
       "id": "Gharar excludes designed-in unverifiability",
       "type": "permanent",
       "group": "seed",
@@ -437,7 +446,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Outcome-coupling is the condition of legibility",
-      "value": 18,
+      "value": 19,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -509,7 +518,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Pricing risk does not remove it",
-      "value": 20,
+      "value": 21,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -707,7 +716,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The amana-daman structure refuses to infer fault from loss",
-      "value": 21,
+      "value": 23,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1094,7 +1103,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Warichi and general average spread the incidence of an irreversible loss",
-      "value": 17,
+      "value": 20,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1103,7 +1112,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Warichi re-randomises after absorption rather than diversifying",
-      "value": 19,
+      "value": 20,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1184,7 +1193,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - HistorEE",
-      "value": 208,
+      "value": 209,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -1220,7 +1229,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Risk-sharing vs risk-pricing",
-      "value": 68,
+      "value": 70,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -1238,7 +1247,7 @@
       "type": "database",
       "group": "database",
       "label": "loss_mitigation_forms",
-      "value": 12,
+      "value": 13,
       "color": "#a6761d",
       "shape": "database"
     },
@@ -2093,6 +2102,38 @@
     {
       "from": "Galton's problem",
       "to": "Transmission versus independent recurrence is the load-bearing test"
+    },
+    {
+      "from": "General average shares decisions where warichi shares hazards",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "General average shares decisions where warichi shares hazards",
+      "to": "MOC - Risk-sharing vs risk-pricing"
+    },
+    {
+      "from": "General average shares decisions where warichi shares hazards",
+      "to": "Outcome-coupling is the condition of legibility"
+    },
+    {
+      "from": "General average shares decisions where warichi shares hazards",
+      "to": "Pricing risk does not remove it"
+    },
+    {
+      "from": "General average shares decisions where warichi shares hazards",
+      "to": "The amana-daman structure refuses to infer fault from loss"
+    },
+    {
+      "from": "General average shares decisions where warichi shares hazards",
+      "to": "Warichi and general average spread the incidence of an irreversible loss"
+    },
+    {
+      "from": "General average shares decisions where warichi shares hazards",
+      "to": "Warichi re-randomises after absorption rather than diversifying"
+    },
+    {
+      "from": "General average shares decisions where warichi shares hazards",
+      "to": "loss_mitigation_forms"
     },
     {
       "from": "Gharar excludes designed-in unverifiability",
@@ -3629,6 +3670,10 @@
     {
       "from": "MOC - Risk-sharing vs risk-pricing",
       "to": "Endogenised absorption has a sign"
+    },
+    {
+      "from": "MOC - Risk-sharing vs risk-pricing",
+      "to": "General average shares decisions where warichi shares hazards"
     },
     {
       "from": "MOC - Risk-sharing vs risk-pricing",
@@ -6505,6 +6550,10 @@
     {
       "from": "Warichi and general average spread the incidence of an irreversible loss",
       "to": "Divergent arbitrary particulars are the independence diagnostic"
+    },
+    {
+      "from": "Warichi and general average spread the incidence of an irreversible loss",
+      "to": "General average shares decisions where warichi shares hazards"
     },
     {
       "from": "Warichi and general average spread the incidence of an irreversible loss",
