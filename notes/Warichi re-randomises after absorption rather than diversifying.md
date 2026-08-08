@@ -25,6 +25,16 @@ Two consequences worth keeping separate. The **comparative** one: if *warichi* a
 
 A caution against over-anchoring on McCloskey. His insurance thesis is contested — Allen and Clark dispute it and the 1991 paper is his reply — so hanging *warichi* on it inherits an unsettled debate for no gain. Argue the resetting mechanism directly, and cite McCloskey as a parallel instance of a land arrangement organised around peril rather than as the model for this one.
 
+## The distinction is what saves the risk account from Brown's test
+
+**Attribute the flood hypothesis correctly.** Spreading the impact of flooding is the *received* reading in the Japanese literature, built on individual village studies; Brown is its sceptic. His 2006 regional test concludes that flood and landslide frequency "must be seen as insufficient causes by themselves, even if scholars ultimately see them as necessary conditions," and that explanation must be sought "more widely… than the threat of natural calamity stressed heretofore."
+
+What he operationalises, though, is hazard **exposure** — elevation, floodplain position, landslide potential — which measures how *often* damage occurs. Resetting predicts from **persistence**: whether a shock permanently destroys a parcel's productive value. The two come apart. An upland terrace stripped to bedrock is rare and irreversible; a lowland paddy that floods most years and drains is frequent and fully recoverable. Diversification answers the second, reallocation only the first.
+
+Brown's anomalies then change sign. Shindōri, Kamegai and Sekiya near the Shinano mouth "cannot be explained by readily apparent natural conditions"; Iwade practises *warichi* while "removed from a large hydrological system and floodplain"; most of the 113-village sample sits above 67.5 metres. Anomalous under frequency, expected under persistence. His residual — "an important role for local, village-level human agency" — is a placeholder where a mechanism should be.
+
+The test this implies is concrete and uses his own data: re-score the villages for irreversibility rather than exposure, and ask whether redistribution interval tracks that instead.
+
 ## Links
 
 - [[Brown tests equality where a risk reading predicts dispersion]]
@@ -40,4 +50,4 @@ A caution against over-anchoring on McCloskey. His insurance thesis is contested
 
 ## Source
 
-Warichi session, 2026-08-08. Brown, Philip C. 2011. *Cultivating Commons: Joint Ownership of Arable Land in Early Modern Japan*. Honolulu: University of Hawai'i Press — hypothesis stated in ch. 2 ("warichi is found where natural risks (e.g., floods, landslides) are high"), redistribution intervals measured in ch. 6. McCloskey, Donald N. 1991. "The Prudent Peasant: New Findings on Open Fields" — "their benefits were those of insurance". Stojkoski, Viktor, et al. 2022. "Income Inequality and Mobility in Geometric Brownian Motion with Stochastic Resetting" — in the Zotero library. **The copy of Brown consulted is a scan with scrambled page order; ch. 6's concluding verdict on the GIS test could not be isolated and is not represented here.**
+Warichi session, 2026-08-08. Brown, Philip C. 2006. "Arable Land as Commons: Land Reallocation in Early Modern Japan." *Social Science History* 30 (3): 431–. `10.1215/01455532-2006-004` — the regional GIS test and the "insufficient causes by themselves" conclusion. Brown, Philip C. 2011. *Cultivating Commons: Joint Ownership of Arable Land in Early Modern Japan*. Honolulu: University of Hawai'i Press — the surviving hypothesis restated in ch. 2 ("warichi is found where natural risks (e.g., floods, landslides) are high"), redistribution intervals measured in ch. 6. **Note on attribution**: the flood-spreading reading is the received view in the Japanese literature, not Brown's; he is its critic. McCloskey, Donald N. 1991. "The Prudent Peasant: New Findings on Open Fields" — "their benefits were those of insurance". Stojkoski, Viktor, et al. 2022. "Income Inequality and Mobility in Geometric Brownian Motion with Stochastic Resetting" — in the Zotero library. **The copy of Brown consulted is a scan with scrambled page order; ch. 6's concluding verdict on the GIS test could not be isolated and is not represented here.**

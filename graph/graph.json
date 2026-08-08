@@ -50,7 +50,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Brown tests equality where a risk reading predicts dispersion",
-      "value": 15,
+      "value": 16,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1094,7 +1094,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Warichi re-randomises after absorption rather than diversifying",
-      "value": 15,
+      "value": 16,
       "color": "#e6ab02",
       "shape": "dot"
     },
