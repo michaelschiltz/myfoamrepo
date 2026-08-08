@@ -5,7 +5,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Absorbing barrier",
-      "value": 45,
+      "value": 46,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -104,7 +104,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Divergent arbitrary particulars are the independence diagnostic",
-      "value": 34,
+      "value": 36,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -122,7 +122,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Endogenised absorption has a sign",
-      "value": 15,
+      "value": 16,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -185,7 +185,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Galton's problem",
-      "value": 37,
+      "value": 38,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -203,7 +203,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Guard against reverse-teleology",
-      "value": 26,
+      "value": 28,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -473,7 +473,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Pooling's sign is set by the correlation of its baskets",
-      "value": 26,
+      "value": 28,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -491,7 +491,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Pricing is orthogonal to mitigation mechanism not a stage of it",
-      "value": 18,
+      "value": 19,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -500,7 +500,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Pricing risk does not remove it",
-      "value": 19,
+      "value": 20,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -527,7 +527,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Refusals are observations of the filter not inferences from survivors",
-      "value": 42,
+      "value": 44,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -537,6 +537,15 @@
       "group": "seed",
       "label": "Reinforcement selects an attractor the ensemble average never occupies",
       "value": 22,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "Relief ko for a named person is claimed to be unattested outside Japan",
+      "type": "permanent",
+      "group": "seed",
+      "label": "Relief ko for a named person is claimed to be unattested outside Japan",
+      "value": 15,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -708,6 +717,15 @@
       "group": "seed",
       "label": "The asiento de averia is the pooling-to-corporation hinge",
       "value": 22,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "The bidding ko transfers from the liquidity-constrained to the liquid",
+      "type": "permanent",
+      "group": "seed",
+      "label": "The bidding ko transfers from the liquidity-constrained to the liquid",
+      "value": 18,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -941,7 +959,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The theory predicts recurrence not independent origins",
-      "value": 28,
+      "value": 30,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -950,7 +968,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The tontine is pooling in form and dispersal in function",
-      "value": 21,
+      "value": 24,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1040,7 +1058,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Transmission versus independent recurrence is the load-bearing test",
-      "value": 34,
+      "value": 35,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1130,7 +1148,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Ergodicity and the time-ensemble distinction",
-      "value": 68,
+      "value": 69,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -1139,7 +1157,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - HistorEE",
-      "value": 203,
+      "value": 205,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -1148,7 +1166,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Historiography and method",
-      "value": 85,
+      "value": 87,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -1175,7 +1193,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Risk-sharing vs risk-pricing",
-      "value": 59,
+      "value": 62,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -1202,7 +1220,7 @@
       "type": "database",
       "group": "database",
       "label": "loss_mitigation_forms",
-      "value": 7,
+      "value": 9,
       "color": "#a6761d",
       "shape": "database"
     },
@@ -3343,6 +3361,10 @@
     },
     {
       "from": "MOC - Historiography and method",
+      "to": "Relief ko for a named person is claimed to be unattested outside Japan"
+    },
+    {
+      "from": "MOC - Historiography and method",
       "to": "Selection frequency trades against organizational memory"
     },
     {
@@ -3592,6 +3614,10 @@
     {
       "from": "MOC - Risk-sharing vs risk-pricing",
       "to": "The Fugger diversified activity while concentrating the barrier"
+    },
+    {
+      "from": "MOC - Risk-sharing vs risk-pricing",
+      "to": "The bidding ko transfers from the liquidity-constrained to the liquid"
     },
     {
       "from": "MOC - Risk-sharing vs risk-pricing",
@@ -4318,6 +4344,46 @@
       "to": "Path dependence requires naming the non-commuting operation"
     },
     {
+      "from": "Relief ko for a named person is claimed to be unattested outside Japan",
+      "to": "Divergent arbitrary particulars are the independence diagnostic"
+    },
+    {
+      "from": "Relief ko for a named person is claimed to be unattested outside Japan",
+      "to": "Galton's problem"
+    },
+    {
+      "from": "Relief ko for a named person is claimed to be unattested outside Japan",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Relief ko for a named person is claimed to be unattested outside Japan",
+      "to": "MOC - Historiography and method"
+    },
+    {
+      "from": "Relief ko for a named person is claimed to be unattested outside Japan",
+      "to": "MOC - Risk-sharing vs risk-pricing"
+    },
+    {
+      "from": "Relief ko for a named person is claimed to be unattested outside Japan",
+      "to": "Refusals are observations of the filter not inferences from survivors"
+    },
+    {
+      "from": "Relief ko for a named person is claimed to be unattested outside Japan",
+      "to": "The bidding ko transfers from the liquidity-constrained to the liquid"
+    },
+    {
+      "from": "Relief ko for a named person is claimed to be unattested outside Japan",
+      "to": "The theory predicts recurrence not independent origins"
+    },
+    {
+      "from": "Relief ko for a named person is claimed to be unattested outside Japan",
+      "to": "Transmission versus independent recurrence is the load-bearing test"
+    },
+    {
+      "from": "Relief ko for a named person is claimed to be unattested outside Japan",
+      "to": "loss_mitigation_forms"
+    },
+    {
       "from": "Ribbit mandates exposure rather than forbidding gain",
       "to": "Absorbing barrier"
     },
@@ -4924,6 +4990,50 @@
     {
       "from": "The asiento de averia is the pooling-to-corporation hinge",
       "to": "limited-liability"
+    },
+    {
+      "from": "The bidding ko transfers from the liquidity-constrained to the liquid",
+      "to": "Absorbing barrier"
+    },
+    {
+      "from": "The bidding ko transfers from the liquidity-constrained to the liquid",
+      "to": "Endogenised absorption has a sign"
+    },
+    {
+      "from": "The bidding ko transfers from the liquidity-constrained to the liquid",
+      "to": "Guard against reverse-teleology"
+    },
+    {
+      "from": "The bidding ko transfers from the liquidity-constrained to the liquid",
+      "to": "MOC - Ergodicity and the time-ensemble distinction"
+    },
+    {
+      "from": "The bidding ko transfers from the liquidity-constrained to the liquid",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "The bidding ko transfers from the liquidity-constrained to the liquid",
+      "to": "MOC - Risk-sharing vs risk-pricing"
+    },
+    {
+      "from": "The bidding ko transfers from the liquidity-constrained to the liquid",
+      "to": "Pooling's sign is set by the correlation of its baskets"
+    },
+    {
+      "from": "The bidding ko transfers from the liquidity-constrained to the liquid",
+      "to": "Pricing is orthogonal to mitigation mechanism not a stage of it"
+    },
+    {
+      "from": "The bidding ko transfers from the liquidity-constrained to the liquid",
+      "to": "Pricing risk does not remove it"
+    },
+    {
+      "from": "The bidding ko transfers from the liquidity-constrained to the liquid",
+      "to": "The tontine is pooling in form and dispersal in function"
+    },
+    {
+      "from": "The bidding ko transfers from the liquidity-constrained to the liquid",
+      "to": "loss_mitigation_forms"
     },
     {
       "from": "The coding commons must record stated rationale not only component presence",
@@ -5840,6 +5950,10 @@
     {
       "from": "The tontine is pooling in form and dispersal in function",
       "to": "Skin in the game"
+    },
+    {
+      "from": "The tontine is pooling in form and dispersal in function",
+      "to": "The bidding ko transfers from the liquidity-constrained to the liquid"
     },
     {
       "from": "The tontine is pooling in form and dispersal in function",

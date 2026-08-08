@@ -61,6 +61,7 @@ digraph vault {
   "Read the Nakai anomaly against the ie's horizon not the transaction's" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Refusals are observations of the filter not inferences from survivors" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Reinforcement selects an attractor the ensemble average never occupies" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
+  "Relief ko for a named person is claimed to be unattested outside Japan" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Ribbit mandates exposure rather than forbidding gain" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Robotic V-cradle book scanners - Treventus and Qidenus" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
   "Route Kolmogorov to ergodic theory not the theory of means" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
@@ -80,6 +81,7 @@ digraph vault {
   "The amana-daman structure refuses to infer fault from loss" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "The ascent narrative is the Jensen error as historiography" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "The asiento de averia is the pooling-to-corporation hinge" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
+  "The bidding ko transfers from the liquidity-constrained to the liquid" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "The coding commons must record stated rationale not only component presence" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "The corporation is not the omega - the naties are an undisplaced niche" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "The deficit reading of absence is the scalar ranking in evidentiary form" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
@@ -667,6 +669,7 @@ digraph vault {
   "MOC - Historiography and method" -> "Path dependence literature";
   "MOC - Historiography and method" -> "Path dependence requires naming the non-commuting operation";
   "MOC - Historiography and method" -> "Refusals are observations of the filter not inferences from survivors";
+  "MOC - Historiography and method" -> "Relief ko for a named person is claimed to be unattested outside Japan";
   "MOC - Historiography and method" -> "Selection frequency trades against organizational memory";
   "MOC - Historiography and method" -> "Split provenance into priority and independence";
   "MOC - Historiography and method" -> "The Roman universitas makes the JSC case parallelism not convergence";
@@ -730,6 +733,7 @@ digraph vault {
   "MOC - Risk-sharing vs risk-pricing" -> "Skin in the game";
   "MOC - Risk-sharing vs risk-pricing" -> "Skin in the game is asymmetric in the mudaraba";
   "MOC - Risk-sharing vs risk-pricing" -> "The Fugger diversified activity while concentrating the barrier";
+  "MOC - Risk-sharing vs risk-pricing" -> "The bidding ko transfers from the liquidity-constrained to the liquid";
   "MOC - Risk-sharing vs risk-pricing" -> "The determinate-contingent typology carries the richness";
   "MOC - Risk-sharing vs risk-pricing" -> "The heter iska restores the fixed return by evidentiary barrier";
   "MOC - Risk-sharing vs risk-pricing" -> "The isqa refuses the agent's shield";
@@ -911,6 +915,16 @@ digraph vault {
   "Reinforcement selects an attractor the ensemble average never occupies" -> "Non-ergodicity collapses the likelihood ratio on outcomes";
   "Reinforcement selects an attractor the ensemble average never occupies" -> "Path dependence literature";
   "Reinforcement selects an attractor the ensemble average never occupies" -> "Path dependence requires naming the non-commuting operation";
+  "Relief ko for a named person is claimed to be unattested outside Japan" -> "Divergent arbitrary particulars are the independence diagnostic";
+  "Relief ko for a named person is claimed to be unattested outside Japan" -> "Galton's problem";
+  "Relief ko for a named person is claimed to be unattested outside Japan" -> "MOC - HistorEE";
+  "Relief ko for a named person is claimed to be unattested outside Japan" -> "MOC - Historiography and method";
+  "Relief ko for a named person is claimed to be unattested outside Japan" -> "MOC - Risk-sharing vs risk-pricing";
+  "Relief ko for a named person is claimed to be unattested outside Japan" -> "Refusals are observations of the filter not inferences from survivors";
+  "Relief ko for a named person is claimed to be unattested outside Japan" -> "The bidding ko transfers from the liquidity-constrained to the liquid";
+  "Relief ko for a named person is claimed to be unattested outside Japan" -> "The theory predicts recurrence not independent origins";
+  "Relief ko for a named person is claimed to be unattested outside Japan" -> "Transmission versus independent recurrence is the load-bearing test";
+  "Relief ko for a named person is claimed to be unattested outside Japan" -> "loss_mitigation_forms";
   "Ribbit mandates exposure rather than forbidding gain" -> "Absorbing barrier";
   "Ribbit mandates exposure rather than forbidding gain" -> "Islamic doctrine refuses risk-commodification at step one";
   "Ribbit mandates exposure rather than forbidding gain" -> "MOC - HistorEE";
@@ -1063,6 +1077,17 @@ digraph vault {
   "The asiento de averia is the pooling-to-corporation hinge" -> "The depersonalised share was produced by honour not by pooling logic";
   "The asiento de averia is the pooling-to-corporation hinge" -> "The determinate-contingent typology carries the richness";
   "The asiento de averia is the pooling-to-corporation hinge" -> "limited-liability";
+  "The bidding ko transfers from the liquidity-constrained to the liquid" -> "Absorbing barrier";
+  "The bidding ko transfers from the liquidity-constrained to the liquid" -> "Endogenised absorption has a sign";
+  "The bidding ko transfers from the liquidity-constrained to the liquid" -> "Guard against reverse-teleology";
+  "The bidding ko transfers from the liquidity-constrained to the liquid" -> "MOC - Ergodicity and the time-ensemble distinction";
+  "The bidding ko transfers from the liquidity-constrained to the liquid" -> "MOC - HistorEE";
+  "The bidding ko transfers from the liquidity-constrained to the liquid" -> "MOC - Risk-sharing vs risk-pricing";
+  "The bidding ko transfers from the liquidity-constrained to the liquid" -> "Pooling's sign is set by the correlation of its baskets";
+  "The bidding ko transfers from the liquidity-constrained to the liquid" -> "Pricing is orthogonal to mitigation mechanism not a stage of it";
+  "The bidding ko transfers from the liquidity-constrained to the liquid" -> "Pricing risk does not remove it";
+  "The bidding ko transfers from the liquidity-constrained to the liquid" -> "The tontine is pooling in form and dispersal in function";
+  "The bidding ko transfers from the liquidity-constrained to the liquid" -> "loss_mitigation_forms";
   "The coding commons must record stated rationale not only component presence" -> "Guard against reverse-teleology";
   "The coding commons must record stated rationale not only component presence" -> "Hierro Anibarro 2005 on the asiento de averia and the privileged company";
   "The coding commons must record stated rationale not only component presence" -> "MOC - ERC Synergy Grant";
@@ -1292,6 +1317,7 @@ digraph vault {
   "The tontine is pooling in form and dispersal in function" -> "MOC - Risk-sharing vs risk-pricing";
   "The tontine is pooling in form and dispersal in function" -> "Pooling's sign is set by the correlation of its baskets";
   "The tontine is pooling in form and dispersal in function" -> "Skin in the game";
+  "The tontine is pooling in form and dispersal in function" -> "The bidding ko transfers from the liquidity-constrained to the liquid";
   "The tontine is pooling in form and dispersal in function" -> "The coding commons must record stated rationale not only component presence";
   "The tontine is pooling in form and dispersal in function" -> "The isqa is Lindy because captive not because robust";
   "The tontine is pooling in form and dispersal in function" -> "The tontine's chronology defeats the hazard-to-pricing staging";

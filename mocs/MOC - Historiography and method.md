@@ -13,6 +13,7 @@ Thematic hub for the project's methodological guardrails: teleology and its inve
 
 ## Notes
 
+- [[Relief ko for a named person is claimed to be unattested outside Japan]]
 - [[Whiggish history of finance names the ascent narrative]]
 - [[The ascent narrative is the Jensen error as historiography]]
 - [[Discipline the Whig epithet by pinning it to teleology and survivorship]]
