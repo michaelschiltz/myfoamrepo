@@ -122,6 +122,7 @@ digraph vault {
   "Transmission versus independent recurrence is the load-bearing test" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Typology and character coding literature" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
   "Van Dam's Beschryvinge - the VOC described by its own advocaat" [fillcolor="#7570b3", fontcolor=white, shape=ellipse];
+  "Warichi and general average spread the incidence of an irreversible loss" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Warichi re-randomises after absorption rather than diversifying" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Whiggish history of finance names the ascent narrative" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "commenda" [fillcolor="#666666", fontcolor=white, shape=ellipse];
@@ -755,6 +756,7 @@ digraph vault {
   "MOC - Risk-sharing vs risk-pricing" -> "The sea loan is a contingent claim not a loan";
   "MOC - Risk-sharing vs risk-pricing" -> "The tontine is pooling in form and dispersal in function";
   "MOC - Risk-sharing vs risk-pricing" -> "The tontine's chronology defeats the hazard-to-pricing staging";
+  "MOC - Risk-sharing vs risk-pricing" -> "Warichi and general average spread the incidence of an irreversible loss";
   "MOC - Risk-sharing vs risk-pricing" -> "Warichi re-randomises after absorption rather than diversifying";
   "MOC - Risk-sharing vs risk-pricing" -> "isqa";
   "Mare Liberum was a corporate legal weapon" -> "Entity-shielding";
@@ -1447,6 +1449,16 @@ digraph vault {
   "Van Dam's Beschryvinge - the VOC described by its own advocaat" -> "The depersonalised share was produced by honour not by pooling logic";
   "Van Dam's Beschryvinge - the VOC described by its own advocaat" -> "The four-step decoupling from participation to the veil";
   "Van Dam's Beschryvinge - the VOC described by its own advocaat" -> "Transkribus - managed HTR platform";
+  "Warichi and general average spread the incidence of an irreversible loss" -> "Absorbing barrier";
+  "Warichi and general average spread the incidence of an irreversible loss" -> "Brown tests equality where a risk reading predicts dispersion";
+  "Warichi and general average spread the incidence of an irreversible loss" -> "Divergent arbitrary particulars are the independence diagnostic";
+  "Warichi and general average spread the incidence of an irreversible loss" -> "MOC - Ergodicity and the time-ensemble distinction";
+  "Warichi and general average spread the incidence of an irreversible loss" -> "MOC - HistorEE";
+  "Warichi and general average spread the incidence of an irreversible loss" -> "MOC - Risk-sharing vs risk-pricing";
+  "Warichi and general average spread the incidence of an irreversible loss" -> "Pooling's sign is set by the correlation of its baskets";
+  "Warichi and general average spread the incidence of an irreversible loss" -> "Transmission versus independent recurrence is the load-bearing test";
+  "Warichi and general average spread the incidence of an irreversible loss" -> "Warichi re-randomises after absorption rather than diversifying";
+  "Warichi and general average spread the incidence of an irreversible loss" -> "loss_mitigation_forms";
   "Warichi re-randomises after absorption rather than diversifying" -> "Absorbing barrier";
   "Warichi re-randomises after absorption rather than diversifying" -> "An absorbing barrier breaks ergodicity by construction";
   "Warichi re-randomises after absorption rather than diversifying" -> "Brown tests equality where a risk reading predicts dispersion";
@@ -1457,6 +1469,7 @@ digraph vault {
   "Warichi re-randomises after absorption rather than diversifying" -> "Stationarity is a precondition of ergodicity not a corollary";
   "Warichi re-randomises after absorption rather than diversifying" -> "Terminal wealth is permutation-invariant but survival is not";
   "Warichi re-randomises after absorption rather than diversifying" -> "Time-average";
+  "Warichi re-randomises after absorption rather than diversifying" -> "Warichi and general average spread the incidence of an irreversible loss";
   "Warichi re-randomises after absorption rather than diversifying" -> "loss_mitigation_forms";
   "Whiggish history of finance names the ascent narrative" -> "Discipline the Whig epithet by pinning it to teleology and survivorship";
   "Whiggish history of finance names the ascent narrative" -> "MOC - HistorEE";

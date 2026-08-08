@@ -5,7 +5,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Absorbing barrier",
-      "value": 47,
+      "value": 48,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -50,7 +50,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Brown tests equality where a risk reading predicts dispersion",
-      "value": 16,
+      "value": 18,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -113,7 +113,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Divergent arbitrary particulars are the independence diagnostic",
-      "value": 36,
+      "value": 38,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -482,7 +482,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Pooling's sign is set by the correlation of its baskets",
-      "value": 29,
+      "value": 30,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1067,7 +1067,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Transmission versus independent recurrence is the load-bearing test",
-      "value": 35,
+      "value": 37,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1090,11 +1090,20 @@
       "shape": "dot"
     },
     {
+      "id": "Warichi and general average spread the incidence of an irreversible loss",
+      "type": "permanent",
+      "group": "seed",
+      "label": "Warichi and general average spread the incidence of an irreversible loss",
+      "value": 17,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
       "id": "Warichi re-randomises after absorption rather than diversifying",
       "type": "permanent",
       "group": "seed",
       "label": "Warichi re-randomises after absorption rather than diversifying",
-      "value": 16,
+      "value": 19,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1166,7 +1175,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Ergodicity and the time-ensemble distinction",
-      "value": 70,
+      "value": 71,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -1175,7 +1184,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - HistorEE",
-      "value": 207,
+      "value": 208,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -1211,7 +1220,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Risk-sharing vs risk-pricing",
-      "value": 66,
+      "value": 68,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -1229,7 +1238,7 @@
       "type": "database",
       "group": "database",
       "label": "loss_mitigation_forms",
-      "value": 11,
+      "value": 12,
       "color": "#a6761d",
       "shape": "database"
     },
@@ -3712,6 +3721,10 @@
     {
       "from": "MOC - Risk-sharing vs risk-pricing",
       "to": "The tontine's chronology defeats the hazard-to-pricing staging"
+    },
+    {
+      "from": "MOC - Risk-sharing vs risk-pricing",
+      "to": "Warichi and general average spread the incidence of an irreversible loss"
     },
     {
       "from": "MOC - Risk-sharing vs risk-pricing",
@@ -6482,6 +6495,46 @@
       "to": "Transkribus - managed HTR platform"
     },
     {
+      "from": "Warichi and general average spread the incidence of an irreversible loss",
+      "to": "Absorbing barrier"
+    },
+    {
+      "from": "Warichi and general average spread the incidence of an irreversible loss",
+      "to": "Brown tests equality where a risk reading predicts dispersion"
+    },
+    {
+      "from": "Warichi and general average spread the incidence of an irreversible loss",
+      "to": "Divergent arbitrary particulars are the independence diagnostic"
+    },
+    {
+      "from": "Warichi and general average spread the incidence of an irreversible loss",
+      "to": "MOC - Ergodicity and the time-ensemble distinction"
+    },
+    {
+      "from": "Warichi and general average spread the incidence of an irreversible loss",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Warichi and general average spread the incidence of an irreversible loss",
+      "to": "MOC - Risk-sharing vs risk-pricing"
+    },
+    {
+      "from": "Warichi and general average spread the incidence of an irreversible loss",
+      "to": "Pooling's sign is set by the correlation of its baskets"
+    },
+    {
+      "from": "Warichi and general average spread the incidence of an irreversible loss",
+      "to": "Transmission versus independent recurrence is the load-bearing test"
+    },
+    {
+      "from": "Warichi and general average spread the incidence of an irreversible loss",
+      "to": "Warichi re-randomises after absorption rather than diversifying"
+    },
+    {
+      "from": "Warichi and general average spread the incidence of an irreversible loss",
+      "to": "loss_mitigation_forms"
+    },
+    {
       "from": "Warichi re-randomises after absorption rather than diversifying",
       "to": "Absorbing barrier"
     },
@@ -6520,6 +6573,10 @@
     {
       "from": "Warichi re-randomises after absorption rather than diversifying",
       "to": "Time-average"
+    },
+    {
+      "from": "Warichi re-randomises after absorption rather than diversifying",
+      "to": "Warichi and general average spread the incidence of an irreversible loss"
     },
     {
       "from": "Warichi re-randomises after absorption rather than diversifying",

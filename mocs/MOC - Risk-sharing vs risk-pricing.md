@@ -20,6 +20,7 @@ Thematic hub for the instrument axis: risk-*sharing* forms that keep every party
 - [[The tontine is pooling in form and dispersal in function]]
 - [[The bidding ko transfers from the liquidity-constrained to the liquid]]
 - [[Warichi re-randomises after absorption rather than diversifying]]
+- [[Warichi and general average spread the incidence of an irreversible loss]]
 - [[Brown tests equality where a risk reading predicts dispersion]]
 - [[Endogenised absorption has a sign]]
 - [[The tontine's chronology defeats the hazard-to-pricing staging]]
