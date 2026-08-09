@@ -59,7 +59,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Count degrees of freedom not cells",
-      "value": 26,
+      "value": 27,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -338,7 +338,16 @@
       "type": "permanent",
       "group": "seed",
       "label": "Kye is not a ROSCA and the equation is an artefact of comparison with mujin",
-      "value": 14,
+      "value": 18,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "Labour exchange is the pooling type the census cannot see",
+      "type": "permanent",
+      "group": "seed",
+      "label": "Labour exchange is the pooling type the census cannot see",
+      "value": 15,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -500,7 +509,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Pooling's sign is set by the correlation of its baskets",
-      "value": 30,
+      "value": 31,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -554,7 +563,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Refusals are observations of the filter not inferences from survivors",
-      "value": 47,
+      "value": 49,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -923,7 +932,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The morphological matrix is dictated by the shape of the feature space",
-      "value": 29,
+      "value": 30,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1211,7 +1220,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - HistorEE",
-      "value": 211,
+      "value": 212,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -1220,7 +1229,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Historiography and method",
-      "value": 91,
+      "value": 92,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -1247,7 +1256,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Risk-sharing vs risk-pricing",
-      "value": 73,
+      "value": 75,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -1265,7 +1274,7 @@
       "type": "database",
       "group": "database",
       "label": "loss_mitigation_forms",
-      "value": 14,
+      "value": 15,
       "color": "#a6761d",
       "shape": "database"
     },
@@ -2663,6 +2672,10 @@
     },
     {
       "from": "Kye is not a ROSCA and the equation is an artefact of comparison with mujin",
+      "to": "Labour exchange is the pooling type the census cannot see"
+    },
+    {
+      "from": "Kye is not a ROSCA and the equation is an artefact of comparison with mujin",
       "to": "MOC - HistorEE"
     },
     {
@@ -2688,6 +2701,42 @@
     {
       "from": "Kye is not a ROSCA and the equation is an artefact of comparison with mujin",
       "to": "Transmission versus independent recurrence is the load-bearing test"
+    },
+    {
+      "from": "Labour exchange is the pooling type the census cannot see",
+      "to": "Count degrees of freedom not cells"
+    },
+    {
+      "from": "Labour exchange is the pooling type the census cannot see",
+      "to": "Kye is not a ROSCA and the equation is an artefact of comparison with mujin"
+    },
+    {
+      "from": "Labour exchange is the pooling type the census cannot see",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Labour exchange is the pooling type the census cannot see",
+      "to": "MOC - Historiography and method"
+    },
+    {
+      "from": "Labour exchange is the pooling type the census cannot see",
+      "to": "MOC - Risk-sharing vs risk-pricing"
+    },
+    {
+      "from": "Labour exchange is the pooling type the census cannot see",
+      "to": "Pooling's sign is set by the correlation of its baskets"
+    },
+    {
+      "from": "Labour exchange is the pooling type the census cannot see",
+      "to": "Refusals are observations of the filter not inferences from survivors"
+    },
+    {
+      "from": "Labour exchange is the pooling type the census cannot see",
+      "to": "The morphological matrix is dictated by the shape of the feature space"
+    },
+    {
+      "from": "Labour exchange is the pooling type the census cannot see",
+      "to": "loss_mitigation_forms"
     },
     {
       "from": "Le Bris Goetzmann Pouget 2023 on convergent evolution toward the joint-stock company",
@@ -3736,6 +3785,10 @@
     {
       "from": "MOC - Risk-sharing vs risk-pricing",
       "to": "General average shares decisions where warichi shares hazards"
+    },
+    {
+      "from": "MOC - Risk-sharing vs risk-pricing",
+      "to": "Labour exchange is the pooling type the census cannot see"
     },
     {
       "from": "MOC - Risk-sharing vs risk-pricing",

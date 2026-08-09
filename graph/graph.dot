@@ -39,6 +39,7 @@ digraph vault {
   "Kuran's brake is a refusal of immortal entities" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Kuzushiji OCR - the NDL and CODH stack" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
   "Kye is not a ROSCA and the equation is an artefact of comparison with mujin" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
+  "Labour exchange is the pooling type the census cannot see" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Le Bris Goetzmann Pouget 2023 on convergent evolution toward the joint-stock company" [fillcolor="#7570b3", fontcolor=white, shape=ellipse];
   "Legal violence is the weapon of the militarily insufficient" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Lock-in and outcome-coupling are distinct bindings" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
@@ -487,6 +488,7 @@ digraph vault {
   "Kuzushiji OCR - the NDL and CODH stack" -> "Transkribus - managed HTR platform";
   "Kye is not a ROSCA and the equation is an artefact of comparison with mujin" -> "Divergent arbitrary particulars are the independence diagnostic";
   "Kye is not a ROSCA and the equation is an artefact of comparison with mujin" -> "Galton's problem";
+  "Kye is not a ROSCA and the equation is an artefact of comparison with mujin" -> "Labour exchange is the pooling type the census cannot see";
   "Kye is not a ROSCA and the equation is an artefact of comparison with mujin" -> "MOC - HistorEE";
   "Kye is not a ROSCA and the equation is an artefact of comparison with mujin" -> "MOC - Historiography and method";
   "Kye is not a ROSCA and the equation is an artefact of comparison with mujin" -> "MOC - Risk-sharing vs risk-pricing";
@@ -494,6 +496,15 @@ digraph vault {
   "Kye is not a ROSCA and the equation is an artefact of comparison with mujin" -> "Refusals are observations of the filter not inferences from survivors";
   "Kye is not a ROSCA and the equation is an artefact of comparison with mujin" -> "Relief ko for a named person is claimed to be unattested outside Japan";
   "Kye is not a ROSCA and the equation is an artefact of comparison with mujin" -> "Transmission versus independent recurrence is the load-bearing test";
+  "Labour exchange is the pooling type the census cannot see" -> "Count degrees of freedom not cells";
+  "Labour exchange is the pooling type the census cannot see" -> "Kye is not a ROSCA and the equation is an artefact of comparison with mujin";
+  "Labour exchange is the pooling type the census cannot see" -> "MOC - HistorEE";
+  "Labour exchange is the pooling type the census cannot see" -> "MOC - Historiography and method";
+  "Labour exchange is the pooling type the census cannot see" -> "MOC - Risk-sharing vs risk-pricing";
+  "Labour exchange is the pooling type the census cannot see" -> "Pooling's sign is set by the correlation of its baskets";
+  "Labour exchange is the pooling type the census cannot see" -> "Refusals are observations of the filter not inferences from survivors";
+  "Labour exchange is the pooling type the census cannot see" -> "The morphological matrix is dictated by the shape of the feature space";
+  "Labour exchange is the pooling type the census cannot see" -> "loss_mitigation_forms";
   "Le Bris Goetzmann Pouget 2023 on convergent evolution toward the joint-stock company" -> "Count degrees of freedom not cells";
   "Le Bris Goetzmann Pouget 2023 on convergent evolution toward the joint-stock company" -> "Harris 2020 on the late plurality of limited liability";
   "Le Bris Goetzmann Pouget 2023 on convergent evolution toward the joint-stock company" -> "Homoplasy is the finding not the noise";
@@ -756,6 +767,7 @@ digraph vault {
   "MOC - Risk-sharing vs risk-pricing" -> "Decoupling substitutes proxy legibility for outcome legibility";
   "MOC - Risk-sharing vs risk-pricing" -> "Endogenised absorption has a sign";
   "MOC - Risk-sharing vs risk-pricing" -> "General average shares decisions where warichi shares hazards";
+  "MOC - Risk-sharing vs risk-pricing" -> "Labour exchange is the pooling type the census cannot see";
   "MOC - Risk-sharing vs risk-pricing" -> "Lock-in and outcome-coupling are distinct bindings";
   "MOC - Risk-sharing vs risk-pricing" -> "MOC - Ergodicity and the time-ensemble distinction";
   "MOC - Risk-sharing vs risk-pricing" -> "MOC - HistorEE";

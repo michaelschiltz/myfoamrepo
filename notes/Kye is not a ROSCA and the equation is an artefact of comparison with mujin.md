@@ -20,6 +20,12 @@ So "kye = Korean ROSCA" is a comparative concept built for the Japanese comparis
 
 **The visual record corroborates the taxonomy independently.** *Kyehoedo* (契會図) are paintings made to commemorate and record a *kyehoe* gathering. The Agency for Cultural Affairs glosses the genre as depicting 朝鮮王朝時代に文人らの間で盛んになった敬老・冠婚葬祭などの費用を負担しあう相互扶助を目的とする会合 — literati gatherings for mutual aid, sharing the costs of elder-respect observances and rites of passage. Not credit, not rotation. The Kyushu National Museum holds one with a colophon dated 1554, and the genre extends to office-based associations such as the 繕工監契会図軸, a *kyehoe* of a Joseon government bureau. **What got painted is the sociability and welfare kye**, which is to say the part of the institution the ROSCA reading discards. That the surviving pictorial record and the Korean taxonomy agree, against a category imported for the Japanese comparison, is about as clean a check as this material allows.
 
+**The equation has a traceable origin, and it is a definition rather than a finding.** Suzuki Eitarō — a founder of Japanese rural sociology, writing in *Minzokugaku Kenkyū* in 1963 — set out the pairing the later literature inherits: 契 answers to Japanese 講 for financial cooperation, 품앗이 (*pumasi*) to Japanese 結 (*yui*) for labour cooperation. The move that secures it is stipulative. His words: **"Whatever other object it may have, an association which is organized to meet the financial needs of the community falls into the category of the Kei groups… Thus the Kei group is undoubtedly financial in character."**
+
+Kye is *defined* as the class of associations meeting communal financial needs, whereupon its financial character follows by construction. Everything Choi assigns to the religious, educational and recreational categories is either absorbed into the definition or falls outside the object. So the ROSCA reading is not an inference from Korean evidence at all; it is the entry condition of a comparison, and 金 (2009) and 李 (2007) inherit it without re-examining it. Suzuki's own source base was 朝鮮總督府 survey material, which places the stipulation inside the colonial documentary lineage rather than outside it.
+
+Note also that the two-by-two commits him to a claim he does not defend: that the *financial* and *labour* halves of Korean cooperation map onto Japanese institutions separately and cleanly. Whether 契 and 講 are a genuine pair or an artefact of having first defined both financially is exactly the question the pairing was built to foreclose. The labour half is treated in [[Labour exchange is the pooling type the census cannot see]].
+
 **Provenance explains both.** Choi's bibliography names the colonial ethnography the Japanese framing rests on: Zenshō Eisuke, 『朝鮮の契』, 朝鮮總督府 1926 — the source of the survey figures Lee cites — with 猪谷善一 (1924), 李學鍾 (1923) and 四方博 (1944), all Government-General publications. The categories *and* the counts are colonial products, and they reach the present-day Japanese literature intact.
 
 **And the colonial state was not a neutral observer of what it counted.** Choi: 일제는 하층계급의 금융개선을 꾀한 식리계·산통계·작파계 등을 금압하였다 — the authorities suppressed precisely the lower-class credit-improving kye, while promoting the *singsan'gye* as a subordinate organ of the 금융조합. The surviving statistics therefore describe the forms the state permitted, which is a filter observation and not a census ([[Refusals are observations of the filter not inferences from survivors]]).
@@ -32,6 +38,7 @@ But that is what makes it useful. A named parent, a datable transplant, a regula
 
 ## Links
 
+- [[Labour exchange is the pooling type the census cannot see]]
 - [[Galton's problem]]
 - [[Transmission versus independent recurrence is the load-bearing test]]
 - [[Refusals are observations of the filter not inferences from survivors]]
@@ -44,4 +51,4 @@ But that is what makes it useful. A named parent, a datable transplant, a regula
 
 ## Source
 
-최재석「계」『한국민족문화대백과사전』(한국학중앙연구원), written 1995, last revised 2025-07-17 — read in full 2026-08-09. Japanese-language articles: 金珍奎「契と無尽会社」『大分大学経済論集』(2009); 李明輝「韓國における庶民金融の制度化―無盡から國民銀行へ」(2007), both in the Zotero library with PDFs. **No Korean-language source is in the library**; a Hangul scan across all 225 PDFs in ZotMoov returns zero. The standard monograph, 김필동『한국사회조직사연구: 계조직의 구조적 특성과 역사적 변동』(일조각, 1992), is not held and should be acquired before any of this is developed. Encyclopaedia content is 공공누리 제1유형 and quotable with attribution.
+최재석「계」『한국민족문화대백과사전』(한국학중앙연구원), written 1995, last revised 2025-07-17 — read in full 2026-08-09. 鈴木栄太郎「朝鮮の契とプマシ」『民族学研究』27(3), 1963, 日本文化人類学会 — open access at HUSCAP, `hdl.handle.net/2115/77422`. **The 1963 quotations are from the article's own English abstract**, recovered by OCR from a scanned offprint; the Japanese body text has no usable text layer and has not been read. Japanese-language articles: 金珍奎「契と無尽会社」『大分大学経済論集』(2009); 李明輝「韓國における庶民金融の制度化―無盡から國民銀行へ」(2007), both in the Zotero library with PDFs. **No Korean-language source is in the library**; a Hangul scan across all 225 PDFs in ZotMoov returns zero. The standard monograph, 김필동『한국사회조직사연구: 계조직의 구조적 특성과 역사적 변동』(일조각, 1992), is not held and should be acquired before any of this is developed. Encyclopaedia content is 공공누리 제1유형 and quotable with attribution.
