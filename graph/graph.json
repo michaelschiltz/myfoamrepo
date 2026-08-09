@@ -113,7 +113,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Divergent arbitrary particulars are the independence diagnostic",
-      "value": 38,
+      "value": 39,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -194,7 +194,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Galton's problem",
-      "value": 38,
+      "value": 40,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -334,6 +334,15 @@
       "shape": "dot"
     },
     {
+      "id": "Kye is not a ROSCA and the equation is an artefact of comparison with mujin",
+      "type": "permanent",
+      "group": "seed",
+      "label": "Kye is not a ROSCA and the equation is an artefact of comparison with mujin",
+      "value": 14,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
       "id": "Le Bris Goetzmann Pouget 2023 on convergent evolution toward the joint-stock company",
       "type": "source",
       "group": "source",
@@ -401,7 +410,7 @@
       "type": "permanent",
       "group": "stub",
       "label": "Never let the units slide from instruments to populations",
-      "value": 33,
+      "value": 34,
       "color": "#666666",
       "shape": "dot"
     },
@@ -545,7 +554,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Refusals are observations of the filter not inferences from survivors",
-      "value": 45,
+      "value": 47,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -563,7 +572,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Relief ko for a named person is claimed to be unattested outside Japan",
-      "value": 15,
+      "value": 16,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1085,7 +1094,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Transmission versus independent recurrence is the load-bearing test",
-      "value": 37,
+      "value": 39,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1202,7 +1211,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - HistorEE",
-      "value": 210,
+      "value": 211,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -1211,7 +1220,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Historiography and method",
-      "value": 89,
+      "value": 91,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -1238,7 +1247,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Risk-sharing vs risk-pricing",
-      "value": 72,
+      "value": 73,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -2645,6 +2654,42 @@
       "to": "Transkribus - managed HTR platform"
     },
     {
+      "from": "Kye is not a ROSCA and the equation is an artefact of comparison with mujin",
+      "to": "Divergent arbitrary particulars are the independence diagnostic"
+    },
+    {
+      "from": "Kye is not a ROSCA and the equation is an artefact of comparison with mujin",
+      "to": "Galton's problem"
+    },
+    {
+      "from": "Kye is not a ROSCA and the equation is an artefact of comparison with mujin",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Kye is not a ROSCA and the equation is an artefact of comparison with mujin",
+      "to": "MOC - Historiography and method"
+    },
+    {
+      "from": "Kye is not a ROSCA and the equation is an artefact of comparison with mujin",
+      "to": "MOC - Risk-sharing vs risk-pricing"
+    },
+    {
+      "from": "Kye is not a ROSCA and the equation is an artefact of comparison with mujin",
+      "to": "Never let the units slide from instruments to populations"
+    },
+    {
+      "from": "Kye is not a ROSCA and the equation is an artefact of comparison with mujin",
+      "to": "Refusals are observations of the filter not inferences from survivors"
+    },
+    {
+      "from": "Kye is not a ROSCA and the equation is an artefact of comparison with mujin",
+      "to": "Relief ko for a named person is claimed to be unattested outside Japan"
+    },
+    {
+      "from": "Kye is not a ROSCA and the equation is an artefact of comparison with mujin",
+      "to": "Transmission versus independent recurrence is the load-bearing test"
+    },
+    {
       "from": "Le Bris Goetzmann Pouget 2023 on convergent evolution toward the joint-stock company",
       "to": "Count degrees of freedom not cells"
     },
@@ -3451,6 +3496,10 @@
     {
       "from": "MOC - Historiography and method",
       "to": "Kuran's brake is a refusal of immortal entities"
+    },
+    {
+      "from": "MOC - Historiography and method",
+      "to": "Kye is not a ROSCA and the equation is an artefact of comparison with mujin"
     },
     {
       "from": "MOC - Historiography and method",

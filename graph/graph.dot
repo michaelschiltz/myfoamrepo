@@ -38,6 +38,7 @@ digraph vault {
   "Jensen supplies the gap but only the dynamic privileges the logarithm" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Kuran's brake is a refusal of immortal entities" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Kuzushiji OCR - the NDL and CODH stack" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
+  "Kye is not a ROSCA and the equation is an artefact of comparison with mujin" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Le Bris Goetzmann Pouget 2023 on convergent evolution toward the joint-stock company" [fillcolor="#7570b3", fontcolor=white, shape=ellipse];
   "Legal violence is the weapon of the militarily insufficient" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Lock-in and outcome-coupling are distinct bindings" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
@@ -484,6 +485,15 @@ digraph vault {
   "Kuzushiji OCR - the NDL and CODH stack" -> "MOC - Digitisation and text recognition";
   "Kuzushiji OCR - the NDL and CODH stack" -> "Open-source HTR stack - eScriptorium Kraken Loghi";
   "Kuzushiji OCR - the NDL and CODH stack" -> "Transkribus - managed HTR platform";
+  "Kye is not a ROSCA and the equation is an artefact of comparison with mujin" -> "Divergent arbitrary particulars are the independence diagnostic";
+  "Kye is not a ROSCA and the equation is an artefact of comparison with mujin" -> "Galton's problem";
+  "Kye is not a ROSCA and the equation is an artefact of comparison with mujin" -> "MOC - HistorEE";
+  "Kye is not a ROSCA and the equation is an artefact of comparison with mujin" -> "MOC - Historiography and method";
+  "Kye is not a ROSCA and the equation is an artefact of comparison with mujin" -> "MOC - Risk-sharing vs risk-pricing";
+  "Kye is not a ROSCA and the equation is an artefact of comparison with mujin" -> "Never let the units slide from instruments to populations";
+  "Kye is not a ROSCA and the equation is an artefact of comparison with mujin" -> "Refusals are observations of the filter not inferences from survivors";
+  "Kye is not a ROSCA and the equation is an artefact of comparison with mujin" -> "Relief ko for a named person is claimed to be unattested outside Japan";
+  "Kye is not a ROSCA and the equation is an artefact of comparison with mujin" -> "Transmission versus independent recurrence is the load-bearing test";
   "Le Bris Goetzmann Pouget 2023 on convergent evolution toward the joint-stock company" -> "Count degrees of freedom not cells";
   "Le Bris Goetzmann Pouget 2023 on convergent evolution toward the joint-stock company" -> "Harris 2020 on the late plurality of limited liability";
   "Le Bris Goetzmann Pouget 2023 on convergent evolution toward the joint-stock company" -> "Homoplasy is the finding not the noise";
@@ -686,6 +696,7 @@ digraph vault {
   "MOC - Historiography and method" -> "Homoplasy is the finding not the noise";
   "MOC - Historiography and method" -> "Isqa qirad and commenda are a liability-variable triad";
   "MOC - Historiography and method" -> "Kuran's brake is a refusal of immortal entities";
+  "MOC - Historiography and method" -> "Kye is not a ROSCA and the equation is an artefact of comparison with mujin";
   "MOC - Historiography and method" -> "MOC - ERC Synergy Grant";
   "MOC - Historiography and method" -> "MOC - HistorEE";
   "MOC - Historiography and method" -> "MOC - Path dependence and sequence";

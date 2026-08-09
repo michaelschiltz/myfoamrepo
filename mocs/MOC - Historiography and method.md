@@ -13,6 +13,7 @@ Thematic hub for the project's methodological guardrails: teleology and its inve
 
 ## Notes
 
+- [[Kye is not a ROSCA and the equation is an artefact of comparison with mujin]]
 - [[Relief ko for a named person is claimed to be unattested outside Japan]]
 - [[Brown tests equality where a risk reading predicts dispersion]]
 - [[Whiggish history of finance names the ascent narrative]]
