@@ -24,6 +24,7 @@ Thematic hub for the instrument axis: risk-*sharing* forms that keep every party
 - [[General average shares decisions where warichi shares hazards]]
 - [[The general-particular boundary is unverifiable and its leakage subsidises sailing]]
 - [[Labour exchange is the pooling type the census cannot see]]
+- [[Forms are not independent observations when a village runs a portfolio]]
 - [[Brown tests equality where a risk reading predicts dispersion]]
 - [[Endogenised absorption has a sign]]
 - [[The tontine's chronology defeats the hazard-to-pricing staging]]

@@ -27,6 +27,7 @@ Which is what makes it interesting rather than merely absent. The characteristic
 
 ## Links
 
+- [[Forms are not independent observations when a village runs a portfolio]]
 - [[Kye is not a ROSCA and the equation is an artefact of comparison with mujin]]
 - [[Refusals are observations of the filter not inferences from survivors]]
 - [[Count degrees of freedom not cells]]

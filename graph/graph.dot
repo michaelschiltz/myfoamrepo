@@ -22,6 +22,7 @@ digraph vault {
   "Entity-shielding" [fillcolor="#666666", fontcolor=white, shape=ellipse];
   "Ergodicity is indecomposability not randomness" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Flows make the dynamic affine and affine maps do not commute" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
+  "Forms are not independent observations when a village runs a portfolio" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Galton's problem" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "General average shares decisions where warichi shares hazards" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Gharar excludes designed-in unverifiability" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
@@ -342,6 +343,16 @@ digraph vault {
   "Flows make the dynamic affine and affine maps do not commute" -> "Path dependence requires naming the non-commuting operation";
   "Flows make the dynamic affine and affine maps do not commute" -> "Pure multiplicative dynamics are permutation-invariant";
   "Flows make the dynamic affine and affine maps do not commute" -> "Terminal wealth is permutation-invariant but survival is not";
+  "Forms are not independent observations when a village runs a portfolio" -> "Count degrees of freedom not cells";
+  "Forms are not independent observations when a village runs a portfolio" -> "Labour exchange is the pooling type the census cannot see";
+  "Forms are not independent observations when a village runs a portfolio" -> "MOC - HistorEE";
+  "Forms are not independent observations when a village runs a portfolio" -> "MOC - Historiography and method";
+  "Forms are not independent observations when a village runs a portfolio" -> "MOC - Risk-sharing vs risk-pricing";
+  "Forms are not independent observations when a village runs a portfolio" -> "Pooling's sign is set by the correlation of its baskets";
+  "Forms are not independent observations when a village runs a portfolio" -> "The morphological matrix is dictated by the shape of the feature space";
+  "Forms are not independent observations when a village runs a portfolio" -> "Typology and character coding literature";
+  "Forms are not independent observations when a village runs a portfolio" -> "Warichi re-randomises after absorption rather than diversifying";
+  "Forms are not independent observations when a village runs a portfolio" -> "loss_mitigation_forms";
   "Galton's problem" -> "Divergent arbitrary particulars are the independence diagnostic";
   "Galton's problem" -> "Homoplasy is the finding not the noise";
   "Galton's problem" -> "MOC - ERC Synergy Grant";
@@ -497,6 +508,7 @@ digraph vault {
   "Kye is not a ROSCA and the equation is an artefact of comparison with mujin" -> "Relief ko for a named person is claimed to be unattested outside Japan";
   "Kye is not a ROSCA and the equation is an artefact of comparison with mujin" -> "Transmission versus independent recurrence is the load-bearing test";
   "Labour exchange is the pooling type the census cannot see" -> "Count degrees of freedom not cells";
+  "Labour exchange is the pooling type the census cannot see" -> "Forms are not independent observations when a village runs a portfolio";
   "Labour exchange is the pooling type the census cannot see" -> "Kye is not a ROSCA and the equation is an artefact of comparison with mujin";
   "Labour exchange is the pooling type the census cannot see" -> "MOC - HistorEE";
   "Labour exchange is the pooling type the census cannot see" -> "MOC - Historiography and method";
@@ -766,6 +778,7 @@ digraph vault {
   "MOC - Risk-sharing vs risk-pricing" -> "Brown tests equality where a risk reading predicts dispersion";
   "MOC - Risk-sharing vs risk-pricing" -> "Decoupling substitutes proxy legibility for outcome legibility";
   "MOC - Risk-sharing vs risk-pricing" -> "Endogenised absorption has a sign";
+  "MOC - Risk-sharing vs risk-pricing" -> "Forms are not independent observations when a village runs a portfolio";
   "MOC - Risk-sharing vs risk-pricing" -> "General average shares decisions where warichi shares hazards";
   "MOC - Risk-sharing vs risk-pricing" -> "Labour exchange is the pooling type the census cannot see";
   "MOC - Risk-sharing vs risk-pricing" -> "Lock-in and outcome-coupling are distinct bindings";

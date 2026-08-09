@@ -59,7 +59,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Count degrees of freedom not cells",
-      "value": 27,
+      "value": 29,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -186,6 +186,15 @@
       "group": "seed",
       "label": "Flows make the dynamic affine and affine maps do not commute",
       "value": 19,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "Forms are not independent observations when a village runs a portfolio",
+      "type": "permanent",
+      "group": "seed",
+      "label": "Forms are not independent observations when a village runs a portfolio",
+      "value": 15,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -347,7 +356,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Labour exchange is the pooling type the census cannot see",
-      "value": 15,
+      "value": 17,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -509,7 +518,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Pooling's sign is set by the correlation of its baskets",
-      "value": 31,
+      "value": 32,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -932,7 +941,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The morphological matrix is dictated by the shape of the feature space",
-      "value": 30,
+      "value": 32,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1112,7 +1121,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Typology and character coding literature",
-      "value": 20,
+      "value": 21,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1139,7 +1148,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Warichi re-randomises after absorption rather than diversifying",
-      "value": 20,
+      "value": 21,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1220,7 +1229,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - HistorEE",
-      "value": 212,
+      "value": 213,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -1229,7 +1238,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Historiography and method",
-      "value": 92,
+      "value": 93,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -1256,7 +1265,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Risk-sharing vs risk-pricing",
-      "value": 75,
+      "value": 77,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -1274,7 +1283,7 @@
       "type": "database",
       "group": "database",
       "label": "loss_mitigation_forms",
-      "value": 15,
+      "value": 16,
       "color": "#a6761d",
       "shape": "database"
     },
@@ -2087,6 +2096,46 @@
       "to": "Terminal wealth is permutation-invariant but survival is not"
     },
     {
+      "from": "Forms are not independent observations when a village runs a portfolio",
+      "to": "Count degrees of freedom not cells"
+    },
+    {
+      "from": "Forms are not independent observations when a village runs a portfolio",
+      "to": "Labour exchange is the pooling type the census cannot see"
+    },
+    {
+      "from": "Forms are not independent observations when a village runs a portfolio",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Forms are not independent observations when a village runs a portfolio",
+      "to": "MOC - Historiography and method"
+    },
+    {
+      "from": "Forms are not independent observations when a village runs a portfolio",
+      "to": "MOC - Risk-sharing vs risk-pricing"
+    },
+    {
+      "from": "Forms are not independent observations when a village runs a portfolio",
+      "to": "Pooling's sign is set by the correlation of its baskets"
+    },
+    {
+      "from": "Forms are not independent observations when a village runs a portfolio",
+      "to": "The morphological matrix is dictated by the shape of the feature space"
+    },
+    {
+      "from": "Forms are not independent observations when a village runs a portfolio",
+      "to": "Typology and character coding literature"
+    },
+    {
+      "from": "Forms are not independent observations when a village runs a portfolio",
+      "to": "Warichi re-randomises after absorption rather than diversifying"
+    },
+    {
+      "from": "Forms are not independent observations when a village runs a portfolio",
+      "to": "loss_mitigation_forms"
+    },
+    {
       "from": "Galton's problem",
       "to": "Divergent arbitrary particulars are the independence diagnostic"
     },
@@ -2705,6 +2754,10 @@
     {
       "from": "Labour exchange is the pooling type the census cannot see",
       "to": "Count degrees of freedom not cells"
+    },
+    {
+      "from": "Labour exchange is the pooling type the census cannot see",
+      "to": "Forms are not independent observations when a village runs a portfolio"
     },
     {
       "from": "Labour exchange is the pooling type the census cannot see",
@@ -3781,6 +3834,10 @@
     {
       "from": "MOC - Risk-sharing vs risk-pricing",
       "to": "Endogenised absorption has a sign"
+    },
+    {
+      "from": "MOC - Risk-sharing vs risk-pricing",
+      "to": "Forms are not independent observations when a village runs a portfolio"
     },
     {
       "from": "MOC - Risk-sharing vs risk-pricing",
