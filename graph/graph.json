@@ -518,7 +518,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Pooling's sign is set by the correlation of its baskets",
-      "value": 32,
+      "value": 33,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1022,7 +1022,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The tontine is pooling in form and dispersal in function",
-      "value": 26,
+      "value": 27,
       "color": "#e6ab02",
       "shape": "dot"
     },
