@@ -536,7 +536,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Pricing is orthogonal to mitigation mechanism not a stage of it",
-      "value": 19,
+      "value": 20,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1031,7 +1031,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The tontine's chronology defeats the hazard-to-pricing staging",
-      "value": 21,
+      "value": 22,
       "color": "#e6ab02",
       "shape": "dot"
     },
