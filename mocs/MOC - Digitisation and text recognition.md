@@ -43,6 +43,14 @@ Capture at the highest quality you can afford *once*, in an open format, because
 - [[Preservation-grade overhead scanners - Zeutschel and i2S]]
 - [[Desktop and portable capture - CZUR and ScanTent]]
 
+## Corpora that already exist
+
+Distinct from the tooling layer, and consequential in the other direction: where a corpus has already been transcribed, none of the decisions above apply. Both notes are argument-layer, not infrastructure.
+
+- [[VOC digital corpus - what is online and on what terms]] — five million OBP pages already through Loghi
+- [[EIC digital corpus - what is online and on what terms]] — images at best, and mostly behind a subscription
+- [[GLOBALISE removes the HTR question for the VOC and leaves it standing for the EIC]] — what that means for the project's own transcription budget
+
 ## Tiers at a glance
 
 | Tier | Examples | Throughput | Indicative cost | Who it is for |

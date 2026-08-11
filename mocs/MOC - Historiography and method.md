@@ -51,6 +51,16 @@ Thematic hub for the project's methodological guardrails: teleology and its inve
 - [[Path dependence requires naming the non-commuting operation]]
 - [[Path dependence literature]]
 
+## Notes (the digital corpus as a selection filter)
+
+Where the sources for the European companies are and are not machine-readable is now a live methodological constraint, not an administrative one. The filter is contemporary — funding regimes after 2010 — which makes it easier to mistake for evidentiary richness.
+
+- [[The VOC-EIC digital asymmetry is an access regime not a survival difference]]
+- [[The QDL corpus is conditioned on its funder's geography]]
+- [[GLOBALISE removes the HTR question for the VOC and leaves it standing for the EIC]]
+- [[VOC digital corpus - what is online and on what terms]]
+- [[EIC digital corpus - what is online and on what terms]]
+
 ## Notes (WP3 case selection and the hereditarian wing)
 
 - [[Persistence samples are conditioned on non-absorption]] — the candidate formal deliverable, and the one objection not already made by Kelly, Bisin–Moro or Casey–Klemp
