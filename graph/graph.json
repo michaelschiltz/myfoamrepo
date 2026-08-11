@@ -230,7 +230,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "GLOBALISE removes the HTR question for the VOC and leaves it standing for the EIC",
-      "value": 19,
+      "value": 22,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -374,7 +374,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Kuzushiji OCR - the NDL and CODH stack",
-      "value": 11,
+      "value": 12,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -421,6 +421,15 @@
       "label": "Lock-in and outcome-coupling are distinct bindings",
       "value": 29,
       "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "Loghi - the KNAW-Nationaal Archief HTR pipeline",
+      "type": "reference",
+      "group": "reference",
+      "label": "Loghi - the KNAW-Nationaal Archief HTR pipeline",
+      "value": 14,
+      "color": "#66a61e",
       "shape": "dot"
     },
     {
@@ -509,7 +518,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Open-source HTR stack - eScriptorium Kraken Loghi",
-      "value": 10,
+      "value": 14,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1184,7 +1193,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Transkribus - managed HTR platform",
-      "value": 16,
+      "value": 17,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1211,7 +1220,7 @@
       "type": "reference",
       "group": "reference",
       "label": "VOC digital corpus - what is online and on what terms",
-      "value": 15,
+      "value": 17,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1292,7 +1301,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Digitisation and text recognition",
-      "value": 21,
+      "value": 23,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -3139,6 +3148,30 @@
       "to": "The mudaraba is revocable not locked in"
     },
     {
+      "from": "Loghi - the KNAW-Nationaal Archief HTR pipeline",
+      "to": "GLOBALISE removes the HTR question for the VOC and leaves it standing for the EIC"
+    },
+    {
+      "from": "Loghi - the KNAW-Nationaal Archief HTR pipeline",
+      "to": "Kuzushiji OCR - the NDL and CODH stack"
+    },
+    {
+      "from": "Loghi - the KNAW-Nationaal Archief HTR pipeline",
+      "to": "MOC - Digitisation and text recognition"
+    },
+    {
+      "from": "Loghi - the KNAW-Nationaal Archief HTR pipeline",
+      "to": "Open-source HTR stack - eScriptorium Kraken Loghi"
+    },
+    {
+      "from": "Loghi - the KNAW-Nationaal Archief HTR pipeline",
+      "to": "Transkribus - managed HTR platform"
+    },
+    {
+      "from": "Loghi - the KNAW-Nationaal Archief HTR pipeline",
+      "to": "VOC digital corpus - what is online and on what terms"
+    },
+    {
       "from": "MOC - Digitisation and text recognition",
       "to": "Desktop and portable capture - CZUR and ScanTent"
     },
@@ -3153,6 +3186,10 @@
     {
       "from": "MOC - Digitisation and text recognition",
       "to": "Kuzushiji OCR - the NDL and CODH stack"
+    },
+    {
+      "from": "MOC - Digitisation and text recognition",
+      "to": "Loghi - the KNAW-Nationaal Archief HTR pipeline"
     },
     {
       "from": "MOC - Digitisation and text recognition",
@@ -4605,6 +4642,10 @@
     {
       "from": "Open-source HTR stack - eScriptorium Kraken Loghi",
       "to": "Kuzushiji OCR - the NDL and CODH stack"
+    },
+    {
+      "from": "Open-source HTR stack - eScriptorium Kraken Loghi",
+      "to": "Loghi - the KNAW-Nationaal Archief HTR pipeline"
     },
     {
       "from": "Open-source HTR stack - eScriptorium Kraken Loghi",

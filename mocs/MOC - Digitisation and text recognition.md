@@ -38,6 +38,7 @@ Capture at the highest quality you can afford *once*, in an open format, because
 
 - [[Transkribus - managed HTR platform]]
 - [[Open-source HTR stack - eScriptorium Kraken Loghi]]
+- [[Loghi - the KNAW-Nationaal Archief HTR pipeline]]
 - [[Kuzushiji OCR - the NDL and CODH stack]]
 - [[Robotic V-cradle book scanners - Treventus and Qidenus]]
 - [[Preservation-grade overhead scanners - Zeutschel and i2S]]

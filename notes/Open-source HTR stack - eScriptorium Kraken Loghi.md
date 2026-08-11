@@ -18,7 +18,7 @@ The alternative to [[Transkribus - managed HTR platform]]. Same task, opposite t
 
 **eScriptorium** — the front end over Kraken. Developed in the SCRIPTA project (PSL, Paris). Browser interface for annotation, segmentation, correction and model training with no coding required. Critically, **it is not an application you install but a service you run** — a server or a Docker image. Someone has to administer it. For a single researcher without institutional IT, this is the real cost, and it is paid in your time rather than in credits.
 
-**Loghi** — released by the KNAW (Dutch Royal Academy), developed with the Nationaal Archief. HTR toolkit oriented to large Dutch archival corpora. Relevant if VOC or Dutch East Indies material enters the project; less general-purpose than Kraken.
+**Loghi** — KNAW Humanities Cluster with the Nationaal Archief. MIT-licensed, end-to-end, Docker-based; Laypa for layout, Loghi Tooling for the middle, Loghi HTR for recognition, PageXML throughout. Oriented to large Dutch archival corpora and the engine behind the five-million-page GLOBALISE transcription of the VOC papers. **Narrower than Kraken in trained models, not in architecture** — it also generates synthetic ground truth, which Kraken does not. Full assessment: [[Loghi - the KNAW-Nationaal Archief HTR pipeline]].
 
 **OCR4all** — Würzburg. Semi-automatic workflow specifically for **early printed books**, where the problem is historical typefaces rather than handwriting. Different problem, and if the material is incunabula-to-18th-century print this is likely the better fit than a handwriting model.
 

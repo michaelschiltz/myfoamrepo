@@ -48,6 +48,7 @@ digraph vault {
   "Le Bris Goetzmann Pouget 2023 on convergent evolution toward the joint-stock company" [fillcolor="#7570b3", fontcolor=white, shape=ellipse];
   "Legal violence is the weapon of the militarily insufficient" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Lock-in and outcome-coupling are distinct bindings" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
+  "Loghi - the KNAW-Nationaal Archief HTR pipeline" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
   "Mare Liberum was a corporate legal weapon" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Multiplicative amplification is indifferent to what it amplifies" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Natie and kabu-nakama are a convergence pair" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
@@ -590,10 +591,17 @@ digraph vault {
   "Lock-in and outcome-coupling are distinct bindings" -> "Skin in the game is asymmetric in the mudaraba";
   "Lock-in and outcome-coupling are distinct bindings" -> "The four-step decoupling from participation to the veil";
   "Lock-in and outcome-coupling are distinct bindings" -> "The mudaraba is revocable not locked in";
+  "Loghi - the KNAW-Nationaal Archief HTR pipeline" -> "GLOBALISE removes the HTR question for the VOC and leaves it standing for the EIC";
+  "Loghi - the KNAW-Nationaal Archief HTR pipeline" -> "Kuzushiji OCR - the NDL and CODH stack";
+  "Loghi - the KNAW-Nationaal Archief HTR pipeline" -> "MOC - Digitisation and text recognition";
+  "Loghi - the KNAW-Nationaal Archief HTR pipeline" -> "Open-source HTR stack - eScriptorium Kraken Loghi";
+  "Loghi - the KNAW-Nationaal Archief HTR pipeline" -> "Transkribus - managed HTR platform";
+  "Loghi - the KNAW-Nationaal Archief HTR pipeline" -> "VOC digital corpus - what is online and on what terms";
   "MOC - Digitisation and text recognition" -> "Desktop and portable capture - CZUR and ScanTent";
   "MOC - Digitisation and text recognition" -> "EIC digital corpus - what is online and on what terms";
   "MOC - Digitisation and text recognition" -> "GLOBALISE removes the HTR question for the VOC and leaves it standing for the EIC";
   "MOC - Digitisation and text recognition" -> "Kuzushiji OCR - the NDL and CODH stack";
+  "MOC - Digitisation and text recognition" -> "Loghi - the KNAW-Nationaal Archief HTR pipeline";
   "MOC - Digitisation and text recognition" -> "Open-source HTR stack - eScriptorium Kraken Loghi";
   "MOC - Digitisation and text recognition" -> "Preservation-grade overhead scanners - Zeutschel and i2S";
   "MOC - Digitisation and text recognition" -> "Robotic V-cradle book scanners - Treventus and Qidenus";
@@ -957,6 +965,7 @@ digraph vault {
   "Olivares's junta coded the asiento as a privileged company" -> "The depersonalised share was produced by honour not by pooling logic";
   "Olivares's junta coded the asiento as a privileged company" -> "Transmission versus independent recurrence is the load-bearing test";
   "Open-source HTR stack - eScriptorium Kraken Loghi" -> "Kuzushiji OCR - the NDL and CODH stack";
+  "Open-source HTR stack - eScriptorium Kraken Loghi" -> "Loghi - the KNAW-Nationaal Archief HTR pipeline";
   "Open-source HTR stack - eScriptorium Kraken Loghi" -> "MOC - Digitisation and text recognition";
   "Open-source HTR stack - eScriptorium Kraken Loghi" -> "Transkribus - managed HTR platform";
   "Outcome-coupling is the condition of legibility" -> "Entitlement by liability versus entitlement by membership";
