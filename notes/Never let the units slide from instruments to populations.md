@@ -40,6 +40,8 @@ Recurrence in this project is a claim about instruments arriving at the same sol
 - Whether the execution attack is worth making at all, given that it legitimates the mode.
 - Whether the ergodicity route to the same conclusion ([[Non-ergodicity collapses the likelihood ratio on outcomes]]) reaches Clark without the cladistic apparatus, which would leave the domain attack open.
 
+**Partially resolved 2026-08-11.** An ergodicity route exists and does not borrow from cladistics: [[Fat tails do not require fat-tailed inputs]] shows that outcome dispersion under multiplicative dynamics with a barrier is uninformative about endowment dispersion, so the inference is unidentified before the data arrive. It does *not* recover the domain attack, and it does not touch Clark's actual evidence, which is the decay of correlation with lineage distance rather than the dispersion of status — so the execution attack developed here remains necessary. The third and separate line is [[A persistence parameter stable across regime change indicts the measure]]. The rejoinder that multiplicativity rescues the hereditarian inference is answered at [[Multiplicative amplification is indifferent to what it amplifies]].
+
 ## Links
 
 - [[Deep-roots variables are symplesiomorphies]]

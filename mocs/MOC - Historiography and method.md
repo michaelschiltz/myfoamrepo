@@ -51,6 +51,15 @@ Thematic hub for the project's methodological guardrails: teleology and its inve
 - [[Path dependence requires naming the non-commuting operation]]
 - [[Path dependence literature]]
 
+## Notes (WP3 case selection and the hereditarian wing)
+
+- [[Persistence samples are conditioned on non-absorption]] — the candidate formal deliverable, and the one objection not already made by Kelly, Bisin–Moro or Casey–Klemp
+- [[Voigtlander and Voth measured the relaxation time and reported a mixture]] — the case, and why the obvious framing of it fails
+- [[The three Kelly critiques establish different nulls]] — which Kelly paper says what, and the null WP3 has to beat
+- [[Fat tails do not require fat-tailed inputs]] — the ergodicity route to Clark, independent of the cladistic apparatus
+- [[Multiplicative amplification is indifferent to what it amplifies]] — the rejoinder that uses our own machinery, and the answer
+- [[A persistence parameter stable across regime change indicts the measure]] — the invariance attack, which engages the finding Clark actually leads with
+
 ## Links
 
 - [[MOC - HistorEE]]

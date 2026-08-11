@@ -1,11 +1,20 @@
 {
   "nodes": [
     {
+      "id": "A persistence parameter stable across regime change indicts the measure",
+      "type": "permanent",
+      "group": "seed",
+      "label": "A persistence parameter stable across regime change indicts the measure",
+      "value": 22,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
       "id": "Absorbing barrier",
       "type": "permanent",
       "group": "seed",
       "label": "Absorbing barrier",
-      "value": 49,
+      "value": 51,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -14,7 +23,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Absorption is a path-dependence mechanism distinct from reinforcement",
-      "value": 24,
+      "value": 25,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -23,7 +32,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "An absorbing barrier breaks ergodicity by construction",
-      "value": 31,
+      "value": 33,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -68,7 +77,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Decoupling substitutes proxy legibility for outcome legibility",
-      "value": 20,
+      "value": 21,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -77,7 +86,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Deep-roots variables are symplesiomorphies",
-      "value": 38,
+      "value": 49,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -131,7 +140,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Endogenised absorption has a sign",
-      "value": 16,
+      "value": 17,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -176,7 +185,16 @@
       "type": "permanent",
       "group": "seed",
       "label": "Ergodicity is indecomposability not randomness",
-      "value": 20,
+      "value": 22,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "Fat tails do not require fat-tailed inputs",
+      "type": "permanent",
+      "group": "seed",
+      "label": "Fat tails do not require fat-tailed inputs",
+      "value": 29,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -203,7 +221,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Galton's problem",
-      "value": 40,
+      "value": 41,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -311,7 +329,7 @@
       "type": "permanent",
       "group": "stub",
       "label": "Jensen gap",
-      "value": 25,
+      "value": 26,
       "color": "#666666",
       "shape": "dot"
     },
@@ -320,7 +338,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Jensen supplies the gap but only the dynamic privileges the logarithm",
-      "value": 16,
+      "value": 17,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -397,6 +415,15 @@
       "shape": "dot"
     },
     {
+      "id": "Multiplicative amplification is indifferent to what it amplifies",
+      "type": "permanent",
+      "group": "seed",
+      "label": "Multiplicative amplification is indifferent to what it amplifies",
+      "value": 20,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
       "id": "Natie and kabu-nakama are a convergence pair",
       "type": "permanent",
       "group": "seed",
@@ -428,7 +455,7 @@
       "type": "permanent",
       "group": "stub",
       "label": "Never let the units slide from instruments to populations",
-      "value": 34,
+      "value": 47,
       "color": "#666666",
       "shape": "dot"
     },
@@ -505,6 +532,15 @@
       "shape": "dot"
     },
     {
+      "id": "Persistence samples are conditioned on non-absorption",
+      "type": "permanent",
+      "group": "seed",
+      "label": "Persistence samples are conditioned on non-absorption",
+      "value": 26,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
       "id": "Persona ficta made the corporation a-moral ab initio",
       "type": "permanent",
       "group": "seed",
@@ -554,7 +590,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Pure multiplicative dynamics are permutation-invariant",
-      "value": 24,
+      "value": 25,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -572,7 +608,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Refusals are observations of the filter not inferences from survivors",
-      "value": 49,
+      "value": 51,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -581,7 +617,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Reinforcement selects an attractor the ensemble average never occupies",
-      "value": 22,
+      "value": 24,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -689,7 +725,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Stationarity is a precondition of ergodicity not a corollary",
-      "value": 22,
+      "value": 24,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -698,7 +734,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Terminal wealth is permutation-invariant but survival is not",
-      "value": 25,
+      "value": 26,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -752,7 +788,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The ascent narrative is the Jensen error as historiography",
-      "value": 19,
+      "value": 21,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -797,7 +833,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The deficit reading of absence is the scalar ranking in evidentiary form",
-      "value": 25,
+      "value": 27,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1018,6 +1054,15 @@
       "shape": "dot"
     },
     {
+      "id": "The three Kelly critiques establish different nulls",
+      "type": "reference",
+      "group": "reference",
+      "label": "The three Kelly critiques establish different nulls",
+      "value": 15,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
       "id": "The tontine is pooling in form and dispersal in function",
       "type": "permanent",
       "group": "seed",
@@ -1076,7 +1121,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Time-average optimization is a survivorship property not an intention",
-      "value": 30,
+      "value": 31,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1135,6 +1180,15 @@
       "shape": "dot"
     },
     {
+      "id": "Voigtlander and Voth measured the relaxation time and reported a mixture",
+      "type": "permanent",
+      "group": "seed",
+      "label": "Voigtlander and Voth measured the relaxation time and reported a mixture",
+      "value": 23,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
       "id": "Warichi and general average spread the incidence of an irreversible loss",
       "type": "permanent",
       "group": "seed",
@@ -1157,7 +1211,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Whiggish history of finance names the ascent narrative",
-      "value": 13,
+      "value": 15,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1202,7 +1256,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - ERC Synergy Grant",
-      "value": 41,
+      "value": 47,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -1220,7 +1274,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Ergodicity and the time-ensemble distinction",
-      "value": 71,
+      "value": 79,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -1229,7 +1283,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - HistorEE",
-      "value": 213,
+      "value": 219,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -1238,7 +1292,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Historiography and method",
-      "value": 93,
+      "value": 105,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -1307,6 +1361,46 @@
     }
   ],
   "edges": [
+    {
+      "from": "A persistence parameter stable across regime change indicts the measure",
+      "to": "Decoupling substitutes proxy legibility for outcome legibility"
+    },
+    {
+      "from": "A persistence parameter stable across regime change indicts the measure",
+      "to": "Deep-roots variables are symplesiomorphies"
+    },
+    {
+      "from": "A persistence parameter stable across regime change indicts the measure",
+      "to": "Fat tails do not require fat-tailed inputs"
+    },
+    {
+      "from": "A persistence parameter stable across regime change indicts the measure",
+      "to": "MOC - Ergodicity and the time-ensemble distinction"
+    },
+    {
+      "from": "A persistence parameter stable across regime change indicts the measure",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "A persistence parameter stable across regime change indicts the measure",
+      "to": "MOC - Historiography and method"
+    },
+    {
+      "from": "A persistence parameter stable across regime change indicts the measure",
+      "to": "Multiplicative amplification is indifferent to what it amplifies"
+    },
+    {
+      "from": "A persistence parameter stable across regime change indicts the measure",
+      "to": "Never let the units slide from instruments to populations"
+    },
+    {
+      "from": "A persistence parameter stable across regime change indicts the measure",
+      "to": "Stationarity is a precondition of ergodicity not a corollary"
+    },
+    {
+      "from": "A persistence parameter stable across regime change indicts the measure",
+      "to": "Voigtlander and Voth measured the relaxation time and reported a mixture"
+    },
     {
       "from": "Absorbing barrier",
       "to": "An absorbing barrier breaks ergodicity by construction"
@@ -2066,6 +2160,54 @@
     {
       "from": "Ergodicity is indecomposability not randomness",
       "to": "Time-average"
+    },
+    {
+      "from": "Fat tails do not require fat-tailed inputs",
+      "to": "A persistence parameter stable across regime change indicts the measure"
+    },
+    {
+      "from": "Fat tails do not require fat-tailed inputs",
+      "to": "Absorbing barrier"
+    },
+    {
+      "from": "Fat tails do not require fat-tailed inputs",
+      "to": "An absorbing barrier breaks ergodicity by construction"
+    },
+    {
+      "from": "Fat tails do not require fat-tailed inputs",
+      "to": "Deep-roots variables are symplesiomorphies"
+    },
+    {
+      "from": "Fat tails do not require fat-tailed inputs",
+      "to": "MOC - Ergodicity and the time-ensemble distinction"
+    },
+    {
+      "from": "Fat tails do not require fat-tailed inputs",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Fat tails do not require fat-tailed inputs",
+      "to": "MOC - Historiography and method"
+    },
+    {
+      "from": "Fat tails do not require fat-tailed inputs",
+      "to": "Multiplicative amplification is indifferent to what it amplifies"
+    },
+    {
+      "from": "Fat tails do not require fat-tailed inputs",
+      "to": "Never let the units slide from instruments to populations"
+    },
+    {
+      "from": "Fat tails do not require fat-tailed inputs",
+      "to": "Persistence samples are conditioned on non-absorption"
+    },
+    {
+      "from": "Fat tails do not require fat-tailed inputs",
+      "to": "Pure multiplicative dynamics are permutation-invariant"
+    },
+    {
+      "from": "Fat tails do not require fat-tailed inputs",
+      "to": "Terminal wealth is permutation-invariant but survival is not"
     },
     {
       "from": "Flows make the dynamic affine and affine maps do not commute",
@@ -2937,6 +3079,10 @@
     },
     {
       "from": "MOC - ERC Synergy Grant",
+      "to": "Persistence samples are conditioned on non-absorption"
+    },
+    {
+      "from": "MOC - ERC Synergy Grant",
       "to": "Stationarity is a precondition of ergodicity not a corollary"
     },
     {
@@ -2961,11 +3107,19 @@
     },
     {
       "from": "MOC - ERC Synergy Grant",
+      "to": "The three Kelly critiques establish different nulls"
+    },
+    {
+      "from": "MOC - ERC Synergy Grant",
       "to": "The word ergodic carries four incompatible senses"
     },
     {
       "from": "MOC - ERC Synergy Grant",
       "to": "Transmission versus independent recurrence is the load-bearing test"
+    },
+    {
+      "from": "MOC - ERC Synergy Grant",
+      "to": "Voigtlander and Voth measured the relaxation time and reported a mixture"
     },
     {
       "from": "MOC - Entity-shielding and corporate forms",
@@ -3117,6 +3271,10 @@
     },
     {
       "from": "MOC - Ergodicity and the time-ensemble distinction",
+      "to": "A persistence parameter stable across regime change indicts the measure"
+    },
+    {
+      "from": "MOC - Ergodicity and the time-ensemble distinction",
       "to": "Absorbing barrier"
     },
     {
@@ -3142,6 +3300,10 @@
     {
       "from": "MOC - Ergodicity and the time-ensemble distinction",
       "to": "Ergodicity is indecomposability not randomness"
+    },
+    {
+      "from": "MOC - Ergodicity and the time-ensemble distinction",
+      "to": "Fat tails do not require fat-tailed inputs"
     },
     {
       "from": "MOC - Ergodicity and the time-ensemble distinction",
@@ -3173,11 +3335,19 @@
     },
     {
       "from": "MOC - Ergodicity and the time-ensemble distinction",
+      "to": "Multiplicative amplification is indifferent to what it amplifies"
+    },
+    {
+      "from": "MOC - Ergodicity and the time-ensemble distinction",
       "to": "Non-ergodicity collapses the likelihood ratio on outcomes"
     },
     {
       "from": "MOC - Ergodicity and the time-ensemble distinction",
       "to": "Nothing in the ergodic theorem fails in geometric Brownian motion"
+    },
+    {
+      "from": "MOC - Ergodicity and the time-ensemble distinction",
+      "to": "Persistence samples are conditioned on non-absorption"
     },
     {
       "from": "MOC - Ergodicity and the time-ensemble distinction",
@@ -3553,6 +3723,10 @@
     },
     {
       "from": "MOC - Historiography and method",
+      "to": "A persistence parameter stable across regime change indicts the measure"
+    },
+    {
+      "from": "MOC - Historiography and method",
       "to": "Borrow the diagnostics not the tree"
     },
     {
@@ -3574,6 +3748,10 @@
     {
       "from": "MOC - Historiography and method",
       "to": "Divergent arbitrary particulars are the independence diagnostic"
+    },
+    {
+      "from": "MOC - Historiography and method",
+      "to": "Fat tails do not require fat-tailed inputs"
     },
     {
       "from": "MOC - Historiography and method",
@@ -3617,6 +3795,10 @@
     },
     {
       "from": "MOC - Historiography and method",
+      "to": "Multiplicative amplification is indifferent to what it amplifies"
+    },
+    {
+      "from": "MOC - Historiography and method",
       "to": "Never let the units slide from instruments to populations"
     },
     {
@@ -3626,6 +3808,10 @@
     {
       "from": "MOC - Historiography and method",
       "to": "Path dependence requires naming the non-commuting operation"
+    },
+    {
+      "from": "MOC - Historiography and method",
+      "to": "Persistence samples are conditioned on non-absorption"
     },
     {
       "from": "MOC - Historiography and method",
@@ -3693,6 +3879,10 @@
     },
     {
       "from": "MOC - Historiography and method",
+      "to": "The three Kelly critiques establish different nulls"
+    },
+    {
+      "from": "MOC - Historiography and method",
       "to": "Transmission versus independent recurrence is the load-bearing test"
     },
     {
@@ -3702,6 +3892,10 @@
     {
       "from": "MOC - Historiography and method",
       "to": "Van Dam's Beschryvinge - the VOC described by its own advocaat"
+    },
+    {
+      "from": "MOC - Historiography and method",
+      "to": "Voigtlander and Voth measured the relaxation time and reported a mixture"
     },
     {
       "from": "MOC - Historiography and method",
@@ -3976,6 +4170,46 @@
       "to": "The four-step decoupling from participation to the veil"
     },
     {
+      "from": "Multiplicative amplification is indifferent to what it amplifies",
+      "to": "Absorption is a path-dependence mechanism distinct from reinforcement"
+    },
+    {
+      "from": "Multiplicative amplification is indifferent to what it amplifies",
+      "to": "Fat tails do not require fat-tailed inputs"
+    },
+    {
+      "from": "Multiplicative amplification is indifferent to what it amplifies",
+      "to": "Jensen gap"
+    },
+    {
+      "from": "Multiplicative amplification is indifferent to what it amplifies",
+      "to": "Jensen supplies the gap but only the dynamic privileges the logarithm"
+    },
+    {
+      "from": "Multiplicative amplification is indifferent to what it amplifies",
+      "to": "MOC - Ergodicity and the time-ensemble distinction"
+    },
+    {
+      "from": "Multiplicative amplification is indifferent to what it amplifies",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Multiplicative amplification is indifferent to what it amplifies",
+      "to": "MOC - Historiography and method"
+    },
+    {
+      "from": "Multiplicative amplification is indifferent to what it amplifies",
+      "to": "Never let the units slide from instruments to populations"
+    },
+    {
+      "from": "Multiplicative amplification is indifferent to what it amplifies",
+      "to": "Reinforcement selects an attractor the ensemble average never occupies"
+    },
+    {
+      "from": "Multiplicative amplification is indifferent to what it amplifies",
+      "to": "The ascent narrative is the Jensen error as historiography"
+    },
+    {
       "from": "Natie and kabu-nakama are a convergence pair",
       "to": "MOC - Entity-shielding and corporate forms"
     },
@@ -4049,11 +4283,19 @@
     },
     {
       "from": "Never let the units slide from instruments to populations",
+      "to": "A persistence parameter stable across regime change indicts the measure"
+    },
+    {
+      "from": "Never let the units slide from instruments to populations",
       "to": "Borrow the diagnostics not the tree"
     },
     {
       "from": "Never let the units slide from instruments to populations",
       "to": "Deep-roots variables are symplesiomorphies"
+    },
+    {
+      "from": "Never let the units slide from instruments to populations",
+      "to": "Fat tails do not require fat-tailed inputs"
     },
     {
       "from": "Never let the units slide from instruments to populations",
@@ -4074,6 +4316,10 @@
     {
       "from": "Never let the units slide from instruments to populations",
       "to": "MOC - Historiography and method"
+    },
+    {
+      "from": "Never let the units slide from instruments to populations",
+      "to": "Multiplicative amplification is indifferent to what it amplifies"
     },
     {
       "from": "Never let the units slide from instruments to populations",
@@ -4358,6 +4604,62 @@
     {
       "from": "Perpetuity splits into adaptation and petrification",
       "to": "The waqf and the nación flamenca diverge only at legal personality"
+    },
+    {
+      "from": "Persistence samples are conditioned on non-absorption",
+      "to": "Absorbing barrier"
+    },
+    {
+      "from": "Persistence samples are conditioned on non-absorption",
+      "to": "An absorbing barrier breaks ergodicity by construction"
+    },
+    {
+      "from": "Persistence samples are conditioned on non-absorption",
+      "to": "Deep-roots variables are symplesiomorphies"
+    },
+    {
+      "from": "Persistence samples are conditioned on non-absorption",
+      "to": "Endogenised absorption has a sign"
+    },
+    {
+      "from": "Persistence samples are conditioned on non-absorption",
+      "to": "Ergodicity is indecomposability not randomness"
+    },
+    {
+      "from": "Persistence samples are conditioned on non-absorption",
+      "to": "Fat tails do not require fat-tailed inputs"
+    },
+    {
+      "from": "Persistence samples are conditioned on non-absorption",
+      "to": "MOC - ERC Synergy Grant"
+    },
+    {
+      "from": "Persistence samples are conditioned on non-absorption",
+      "to": "MOC - Ergodicity and the time-ensemble distinction"
+    },
+    {
+      "from": "Persistence samples are conditioned on non-absorption",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Persistence samples are conditioned on non-absorption",
+      "to": "MOC - Historiography and method"
+    },
+    {
+      "from": "Persistence samples are conditioned on non-absorption",
+      "to": "Refusals are observations of the filter not inferences from survivors"
+    },
+    {
+      "from": "Persistence samples are conditioned on non-absorption",
+      "to": "The three Kelly critiques establish different nulls"
+    },
+    {
+      "from": "Persistence samples are conditioned on non-absorption",
+      "to": "Time-average optimization is a survivorship property not an intention"
+    },
+    {
+      "from": "Persistence samples are conditioned on non-absorption",
+      "to": "Voigtlander and Voth measured the relaxation time and reported a mixture"
     },
     {
       "from": "Persona ficta made the corporation a-moral ab initio",
@@ -6260,6 +6562,34 @@
       "to": "Transmission versus independent recurrence is the load-bearing test"
     },
     {
+      "from": "The three Kelly critiques establish different nulls",
+      "to": "Deep-roots variables are symplesiomorphies"
+    },
+    {
+      "from": "The three Kelly critiques establish different nulls",
+      "to": "Galton's problem"
+    },
+    {
+      "from": "The three Kelly critiques establish different nulls",
+      "to": "MOC - ERC Synergy Grant"
+    },
+    {
+      "from": "The three Kelly critiques establish different nulls",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "The three Kelly critiques establish different nulls",
+      "to": "MOC - Historiography and method"
+    },
+    {
+      "from": "The three Kelly critiques establish different nulls",
+      "to": "Persistence samples are conditioned on non-absorption"
+    },
+    {
+      "from": "The three Kelly critiques establish different nulls",
+      "to": "Voigtlander and Voth measured the relaxation time and reported a mixture"
+    },
+    {
       "from": "The tontine is pooling in form and dispersal in function",
       "to": "Absorbing barrier"
     },
@@ -6750,6 +7080,50 @@
     {
       "from": "Van Dam's Beschryvinge - the VOC described by its own advocaat",
       "to": "Transkribus - managed HTR platform"
+    },
+    {
+      "from": "Voigtlander and Voth measured the relaxation time and reported a mixture",
+      "to": "Deep-roots variables are symplesiomorphies"
+    },
+    {
+      "from": "Voigtlander and Voth measured the relaxation time and reported a mixture",
+      "to": "Ergodicity is indecomposability not randomness"
+    },
+    {
+      "from": "Voigtlander and Voth measured the relaxation time and reported a mixture",
+      "to": "MOC - ERC Synergy Grant"
+    },
+    {
+      "from": "Voigtlander and Voth measured the relaxation time and reported a mixture",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Voigtlander and Voth measured the relaxation time and reported a mixture",
+      "to": "MOC - Historiography and method"
+    },
+    {
+      "from": "Voigtlander and Voth measured the relaxation time and reported a mixture",
+      "to": "Persistence samples are conditioned on non-absorption"
+    },
+    {
+      "from": "Voigtlander and Voth measured the relaxation time and reported a mixture",
+      "to": "Refusals are observations of the filter not inferences from survivors"
+    },
+    {
+      "from": "Voigtlander and Voth measured the relaxation time and reported a mixture",
+      "to": "Stationarity is a precondition of ergodicity not a corollary"
+    },
+    {
+      "from": "Voigtlander and Voth measured the relaxation time and reported a mixture",
+      "to": "The deficit reading of absence is the scalar ranking in evidentiary form"
+    },
+    {
+      "from": "Voigtlander and Voth measured the relaxation time and reported a mixture",
+      "to": "The three Kelly critiques establish different nulls"
+    },
+    {
+      "from": "Voigtlander and Voth measured the relaxation time and reported a mixture",
+      "to": "Whiggish history of finance names the ascent narrative"
     },
     {
       "from": "Warichi and general average spread the incidence of an irreversible loss",

@@ -44,6 +44,10 @@ Written for WP3, to the standard a mathematically literate referee would apply.
 - [[Terminal wealth is permutation-invariant but survival is not]]
 - [[Reinforcement selects an attractor the ensemble average never occupies]]
 - [[Absorption is a path-dependence mechanism distinct from reinforcement]]
+- [[Fat tails do not require fat-tailed inputs]]
+- [[Multiplicative amplification is indifferent to what it amplifies]]
+- [[Persistence samples are conditioned on non-absorption]]
+- [[A persistence parameter stable across regime change indicts the measure]]
 
 ## Links
 

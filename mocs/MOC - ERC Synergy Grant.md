@@ -29,6 +29,12 @@ The Part 2 WP1 session's *ideas* are written as atomic notes (below) and kept un
 - [[Distinguish strong from weak ergodicity breaking]] — most of our cases are weak, and we have been writing as though they were strong
 - [[Jensen supplies the gap but only the dynamic privileges the logarithm]] — where the logarithm's privilege actually comes from, and the "which dynamic?" objection that replaces "which utility?"
 
+## Notes (WP3 case selection)
+
+- [[Persistence samples are conditioned on non-absorption]] — candidate formal deliverable; the estimation sample is conditioned on a collider downstream of the treatment, and the resulting bias is *unsigned* without a model of absorption
+- [[Voigtlander and Voth measured the relaxation time and reported a mixture]] — the case, with the framing that survives contact with the authors' own Table X
+- [[The three Kelly critiques establish different nulls]] — the null WP3 must beat, and a live citation hazard in how the Voigtländer–Voth check is usually reported
+
 ## Leads
 
 - [[The isqa's bifurcation belongs to the Sasanian substrate question]] — the rabbinic route as the least-cost place to run the *Leitfehler* test the *qirāḍ* genealogy turns on, and a stronger approach to Macuch than the Islamic leg alone.
