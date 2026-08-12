@@ -10,6 +10,15 @@
       "shape": "dot"
     },
     {
+      "id": "A scheme for extending the cooperative pooling census",
+      "type": "permanent",
+      "group": "seed",
+      "label": "A scheme for extending the cooperative pooling census",
+      "value": 17,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
       "id": "Absorbing barrier",
       "type": "permanent",
       "group": "seed",
@@ -68,7 +77,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Count degrees of freedom not cells",
-      "value": 29,
+      "value": 30,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -122,7 +131,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Divergent arbitrary particulars are the independence diagnostic",
-      "value": 39,
+      "value": 40,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -221,7 +230,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Forms are not independent observations when a village runs a portfolio",
-      "value": 15,
+      "value": 17,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -383,7 +392,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Kye is not a ROSCA and the equation is an artefact of comparison with mujin",
-      "value": 18,
+      "value": 19,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -392,7 +401,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Labour exchange is the pooling type the census cannot see",
-      "value": 17,
+      "value": 19,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -581,7 +590,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Pooling's sign is set by the correlation of its baskets",
-      "value": 33,
+      "value": 35,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -851,7 +860,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The bidding ko transfers from the liquidity-constrained to the liquid",
-      "value": 20,
+      "value": 21,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1022,7 +1031,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The morphological matrix is dictated by the shape of the feature space",
-      "value": 32,
+      "value": 33,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1337,7 +1346,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - HistorEE",
-      "value": 224,
+      "value": 225,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -1346,7 +1355,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Historiography and method",
-      "value": 115,
+      "value": 116,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -1373,7 +1382,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Risk-sharing vs risk-pricing",
-      "value": 77,
+      "value": 78,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -1391,7 +1400,7 @@
       "type": "database",
       "group": "database",
       "label": "loss_mitigation_forms",
-      "value": 16,
+      "value": 17,
       "color": "#a6761d",
       "shape": "database"
     },
@@ -1400,7 +1409,7 @@
       "type": "database",
       "group": "database",
       "label": "organizational_forms",
-      "value": 11,
+      "value": 12,
       "color": "#a6761d",
       "shape": "database"
     },
@@ -1454,6 +1463,58 @@
     {
       "from": "A persistence parameter stable across regime change indicts the measure",
       "to": "Voigtlander and Voth measured the relaxation time and reported a mixture"
+    },
+    {
+      "from": "A scheme for extending the cooperative pooling census",
+      "to": "Count degrees of freedom not cells"
+    },
+    {
+      "from": "A scheme for extending the cooperative pooling census",
+      "to": "Divergent arbitrary particulars are the independence diagnostic"
+    },
+    {
+      "from": "A scheme for extending the cooperative pooling census",
+      "to": "Forms are not independent observations when a village runs a portfolio"
+    },
+    {
+      "from": "A scheme for extending the cooperative pooling census",
+      "to": "Kye is not a ROSCA and the equation is an artefact of comparison with mujin"
+    },
+    {
+      "from": "A scheme for extending the cooperative pooling census",
+      "to": "Labour exchange is the pooling type the census cannot see"
+    },
+    {
+      "from": "A scheme for extending the cooperative pooling census",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "A scheme for extending the cooperative pooling census",
+      "to": "MOC - Historiography and method"
+    },
+    {
+      "from": "A scheme for extending the cooperative pooling census",
+      "to": "MOC - Risk-sharing vs risk-pricing"
+    },
+    {
+      "from": "A scheme for extending the cooperative pooling census",
+      "to": "Pooling's sign is set by the correlation of its baskets"
+    },
+    {
+      "from": "A scheme for extending the cooperative pooling census",
+      "to": "The bidding ko transfers from the liquidity-constrained to the liquid"
+    },
+    {
+      "from": "A scheme for extending the cooperative pooling census",
+      "to": "The morphological matrix is dictated by the shape of the feature space"
+    },
+    {
+      "from": "A scheme for extending the cooperative pooling census",
+      "to": "loss_mitigation_forms"
+    },
+    {
+      "from": "A scheme for extending the cooperative pooling census",
+      "to": "organizational_forms"
     },
     {
       "from": "Absorbing barrier",
