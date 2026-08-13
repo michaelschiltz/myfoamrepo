@@ -26,6 +26,8 @@ The organising principle of this note is therefore not geography but **what a fo
 
 **Labour is invisible.** Not one coded form pools labour, though reciprocal labour is a pooling institution with the same functional profile ([[Labour exchange is the pooling type the census cannot see]]). The standing decision is to code 結 *yui* and 품앗이 *pumasi* together or neither.
 
+**Residence is invisible, and this is the deeper hole.** Every form in the census is a *fund* or an *allocation rule* — something is collected and something is paid, or an existing asset is redistributed. Not one is a **place**. Yet the most common historical answer to catastrophic individual exposure was not a subscription but a household: shocks were absorbed by the unit one lived in, and the people at real risk of ruin were those without one. A census that can only see funds will systematically miss the arrangements that substituted for the household, and will then report — falsely — that such arrangements were rare. `CN1=.NA` is currently a curiosity attaching to `warichi_iwade`; it may turn out to mark a whole class the instrument cannot hold.
+
 ## Acquisition priority
 
 Ordered by which stuck cell each would move, not by importance of the tradition.
@@ -39,6 +41,14 @@ Ordered by which stuck cell each would move, not by importance of the tradition.
 **4 — 結 *yui* with 품앗이 *pumasi*.** Together or not at all. Would test whether `CN2` can express an equivalence schedule graded by sex and age, and whether the census can represent an arrangement whose unit of account is time rather than value.
 
 **5 — Latin confraternity proper, and the HUF.** `confraternity_fund` and `huf` are both parked; the HUF carries an explicit boundary doubt in its own type row about whether it is a capital vehicle rather than a hazard pool, which the *shenhui_gu* coding has just made a general question rather than a peculiarity of that row.
+
+**6 — Flemish *begijnhof*, the beguinage.** MS's suggestion, 2026-08-13, as a way of pooling labour "and maybe more". **The "maybe more" is where the value is, and the labour reading is the part I would expect not to survive the sources.** Two objections to test before acquiring anything. First, beguines took no vow of poverty — that is the defining contrast with nuns — so they **retained private property, could inherit and could bequeath**. There is no common purse, which is exactly what `MC1=pooling` and `CN1` are built to find, and a beguinage may fail at the same first question that excluded Lavallée's choir school. Second, beguine labour was largely **individual piecework for wages** in the cloth trades, plus nursing, laundering and teaching; output was not obviously pooled, and if it was not, `yui` and *pumasi* remain the better route to the labour cell.
+
+What survives both objections is stronger than the labour claim. **A beguinage pools the absorbing barrier itself.** For an unmarried or widowed woman in a Flemish town, ruin followed from having no household to fall back on; the *begijnhof* supplies the function of one — shelter at below-market cost, work found through the community, care in illness and old age within the court, burial — without marriage, without vows, and without a man. That is loss mitigation whose medium is **residence rather than money**, and per the paragraph above the census has no such form. **It is therefore a test of the instrument, not merely an addition to it:** if the beguinage cannot be coded, the finding is that the census's frame is fund-shaped, which is a referee-facing result and not a defect to hide.
+
+Two further reasons to want it. **It may belong in `organizational_forms` more than in `loss_mitigation_forms`** — a corporate body holding real property in perpetuity, governed by a Grand Mistress under a rule never approved at Rome, which survived condemnation at Vienne in 1311 and persisted for centuries afterwards. Legal personality and perpetual succession arrived at by a lay women's community, outside every actor the entity-shielding literature discusses. Check it against `waqf_khayri` and `nakai_fictive_household` on the WP2 five before assuming it is new. And **it completes a triad that assembled itself today**: three institutional answers to one exposure — the unattached woman — namely `craft_widows_fund_edinburgh` (an annuity), `friendly_society_female_england` (sick pay against inability to work), and the beguinage (a place to live and a way to earn). Same hazard, three media, three traditions. That is the kind of set the census exists to produce, and it was not designed for.
+
+*Sources to check rather than assume.* Walter Simons, *Cities of Ladies: Beguine Communities in the Medieval Low Countries, 1200–1565* is the standard treatment and the first thing to acquire; there is a substantial Dutch-language literature on individual *begijnhoven* that the library may already hold. Citation unverified — confirm before it enters a type row. **The claim to test first is the property one**, since it decides whether this is a pooling form at all.
 
 ## Decision rules the week produced
 
@@ -71,7 +81,7 @@ Written down because each was learned by getting it wrong first.
 
 Coding sessions of 2026-08-09 to 2026-08-12: 三浦 1959, 松永 1999 and 加藤 1998 on tanomoshi-kō;
 Enkhbold 2019 and Endicott-West 1989 on the ortoq; Zelin 2019 and Nagata 2008 on Chinese and Japanese
-shareholding. Census state as at `loss_mitigation_forms` 0.2.1 and `organizational_forms` 0.7.1.
+shareholding. Extended 2026-08-13 after the guild-and-fraternity reading (Prom, Allen, Rusnock & Dietz coded; Lavallee and Klieber read and excluded) and after MS proposed the beguinage. Census state as at `loss_mitigation_forms` 0.4.0 and `organizational_forms` 0.7.1.
 The priority ordering is proposed here and is nobody else's; the stuck-cell diagnoses are readable
 off the data.
 
