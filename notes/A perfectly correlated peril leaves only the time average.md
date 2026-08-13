@@ -6,32 +6,38 @@ project: HistorEE
 source-session: ottoman-communal-funds
 database: [loss_mitigation_forms]
 created: 2026-08-13
-status: seed
+status: superseded
 ---
 
 # A perfectly correlated peril leaves only the time average
 
-[[Pooling's sign is set by the correlation of its baskets]] establishes that pooling averages nothing as ρ→1: under Var(r|N) = (s²/N)[1 + (N−1)ρ], perfect correlation returns Var → s², and aggregating N members "merely relabels N members as a single unit". That note treats ρ→1 as the failure mode of a strategy — Hamilton's trap, the Fugger's concentrated counterparty. **The Ottoman *avarız* fund poses the case where ρ→1 is not a failure but the initial condition, and asks what institution is left when it is.**
+> **This note's central claim was tested against its sources on the day it was written and failed.** The title is retained because the reasoning recurs and should stay findable; the argument is set out below as it was made, then dismantled. What survives the dismantling is at the end, and is worth more than what was lost.
 
-The peril is an extraordinary levy assessed on a *mahalle* or village under collective fiscal liability. Its correlation across members is not a contingent fact about shared harvests or a common creditor; it is **definitional**. The shock is constituted on the community, not on the household, and then apportioned. Every member is struck in the same year, by construction, and no partition of the membership yields a decorrelated basket. Cross-sectional mitigation is therefore unavailable *in principle* rather than merely inefficient — there is no ρ to buy down, because the community is the unit on which the draw is defined.
+## The argument, as made
 
-What survives is the other axis. An endowment that accumulates in ordinary years and discharges in levy years does not average the peril across members; it averages it **across periods**. It converts a lumpy, exogenous, community-wide draw into a smoother sequence for the same set of households. That is the time-average operation performed directly, and per [[Skin in the game]] and the Peters–Adamou result it raises the [[Time-average|time-average]] growth rate by the same [[Jensen gap]] mechanism that insurance does — by capping the variance that drags a multiplicative trajectory toward the [[Absorbing barrier|absorbing barrier]].
+[[Pooling's sign is set by the correlation of its baskets]] establishes that pooling averages nothing as ρ→1: under Var(r|N) = (s²/N)[1 + (N−1)ρ], perfect correlation returns Var → s², and aggregating N members "merely relabels N members as a single unit". That note treats ρ→1 as the failure mode of a strategy. The Ottoman *avarız* fund appeared to pose the case where ρ→1 is the **initial condition**, and to ask what institution is left when it is.
 
-**This makes the buffer fund a purer ergodicity object than any pooling institution in the census, and that is the note's point.** A mutual fund raises each member's time-average growth *by borrowing the ensemble*: it reaches sideways to other members whose draws are partly independent and uses their decorrelation as the raw material. The time-average gain is real, but it is manufactured out of an ensemble. A buffer stock raises the time-average with **no ensemble at all**. It is the same operation with the crutch removed — which is why it is the cleaner illustration of the distinction the book is built on, and why it belongs in the argument even if it never earns a row.
+The peril was taken to be an extraordinary levy assessed on a *mahalle* under collective fiscal liability, its correlation across members definitional rather than contingent: the shock constituted on the community and then apportioned, so that no partition of the membership yields a decorrelated basket. Cross-sectional mitigation would then be unavailable *in principle*. What remained was the other axis — an endowment accumulating in ordinary years and discharging in levy years, averaging the peril **across periods** rather than across members. This was to be the time-average operation performed directly, and, in the sharpest formulation, a **purer ergodicity object than any pooling institution in the census**: a mutual fund raises each member's [[Time-average|time-average]] growth *by borrowing the ensemble*, reaching sideways to members whose draws are partly independent; a buffer stock would raise it with no ensemble at all, the same operation with the crutch removed.
 
-The collective-liability rule supplies a second mechanism, and a nastier one. Where the quarter answers as a body, a household that absconds or dies insolvent does not simply drop out: **its share is redistributed over those remaining, raising every survivor's exposure**. That is positive feedback toward the barrier — each departure makes the next departure likelier — and it is the mechanism by which a fiscal levy can depopulate a quarter without any single levy being individually ruinous. A fund that meets the shortfall of the absent household is damping that feedback, not merely relieving a debtor. This is closer to what the sources describe than "insurance" is.
+Two falsification conditions were stated. Both failed.
 
-## What this does to the instrument
+## Why it fails
 
-`MC1` codes Harris's three mechanisms — allocation, spreading, pooling. **All three are cross-sectional.** Each describes how a peril moves *among parties*; none describes how it moves *among periods*. So the census has no value for intertemporal mitigation, and would be forced either to record `.NR` or to smear the case into `pooling`, which would assert an ensemble operation that is precisely what the correlation structure forbids. The honest reading is that this is a gap in the taxonomy inherited from Harris 2023 rather than an awkward case.
+**The buffer requires drawdown, and drawdown is categorically forbidden.** Küçük on the Kastamonu Kırkçeşme fund: expenditure must absolutely be made out of the profit obtained, and the principle that no expenditure be made from the principal was adopted — enforced by personal liability on the *mütevelli* and even on the officials collecting the *avarız akçesi*, who were to indemnify the fund from their own property. The quarter's needs were met from the *nema*: 942 *kuruş* of annual return against 6,280 of untouchable corpus. Nothing accumulates and nothing is drawn down. **It is an endowment whose income substitutes for taxation, not a buffer stock.**
 
-Note that this is a *different* defect from the one recorded in [[A scheme for extending the cooperative pooling census]], where `MC1` cannot be set because **no peril is at issue**. Here a peril is plainly at issue and the mechanism is plainly loss mitigation; what is missing is an axis. Do not merge the two counts — that error has already been made once in this project and corrected.
+**A regularised levy is not a hazard, and the levy was regularised.** From the late sixteenth century the state, in fiscal crisis, resolved to collect certain taxes continuously and in cash; the *avârız-ı divâniye* and *tekâlif-i örfiye* were turned into regularly collected annual taxes. A predictable annual charge is a cost of residence, not a peril.
 
-> **Caution — two falsification conditions, neither yet tested.**
->
-> **First, the buffer reading requires drawdown.** A fund whose *income* pays the levy every year is not smoothing anything; it is an endowment substituting for taxation, and the time-averaging claim collapses. The reading above requires that principal is drawn down in heavy years and rebuilt in light ones. Küçük's account book of the Kastamonu Kırkçeşme fund is the item that would show or refute this, and it has not been read.
->
-> **Second, a regularised levy is not a hazard at all.** *Avarız* began as an extraordinary imposition and was substantially regularised over the seventeenth century. If it became annual and predictable, then there is no peril, only a tax, and the fund is a revenue vehicle — which would move this case into the same class as the forms where `MC1` fails for want of a hazard, exactly the class this note has just insisted it is not in. **The argument stands or falls on the levy's irregularity, and that is an empirical question I have not settled.**
+**And the variable was wrong, which is the failure that matters.** The peril the fund addresses is not the levy. Küçük's account of the funds' origin is that difficulties arose *in the process of the populace meeting these newly created taxes*, and the stated design is that persons **without the ability to pay** should benefit. The levy falls on everyone; **which household proves unable to meet its share does not**. That variation is idiosyncratic, ρ is nowhere near one on it, and ordinary cross-sectional mitigation was available the whole time. The correlated quantity was never the one the institution was built against. **The levy is the setting; the incapacity is the hazard.**
+
+The general lesson is not about the Ottoman Empire. It is that ρ is a property of a **specified variable**, and an institution's ρ must be read off the thing it actually indemnifies rather than off the thing that makes indemnity necessary. A famine is covariate; who starves in it is not. A levy is covariate; who cannot pay it is not. Every mutual institution operating inside a correlated environment will look like a ρ→1 case until one asks what it writes cheques against.
+
+## What survives
+
+**Contributor and beneficiary sets can be disjoint, and the census now has three cases of it.** The fund is endowed by donors of comfortable means; the beneficiaries are those unable to pay. This is not pooling among the exposed — it is a hazard shifted onto an endowment, which is why the row reads `MC1=allocation`. With `guild_box_dutch` and `friendly_society_female_england` it makes the third case, and it is the cleanest of the three because the two sets barely overlap. The taxonomy inherited from Harris presumes that those who fund a pool are those it protects; three counterexamples in a thirty-three-form census is enough to say the presumption is doing unexamined work. See [[A scheme for extending the cooperative pooling census]].
+
+**A state can suppress a security interest because it drives households across the barrier.** Deniz, on why three of four pledge-only deeds restrict pledges to gold and silver: creditors had been seizing peasants' land, forcing unpaid labour and distress sales, "often leading to bankruptcy. As peasants fled their lands, agricultural decline threatened state revenue." The state then prohibited taking real estate, vineyards and gardens in pledge, and ordered those already taken returned. The fisc suppressed a form of collateral because foreclosure was pushing its own tax base past the [[Absorbing barrier|absorbing barrier]] — a ruler internalising an absorbing-barrier externality, in the sixteenth century, and legislating against it. **This deserves its own note and does not belong buried in a retraction.**
+
+> **Method.** This note was written before any source was read, from a literature-search summary, and was wrong within hours. So was the Rouen exclusion of the previous day, and for the same reason. The falsification conditions did their work — both were stated in advance, both were checked, both failed cleanly, and the cost was one afternoon. **Keep writing the conditions. Stop writing the notes before at least one source has been read in full.**
 
 ## Links
 
@@ -40,12 +46,12 @@ Note that this is a *different* defect from the one recorded in [[A scheme for e
 - [[Absorbing barrier]]
 - [[Jensen gap]]
 - [[Skin in the game]]
-- [[Labour exchange is the pooling type the census cannot see]]
 - [[A scheme for extending the cooperative pooling census]]
 - [[MOC - Ergodicity and the time-ensemble distinction]]
 - [[MOC - Risk-sharing vs risk-pricing]]
+- [[MOC - Historiography and method]]
 - [[MOC - HistorEE]]
 
 ## Source
 
-Undermind sweep of 2026-08-13 on Ottoman neighbourhood and village funds, and the coding brief filed with it. **No source has been read in full.** The institutional description rests on the sweep's own summary — that these are "endowed, locally administered capital pools whose investment income supported collective fiscal liability and selective relief" rather than compulsory mutual-insurance schemes — and on the abstracts of Kıvrım (Ayntab, 2019), Küçük (Kastamonu, 2024) and Gürsoy (1491–1828, 2019). The theoretical apparatus is carried over from the cooperation–synchrony session; the ρ→1 formulation is that note's, not mine. **Everything here is a hypothesis about a literature, not a finding from one, and the two cautions above are the conditions on which it would be withdrawn.**
+Küçük 2025 on the Kastamonu Kırkçeşme *avarız akçesi* endowment (`10.21021/osmed.1472954`) and Deniz 2026 on 97 sixteenth-century cash-waqf deeds (`10.33227/auifd.1740727`), both read in full, both Turkish, both outside MS's working languages and flagged accordingly in the census. The ρ→1 apparatus is carried over from the cooperation–synchrony session and is that note's, not mine. The discarded reading and its two falsification conditions are recorded at `HistorEE_codebooks/logbook/4`, and the coded form is `avariz_vakfi_kirkcesme`, `loss_mitigation_forms` 0.5.0.

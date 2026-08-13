@@ -3,10 +3,10 @@
     {
       "id": "A perfectly correlated peril leaves only the time average",
       "type": "permanent",
-      "group": "seed",
+      "group": "superseded",
       "label": "A perfectly correlated peril leaves only the time average",
-      "value": 18,
-      "color": "#e6ab02",
+      "value": 16,
+      "color": "#1b9e77",
       "shape": "dot"
     },
     {
@@ -365,7 +365,7 @@
       "type": "permanent",
       "group": "stub",
       "label": "Jensen gap",
-      "value": 28,
+      "value": 27,
       "color": "#666666",
       "shape": "dot"
     },
@@ -410,7 +410,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Labour exchange is the pooling type the census cannot see",
-      "value": 20,
+      "value": 19,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -752,7 +752,7 @@
       "type": "permanent",
       "group": "stub",
       "label": "Skin in the game",
-      "value": 25,
+      "value": 24,
       "color": "#666666",
       "shape": "dot"
     },
@@ -1364,7 +1364,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Historiography and method",
-      "value": 116,
+      "value": 117,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -1447,15 +1447,15 @@
     },
     {
       "from": "A perfectly correlated peril leaves only the time average",
-      "to": "Labour exchange is the pooling type the census cannot see"
-    },
-    {
-      "from": "A perfectly correlated peril leaves only the time average",
       "to": "MOC - Ergodicity and the time-ensemble distinction"
     },
     {
       "from": "A perfectly correlated peril leaves only the time average",
       "to": "MOC - HistorEE"
+    },
+    {
+      "from": "A perfectly correlated peril leaves only the time average",
+      "to": "MOC - Historiography and method"
     },
     {
       "from": "A perfectly correlated peril leaves only the time average",
