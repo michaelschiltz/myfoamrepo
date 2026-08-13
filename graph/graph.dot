@@ -1,6 +1,7 @@
 digraph vault {
   graph [overlap=false, splines=true];
   node [style=filled, fontname="Helvetica", shape=ellipse];
+  "A perfectly correlated peril leaves only the time average" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "A persistence parameter stable across regime change indicts the measure" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "A scheme for extending the cooperative pooling census" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Absorbing barrier" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
@@ -159,6 +160,17 @@ digraph vault {
   "loss_mitigation_forms" [fillcolor="#a6761d", fontcolor=white, shape=cylinder];
   "organizational_forms" [fillcolor="#a6761d", fontcolor=white, shape=cylinder];
   "clearing_records" [fillcolor="#a6761d", fontcolor=white, shape=cylinder];
+  "A perfectly correlated peril leaves only the time average" -> "A scheme for extending the cooperative pooling census";
+  "A perfectly correlated peril leaves only the time average" -> "Absorbing barrier";
+  "A perfectly correlated peril leaves only the time average" -> "Jensen gap";
+  "A perfectly correlated peril leaves only the time average" -> "Labour exchange is the pooling type the census cannot see";
+  "A perfectly correlated peril leaves only the time average" -> "MOC - Ergodicity and the time-ensemble distinction";
+  "A perfectly correlated peril leaves only the time average" -> "MOC - HistorEE";
+  "A perfectly correlated peril leaves only the time average" -> "MOC - Risk-sharing vs risk-pricing";
+  "A perfectly correlated peril leaves only the time average" -> "Pooling's sign is set by the correlation of its baskets";
+  "A perfectly correlated peril leaves only the time average" -> "Skin in the game";
+  "A perfectly correlated peril leaves only the time average" -> "Time-average";
+  "A perfectly correlated peril leaves only the time average" -> "loss_mitigation_forms";
   "A persistence parameter stable across regime change indicts the measure" -> "Decoupling substitutes proxy legibility for outcome legibility";
   "A persistence parameter stable across regime change indicts the measure" -> "Deep-roots variables are symplesiomorphies";
   "A persistence parameter stable across regime change indicts the measure" -> "Fat tails do not require fat-tailed inputs";
