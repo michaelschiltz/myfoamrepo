@@ -55,6 +55,15 @@
       "shape": "dot"
     },
     {
+      "id": "Antiquarian booksellers - the top tier and where economic history sits",
+      "type": "reference",
+      "group": "reference",
+      "label": "Antiquarian booksellers - the top tier and where economic history sits",
+      "value": 9,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
       "id": "Arthur's lock-in and capital lock-in are different objects",
       "type": "permanent",
       "group": "seed",
@@ -149,7 +158,7 @@
       "type": "reference",
       "group": "reference",
       "label": "EIC digital corpus - what is online and on what terms",
-      "value": 15,
+      "value": 16,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -248,7 +257,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "GLOBALISE removes the HTR question for the VOC and leaves it standing for the EIC",
-      "value": 22,
+      "value": 23,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -356,7 +365,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Isqa reading list to acquire",
-      "value": 11,
+      "value": 15,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -608,7 +617,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Preservation-grade overhead scanners - Zeutschel and i2S",
-      "value": 8,
+      "value": 9,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -653,7 +662,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Refusals are observations of the filter not inferences from survivors",
-      "value": 54,
+      "value": 55,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -761,7 +770,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Split provenance into priority and independence",
-      "value": 21,
+      "value": 24,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -797,7 +806,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The Nakai ledger scores as losses what present value scores as gains",
-      "value": 16,
+      "value": 17,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -806,7 +815,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The QDL corpus is conditioned on its funder's geography",
-      "value": 14,
+      "value": 15,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -824,7 +833,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The VOC-EIC digital asymmetry is an access regime not a survival difference",
-      "value": 22,
+      "value": 23,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -896,7 +905,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The deficit reading of absence is the scalar ranking in evidentiary form",
-      "value": 29,
+      "value": 30,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1238,7 +1247,7 @@
       "type": "reference",
       "group": "reference",
       "label": "VOC digital corpus - what is online and on what terms",
-      "value": 17,
+      "value": 18,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1247,7 +1256,7 @@
       "type": "source",
       "group": "source",
       "label": "Van Dam's Beschryvinge - the VOC described by its own advocaat",
-      "value": 33,
+      "value": 34,
       "color": "#7570b3",
       "shape": "dot"
     },
@@ -1315,11 +1324,20 @@
       "shape": "dot"
     },
     {
+      "id": "MOC - Acquisitions and the antiquarian trade",
+      "type": "moc",
+      "group": "moc",
+      "label": "MOC - Acquisitions and the antiquarian trade",
+      "value": 25,
+      "color": "#d95f02",
+      "shape": "dot"
+    },
+    {
       "id": "MOC - Digitisation and text recognition",
       "type": "moc",
       "group": "moc",
       "label": "MOC - Digitisation and text recognition",
-      "value": 23,
+      "value": 27,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -1328,7 +1346,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - ERC Synergy Grant",
-      "value": 47,
+      "value": 48,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -1355,7 +1373,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - HistorEE",
-      "value": 226,
+      "value": 228,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -1364,7 +1382,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Historiography and method",
-      "value": 117,
+      "value": 118,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -1400,7 +1418,7 @@
       "type": "reference",
       "group": "reference",
       "label": "tags",
-      "value": 8,
+      "value": 9,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1696,6 +1714,26 @@
     {
       "from": "An absorbing barrier breaks ergodicity by construction",
       "to": "The real cut is shielded-and-pooled versus unshielded"
+    },
+    {
+      "from": "Antiquarian booksellers - the top tier and where economic history sits",
+      "to": "Isqa reading list to acquire"
+    },
+    {
+      "from": "Antiquarian booksellers - the top tier and where economic history sits",
+      "to": "MOC - Acquisitions and the antiquarian trade"
+    },
+    {
+      "from": "Antiquarian booksellers - the top tier and where economic history sits",
+      "to": "MOC - Digitisation and text recognition"
+    },
+    {
+      "from": "Antiquarian booksellers - the top tier and where economic history sits",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Antiquarian booksellers - the top tier and where economic history sits",
+      "to": "Split provenance into priority and independence"
     },
     {
       "from": "Arthur's lock-in and capital lock-in are different objects",
@@ -3284,6 +3322,74 @@
     {
       "from": "Loghi - the KNAW-Nationaal Archief HTR pipeline",
       "to": "VOC digital corpus - what is online and on what terms"
+    },
+    {
+      "from": "MOC - Acquisitions and the antiquarian trade",
+      "to": "Antiquarian booksellers - the top tier and where economic history sits"
+    },
+    {
+      "from": "MOC - Acquisitions and the antiquarian trade",
+      "to": "EIC digital corpus - what is online and on what terms"
+    },
+    {
+      "from": "MOC - Acquisitions and the antiquarian trade",
+      "to": "GLOBALISE removes the HTR question for the VOC and leaves it standing for the EIC"
+    },
+    {
+      "from": "MOC - Acquisitions and the antiquarian trade",
+      "to": "Isqa reading list to acquire"
+    },
+    {
+      "from": "MOC - Acquisitions and the antiquarian trade",
+      "to": "MOC - Digitisation and text recognition"
+    },
+    {
+      "from": "MOC - Acquisitions and the antiquarian trade",
+      "to": "MOC - ERC Synergy Grant"
+    },
+    {
+      "from": "MOC - Acquisitions and the antiquarian trade",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "MOC - Acquisitions and the antiquarian trade",
+      "to": "MOC - Historiography and method"
+    },
+    {
+      "from": "MOC - Acquisitions and the antiquarian trade",
+      "to": "Preservation-grade overhead scanners - Zeutschel and i2S"
+    },
+    {
+      "from": "MOC - Acquisitions and the antiquarian trade",
+      "to": "Refusals are observations of the filter not inferences from survivors"
+    },
+    {
+      "from": "MOC - Acquisitions and the antiquarian trade",
+      "to": "Split provenance into priority and independence"
+    },
+    {
+      "from": "MOC - Acquisitions and the antiquarian trade",
+      "to": "The Nakai ledger scores as losses what present value scores as gains"
+    },
+    {
+      "from": "MOC - Acquisitions and the antiquarian trade",
+      "to": "The QDL corpus is conditioned on its funder's geography"
+    },
+    {
+      "from": "MOC - Acquisitions and the antiquarian trade",
+      "to": "The VOC-EIC digital asymmetry is an access regime not a survival difference"
+    },
+    {
+      "from": "MOC - Acquisitions and the antiquarian trade",
+      "to": "The deficit reading of absence is the scalar ranking in evidentiary form"
+    },
+    {
+      "from": "MOC - Acquisitions and the antiquarian trade",
+      "to": "VOC digital corpus - what is online and on what terms"
+    },
+    {
+      "from": "MOC - Acquisitions and the antiquarian trade",
+      "to": "Van Dam's Beschryvinge - the VOC described by its own advocaat"
     },
     {
       "from": "MOC - Digitisation and text recognition",
@@ -7720,6 +7826,10 @@
     {
       "from": "tags",
       "to": "Homoplasy is the finding not the noise"
+    },
+    {
+      "from": "tags",
+      "to": "MOC - Acquisitions and the antiquarian trade"
     },
     {
       "from": "tags",
