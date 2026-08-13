@@ -66,3 +66,13 @@ Keep tags lowercase, hyphenated, singular. Before coining a new tag, check this 
 Rule: **never tag an argument note with a tooling tag, and never tag a tooling note with a concept tag.** If a claim about, say, source legibility genuinely arises from working with these tools, it belongs in `notes/` as a proper atomic note with concept tags — not in the reference layer.
 
 `kuzushiji` sits here rather than in a Japanese-material section deliberately: it labels *the OCR problem*, not the script as an object of study. If the script itself later needs a concept tag, coin a separate one and note the distinction.
+
+## Acquisitions — *not* concept vocabulary
+
+`acquisitions` · `book-trade`
+
+**The second quarantined layer, on the same reasoning as the tooling tags.** They label the supply chain — how a text comes within reach — not an object of study, and they hub at [[MOC - Acquisitions and the antiquarian trade]] with `project: infrastructure`, `type: reference`. `acquisitions` is the general tag for routes to a text (purchase, want-list, ILL, commissioned surrogate); `book-trade` is narrower and names the antiquarian trade as an institution one buys *through*.
+
+Rule, unchanged: **never tag an argument note with an acquisitions tag, and never tag an acquisitions note with a concept tag.**
+
+**Watch this boundary — it is the leakiest one in the vocabulary.** The trade is itself a selection filter, and a claim about how dealer specialisms, cataloguing conventions or digitisation funding condition what survives *into view* is an argument, not infrastructure. Such a claim belongs in `notes/` under `provenance`, `selection` or `survivorship-bias`, never here. The test is whether the note would change if the trade were organised differently: if yes it is infrastructure, if it is *about* the fact that the trade is organised this way it is an argument.
