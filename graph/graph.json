@@ -1,6 +1,24 @@
 {
   "nodes": [
     {
+      "id": "A blind re-coding is only blind if the value sets are",
+      "type": "permanent",
+      "group": "seed",
+      "label": "A blind re-coding is only blind if the value sets are",
+      "value": 11,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "A concealed premium is evidence about the notary not about the price",
+      "type": "permanent",
+      "group": "seed",
+      "label": "A concealed premium is evidence about the notary not about the price",
+      "value": 19,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
       "id": "A perfectly correlated peril leaves only the time average",
       "type": "permanent",
       "group": "superseded",
@@ -82,6 +100,24 @@
       "shape": "dot"
     },
     {
+      "id": "Bottomry and respondentia are one institution named twice in English",
+      "type": "permanent",
+      "group": "seed",
+      "label": "Bottomry and respondentia are one institution named twice in English",
+      "value": 14,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "Bottomry separates from the sea loan on recourse not on collateral",
+      "type": "permanent",
+      "group": "seed",
+      "label": "Bottomry separates from the sea loan on recourse not on collateral",
+      "value": 13,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
       "id": "Brown tests equality where a risk reading predicts dispersion",
       "type": "permanent",
       "group": "seed",
@@ -95,7 +131,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Count degrees of freedom not cells",
-      "value": 30,
+      "value": 36,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -203,7 +239,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Entity shielding and owner shielding protect different trajectories",
-      "value": 25,
+      "value": 26,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -248,7 +284,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Forms are not independent observations when a village runs a portfolio",
-      "value": 17,
+      "value": 19,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -320,7 +356,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Homoplasy is the finding not the noise",
-      "value": 63,
+      "value": 64,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -339,6 +375,15 @@
       "group": "seed",
       "label": "Institutions substitute state-verification for outcome-inference as ruin exposure rises",
       "value": 19,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "Insurance is a split-off from the sea loan not a coordinate mechanism",
+      "type": "permanent",
+      "group": "seed",
+      "label": "Insurance is a split-off from the sea loan not a coordinate mechanism",
+      "value": 15,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -491,7 +536,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Natie is a false cognate",
-      "value": 14,
+      "value": 15,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -500,7 +545,16 @@
       "type": "permanent",
       "group": "seed",
       "label": "Naviganti - Latin Christendom rejected the sea loan too",
-      "value": 18,
+      "value": 22,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "Naviganti delayed the priced premium it is credited with dating",
+      "type": "permanent",
+      "group": "seed",
+      "label": "Naviganti delayed the priced premium it is credited with dating",
+      "value": 23,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -509,7 +563,7 @@
       "type": "permanent",
       "group": "stub",
       "label": "Never let the units slide from instruments to populations",
-      "value": 47,
+      "value": 49,
       "color": "#666666",
       "shape": "dot"
     },
@@ -626,7 +680,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Pricing is orthogonal to mitigation mechanism not a stage of it",
-      "value": 20,
+      "value": 27,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -635,7 +689,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Pricing risk does not remove it",
-      "value": 21,
+      "value": 22,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -662,7 +716,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Refusals are observations of the filter not inferences from survivors",
-      "value": 55,
+      "value": 60,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -716,7 +770,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Scuttling rewards fraud in the sea loan",
-      "value": 21,
+      "value": 22,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -770,7 +824,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Split provenance into priority and independence",
-      "value": 24,
+      "value": 25,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -887,7 +941,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The coding commons must record stated rationale not only component presence",
-      "value": 35,
+      "value": 37,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -905,7 +959,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The deficit reading of absence is the scalar ranking in evidentiary form",
-      "value": 30,
+      "value": 33,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1072,6 +1126,15 @@
       "shape": "dot"
     },
     {
+      "id": "The notarial security clause is boilerplate and cannot carry a typology",
+      "type": "permanent",
+      "group": "seed",
+      "label": "The notarial security clause is boilerplate and cannot carry a typology",
+      "value": 14,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
       "id": "The ortoq is the discriminating instrument",
       "type": "permanent",
       "group": "seed",
@@ -1112,7 +1175,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The sea loan is a contingent claim not a loan",
-      "value": 15,
+      "value": 17,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1148,7 +1211,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The tontine's chronology defeats the hazard-to-pricing staging",
-      "value": 22,
+      "value": 26,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1373,7 +1436,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - HistorEE",
-      "value": 228,
+      "value": 235,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -1382,7 +1445,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Historiography and method",
-      "value": 118,
+      "value": 124,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -1409,7 +1472,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Risk-sharing vs risk-pricing",
-      "value": 79,
+      "value": 88,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -1427,7 +1490,7 @@
       "type": "database",
       "group": "database",
       "label": "loss_mitigation_forms",
-      "value": 18,
+      "value": 25,
       "color": "#a6761d",
       "shape": "database"
     },
@@ -1451,6 +1514,78 @@
     }
   ],
   "edges": [
+    {
+      "from": "A blind re-coding is only blind if the value sets are",
+      "to": "Count degrees of freedom not cells"
+    },
+    {
+      "from": "A blind re-coding is only blind if the value sets are",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "A blind re-coding is only blind if the value sets are",
+      "to": "MOC - Historiography and method"
+    },
+    {
+      "from": "A blind re-coding is only blind if the value sets are",
+      "to": "Refusals are observations of the filter not inferences from survivors"
+    },
+    {
+      "from": "A blind re-coding is only blind if the value sets are",
+      "to": "Split provenance into priority and independence"
+    },
+    {
+      "from": "A blind re-coding is only blind if the value sets are",
+      "to": "The coding commons must record stated rationale not only component presence"
+    },
+    {
+      "from": "A blind re-coding is only blind if the value sets are",
+      "to": "The deficit reading of absence is the scalar ranking in evidentiary form"
+    },
+    {
+      "from": "A blind re-coding is only blind if the value sets are",
+      "to": "The notarial security clause is boilerplate and cannot carry a typology"
+    },
+    {
+      "from": "A blind re-coding is only blind if the value sets are",
+      "to": "loss_mitigation_forms"
+    },
+    {
+      "from": "A concealed premium is evidence about the notary not about the price",
+      "to": "Insurance is a split-off from the sea loan not a coordinate mechanism"
+    },
+    {
+      "from": "A concealed premium is evidence about the notary not about the price",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "A concealed premium is evidence about the notary not about the price",
+      "to": "MOC - Risk-sharing vs risk-pricing"
+    },
+    {
+      "from": "A concealed premium is evidence about the notary not about the price",
+      "to": "Naviganti - Latin Christendom rejected the sea loan too"
+    },
+    {
+      "from": "A concealed premium is evidence about the notary not about the price",
+      "to": "Naviganti delayed the priced premium it is credited with dating"
+    },
+    {
+      "from": "A concealed premium is evidence about the notary not about the price",
+      "to": "Pricing is orthogonal to mitigation mechanism not a stage of it"
+    },
+    {
+      "from": "A concealed premium is evidence about the notary not about the price",
+      "to": "Refusals are observations of the filter not inferences from survivors"
+    },
+    {
+      "from": "A concealed premium is evidence about the notary not about the price",
+      "to": "The deficit reading of absence is the scalar ranking in evidentiary form"
+    },
+    {
+      "from": "A concealed premium is evidence about the notary not about the price",
+      "to": "loss_mitigation_forms"
+    },
     {
       "from": "A perfectly correlated peril leaves only the time average",
       "to": "A scheme for extending the cooperative pooling census"
@@ -1826,6 +1961,70 @@
     {
       "from": "Borrow the diagnostics not the tree",
       "to": "Transmission versus independent recurrence is the load-bearing test"
+    },
+    {
+      "from": "Bottomry and respondentia are one institution named twice in English",
+      "to": "Bottomry separates from the sea loan on recourse not on collateral"
+    },
+    {
+      "from": "Bottomry and respondentia are one institution named twice in English",
+      "to": "Count degrees of freedom not cells"
+    },
+    {
+      "from": "Bottomry and respondentia are one institution named twice in English",
+      "to": "Forms are not independent observations when a village runs a portfolio"
+    },
+    {
+      "from": "Bottomry and respondentia are one institution named twice in English",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Bottomry and respondentia are one institution named twice in English",
+      "to": "MOC - Historiography and method"
+    },
+    {
+      "from": "Bottomry and respondentia are one institution named twice in English",
+      "to": "Natie is a false cognate"
+    },
+    {
+      "from": "Bottomry and respondentia are one institution named twice in English",
+      "to": "The notarial security clause is boilerplate and cannot carry a typology"
+    },
+    {
+      "from": "Bottomry and respondentia are one institution named twice in English",
+      "to": "loss_mitigation_forms"
+    },
+    {
+      "from": "Bottomry separates from the sea loan on recourse not on collateral",
+      "to": "Bottomry and respondentia are one institution named twice in English"
+    },
+    {
+      "from": "Bottomry separates from the sea loan on recourse not on collateral",
+      "to": "Count degrees of freedom not cells"
+    },
+    {
+      "from": "Bottomry separates from the sea loan on recourse not on collateral",
+      "to": "Entity shielding and owner shielding protect different trajectories"
+    },
+    {
+      "from": "Bottomry separates from the sea loan on recourse not on collateral",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Bottomry separates from the sea loan on recourse not on collateral",
+      "to": "MOC - Risk-sharing vs risk-pricing"
+    },
+    {
+      "from": "Bottomry separates from the sea loan on recourse not on collateral",
+      "to": "The notarial security clause is boilerplate and cannot carry a typology"
+    },
+    {
+      "from": "Bottomry separates from the sea loan on recourse not on collateral",
+      "to": "The sea loan is a contingent claim not a loan"
+    },
+    {
+      "from": "Bottomry separates from the sea loan on recourse not on collateral",
+      "to": "loss_mitigation_forms"
     },
     {
       "from": "Brown tests equality where a risk reading predicts dispersion",
@@ -2922,6 +3121,42 @@
     {
       "from": "Institutions substitute state-verification for outcome-inference as ruin exposure rises",
       "to": "The naties are a six-century Lindy institution"
+    },
+    {
+      "from": "Insurance is a split-off from the sea loan not a coordinate mechanism",
+      "to": "A concealed premium is evidence about the notary not about the price"
+    },
+    {
+      "from": "Insurance is a split-off from the sea loan not a coordinate mechanism",
+      "to": "Homoplasy is the finding not the noise"
+    },
+    {
+      "from": "Insurance is a split-off from the sea loan not a coordinate mechanism",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Insurance is a split-off from the sea loan not a coordinate mechanism",
+      "to": "MOC - Risk-sharing vs risk-pricing"
+    },
+    {
+      "from": "Insurance is a split-off from the sea loan not a coordinate mechanism",
+      "to": "Naviganti delayed the priced premium it is credited with dating"
+    },
+    {
+      "from": "Insurance is a split-off from the sea loan not a coordinate mechanism",
+      "to": "Never let the units slide from instruments to populations"
+    },
+    {
+      "from": "Insurance is a split-off from the sea loan not a coordinate mechanism",
+      "to": "Pricing is orthogonal to mitigation mechanism not a stage of it"
+    },
+    {
+      "from": "Insurance is a split-off from the sea loan not a coordinate mechanism",
+      "to": "The sea loan is a contingent claim not a loan"
+    },
+    {
+      "from": "Insurance is a split-off from the sea loan not a coordinate mechanism",
+      "to": "loss_mitigation_forms"
     },
     {
       "from": "Islamic doctrine refuses risk-commodification at step one",
@@ -4105,11 +4340,19 @@
     },
     {
       "from": "MOC - Historiography and method",
+      "to": "A blind re-coding is only blind if the value sets are"
+    },
+    {
+      "from": "MOC - Historiography and method",
       "to": "A persistence parameter stable across regime change indicts the measure"
     },
     {
       "from": "MOC - Historiography and method",
       "to": "Borrow the diagnostics not the tree"
+    },
+    {
+      "from": "MOC - Historiography and method",
+      "to": "Bottomry and respondentia are one institution named twice in English"
     },
     {
       "from": "MOC - Historiography and method",
@@ -4262,6 +4505,10 @@
     {
       "from": "MOC - Historiography and method",
       "to": "The morphological matrix is dictated by the shape of the feature space"
+    },
+    {
+      "from": "MOC - Historiography and method",
+      "to": "The notarial security clause is boilerplate and cannot carry a typology"
     },
     {
       "from": "MOC - Historiography and method",
@@ -4421,6 +4668,18 @@
     },
     {
       "from": "MOC - Risk-sharing vs risk-pricing",
+      "to": "A concealed premium is evidence about the notary not about the price"
+    },
+    {
+      "from": "MOC - Risk-sharing vs risk-pricing",
+      "to": "Bottomry and respondentia are one institution named twice in English"
+    },
+    {
+      "from": "MOC - Risk-sharing vs risk-pricing",
+      "to": "Bottomry separates from the sea loan on recourse not on collateral"
+    },
+    {
+      "from": "MOC - Risk-sharing vs risk-pricing",
       "to": "Brown tests equality where a risk reading predicts dispersion"
     },
     {
@@ -4438,6 +4697,10 @@
     {
       "from": "MOC - Risk-sharing vs risk-pricing",
       "to": "General average shares decisions where warichi shares hazards"
+    },
+    {
+      "from": "MOC - Risk-sharing vs risk-pricing",
+      "to": "Insurance is a split-off from the sea loan not a coordinate mechanism"
     },
     {
       "from": "MOC - Risk-sharing vs risk-pricing",
@@ -4462,6 +4725,10 @@
     {
       "from": "MOC - Risk-sharing vs risk-pricing",
       "to": "Naviganti - Latin Christendom rejected the sea loan too"
+    },
+    {
+      "from": "MOC - Risk-sharing vs risk-pricing",
+      "to": "Naviganti delayed the priced premium it is credited with dating"
     },
     {
       "from": "MOC - Risk-sharing vs risk-pricing",
@@ -4677,11 +4944,55 @@
     },
     {
       "from": "Naviganti - Latin Christendom rejected the sea loan too",
+      "to": "Naviganti delayed the priced premium it is credited with dating"
+    },
+    {
+      "from": "Naviganti - Latin Christendom rejected the sea loan too",
       "to": "The qirad envelops the sea loan"
     },
     {
       "from": "Naviganti - Latin Christendom rejected the sea loan too",
       "to": "The sea loan is a contingent claim not a loan"
+    },
+    {
+      "from": "Naviganti delayed the priced premium it is credited with dating",
+      "to": "A concealed premium is evidence about the notary not about the price"
+    },
+    {
+      "from": "Naviganti delayed the priced premium it is credited with dating",
+      "to": "Insurance is a split-off from the sea loan not a coordinate mechanism"
+    },
+    {
+      "from": "Naviganti delayed the priced premium it is credited with dating",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Naviganti delayed the priced premium it is credited with dating",
+      "to": "MOC - Risk-sharing vs risk-pricing"
+    },
+    {
+      "from": "Naviganti delayed the priced premium it is credited with dating",
+      "to": "Naviganti - Latin Christendom rejected the sea loan too"
+    },
+    {
+      "from": "Naviganti delayed the priced premium it is credited with dating",
+      "to": "Pricing is orthogonal to mitigation mechanism not a stage of it"
+    },
+    {
+      "from": "Naviganti delayed the priced premium it is credited with dating",
+      "to": "Pricing risk does not remove it"
+    },
+    {
+      "from": "Naviganti delayed the priced premium it is credited with dating",
+      "to": "Refusals are observations of the filter not inferences from survivors"
+    },
+    {
+      "from": "Naviganti delayed the priced premium it is credited with dating",
+      "to": "The tontine's chronology defeats the hazard-to-pricing staging"
+    },
+    {
+      "from": "Naviganti delayed the priced premium it is credited with dating",
+      "to": "loss_mitigation_forms"
     },
     {
       "from": "Never let the units slide from instruments to populations",
@@ -5145,7 +5456,15 @@
     },
     {
       "from": "Pricing is orthogonal to mitigation mechanism not a stage of it",
+      "to": "A concealed premium is evidence about the notary not about the price"
+    },
+    {
+      "from": "Pricing is orthogonal to mitigation mechanism not a stage of it",
       "to": "Count degrees of freedom not cells"
+    },
+    {
+      "from": "Pricing is orthogonal to mitigation mechanism not a stage of it",
+      "to": "Insurance is a split-off from the sea loan not a coordinate mechanism"
     },
     {
       "from": "Pricing is orthogonal to mitigation mechanism not a stage of it",
@@ -5158,6 +5477,10 @@
     {
       "from": "Pricing is orthogonal to mitigation mechanism not a stage of it",
       "to": "MOC - Risk-sharing vs risk-pricing"
+    },
+    {
+      "from": "Pricing is orthogonal to mitigation mechanism not a stage of it",
+      "to": "Naviganti delayed the priced premium it is credited with dating"
     },
     {
       "from": "Pricing is orthogonal to mitigation mechanism not a stage of it",
@@ -5466,6 +5789,10 @@
     {
       "from": "Route Kolmogorov to ergodic theory not the theory of means",
       "to": "Time-average"
+    },
+    {
+      "from": "Scuttling rewards fraud in the sea loan",
+      "to": "A concealed premium is evidence about the notary not about the price"
     },
     {
       "from": "Scuttling rewards fraud in the sea loan",
@@ -6868,6 +7195,38 @@
       "to": "The ie as entity-shielding"
     },
     {
+      "from": "The notarial security clause is boilerplate and cannot carry a typology",
+      "to": "Bottomry and respondentia are one institution named twice in English"
+    },
+    {
+      "from": "The notarial security clause is boilerplate and cannot carry a typology",
+      "to": "Bottomry separates from the sea loan on recourse not on collateral"
+    },
+    {
+      "from": "The notarial security clause is boilerplate and cannot carry a typology",
+      "to": "Count degrees of freedom not cells"
+    },
+    {
+      "from": "The notarial security clause is boilerplate and cannot carry a typology",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "The notarial security clause is boilerplate and cannot carry a typology",
+      "to": "MOC - Historiography and method"
+    },
+    {
+      "from": "The notarial security clause is boilerplate and cannot carry a typology",
+      "to": "The coding commons must record stated rationale not only component presence"
+    },
+    {
+      "from": "The notarial security clause is boilerplate and cannot carry a typology",
+      "to": "The deficit reading of absence is the scalar ranking in evidentiary form"
+    },
+    {
+      "from": "The notarial security clause is boilerplate and cannot carry a typology",
+      "to": "loss_mitigation_forms"
+    },
+    {
       "from": "The ortoq is the discriminating instrument",
       "to": "MOC - ERC Synergy Grant"
     },
@@ -7134,6 +7493,10 @@
     {
       "from": "The tontine's chronology defeats the hazard-to-pricing staging",
       "to": "MOC - Risk-sharing vs risk-pricing"
+    },
+    {
+      "from": "The tontine's chronology defeats the hazard-to-pricing staging",
+      "to": "Naviganti delayed the priced premium it is credited with dating"
     },
     {
       "from": "The tontine's chronology defeats the hazard-to-pricing staging",

@@ -23,8 +23,15 @@ Two cautions on the framing itself. The rupture between an unquantified and a qu
 
 The tontine's value is not as a stage. It is the negative control — see [[The tontine is pooling in form and dispersal in function]] — and its abandonment is the retention datum, provided the abandonment is read as selection rather than as progress ([[Refusals are observations of the filter not inferences from survivors]]).
 
+## A second defeat, from a different kind of evidence
+
+The tontine's chronology works from the dating of an instrument. A second case works from the juristic record of a concept and its prohibition: a payment conceived purely as consideration for bearing peril is documented at the beginning of the thirteenth century, suppressed by *Naviganti*, and legitimated only in the fourteenth. Both defeats point the same way, and because they run on unrelated evidence — instrument dating against doctrinal debate — the second is not a repetition of the first.
+
+Two independent chronological defeats shift the burden. The staging now needs a positive argument that the conception, rather than its permissibility, is what moved. See [[Naviganti delayed the priced premium it is credited with dating]].
+
 ## Links
 
+- [[Naviganti delayed the priced premium it is credited with dating]]
 - [[The tontine is pooling in form and dispersal in function]]
 - [[Pricing is orthogonal to mitigation mechanism not a stage of it]]
 - [[Whiggish history of finance names the ascent narrative]]

@@ -25,8 +25,17 @@ The consequence for the argument is larger than the cell. If pricing is orthogon
 
 Second consequence, for coding hygiene: `PR1`'s definition deliberately says *peril* rather than *risk*, so as not to name the characteristic with the endpoint of the shift it measures. That discipline was correct and is now load-bearing, because the shift it was built to measure turns out not to be a shift. Keep the wording ([[The determinate-contingent typology carries the richness]]).
 
+## The mechanism of the orthogonality
+
+The medieval maritime material supplies a reason for the orthogonality rather than another instance of it. Pricing was gated by canon law; mechanism was not. *Naviganti* reached the priced premium and suppressed it for a century, while the allocation of peril between lender and borrower went on being drafted throughout, unaffected. Two variables under different constraints cannot be stages of one another.
+
+The Hanseatic material makes the independence visible in a single comparison: the Lübeck *Bodmereibrief* of 1431 states its premium openly, at a third of capital for a six-month voyage, while Mediterranean notaries of the same century were burying theirs in freight and exchange rates — with no corresponding difference in mechanism. See [[A concealed premium is evidence about the notary not about the price]].
+
 ## Links
 
+- [[Naviganti delayed the priced premium it is credited with dating]]
+- [[Insurance is a split-off from the sea loan not a coordinate mechanism]]
+- [[A concealed premium is evidence about the notary not about the price]]
 - [[The tontine's chronology defeats the hazard-to-pricing staging]]
 - [[The tontine is pooling in form and dispersal in function]]
 - [[Pricing risk does not remove it]]

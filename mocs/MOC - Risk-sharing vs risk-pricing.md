@@ -61,3 +61,11 @@ Thematic hub for the instrument axis: risk-*sharing* forms that keep every party
 [MOC - Islamic contract doctrine]: <MOC - Islamic contract doctrine.md> "MOC - Islamic contract doctrine"
 [MOC - Ergodicity and the time-ensemble distinction]: <MOC - Ergodicity and the time-ensemble distinction.md> "MOC - Ergodicity and the time-ensemble distinction"
 [MOC - HistorEE]: <MOC - HistorEE.md> "MOC - Clearing and Settling the Realm"
+
+## Added 2026-08-16 — maritime blind re-coding
+
+- [[Naviganti delayed the priced premium it is credited with dating]]
+- [[Insurance is a split-off from the sea loan not a coordinate mechanism]]
+- [[A concealed premium is evidence about the notary not about the price]]
+- [[Bottomry separates from the sea loan on recourse not on collateral]]
+- [[Bottomry and respondentia are one institution named twice in English]]

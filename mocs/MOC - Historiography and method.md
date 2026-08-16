@@ -79,3 +79,9 @@ Where the sources for the European companies are and are not machine-readable is
 
 [MOC - HistorEE]: <MOC - HistorEE.md> "MOC - Clearing and Settling the Realm"
 [MOC - ERC Synergy Grant]: <MOC - ERC Synergy Grant.md> "MOC - ERC Synergy Grant"
+
+## Added 2026-08-16 — maritime blind re-coding
+
+- [[A blind re-coding is only blind if the value sets are]]
+- [[The notarial security clause is boilerplate and cannot carry a typology]]
+- [[Bottomry and respondentia are one institution named twice in English]]

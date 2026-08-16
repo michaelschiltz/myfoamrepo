@@ -16,8 +16,15 @@ Archetype: Hegestratos and Zenothemis in Demosthenes, *Against Zenothemis* (Or. 
 
 The structural point: the sea loan pins payoff to a single, gameable, hard-to-verify event (arrival vs loss) and does worse than permit the fraud — it *rewards* it. Fake the sinking and keep cargo *and* principal; the forgiveness-on-loss feature puts a bounty on manufacturing the loss. The *qirad* gives no such bounty. So **gharar** was never only about metaphysical uncertainty; it was a *verification-and-moral-hazard* objection — doctrine disfavors a contract whose payoff turns on an unverifiable event *because it pays people to lie about the state of the world*. Comparative kicker: Athens met the fraud *ex post* by litigation (Demosthenes in court); Islamic law met it *ex ante* by contract design (favoring the form in which faking gains nothing).
 
+## The early-modern instance, and the milder form
+
+Costa and Albuquerque find the incentive operating in the Portuguese colonial trade without requiring scuttling. Because discharge followed on capture regardless, borrowers had a live reason to **capitulate to an enemy rather than fight** — the same structure at lower cost and lower risk of detection, and therefore likelier to be the common case.
+
+That matters for what the contract had to be drafted against. Roman law already excluded loss arising *ex praecipiti avaritia et incivili debitoris audacia*, and from route deviation or illicit cargo — a fault allocation sitting inside an instrument otherwise built on ownership allocations. The peril space has three regions, not two, and the third is policed by a different principle.
+
 ## Links
 
+- [[A concealed premium is evidence about the notary not about the price]]
 - [[Islamic doctrine refuses risk-commodification at step one]]
 - [[The qirad envelops the sea loan]]
 - [[The sea loan is a contingent claim not a loan]]
