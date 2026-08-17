@@ -46,6 +46,15 @@
       "shape": "dot"
     },
     {
+      "id": "A shared compilation never licenses an inference to shared practice",
+      "type": "permanent",
+      "group": "seed",
+      "label": "A shared compilation never licenses an inference to shared practice",
+      "value": 3,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
       "id": "Absorbing barrier",
       "type": "permanent",
       "group": "seed",
@@ -60,6 +69,15 @@
       "group": "seed",
       "label": "Absorption is a path-dependence mechanism distinct from reinforcement",
       "value": 25,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "Amsterdam notaries drafted ship-pledged and goods-pledged bodemerij as one instrument",
+      "type": "permanent",
+      "group": "seed",
+      "label": "Amsterdam notaries drafted ship-pledged and goods-pledged bodemerij as one instrument",
+      "value": 5,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -160,6 +178,15 @@
       "label": "Desktop and portable capture - CZUR and ScanTent",
       "value": 14,
       "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "Deviation rather than shipwreck is what bodemerij litigation is about",
+      "type": "permanent",
+      "group": "seed",
+      "label": "Deviation rather than shipwreck is what bodemerij litigation is about",
+      "value": 4,
+      "color": "#e6ab02",
       "shape": "dot"
     },
     {
@@ -1135,6 +1162,15 @@
       "shape": "dot"
     },
     {
+      "id": "The opgeld prices the peril without separating it from interest",
+      "type": "permanent",
+      "group": "seed",
+      "label": "The opgeld prices the peril without separating it from interest",
+      "value": 4,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
       "id": "The ortoq is the discriminating instrument",
       "type": "permanent",
       "group": "seed",
@@ -1436,7 +1472,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - HistorEE",
-      "value": 235,
+      "value": 239,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -1445,7 +1481,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Historiography and method",
-      "value": 124,
+      "value": 126,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -1472,7 +1508,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Risk-sharing vs risk-pricing",
-      "value": 88,
+      "value": 91,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -1490,7 +1526,7 @@
       "type": "database",
       "group": "database",
       "label": "loss_mitigation_forms",
-      "value": 25,
+      "value": 28,
       "color": "#a6761d",
       "shape": "database"
     },
@@ -1723,6 +1759,14 @@
       "to": "organizational_forms"
     },
     {
+      "from": "A shared compilation never licenses an inference to shared practice",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "A shared compilation never licenses an inference to shared practice",
+      "to": "MOC - Historiography and method"
+    },
+    {
       "from": "Absorbing barrier",
       "to": "An absorbing barrier breaks ergodicity by construction"
     },
@@ -1805,6 +1849,22 @@
     {
       "from": "Absorption is a path-dependence mechanism distinct from reinforcement",
       "to": "The ensemble average is the local descriptor of a barrier-shielded agent"
+    },
+    {
+      "from": "Amsterdam notaries drafted ship-pledged and goods-pledged bodemerij as one instrument",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Amsterdam notaries drafted ship-pledged and goods-pledged bodemerij as one instrument",
+      "to": "MOC - Historiography and method"
+    },
+    {
+      "from": "Amsterdam notaries drafted ship-pledged and goods-pledged bodemerij as one instrument",
+      "to": "MOC - Risk-sharing vs risk-pricing"
+    },
+    {
+      "from": "Amsterdam notaries drafted ship-pledged and goods-pledged bodemerij as one instrument",
+      "to": "loss_mitigation_forms"
     },
     {
       "from": "An absorbing barrier breaks ergodicity by construction",
@@ -2233,6 +2293,18 @@
     {
       "from": "Desktop and portable capture - CZUR and ScanTent",
       "to": "Transkribus - managed HTR platform"
+    },
+    {
+      "from": "Deviation rather than shipwreck is what bodemerij litigation is about",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Deviation rather than shipwreck is what bodemerij litigation is about",
+      "to": "MOC - Risk-sharing vs risk-pricing"
+    },
+    {
+      "from": "Deviation rather than shipwreck is what bodemerij litigation is about",
+      "to": "loss_mitigation_forms"
     },
     {
       "from": "Discipline the Whig epithet by pinning it to teleology and survivorship",
@@ -7224,6 +7296,18 @@
     },
     {
       "from": "The notarial security clause is boilerplate and cannot carry a typology",
+      "to": "loss_mitigation_forms"
+    },
+    {
+      "from": "The opgeld prices the peril without separating it from interest",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "The opgeld prices the peril without separating it from interest",
+      "to": "MOC - Risk-sharing vs risk-pricing"
+    },
+    {
+      "from": "The opgeld prices the peril without separating it from interest",
       "to": "loss_mitigation_forms"
     },
     {

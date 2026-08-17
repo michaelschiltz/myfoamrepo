@@ -6,8 +6,10 @@ digraph vault {
   "A perfectly correlated peril leaves only the time average" [fillcolor="#1b9e77", fontcolor=white, shape=ellipse];
   "A persistence parameter stable across regime change indicts the measure" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "A scheme for extending the cooperative pooling census" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
+  "A shared compilation never licenses an inference to shared practice" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Absorbing barrier" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Absorption is a path-dependence mechanism distinct from reinforcement" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
+  "Amsterdam notaries drafted ship-pledged and goods-pledged bodemerij as one instrument" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "An absorbing barrier breaks ergodicity by construction" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Antiquarian booksellers - the top tier and where economic history sits" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
   "Arthur's lock-in and capital lock-in are different objects" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
@@ -19,6 +21,7 @@ digraph vault {
   "Decoupling substitutes proxy legibility for outcome legibility" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Deep-roots variables are symplesiomorphies" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Desktop and portable capture - CZUR and ScanTent" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
+  "Deviation rather than shipwreck is what bodemerij litigation is about" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Discipline the Whig epithet by pinning it to teleology and survivorship" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Distinguish strong from weak ergodicity breaking" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Divergent arbitrary particulars are the independence diagnostic" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
@@ -127,6 +130,7 @@ digraph vault {
   "The mudaraba is revocable not locked in" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "The naties are a six-century Lindy institution" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "The notarial security clause is boilerplate and cannot carry a typology" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
+  "The opgeld prices the peril without separating it from interest" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "The ortoq is the discriminating instrument" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "The qirad envelops the sea loan" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "The qirad's antecedents are Sasanian not Sogdian" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
@@ -221,6 +225,8 @@ digraph vault {
   "A scheme for extending the cooperative pooling census" -> "The morphological matrix is dictated by the shape of the feature space";
   "A scheme for extending the cooperative pooling census" -> "loss_mitigation_forms";
   "A scheme for extending the cooperative pooling census" -> "organizational_forms";
+  "A shared compilation never licenses an inference to shared practice" -> "MOC - HistorEE";
+  "A shared compilation never licenses an inference to shared practice" -> "MOC - Historiography and method";
   "Absorbing barrier" -> "An absorbing barrier breaks ergodicity by construction";
   "Absorbing barrier" -> "Distinguish strong from weak ergodicity breaking";
   "Absorbing barrier" -> "Entity-shielding";
@@ -242,6 +248,10 @@ digraph vault {
   "Absorption is a path-dependence mechanism distinct from reinforcement" -> "Reinforcement selects an attractor the ensemble average never occupies";
   "Absorption is a path-dependence mechanism distinct from reinforcement" -> "Terminal wealth is permutation-invariant but survival is not";
   "Absorption is a path-dependence mechanism distinct from reinforcement" -> "The ensemble average is the local descriptor of a barrier-shielded agent";
+  "Amsterdam notaries drafted ship-pledged and goods-pledged bodemerij as one instrument" -> "MOC - HistorEE";
+  "Amsterdam notaries drafted ship-pledged and goods-pledged bodemerij as one instrument" -> "MOC - Historiography and method";
+  "Amsterdam notaries drafted ship-pledged and goods-pledged bodemerij as one instrument" -> "MOC - Risk-sharing vs risk-pricing";
+  "Amsterdam notaries drafted ship-pledged and goods-pledged bodemerij as one instrument" -> "loss_mitigation_forms";
   "An absorbing barrier breaks ergodicity by construction" -> "Absorbing barrier";
   "An absorbing barrier breaks ergodicity by construction" -> "Absorption is a path-dependence mechanism distinct from reinforcement";
   "An absorbing barrier breaks ergodicity by construction" -> "Distinguish strong from weak ergodicity breaking";
@@ -349,6 +359,9 @@ digraph vault {
   "Desktop and portable capture - CZUR and ScanTent" -> "Preservation-grade overhead scanners - Zeutschel and i2S";
   "Desktop and portable capture - CZUR and ScanTent" -> "Robotic V-cradle book scanners - Treventus and Qidenus";
   "Desktop and portable capture - CZUR and ScanTent" -> "Transkribus - managed HTR platform";
+  "Deviation rather than shipwreck is what bodemerij litigation is about" -> "MOC - HistorEE";
+  "Deviation rather than shipwreck is what bodemerij litigation is about" -> "MOC - Risk-sharing vs risk-pricing";
+  "Deviation rather than shipwreck is what bodemerij litigation is about" -> "loss_mitigation_forms";
   "Discipline the Whig epithet by pinning it to teleology and survivorship" -> "Guard against reverse-teleology";
   "Discipline the Whig epithet by pinning it to teleology and survivorship" -> "MOC - HistorEE";
   "Discipline the Whig epithet by pinning it to teleology and survivorship" -> "MOC - Historiography and method";
@@ -1597,6 +1610,9 @@ digraph vault {
   "The notarial security clause is boilerplate and cannot carry a typology" -> "The coding commons must record stated rationale not only component presence";
   "The notarial security clause is boilerplate and cannot carry a typology" -> "The deficit reading of absence is the scalar ranking in evidentiary form";
   "The notarial security clause is boilerplate and cannot carry a typology" -> "loss_mitigation_forms";
+  "The opgeld prices the peril without separating it from interest" -> "MOC - HistorEE";
+  "The opgeld prices the peril without separating it from interest" -> "MOC - Risk-sharing vs risk-pricing";
+  "The opgeld prices the peril without separating it from interest" -> "loss_mitigation_forms";
   "The ortoq is the discriminating instrument" -> "MOC - ERC Synergy Grant";
   "The ortoq is the discriminating instrument" -> "MOC - HistorEE";
   "The ortoq is the discriminating instrument" -> "MOC - Historiography and method";
