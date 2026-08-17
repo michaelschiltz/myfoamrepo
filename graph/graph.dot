@@ -890,6 +890,8 @@ digraph vault {
   "MOC - HistorEE" -> "isqa";
   "MOC - Historiography and method" -> "A blind re-coding is only blind if the value sets are";
   "MOC - Historiography and method" -> "A persistence parameter stable across regime change indicts the measure";
+  "MOC - Historiography and method" -> "A shared compilation never licenses an inference to shared practice";
+  "MOC - Historiography and method" -> "Amsterdam notaries drafted ship-pledged and goods-pledged bodemerij as one instrument";
   "MOC - Historiography and method" -> "Borrow the diagnostics not the tree";
   "MOC - Historiography and method" -> "Bottomry and respondentia are one institution named twice in English";
   "MOC - Historiography and method" -> "Brown tests equality where a risk reading predicts dispersion";
@@ -971,10 +973,12 @@ digraph vault {
   "MOC - Path dependence and sequence" -> "Reinforcement selects an attractor the ensemble average never occupies";
   "MOC - Path dependence and sequence" -> "Terminal wealth is permutation-invariant but survival is not";
   "MOC - Risk-sharing vs risk-pricing" -> "A concealed premium is evidence about the notary not about the price";
+  "MOC - Risk-sharing vs risk-pricing" -> "Amsterdam notaries drafted ship-pledged and goods-pledged bodemerij as one instrument";
   "MOC - Risk-sharing vs risk-pricing" -> "Bottomry and respondentia are one institution named twice in English";
   "MOC - Risk-sharing vs risk-pricing" -> "Bottomry separates from the sea loan on recourse not on collateral";
   "MOC - Risk-sharing vs risk-pricing" -> "Brown tests equality where a risk reading predicts dispersion";
   "MOC - Risk-sharing vs risk-pricing" -> "Decoupling substitutes proxy legibility for outcome legibility";
+  "MOC - Risk-sharing vs risk-pricing" -> "Deviation rather than shipwreck is what bodemerij litigation is about";
   "MOC - Risk-sharing vs risk-pricing" -> "Endogenised absorption has a sign";
   "MOC - Risk-sharing vs risk-pricing" -> "Forms are not independent observations when a village runs a portfolio";
   "MOC - Risk-sharing vs risk-pricing" -> "General average shares decisions where warichi shares hazards";
@@ -1001,6 +1005,7 @@ digraph vault {
   "MOC - Risk-sharing vs risk-pricing" -> "The heter iska restores the fixed return by evidentiary barrier";
   "MOC - Risk-sharing vs risk-pricing" -> "The isqa refuses the agent's shield";
   "MOC - Risk-sharing vs risk-pricing" -> "The liability principle was demoted from rule to maxim";
+  "MOC - Risk-sharing vs risk-pricing" -> "The opgeld prices the peril without separating it from interest";
   "MOC - Risk-sharing vs risk-pricing" -> "The qirad envelops the sea loan";
   "MOC - Risk-sharing vs risk-pricing" -> "The sea loan is a contingent claim not a loan";
   "MOC - Risk-sharing vs risk-pricing" -> "The tontine is pooling in form and dispersal in function";

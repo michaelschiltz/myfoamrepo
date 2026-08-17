@@ -85,3 +85,5 @@ Where the sources for the European companies are and are not machine-readable is
 - [[A blind re-coding is only blind if the value sets are]]
 - [[The notarial security clause is boilerplate and cannot carry a typology]]
 - [[Bottomry and respondentia are one institution named twice in English]]
+- [[Amsterdam notaries drafted ship-pledged and goods-pledged bodemerij as one instrument]]
+- [[A shared compilation never licenses an inference to shared practice]]

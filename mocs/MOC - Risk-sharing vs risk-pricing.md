@@ -69,3 +69,6 @@ Thematic hub for the instrument axis: risk-*sharing* forms that keep every party
 - [[A concealed premium is evidence about the notary not about the price]]
 - [[Bottomry separates from the sea loan on recourse not on collateral]]
 - [[Bottomry and respondentia are one institution named twice in English]]
+- [[The opgeld prices the peril without separating it from interest]]
+- [[Deviation rather than shipwreck is what bodemerij litigation is about]]
+- [[Amsterdam notaries drafted ship-pledged and goods-pledged bodemerij as one instrument]]
