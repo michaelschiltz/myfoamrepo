@@ -53,6 +53,7 @@ Thematic hub for the corporate-form apparatus: asset-partitioning, identity-wrap
 - [[MOC - Ergodicity and the time-ensemble distinction]]
 - [[MOC - Path dependence and sequence]]
 - [[MOC - HistorEE]]
+- [[The Bodmerei shield was a default rule and Amsterdam contracted out of it]]
 
 
 [Entity-shielding]: ../notes/Entity-shielding.md "Entity-shielding"

@@ -98,6 +98,7 @@ digraph vault {
   "Split provenance into priority and independence" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Stationarity is a precondition of ergodicity not a corollary" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Terminal wealth is permutation-invariant but survival is not" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
+  "The Bodmerei shield was a default rule and Amsterdam contracted out of it" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "The Fugger diversified activity while concentrating the barrier" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "The Nakai ledger scores as losses what present value scores as gains" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "The QDL corpus is conditioned on its funder's geography" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
@@ -760,6 +761,7 @@ digraph vault {
   "MOC - Entity-shielding and corporate forms" -> "Perpetuity splits into adaptation and petrification";
   "MOC - Entity-shielding and corporate forms" -> "Persona ficta made the corporation a-moral ab initio";
   "MOC - Entity-shielding and corporate forms" -> "Read the Nakai anomaly against the ie's horizon not the transaction's";
+  "MOC - Entity-shielding and corporate forms" -> "The Bodmerei shield was a default rule and Amsterdam contracted out of it";
   "MOC - Entity-shielding and corporate forms" -> "The Roman universitas makes the JSC case parallelism not convergence";
   "MOC - Entity-shielding and corporate forms" -> "The alleenrecht is monopoly held as tradable property";
   "MOC - Entity-shielding and corporate forms" -> "The corporation is not the omega - the naties are an undisplaced niche";
@@ -998,6 +1000,7 @@ digraph vault {
   "MOC - Risk-sharing vs risk-pricing" -> "Ribbit mandates exposure rather than forbidding gain";
   "MOC - Risk-sharing vs risk-pricing" -> "Skin in the game";
   "MOC - Risk-sharing vs risk-pricing" -> "Skin in the game is asymmetric in the mudaraba";
+  "MOC - Risk-sharing vs risk-pricing" -> "The Bodmerei shield was a default rule and Amsterdam contracted out of it";
   "MOC - Risk-sharing vs risk-pricing" -> "The Fugger diversified activity while concentrating the barrier";
   "MOC - Risk-sharing vs risk-pricing" -> "The bidding ko transfers from the liquidity-constrained to the liquid";
   "MOC - Risk-sharing vs risk-pricing" -> "The determinate-contingent typology carries the richness";
@@ -1323,6 +1326,10 @@ digraph vault {
   "Terminal wealth is permutation-invariant but survival is not" -> "Refusals are observations of the filter not inferences from survivors";
   "Terminal wealth is permutation-invariant but survival is not" -> "Time-average";
   "Terminal wealth is permutation-invariant but survival is not" -> "Time-average optimization is a survivorship property not an intention";
+  "The Bodmerei shield was a default rule and Amsterdam contracted out of it" -> "MOC - Entity-shielding and corporate forms";
+  "The Bodmerei shield was a default rule and Amsterdam contracted out of it" -> "MOC - HistorEE";
+  "The Bodmerei shield was a default rule and Amsterdam contracted out of it" -> "MOC - Risk-sharing vs risk-pricing";
+  "The Bodmerei shield was a default rule and Amsterdam contracted out of it" -> "loss_mitigation_forms";
   "The Fugger diversified activity while concentrating the barrier" -> "Absorbing barrier";
   "The Fugger diversified activity while concentrating the barrier" -> "Jensen gap";
   "The Fugger diversified activity while concentrating the barrier" -> "MOC - Ergodicity and the time-ensemble distinction";

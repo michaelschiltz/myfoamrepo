@@ -72,3 +72,4 @@ Thematic hub for the instrument axis: risk-*sharing* forms that keep every party
 - [[The opgeld prices the peril without separating it from interest]]
 - [[Deviation rather than shipwreck is what bodemerij litigation is about]]
 - [[Amsterdam notaries drafted ship-pledged and goods-pledged bodemerij as one instrument]]
+- [[The Bodmerei shield was a default rule and Amsterdam contracted out of it]]

@@ -874,6 +874,15 @@
       "shape": "dot"
     },
     {
+      "id": "The Bodmerei shield was a default rule and Amsterdam contracted out of it",
+      "type": "permanent",
+      "group": "seed",
+      "label": "The Bodmerei shield was a default rule and Amsterdam contracted out of it",
+      "value": 7,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
       "id": "The Fugger diversified activity while concentrating the barrier",
       "type": "permanent",
       "group": "seed",
@@ -1454,7 +1463,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Entity-shielding and corporate forms",
-      "value": 85,
+      "value": 87,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -1472,7 +1481,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - HistorEE",
-      "value": 239,
+      "value": 240,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -1508,7 +1517,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Risk-sharing vs risk-pricing",
-      "value": 94,
+      "value": 96,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -1526,7 +1535,7 @@
       "type": "database",
       "group": "database",
       "label": "loss_mitigation_forms",
-      "value": 28,
+      "value": 29,
       "color": "#a6761d",
       "shape": "database"
     },
@@ -3900,6 +3909,10 @@
     },
     {
       "from": "MOC - Entity-shielding and corporate forms",
+      "to": "The Bodmerei shield was a default rule and Amsterdam contracted out of it"
+    },
+    {
+      "from": "MOC - Entity-shielding and corporate forms",
       "to": "The Roman universitas makes the JSC case parallelism not convergence"
     },
     {
@@ -4849,6 +4862,10 @@
     {
       "from": "MOC - Risk-sharing vs risk-pricing",
       "to": "Skin in the game is asymmetric in the mudaraba"
+    },
+    {
+      "from": "MOC - Risk-sharing vs risk-pricing",
+      "to": "The Bodmerei shield was a default rule and Amsterdam contracted out of it"
     },
     {
       "from": "MOC - Risk-sharing vs risk-pricing",
@@ -6149,6 +6166,22 @@
     {
       "from": "Terminal wealth is permutation-invariant but survival is not",
       "to": "Time-average optimization is a survivorship property not an intention"
+    },
+    {
+      "from": "The Bodmerei shield was a default rule and Amsterdam contracted out of it",
+      "to": "MOC - Entity-shielding and corporate forms"
+    },
+    {
+      "from": "The Bodmerei shield was a default rule and Amsterdam contracted out of it",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "The Bodmerei shield was a default rule and Amsterdam contracted out of it",
+      "to": "MOC - Risk-sharing vs risk-pricing"
+    },
+    {
+      "from": "The Bodmerei shield was a default rule and Amsterdam contracted out of it",
+      "to": "loss_mitigation_forms"
     },
     {
       "from": "The Fugger diversified activity while concentrating the barrier",
