@@ -26,6 +26,7 @@ Thematic hub for the fiqh apparatus bearing on finance: *gharar*, *maysir*, *rib
 - [[The determinate-contingent typology carries the richness]]
 - [[The commenda and the qirad do not separate on loss allocation]]
 - [[A route clause conditions the investor's peril in three traditions]]
+- [[A migrated institution collects local names not local forms]]
 
 ## Comparative — Jewish contract doctrine
 

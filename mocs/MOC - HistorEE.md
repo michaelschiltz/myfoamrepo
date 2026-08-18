@@ -120,6 +120,7 @@ Project hub for the book. Atomic notes hang off both this project MOC and a them
 - [[Ragusan collegantia is unilateral and Venetian collegantia is bilateral]]
 - [[Which peril gets a clause is set by the tradition's doctrinal problem]]
 - [[Unilateral and bilateral commenda collapse on profit and separate on loss]]
+- [[A migrated institution collects local names not local forms]]
 
 ## Concept anchors
 

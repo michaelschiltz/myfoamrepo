@@ -3,6 +3,7 @@ digraph vault {
   node [style=filled, fontname="Helvetica", shape=ellipse];
   "A blind re-coding is only blind if the value sets are" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "A concealed premium is evidence about the notary not about the price" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
+  "A migrated institution collects local names not local forms" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "A perfectly correlated peril leaves only the time average" [fillcolor="#1b9e77", fontcolor=white, shape=ellipse];
   "A persistence parameter stable across regime change indicts the measure" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "A route clause conditions the investor's peril in three traditions" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
@@ -197,6 +198,17 @@ digraph vault {
   "A concealed premium is evidence about the notary not about the price" -> "Refusals are observations of the filter not inferences from survivors";
   "A concealed premium is evidence about the notary not about the price" -> "The deficit reading of absence is the scalar ranking in evidentiary form";
   "A concealed premium is evidence about the notary not about the price" -> "loss_mitigation_forms";
+  "A migrated institution collects local names not local forms" -> "Borrow the diagnostics not the tree";
+  "A migrated institution collects local names not local forms" -> "MOC - HistorEE";
+  "A migrated institution collects local names not local forms" -> "MOC - Historiography and method";
+  "A migrated institution collects local names not local forms" -> "MOC - Islamic contract doctrine";
+  "A migrated institution collects local names not local forms" -> "Natie is a false cognate";
+  "A migrated institution collects local names not local forms" -> "Never let the units slide from instruments to populations";
+  "A migrated institution collects local names not local forms" -> "Ragusan collegantia is unilateral and Venetian collegantia is bilateral";
+  "A migrated institution collects local names not local forms" -> "The commenda and the qirad do not separate on loss allocation";
+  "A migrated institution collects local names not local forms" -> "Unilateral and bilateral commenda collapse on profit and separate on loss";
+  "A migrated institution collects local names not local forms" -> "loss_mitigation_forms";
+  "A migrated institution collects local names not local forms" -> "organizational_forms";
   "A perfectly correlated peril leaves only the time average" -> "A scheme for extending the cooperative pooling census";
   "A perfectly correlated peril leaves only the time average" -> "Absorbing barrier";
   "A perfectly correlated peril leaves only the time average" -> "Jensen gap";
@@ -826,6 +838,7 @@ digraph vault {
   "MOC - Ergodicity and the time-ensemble distinction" -> "The word ergodic carries four incompatible senses";
   "MOC - Ergodicity and the time-ensemble distinction" -> "Time-average";
   "MOC - Ergodicity and the time-ensemble distinction" -> "Time-average optimization is a survivorship property not an intention";
+  "MOC - HistorEE" -> "A migrated institution collects local names not local forms";
   "MOC - HistorEE" -> "A route clause conditions the investor's peril in three traditions";
   "MOC - HistorEE" -> "Absorbing barrier";
   "MOC - HistorEE" -> "Absorption is a path-dependence mechanism distinct from reinforcement";
@@ -911,6 +924,7 @@ digraph vault {
   "MOC - HistorEE" -> "Whiggish history of finance names the ascent narrative";
   "MOC - HistorEE" -> "isqa";
   "MOC - Historiography and method" -> "A blind re-coding is only blind if the value sets are";
+  "MOC - Historiography and method" -> "A migrated institution collects local names not local forms";
   "MOC - Historiography and method" -> "A persistence parameter stable across regime change indicts the measure";
   "MOC - Historiography and method" -> "A shared compilation never licenses an inference to shared practice";
   "MOC - Historiography and method" -> "Amsterdam notaries drafted ship-pledged and goods-pledged bodemerij as one instrument";
@@ -968,6 +982,7 @@ digraph vault {
   "MOC - Historiography and method" -> "Voigtlander and Voth measured the relaxation time and reported a mixture";
   "MOC - Historiography and method" -> "Which peril gets a clause is set by the tradition's doctrinal problem";
   "MOC - Historiography and method" -> "Whiggish history of finance names the ascent narrative";
+  "MOC - Islamic contract doctrine" -> "A migrated institution collects local names not local forms";
   "MOC - Islamic contract doctrine" -> "A route clause conditions the investor's peril in three traditions";
   "MOC - Islamic contract doctrine" -> "Entitlement by liability versus entitlement by membership";
   "MOC - Islamic contract doctrine" -> "Islamic doctrine refuses risk-commodification at step one";
@@ -1234,6 +1249,7 @@ digraph vault {
   "Pure multiplicative dynamics are permutation-invariant" -> "Reinforcement selects an attractor the ensemble average never occupies";
   "Pure multiplicative dynamics are permutation-invariant" -> "Terminal wealth is permutation-invariant but survival is not";
   "Pure multiplicative dynamics are permutation-invariant" -> "Time-average";
+  "Ragusan collegantia is unilateral and Venetian collegantia is bilateral" -> "A migrated institution collects local names not local forms";
   "Ragusan collegantia is unilateral and Venetian collegantia is bilateral" -> "MOC - HistorEE";
   "Ragusan collegantia is unilateral and Venetian collegantia is bilateral" -> "MOC - Historiography and method";
   "Ragusan collegantia is unilateral and Venetian collegantia is bilateral" -> "MOC - Risk-sharing vs risk-pricing";

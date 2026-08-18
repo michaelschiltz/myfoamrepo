@@ -31,6 +31,10 @@ So the term is a **risk-allocation label**, not a partnership-structure label. V
 
 Held's corpus is one city and twenty-three years, and three notaries of markedly unequal competence (one of them a parish priest). The mutual exclusivity is his inference from co-occurrence, offered against an older reading — Danilović's — in which unspecified risk followed the profit shares. He gives the count, not a statistical test.
 
+**And the philological claim about Venice is contested in practice, if not in print.** Held's "used exclusively for the contract of bilateral commenda" comes from Pryor 1977, 10. Two recent quantitative studies of the Venetian corpus use the word the other way. Puga & Trefler (2014, 12) describe "the colleganza" as the contract in which the sedentary merchant supplies all the capital and the traveller only labour — the unilateral form. Merelo-Guervós & Molinari (2025), working 381 contracts from 1073 to 1342, treat *colleganza* as the umbrella and reserve *societas maris* for the bilateral variant, adding that "by the early thirteenth century, bilateral contracts had practically disappeared" and the Tiepolo Statutes of 1242 regulate only the unilateral type.
+
+These are not straightforwardly contradictory — Pryor is describing what the *documents* say, the economists are using a modern label for a family — but they cannot both be safe to cite. **Anyone quoting "Venetian *collegantia* means the bilateral form" needs Pryor's page, not a secondary chain**, and should note that the term's modern usage has drifted the opposite way from its documentary one. The irony is worth keeping: this note is about a name that failed to carry its structure across eighty sea-miles, and the same name has now failed to carry it across a disciplinary boundary. See [[A migrated institution collects local names not local forms]].
+
 ## Links
 
 - [[The commenda and the qirad do not separate on loss allocation]]

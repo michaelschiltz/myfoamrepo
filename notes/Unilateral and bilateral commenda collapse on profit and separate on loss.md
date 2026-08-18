@@ -23,7 +23,9 @@ The collapse is **facet-relative**, and the facet on which it holds is the one t
 
 That is the same failure mode as [[Which peril gets a clause is set by the tradition's doctrinal problem]]: the verdict tracks what the sources make measurable, not what the institutions did. And it is a live instance of the ugly-duckling problem in reverse — the claim "these are the same contract" is as weighting-dependent as the claim "these differ", and neither is meaningful until the facet is declared.
 
-Concretely, in the codebooks: `organizational_forms` would have every reason to merge the pair (same parties, same duration, same governance, same profit economics), and `loss_mitigation_forms` separates them cleanly on `RB1`/`RB2`. **Anyone merging or splitting them owes the reader the facet.**
+Concretely, in the codebooks — **corrected 2026-08-18 after the pair was actually coded in both datasets, because the first version of this note guessed and guessed wrong.** The guess was that `organizational_forms` would merge the pair (same parties, same duration, same governance, same profit economics) while `loss_mitigation_forms` separated it. In fact **both separate it**: `loss_mitigation_forms` on `RB1`/`RB2`, `organizational_forms` on `LR6` and on `CF1`. Eight of `organizational_forms`' thirty-two characteristics are WP1 loss-side, so "the entity dataset" was never a facet.
+
+The corrected statement is narrower and holds: **the historiography merges the pair on the payout; both datasets separate it on the loss.** They do so in different vocabularies — `RB1`/`RB2` name who bears which loss, `LR6` names the direction of the agent's exposure — but it is one fact seen twice, not two confirmations. **Anyone merging or splitting them owes the reader the facet.**
 
 ## Where this is soft
 

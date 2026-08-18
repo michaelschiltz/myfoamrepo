@@ -19,6 +19,15 @@
       "shape": "dot"
     },
     {
+      "id": "A migrated institution collects local names not local forms",
+      "type": "permanent",
+      "group": "seed",
+      "label": "A migrated institution collects local names not local forms",
+      "value": 21,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
       "id": "A perfectly correlated peril leaves only the time average",
       "type": "permanent",
       "group": "superseded",
@@ -122,7 +131,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Borrow the diagnostics not the tree",
-      "value": 38,
+      "value": 39,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -572,7 +581,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Natie is a false cognate",
-      "value": 18,
+      "value": 20,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -599,7 +608,7 @@
       "type": "permanent",
       "group": "stub",
       "label": "Never let the units slide from instruments to populations",
-      "value": 51,
+      "value": 53,
       "color": "#666666",
       "shape": "dot"
     },
@@ -743,7 +752,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Ragusan collegantia is unilateral and Venetian collegantia is bilateral",
-      "value": 16,
+      "value": 19,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1004,7 +1013,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The commenda and the qirad do not separate on loss allocation",
-      "value": 24,
+      "value": 26,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1382,7 +1391,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Unilateral and bilateral commenda collapse on profit and separate on loss",
-      "value": 14,
+      "value": 16,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1526,7 +1535,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - HistorEE",
-      "value": 250,
+      "value": 252,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -1535,7 +1544,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Historiography and method",
-      "value": 134,
+      "value": 136,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -1544,7 +1553,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Islamic contract doctrine",
-      "value": 43,
+      "value": 45,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -1580,7 +1589,7 @@
       "type": "database",
       "group": "database",
       "label": "loss_mitigation_forms",
-      "value": 34,
+      "value": 35,
       "color": "#a6761d",
       "shape": "database"
     },
@@ -1589,7 +1598,7 @@
       "type": "database",
       "group": "database",
       "label": "organizational_forms",
-      "value": 12,
+      "value": 13,
       "color": "#a6761d",
       "shape": "database"
     },
@@ -1675,6 +1684,50 @@
     {
       "from": "A concealed premium is evidence about the notary not about the price",
       "to": "loss_mitigation_forms"
+    },
+    {
+      "from": "A migrated institution collects local names not local forms",
+      "to": "Borrow the diagnostics not the tree"
+    },
+    {
+      "from": "A migrated institution collects local names not local forms",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "A migrated institution collects local names not local forms",
+      "to": "MOC - Historiography and method"
+    },
+    {
+      "from": "A migrated institution collects local names not local forms",
+      "to": "MOC - Islamic contract doctrine"
+    },
+    {
+      "from": "A migrated institution collects local names not local forms",
+      "to": "Natie is a false cognate"
+    },
+    {
+      "from": "A migrated institution collects local names not local forms",
+      "to": "Never let the units slide from instruments to populations"
+    },
+    {
+      "from": "A migrated institution collects local names not local forms",
+      "to": "Ragusan collegantia is unilateral and Venetian collegantia is bilateral"
+    },
+    {
+      "from": "A migrated institution collects local names not local forms",
+      "to": "The commenda and the qirad do not separate on loss allocation"
+    },
+    {
+      "from": "A migrated institution collects local names not local forms",
+      "to": "Unilateral and bilateral commenda collapse on profit and separate on loss"
+    },
+    {
+      "from": "A migrated institution collects local names not local forms",
+      "to": "loss_mitigation_forms"
+    },
+    {
+      "from": "A migrated institution collects local names not local forms",
+      "to": "organizational_forms"
     },
     {
       "from": "A perfectly correlated peril leaves only the time average",
@@ -4194,6 +4247,10 @@
     },
     {
       "from": "MOC - HistorEE",
+      "to": "A migrated institution collects local names not local forms"
+    },
+    {
+      "from": "MOC - HistorEE",
       "to": "A route clause conditions the investor's peril in three traditions"
     },
     {
@@ -4534,6 +4591,10 @@
     },
     {
       "from": "MOC - Historiography and method",
+      "to": "A migrated institution collects local names not local forms"
+    },
+    {
+      "from": "MOC - Historiography and method",
       "to": "A persistence parameter stable across regime change indicts the measure"
     },
     {
@@ -4759,6 +4820,10 @@
     {
       "from": "MOC - Historiography and method",
       "to": "Whiggish history of finance names the ascent narrative"
+    },
+    {
+      "from": "MOC - Islamic contract doctrine",
+      "to": "A migrated institution collects local names not local forms"
     },
     {
       "from": "MOC - Islamic contract doctrine",
@@ -5823,6 +5888,10 @@
     {
       "from": "Pure multiplicative dynamics are permutation-invariant",
       "to": "Time-average"
+    },
+    {
+      "from": "Ragusan collegantia is unilateral and Venetian collegantia is bilateral",
+      "to": "A migrated institution collects local names not local forms"
     },
     {
       "from": "Ragusan collegantia is unilateral and Venetian collegantia is bilateral",
