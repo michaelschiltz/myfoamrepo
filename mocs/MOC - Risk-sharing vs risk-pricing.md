@@ -43,6 +43,11 @@ Thematic hub for the instrument axis: risk-*sharing* forms that keep every party
 - [[The isqa refuses the agent's shield]]
 - [[Ribbit mandates exposure rather than forbidding gain]]
 - [[The heter iska restores the fixed return by evidentiary barrier]]
+- [[The commenda and the qirad do not separate on loss allocation]]
+- [[A route clause conditions the investor's peril in three traditions]]
+- [[Ragusan collegantia is unilateral and Venetian collegantia is bilateral]]
+- [[Which peril gets a clause is set by the tradition's doctrinal problem]]
+- [[Unilateral and bilateral commenda collapse on profit and separate on loss]]
 
 ## Links
 

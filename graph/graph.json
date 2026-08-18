@@ -37,6 +37,15 @@
       "shape": "dot"
     },
     {
+      "id": "A route clause conditions the investor's peril in three traditions",
+      "type": "permanent",
+      "group": "seed",
+      "label": "A route clause conditions the investor's peril in three traditions",
+      "value": 19,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
       "id": "A scheme for extending the cooperative pooling census",
       "type": "permanent",
       "group": "seed",
@@ -113,7 +122,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Borrow the diagnostics not the tree",
-      "value": 36,
+      "value": 38,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -383,7 +392,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Homoplasy is the finding not the noise",
-      "value": 64,
+      "value": 66,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -428,7 +437,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Isqa qirad and commenda are a liability-variable triad",
-      "value": 26,
+      "value": 28,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -563,7 +572,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Natie is a false cognate",
-      "value": 15,
+      "value": 18,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -590,7 +599,7 @@
       "type": "permanent",
       "group": "stub",
       "label": "Never let the units slide from instruments to populations",
-      "value": 49,
+      "value": 51,
       "color": "#666666",
       "shape": "dot"
     },
@@ -730,6 +739,15 @@
       "shape": "dot"
     },
     {
+      "id": "Ragusan collegantia is unilateral and Venetian collegantia is bilateral",
+      "type": "permanent",
+      "group": "seed",
+      "label": "Ragusan collegantia is unilateral and Venetian collegantia is bilateral",
+      "value": 16,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
       "id": "Read the Nakai anomaly against the ie's horizon not the transaction's",
       "type": "permanent",
       "group": "seed",
@@ -770,7 +788,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Ribbit mandates exposure rather than forbidding gain",
-      "value": 22,
+      "value": 24,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -833,7 +851,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Skin in the game is asymmetric in the mudaraba",
-      "value": 28,
+      "value": 31,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -982,6 +1000,15 @@
       "shape": "dot"
     },
     {
+      "id": "The commenda and the qirad do not separate on loss allocation",
+      "type": "permanent",
+      "group": "seed",
+      "label": "The commenda and the qirad do not separate on loss allocation",
+      "value": 24,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
       "id": "The corporation is not the omega - the naties are an undisplaced niche",
       "type": "permanent",
       "group": "seed",
@@ -1112,7 +1139,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The isqa refuses the agent's shield",
-      "value": 30,
+      "value": 33,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1193,7 +1220,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The qirad envelops the sea loan",
-      "value": 22,
+      "value": 24,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1220,7 +1247,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The sea loan is a contingent claim not a loan",
-      "value": 17,
+      "value": 18,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1346,8 +1373,17 @@
       "type": "reference",
       "group": "reference",
       "label": "Typology and character coding literature",
-      "value": 21,
+      "value": 22,
       "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "Unilateral and bilateral commenda collapse on profit and separate on loss",
+      "type": "permanent",
+      "group": "seed",
+      "label": "Unilateral and bilateral commenda collapse on profit and separate on loss",
+      "value": 14,
+      "color": "#e6ab02",
       "shape": "dot"
     },
     {
@@ -1396,6 +1432,15 @@
       "shape": "dot"
     },
     {
+      "id": "Which peril gets a clause is set by the tradition's doctrinal problem",
+      "type": "permanent",
+      "group": "seed",
+      "label": "Which peril gets a clause is set by the tradition's doctrinal problem",
+      "value": 21,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
       "id": "Whiggish history of finance names the ascent narrative",
       "type": "permanent",
       "group": "seed",
@@ -1409,7 +1454,7 @@
       "type": "permanent",
       "group": "stub",
       "label": "commenda",
-      "value": 14,
+      "value": 18,
       "color": "#666666",
       "shape": "dot"
     },
@@ -1418,7 +1463,7 @@
       "type": "permanent",
       "group": "stub",
       "label": "isqa",
-      "value": 23,
+      "value": 26,
       "color": "#666666",
       "shape": "dot"
     },
@@ -1481,7 +1526,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - HistorEE",
-      "value": 240,
+      "value": 250,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -1490,7 +1535,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Historiography and method",
-      "value": 128,
+      "value": 134,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -1499,7 +1544,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Islamic contract doctrine",
-      "value": 39,
+      "value": 43,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -1517,7 +1562,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Risk-sharing vs risk-pricing",
-      "value": 96,
+      "value": 106,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -1535,7 +1580,7 @@
       "type": "database",
       "group": "database",
       "label": "loss_mitigation_forms",
-      "value": 29,
+      "value": 34,
       "color": "#a6761d",
       "shape": "database"
     },
@@ -1714,6 +1759,46 @@
     {
       "from": "A persistence parameter stable across regime change indicts the measure",
       "to": "Voigtlander and Voth measured the relaxation time and reported a mixture"
+    },
+    {
+      "from": "A route clause conditions the investor's peril in three traditions",
+      "to": "Borrow the diagnostics not the tree"
+    },
+    {
+      "from": "A route clause conditions the investor's peril in three traditions",
+      "to": "Homoplasy is the finding not the noise"
+    },
+    {
+      "from": "A route clause conditions the investor's peril in three traditions",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "A route clause conditions the investor's peril in three traditions",
+      "to": "MOC - Islamic contract doctrine"
+    },
+    {
+      "from": "A route clause conditions the investor's peril in three traditions",
+      "to": "MOC - Risk-sharing vs risk-pricing"
+    },
+    {
+      "from": "A route clause conditions the investor's peril in three traditions",
+      "to": "Skin in the game is asymmetric in the mudaraba"
+    },
+    {
+      "from": "A route clause conditions the investor's peril in three traditions",
+      "to": "The commenda and the qirad do not separate on loss allocation"
+    },
+    {
+      "from": "A route clause conditions the investor's peril in three traditions",
+      "to": "The qirad envelops the sea loan"
+    },
+    {
+      "from": "A route clause conditions the investor's peril in three traditions",
+      "to": "commenda"
+    },
+    {
+      "from": "A route clause conditions the investor's peril in three traditions",
+      "to": "loss_mitigation_forms"
     },
     {
       "from": "A scheme for extending the cooperative pooling census",
@@ -4109,6 +4194,10 @@
     },
     {
       "from": "MOC - HistorEE",
+      "to": "A route clause conditions the investor's peril in three traditions"
+    },
+    {
+      "from": "MOC - HistorEE",
       "to": "Absorbing barrier"
     },
     {
@@ -4265,6 +4354,10 @@
     },
     {
       "from": "MOC - HistorEE",
+      "to": "Ragusan collegantia is unilateral and Venetian collegantia is bilateral"
+    },
+    {
+      "from": "MOC - HistorEE",
       "to": "Reinforcement selects an attractor the ensemble average never occupies"
     },
     {
@@ -4318,6 +4411,10 @@
     {
       "from": "MOC - HistorEE",
       "to": "The coding commons must record stated rationale not only component presence"
+    },
+    {
+      "from": "MOC - HistorEE",
+      "to": "The commenda and the qirad do not separate on loss allocation"
     },
     {
       "from": "MOC - HistorEE",
@@ -4413,7 +4510,15 @@
     },
     {
       "from": "MOC - HistorEE",
+      "to": "Unilateral and bilateral commenda collapse on profit and separate on loss"
+    },
+    {
+      "from": "MOC - HistorEE",
       "to": "Van Dam's Beschryvinge - the VOC described by its own advocaat"
+    },
+    {
+      "from": "MOC - HistorEE",
+      "to": "Which peril gets a clause is set by the tradition's doctrinal problem"
     },
     {
       "from": "MOC - HistorEE",
@@ -4541,6 +4646,10 @@
     },
     {
       "from": "MOC - Historiography and method",
+      "to": "Ragusan collegantia is unilateral and Venetian collegantia is bilateral"
+    },
+    {
+      "from": "MOC - Historiography and method",
       "to": "Refusals are observations of the filter not inferences from survivors"
     },
     {
@@ -4629,6 +4738,10 @@
     },
     {
       "from": "MOC - Historiography and method",
+      "to": "Unilateral and bilateral commenda collapse on profit and separate on loss"
+    },
+    {
+      "from": "MOC - Historiography and method",
       "to": "VOC digital corpus - what is online and on what terms"
     },
     {
@@ -4641,7 +4754,15 @@
     },
     {
       "from": "MOC - Historiography and method",
+      "to": "Which peril gets a clause is set by the tradition's doctrinal problem"
+    },
+    {
+      "from": "MOC - Historiography and method",
       "to": "Whiggish history of finance names the ascent narrative"
+    },
+    {
+      "from": "MOC - Islamic contract doctrine",
+      "to": "A route clause conditions the investor's peril in three traditions"
     },
     {
       "from": "MOC - Islamic contract doctrine",
@@ -4674,6 +4795,10 @@
     {
       "from": "MOC - Islamic contract doctrine",
       "to": "Skin in the game is asymmetric in the mudaraba"
+    },
+    {
+      "from": "MOC - Islamic contract doctrine",
+      "to": "The commenda and the qirad do not separate on loss allocation"
     },
     {
       "from": "MOC - Islamic contract doctrine",
@@ -4765,6 +4890,10 @@
     },
     {
       "from": "MOC - Risk-sharing vs risk-pricing",
+      "to": "A route clause conditions the investor's peril in three traditions"
+    },
+    {
+      "from": "MOC - Risk-sharing vs risk-pricing",
       "to": "Amsterdam notaries drafted ship-pledged and goods-pledged bodemerij as one instrument"
     },
     {
@@ -4849,6 +4978,10 @@
     },
     {
       "from": "MOC - Risk-sharing vs risk-pricing",
+      "to": "Ragusan collegantia is unilateral and Venetian collegantia is bilateral"
+    },
+    {
+      "from": "MOC - Risk-sharing vs risk-pricing",
       "to": "Refusals are observations of the filter not inferences from survivors"
     },
     {
@@ -4874,6 +5007,10 @@
     {
       "from": "MOC - Risk-sharing vs risk-pricing",
       "to": "The bidding ko transfers from the liquidity-constrained to the liquid"
+    },
+    {
+      "from": "MOC - Risk-sharing vs risk-pricing",
+      "to": "The commenda and the qirad do not separate on loss allocation"
     },
     {
       "from": "MOC - Risk-sharing vs risk-pricing",
@@ -4917,11 +5054,19 @@
     },
     {
       "from": "MOC - Risk-sharing vs risk-pricing",
+      "to": "Unilateral and bilateral commenda collapse on profit and separate on loss"
+    },
+    {
+      "from": "MOC - Risk-sharing vs risk-pricing",
       "to": "Warichi and general average spread the incidence of an irreversible loss"
     },
     {
       "from": "MOC - Risk-sharing vs risk-pricing",
       "to": "Warichi re-randomises after absorption rather than diversifying"
+    },
+    {
+      "from": "MOC - Risk-sharing vs risk-pricing",
+      "to": "Which peril gets a clause is set by the tradition's doctrinal problem"
     },
     {
       "from": "MOC - Risk-sharing vs risk-pricing",
@@ -5678,6 +5823,42 @@
     {
       "from": "Pure multiplicative dynamics are permutation-invariant",
       "to": "Time-average"
+    },
+    {
+      "from": "Ragusan collegantia is unilateral and Venetian collegantia is bilateral",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Ragusan collegantia is unilateral and Venetian collegantia is bilateral",
+      "to": "MOC - Historiography and method"
+    },
+    {
+      "from": "Ragusan collegantia is unilateral and Venetian collegantia is bilateral",
+      "to": "MOC - Risk-sharing vs risk-pricing"
+    },
+    {
+      "from": "Ragusan collegantia is unilateral and Venetian collegantia is bilateral",
+      "to": "Natie is a false cognate"
+    },
+    {
+      "from": "Ragusan collegantia is unilateral and Venetian collegantia is bilateral",
+      "to": "Never let the units slide from instruments to populations"
+    },
+    {
+      "from": "Ragusan collegantia is unilateral and Venetian collegantia is bilateral",
+      "to": "The commenda and the qirad do not separate on loss allocation"
+    },
+    {
+      "from": "Ragusan collegantia is unilateral and Venetian collegantia is bilateral",
+      "to": "Which peril gets a clause is set by the tradition's doctrinal problem"
+    },
+    {
+      "from": "Ragusan collegantia is unilateral and Venetian collegantia is bilateral",
+      "to": "commenda"
+    },
+    {
+      "from": "Ragusan collegantia is unilateral and Venetian collegantia is bilateral",
+      "to": "loss_mitigation_forms"
     },
     {
       "from": "Read the Nakai anomaly against the ie's horizon not the transaction's",
@@ -6608,6 +6789,62 @@
       "to": "Transmission versus independent recurrence is the load-bearing test"
     },
     {
+      "from": "The commenda and the qirad do not separate on loss allocation",
+      "to": "A route clause conditions the investor's peril in three traditions"
+    },
+    {
+      "from": "The commenda and the qirad do not separate on loss allocation",
+      "to": "Isqa qirad and commenda are a liability-variable triad"
+    },
+    {
+      "from": "The commenda and the qirad do not separate on loss allocation",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "The commenda and the qirad do not separate on loss allocation",
+      "to": "MOC - Islamic contract doctrine"
+    },
+    {
+      "from": "The commenda and the qirad do not separate on loss allocation",
+      "to": "MOC - Risk-sharing vs risk-pricing"
+    },
+    {
+      "from": "The commenda and the qirad do not separate on loss allocation",
+      "to": "Natie is a false cognate"
+    },
+    {
+      "from": "The commenda and the qirad do not separate on loss allocation",
+      "to": "Never let the units slide from instruments to populations"
+    },
+    {
+      "from": "The commenda and the qirad do not separate on loss allocation",
+      "to": "Skin in the game is asymmetric in the mudaraba"
+    },
+    {
+      "from": "The commenda and the qirad do not separate on loss allocation",
+      "to": "The isqa refuses the agent's shield"
+    },
+    {
+      "from": "The commenda and the qirad do not separate on loss allocation",
+      "to": "The qirad envelops the sea loan"
+    },
+    {
+      "from": "The commenda and the qirad do not separate on loss allocation",
+      "to": "Which peril gets a clause is set by the tradition's doctrinal problem"
+    },
+    {
+      "from": "The commenda and the qirad do not separate on loss allocation",
+      "to": "commenda"
+    },
+    {
+      "from": "The commenda and the qirad do not separate on loss allocation",
+      "to": "isqa"
+    },
+    {
+      "from": "The commenda and the qirad do not separate on loss allocation",
+      "to": "loss_mitigation_forms"
+    },
+    {
       "from": "The corporation is not the omega - the naties are an undisplaced niche",
       "to": "Harris 2020 on the late plurality of limited liability"
     },
@@ -8000,6 +8237,42 @@
       "to": "organizational_forms"
     },
     {
+      "from": "Unilateral and bilateral commenda collapse on profit and separate on loss",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Unilateral and bilateral commenda collapse on profit and separate on loss",
+      "to": "MOC - Historiography and method"
+    },
+    {
+      "from": "Unilateral and bilateral commenda collapse on profit and separate on loss",
+      "to": "MOC - Risk-sharing vs risk-pricing"
+    },
+    {
+      "from": "Unilateral and bilateral commenda collapse on profit and separate on loss",
+      "to": "Ragusan collegantia is unilateral and Venetian collegantia is bilateral"
+    },
+    {
+      "from": "Unilateral and bilateral commenda collapse on profit and separate on loss",
+      "to": "The commenda and the qirad do not separate on loss allocation"
+    },
+    {
+      "from": "Unilateral and bilateral commenda collapse on profit and separate on loss",
+      "to": "Typology and character coding literature"
+    },
+    {
+      "from": "Unilateral and bilateral commenda collapse on profit and separate on loss",
+      "to": "Which peril gets a clause is set by the tradition's doctrinal problem"
+    },
+    {
+      "from": "Unilateral and bilateral commenda collapse on profit and separate on loss",
+      "to": "commenda"
+    },
+    {
+      "from": "Unilateral and bilateral commenda collapse on profit and separate on loss",
+      "to": "loss_mitigation_forms"
+    },
+    {
       "from": "VOC digital corpus - what is online and on what terms",
       "to": "EIC digital corpus - what is online and on what terms"
     },
@@ -8225,6 +8498,50 @@
     },
     {
       "from": "Warichi re-randomises after absorption rather than diversifying",
+      "to": "loss_mitigation_forms"
+    },
+    {
+      "from": "Which peril gets a clause is set by the tradition's doctrinal problem",
+      "to": "A route clause conditions the investor's peril in three traditions"
+    },
+    {
+      "from": "Which peril gets a clause is set by the tradition's doctrinal problem",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Which peril gets a clause is set by the tradition's doctrinal problem",
+      "to": "MOC - Historiography and method"
+    },
+    {
+      "from": "Which peril gets a clause is set by the tradition's doctrinal problem",
+      "to": "MOC - Risk-sharing vs risk-pricing"
+    },
+    {
+      "from": "Which peril gets a clause is set by the tradition's doctrinal problem",
+      "to": "Ragusan collegantia is unilateral and Venetian collegantia is bilateral"
+    },
+    {
+      "from": "Which peril gets a clause is set by the tradition's doctrinal problem",
+      "to": "Ribbit mandates exposure rather than forbidding gain"
+    },
+    {
+      "from": "Which peril gets a clause is set by the tradition's doctrinal problem",
+      "to": "The commenda and the qirad do not separate on loss allocation"
+    },
+    {
+      "from": "Which peril gets a clause is set by the tradition's doctrinal problem",
+      "to": "The isqa refuses the agent's shield"
+    },
+    {
+      "from": "Which peril gets a clause is set by the tradition's doctrinal problem",
+      "to": "The sea loan is a contingent claim not a loan"
+    },
+    {
+      "from": "Which peril gets a clause is set by the tradition's doctrinal problem",
+      "to": "isqa"
+    },
+    {
+      "from": "Which peril gets a clause is set by the tradition's doctrinal problem",
       "to": "loss_mitigation_forms"
     },
     {

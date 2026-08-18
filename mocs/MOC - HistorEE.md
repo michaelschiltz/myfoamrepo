@@ -113,6 +113,14 @@ Project hub for the book. Atomic notes hang off both this project MOC and a them
 - [[Absorption is a path-dependence mechanism distinct from reinforcement]]
 - [[Path dependence literature]]
 
+## Notes — Allocation anchors blind coding
+
+- [[The commenda and the qirad do not separate on loss allocation]]
+- [[A route clause conditions the investor's peril in three traditions]]
+- [[Ragusan collegantia is unilateral and Venetian collegantia is bilateral]]
+- [[Which peril gets a clause is set by the tradition's doctrinal problem]]
+- [[Unilateral and bilateral commenda collapse on profit and separate on loss]]
+
 ## Concept anchors
 
 - [[Absorbing barrier]]

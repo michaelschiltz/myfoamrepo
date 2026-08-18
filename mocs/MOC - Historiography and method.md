@@ -50,6 +50,9 @@ Thematic hub for the project's methodological guardrails: teleology and its inve
 
 - [[Path dependence requires naming the non-commuting operation]]
 - [[Path dependence literature]]
+- [[Ragusan collegantia is unilateral and Venetian collegantia is bilateral]]
+- [[Which peril gets a clause is set by the tradition's doctrinal problem]]
+- [[Unilateral and bilateral commenda collapse on profit and separate on loss]]
 
 ## Notes (the digital corpus as a selection filter)
 
