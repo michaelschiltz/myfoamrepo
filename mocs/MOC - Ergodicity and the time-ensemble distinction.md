@@ -51,6 +51,7 @@ Written for WP3, to the standard a mathematically literate referee would apply.
 - [[A significant persistence coefficient is evidence against its own licensing condition]]
 - [[Attractor selection bounds what a persistence design can resolve]]
 - [[Retrodiction fails on non-invertibility not on induction]]
+- [[Sort the persistence objections by what they cost the referee]]
 
 ## Links
 

@@ -48,9 +48,11 @@ One consistency constraint follows and is not negotiable. Parsimony analysis ass
 
 ## Why this de-risks Objective 3
 
-Ergodicity and phylogenetic reconstruction are two independent statements of a single defect: **a cross-section stands in for a history only under conditions nobody checks.** The ergodicity criterion names the condition under which space-for-time substitution is valid. Cladistics names the conditions under which terminal states can be read as a history at all — polarity, character independence, absence of reticulation. Neither derives from the other.
+**A cross-section stands in for a history only under conditions nobody checks.** Cladistics and the ergodicity criterion state that defect independently. The ergodicity criterion names the condition under which space-for-time substitution is valid; cladistics names the conditions under which terminal states can be read as a history at all — polarity, character independence, absence of reticulation. Neither derives from the other.
 
-The strategic value is that Objective 3 then does not depend on the reader accepting ergodicity economics. That matters directly given the falsifiability charge raised against the framework, since the phylogenetic version of the critique is unremarkable, conventional methodology in its home field and arrives at the same conclusion by a route no referee can call heterodox. Two foundations, one conclusion; the weaker-looking one is the one that travels.
+The strategic value is that Objective 3 then does not depend on the reader accepting ergodicity economics. That matters directly given the falsifiability charge raised against the framework, since the phylogenetic version of the critique is unremarkable, conventional methodology in its home field and arrives at the same conclusion by a route no referee can call heterodox. The weaker-looking foundation is the one that travels.
+
+The vault now holds three further statements of the same defect, and which of them a referee must pay for is taken up at [[Sort the persistence objections by what they cost the referee]]. This note supplies one of the three that cost him nothing.
 
 ## The literature gap, and its sharpest form
 
@@ -63,6 +65,7 @@ The sharper version concerns Spolaore and Wacziarg, whose genetic-distance work 
 ## Links
 
 - [[Homoplasy is the finding not the noise]]
+- [[Sort the persistence objections by what they cost the referee]]
 - [[Borrow the diagnostics not the tree]]
 - [[Never let the units slide from instruments to populations]]
 - [[Galton's problem]]

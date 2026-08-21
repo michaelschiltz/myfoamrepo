@@ -97,3 +97,4 @@ Where the sources for the European companies are and are not machine-readable is
 - [[Retrodiction fails on non-invertibility not on induction]] — why the backward inference is not Hume's problem, and survives granting it
 - [[Attractor selection bounds what a persistence design can resolve]] — the retrodictive corollary of the multi-attractor case
 - [[A significant persistence coefficient is evidence against its own licensing condition]] — the squeeze, stated as an inequality between relaxation time and horizon
+- [[Sort the persistence objections by what they cost the referee]] — how the four sort, and which one a referee has to pay for

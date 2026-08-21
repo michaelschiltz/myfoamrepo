@@ -77,7 +77,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "A significant persistence coefficient is evidence against its own licensing condition",
-      "value": 30,
+      "value": 32,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -140,7 +140,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Attractor selection bounds what a persistence design can resolve",
-      "value": 33,
+      "value": 35,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -203,7 +203,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Deep-roots variables are symplesiomorphies",
-      "value": 56,
+      "value": 62,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -239,7 +239,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Distinguish strong from weak ergodicity breaking",
-      "value": 16,
+      "value": 17,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -707,7 +707,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Persistence samples are conditioned on non-absorption",
-      "value": 35,
+      "value": 37,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -815,7 +815,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Retrodiction fails on non-invertibility not on induction",
-      "value": 24,
+      "value": 26,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -869,7 +869,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Separate the sociological and the methodological claims about economics",
-      "value": 13,
+      "value": 14,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -898,6 +898,15 @@
       "label": "Skin in the game",
       "value": 24,
       "color": "#666666",
+      "shape": "dot"
+    },
+    {
+      "id": "Sort the persistence objections by what they cost the referee",
+      "type": "permanent",
+      "group": "seed",
+      "label": "Sort the persistence objections by what they cost the referee",
+      "value": 27,
+      "color": "#e6ab02",
       "shape": "dot"
     },
     {
@@ -1301,7 +1310,7 @@
       "type": "reference",
       "group": "reference",
       "label": "The three Kelly critiques establish different nulls",
-      "value": 15,
+      "value": 16,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1445,7 +1454,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Voigtlander and Voth measured the relaxation time and reported a mixture",
-      "value": 26,
+      "value": 27,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1535,7 +1544,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - ERC Synergy Grant",
-      "value": 54,
+      "value": 56,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -1553,7 +1562,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Ergodicity and the time-ensemble distinction",
-      "value": 86,
+      "value": 88,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -1562,7 +1571,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - HistorEE",
-      "value": 258,
+      "value": 260,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -1571,7 +1580,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Historiography and method",
-      "value": 142,
+      "value": 144,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -2539,6 +2548,10 @@
     {
       "from": "Deep-roots variables are symplesiomorphies",
       "to": "Separate the sociological and the methodological claims about economics"
+    },
+    {
+      "from": "Deep-roots variables are symplesiomorphies",
+      "to": "Sort the persistence objections by what they cost the referee"
     },
     {
       "from": "Deep-roots variables are symplesiomorphies",
@@ -4078,6 +4091,10 @@
     },
     {
       "from": "MOC - ERC Synergy Grant",
+      "to": "Sort the persistence objections by what they cost the referee"
+    },
+    {
+      "from": "MOC - ERC Synergy Grant",
       "to": "Stationarity is a precondition of ergodicity not a corollary"
     },
     {
@@ -4386,6 +4403,10 @@
     },
     {
       "from": "MOC - Ergodicity and the time-ensemble distinction",
+      "to": "Sort the persistence objections by what they cost the referee"
+    },
+    {
+      "from": "MOC - Ergodicity and the time-ensemble distinction",
       "to": "Stationarity is a precondition of ergodicity not a corollary"
     },
     {
@@ -4623,6 +4644,10 @@
     {
       "from": "MOC - HistorEE",
       "to": "Skin in the game"
+    },
+    {
+      "from": "MOC - HistorEE",
+      "to": "Sort the persistence objections by what they cost the referee"
     },
     {
       "from": "MOC - HistorEE",
@@ -4915,6 +4940,10 @@
     {
       "from": "MOC - Historiography and method",
       "to": "Selection frequency trades against organizational memory"
+    },
+    {
+      "from": "MOC - Historiography and method",
+      "to": "Sort the persistence objections by what they cost the referee"
     },
     {
       "from": "MOC - Historiography and method",
@@ -6567,6 +6596,58 @@
     {
       "from": "Skin in the game is asymmetric in the mudaraba",
       "to": "organizational_forms"
+    },
+    {
+      "from": "Sort the persistence objections by what they cost the referee",
+      "to": "A significant persistence coefficient is evidence against its own licensing condition"
+    },
+    {
+      "from": "Sort the persistence objections by what they cost the referee",
+      "to": "Attractor selection bounds what a persistence design can resolve"
+    },
+    {
+      "from": "Sort the persistence objections by what they cost the referee",
+      "to": "Deep-roots variables are symplesiomorphies"
+    },
+    {
+      "from": "Sort the persistence objections by what they cost the referee",
+      "to": "Distinguish strong from weak ergodicity breaking"
+    },
+    {
+      "from": "Sort the persistence objections by what they cost the referee",
+      "to": "MOC - ERC Synergy Grant"
+    },
+    {
+      "from": "Sort the persistence objections by what they cost the referee",
+      "to": "MOC - Ergodicity and the time-ensemble distinction"
+    },
+    {
+      "from": "Sort the persistence objections by what they cost the referee",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Sort the persistence objections by what they cost the referee",
+      "to": "MOC - Historiography and method"
+    },
+    {
+      "from": "Sort the persistence objections by what they cost the referee",
+      "to": "Persistence samples are conditioned on non-absorption"
+    },
+    {
+      "from": "Sort the persistence objections by what they cost the referee",
+      "to": "Retrodiction fails on non-invertibility not on induction"
+    },
+    {
+      "from": "Sort the persistence objections by what they cost the referee",
+      "to": "Separate the sociological and the methodological claims about economics"
+    },
+    {
+      "from": "Sort the persistence objections by what they cost the referee",
+      "to": "The three Kelly critiques establish different nulls"
+    },
+    {
+      "from": "Sort the persistence objections by what they cost the referee",
+      "to": "Voigtlander and Voth measured the relaxation time and reported a mixture"
     },
     {
       "from": "Split provenance into priority and independence",

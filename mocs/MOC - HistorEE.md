@@ -127,6 +127,7 @@ Project hub for the book. Atomic notes hang off both this project MOC and a them
 - [[Retrodiction fails on non-invertibility not on induction]]
 - [[Attractor selection bounds what a persistence design can resolve]]
 - [[A significant persistence coefficient is evidence against its own licensing condition]]
+- [[Sort the persistence objections by what they cost the referee]]
 
 ## Concept anchors
 

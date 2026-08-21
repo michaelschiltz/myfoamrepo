@@ -28,6 +28,7 @@ The Part 2 WP1 session's *ideas* are written as atomic notes (below) and kept un
 - [[An absorbing barrier breaks ergodicity by construction]] — the strongest formal card
 - [[Distinguish strong from weak ergodicity breaking]] — most of our cases are weak, and we have been writing as though they were strong
 - [[Jensen supplies the gap but only the dynamic privileges the logarithm]] — where the logarithm's privilege actually comes from, and the "which dynamic?" objection that replaces "which utility?"
+- [[Sort the persistence objections by what they cost the referee]] — the four routes to Objective 3, sorted by what each asks a referee to concede; three cost nothing and the squeeze costs the framework
 
 ## Notes (WP3 case selection)
 

@@ -101,6 +101,7 @@ digraph vault {
   "Simonsohn 2016 on East Syrian civil law and the Sasanian substrate" [fillcolor="#7570b3", fontcolor=white, shape=ellipse];
   "Skin in the game is asymmetric in the mudaraba" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Skin in the game" [fillcolor="#666666", fontcolor=white, shape=ellipse];
+  "Sort the persistence objections by what they cost the referee" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Split provenance into priority and independence" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Stationarity is a precondition of ergodicity not a corollary" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Terminal wealth is permutation-invariant but survival is not" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
@@ -408,6 +409,7 @@ digraph vault {
   "Deep-roots variables are symplesiomorphies" -> "Non-ergodicity collapses the likelihood ratio on outcomes";
   "Deep-roots variables are symplesiomorphies" -> "Refusals are observations of the filter not inferences from survivors";
   "Deep-roots variables are symplesiomorphies" -> "Separate the sociological and the methodological claims about economics";
+  "Deep-roots variables are symplesiomorphies" -> "Sort the persistence objections by what they cost the referee";
   "Deep-roots variables are symplesiomorphies" -> "The ascent narrative is the Jensen error as historiography";
   "Deep-roots variables are symplesiomorphies" -> "The deficit reading of absence is the scalar ranking in evidentiary form";
   "Deep-roots variables are symplesiomorphies" -> "The morphological matrix is dictated by the shape of the feature space";
@@ -792,6 +794,7 @@ digraph vault {
   "MOC - ERC Synergy Grant" -> "Nothing in the ergodic theorem fails in geometric Brownian motion";
   "MOC - ERC Synergy Grant" -> "Persistence samples are conditioned on non-absorption";
   "MOC - ERC Synergy Grant" -> "Retrodiction fails on non-invertibility not on induction";
+  "MOC - ERC Synergy Grant" -> "Sort the persistence objections by what they cost the referee";
   "MOC - ERC Synergy Grant" -> "Stationarity is a precondition of ergodicity not a corollary";
   "MOC - ERC Synergy Grant" -> "The Roman universitas makes the JSC case parallelism not convergence";
   "MOC - ERC Synergy Grant" -> "The determinate-contingent typology carries the richness";
@@ -869,6 +872,7 @@ digraph vault {
   "MOC - Ergodicity and the time-ensemble distinction" -> "Retrodiction fails on non-invertibility not on induction";
   "MOC - Ergodicity and the time-ensemble distinction" -> "Route Kolmogorov to ergodic theory not the theory of means";
   "MOC - Ergodicity and the time-ensemble distinction" -> "Separate the sociological and the methodological claims about economics";
+  "MOC - Ergodicity and the time-ensemble distinction" -> "Sort the persistence objections by what they cost the referee";
   "MOC - Ergodicity and the time-ensemble distinction" -> "Stationarity is a precondition of ergodicity not a corollary";
   "MOC - Ergodicity and the time-ensemble distinction" -> "Terminal wealth is permutation-invariant but survival is not";
   "MOC - Ergodicity and the time-ensemble distinction" -> "The Nakai ledger scores as losses what present value scores as gains";
@@ -929,6 +933,7 @@ digraph vault {
   "MOC - HistorEE" -> "Separate the sociological and the methodological claims about economics";
   "MOC - HistorEE" -> "Simonsohn 2016 on East Syrian civil law and the Sasanian substrate";
   "MOC - HistorEE" -> "Skin in the game";
+  "MOC - HistorEE" -> "Sort the persistence objections by what they cost the referee";
   "MOC - HistorEE" -> "Terminal wealth is permutation-invariant but survival is not";
   "MOC - HistorEE" -> "The Roman universitas makes the JSC case parallelism not convergence";
   "MOC - HistorEE" -> "The alleenrecht is monopoly held as tradable property";
@@ -1002,6 +1007,7 @@ digraph vault {
   "MOC - Historiography and method" -> "Relief ko for a named person is claimed to be unattested outside Japan";
   "MOC - Historiography and method" -> "Retrodiction fails on non-invertibility not on induction";
   "MOC - Historiography and method" -> "Selection frequency trades against organizational memory";
+  "MOC - Historiography and method" -> "Sort the persistence objections by what they cost the referee";
   "MOC - Historiography and method" -> "Split provenance into priority and independence";
   "MOC - Historiography and method" -> "The QDL corpus is conditioned on its funder's geography";
   "MOC - Historiography and method" -> "The Roman universitas makes the JSC case parallelism not convergence";
@@ -1415,6 +1421,19 @@ digraph vault {
   "Skin in the game is asymmetric in the mudaraba" -> "The isqa refuses the agent's shield";
   "Skin in the game is asymmetric in the mudaraba" -> "The qirad envelops the sea loan";
   "Skin in the game is asymmetric in the mudaraba" -> "organizational_forms";
+  "Sort the persistence objections by what they cost the referee" -> "A significant persistence coefficient is evidence against its own licensing condition";
+  "Sort the persistence objections by what they cost the referee" -> "Attractor selection bounds what a persistence design can resolve";
+  "Sort the persistence objections by what they cost the referee" -> "Deep-roots variables are symplesiomorphies";
+  "Sort the persistence objections by what they cost the referee" -> "Distinguish strong from weak ergodicity breaking";
+  "Sort the persistence objections by what they cost the referee" -> "MOC - ERC Synergy Grant";
+  "Sort the persistence objections by what they cost the referee" -> "MOC - Ergodicity and the time-ensemble distinction";
+  "Sort the persistence objections by what they cost the referee" -> "MOC - HistorEE";
+  "Sort the persistence objections by what they cost the referee" -> "MOC - Historiography and method";
+  "Sort the persistence objections by what they cost the referee" -> "Persistence samples are conditioned on non-absorption";
+  "Sort the persistence objections by what they cost the referee" -> "Retrodiction fails on non-invertibility not on induction";
+  "Sort the persistence objections by what they cost the referee" -> "Separate the sociological and the methodological claims about economics";
+  "Sort the persistence objections by what they cost the referee" -> "The three Kelly critiques establish different nulls";
+  "Sort the persistence objections by what they cost the referee" -> "Voigtlander and Voth measured the relaxation time and reported a mixture";
   "Split provenance into priority and independence" -> "MOC - HistorEE";
   "Split provenance into priority and independence" -> "MOC - Historiography and method";
   "Split provenance into priority and independence" -> "Refusals are observations of the filter not inferences from survivors";
