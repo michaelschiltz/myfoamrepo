@@ -41,7 +41,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "A persistence parameter stable across regime change indicts the measure",
-      "value": 22,
+      "value": 23,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -73,6 +73,15 @@
       "shape": "dot"
     },
     {
+      "id": "A significant persistence coefficient is evidence against its own licensing condition",
+      "type": "permanent",
+      "group": "seed",
+      "label": "A significant persistence coefficient is evidence against its own licensing condition",
+      "value": 30,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
       "id": "Absorbing barrier",
       "type": "permanent",
       "group": "seed",
@@ -86,7 +95,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Absorption is a path-dependence mechanism distinct from reinforcement",
-      "value": 25,
+      "value": 27,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -122,7 +131,16 @@
       "type": "permanent",
       "group": "seed",
       "label": "Arthur's lock-in and capital lock-in are different objects",
-      "value": 20,
+      "value": 22,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "Attractor selection bounds what a persistence design can resolve",
+      "type": "permanent",
+      "group": "seed",
+      "label": "Attractor selection bounds what a persistence design can resolve",
+      "value": 33,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -185,7 +203,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Deep-roots variables are symplesiomorphies",
-      "value": 49,
+      "value": 56,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -221,7 +239,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Distinguish strong from weak ergodicity breaking",
-      "value": 14,
+      "value": 16,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -302,7 +320,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Ergodicity is indecomposability not randomness",
-      "value": 22,
+      "value": 25,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -347,7 +365,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Galton's problem",
-      "value": 41,
+      "value": 42,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -374,7 +392,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Guard against reverse-teleology",
-      "value": 29,
+      "value": 30,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -617,7 +635,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Non-ergodicity collapses the likelihood ratio on outcomes",
-      "value": 26,
+      "value": 27,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -662,7 +680,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Path dependence literature",
-      "value": 27,
+      "value": 28,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -671,7 +689,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Path dependence requires naming the non-commuting operation",
-      "value": 26,
+      "value": 28,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -689,7 +707,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Persistence samples are conditioned on non-absorption",
-      "value": 30,
+      "value": 35,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -770,7 +788,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Refusals are observations of the filter not inferences from survivors",
-      "value": 60,
+      "value": 62,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -779,7 +797,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Reinforcement selects an attractor the ensemble average never occupies",
-      "value": 24,
+      "value": 27,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -789,6 +807,15 @@
       "group": "seed",
       "label": "Relief ko for a named person is claimed to be unattested outside Japan",
       "value": 16,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "Retrodiction fails on non-invertibility not on induction",
+      "type": "permanent",
+      "group": "seed",
+      "label": "Retrodiction fails on non-invertibility not on induction",
+      "value": 24,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -887,7 +914,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Stationarity is a precondition of ergodicity not a corollary",
-      "value": 24,
+      "value": 25,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1031,7 +1058,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The deficit reading of absence is the scalar ranking in evidentiary form",
-      "value": 33,
+      "value": 34,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1328,7 +1355,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The word ergodic carries four incompatible senses",
-      "value": 17,
+      "value": 18,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1418,7 +1445,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Voigtlander and Voth measured the relaxation time and reported a mixture",
-      "value": 23,
+      "value": 26,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1508,7 +1535,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - ERC Synergy Grant",
-      "value": 48,
+      "value": 54,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -1526,7 +1553,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Ergodicity and the time-ensemble distinction",
-      "value": 80,
+      "value": 86,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -1535,7 +1562,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - HistorEE",
-      "value": 252,
+      "value": 258,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -1544,7 +1571,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Historiography and method",
-      "value": 136,
+      "value": 142,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -1562,7 +1589,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Path dependence and sequence",
-      "value": 25,
+      "value": 27,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -1580,7 +1607,7 @@
       "type": "reference",
       "group": "reference",
       "label": "tags",
-      "value": 9,
+      "value": 10,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1914,6 +1941,66 @@
       "to": "MOC - Historiography and method"
     },
     {
+      "from": "A significant persistence coefficient is evidence against its own licensing condition",
+      "to": "A persistence parameter stable across regime change indicts the measure"
+    },
+    {
+      "from": "A significant persistence coefficient is evidence against its own licensing condition",
+      "to": "Attractor selection bounds what a persistence design can resolve"
+    },
+    {
+      "from": "A significant persistence coefficient is evidence against its own licensing condition",
+      "to": "Deep-roots variables are symplesiomorphies"
+    },
+    {
+      "from": "A significant persistence coefficient is evidence against its own licensing condition",
+      "to": "Distinguish strong from weak ergodicity breaking"
+    },
+    {
+      "from": "A significant persistence coefficient is evidence against its own licensing condition",
+      "to": "Ergodicity is indecomposability not randomness"
+    },
+    {
+      "from": "A significant persistence coefficient is evidence against its own licensing condition",
+      "to": "MOC - ERC Synergy Grant"
+    },
+    {
+      "from": "A significant persistence coefficient is evidence against its own licensing condition",
+      "to": "MOC - Ergodicity and the time-ensemble distinction"
+    },
+    {
+      "from": "A significant persistence coefficient is evidence against its own licensing condition",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "A significant persistence coefficient is evidence against its own licensing condition",
+      "to": "MOC - Historiography and method"
+    },
+    {
+      "from": "A significant persistence coefficient is evidence against its own licensing condition",
+      "to": "Non-ergodicity collapses the likelihood ratio on outcomes"
+    },
+    {
+      "from": "A significant persistence coefficient is evidence against its own licensing condition",
+      "to": "Persistence samples are conditioned on non-absorption"
+    },
+    {
+      "from": "A significant persistence coefficient is evidence against its own licensing condition",
+      "to": "Retrodiction fails on non-invertibility not on induction"
+    },
+    {
+      "from": "A significant persistence coefficient is evidence against its own licensing condition",
+      "to": "Stationarity is a precondition of ergodicity not a corollary"
+    },
+    {
+      "from": "A significant persistence coefficient is evidence against its own licensing condition",
+      "to": "The word ergodic carries four incompatible senses"
+    },
+    {
+      "from": "A significant persistence coefficient is evidence against its own licensing condition",
+      "to": "Voigtlander and Voth measured the relaxation time and reported a mixture"
+    },
+    {
       "from": "Absorbing barrier",
       "to": "An absorbing barrier breaks ergodicity by construction"
     },
@@ -2108,6 +2195,66 @@
     {
       "from": "Arthur's lock-in and capital lock-in are different objects",
       "to": "Transferable claims reconcile lock-in with member exit"
+    },
+    {
+      "from": "Attractor selection bounds what a persistence design can resolve",
+      "to": "A significant persistence coefficient is evidence against its own licensing condition"
+    },
+    {
+      "from": "Attractor selection bounds what a persistence design can resolve",
+      "to": "Absorption is a path-dependence mechanism distinct from reinforcement"
+    },
+    {
+      "from": "Attractor selection bounds what a persistence design can resolve",
+      "to": "Arthur's lock-in and capital lock-in are different objects"
+    },
+    {
+      "from": "Attractor selection bounds what a persistence design can resolve",
+      "to": "Deep-roots variables are symplesiomorphies"
+    },
+    {
+      "from": "Attractor selection bounds what a persistence design can resolve",
+      "to": "MOC - ERC Synergy Grant"
+    },
+    {
+      "from": "Attractor selection bounds what a persistence design can resolve",
+      "to": "MOC - Ergodicity and the time-ensemble distinction"
+    },
+    {
+      "from": "Attractor selection bounds what a persistence design can resolve",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Attractor selection bounds what a persistence design can resolve",
+      "to": "MOC - Historiography and method"
+    },
+    {
+      "from": "Attractor selection bounds what a persistence design can resolve",
+      "to": "MOC - Path dependence and sequence"
+    },
+    {
+      "from": "Attractor selection bounds what a persistence design can resolve",
+      "to": "Path dependence literature"
+    },
+    {
+      "from": "Attractor selection bounds what a persistence design can resolve",
+      "to": "Path dependence requires naming the non-commuting operation"
+    },
+    {
+      "from": "Attractor selection bounds what a persistence design can resolve",
+      "to": "Persistence samples are conditioned on non-absorption"
+    },
+    {
+      "from": "Attractor selection bounds what a persistence design can resolve",
+      "to": "Reinforcement selects an attractor the ensemble average never occupies"
+    },
+    {
+      "from": "Attractor selection bounds what a persistence design can resolve",
+      "to": "Retrodiction fails on non-invertibility not on induction"
+    },
+    {
+      "from": "Attractor selection bounds what a persistence design can resolve",
+      "to": "Voigtlander and Voth measured the relaxation time and reported a mixture"
     },
     {
       "from": "Borrow the diagnostics not the tree",
@@ -3887,7 +4034,15 @@
     },
     {
       "from": "MOC - ERC Synergy Grant",
+      "to": "A significant persistence coefficient is evidence against its own licensing condition"
+    },
+    {
+      "from": "MOC - ERC Synergy Grant",
       "to": "An absorbing barrier breaks ergodicity by construction"
+    },
+    {
+      "from": "MOC - ERC Synergy Grant",
+      "to": "Attractor selection bounds what a persistence design can resolve"
     },
     {
       "from": "MOC - ERC Synergy Grant",
@@ -3916,6 +4071,10 @@
     {
       "from": "MOC - ERC Synergy Grant",
       "to": "Persistence samples are conditioned on non-absorption"
+    },
+    {
+      "from": "MOC - ERC Synergy Grant",
+      "to": "Retrodiction fails on non-invertibility not on induction"
     },
     {
       "from": "MOC - ERC Synergy Grant",
@@ -4115,6 +4274,10 @@
     },
     {
       "from": "MOC - Ergodicity and the time-ensemble distinction",
+      "to": "A significant persistence coefficient is evidence against its own licensing condition"
+    },
+    {
+      "from": "MOC - Ergodicity and the time-ensemble distinction",
       "to": "Absorbing barrier"
     },
     {
@@ -4124,6 +4287,10 @@
     {
       "from": "MOC - Ergodicity and the time-ensemble distinction",
       "to": "An absorbing barrier breaks ergodicity by construction"
+    },
+    {
+      "from": "MOC - Ergodicity and the time-ensemble distinction",
+      "to": "Attractor selection bounds what a persistence design can resolve"
     },
     {
       "from": "MOC - Ergodicity and the time-ensemble distinction",
@@ -4207,6 +4374,10 @@
     },
     {
       "from": "MOC - Ergodicity and the time-ensemble distinction",
+      "to": "Retrodiction fails on non-invertibility not on induction"
+    },
+    {
+      "from": "MOC - Ergodicity and the time-ensemble distinction",
       "to": "Route Kolmogorov to ergodic theory not the theory of means"
     },
     {
@@ -4255,6 +4426,10 @@
     },
     {
       "from": "MOC - HistorEE",
+      "to": "A significant persistence coefficient is evidence against its own licensing condition"
+    },
+    {
+      "from": "MOC - HistorEE",
       "to": "Absorbing barrier"
     },
     {
@@ -4264,6 +4439,10 @@
     {
       "from": "MOC - HistorEE",
       "to": "Arthur's lock-in and capital lock-in are different objects"
+    },
+    {
+      "from": "MOC - HistorEE",
+      "to": "Attractor selection bounds what a persistence design can resolve"
     },
     {
       "from": "MOC - HistorEE",
@@ -4416,6 +4595,10 @@
     {
       "from": "MOC - HistorEE",
       "to": "Reinforcement selects an attractor the ensemble average never occupies"
+    },
+    {
+      "from": "MOC - HistorEE",
+      "to": "Retrodiction fails on non-invertibility not on induction"
     },
     {
       "from": "MOC - HistorEE",
@@ -4603,7 +4786,15 @@
     },
     {
       "from": "MOC - Historiography and method",
+      "to": "A significant persistence coefficient is evidence against its own licensing condition"
+    },
+    {
+      "from": "MOC - Historiography and method",
       "to": "Amsterdam notaries drafted ship-pledged and goods-pledged bodemerij as one instrument"
+    },
+    {
+      "from": "MOC - Historiography and method",
+      "to": "Attractor selection bounds what a persistence design can resolve"
     },
     {
       "from": "MOC - Historiography and method",
@@ -4716,6 +4907,10 @@
     {
       "from": "MOC - Historiography and method",
       "to": "Relief ko for a named person is claimed to be unattested outside Japan"
+    },
+    {
+      "from": "MOC - Historiography and method",
+      "to": "Retrodiction fails on non-invertibility not on induction"
     },
     {
       "from": "MOC - Historiography and method",
@@ -4908,6 +5103,10 @@
     {
       "from": "MOC - Path dependence and sequence",
       "to": "Arthur's lock-in and capital lock-in are different objects"
+    },
+    {
+      "from": "MOC - Path dependence and sequence",
+      "to": "Attractor selection bounds what a persistence design can resolve"
     },
     {
       "from": "MOC - Path dependence and sequence",
@@ -6072,6 +6271,54 @@
     {
       "from": "Relief ko for a named person is claimed to be unattested outside Japan",
       "to": "loss_mitigation_forms"
+    },
+    {
+      "from": "Retrodiction fails on non-invertibility not on induction",
+      "to": "A significant persistence coefficient is evidence against its own licensing condition"
+    },
+    {
+      "from": "Retrodiction fails on non-invertibility not on induction",
+      "to": "Attractor selection bounds what a persistence design can resolve"
+    },
+    {
+      "from": "Retrodiction fails on non-invertibility not on induction",
+      "to": "Deep-roots variables are symplesiomorphies"
+    },
+    {
+      "from": "Retrodiction fails on non-invertibility not on induction",
+      "to": "Galton's problem"
+    },
+    {
+      "from": "Retrodiction fails on non-invertibility not on induction",
+      "to": "Guard against reverse-teleology"
+    },
+    {
+      "from": "Retrodiction fails on non-invertibility not on induction",
+      "to": "MOC - ERC Synergy Grant"
+    },
+    {
+      "from": "Retrodiction fails on non-invertibility not on induction",
+      "to": "MOC - Ergodicity and the time-ensemble distinction"
+    },
+    {
+      "from": "Retrodiction fails on non-invertibility not on induction",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Retrodiction fails on non-invertibility not on induction",
+      "to": "MOC - Historiography and method"
+    },
+    {
+      "from": "Retrodiction fails on non-invertibility not on induction",
+      "to": "Persistence samples are conditioned on non-absorption"
+    },
+    {
+      "from": "Retrodiction fails on non-invertibility not on induction",
+      "to": "Refusals are observations of the filter not inferences from survivors"
+    },
+    {
+      "from": "Retrodiction fails on non-invertibility not on induction",
+      "to": "The deficit reading of absence is the scalar ranking in evidentiary form"
     },
     {
       "from": "Ribbit mandates exposure rather than forbidding gain",
@@ -8724,6 +8971,10 @@
     {
       "from": "tags",
       "to": "Path dependence requires naming the non-commuting operation"
+    },
+    {
+      "from": "tags",
+      "to": "Retrodiction fails on non-invertibility not on induction"
     },
     {
       "from": "tags",

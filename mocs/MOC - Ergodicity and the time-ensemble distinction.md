@@ -48,6 +48,9 @@ Written for WP3, to the standard a mathematically literate referee would apply.
 - [[Multiplicative amplification is indifferent to what it amplifies]]
 - [[Persistence samples are conditioned on non-absorption]]
 - [[A persistence parameter stable across regime change indicts the measure]]
+- [[A significant persistence coefficient is evidence against its own licensing condition]]
+- [[Attractor selection bounds what a persistence design can resolve]]
+- [[Retrodiction fails on non-invertibility not on induction]]
 
 ## Links
 

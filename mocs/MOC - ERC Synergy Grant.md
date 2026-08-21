@@ -35,6 +35,12 @@ The Part 2 WP1 session's *ideas* are written as atomic notes (below) and kept un
 - [[Voigtlander and Voth measured the relaxation time and reported a mixture]] — the case, with the framing that survives contact with the authors' own Table X
 - [[The three Kelly critiques establish different nulls]] — the null WP3 must beat, and a live citation hazard in how the Voigtländer–Voth check is usually reported
 
+## Notes (WP3 retrodiction)
+
+- [[Retrodiction fails on non-invertibility not on induction]] — the structural form of the objection, and the Popper it actually rests on
+- [[Attractor selection bounds what a persistence design can resolve]] — what a two-date design can and cannot resolve
+- [[A significant persistence coefficient is evidence against its own licensing condition]] — the squeeze, and the constraint it puts on the pre-committed case
+
 ## Leads
 
 - [[The isqa's bifurcation belongs to the Sasanian substrate question]] — the rabbinic route as the least-cost place to run the *Leitfehler* test the *qirāḍ* genealogy turns on, and a stronger approach to Macuch than the Islamic leg alone.

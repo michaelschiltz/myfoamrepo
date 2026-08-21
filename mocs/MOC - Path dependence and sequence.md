@@ -27,6 +27,7 @@ The cluster is built around one negative result and three mechanisms that escape
 
 - [[Path dependence requires naming the non-commuting operation]]
 - [[Arthur's lock-in and capital lock-in are different objects]]
+- [[Attractor selection bounds what a persistence design can resolve]]
 
 ## The project's claim
 

@@ -122,6 +122,12 @@ Project hub for the book. Atomic notes hang off both this project MOC and a them
 - [[Unilateral and bilateral commenda collapse on profit and separate on loss]]
 - [[A migrated institution collects local names not local forms]]
 
+## Notes — Ice-cube retrodiction session
+
+- [[Retrodiction fails on non-invertibility not on induction]]
+- [[Attractor selection bounds what a persistence design can resolve]]
+- [[A significant persistence coefficient is evidence against its own licensing condition]]
+
 ## Concept anchors
 
 - [[Absorbing barrier]]

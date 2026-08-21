@@ -91,3 +91,9 @@ Where the sources for the European companies are and are not machine-readable is
 - [[Bottomry and respondentia are one institution named twice in English]]
 - [[Amsterdam notaries drafted ship-pledged and goods-pledged bodemerij as one instrument]]
 - [[A shared compilation never licenses an inference to shared practice]]
+
+## Added 2026-08-21 — the ice cube and retrodiction
+
+- [[Retrodiction fails on non-invertibility not on induction]] — why the backward inference is not Hume's problem, and survives granting it
+- [[Attractor selection bounds what a persistence design can resolve]] — the retrodictive corollary of the multi-attractor case
+- [[A significant persistence coefficient is evidence against its own licensing condition]] — the squeeze, stated as an inequality between relaxation time and horizon
