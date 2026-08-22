@@ -32,7 +32,7 @@
       "type": "permanent",
       "group": "superseded",
       "label": "A perfectly correlated peril leaves only the time average",
-      "value": 16,
+      "value": 18,
       "color": "#1b9e77",
       "shape": "dot"
     },
@@ -86,7 +86,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Absorbing barrier",
-      "value": 53,
+      "value": 54,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -325,6 +325,15 @@
       "shape": "dot"
     },
     {
+      "id": "Extending a pool along kin proximity buys N without buying decorrelation",
+      "type": "permanent",
+      "group": "seed",
+      "label": "Extending a pool along kin proximity buys N without buying decorrelation",
+      "value": 15,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
       "id": "Fat tails do not require fat-tailed inputs",
       "type": "permanent",
       "group": "seed",
@@ -347,7 +356,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Forms are not independent observations when a village runs a portfolio",
-      "value": 19,
+      "value": 21,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -725,7 +734,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Pooling's sign is set by the correlation of its baskets",
-      "value": 37,
+      "value": 40,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -896,7 +905,7 @@
       "type": "permanent",
       "group": "stub",
       "label": "Skin in the game",
-      "value": 25,
+      "value": 26,
       "color": "#666666",
       "shape": "dot"
     },
@@ -932,7 +941,7 @@
       "type": "source",
       "group": "source",
       "label": "Stoic loci on cooperation - only two argue from interdependence",
-      "value": 8,
+      "value": 9,
       "color": "#7570b3",
       "shape": "dot"
     },
@@ -959,7 +968,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The Fugger diversified activity while concentrating the barrier",
-      "value": 16,
+      "value": 18,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1580,7 +1589,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - HistorEE",
-      "value": 261,
+      "value": 262,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -1616,7 +1625,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Risk-sharing vs risk-pricing",
-      "value": 107,
+      "value": 108,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -2981,6 +2990,42 @@
     {
       "from": "Ergodicity is indecomposability not randomness",
       "to": "Time-average"
+    },
+    {
+      "from": "Extending a pool along kin proximity buys N without buying decorrelation",
+      "to": "A perfectly correlated peril leaves only the time average"
+    },
+    {
+      "from": "Extending a pool along kin proximity buys N without buying decorrelation",
+      "to": "Absorbing barrier"
+    },
+    {
+      "from": "Extending a pool along kin proximity buys N without buying decorrelation",
+      "to": "Forms are not independent observations when a village runs a portfolio"
+    },
+    {
+      "from": "Extending a pool along kin proximity buys N without buying decorrelation",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Extending a pool along kin proximity buys N without buying decorrelation",
+      "to": "MOC - Risk-sharing vs risk-pricing"
+    },
+    {
+      "from": "Extending a pool along kin proximity buys N without buying decorrelation",
+      "to": "Pooling's sign is set by the correlation of its baskets"
+    },
+    {
+      "from": "Extending a pool along kin proximity buys N without buying decorrelation",
+      "to": "Skin in the game"
+    },
+    {
+      "from": "Extending a pool along kin proximity buys N without buying decorrelation",
+      "to": "Stoic loci on cooperation - only two argue from interdependence"
+    },
+    {
+      "from": "Extending a pool along kin proximity buys N without buying decorrelation",
+      "to": "The Fugger diversified activity while concentrating the barrier"
     },
     {
       "from": "Fat tails do not require fat-tailed inputs",

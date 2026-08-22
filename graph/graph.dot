@@ -37,6 +37,7 @@ digraph vault {
   "Entity shielding and owner shielding protect different trajectories" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Entity-shielding" [fillcolor="#666666", fontcolor=white, shape=ellipse];
   "Ergodicity is indecomposability not randomness" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
+  "Extending a pool along kin proximity buys N without buying decorrelation" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Fat tails do not require fat-tailed inputs" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Flows make the dynamic affine and affine maps do not commute" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Forms are not independent observations when a village runs a portfolio" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
@@ -516,6 +517,15 @@ digraph vault {
   "Ergodicity is indecomposability not randomness" -> "Stationarity is a precondition of ergodicity not a corollary";
   "Ergodicity is indecomposability not randomness" -> "The word ergodic carries four incompatible senses";
   "Ergodicity is indecomposability not randomness" -> "Time-average";
+  "Extending a pool along kin proximity buys N without buying decorrelation" -> "A perfectly correlated peril leaves only the time average";
+  "Extending a pool along kin proximity buys N without buying decorrelation" -> "Absorbing barrier";
+  "Extending a pool along kin proximity buys N without buying decorrelation" -> "Forms are not independent observations when a village runs a portfolio";
+  "Extending a pool along kin proximity buys N without buying decorrelation" -> "MOC - HistorEE";
+  "Extending a pool along kin proximity buys N without buying decorrelation" -> "MOC - Risk-sharing vs risk-pricing";
+  "Extending a pool along kin proximity buys N without buying decorrelation" -> "Pooling's sign is set by the correlation of its baskets";
+  "Extending a pool along kin proximity buys N without buying decorrelation" -> "Skin in the game";
+  "Extending a pool along kin proximity buys N without buying decorrelation" -> "Stoic loci on cooperation - only two argue from interdependence";
+  "Extending a pool along kin proximity buys N without buying decorrelation" -> "The Fugger diversified activity while concentrating the barrier";
   "Fat tails do not require fat-tailed inputs" -> "A persistence parameter stable across regime change indicts the measure";
   "Fat tails do not require fat-tailed inputs" -> "Absorbing barrier";
   "Fat tails do not require fat-tailed inputs" -> "An absorbing barrier breaks ergodicity by construction";
