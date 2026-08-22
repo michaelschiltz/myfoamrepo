@@ -47,6 +47,11 @@ The Part 2 WP1 session's *ideas* are written as atomic notes (below) and kept un
 - [[The isqa's bifurcation belongs to the Sasanian substrate question]] — the rabbinic route as the least-cost place to run the *Leitfehler* test the *qirāḍ* genealogy turns on, and a stronger approach to Macuch than the Islamic leg alone.
 - [[The Roman universitas makes the JSC case parallelism not convergence]] — a named, published convergence claim that fails its own cladistic test, with the counter-evidence assembled by its own authors. The strongest available demonstration that the intra-western comparison cannot carry the independence argument, which is the premise of the East Asia / western-cluster design.
 
+## Notes (epigraph and the Stoic loci)
+
+- [[Stoic loci on cooperation - only two argue from interdependence]] — the candidate passages sorted by whether they argue interdependence or mere membership, with the objection a classicist will raise and the case for citing *Meditations* 6.42 alongside the retained 6.54
+- [[Extending a pool along kin proximity buys N without buying decorrelation]] — the constraint the Hierocles passage exposes, and the coding consequence it hands Objective 1
+
 ## Links
 
 - [[MOC - HistorEE]]

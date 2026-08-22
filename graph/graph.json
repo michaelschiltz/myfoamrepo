@@ -329,7 +329,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Extending a pool along kin proximity buys N without buying decorrelation",
-      "value": 15,
+      "value": 17,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -941,7 +941,7 @@
       "type": "source",
       "group": "source",
       "label": "Stoic loci on cooperation - only two argue from interdependence",
-      "value": 9,
+      "value": 11,
       "color": "#7570b3",
       "shape": "dot"
     },
@@ -1562,7 +1562,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - ERC Synergy Grant",
-      "value": 57,
+      "value": 59,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -1625,7 +1625,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Risk-sharing vs risk-pricing",
-      "value": 108,
+      "value": 110,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -4117,6 +4117,10 @@
     },
     {
       "from": "MOC - ERC Synergy Grant",
+      "to": "Extending a pool along kin proximity buys N without buying decorrelation"
+    },
+    {
+      "from": "MOC - ERC Synergy Grant",
       "to": "Jensen supplies the gap but only the dynamic privileges the logarithm"
     },
     {
@@ -4150,6 +4154,10 @@
     {
       "from": "MOC - ERC Synergy Grant",
       "to": "Stationarity is a precondition of ergodicity not a corollary"
+    },
+    {
+      "from": "MOC - ERC Synergy Grant",
+      "to": "Stoic loci on cooperation - only two argue from interdependence"
     },
     {
       "from": "MOC - ERC Synergy Grant",
@@ -5269,6 +5277,10 @@
     },
     {
       "from": "MOC - Risk-sharing vs risk-pricing",
+      "to": "Extending a pool along kin proximity buys N without buying decorrelation"
+    },
+    {
+      "from": "MOC - Risk-sharing vs risk-pricing",
       "to": "Forms are not independent observations when a village runs a portfolio"
     },
     {
@@ -5342,6 +5354,10 @@
     {
       "from": "MOC - Risk-sharing vs risk-pricing",
       "to": "Skin in the game is asymmetric in the mudaraba"
+    },
+    {
+      "from": "MOC - Risk-sharing vs risk-pricing",
+      "to": "Stoic loci on cooperation - only two argue from interdependence"
     },
     {
       "from": "MOC - Risk-sharing vs risk-pricing",

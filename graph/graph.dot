@@ -798,6 +798,7 @@ digraph vault {
   "MOC - ERC Synergy Grant" -> "An absorbing barrier breaks ergodicity by construction";
   "MOC - ERC Synergy Grant" -> "Attractor selection bounds what a persistence design can resolve";
   "MOC - ERC Synergy Grant" -> "Distinguish strong from weak ergodicity breaking";
+  "MOC - ERC Synergy Grant" -> "Extending a pool along kin proximity buys N without buying decorrelation";
   "MOC - ERC Synergy Grant" -> "Jensen supplies the gap but only the dynamic privileges the logarithm";
   "MOC - ERC Synergy Grant" -> "MOC - HistorEE";
   "MOC - ERC Synergy Grant" -> "MOC - Historiography and method";
@@ -807,6 +808,7 @@ digraph vault {
   "MOC - ERC Synergy Grant" -> "Retrodiction fails on non-invertibility not on induction";
   "MOC - ERC Synergy Grant" -> "Sort the persistence objections by what they cost the referee";
   "MOC - ERC Synergy Grant" -> "Stationarity is a precondition of ergodicity not a corollary";
+  "MOC - ERC Synergy Grant" -> "Stoic loci on cooperation - only two argue from interdependence";
   "MOC - ERC Synergy Grant" -> "The Roman universitas makes the JSC case parallelism not convergence";
   "MOC - ERC Synergy Grant" -> "The determinate-contingent typology carries the richness";
   "MOC - ERC Synergy Grant" -> "The isqa's bifurcation belongs to the Sasanian substrate question";
@@ -1086,6 +1088,7 @@ digraph vault {
   "MOC - Risk-sharing vs risk-pricing" -> "Decoupling substitutes proxy legibility for outcome legibility";
   "MOC - Risk-sharing vs risk-pricing" -> "Deviation rather than shipwreck is what bodemerij litigation is about";
   "MOC - Risk-sharing vs risk-pricing" -> "Endogenised absorption has a sign";
+  "MOC - Risk-sharing vs risk-pricing" -> "Extending a pool along kin proximity buys N without buying decorrelation";
   "MOC - Risk-sharing vs risk-pricing" -> "Forms are not independent observations when a village runs a portfolio";
   "MOC - Risk-sharing vs risk-pricing" -> "General average shares decisions where warichi shares hazards";
   "MOC - Risk-sharing vs risk-pricing" -> "Insurance is a split-off from the sea loan not a coordinate mechanism";
@@ -1105,6 +1108,7 @@ digraph vault {
   "MOC - Risk-sharing vs risk-pricing" -> "Ribbit mandates exposure rather than forbidding gain";
   "MOC - Risk-sharing vs risk-pricing" -> "Skin in the game";
   "MOC - Risk-sharing vs risk-pricing" -> "Skin in the game is asymmetric in the mudaraba";
+  "MOC - Risk-sharing vs risk-pricing" -> "Stoic loci on cooperation - only two argue from interdependence";
   "MOC - Risk-sharing vs risk-pricing" -> "The Bodmerei shield was a default rule and Amsterdam contracted out of it";
   "MOC - Risk-sharing vs risk-pricing" -> "The Fugger diversified activity while concentrating the barrier";
   "MOC - Risk-sharing vs risk-pricing" -> "The bidding ko transfers from the liquidity-constrained to the liquid";

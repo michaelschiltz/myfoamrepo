@@ -78,3 +78,8 @@ Thematic hub for the instrument axis: risk-*sharing* forms that keep every party
 - [[Deviation rather than shipwreck is what bodemerij litigation is about]]
 - [[Amsterdam notaries drafted ship-pledged and goods-pledged bodemerij as one instrument]]
 - [[The Bodmerei shield was a default rule and Amsterdam contracted out of it]]
+
+## Added 2026-08-22 — Stoic cooperation loci
+
+- [[Extending a pool along kin proximity buys N without buying decorrelation]] — the moral radius is ordered by proximity and the risk radius by correlation; the two are anti-aligned, and the concentric ordering is close to the worst available one
+- [[Stoic loci on cooperation - only two argue from interdependence]] — the epigraph dossier; the arch of *Ep.* 95.53 and *De off.* 3.21-22 argue mechanism where the rest argue membership
