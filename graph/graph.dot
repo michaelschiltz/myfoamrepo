@@ -104,6 +104,7 @@ digraph vault {
   "Sort the persistence objections by what they cost the referee" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Split provenance into priority and independence" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Stationarity is a precondition of ergodicity not a corollary" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
+  "Stoic loci on cooperation - only two argue from interdependence" [fillcolor="#7570b3", fontcolor=white, shape=ellipse];
   "Terminal wealth is permutation-invariant but survival is not" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "The Bodmerei shield was a default rule and Amsterdam contracted out of it" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "The Fugger diversified activity while concentrating the barrier" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
@@ -1449,6 +1450,12 @@ digraph vault {
   "Stationarity is a precondition of ergodicity not a corollary" -> "Nothing in the ergodic theorem fails in geometric Brownian motion";
   "Stationarity is a precondition of ergodicity not a corollary" -> "Route Kolmogorov to ergodic theory not the theory of means";
   "Stationarity is a precondition of ergodicity not a corollary" -> "The word ergodic carries four incompatible senses";
+  "Stoic loci on cooperation - only two argue from interdependence" -> "MOC - ERC Synergy Grant";
+  "Stoic loci on cooperation - only two argue from interdependence" -> "MOC - HistorEE";
+  "Stoic loci on cooperation - only two argue from interdependence" -> "MOC - Risk-sharing vs risk-pricing";
+  "Stoic loci on cooperation - only two argue from interdependence" -> "Skin in the game";
+  "Stoic loci on cooperation - only two argue from interdependence" -> "The theory predicts recurrence not independent origins";
+  "Stoic loci on cooperation - only two argue from interdependence" -> "Time-average optimization is a survivorship property not an intention";
   "Terminal wealth is permutation-invariant but survival is not" -> "Absorbing barrier";
   "Terminal wealth is permutation-invariant but survival is not" -> "Absorption is a path-dependence mechanism distinct from reinforcement";
   "Terminal wealth is permutation-invariant but survival is not" -> "MOC - Ergodicity and the time-ensemble distinction";

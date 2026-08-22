@@ -896,7 +896,7 @@
       "type": "permanent",
       "group": "stub",
       "label": "Skin in the game",
-      "value": 24,
+      "value": 25,
       "color": "#666666",
       "shape": "dot"
     },
@@ -925,6 +925,15 @@
       "label": "Stationarity is a precondition of ergodicity not a corollary",
       "value": 25,
       "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "Stoic loci on cooperation - only two argue from interdependence",
+      "type": "source",
+      "group": "source",
+      "label": "Stoic loci on cooperation - only two argue from interdependence",
+      "value": 8,
+      "color": "#7570b3",
       "shape": "dot"
     },
     {
@@ -1301,7 +1310,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The theory predicts recurrence not independent origins",
-      "value": 30,
+      "value": 31,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1373,7 +1382,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Time-average optimization is a survivorship property not an intention",
-      "value": 31,
+      "value": 33,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1544,7 +1553,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - ERC Synergy Grant",
-      "value": 56,
+      "value": 57,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -1571,7 +1580,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - HistorEE",
-      "value": 260,
+      "value": 261,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -1607,7 +1616,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Risk-sharing vs risk-pricing",
-      "value": 106,
+      "value": 107,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -6708,6 +6717,30 @@
     {
       "from": "Stationarity is a precondition of ergodicity not a corollary",
       "to": "The word ergodic carries four incompatible senses"
+    },
+    {
+      "from": "Stoic loci on cooperation - only two argue from interdependence",
+      "to": "MOC - ERC Synergy Grant"
+    },
+    {
+      "from": "Stoic loci on cooperation - only two argue from interdependence",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Stoic loci on cooperation - only two argue from interdependence",
+      "to": "MOC - Risk-sharing vs risk-pricing"
+    },
+    {
+      "from": "Stoic loci on cooperation - only two argue from interdependence",
+      "to": "Skin in the game"
+    },
+    {
+      "from": "Stoic loci on cooperation - only two argue from interdependence",
+      "to": "The theory predicts recurrence not independent origins"
+    },
+    {
+      "from": "Stoic loci on cooperation - only two argue from interdependence",
+      "to": "Time-average optimization is a survivorship property not an intention"
     },
     {
       "from": "Terminal wealth is permutation-invariant but survival is not",
