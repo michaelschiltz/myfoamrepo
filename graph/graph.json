@@ -19,6 +19,15 @@
       "shape": "dot"
     },
     {
+      "id": "A contingency clause priced at zero is evidence for a time-average criterion",
+      "type": "permanent",
+      "group": "seed",
+      "label": "A contingency clause priced at zero is evidence for a time-average criterion",
+      "value": 13,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
       "id": "A migrated institution collects local names not local forms",
       "type": "permanent",
       "group": "seed",
@@ -82,11 +91,20 @@
       "shape": "dot"
     },
     {
+      "id": "A single throw of dice cannot be evaluated by its expectation",
+      "type": "permanent",
+      "group": "seed",
+      "label": "A single throw of dice cannot be evaluated by its expectation",
+      "value": 8,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
       "id": "Absorbing barrier",
       "type": "permanent",
       "group": "seed",
       "label": "Absorbing barrier",
-      "value": 54,
+      "value": 55,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -141,6 +159,15 @@
       "group": "seed",
       "label": "Attractor selection bounds what a persistence design can resolve",
       "value": 35,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "Bad luck is what the ensemble average calls the modal trajectory",
+      "type": "permanent",
+      "group": "seed",
+      "label": "Bad luck is what the ensemble average calls the modal trajectory",
+      "value": 9,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -253,6 +280,15 @@
       "shape": "dot"
     },
     {
+      "id": "Drelichman and Voth 2014 on the debts and defaults of Philip II",
+      "type": "source",
+      "group": "source",
+      "label": "Drelichman and Voth 2014 on the debts and defaults of Philip II",
+      "value": 17,
+      "color": "#7570b3",
+      "shape": "dot"
+    },
+    {
       "id": "EIC digital corpus - what is online and on what terms",
       "type": "reference",
       "group": "reference",
@@ -284,7 +320,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Ensemble benchmarking of agents is biased against the honest",
-      "value": 18,
+      "value": 19,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -401,7 +437,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Guard against reverse-teleology",
-      "value": 30,
+      "value": 32,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -419,7 +455,7 @@
       "type": "source",
       "group": "source",
       "label": "Hierro Anibarro 2005 on the asiento de averia and the privileged company",
-      "value": 19,
+      "value": 21,
       "color": "#7570b3",
       "shape": "dot"
     },
@@ -491,7 +527,7 @@
       "type": "permanent",
       "group": "stub",
       "label": "Jensen gap",
-      "value": 27,
+      "value": 28,
       "color": "#666666",
       "shape": "dot"
     },
@@ -644,7 +680,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Non-ergodicity collapses the likelihood ratio on outcomes",
-      "value": 27,
+      "value": 28,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -734,7 +770,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Pooling's sign is set by the correlation of its baskets",
-      "value": 40,
+      "value": 43,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -761,7 +797,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Pricing risk does not remove it",
-      "value": 22,
+      "value": 24,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -797,7 +833,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Refusals are observations of the filter not inferences from survivors",
-      "value": 62,
+      "value": 63,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -905,7 +941,7 @@
       "type": "permanent",
       "group": "stub",
       "label": "Skin in the game",
-      "value": 26,
+      "value": 28,
       "color": "#666666",
       "shape": "dot"
     },
@@ -946,6 +982,15 @@
       "shape": "dot"
     },
     {
+      "id": "Syndication and the misma moneda are pooling not prudence",
+      "type": "permanent",
+      "group": "seed",
+      "label": "Syndication and the misma moneda are pooling not prudence",
+      "value": 12,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
       "id": "Terminal wealth is permutation-invariant but survival is not",
       "type": "permanent",
       "group": "seed",
@@ -968,7 +1013,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The Fugger diversified activity while concentrating the barrier",
-      "value": 18,
+      "value": 19,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1072,6 +1117,15 @@
       "shape": "dot"
     },
     {
+      "id": "The contingent asiento is a missing form in loss_mitigation_forms",
+      "type": "permanent",
+      "group": "seed",
+      "label": "The contingent asiento is a missing form in loss_mitigation_forms",
+      "value": 12,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
       "id": "The corporation is not the omega - the naties are an undisplaced niche",
       "type": "permanent",
       "group": "seed",
@@ -1103,7 +1157,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The determinate-contingent typology carries the richness",
-      "value": 16,
+      "value": 18,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1225,6 +1279,15 @@
       "shape": "dot"
     },
     {
+      "id": "The moratorium held because leaving the pool is not a one-period cost",
+      "type": "permanent",
+      "group": "seed",
+      "label": "The moratorium held because leaving the pool is not a one-period cost",
+      "value": 9,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
       "id": "The morphological matrix is dictated by the shape of the feature space",
       "type": "permanent",
       "group": "seed",
@@ -1301,7 +1364,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The real cut is shielded-and-pooled versus unshielded",
-      "value": 22,
+      "value": 23,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1310,7 +1373,16 @@
       "type": "permanent",
       "group": "seed",
       "label": "The sea loan is a contingent claim not a loan",
-      "value": 18,
+      "value": 21,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "The sustainability criterion assumes the ergodicity it should be testing",
+      "type": "permanent",
+      "group": "seed",
+      "label": "The sustainability criterion assumes the ergodicity it should be testing",
+      "value": 7,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1391,7 +1463,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Time-average optimization is a survivorship property not an intention",
-      "value": 33,
+      "value": 36,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1400,7 +1472,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Time-average",
-      "value": 40,
+      "value": 42,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1580,7 +1652,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Ergodicity and the time-ensemble distinction",
-      "value": 88,
+      "value": 93,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -1589,7 +1661,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - HistorEE",
-      "value": 262,
+      "value": 270,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -1625,7 +1697,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Risk-sharing vs risk-pricing",
-      "value": 110,
+      "value": 115,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -1643,7 +1715,7 @@
       "type": "database",
       "group": "database",
       "label": "loss_mitigation_forms",
-      "value": 35,
+      "value": 38,
       "color": "#a6761d",
       "shape": "database"
     },
@@ -1737,6 +1809,42 @@
     },
     {
       "from": "A concealed premium is evidence about the notary not about the price",
+      "to": "loss_mitigation_forms"
+    },
+    {
+      "from": "A contingency clause priced at zero is evidence for a time-average criterion",
+      "to": "Drelichman and Voth 2014 on the debts and defaults of Philip II"
+    },
+    {
+      "from": "A contingency clause priced at zero is evidence for a time-average criterion",
+      "to": "MOC - Ergodicity and the time-ensemble distinction"
+    },
+    {
+      "from": "A contingency clause priced at zero is evidence for a time-average criterion",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "A contingency clause priced at zero is evidence for a time-average criterion",
+      "to": "MOC - Risk-sharing vs risk-pricing"
+    },
+    {
+      "from": "A contingency clause priced at zero is evidence for a time-average criterion",
+      "to": "Pricing risk does not remove it"
+    },
+    {
+      "from": "A contingency clause priced at zero is evidence for a time-average criterion",
+      "to": "Skin in the game"
+    },
+    {
+      "from": "A contingency clause priced at zero is evidence for a time-average criterion",
+      "to": "The determinate-contingent typology carries the richness"
+    },
+    {
+      "from": "A contingency clause priced at zero is evidence for a time-average criterion",
+      "to": "The sea loan is a contingent claim not a loan"
+    },
+    {
+      "from": "A contingency clause priced at zero is evidence for a time-average criterion",
       "to": "loss_mitigation_forms"
     },
     {
@@ -2028,6 +2136,30 @@
       "to": "Voigtlander and Voth measured the relaxation time and reported a mixture"
     },
     {
+      "from": "A single throw of dice cannot be evaluated by its expectation",
+      "to": "Absorbing barrier"
+    },
+    {
+      "from": "A single throw of dice cannot be evaluated by its expectation",
+      "to": "Drelichman and Voth 2014 on the debts and defaults of Philip II"
+    },
+    {
+      "from": "A single throw of dice cannot be evaluated by its expectation",
+      "to": "Jensen gap"
+    },
+    {
+      "from": "A single throw of dice cannot be evaluated by its expectation",
+      "to": "MOC - Ergodicity and the time-ensemble distinction"
+    },
+    {
+      "from": "A single throw of dice cannot be evaluated by its expectation",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "A single throw of dice cannot be evaluated by its expectation",
+      "to": "Time-average"
+    },
+    {
       "from": "Absorbing barrier",
       "to": "An absorbing barrier breaks ergodicity by construction"
     },
@@ -2282,6 +2414,30 @@
     {
       "from": "Attractor selection bounds what a persistence design can resolve",
       "to": "Voigtlander and Voth measured the relaxation time and reported a mixture"
+    },
+    {
+      "from": "Bad luck is what the ensemble average calls the modal trajectory",
+      "to": "Drelichman and Voth 2014 on the debts and defaults of Philip II"
+    },
+    {
+      "from": "Bad luck is what the ensemble average calls the modal trajectory",
+      "to": "Ensemble benchmarking of agents is biased against the honest"
+    },
+    {
+      "from": "Bad luck is what the ensemble average calls the modal trajectory",
+      "to": "Guard against reverse-teleology"
+    },
+    {
+      "from": "Bad luck is what the ensemble average calls the modal trajectory",
+      "to": "MOC - Ergodicity and the time-ensemble distinction"
+    },
+    {
+      "from": "Bad luck is what the ensemble average calls the modal trajectory",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Bad luck is what the ensemble average calls the modal trajectory",
+      "to": "Time-average optimization is a survivorship property not an intention"
     },
     {
       "from": "Borrow the diagnostics not the tree",
@@ -2726,6 +2882,14 @@
     {
       "from": "Divergent arbitrary particulars are the independence diagnostic",
       "to": "Transmission versus independent recurrence is the load-bearing test"
+    },
+    {
+      "from": "Drelichman and Voth 2014 on the debts and defaults of Philip II",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Drelichman and Voth 2014 on the debts and defaults of Philip II",
+      "to": "MOC - Risk-sharing vs risk-pricing"
     },
     {
       "from": "EIC digital corpus - what is online and on what terms",
@@ -6804,6 +6968,42 @@
       "to": "Time-average optimization is a survivorship property not an intention"
     },
     {
+      "from": "Syndication and the misma moneda are pooling not prudence",
+      "to": "Drelichman and Voth 2014 on the debts and defaults of Philip II"
+    },
+    {
+      "from": "Syndication and the misma moneda are pooling not prudence",
+      "to": "MOC - Ergodicity and the time-ensemble distinction"
+    },
+    {
+      "from": "Syndication and the misma moneda are pooling not prudence",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Syndication and the misma moneda are pooling not prudence",
+      "to": "MOC - Risk-sharing vs risk-pricing"
+    },
+    {
+      "from": "Syndication and the misma moneda are pooling not prudence",
+      "to": "Pooling's sign is set by the correlation of its baskets"
+    },
+    {
+      "from": "Syndication and the misma moneda are pooling not prudence",
+      "to": "Skin in the game"
+    },
+    {
+      "from": "Syndication and the misma moneda are pooling not prudence",
+      "to": "The Fugger diversified activity while concentrating the barrier"
+    },
+    {
+      "from": "Syndication and the misma moneda are pooling not prudence",
+      "to": "The real cut is shielded-and-pooled versus unshielded"
+    },
+    {
+      "from": "Syndication and the misma moneda are pooling not prudence",
+      "to": "loss_mitigation_forms"
+    },
+    {
       "from": "Terminal wealth is permutation-invariant but survival is not",
       "to": "Absorbing barrier"
     },
@@ -7333,6 +7533,38 @@
     },
     {
       "from": "The commenda and the qirad do not separate on loss allocation",
+      "to": "loss_mitigation_forms"
+    },
+    {
+      "from": "The contingent asiento is a missing form in loss_mitigation_forms",
+      "to": "A contingency clause priced at zero is evidence for a time-average criterion"
+    },
+    {
+      "from": "The contingent asiento is a missing form in loss_mitigation_forms",
+      "to": "Drelichman and Voth 2014 on the debts and defaults of Philip II"
+    },
+    {
+      "from": "The contingent asiento is a missing form in loss_mitigation_forms",
+      "to": "Hierro Anibarro 2005 on the asiento de averia and the privileged company"
+    },
+    {
+      "from": "The contingent asiento is a missing form in loss_mitigation_forms",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "The contingent asiento is a missing form in loss_mitigation_forms",
+      "to": "MOC - Risk-sharing vs risk-pricing"
+    },
+    {
+      "from": "The contingent asiento is a missing form in loss_mitigation_forms",
+      "to": "The determinate-contingent typology carries the richness"
+    },
+    {
+      "from": "The contingent asiento is a missing form in loss_mitigation_forms",
+      "to": "The sea loan is a contingent claim not a loan"
+    },
+    {
+      "from": "The contingent asiento is a missing form in loss_mitigation_forms",
       "to": "loss_mitigation_forms"
     },
     {
@@ -7956,6 +8188,30 @@
       "to": "The sea loan is a contingent claim not a loan"
     },
     {
+      "from": "The moratorium held because leaving the pool is not a one-period cost",
+      "to": "Drelichman and Voth 2014 on the debts and defaults of Philip II"
+    },
+    {
+      "from": "The moratorium held because leaving the pool is not a one-period cost",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "The moratorium held because leaving the pool is not a one-period cost",
+      "to": "MOC - Risk-sharing vs risk-pricing"
+    },
+    {
+      "from": "The moratorium held because leaving the pool is not a one-period cost",
+      "to": "Pooling's sign is set by the correlation of its baskets"
+    },
+    {
+      "from": "The moratorium held because leaving the pool is not a one-period cost",
+      "to": "Refusals are observations of the filter not inferences from survivors"
+    },
+    {
+      "from": "The moratorium held because leaving the pool is not a one-period cost",
+      "to": "Time-average optimization is a survivorship property not an intention"
+    },
+    {
       "from": "The morphological matrix is dictated by the shape of the feature space",
       "to": "Identity-wrapper and perpetual-monopoly are distinct shielding facets"
     },
@@ -8218,6 +8474,26 @@
     {
       "from": "The sea loan is a contingent claim not a loan",
       "to": "The qirad envelops the sea loan"
+    },
+    {
+      "from": "The sustainability criterion assumes the ergodicity it should be testing",
+      "to": "Drelichman and Voth 2014 on the debts and defaults of Philip II"
+    },
+    {
+      "from": "The sustainability criterion assumes the ergodicity it should be testing",
+      "to": "MOC - Ergodicity and the time-ensemble distinction"
+    },
+    {
+      "from": "The sustainability criterion assumes the ergodicity it should be testing",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "The sustainability criterion assumes the ergodicity it should be testing",
+      "to": "Non-ergodicity collapses the likelihood ratio on outcomes"
+    },
+    {
+      "from": "The sustainability criterion assumes the ergodicity it should be testing",
+      "to": "Time-average"
     },
     {
       "from": "The theory predicts recurrence not independent origins",
