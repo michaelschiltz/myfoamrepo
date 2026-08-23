@@ -129,6 +129,17 @@ Project hub for the book. Atomic notes hang off both this project MOC and a them
 - [[A significant persistence coefficient is evidence against its own licensing condition]]
 - [[Sort the persistence objections by what they cost the referee]]
 
+## Notes — Borrower from hell session
+
+- [[The sustainability criterion assumes the ergodicity it should be testing]]
+- [[A single throw of dice cannot be evaluated by its expectation]]
+- [[Bad luck is what the ensemble average calls the modal trajectory]]
+- [[A contingency clause priced at zero is evidence for a time-average criterion]]
+- [[Syndication and the misma moneda are pooling not prudence]]
+- [[The moratorium held because leaving the pool is not a one-period cost]]
+- [[The contingent asiento is a missing form in loss_mitigation_forms]]
+- [[Drelichman and Voth 2014 on the debts and defaults of Philip II]]
+
 ## Concept anchors
 
 - [[Absorbing barrier]]

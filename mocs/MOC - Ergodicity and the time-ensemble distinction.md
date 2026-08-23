@@ -52,6 +52,11 @@ Written for WP3, to the standard a mathematically literate referee would apply.
 - [[Attractor selection bounds what a persistence design can resolve]]
 - [[Retrodiction fails on non-invertibility not on induction]]
 - [[Sort the persistence objections by what they cost the referee]]
+- [[The sustainability criterion assumes the ergodicity it should be testing]]
+- [[A single throw of dice cannot be evaluated by its expectation]]
+- [[Bad luck is what the ensemble average calls the modal trajectory]]
+- [[A contingency clause priced at zero is evidence for a time-average criterion]]
+- [[Syndication and the misma moneda are pooling not prudence]]
 
 ## Links
 

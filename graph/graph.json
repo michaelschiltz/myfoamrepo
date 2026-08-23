@@ -23,7 +23,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "A contingency clause priced at zero is evidence for a time-average criterion",
-      "value": 13,
+      "value": 16,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -95,7 +95,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "A single throw of dice cannot be evaluated by its expectation",
-      "value": 8,
+      "value": 10,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -167,7 +167,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Bad luck is what the ensemble average calls the modal trajectory",
-      "value": 9,
+      "value": 11,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -284,7 +284,7 @@
       "type": "source",
       "group": "source",
       "label": "Drelichman and Voth 2014 on the debts and defaults of Philip II",
-      "value": 17,
+      "value": 19,
       "color": "#7570b3",
       "shape": "dot"
     },
@@ -986,7 +986,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Syndication and the misma moneda are pooling not prudence",
-      "value": 12,
+      "value": 15,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1121,7 +1121,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The contingent asiento is a missing form in loss_mitigation_forms",
-      "value": 12,
+      "value": 14,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1283,7 +1283,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The moratorium held because leaving the pool is not a one-period cost",
-      "value": 9,
+      "value": 11,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1382,7 +1382,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The sustainability criterion assumes the ergodicity it should be testing",
-      "value": 7,
+      "value": 9,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1652,7 +1652,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Ergodicity and the time-ensemble distinction",
-      "value": 93,
+      "value": 98,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -1661,7 +1661,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - HistorEE",
-      "value": 270,
+      "value": 278,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -1697,7 +1697,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Risk-sharing vs risk-pricing",
-      "value": 115,
+      "value": 120,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -4513,11 +4513,19 @@
     },
     {
       "from": "MOC - Ergodicity and the time-ensemble distinction",
+      "to": "A contingency clause priced at zero is evidence for a time-average criterion"
+    },
+    {
+      "from": "MOC - Ergodicity and the time-ensemble distinction",
       "to": "A persistence parameter stable across regime change indicts the measure"
     },
     {
       "from": "MOC - Ergodicity and the time-ensemble distinction",
       "to": "A significant persistence coefficient is evidence against its own licensing condition"
+    },
+    {
+      "from": "MOC - Ergodicity and the time-ensemble distinction",
+      "to": "A single throw of dice cannot be evaluated by its expectation"
     },
     {
       "from": "MOC - Ergodicity and the time-ensemble distinction",
@@ -4534,6 +4542,10 @@
     {
       "from": "MOC - Ergodicity and the time-ensemble distinction",
       "to": "Attractor selection bounds what a persistence design can resolve"
+    },
+    {
+      "from": "MOC - Ergodicity and the time-ensemble distinction",
+      "to": "Bad luck is what the ensemble average calls the modal trajectory"
     },
     {
       "from": "MOC - Ergodicity and the time-ensemble distinction",
@@ -4637,6 +4649,10 @@
     },
     {
       "from": "MOC - Ergodicity and the time-ensemble distinction",
+      "to": "Syndication and the misma moneda are pooling not prudence"
+    },
+    {
+      "from": "MOC - Ergodicity and the time-ensemble distinction",
       "to": "Terminal wealth is permutation-invariant but survival is not"
     },
     {
@@ -4653,6 +4669,10 @@
     },
     {
       "from": "MOC - Ergodicity and the time-ensemble distinction",
+      "to": "The sustainability criterion assumes the ergodicity it should be testing"
+    },
+    {
+      "from": "MOC - Ergodicity and the time-ensemble distinction",
       "to": "The word ergodic carries four incompatible senses"
     },
     {
@@ -4665,6 +4685,10 @@
     },
     {
       "from": "MOC - HistorEE",
+      "to": "A contingency clause priced at zero is evidence for a time-average criterion"
+    },
+    {
+      "from": "MOC - HistorEE",
       "to": "A migrated institution collects local names not local forms"
     },
     {
@@ -4674,6 +4698,10 @@
     {
       "from": "MOC - HistorEE",
       "to": "A significant persistence coefficient is evidence against its own licensing condition"
+    },
+    {
+      "from": "MOC - HistorEE",
+      "to": "A single throw of dice cannot be evaluated by its expectation"
     },
     {
       "from": "MOC - HistorEE",
@@ -4693,6 +4721,10 @@
     },
     {
       "from": "MOC - HistorEE",
+      "to": "Bad luck is what the ensemble average calls the modal trajectory"
+    },
+    {
+      "from": "MOC - HistorEE",
       "to": "Count degrees of freedom not cells"
     },
     {
@@ -4702,6 +4734,10 @@
     {
       "from": "MOC - HistorEE",
       "to": "Divergent arbitrary particulars are the independence diagnostic"
+    },
+    {
+      "from": "MOC - HistorEE",
+      "to": "Drelichman and Voth 2014 on the debts and defaults of Philip II"
     },
     {
       "from": "MOC - HistorEE",
@@ -4877,6 +4913,10 @@
     },
     {
       "from": "MOC - HistorEE",
+      "to": "Syndication and the misma moneda are pooling not prudence"
+    },
+    {
+      "from": "MOC - HistorEE",
       "to": "Terminal wealth is permutation-invariant but survival is not"
     },
     {
@@ -4906,6 +4946,10 @@
     {
       "from": "MOC - HistorEE",
       "to": "The commenda and the qirad do not separate on loss allocation"
+    },
+    {
+      "from": "MOC - HistorEE",
+      "to": "The contingent asiento is a missing form in loss_mitigation_forms"
     },
     {
       "from": "MOC - HistorEE",
@@ -4949,6 +4993,10 @@
     },
     {
       "from": "MOC - HistorEE",
+      "to": "The moratorium held because leaving the pool is not a one-period cost"
+    },
+    {
+      "from": "MOC - HistorEE",
       "to": "The naties are a six-century Lindy institution"
     },
     {
@@ -4970,6 +5018,10 @@
     {
       "from": "MOC - HistorEE",
       "to": "The sea loan is a contingent claim not a loan"
+    },
+    {
+      "from": "MOC - HistorEE",
+      "to": "The sustainability criterion assumes the ergodicity it should be testing"
     },
     {
       "from": "MOC - HistorEE",
@@ -5409,6 +5461,10 @@
     },
     {
       "from": "MOC - Risk-sharing vs risk-pricing",
+      "to": "A contingency clause priced at zero is evidence for a time-average criterion"
+    },
+    {
+      "from": "MOC - Risk-sharing vs risk-pricing",
       "to": "A route clause conditions the investor's peril in three traditions"
     },
     {
@@ -5434,6 +5490,10 @@
     {
       "from": "MOC - Risk-sharing vs risk-pricing",
       "to": "Deviation rather than shipwreck is what bodemerij litigation is about"
+    },
+    {
+      "from": "MOC - Risk-sharing vs risk-pricing",
+      "to": "Drelichman and Voth 2014 on the debts and defaults of Philip II"
     },
     {
       "from": "MOC - Risk-sharing vs risk-pricing",
@@ -5525,6 +5585,10 @@
     },
     {
       "from": "MOC - Risk-sharing vs risk-pricing",
+      "to": "Syndication and the misma moneda are pooling not prudence"
+    },
+    {
+      "from": "MOC - Risk-sharing vs risk-pricing",
       "to": "The Bodmerei shield was a default rule and Amsterdam contracted out of it"
     },
     {
@@ -5538,6 +5602,10 @@
     {
       "from": "MOC - Risk-sharing vs risk-pricing",
       "to": "The commenda and the qirad do not separate on loss allocation"
+    },
+    {
+      "from": "MOC - Risk-sharing vs risk-pricing",
+      "to": "The contingent asiento is a missing form in loss_mitigation_forms"
     },
     {
       "from": "MOC - Risk-sharing vs risk-pricing",
@@ -5558,6 +5626,10 @@
     {
       "from": "MOC - Risk-sharing vs risk-pricing",
       "to": "The liability principle was demoted from rule to maxim"
+    },
+    {
+      "from": "MOC - Risk-sharing vs risk-pricing",
+      "to": "The moratorium held because leaving the pool is not a one-period cost"
     },
     {
       "from": "MOC - Risk-sharing vs risk-pricing",
