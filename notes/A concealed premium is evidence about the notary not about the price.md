@@ -76,6 +76,15 @@ makes the filter datable.
 
 ## Source
 
-Zeno (1936) introduction, LXXXVI–LXXXVIII. De Roover, *The contract according to the Genoese
-notarial records of the twelfth and thirteenth centuries*, Explorations in Economic History 6 (1969)
+Zeno (1936) introduction, LXXXVI–LXXXVIII. De Roover, "The contract according to the Genoese
+notarial records of the twelfth and thirteenth centuries", *Explorations in Economic History* 6 (1969)
 15–33, at 15. Schuster (2005) 211 and n. 18–19.
+
+[Refusals are observations of the filter not inferences from survivors]: <Refusals are observations of the filter not inferences from survivors.md> "Refusals are observations of the filter not inferences from survivors"
+[Naviganti delayed the priced premium it is credited with dating]: <Naviganti delayed the priced premium it is credited with dating.md> "Naviganti delayed the priced premium it is credited with dating"
+[Naviganti - Latin Christendom rejected the sea loan too]: <Naviganti - Latin Christendom rejected the sea loan too.md> "Naviganti - Latin Christendom rejected the sea loan too"
+[Pricing is orthogonal to mitigation mechanism not a stage of it]: <Pricing is orthogonal to mitigation mechanism not a stage of it.md> "Pricing is orthogonal to mitigation mechanism not a stage of it"
+[Insurance is a split-off from the sea loan not a coordinate mechanism]: <Insurance is a split-off from the sea loan not a coordinate mechanism.md> "Insurance is a split-off from the sea loan not a coordinate mechanism"
+[The deficit reading of absence is the scalar ranking in evidentiary form]: <The deficit reading of absence is the scalar ranking in evidentiary form.md> "The deficit reading of absence is the scalar ranking in evidentiary form"
+[MOC - Risk-sharing vs risk-pricing]: <../mocs/MOC - Risk-sharing vs risk-pricing.md> "MOC - Risk-sharing vs risk-pricing"
+[MOC - HistorEE]: <../mocs/MOC - HistorEE.md> "MOC - HistorEE"
