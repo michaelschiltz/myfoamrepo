@@ -68,7 +68,16 @@
       "type": "permanent",
       "group": "seed",
       "label": "A scheme for extending the cooperative pooling census",
-      "value": 19,
+      "value": 21,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "A scheme for extending the entity census",
+      "type": "permanent",
+      "group": "seed",
+      "label": "A scheme for extending the entity census",
+      "value": 23,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -212,7 +221,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Count degrees of freedom not cells",
-      "value": 36,
+      "value": 38,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -347,7 +356,7 @@
       "type": "permanent",
       "group": "stub",
       "label": "Entity-shielding",
-      "value": 47,
+      "value": 48,
       "color": "#666666",
       "shape": "dot"
     },
@@ -446,7 +455,7 @@
       "type": "source",
       "group": "source",
       "label": "Harris 2020 on the late plurality of limited liability",
-      "value": 25,
+      "value": 26,
       "color": "#7570b3",
       "shape": "dot"
     },
@@ -473,7 +482,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Identity-wrapper and perpetual-monopoly are distinct shielding facets",
-      "value": 15,
+      "value": 16,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -509,7 +518,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Isqa qirad and commenda are a liability-variable triad",
-      "value": 28,
+      "value": 29,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -635,7 +644,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Natie and kabu-nakama are a convergence pair",
-      "value": 23,
+      "value": 24,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -662,7 +671,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Naviganti delayed the priced premium it is credited with dating",
-      "value": 23,
+      "value": 24,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -743,7 +752,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Perpetuity splits into adaptation and petrification",
-      "value": 19,
+      "value": 20,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1040,7 +1049,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The Roman universitas makes the JSC case parallelism not convergence",
-      "value": 28,
+      "value": 30,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1292,7 +1301,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The morphological matrix is dictated by the shape of the feature space",
-      "value": 33,
+      "value": 35,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1364,7 +1373,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The real cut is shielded-and-pooled versus unshielded",
-      "value": 23,
+      "value": 24,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1481,7 +1490,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Transferable claims reconcile lock-in with member exit",
-      "value": 22,
+      "value": 23,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1643,7 +1652,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Entity-shielding and corporate forms",
-      "value": 87,
+      "value": 89,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -1661,7 +1670,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - HistorEE",
-      "value": 278,
+      "value": 279,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -1670,7 +1679,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Historiography and method",
-      "value": 144,
+      "value": 145,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -1724,7 +1733,7 @@
       "type": "database",
       "group": "database",
       "label": "organizational_forms",
-      "value": 13,
+      "value": 14,
       "color": "#a6761d",
       "shape": "database"
     },
@@ -2065,6 +2074,74 @@
     },
     {
       "from": "A scheme for extending the cooperative pooling census",
+      "to": "organizational_forms"
+    },
+    {
+      "from": "A scheme for extending the entity census",
+      "to": "A scheme for extending the cooperative pooling census"
+    },
+    {
+      "from": "A scheme for extending the entity census",
+      "to": "Count degrees of freedom not cells"
+    },
+    {
+      "from": "A scheme for extending the entity census",
+      "to": "Entity-shielding"
+    },
+    {
+      "from": "A scheme for extending the entity census",
+      "to": "Harris 2020 on the late plurality of limited liability"
+    },
+    {
+      "from": "A scheme for extending the entity census",
+      "to": "Identity-wrapper and perpetual-monopoly are distinct shielding facets"
+    },
+    {
+      "from": "A scheme for extending the entity census",
+      "to": "Isqa qirad and commenda are a liability-variable triad"
+    },
+    {
+      "from": "A scheme for extending the entity census",
+      "to": "MOC - Entity-shielding and corporate forms"
+    },
+    {
+      "from": "A scheme for extending the entity census",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "A scheme for extending the entity census",
+      "to": "MOC - Historiography and method"
+    },
+    {
+      "from": "A scheme for extending the entity census",
+      "to": "Natie and kabu-nakama are a convergence pair"
+    },
+    {
+      "from": "A scheme for extending the entity census",
+      "to": "Naviganti delayed the priced premium it is credited with dating"
+    },
+    {
+      "from": "A scheme for extending the entity census",
+      "to": "Perpetuity splits into adaptation and petrification"
+    },
+    {
+      "from": "A scheme for extending the entity census",
+      "to": "The Roman universitas makes the JSC case parallelism not convergence"
+    },
+    {
+      "from": "A scheme for extending the entity census",
+      "to": "The morphological matrix is dictated by the shape of the feature space"
+    },
+    {
+      "from": "A scheme for extending the entity census",
+      "to": "The real cut is shielded-and-pooled versus unshielded"
+    },
+    {
+      "from": "A scheme for extending the entity census",
+      "to": "Transferable claims reconcile lock-in with member exit"
+    },
+    {
+      "from": "A scheme for extending the entity census",
       "to": "organizational_forms"
     },
     {
@@ -4358,6 +4435,10 @@
     {
       "from": "MOC - ERC Synergy Grant",
       "to": "Voigtlander and Voth measured the relaxation time and reported a mixture"
+    },
+    {
+      "from": "MOC - Entity-shielding and corporate forms",
+      "to": "A scheme for extending the entity census"
     },
     {
       "from": "MOC - Entity-shielding and corporate forms",

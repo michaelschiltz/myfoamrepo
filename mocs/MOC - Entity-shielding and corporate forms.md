@@ -46,6 +46,7 @@ Thematic hub for the corporate-form apparatus: asset-partitioning, identity-wrap
 - [[Van Dam's Beschryvinge - the VOC described by its own advocaat]]
 - [[Arthur's lock-in and capital lock-in are different objects]]
 - [[Absorption is a path-dependence mechanism distinct from reinforcement]]
+- [[A scheme for extending the entity census]]
 
 ## Links
 
