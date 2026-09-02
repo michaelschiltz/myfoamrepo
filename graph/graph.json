@@ -104,7 +104,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "A single throw of dice cannot be evaluated by its expectation",
-      "value": 14,
+      "value": 16,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -122,7 +122,16 @@
       "type": "permanent",
       "group": "seed",
       "label": "Absorption is a path-dependence mechanism distinct from reinforcement",
-      "value": 32,
+      "value": 34,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "Absorption without ergodicity economics is just ruin theory",
+      "type": "permanent",
+      "group": "seed",
+      "label": "Absorption without ergodicity economics is just ruin theory",
+      "value": 36,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -140,7 +149,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "An absorbing barrier breaks ergodicity by construction",
-      "value": 49,
+      "value": 52,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -194,7 +203,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Bad luck is what the ensemble average calls the modal trajectory",
-      "value": 16,
+      "value": 18,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -329,7 +338,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Do not claim history-dependence as the novelty",
-      "value": 34,
+      "value": 36,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -356,7 +365,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "EE cannot rank across dynamics and the comparative project must not need it to",
-      "value": 31,
+      "value": 32,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -419,7 +428,7 @@
       "type": "permanent",
       "group": "stub",
       "label": "Entity-shielding",
-      "value": 50,
+      "value": 49,
       "color": "#666666",
       "shape": "dot"
     },
@@ -428,7 +437,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Ergodicity breaking and order-dependence are independent axes",
-      "value": 28,
+      "value": 32,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -473,7 +482,7 @@
       "type": "source",
       "group": "source",
       "label": "Ford and Kay 2023 on growth-optimal decision making",
-      "value": 33,
+      "value": 34,
       "color": "#7570b3",
       "shape": "dot"
     },
@@ -509,7 +518,16 @@
       "type": "permanent",
       "group": "seed",
       "label": "Galton's problem",
-      "value": 42,
+      "value": 44,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "Galton-Watson is the extinction branch Peters named and did not develop",
+      "type": "permanent",
+      "group": "seed",
+      "label": "Galton-Watson is the extinction branch Peters named and did not develop",
+      "value": 33,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -788,7 +806,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Nothing in the ergodic theorem fails in geometric Brownian motion",
-      "value": 42,
+      "value": 41,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -851,7 +869,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Persistence samples are conditioned on non-absorption",
-      "value": 37,
+      "value": 40,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -932,7 +950,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Refusals are observations of the filter not inferences from survivors",
-      "value": 65,
+      "value": 69,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -959,7 +977,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Restate the cost puzzle as a question about a trajectory",
-      "value": 27,
+      "value": 29,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1103,7 +1121,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Terminal wealth is permutation-invariant but survival is not",
-      "value": 33,
+      "value": 32,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1166,7 +1184,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The Wakker counterexample refutes expected log utility too",
-      "value": 29,
+      "value": 28,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1247,7 +1265,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The corporation is not the omega - the naties are an undisplaced niche",
-      "value": 30,
+      "value": 32,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1301,7 +1319,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The ensemble average is the local descriptor of a barrier-shielded agent",
-      "value": 23,
+      "value": 22,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1346,7 +1364,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The growth-rate criterion is asymptotic and the horizon comparison cuts both ways",
-      "value": 33,
+      "value": 34,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1364,7 +1382,7 @@
       "type": "permanent",
       "group": "stub",
       "label": "The ie as entity-shielding",
-      "value": 18,
+      "value": 20,
       "color": "#666666",
       "shape": "dot"
     },
@@ -1401,6 +1419,15 @@
       "group": "seed",
       "label": "The liability principle was demoted from rule to maxim",
       "value": 12,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "The market selection literature is the project's nearest formal neighbour",
+      "type": "permanent",
+      "group": "seed",
+      "label": "The market selection literature is the project's nearest formal neighbour",
+      "value": 29,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1472,7 +1499,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The published critique never engages absorption",
-      "value": 44,
+      "value": 47,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1526,7 +1553,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The selective claim is falsifiable where the prescriptive claim is not",
-      "value": 36,
+      "value": 37,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1544,7 +1571,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The sustainability criterion assumes the ergodicity it should be testing",
-      "value": 12,
+      "value": 14,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1571,7 +1598,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The three published critiques do not agree with each other",
-      "value": 24,
+      "value": 25,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1643,7 +1670,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Time-average optimization is a survivorship property not an intention",
-      "value": 45,
+      "value": 50,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1661,7 +1688,7 @@
       "type": "source",
       "group": "source",
       "label": "Toda 2023 on ergodicity economics as pseudoscience",
-      "value": 40,
+      "value": 41,
       "color": "#7570b3",
       "shape": "dot"
     },
@@ -1787,7 +1814,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Whiggish history of finance names the ascent narrative",
-      "value": 15,
+      "value": 17,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1832,7 +1859,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Defending the ergodicity claim",
-      "value": 86,
+      "value": 91,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -1859,7 +1886,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Entity-shielding and corporate forms",
-      "value": 92,
+      "value": 93,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -1868,7 +1895,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Ergodicity and the time-ensemble distinction",
-      "value": 146,
+      "value": 152,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -1877,7 +1904,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - HistorEE",
-      "value": 325,
+      "value": 331,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -1886,7 +1913,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Historiography and method",
-      "value": 162,
+      "value": 164,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -2526,6 +2553,70 @@
     {
       "from": "Absorption is a path-dependence mechanism distinct from reinforcement",
       "to": "The ensemble average is the local descriptor of a barrier-shielded agent"
+    },
+    {
+      "from": "Absorption without ergodicity economics is just ruin theory",
+      "to": "A single throw of dice cannot be evaluated by its expectation"
+    },
+    {
+      "from": "Absorption without ergodicity economics is just ruin theory",
+      "to": "Absorption is a path-dependence mechanism distinct from reinforcement"
+    },
+    {
+      "from": "Absorption without ergodicity economics is just ruin theory",
+      "to": "An absorbing barrier breaks ergodicity by construction"
+    },
+    {
+      "from": "Absorption without ergodicity economics is just ruin theory",
+      "to": "Bad luck is what the ensemble average calls the modal trajectory"
+    },
+    {
+      "from": "Absorption without ergodicity economics is just ruin theory",
+      "to": "Do not claim history-dependence as the novelty"
+    },
+    {
+      "from": "Absorption without ergodicity economics is just ruin theory",
+      "to": "Ergodicity breaking and order-dependence are independent axes"
+    },
+    {
+      "from": "Absorption without ergodicity economics is just ruin theory",
+      "to": "Galton-Watson is the extinction branch Peters named and did not develop"
+    },
+    {
+      "from": "Absorption without ergodicity economics is just ruin theory",
+      "to": "MOC - Defending the ergodicity claim"
+    },
+    {
+      "from": "Absorption without ergodicity economics is just ruin theory",
+      "to": "MOC - Ergodicity and the time-ensemble distinction"
+    },
+    {
+      "from": "Absorption without ergodicity economics is just ruin theory",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Absorption without ergodicity economics is just ruin theory",
+      "to": "MOC - Historiography and method"
+    },
+    {
+      "from": "Absorption without ergodicity economics is just ruin theory",
+      "to": "Persistence samples are conditioned on non-absorption"
+    },
+    {
+      "from": "Absorption without ergodicity economics is just ruin theory",
+      "to": "The market selection literature is the project's nearest formal neighbour"
+    },
+    {
+      "from": "Absorption without ergodicity economics is just ruin theory",
+      "to": "The published critique never engages absorption"
+    },
+    {
+      "from": "Absorption without ergodicity economics is just ruin theory",
+      "to": "The sustainability criterion assumes the ergodicity it should be testing"
+    },
+    {
+      "from": "Absorption without ergodicity economics is just ruin theory",
+      "to": "Time-average optimization is a survivorship property not an intention"
     },
     {
       "from": "Amsterdam notaries drafted ship-pledged and goods-pledged bodemerij as one instrument",
@@ -4192,6 +4283,74 @@
       "to": "Transmission versus independent recurrence is the load-bearing test"
     },
     {
+      "from": "Galton-Watson is the extinction branch Peters named and did not develop",
+      "to": "Absorption is a path-dependence mechanism distinct from reinforcement"
+    },
+    {
+      "from": "Galton-Watson is the extinction branch Peters named and did not develop",
+      "to": "Absorption without ergodicity economics is just ruin theory"
+    },
+    {
+      "from": "Galton-Watson is the extinction branch Peters named and did not develop",
+      "to": "An absorbing barrier breaks ergodicity by construction"
+    },
+    {
+      "from": "Galton-Watson is the extinction branch Peters named and did not develop",
+      "to": "Ergodicity breaking and order-dependence are independent axes"
+    },
+    {
+      "from": "Galton-Watson is the extinction branch Peters named and did not develop",
+      "to": "Galton's problem"
+    },
+    {
+      "from": "Galton-Watson is the extinction branch Peters named and did not develop",
+      "to": "MOC - Defending the ergodicity claim"
+    },
+    {
+      "from": "Galton-Watson is the extinction branch Peters named and did not develop",
+      "to": "MOC - Entity-shielding and corporate forms"
+    },
+    {
+      "from": "Galton-Watson is the extinction branch Peters named and did not develop",
+      "to": "MOC - Ergodicity and the time-ensemble distinction"
+    },
+    {
+      "from": "Galton-Watson is the extinction branch Peters named and did not develop",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Galton-Watson is the extinction branch Peters named and did not develop",
+      "to": "Nothing in the ergodic theorem fails in geometric Brownian motion"
+    },
+    {
+      "from": "Galton-Watson is the extinction branch Peters named and did not develop",
+      "to": "Refusals are observations of the filter not inferences from survivors"
+    },
+    {
+      "from": "Galton-Watson is the extinction branch Peters named and did not develop",
+      "to": "The growth-rate criterion is asymptotic and the horizon comparison cuts both ways"
+    },
+    {
+      "from": "Galton-Watson is the extinction branch Peters named and did not develop",
+      "to": "The ie as entity-shielding"
+    },
+    {
+      "from": "Galton-Watson is the extinction branch Peters named and did not develop",
+      "to": "The market selection literature is the project's nearest formal neighbour"
+    },
+    {
+      "from": "Galton-Watson is the extinction branch Peters named and did not develop",
+      "to": "The published critique never engages absorption"
+    },
+    {
+      "from": "Galton-Watson is the extinction branch Peters named and did not develop",
+      "to": "The three published critiques do not agree with each other"
+    },
+    {
+      "from": "Galton-Watson is the extinction branch Peters named and did not develop",
+      "to": "Time-average optimization is a survivorship property not an intention"
+    },
+    {
       "from": "General average shares decisions where warichi shares hazards",
       "to": "MOC - HistorEE"
     },
@@ -5029,6 +5188,10 @@
     },
     {
       "from": "MOC - Defending the ergodicity claim",
+      "to": "Absorption without ergodicity economics is just ruin theory"
+    },
+    {
+      "from": "MOC - Defending the ergodicity claim",
       "to": "An absorbing barrier breaks ergodicity by construction"
     },
     {
@@ -5078,6 +5241,10 @@
     {
       "from": "MOC - Defending the ergodicity claim",
       "to": "Ford and Kay concede the condition under which their objection lapses"
+    },
+    {
+      "from": "MOC - Defending the ergodicity claim",
+      "to": "Galton-Watson is the extinction branch Peters named and did not develop"
     },
     {
       "from": "MOC - Defending the ergodicity claim",
@@ -5134,6 +5301,10 @@
     {
       "from": "MOC - Defending the ergodicity claim",
       "to": "The growth-rate criterion is asymptotic and the horizon comparison cuts both ways"
+    },
+    {
+      "from": "MOC - Defending the ergodicity claim",
+      "to": "The market selection literature is the project's nearest formal neighbour"
     },
     {
       "from": "MOC - Defending the ergodicity claim",
@@ -5501,6 +5672,10 @@
     },
     {
       "from": "MOC - Ergodicity and the time-ensemble distinction",
+      "to": "Absorption without ergodicity economics is just ruin theory"
+    },
+    {
+      "from": "MOC - Ergodicity and the time-ensemble distinction",
       "to": "An absorbing barrier breaks ergodicity by construction"
     },
     {
@@ -5574,6 +5749,10 @@
     {
       "from": "MOC - Ergodicity and the time-ensemble distinction",
       "to": "Ford and Kay concede the condition under which their objection lapses"
+    },
+    {
+      "from": "MOC - Ergodicity and the time-ensemble distinction",
+      "to": "Galton-Watson is the extinction branch Peters named and did not develop"
     },
     {
       "from": "MOC - Ergodicity and the time-ensemble distinction",
@@ -5685,6 +5864,10 @@
     },
     {
       "from": "MOC - Ergodicity and the time-ensemble distinction",
+      "to": "The market selection literature is the project's nearest formal neighbour"
+    },
+    {
+      "from": "MOC - Ergodicity and the time-ensemble distinction",
       "to": "The published critique never engages absorption"
     },
     {
@@ -5766,6 +5949,10 @@
     {
       "from": "MOC - HistorEE",
       "to": "Absorption is a path-dependence mechanism distinct from reinforcement"
+    },
+    {
+      "from": "MOC - HistorEE",
+      "to": "Absorption without ergodicity economics is just ruin theory"
     },
     {
       "from": "MOC - HistorEE",
@@ -5858,6 +6045,10 @@
     {
       "from": "MOC - HistorEE",
       "to": "Galton's problem"
+    },
+    {
+      "from": "MOC - HistorEE",
+      "to": "Galton-Watson is the extinction branch Peters named and did not develop"
     },
     {
       "from": "MOC - HistorEE",
@@ -6102,6 +6293,10 @@
     {
       "from": "MOC - HistorEE",
       "to": "The isqa's bifurcation belongs to the Sasanian substrate question"
+    },
+    {
+      "from": "MOC - HistorEE",
+      "to": "The market selection literature is the project's nearest formal neighbour"
     },
     {
       "from": "MOC - HistorEE",
@@ -9608,6 +9803,62 @@
       "to": "The sea loan is a contingent claim not a loan"
     },
     {
+      "from": "The market selection literature is the project's nearest formal neighbour",
+      "to": "Absorption without ergodicity economics is just ruin theory"
+    },
+    {
+      "from": "The market selection literature is the project's nearest formal neighbour",
+      "to": "An absorbing barrier breaks ergodicity by construction"
+    },
+    {
+      "from": "The market selection literature is the project's nearest formal neighbour",
+      "to": "Galton-Watson is the extinction branch Peters named and did not develop"
+    },
+    {
+      "from": "The market selection literature is the project's nearest formal neighbour",
+      "to": "MOC - Defending the ergodicity claim"
+    },
+    {
+      "from": "The market selection literature is the project's nearest formal neighbour",
+      "to": "MOC - Ergodicity and the time-ensemble distinction"
+    },
+    {
+      "from": "The market selection literature is the project's nearest formal neighbour",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "The market selection literature is the project's nearest formal neighbour",
+      "to": "MOC - Historiography and method"
+    },
+    {
+      "from": "The market selection literature is the project's nearest formal neighbour",
+      "to": "Persistence samples are conditioned on non-absorption"
+    },
+    {
+      "from": "The market selection literature is the project's nearest formal neighbour",
+      "to": "Refusals are observations of the filter not inferences from survivors"
+    },
+    {
+      "from": "The market selection literature is the project's nearest formal neighbour",
+      "to": "Restate the cost puzzle as a question about a trajectory"
+    },
+    {
+      "from": "The market selection literature is the project's nearest formal neighbour",
+      "to": "The corporation is not the omega - the naties are an undisplaced niche"
+    },
+    {
+      "from": "The market selection literature is the project's nearest formal neighbour",
+      "to": "The published critique never engages absorption"
+    },
+    {
+      "from": "The market selection literature is the project's nearest formal neighbour",
+      "to": "Time-average optimization is a survivorship property not an intention"
+    },
+    {
+      "from": "The market selection literature is the project's nearest formal neighbour",
+      "to": "Whiggish history of finance names the ascent narrative"
+    },
+    {
       "from": "The moratorium held because leaving the pool is not a one-period cost",
       "to": "Drelichman and Voth 2014 on the debts and defaults of Philip II"
     },
@@ -9793,6 +10044,10 @@
     },
     {
       "from": "The published critique never engages absorption",
+      "to": "Absorption without ergodicity economics is just ruin theory"
+    },
+    {
+      "from": "The published critique never engages absorption",
       "to": "An absorbing barrier breaks ergodicity by construction"
     },
     {
@@ -9813,6 +10068,10 @@
     },
     {
       "from": "The published critique never engages absorption",
+      "to": "Galton-Watson is the extinction branch Peters named and did not develop"
+    },
+    {
+      "from": "The published critique never engages absorption",
       "to": "Jensen supplies the gap but only the dynamic privileges the logarithm"
     },
     {
@@ -9830,14 +10089,6 @@
     {
       "from": "The published critique never engages absorption",
       "to": "MOC - HistorEE"
-    },
-    {
-      "from": "The published critique never engages absorption",
-      "to": "Nothing in the ergodic theorem fails in geometric Brownian motion"
-    },
-    {
-      "from": "The published critique never engages absorption",
-      "to": "Terminal wealth is permutation-invariant but survival is not"
     },
     {
       "from": "The published critique never engages absorption",

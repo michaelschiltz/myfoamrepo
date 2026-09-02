@@ -45,6 +45,14 @@ Not "economics ignores time" — that loses in one move. These locate the disagr
 - [[Restate the cost puzzle as a question about a trajectory]] — the operative move on the "why X despite its cost" class
 - [[Cooperation is an averaging puzzle and sovereign repayment is a barrier puzzle]] — the showcase cases are dissolved by different mechanisms and make different evidential demands
 
+## The objection nobody has published
+
+Sharper than any of the three, because it follows from the project's own best move rather than from a misreading of Peters. Answer it in the manuscript; do not wait for a report.
+
+- [[Absorption without ergodicity economics is just ruin theory]] — if the argument runs off ruin, what is the apparatus adding that Feller could not supply in 1950? The answer is conjunctive and must be written as one sentence
+- [[Galton-Watson is the extinction branch Peters named and did not develop]] — the constructive reply: a supercritical branching process has a diverging ensemble mean and a positive extinction probability, with no logarithm and no Jensen gap anywhere. The cleanest proof that the ruin limb is independent of the variance limb
+- [[The market selection literature is the project's nearest formal neighbour]] — Blume and Easley in *Econometrica*, unread and un-held. The literature a referee from economics will name
+
 ## Tier 4 — guardrails
 
 What must not be claimed. Each exists because the overreach it forbids is tempting and fatal.

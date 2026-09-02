@@ -175,6 +175,12 @@ Project hub for the book. Atomic notes hang off both this project MOC and a them
 - [[EE cannot rank across dynamics and the comparative project must not need it to]]
 - [[The three published critiques do not agree with each other]]
 
+## Notes — Galton–Watson session
+
+- [[Absorption without ergodicity economics is just ruin theory]]
+- [[Galton-Watson is the extinction branch Peters named and did not develop]]
+- [[The market selection literature is the project's nearest formal neighbour]]
+
 ## Concept anchors
 
 - [[Absorbing barrier]]

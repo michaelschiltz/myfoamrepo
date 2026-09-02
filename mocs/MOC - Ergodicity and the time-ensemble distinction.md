@@ -112,3 +112,9 @@ Hubbed at [[MOC - Defending the ergodicity claim]]; listed here because the sour
 - [[Ford and Kay concede the condition under which their objection lapses]]
 - [[EE cannot rank across dynamics and the comparative project must not need it to]]
 - [[The three published critiques do not agree with each other]]
+
+## Added 2026-09-02 — the ruin limb
+
+- [[Absorption without ergodicity economics is just ruin theory]] — the unpublished objection, and the one to answer in text
+- [[Galton-Watson is the extinction branch Peters named and did not develop]] — extinction as ergodicity breaking without a Jensen gap; Peters names it once, in 1875, and develops the other limb thereafter
+- [[The market selection literature is the project's nearest formal neighbour]] — Blume and Easley; acquire before writing
