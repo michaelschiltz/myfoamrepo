@@ -151,6 +151,23 @@ Project hub for the book. Atomic notes hang off both this project MOC and a them
 - [[Cooperation is an averaging puzzle and sovereign repayment is a barrier puzzle]]
 - [[Do not claim history-dependence as the novelty]]
 
+## Notes — Doctor Wakker and Wang session
+
+- [[Doctor Wakker and Wang 2020 on the ergodicity problem]]
+- [[The published critique never engages absorption]]
+- [[The Wakker counterexample refutes expected log utility too]]
+- [[The growth-rate criterion is asymptotic and the horizon comparison cuts both ways]]
+- [[Defending expected utility by axiomatics forfeits its normative claim]]
+- [[Answering EU's failures with more psychology instantiates the complaint]]
+
+## Notes — Toda session
+
+- [[Toda 2023 on ergodicity economics as pseudoscience]]
+- [[Toda's own example makes EE more falsifiable than expected utility]]
+- [[The unfalsifiability charge is really a scope-and-productivity charge]]
+- [[The selective claim is falsifiable where the prescriptive claim is not]]
+- [[Toda's citation allegations must be checked before we cite Peters]]
+
 ## Concept anchors
 
 - [[Absorbing barrier]]

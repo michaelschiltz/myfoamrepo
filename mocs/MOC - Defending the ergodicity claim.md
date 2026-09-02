@@ -59,7 +59,30 @@ Named here so they are answered in text rather than found by a panel.
 
 - **The which-dynamic problem.** Specifying the dynamic is formally as free as specifying the utility function; the apparatus has relocated the arbitrariness, not removed it. The answer — dynamics are observable, preferences are not — is weaker for historical cases, where the dynamic is inferred from the same evidence the argument then explains. Stated at [[Jensen supplies the gap but only the dynamic privileges the logarithm]] and flagged there as live for WP3.
 - **Strong/weak slippage.** Using "non-ergodic" unqualified claims the rhetorical force of decomposition on evidence that supports only timescale separation. This is exactly where a referee will locate the slippage; see [[Distinguish strong from weak ergodicity breaking]].
-- **The published critiques are unanswered.** Toda, *"Ergodicity Economics" is Pseudoscience* (2023), is in the library as `IRVRS9A4` and **no note in the vault engages it**. For a defensive brief that is the most conspicuous hole in the set, and the title alone guarantees a hostile reader will reach for it. Doctor, Wakker and Wang in *Nature Physics* (2020) with Peters's reply is the second front, flagged at [[Nothing in the ergodic theorem fails in geometric Brownian motion]] as to be answered in text rather than omitted. **Both are open.**
+- **Peters's reply to Doctor, Wakker and Wang is unread.** Paywalled beyond its opening line; nothing in the vault should characterise its argument until the text is obtained. See [[Doctor Wakker and Wang 2020 on the ergodicity problem]].
+- **Three citation allegations against Peters are unchecked**, one of them serious. Until they are, cite him for the framing and never for the intellectual history — [[Toda's citation allegations must be checked before we cite Peters]].
+- **Ford and Kay (2022)**, SSRN `10.2139/ssrn.4140625`, is a third published critique surfaced by Toda's reference list. Not in the library, not read.
+
+## The Toda critique
+
+The second published attack, and the more dangerous, because its charge — unfalsifiability — would implicate any application of the framework if it held.
+
+- [[Toda 2023 on ergodicity economics as pseudoscience]] — the source note, including the six "indicators" item by item and which of them to ignore
+- [[Toda's own example makes EE more falsifiable than expected utility]] — the decisive reply, taken from a parenthesis in his own §IV: EE issues a point prediction, EUT one up to an unobservable free parameter
+- [[The unfalsifiability charge is really a scope-and-productivity charge]] — the title and the argument come apart; the framework he needs is Lakatos, and its obligations go undischarged
+- [[The selective claim is falsifiable where the prescriptive claim is not]] — the constructive half, and the one for the WP3 text
+- [[Toda's citation allegations must be checked before we cite Peters]] — the part that could damage us directly
+
+## The Doctor–Wakker–Wang exchange
+
+The leading published critique, answered here. The source note carries what they argue and what must be conceded; the four replies take one section each.
+
+- [[Doctor Wakker and Wang 2020 on the ergodicity problem]] — the source note. The substance is in the freely available Supplementary Information, not the one-page article; three of their six sections land and are conceded there
+- [[The published critique never engages absorption]] — the structural finding: eleven pages on the variance limb, nothing on ruin, and their own decisive example turns on it
+- [[The Wakker counterexample refutes expected log utility too]] — running the arithmetic out shows the counterexample indicting the theory it was written to defend
+- [[The growth-rate criterion is asymptotic and the horizon comparison cuts both ways]] — the concession, and why the framework is committed to it
+- [[Defending expected utility by axiomatics forfeits its normative claim]] — §§1–2 are correct and self-defeating together
+- [[Answering EU's failures with more psychology instantiates the complaint]] — §5 demonstrates the movement it is offered against
 
 ## Adjacent, not absorbed
 

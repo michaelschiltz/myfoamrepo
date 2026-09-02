@@ -23,7 +23,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "A contingency clause priced at zero is evidence for a time-average criterion",
-      "value": 16,
+      "value": 18,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -95,7 +95,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "A significant persistence coefficient is evidence against its own licensing condition",
-      "value": 32,
+      "value": 34,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -104,7 +104,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "A single throw of dice cannot be evaluated by its expectation",
-      "value": 12,
+      "value": 14,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -122,7 +122,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Absorption is a path-dependence mechanism distinct from reinforcement",
-      "value": 30,
+      "value": 32,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -140,7 +140,16 @@
       "type": "permanent",
       "group": "seed",
       "label": "An absorbing barrier breaks ergodicity by construction",
-      "value": 39,
+      "value": 46,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "Answering EU's failures with more psychology instantiates the complaint",
+      "type": "permanent",
+      "group": "seed",
+      "label": "Answering EU's failures with more psychology instantiates the complaint",
+      "value": 21,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -185,7 +194,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Bad luck is what the ensemble average calls the modal trajectory",
-      "value": 14,
+      "value": 16,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -221,7 +230,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Brown tests equality where a risk reading predicts dispersion",
-      "value": 18,
+      "value": 20,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -262,6 +271,15 @@
       "shape": "dot"
     },
     {
+      "id": "Defending expected utility by axiomatics forfeits its normative claim",
+      "type": "permanent",
+      "group": "seed",
+      "label": "Defending expected utility by axiomatics forfeits its normative claim",
+      "value": 24,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
       "id": "Desktop and portable capture - CZUR and ScanTent",
       "type": "reference",
       "group": "reference",
@@ -293,7 +311,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Distinguish strong from weak ergodicity breaking",
-      "value": 22,
+      "value": 24,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -311,8 +329,17 @@
       "type": "permanent",
       "group": "seed",
       "label": "Do not claim history-dependence as the novelty",
-      "value": 27,
+      "value": 34,
       "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "Doctor Wakker and Wang 2020 on the ergodicity problem",
+      "type": "source",
+      "group": "source",
+      "label": "Doctor Wakker and Wang 2020 on the ergodicity problem",
+      "value": 43,
+      "color": "#7570b3",
       "shape": "dot"
     },
     {
@@ -338,7 +365,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Economics had its ensemble moment in 1738 and psychologized it",
-      "value": 15,
+      "value": 18,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -383,7 +410,7 @@
       "type": "permanent",
       "group": "stub",
       "label": "Entity-shielding",
-      "value": 48,
+      "value": 50,
       "color": "#666666",
       "shape": "dot"
     },
@@ -527,7 +554,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Institutions substitute state-verification for outcome-inference as ruin exposure rises",
-      "value": 19,
+      "value": 21,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -554,7 +581,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Isqa qirad and commenda are a liability-variable triad",
-      "value": 29,
+      "value": 30,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -581,7 +608,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Jensen supplies the gap but only the dynamic privileges the logarithm",
-      "value": 20,
+      "value": 28,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -734,7 +761,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Nothing in the ergodic theorem fails in geometric Brownian motion",
-      "value": 28,
+      "value": 42,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -878,7 +905,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Refusals are observations of the filter not inferences from survivors",
-      "value": 63,
+      "value": 65,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -905,7 +932,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Restate the cost puzzle as a question about a trajectory",
-      "value": 25,
+      "value": 27,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -941,7 +968,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Route Kolmogorov to ergodic theory not the theory of means",
-      "value": 26,
+      "value": 29,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -968,7 +995,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Separate the sociological and the methodological claims about economics",
-      "value": 17,
+      "value": 19,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1004,7 +1031,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Sort the persistence objections by what they cost the referee",
-      "value": 30,
+      "value": 31,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1049,7 +1076,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Terminal wealth is permutation-invariant but survival is not",
-      "value": 30,
+      "value": 32,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1104,6 +1131,15 @@
       "group": "seed",
       "label": "The VOC-EIC digital asymmetry is an access regime not a survival difference",
       "value": 23,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "The Wakker counterexample refutes expected log utility too",
+      "type": "permanent",
+      "group": "seed",
+      "label": "The Wakker counterexample refutes expected log utility too",
+      "value": 29,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1238,7 +1274,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The ensemble average is the local descriptor of a barrier-shielded agent",
-      "value": 21,
+      "value": 23,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1275,6 +1311,15 @@
       "group": "seed",
       "label": "The general-particular boundary is unverifiable and its leakage subsidises sailing",
       "value": 14,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "The growth-rate criterion is asymptotic and the horizon comparison cuts both ways",
+      "type": "permanent",
+      "group": "seed",
+      "label": "The growth-rate criterion is asymptotic and the horizon comparison cuts both ways",
+      "value": 31,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1396,6 +1441,15 @@
       "shape": "dot"
     },
     {
+      "id": "The published critique never engages absorption",
+      "type": "permanent",
+      "group": "seed",
+      "label": "The published critique never engages absorption",
+      "value": 34,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
       "id": "The qirad envelops the sea loan",
       "type": "permanent",
       "group": "seed",
@@ -1427,7 +1481,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The representative agent is the ergodicity assumption in costume",
-      "value": 26,
+      "value": 29,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1441,11 +1495,20 @@
       "shape": "dot"
     },
     {
+      "id": "The selective claim is falsifiable where the prescriptive claim is not",
+      "type": "permanent",
+      "group": "seed",
+      "label": "The selective claim is falsifiable where the prescriptive claim is not",
+      "value": 32,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
       "id": "The split is over whether the explanandum is a state or a trajectory",
       "type": "permanent",
       "group": "seed",
       "label": "The split is over whether the explanandum is a state or a trajectory",
-      "value": 26,
+      "value": 27,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1495,6 +1558,15 @@
       "shape": "dot"
     },
     {
+      "id": "The unfalsifiability charge is really a scope-and-productivity charge",
+      "type": "permanent",
+      "group": "seed",
+      "label": "The unfalsifiability charge is really a scope-and-productivity charge",
+      "value": 24,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
       "id": "The waqf and the nación flamenca diverge only at legal personality",
       "type": "permanent",
       "group": "seed",
@@ -1526,7 +1598,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The word ergodic carries four incompatible senses",
-      "value": 24,
+      "value": 27,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1535,7 +1607,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Time-average optimization is a survivorship property not an intention",
-      "value": 40,
+      "value": 42,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1544,7 +1616,34 @@
       "type": "permanent",
       "group": "seed",
       "label": "Time-average",
-      "value": 42,
+      "value": 43,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "Toda 2023 on ergodicity economics as pseudoscience",
+      "type": "source",
+      "group": "source",
+      "label": "Toda 2023 on ergodicity economics as pseudoscience",
+      "value": 34,
+      "color": "#7570b3",
+      "shape": "dot"
+    },
+    {
+      "id": "Toda's citation allegations must be checked before we cite Peters",
+      "type": "permanent",
+      "group": "stub",
+      "label": "Toda's citation allegations must be checked before we cite Peters",
+      "value": 21,
+      "color": "#666666",
+      "shape": "dot"
+    },
+    {
+      "id": "Toda's own example makes EE more falsifiable than expected utility",
+      "type": "permanent",
+      "group": "seed",
+      "label": "Toda's own example makes EE more falsifiable than expected utility",
+      "value": 21,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1580,7 +1679,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Typology and character coding literature",
-      "value": 22,
+      "value": 24,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1697,7 +1796,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Defending the ergodicity claim",
-      "value": 51,
+      "value": 78,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -1724,7 +1823,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Entity-shielding and corporate forms",
-      "value": 89,
+      "value": 90,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -1733,7 +1832,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Ergodicity and the time-ensemble distinction",
-      "value": 115,
+      "value": 138,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -1742,7 +1841,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - HistorEE",
-      "value": 295,
+      "value": 317,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -1751,7 +1850,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Historiography and method",
-      "value": 156,
+      "value": 160,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -2457,6 +2556,50 @@
       "to": "The real cut is shielded-and-pooled versus unshielded"
     },
     {
+      "from": "Answering EU's failures with more psychology instantiates the complaint",
+      "to": "Defending expected utility by axiomatics forfeits its normative claim"
+    },
+    {
+      "from": "Answering EU's failures with more psychology instantiates the complaint",
+      "to": "Do not claim history-dependence as the novelty"
+    },
+    {
+      "from": "Answering EU's failures with more psychology instantiates the complaint",
+      "to": "Doctor Wakker and Wang 2020 on the ergodicity problem"
+    },
+    {
+      "from": "Answering EU's failures with more psychology instantiates the complaint",
+      "to": "Economics had its ensemble moment in 1738 and psychologized it"
+    },
+    {
+      "from": "Answering EU's failures with more psychology instantiates the complaint",
+      "to": "MOC - Defending the ergodicity claim"
+    },
+    {
+      "from": "Answering EU's failures with more psychology instantiates the complaint",
+      "to": "MOC - Ergodicity and the time-ensemble distinction"
+    },
+    {
+      "from": "Answering EU's failures with more psychology instantiates the complaint",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Answering EU's failures with more psychology instantiates the complaint",
+      "to": "MOC - Historiography and method"
+    },
+    {
+      "from": "Answering EU's failures with more psychology instantiates the complaint",
+      "to": "Route Kolmogorov to ergodic theory not the theory of means"
+    },
+    {
+      "from": "Answering EU's failures with more psychology instantiates the complaint",
+      "to": "Separate the sociological and the methodological claims about economics"
+    },
+    {
+      "from": "Answering EU's failures with more psychology instantiates the complaint",
+      "to": "The representative agent is the ergodicity assumption in costume"
+    },
+    {
       "from": "Antiquarian booksellers - the top tier and where economic history sits",
       "to": "Isqa reading list to acquire"
     },
@@ -3005,6 +3148,46 @@
       "to": "Transmission versus independent recurrence is the load-bearing test"
     },
     {
+      "from": "Defending expected utility by axiomatics forfeits its normative claim",
+      "to": "Doctor Wakker and Wang 2020 on the ergodicity problem"
+    },
+    {
+      "from": "Defending expected utility by axiomatics forfeits its normative claim",
+      "to": "Economics had its ensemble moment in 1738 and psychologized it"
+    },
+    {
+      "from": "Defending expected utility by axiomatics forfeits its normative claim",
+      "to": "Jensen supplies the gap but only the dynamic privileges the logarithm"
+    },
+    {
+      "from": "Defending expected utility by axiomatics forfeits its normative claim",
+      "to": "MOC - Defending the ergodicity claim"
+    },
+    {
+      "from": "Defending expected utility by axiomatics forfeits its normative claim",
+      "to": "MOC - Ergodicity and the time-ensemble distinction"
+    },
+    {
+      "from": "Defending expected utility by axiomatics forfeits its normative claim",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Defending expected utility by axiomatics forfeits its normative claim",
+      "to": "Route Kolmogorov to ergodic theory not the theory of means"
+    },
+    {
+      "from": "Defending expected utility by axiomatics forfeits its normative claim",
+      "to": "The Wakker counterexample refutes expected log utility too"
+    },
+    {
+      "from": "Defending expected utility by axiomatics forfeits its normative claim",
+      "to": "The representative agent is the ergodicity assumption in costume"
+    },
+    {
+      "from": "Defending expected utility by axiomatics forfeits its normative claim",
+      "to": "The split is over whether the explanandum is a state or a trajectory"
+    },
+    {
       "from": "Desktop and portable capture - CZUR and ScanTent",
       "to": "Kuzushiji OCR - the NDL and CODH stack"
     },
@@ -3187,6 +3370,58 @@
     {
       "from": "Do not claim history-dependence as the novelty",
       "to": "The split is over whether the explanandum is a state or a trajectory"
+    },
+    {
+      "from": "Doctor Wakker and Wang 2020 on the ergodicity problem",
+      "to": "Answering EU's failures with more psychology instantiates the complaint"
+    },
+    {
+      "from": "Doctor Wakker and Wang 2020 on the ergodicity problem",
+      "to": "Defending expected utility by axiomatics forfeits its normative claim"
+    },
+    {
+      "from": "Doctor Wakker and Wang 2020 on the ergodicity problem",
+      "to": "Do not claim history-dependence as the novelty"
+    },
+    {
+      "from": "Doctor Wakker and Wang 2020 on the ergodicity problem",
+      "to": "Jensen supplies the gap but only the dynamic privileges the logarithm"
+    },
+    {
+      "from": "Doctor Wakker and Wang 2020 on the ergodicity problem",
+      "to": "MOC - Defending the ergodicity claim"
+    },
+    {
+      "from": "Doctor Wakker and Wang 2020 on the ergodicity problem",
+      "to": "MOC - Ergodicity and the time-ensemble distinction"
+    },
+    {
+      "from": "Doctor Wakker and Wang 2020 on the ergodicity problem",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Doctor Wakker and Wang 2020 on the ergodicity problem",
+      "to": "Nothing in the ergodic theorem fails in geometric Brownian motion"
+    },
+    {
+      "from": "Doctor Wakker and Wang 2020 on the ergodicity problem",
+      "to": "Separate the sociological and the methodological claims about economics"
+    },
+    {
+      "from": "Doctor Wakker and Wang 2020 on the ergodicity problem",
+      "to": "The Wakker counterexample refutes expected log utility too"
+    },
+    {
+      "from": "Doctor Wakker and Wang 2020 on the ergodicity problem",
+      "to": "The growth-rate criterion is asymptotic and the horizon comparison cuts both ways"
+    },
+    {
+      "from": "Doctor Wakker and Wang 2020 on the ergodicity problem",
+      "to": "The published critique never engages absorption"
+    },
+    {
+      "from": "Doctor Wakker and Wang 2020 on the ergodicity problem",
+      "to": "The word ergodic carries four incompatible senses"
     },
     {
       "from": "Drelichman and Voth 2014 on the debts and defaults of Philip II",
@@ -4594,6 +4829,10 @@
     },
     {
       "from": "MOC - Defending the ergodicity claim",
+      "to": "Answering EU's failures with more psychology instantiates the complaint"
+    },
+    {
+      "from": "MOC - Defending the ergodicity claim",
       "to": "Arrow-Debreu dissolves time rather than neglecting it"
     },
     {
@@ -4602,11 +4841,19 @@
     },
     {
       "from": "MOC - Defending the ergodicity claim",
+      "to": "Defending expected utility by axiomatics forfeits its normative claim"
+    },
+    {
+      "from": "MOC - Defending the ergodicity claim",
       "to": "Distinguish strong from weak ergodicity breaking"
     },
     {
       "from": "MOC - Defending the ergodicity claim",
       "to": "Do not claim history-dependence as the novelty"
+    },
+    {
+      "from": "MOC - Defending the ergodicity claim",
+      "to": "Doctor Wakker and Wang 2020 on the ergodicity problem"
     },
     {
       "from": "MOC - Defending the ergodicity claim",
@@ -4666,7 +4913,23 @@
     },
     {
       "from": "MOC - Defending the ergodicity claim",
+      "to": "The Wakker counterexample refutes expected log utility too"
+    },
+    {
+      "from": "MOC - Defending the ergodicity claim",
+      "to": "The growth-rate criterion is asymptotic and the horizon comparison cuts both ways"
+    },
+    {
+      "from": "MOC - Defending the ergodicity claim",
+      "to": "The published critique never engages absorption"
+    },
+    {
+      "from": "MOC - Defending the ergodicity claim",
       "to": "The representative agent is the ergodicity assumption in costume"
+    },
+    {
+      "from": "MOC - Defending the ergodicity claim",
+      "to": "The selective claim is falsifiable where the prescriptive claim is not"
     },
     {
       "from": "MOC - Defending the ergodicity claim",
@@ -4678,11 +4941,27 @@
     },
     {
       "from": "MOC - Defending the ergodicity claim",
+      "to": "The unfalsifiability charge is really a scope-and-productivity charge"
+    },
+    {
+      "from": "MOC - Defending the ergodicity claim",
       "to": "The word ergodic carries four incompatible senses"
     },
     {
       "from": "MOC - Defending the ergodicity claim",
       "to": "Time-average optimization is a survivorship property not an intention"
+    },
+    {
+      "from": "MOC - Defending the ergodicity claim",
+      "to": "Toda 2023 on ergodicity economics as pseudoscience"
+    },
+    {
+      "from": "MOC - Defending the ergodicity claim",
+      "to": "Toda's citation allegations must be checked before we cite Peters"
+    },
+    {
+      "from": "MOC - Defending the ergodicity claim",
+      "to": "Toda's own example makes EE more falsifiable than expected utility"
     },
     {
       "from": "MOC - Digitisation and text recognition",
@@ -5006,6 +5285,10 @@
     },
     {
       "from": "MOC - Ergodicity and the time-ensemble distinction",
+      "to": "Answering EU's failures with more psychology instantiates the complaint"
+    },
+    {
+      "from": "MOC - Ergodicity and the time-ensemble distinction",
       "to": "Arrow-Debreu dissolves time rather than neglecting it"
     },
     {
@@ -5026,11 +5309,19 @@
     },
     {
       "from": "MOC - Ergodicity and the time-ensemble distinction",
+      "to": "Defending expected utility by axiomatics forfeits its normative claim"
+    },
+    {
+      "from": "MOC - Ergodicity and the time-ensemble distinction",
       "to": "Distinguish strong from weak ergodicity breaking"
     },
     {
       "from": "MOC - Ergodicity and the time-ensemble distinction",
       "to": "Do not claim history-dependence as the novelty"
+    },
+    {
+      "from": "MOC - Ergodicity and the time-ensemble distinction",
+      "to": "Doctor Wakker and Wang 2020 on the ergodicity problem"
     },
     {
       "from": "MOC - Ergodicity and the time-ensemble distinction",
@@ -5150,7 +5441,19 @@
     },
     {
       "from": "MOC - Ergodicity and the time-ensemble distinction",
+      "to": "The Wakker counterexample refutes expected log utility too"
+    },
+    {
+      "from": "MOC - Ergodicity and the time-ensemble distinction",
       "to": "The ensemble average is the local descriptor of a barrier-shielded agent"
+    },
+    {
+      "from": "MOC - Ergodicity and the time-ensemble distinction",
+      "to": "The growth-rate criterion is asymptotic and the horizon comparison cuts both ways"
+    },
+    {
+      "from": "MOC - Ergodicity and the time-ensemble distinction",
+      "to": "The published critique never engages absorption"
     },
     {
       "from": "MOC - Ergodicity and the time-ensemble distinction",
@@ -5162,11 +5465,19 @@
     },
     {
       "from": "MOC - Ergodicity and the time-ensemble distinction",
+      "to": "The selective claim is falsifiable where the prescriptive claim is not"
+    },
+    {
+      "from": "MOC - Ergodicity and the time-ensemble distinction",
       "to": "The split is over whether the explanandum is a state or a trajectory"
     },
     {
       "from": "MOC - Ergodicity and the time-ensemble distinction",
       "to": "The sustainability criterion assumes the ergodicity it should be testing"
+    },
+    {
+      "from": "MOC - Ergodicity and the time-ensemble distinction",
+      "to": "The unfalsifiability charge is really a scope-and-productivity charge"
     },
     {
       "from": "MOC - Ergodicity and the time-ensemble distinction",
@@ -5179,6 +5490,18 @@
     {
       "from": "MOC - Ergodicity and the time-ensemble distinction",
       "to": "Time-average optimization is a survivorship property not an intention"
+    },
+    {
+      "from": "MOC - Ergodicity and the time-ensemble distinction",
+      "to": "Toda 2023 on ergodicity economics as pseudoscience"
+    },
+    {
+      "from": "MOC - Ergodicity and the time-ensemble distinction",
+      "to": "Toda's citation allegations must be checked before we cite Peters"
+    },
+    {
+      "from": "MOC - Ergodicity and the time-ensemble distinction",
+      "to": "Toda's own example makes EE more falsifiable than expected utility"
     },
     {
       "from": "MOC - HistorEE",
@@ -5210,6 +5533,10 @@
     },
     {
       "from": "MOC - HistorEE",
+      "to": "Answering EU's failures with more psychology instantiates the complaint"
+    },
+    {
+      "from": "MOC - HistorEE",
       "to": "Arrow-Debreu dissolves time rather than neglecting it"
     },
     {
@@ -5234,6 +5561,10 @@
     },
     {
       "from": "MOC - HistorEE",
+      "to": "Defending expected utility by axiomatics forfeits its normative claim"
+    },
+    {
+      "from": "MOC - HistorEE",
       "to": "Discipline the Whig epithet by pinning it to teleology and survivorship"
     },
     {
@@ -5243,6 +5574,10 @@
     {
       "from": "MOC - HistorEE",
       "to": "Do not claim history-dependence as the novelty"
+    },
+    {
+      "from": "MOC - HistorEE",
+      "to": "Doctor Wakker and Wang 2020 on the ergodicity problem"
     },
     {
       "from": "MOC - HistorEE",
@@ -5446,6 +5781,10 @@
     },
     {
       "from": "MOC - HistorEE",
+      "to": "The Wakker counterexample refutes expected log utility too"
+    },
+    {
+      "from": "MOC - HistorEE",
       "to": "The alleenrecht is monopoly held as tradable property"
     },
     {
@@ -5494,6 +5833,10 @@
     },
     {
       "from": "MOC - HistorEE",
+      "to": "The growth-rate criterion is asymptotic and the horizon comparison cuts both ways"
+    },
+    {
+      "from": "MOC - HistorEE",
       "to": "The heter iska restores the fixed return by evidentiary barrier"
     },
     {
@@ -5526,6 +5869,10 @@
     },
     {
       "from": "MOC - HistorEE",
+      "to": "The published critique never engages absorption"
+    },
+    {
+      "from": "MOC - HistorEE",
       "to": "The qirad envelops the sea loan"
     },
     {
@@ -5546,6 +5893,10 @@
     },
     {
       "from": "MOC - HistorEE",
+      "to": "The selective claim is falsifiable where the prescriptive claim is not"
+    },
+    {
+      "from": "MOC - HistorEE",
       "to": "The split is over whether the explanandum is a state or a trajectory"
     },
     {
@@ -5558,6 +5909,10 @@
     },
     {
       "from": "MOC - HistorEE",
+      "to": "The unfalsifiability charge is really a scope-and-productivity charge"
+    },
+    {
+      "from": "MOC - HistorEE",
       "to": "The western family needs only plausible common descent not proven genealogy"
     },
     {
@@ -5567,6 +5922,18 @@
     {
       "from": "MOC - HistorEE",
       "to": "Time-average optimization is a survivorship property not an intention"
+    },
+    {
+      "from": "MOC - HistorEE",
+      "to": "Toda 2023 on ergodicity economics as pseudoscience"
+    },
+    {
+      "from": "MOC - HistorEE",
+      "to": "Toda's citation allegations must be checked before we cite Peters"
+    },
+    {
+      "from": "MOC - HistorEE",
+      "to": "Toda's own example makes EE more falsifiable than expected utility"
     },
     {
       "from": "MOC - HistorEE",
@@ -6530,6 +6897,10 @@
     },
     {
       "from": "Nothing in the ergodic theorem fails in geometric Brownian motion",
+      "to": "Doctor Wakker and Wang 2020 on the ergodicity problem"
+    },
+    {
+      "from": "Nothing in the ergodic theorem fails in geometric Brownian motion",
       "to": "Jensen gap"
     },
     {
@@ -6551,6 +6922,10 @@
     {
       "from": "Nothing in the ergodic theorem fails in geometric Brownian motion",
       "to": "The ensemble average is the local descriptor of a barrier-shielded agent"
+    },
+    {
+      "from": "Nothing in the ergodic theorem fails in geometric Brownian motion",
+      "to": "The published critique never engages absorption"
     },
     {
       "from": "Nothing in the ergodic theorem fails in geometric Brownian motion",
@@ -7957,6 +8332,50 @@
       "to": "Van Dam's Beschryvinge - the VOC described by its own advocaat"
     },
     {
+      "from": "The Wakker counterexample refutes expected log utility too",
+      "to": "An absorbing barrier breaks ergodicity by construction"
+    },
+    {
+      "from": "The Wakker counterexample refutes expected log utility too",
+      "to": "Defending expected utility by axiomatics forfeits its normative claim"
+    },
+    {
+      "from": "The Wakker counterexample refutes expected log utility too",
+      "to": "Doctor Wakker and Wang 2020 on the ergodicity problem"
+    },
+    {
+      "from": "The Wakker counterexample refutes expected log utility too",
+      "to": "Jensen supplies the gap but only the dynamic privileges the logarithm"
+    },
+    {
+      "from": "The Wakker counterexample refutes expected log utility too",
+      "to": "MOC - Defending the ergodicity claim"
+    },
+    {
+      "from": "The Wakker counterexample refutes expected log utility too",
+      "to": "MOC - Ergodicity and the time-ensemble distinction"
+    },
+    {
+      "from": "The Wakker counterexample refutes expected log utility too",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "The Wakker counterexample refutes expected log utility too",
+      "to": "Nothing in the ergodic theorem fails in geometric Brownian motion"
+    },
+    {
+      "from": "The Wakker counterexample refutes expected log utility too",
+      "to": "Terminal wealth is permutation-invariant but survival is not"
+    },
+    {
+      "from": "The Wakker counterexample refutes expected log utility too",
+      "to": "The growth-rate criterion is asymptotic and the horizon comparison cuts both ways"
+    },
+    {
+      "from": "The Wakker counterexample refutes expected log utility too",
+      "to": "The published critique never engages absorption"
+    },
+    {
       "from": "The alleenrecht is monopoly held as tradable property",
       "to": "Entity-shielding"
     },
@@ -8681,6 +9100,46 @@
       "to": "loss_mitigation_forms"
     },
     {
+      "from": "The growth-rate criterion is asymptotic and the horizon comparison cuts both ways",
+      "to": "A significant persistence coefficient is evidence against its own licensing condition"
+    },
+    {
+      "from": "The growth-rate criterion is asymptotic and the horizon comparison cuts both ways",
+      "to": "A single throw of dice cannot be evaluated by its expectation"
+    },
+    {
+      "from": "The growth-rate criterion is asymptotic and the horizon comparison cuts both ways",
+      "to": "Distinguish strong from weak ergodicity breaking"
+    },
+    {
+      "from": "The growth-rate criterion is asymptotic and the horizon comparison cuts both ways",
+      "to": "Doctor Wakker and Wang 2020 on the ergodicity problem"
+    },
+    {
+      "from": "The growth-rate criterion is asymptotic and the horizon comparison cuts both ways",
+      "to": "MOC - Defending the ergodicity claim"
+    },
+    {
+      "from": "The growth-rate criterion is asymptotic and the horizon comparison cuts both ways",
+      "to": "MOC - Ergodicity and the time-ensemble distinction"
+    },
+    {
+      "from": "The growth-rate criterion is asymptotic and the horizon comparison cuts both ways",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "The growth-rate criterion is asymptotic and the horizon comparison cuts both ways",
+      "to": "Nothing in the ergodic theorem fails in geometric Brownian motion"
+    },
+    {
+      "from": "The growth-rate criterion is asymptotic and the horizon comparison cuts both ways",
+      "to": "The Wakker counterexample refutes expected log utility too"
+    },
+    {
+      "from": "The growth-rate criterion is asymptotic and the horizon comparison cuts both ways",
+      "to": "Time-average"
+    },
+    {
       "from": "The heter iska restores the fixed return by evidentiary barrier",
       "to": "Decoupling substitutes proxy legibility for outcome legibility"
     },
@@ -9077,6 +9536,62 @@
       "to": "Transmission versus independent recurrence is the load-bearing test"
     },
     {
+      "from": "The published critique never engages absorption",
+      "to": "Absorption is a path-dependence mechanism distinct from reinforcement"
+    },
+    {
+      "from": "The published critique never engages absorption",
+      "to": "An absorbing barrier breaks ergodicity by construction"
+    },
+    {
+      "from": "The published critique never engages absorption",
+      "to": "Doctor Wakker and Wang 2020 on the ergodicity problem"
+    },
+    {
+      "from": "The published critique never engages absorption",
+      "to": "Entity-shielding"
+    },
+    {
+      "from": "The published critique never engages absorption",
+      "to": "Jensen supplies the gap but only the dynamic privileges the logarithm"
+    },
+    {
+      "from": "The published critique never engages absorption",
+      "to": "MOC - Defending the ergodicity claim"
+    },
+    {
+      "from": "The published critique never engages absorption",
+      "to": "MOC - Entity-shielding and corporate forms"
+    },
+    {
+      "from": "The published critique never engages absorption",
+      "to": "MOC - Ergodicity and the time-ensemble distinction"
+    },
+    {
+      "from": "The published critique never engages absorption",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "The published critique never engages absorption",
+      "to": "Nothing in the ergodic theorem fails in geometric Brownian motion"
+    },
+    {
+      "from": "The published critique never engages absorption",
+      "to": "Terminal wealth is permutation-invariant but survival is not"
+    },
+    {
+      "from": "The published critique never engages absorption",
+      "to": "The Wakker counterexample refutes expected log utility too"
+    },
+    {
+      "from": "The published critique never engages absorption",
+      "to": "The ensemble average is the local descriptor of a barrier-shielded agent"
+    },
+    {
+      "from": "The published critique never engages absorption",
+      "to": "The growth-rate criterion is asymptotic and the horizon comparison cuts both ways"
+    },
+    {
       "from": "The qirad envelops the sea loan",
       "to": "Islamic doctrine refuses risk-commodification at step one"
     },
@@ -9231,6 +9746,66 @@
     {
       "from": "The sea loan is a contingent claim not a loan",
       "to": "The qirad envelops the sea loan"
+    },
+    {
+      "from": "The selective claim is falsifiable where the prescriptive claim is not",
+      "to": "A contingency clause priced at zero is evidence for a time-average criterion"
+    },
+    {
+      "from": "The selective claim is falsifiable where the prescriptive claim is not",
+      "to": "An absorbing barrier breaks ergodicity by construction"
+    },
+    {
+      "from": "The selective claim is falsifiable where the prescriptive claim is not",
+      "to": "Bad luck is what the ensemble average calls the modal trajectory"
+    },
+    {
+      "from": "The selective claim is falsifiable where the prescriptive claim is not",
+      "to": "Brown tests equality where a risk reading predicts dispersion"
+    },
+    {
+      "from": "The selective claim is falsifiable where the prescriptive claim is not",
+      "to": "Institutions substitute state-verification for outcome-inference as ruin exposure rises"
+    },
+    {
+      "from": "The selective claim is falsifiable where the prescriptive claim is not",
+      "to": "Isqa qirad and commenda are a liability-variable triad"
+    },
+    {
+      "from": "The selective claim is falsifiable where the prescriptive claim is not",
+      "to": "MOC - Defending the ergodicity claim"
+    },
+    {
+      "from": "The selective claim is falsifiable where the prescriptive claim is not",
+      "to": "MOC - Ergodicity and the time-ensemble distinction"
+    },
+    {
+      "from": "The selective claim is falsifiable where the prescriptive claim is not",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "The selective claim is falsifiable where the prescriptive claim is not",
+      "to": "MOC - Historiography and method"
+    },
+    {
+      "from": "The selective claim is falsifiable where the prescriptive claim is not",
+      "to": "Refusals are observations of the filter not inferences from survivors"
+    },
+    {
+      "from": "The selective claim is falsifiable where the prescriptive claim is not",
+      "to": "Restate the cost puzzle as a question about a trajectory"
+    },
+    {
+      "from": "The selective claim is falsifiable where the prescriptive claim is not",
+      "to": "The unfalsifiability charge is really a scope-and-productivity charge"
+    },
+    {
+      "from": "The selective claim is falsifiable where the prescriptive claim is not",
+      "to": "Time-average optimization is a survivorship property not an intention"
+    },
+    {
+      "from": "The selective claim is falsifiable where the prescriptive claim is not",
+      "to": "Toda 2023 on ergodicity economics as pseudoscience"
     },
     {
       "from": "The split is over whether the explanandum is a state or a trajectory",
@@ -9469,6 +10044,50 @@
       "to": "loss_mitigation_forms"
     },
     {
+      "from": "The unfalsifiability charge is really a scope-and-productivity charge",
+      "to": "Do not claim history-dependence as the novelty"
+    },
+    {
+      "from": "The unfalsifiability charge is really a scope-and-productivity charge",
+      "to": "MOC - Defending the ergodicity claim"
+    },
+    {
+      "from": "The unfalsifiability charge is really a scope-and-productivity charge",
+      "to": "MOC - Ergodicity and the time-ensemble distinction"
+    },
+    {
+      "from": "The unfalsifiability charge is really a scope-and-productivity charge",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "The unfalsifiability charge is really a scope-and-productivity charge",
+      "to": "MOC - Historiography and method"
+    },
+    {
+      "from": "The unfalsifiability charge is really a scope-and-productivity charge",
+      "to": "Nothing in the ergodic theorem fails in geometric Brownian motion"
+    },
+    {
+      "from": "The unfalsifiability charge is really a scope-and-productivity charge",
+      "to": "Sort the persistence objections by what they cost the referee"
+    },
+    {
+      "from": "The unfalsifiability charge is really a scope-and-productivity charge",
+      "to": "The growth-rate criterion is asymptotic and the horizon comparison cuts both ways"
+    },
+    {
+      "from": "The unfalsifiability charge is really a scope-and-productivity charge",
+      "to": "The selective claim is falsifiable where the prescriptive claim is not"
+    },
+    {
+      "from": "The unfalsifiability charge is really a scope-and-productivity charge",
+      "to": "Toda 2023 on ergodicity economics as pseudoscience"
+    },
+    {
+      "from": "The unfalsifiability charge is really a scope-and-productivity charge",
+      "to": "Toda's own example makes EE more falsifiable than expected utility"
+    },
+    {
       "from": "The waqf and the nación flamenca diverge only at legal personality",
       "to": "Entity-shielding"
     },
@@ -9683,6 +10302,130 @@
     {
       "from": "Time-average optimization is a survivorship property not an intention",
       "to": "Time-average"
+    },
+    {
+      "from": "Toda 2023 on ergodicity economics as pseudoscience",
+      "to": "Do not claim history-dependence as the novelty"
+    },
+    {
+      "from": "Toda 2023 on ergodicity economics as pseudoscience",
+      "to": "Doctor Wakker and Wang 2020 on the ergodicity problem"
+    },
+    {
+      "from": "Toda 2023 on ergodicity economics as pseudoscience",
+      "to": "MOC - Defending the ergodicity claim"
+    },
+    {
+      "from": "Toda 2023 on ergodicity economics as pseudoscience",
+      "to": "MOC - Ergodicity and the time-ensemble distinction"
+    },
+    {
+      "from": "Toda 2023 on ergodicity economics as pseudoscience",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Toda 2023 on ergodicity economics as pseudoscience",
+      "to": "Nothing in the ergodic theorem fails in geometric Brownian motion"
+    },
+    {
+      "from": "Toda 2023 on ergodicity economics as pseudoscience",
+      "to": "The growth-rate criterion is asymptotic and the horizon comparison cuts both ways"
+    },
+    {
+      "from": "Toda 2023 on ergodicity economics as pseudoscience",
+      "to": "The selective claim is falsifiable where the prescriptive claim is not"
+    },
+    {
+      "from": "Toda 2023 on ergodicity economics as pseudoscience",
+      "to": "The unfalsifiability charge is really a scope-and-productivity charge"
+    },
+    {
+      "from": "Toda 2023 on ergodicity economics as pseudoscience",
+      "to": "The word ergodic carries four incompatible senses"
+    },
+    {
+      "from": "Toda 2023 on ergodicity economics as pseudoscience",
+      "to": "Toda's citation allegations must be checked before we cite Peters"
+    },
+    {
+      "from": "Toda 2023 on ergodicity economics as pseudoscience",
+      "to": "Toda's own example makes EE more falsifiable than expected utility"
+    },
+    {
+      "from": "Toda's citation allegations must be checked before we cite Peters",
+      "to": "Doctor Wakker and Wang 2020 on the ergodicity problem"
+    },
+    {
+      "from": "Toda's citation allegations must be checked before we cite Peters",
+      "to": "MOC - Defending the ergodicity claim"
+    },
+    {
+      "from": "Toda's citation allegations must be checked before we cite Peters",
+      "to": "MOC - Ergodicity and the time-ensemble distinction"
+    },
+    {
+      "from": "Toda's citation allegations must be checked before we cite Peters",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Toda's citation allegations must be checked before we cite Peters",
+      "to": "MOC - Historiography and method"
+    },
+    {
+      "from": "Toda's citation allegations must be checked before we cite Peters",
+      "to": "Nothing in the ergodic theorem fails in geometric Brownian motion"
+    },
+    {
+      "from": "Toda's citation allegations must be checked before we cite Peters",
+      "to": "The growth-rate criterion is asymptotic and the horizon comparison cuts both ways"
+    },
+    {
+      "from": "Toda's citation allegations must be checked before we cite Peters",
+      "to": "Toda 2023 on ergodicity economics as pseudoscience"
+    },
+    {
+      "from": "Toda's citation allegations must be checked before we cite Peters",
+      "to": "Typology and character coding literature"
+    },
+    {
+      "from": "Toda's own example makes EE more falsifiable than expected utility",
+      "to": "Defending expected utility by axiomatics forfeits its normative claim"
+    },
+    {
+      "from": "Toda's own example makes EE more falsifiable than expected utility",
+      "to": "Jensen supplies the gap but only the dynamic privileges the logarithm"
+    },
+    {
+      "from": "Toda's own example makes EE more falsifiable than expected utility",
+      "to": "MOC - Defending the ergodicity claim"
+    },
+    {
+      "from": "Toda's own example makes EE more falsifiable than expected utility",
+      "to": "MOC - Ergodicity and the time-ensemble distinction"
+    },
+    {
+      "from": "Toda's own example makes EE more falsifiable than expected utility",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Toda's own example makes EE more falsifiable than expected utility",
+      "to": "Nothing in the ergodic theorem fails in geometric Brownian motion"
+    },
+    {
+      "from": "Toda's own example makes EE more falsifiable than expected utility",
+      "to": "The Wakker counterexample refutes expected log utility too"
+    },
+    {
+      "from": "Toda's own example makes EE more falsifiable than expected utility",
+      "to": "The selective claim is falsifiable where the prescriptive claim is not"
+    },
+    {
+      "from": "Toda's own example makes EE more falsifiable than expected utility",
+      "to": "The unfalsifiability charge is really a scope-and-productivity charge"
+    },
+    {
+      "from": "Toda's own example makes EE more falsifiable than expected utility",
+      "to": "Toda 2023 on ergodicity economics as pseudoscience"
     },
     {
       "from": "Transferable claims reconcile lock-in with member exit",

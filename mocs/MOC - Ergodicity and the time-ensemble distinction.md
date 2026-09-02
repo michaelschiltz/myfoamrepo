@@ -86,3 +86,22 @@ Reformulations of the difference from the orthodox framing, kept as a set becaus
 - [[Ergodicity breaking and order-dependence are independent axes]] — the two clusters are orthogonal; the Jensen gap is permutation-invariant and deterministic affine composition is order-dependent with no ensemble at all
 - [[Cooperation is an averaging puzzle and sovereign repayment is a barrier puzzle]] — the two showcase puzzles are dissolved by different mechanisms and make different demands on evidence
 - [[Do not claim history-dependence as the novelty]] — the guardrail; only two claims survive contact with hysteresis, multiple equilibria and critical junctures
+
+## Added 2026-09-02 — the Doctor–Wakker–Wang exchange
+
+Hubbed at [[MOC - Defending the ergodicity claim]]; listed here because the source note carries verified bibliographic facts the formal-placement cluster depended on.
+
+- [[Doctor Wakker and Wang 2020 on the ergodicity problem]]
+- [[The published critique never engages absorption]]
+- [[The Wakker counterexample refutes expected log utility too]]
+- [[The growth-rate criterion is asymptotic and the horizon comparison cuts both ways]]
+- [[Defending expected utility by axiomatics forfeits its normative claim]]
+- [[Answering EU's failures with more psychology instantiates the complaint]]
+
+## Added 2026-09-02 — the Toda critique
+
+- [[Toda 2023 on ergodicity economics as pseudoscience]]
+- [[Toda's own example makes EE more falsifiable than expected utility]]
+- [[The unfalsifiability charge is really a scope-and-productivity charge]]
+- [[The selective claim is falsifiable where the prescriptive claim is not]]
+- [[Toda's citation allegations must be checked before we cite Peters]]
