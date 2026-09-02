@@ -27,6 +27,7 @@ Using "non-ergodic" unqualified is therefore exactly where a referee will locate
 - [[Stationarity is a precondition of ergodicity not a corollary]]
 - [[The word ergodic carries four incompatible senses]]
 - [[Absorbing barrier]]
+- [[MOC - Defending the ergodicity claim]]
 - [[MOC - Ergodicity and the time-ensemble distinction]]
 - [[MOC - HistorEE]]
 

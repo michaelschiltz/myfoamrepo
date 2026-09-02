@@ -50,6 +50,11 @@ Thematic hub for the project's methodological guardrails: teleology and its inve
 
 - [[Path dependence requires naming the non-commuting operation]]
 - [[Path dependence literature]]
+- [[The split is over whether the explanandum is a state or a trajectory]]
+- [[Restate the cost puzzle as a question about a trajectory]]
+- [[Arrow-Debreu dissolves time rather than neglecting it]]
+- [[The representative agent is the ergodicity assumption in costume]]
+- [[Do not claim history-dependence as the novelty]]
 - [[Ragusan collegantia is unilateral and Venetian collegantia is bilateral]]
 - [[Which peril gets a clause is set by the tradition's doctrinal problem]]
 - [[Unilateral and bilateral commenda collapse on profit and separate on loss]]
@@ -79,6 +84,7 @@ Where the sources for the European companies are and are not machine-readable is
 - [[MOC - HistorEE]]
 - [[MOC - ERC Synergy Grant]]
 - [[MOC - Path dependence and sequence]]
+- [[MOC - Defending the ergodicity claim]]
 
 
 [MOC - HistorEE]: <MOC - HistorEE.md> "MOC - Clearing and Settling the Realm"

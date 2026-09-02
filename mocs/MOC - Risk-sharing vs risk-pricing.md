@@ -91,3 +91,8 @@ Thematic hub for the instrument axis: risk-*sharing* forms that keep every party
 - [[The moratorium held because leaving the pool is not a one-period cost]] — a payoff against a rate, which does not need off-path retaliation to be credible
 - [[The contingent asiento is a missing form in loss_mitigation_forms]] — the coding consequence, and not to be merged with the *asiento de averia*
 - [[Drelichman and Voth 2014 on the debts and defaults of Philip II]] — source note for the whole batch
+
+## Added 2026-09-02 — static vs dynamic equilibrium
+
+- [[Restate the cost puzzle as a question about a trajectory]] — the schema behind the moratorium and Armada readings, stated as a general move rather than rediscovered per case
+- [[Cooperation is an averaging puzzle and sovereign repayment is a barrier puzzle]] — and the Genoese case is filed under the first without needing the second, which is its strength

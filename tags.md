@@ -15,6 +15,12 @@ Keep tags lowercase, hyphenated, singular. Before coining a new tag, check this 
 
 `ergodicity` · `time-average` · `ensemble-average` · `multiplicative-dynamics` · `absorbing-barrier` · `jensen-inequality` · `convexity` · `diversification` · `synchrony` · `kolmogorov-nagumo` · `expected-utility` · `ergodic-hygiene`
 
+## Orthodoxy / equilibrium
+
+`general-equilibrium` · `representative-agent`
+
+**These label the target of the methodological critique, not the project's own apparatus.** They exist so the defensive notes are findable as a set — the arguments that must be got right before the historical claims can be heard. `general-equilibrium` marks the dated-commodity construction and its order-insensitivity; `representative-agent` marks the device by which the time/ensemble equivalence is installed in models that do iterate. Neither is a concept the project uses to describe historical material, and neither should be tagged onto a note about an institution.
+
 ## Path dependence / sequence
 
 `path-dependence` · `non-commutativity` · `reinforcement` · `attractor-selection`

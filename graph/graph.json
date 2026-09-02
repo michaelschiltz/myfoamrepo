@@ -104,7 +104,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "A single throw of dice cannot be evaluated by its expectation",
-      "value": 10,
+      "value": 12,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -113,7 +113,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Absorbing barrier",
-      "value": 55,
+      "value": 57,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -122,7 +122,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Absorption is a path-dependence mechanism distinct from reinforcement",
-      "value": 27,
+      "value": 30,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -140,7 +140,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "An absorbing barrier breaks ergodicity by construction",
-      "value": 33,
+      "value": 39,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -151,6 +151,15 @@
       "label": "Antiquarian booksellers - the top tier and where economic history sits",
       "value": 9,
       "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "Arrow-Debreu dissolves time rather than neglecting it",
+      "type": "permanent",
+      "group": "seed",
+      "label": "Arrow-Debreu dissolves time rather than neglecting it",
+      "value": 19,
+      "color": "#e6ab02",
       "shape": "dot"
     },
     {
@@ -167,7 +176,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Attractor selection bounds what a persistence design can resolve",
-      "value": 35,
+      "value": 37,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -176,7 +185,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Bad luck is what the ensemble average calls the modal trajectory",
-      "value": 11,
+      "value": 14,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -213,6 +222,15 @@
       "group": "seed",
       "label": "Brown tests equality where a risk reading predicts dispersion",
       "value": 18,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "Cooperation is an averaging puzzle and sovereign repayment is a barrier puzzle",
+      "type": "permanent",
+      "group": "seed",
+      "label": "Cooperation is an averaging puzzle and sovereign repayment is a barrier puzzle",
+      "value": 28,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -275,7 +293,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Distinguish strong from weak ergodicity breaking",
-      "value": 17,
+      "value": 22,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -285,6 +303,15 @@
       "group": "seed",
       "label": "Divergent arbitrary particulars are the independence diagnostic",
       "value": 40,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "Do not claim history-dependence as the novelty",
+      "type": "permanent",
+      "group": "seed",
+      "label": "Do not claim history-dependence as the novelty",
+      "value": 27,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -311,7 +338,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Economics had its ensemble moment in 1738 and psychologized it",
-      "value": 14,
+      "value": 15,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -361,11 +388,20 @@
       "shape": "dot"
     },
     {
+      "id": "Ergodicity breaking and order-dependence are independent axes",
+      "type": "permanent",
+      "group": "seed",
+      "label": "Ergodicity breaking and order-dependence are independent axes",
+      "value": 28,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
       "id": "Ergodicity is indecomposability not randomness",
       "type": "permanent",
       "group": "seed",
       "label": "Ergodicity is indecomposability not randomness",
-      "value": 25,
+      "value": 27,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -392,7 +428,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Flows make the dynamic affine and affine maps do not commute",
-      "value": 19,
+      "value": 23,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -536,7 +572,7 @@
       "type": "permanent",
       "group": "stub",
       "label": "Jensen gap",
-      "value": 28,
+      "value": 32,
       "color": "#666666",
       "shape": "dot"
     },
@@ -545,7 +581,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Jensen supplies the gap but only the dynamic privileges the logarithm",
-      "value": 17,
+      "value": 20,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -698,7 +734,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Nothing in the ergodic theorem fails in geometric Brownian motion",
-      "value": 22,
+      "value": 28,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -743,7 +779,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Path dependence requires naming the non-commuting operation",
-      "value": 28,
+      "value": 29,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -779,7 +815,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Pooling's sign is set by the correlation of its baskets",
-      "value": 43,
+      "value": 45,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -806,7 +842,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Pricing risk does not remove it",
-      "value": 24,
+      "value": 25,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -815,7 +851,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Pure multiplicative dynamics are permutation-invariant",
-      "value": 25,
+      "value": 26,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -865,6 +901,15 @@
       "shape": "dot"
     },
     {
+      "id": "Restate the cost puzzle as a question about a trajectory",
+      "type": "permanent",
+      "group": "seed",
+      "label": "Restate the cost puzzle as a question about a trajectory",
+      "value": 25,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
       "id": "Retrodiction fails on non-invertibility not on induction",
       "type": "permanent",
       "group": "seed",
@@ -896,7 +941,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Route Kolmogorov to ergodic theory not the theory of means",
-      "value": 17,
+      "value": 26,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -923,7 +968,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Separate the sociological and the methodological claims about economics",
-      "value": 14,
+      "value": 17,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -959,7 +1004,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Sort the persistence objections by what they cost the referee",
-      "value": 27,
+      "value": 30,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -977,7 +1022,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Stationarity is a precondition of ergodicity not a corollary",
-      "value": 25,
+      "value": 29,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1004,7 +1049,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Terminal wealth is permutation-invariant but survival is not",
-      "value": 26,
+      "value": 30,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1193,7 +1238,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The ensemble average is the local descriptor of a barrier-shielded agent",
-      "value": 20,
+      "value": 21,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1292,7 +1337,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The moratorium held because leaving the pool is not a one-period cost",
-      "value": 11,
+      "value": 16,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1378,6 +1423,15 @@
       "shape": "dot"
     },
     {
+      "id": "The representative agent is the ergodicity assumption in costume",
+      "type": "permanent",
+      "group": "seed",
+      "label": "The representative agent is the ergodicity assumption in costume",
+      "value": 26,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
       "id": "The sea loan is a contingent claim not a loan",
       "type": "permanent",
       "group": "seed",
@@ -1387,11 +1441,20 @@
       "shape": "dot"
     },
     {
+      "id": "The split is over whether the explanandum is a state or a trajectory",
+      "type": "permanent",
+      "group": "seed",
+      "label": "The split is over whether the explanandum is a state or a trajectory",
+      "value": 26,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
       "id": "The sustainability criterion assumes the ergodicity it should be testing",
       "type": "permanent",
       "group": "seed",
       "label": "The sustainability criterion assumes the ergodicity it should be testing",
-      "value": 9,
+      "value": 12,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1409,7 +1472,7 @@
       "type": "reference",
       "group": "reference",
       "label": "The three Kelly critiques establish different nulls",
-      "value": 16,
+      "value": 17,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1463,7 +1526,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The word ergodic carries four incompatible senses",
-      "value": 18,
+      "value": 24,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1472,7 +1535,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Time-average optimization is a survivorship property not an intention",
-      "value": 36,
+      "value": 40,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1630,6 +1693,15 @@
       "shape": "dot"
     },
     {
+      "id": "MOC - Defending the ergodicity claim",
+      "type": "moc",
+      "group": "moc",
+      "label": "MOC - Defending the ergodicity claim",
+      "value": 51,
+      "color": "#d95f02",
+      "shape": "dot"
+    },
+    {
       "id": "MOC - Digitisation and text recognition",
       "type": "moc",
       "group": "moc",
@@ -1643,7 +1715,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - ERC Synergy Grant",
-      "value": 59,
+      "value": 60,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -1661,7 +1733,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Ergodicity and the time-ensemble distinction",
-      "value": 98,
+      "value": 115,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -1670,7 +1742,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - HistorEE",
-      "value": 279,
+      "value": 295,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -1679,7 +1751,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Historiography and method",
-      "value": 145,
+      "value": 156,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -1697,7 +1769,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Path dependence and sequence",
-      "value": 27,
+      "value": 35,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -1706,7 +1778,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Risk-sharing vs risk-pricing",
-      "value": 120,
+      "value": 124,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -2358,6 +2430,10 @@
     },
     {
       "from": "An absorbing barrier breaks ergodicity by construction",
+      "to": "MOC - Defending the ergodicity claim"
+    },
+    {
+      "from": "An absorbing barrier breaks ergodicity by construction",
       "to": "MOC - Entity-shielding and corporate forms"
     },
     {
@@ -2399,6 +2475,46 @@
     {
       "from": "Antiquarian booksellers - the top tier and where economic history sits",
       "to": "Split provenance into priority and independence"
+    },
+    {
+      "from": "Arrow-Debreu dissolves time rather than neglecting it",
+      "to": "Absorbing barrier"
+    },
+    {
+      "from": "Arrow-Debreu dissolves time rather than neglecting it",
+      "to": "Do not claim history-dependence as the novelty"
+    },
+    {
+      "from": "Arrow-Debreu dissolves time rather than neglecting it",
+      "to": "Economics had its ensemble moment in 1738 and psychologized it"
+    },
+    {
+      "from": "Arrow-Debreu dissolves time rather than neglecting it",
+      "to": "MOC - Defending the ergodicity claim"
+    },
+    {
+      "from": "Arrow-Debreu dissolves time rather than neglecting it",
+      "to": "MOC - Ergodicity and the time-ensemble distinction"
+    },
+    {
+      "from": "Arrow-Debreu dissolves time rather than neglecting it",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Arrow-Debreu dissolves time rather than neglecting it",
+      "to": "MOC - Historiography and method"
+    },
+    {
+      "from": "Arrow-Debreu dissolves time rather than neglecting it",
+      "to": "Route Kolmogorov to ergodic theory not the theory of means"
+    },
+    {
+      "from": "Arrow-Debreu dissolves time rather than neglecting it",
+      "to": "The representative agent is the ergodicity assumption in costume"
+    },
+    {
+      "from": "Arrow-Debreu dissolves time rather than neglecting it",
+      "to": "The split is over whether the explanandum is a state or a trajectory"
     },
     {
       "from": "Arthur's lock-in and capital lock-in are different objects",
@@ -2677,6 +2793,62 @@
       "to": "loss_mitigation_forms"
     },
     {
+      "from": "Cooperation is an averaging puzzle and sovereign repayment is a barrier puzzle",
+      "to": "Absorbing barrier"
+    },
+    {
+      "from": "Cooperation is an averaging puzzle and sovereign repayment is a barrier puzzle",
+      "to": "Ergodicity breaking and order-dependence are independent axes"
+    },
+    {
+      "from": "Cooperation is an averaging puzzle and sovereign repayment is a barrier puzzle",
+      "to": "Flows make the dynamic affine and affine maps do not commute"
+    },
+    {
+      "from": "Cooperation is an averaging puzzle and sovereign repayment is a barrier puzzle",
+      "to": "Jensen gap"
+    },
+    {
+      "from": "Cooperation is an averaging puzzle and sovereign repayment is a barrier puzzle",
+      "to": "MOC - Defending the ergodicity claim"
+    },
+    {
+      "from": "Cooperation is an averaging puzzle and sovereign repayment is a barrier puzzle",
+      "to": "MOC - Ergodicity and the time-ensemble distinction"
+    },
+    {
+      "from": "Cooperation is an averaging puzzle and sovereign repayment is a barrier puzzle",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Cooperation is an averaging puzzle and sovereign repayment is a barrier puzzle",
+      "to": "MOC - Path dependence and sequence"
+    },
+    {
+      "from": "Cooperation is an averaging puzzle and sovereign repayment is a barrier puzzle",
+      "to": "MOC - Risk-sharing vs risk-pricing"
+    },
+    {
+      "from": "Cooperation is an averaging puzzle and sovereign repayment is a barrier puzzle",
+      "to": "Pooling's sign is set by the correlation of its baskets"
+    },
+    {
+      "from": "Cooperation is an averaging puzzle and sovereign repayment is a barrier puzzle",
+      "to": "Restate the cost puzzle as a question about a trajectory"
+    },
+    {
+      "from": "Cooperation is an averaging puzzle and sovereign repayment is a barrier puzzle",
+      "to": "Terminal wealth is permutation-invariant but survival is not"
+    },
+    {
+      "from": "Cooperation is an averaging puzzle and sovereign repayment is a barrier puzzle",
+      "to": "The moratorium held because leaving the pool is not a one-period cost"
+    },
+    {
+      "from": "Cooperation is an averaging puzzle and sovereign repayment is a barrier puzzle",
+      "to": "The sustainability criterion assumes the ergodicity it should be testing"
+    },
+    {
       "from": "Count degrees of freedom not cells",
       "to": "Borrow the diagnostics not the tree"
     },
@@ -2894,6 +3066,10 @@
     },
     {
       "from": "Distinguish strong from weak ergodicity breaking",
+      "to": "MOC - Defending the ergodicity claim"
+    },
+    {
+      "from": "Distinguish strong from weak ergodicity breaking",
       "to": "MOC - Ergodicity and the time-ensemble distinction"
     },
     {
@@ -2959,6 +3135,58 @@
     {
       "from": "Divergent arbitrary particulars are the independence diagnostic",
       "to": "Transmission versus independent recurrence is the load-bearing test"
+    },
+    {
+      "from": "Do not claim history-dependence as the novelty",
+      "to": "Absorption is a path-dependence mechanism distinct from reinforcement"
+    },
+    {
+      "from": "Do not claim history-dependence as the novelty",
+      "to": "Attractor selection bounds what a persistence design can resolve"
+    },
+    {
+      "from": "Do not claim history-dependence as the novelty",
+      "to": "MOC - Defending the ergodicity claim"
+    },
+    {
+      "from": "Do not claim history-dependence as the novelty",
+      "to": "MOC - Ergodicity and the time-ensemble distinction"
+    },
+    {
+      "from": "Do not claim history-dependence as the novelty",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Do not claim history-dependence as the novelty",
+      "to": "MOC - Historiography and method"
+    },
+    {
+      "from": "Do not claim history-dependence as the novelty",
+      "to": "MOC - Path dependence and sequence"
+    },
+    {
+      "from": "Do not claim history-dependence as the novelty",
+      "to": "Path dependence requires naming the non-commuting operation"
+    },
+    {
+      "from": "Do not claim history-dependence as the novelty",
+      "to": "Route Kolmogorov to ergodic theory not the theory of means"
+    },
+    {
+      "from": "Do not claim history-dependence as the novelty",
+      "to": "Separate the sociological and the methodological claims about economics"
+    },
+    {
+      "from": "Do not claim history-dependence as the novelty",
+      "to": "Sort the persistence objections by what they cost the referee"
+    },
+    {
+      "from": "Do not claim history-dependence as the novelty",
+      "to": "The representative agent is the ergodicity assumption in costume"
+    },
+    {
+      "from": "Do not claim history-dependence as the novelty",
+      "to": "The split is over whether the explanandum is a state or a trajectory"
     },
     {
       "from": "Drelichman and Voth 2014 on the debts and defaults of Philip II",
@@ -3201,12 +3429,68 @@
       "to": "The four-step decoupling from participation to the veil"
     },
     {
+      "from": "Ergodicity breaking and order-dependence are independent axes",
+      "to": "Absorption is a path-dependence mechanism distinct from reinforcement"
+    },
+    {
+      "from": "Ergodicity breaking and order-dependence are independent axes",
+      "to": "An absorbing barrier breaks ergodicity by construction"
+    },
+    {
+      "from": "Ergodicity breaking and order-dependence are independent axes",
+      "to": "Distinguish strong from weak ergodicity breaking"
+    },
+    {
+      "from": "Ergodicity breaking and order-dependence are independent axes",
+      "to": "Flows make the dynamic affine and affine maps do not commute"
+    },
+    {
+      "from": "Ergodicity breaking and order-dependence are independent axes",
+      "to": "Jensen gap"
+    },
+    {
+      "from": "Ergodicity breaking and order-dependence are independent axes",
+      "to": "MOC - Defending the ergodicity claim"
+    },
+    {
+      "from": "Ergodicity breaking and order-dependence are independent axes",
+      "to": "MOC - Ergodicity and the time-ensemble distinction"
+    },
+    {
+      "from": "Ergodicity breaking and order-dependence are independent axes",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Ergodicity breaking and order-dependence are independent axes",
+      "to": "MOC - Path dependence and sequence"
+    },
+    {
+      "from": "Ergodicity breaking and order-dependence are independent axes",
+      "to": "Nothing in the ergodic theorem fails in geometric Brownian motion"
+    },
+    {
+      "from": "Ergodicity breaking and order-dependence are independent axes",
+      "to": "Pure multiplicative dynamics are permutation-invariant"
+    },
+    {
+      "from": "Ergodicity breaking and order-dependence are independent axes",
+      "to": "Terminal wealth is permutation-invariant but survival is not"
+    },
+    {
+      "from": "Ergodicity breaking and order-dependence are independent axes",
+      "to": "The word ergodic carries four incompatible senses"
+    },
+    {
       "from": "Ergodicity is indecomposability not randomness",
       "to": "Absorbing barrier"
     },
     {
       "from": "Ergodicity is indecomposability not randomness",
       "to": "An absorbing barrier breaks ergodicity by construction"
+    },
+    {
+      "from": "Ergodicity is indecomposability not randomness",
+      "to": "MOC - Defending the ergodicity claim"
     },
     {
       "from": "Ergodicity is indecomposability not randomness",
@@ -3978,6 +4262,10 @@
     },
     {
       "from": "Jensen supplies the gap but only the dynamic privileges the logarithm",
+      "to": "MOC - Defending the ergodicity claim"
+    },
+    {
+      "from": "Jensen supplies the gap but only the dynamic privileges the logarithm",
       "to": "MOC - Ergodicity and the time-ensemble distinction"
     },
     {
@@ -4301,6 +4589,102 @@
       "to": "Van Dam's Beschryvinge - the VOC described by its own advocaat"
     },
     {
+      "from": "MOC - Defending the ergodicity claim",
+      "to": "An absorbing barrier breaks ergodicity by construction"
+    },
+    {
+      "from": "MOC - Defending the ergodicity claim",
+      "to": "Arrow-Debreu dissolves time rather than neglecting it"
+    },
+    {
+      "from": "MOC - Defending the ergodicity claim",
+      "to": "Cooperation is an averaging puzzle and sovereign repayment is a barrier puzzle"
+    },
+    {
+      "from": "MOC - Defending the ergodicity claim",
+      "to": "Distinguish strong from weak ergodicity breaking"
+    },
+    {
+      "from": "MOC - Defending the ergodicity claim",
+      "to": "Do not claim history-dependence as the novelty"
+    },
+    {
+      "from": "MOC - Defending the ergodicity claim",
+      "to": "Ergodicity breaking and order-dependence are independent axes"
+    },
+    {
+      "from": "MOC - Defending the ergodicity claim",
+      "to": "Ergodicity is indecomposability not randomness"
+    },
+    {
+      "from": "MOC - Defending the ergodicity claim",
+      "to": "Jensen supplies the gap but only the dynamic privileges the logarithm"
+    },
+    {
+      "from": "MOC - Defending the ergodicity claim",
+      "to": "MOC - ERC Synergy Grant"
+    },
+    {
+      "from": "MOC - Defending the ergodicity claim",
+      "to": "MOC - Ergodicity and the time-ensemble distinction"
+    },
+    {
+      "from": "MOC - Defending the ergodicity claim",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "MOC - Defending the ergodicity claim",
+      "to": "MOC - Historiography and method"
+    },
+    {
+      "from": "MOC - Defending the ergodicity claim",
+      "to": "MOC - Path dependence and sequence"
+    },
+    {
+      "from": "MOC - Defending the ergodicity claim",
+      "to": "Nothing in the ergodic theorem fails in geometric Brownian motion"
+    },
+    {
+      "from": "MOC - Defending the ergodicity claim",
+      "to": "Restate the cost puzzle as a question about a trajectory"
+    },
+    {
+      "from": "MOC - Defending the ergodicity claim",
+      "to": "Route Kolmogorov to ergodic theory not the theory of means"
+    },
+    {
+      "from": "MOC - Defending the ergodicity claim",
+      "to": "Separate the sociological and the methodological claims about economics"
+    },
+    {
+      "from": "MOC - Defending the ergodicity claim",
+      "to": "Sort the persistence objections by what they cost the referee"
+    },
+    {
+      "from": "MOC - Defending the ergodicity claim",
+      "to": "Stationarity is a precondition of ergodicity not a corollary"
+    },
+    {
+      "from": "MOC - Defending the ergodicity claim",
+      "to": "The representative agent is the ergodicity assumption in costume"
+    },
+    {
+      "from": "MOC - Defending the ergodicity claim",
+      "to": "The split is over whether the explanandum is a state or a trajectory"
+    },
+    {
+      "from": "MOC - Defending the ergodicity claim",
+      "to": "The three Kelly critiques establish different nulls"
+    },
+    {
+      "from": "MOC - Defending the ergodicity claim",
+      "to": "The word ergodic carries four incompatible senses"
+    },
+    {
+      "from": "MOC - Defending the ergodicity claim",
+      "to": "Time-average optimization is a survivorship property not an intention"
+    },
+    {
       "from": "MOC - Digitisation and text recognition",
       "to": "Desktop and portable capture - CZUR and ScanTent"
     },
@@ -4622,11 +5006,19 @@
     },
     {
       "from": "MOC - Ergodicity and the time-ensemble distinction",
+      "to": "Arrow-Debreu dissolves time rather than neglecting it"
+    },
+    {
+      "from": "MOC - Ergodicity and the time-ensemble distinction",
       "to": "Attractor selection bounds what a persistence design can resolve"
     },
     {
       "from": "MOC - Ergodicity and the time-ensemble distinction",
       "to": "Bad luck is what the ensemble average calls the modal trajectory"
+    },
+    {
+      "from": "MOC - Ergodicity and the time-ensemble distinction",
+      "to": "Cooperation is an averaging puzzle and sovereign repayment is a barrier puzzle"
     },
     {
       "from": "MOC - Ergodicity and the time-ensemble distinction",
@@ -4638,7 +5030,15 @@
     },
     {
       "from": "MOC - Ergodicity and the time-ensemble distinction",
+      "to": "Do not claim history-dependence as the novelty"
+    },
+    {
+      "from": "MOC - Ergodicity and the time-ensemble distinction",
       "to": "Economics had its ensemble moment in 1738 and psychologized it"
+    },
+    {
+      "from": "MOC - Ergodicity and the time-ensemble distinction",
+      "to": "Ergodicity breaking and order-dependence are independent axes"
     },
     {
       "from": "MOC - Ergodicity and the time-ensemble distinction",
@@ -4659,6 +5059,10 @@
     {
       "from": "MOC - Ergodicity and the time-ensemble distinction",
       "to": "Jensen supplies the gap but only the dynamic privileges the logarithm"
+    },
+    {
+      "from": "MOC - Ergodicity and the time-ensemble distinction",
+      "to": "MOC - Defending the ergodicity claim"
     },
     {
       "from": "MOC - Ergodicity and the time-ensemble distinction",
@@ -4710,6 +5114,10 @@
     },
     {
       "from": "MOC - Ergodicity and the time-ensemble distinction",
+      "to": "Restate the cost puzzle as a question about a trajectory"
+    },
+    {
+      "from": "MOC - Ergodicity and the time-ensemble distinction",
       "to": "Retrodiction fails on non-invertibility not on induction"
     },
     {
@@ -4747,6 +5155,14 @@
     {
       "from": "MOC - Ergodicity and the time-ensemble distinction",
       "to": "The real cut is shielded-and-pooled versus unshielded"
+    },
+    {
+      "from": "MOC - Ergodicity and the time-ensemble distinction",
+      "to": "The representative agent is the ergodicity assumption in costume"
+    },
+    {
+      "from": "MOC - Ergodicity and the time-ensemble distinction",
+      "to": "The split is over whether the explanandum is a state or a trajectory"
     },
     {
       "from": "MOC - Ergodicity and the time-ensemble distinction",
@@ -4794,6 +5210,10 @@
     },
     {
       "from": "MOC - HistorEE",
+      "to": "Arrow-Debreu dissolves time rather than neglecting it"
+    },
+    {
+      "from": "MOC - HistorEE",
       "to": "Arthur's lock-in and capital lock-in are different objects"
     },
     {
@@ -4806,6 +5226,10 @@
     },
     {
       "from": "MOC - HistorEE",
+      "to": "Cooperation is an averaging puzzle and sovereign repayment is a barrier puzzle"
+    },
+    {
+      "from": "MOC - HistorEE",
       "to": "Count degrees of freedom not cells"
     },
     {
@@ -4815,6 +5239,10 @@
     {
       "from": "MOC - HistorEE",
       "to": "Divergent arbitrary particulars are the independence diagnostic"
+    },
+    {
+      "from": "MOC - HistorEE",
+      "to": "Do not claim history-dependence as the novelty"
     },
     {
       "from": "MOC - HistorEE",
@@ -4835,6 +5263,10 @@
     {
       "from": "MOC - HistorEE",
       "to": "Entity-shielding"
+    },
+    {
+      "from": "MOC - HistorEE",
+      "to": "Ergodicity breaking and order-dependence are independent axes"
     },
     {
       "from": "MOC - HistorEE",
@@ -4887,6 +5319,10 @@
     {
       "from": "MOC - HistorEE",
       "to": "Legal violence is the weapon of the militarily insufficient"
+    },
+    {
+      "from": "MOC - HistorEE",
+      "to": "MOC - Defending the ergodicity claim"
     },
     {
       "from": "MOC - HistorEE",
@@ -4959,6 +5395,10 @@
     {
       "from": "MOC - HistorEE",
       "to": "Reinforcement selects an attractor the ensemble average never occupies"
+    },
+    {
+      "from": "MOC - HistorEE",
+      "to": "Restate the cost puzzle as a question about a trajectory"
     },
     {
       "from": "MOC - HistorEE",
@@ -5098,7 +5538,15 @@
     },
     {
       "from": "MOC - HistorEE",
+      "to": "The representative agent is the ergodicity assumption in costume"
+    },
+    {
+      "from": "MOC - HistorEE",
       "to": "The sea loan is a contingent claim not a loan"
+    },
+    {
+      "from": "MOC - HistorEE",
+      "to": "The split is over whether the explanandum is a state or a trajectory"
     },
     {
       "from": "MOC - HistorEE",
@@ -5178,6 +5626,10 @@
     },
     {
       "from": "MOC - Historiography and method",
+      "to": "Arrow-Debreu dissolves time rather than neglecting it"
+    },
+    {
+      "from": "MOC - Historiography and method",
       "to": "Attractor selection bounds what a persistence design can resolve"
     },
     {
@@ -5207,6 +5659,10 @@
     {
       "from": "MOC - Historiography and method",
       "to": "Divergent arbitrary particulars are the independence diagnostic"
+    },
+    {
+      "from": "MOC - Historiography and method",
+      "to": "Do not claim history-dependence as the novelty"
     },
     {
       "from": "MOC - Historiography and method",
@@ -5247,6 +5703,10 @@
     {
       "from": "MOC - Historiography and method",
       "to": "Kye is not a ROSCA and the equation is an artefact of comparison with mujin"
+    },
+    {
+      "from": "MOC - Historiography and method",
+      "to": "MOC - Defending the ergodicity claim"
     },
     {
       "from": "MOC - Historiography and method",
@@ -5291,6 +5751,10 @@
     {
       "from": "MOC - Historiography and method",
       "to": "Relief ko for a named person is claimed to be unattested outside Japan"
+    },
+    {
+      "from": "MOC - Historiography and method",
+      "to": "Restate the cost puzzle as a question about a trajectory"
     },
     {
       "from": "MOC - Historiography and method",
@@ -5363,6 +5827,14 @@
     {
       "from": "MOC - Historiography and method",
       "to": "The qirad's antecedents are Sasanian not Sogdian"
+    },
+    {
+      "from": "MOC - Historiography and method",
+      "to": "The representative agent is the ergodicity assumption in costume"
+    },
+    {
+      "from": "MOC - Historiography and method",
+      "to": "The split is over whether the explanandum is a state or a trajectory"
     },
     {
       "from": "MOC - Historiography and method",
@@ -5498,7 +5970,23 @@
     },
     {
       "from": "MOC - Path dependence and sequence",
+      "to": "Cooperation is an averaging puzzle and sovereign repayment is a barrier puzzle"
+    },
+    {
+      "from": "MOC - Path dependence and sequence",
+      "to": "Do not claim history-dependence as the novelty"
+    },
+    {
+      "from": "MOC - Path dependence and sequence",
+      "to": "Ergodicity breaking and order-dependence are independent axes"
+    },
+    {
+      "from": "MOC - Path dependence and sequence",
       "to": "Flows make the dynamic affine and affine maps do not commute"
+    },
+    {
+      "from": "MOC - Path dependence and sequence",
+      "to": "MOC - Defending the ergodicity claim"
     },
     {
       "from": "MOC - Path dependence and sequence",
@@ -5563,6 +6051,10 @@
     {
       "from": "MOC - Risk-sharing vs risk-pricing",
       "to": "Brown tests equality where a risk reading predicts dispersion"
+    },
+    {
+      "from": "MOC - Risk-sharing vs risk-pricing",
+      "to": "Cooperation is an averaging puzzle and sovereign repayment is a barrier puzzle"
     },
     {
       "from": "MOC - Risk-sharing vs risk-pricing",
@@ -5647,6 +6139,10 @@
     {
       "from": "MOC - Risk-sharing vs risk-pricing",
       "to": "Refusals are observations of the filter not inferences from survivors"
+    },
+    {
+      "from": "MOC - Risk-sharing vs risk-pricing",
+      "to": "Restate the cost puzzle as a question about a trajectory"
     },
     {
       "from": "MOC - Risk-sharing vs risk-pricing",
@@ -6038,6 +6534,10 @@
     },
     {
       "from": "Nothing in the ergodic theorem fails in geometric Brownian motion",
+      "to": "MOC - Defending the ergodicity claim"
+    },
+    {
+      "from": "Nothing in the ergodic theorem fails in geometric Brownian motion",
       "to": "MOC - Ergodicity and the time-ensemble distinction"
     },
     {
@@ -6689,6 +7189,50 @@
       "to": "loss_mitigation_forms"
     },
     {
+      "from": "Restate the cost puzzle as a question about a trajectory",
+      "to": "A single throw of dice cannot be evaluated by its expectation"
+    },
+    {
+      "from": "Restate the cost puzzle as a question about a trajectory",
+      "to": "Bad luck is what the ensemble average calls the modal trajectory"
+    },
+    {
+      "from": "Restate the cost puzzle as a question about a trajectory",
+      "to": "Cooperation is an averaging puzzle and sovereign repayment is a barrier puzzle"
+    },
+    {
+      "from": "Restate the cost puzzle as a question about a trajectory",
+      "to": "MOC - Defending the ergodicity claim"
+    },
+    {
+      "from": "Restate the cost puzzle as a question about a trajectory",
+      "to": "MOC - Ergodicity and the time-ensemble distinction"
+    },
+    {
+      "from": "Restate the cost puzzle as a question about a trajectory",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Restate the cost puzzle as a question about a trajectory",
+      "to": "MOC - Risk-sharing vs risk-pricing"
+    },
+    {
+      "from": "Restate the cost puzzle as a question about a trajectory",
+      "to": "Pricing risk does not remove it"
+    },
+    {
+      "from": "Restate the cost puzzle as a question about a trajectory",
+      "to": "The moratorium held because leaving the pool is not a one-period cost"
+    },
+    {
+      "from": "Restate the cost puzzle as a question about a trajectory",
+      "to": "The split is over whether the explanandum is a state or a trajectory"
+    },
+    {
+      "from": "Restate the cost puzzle as a question about a trajectory",
+      "to": "Time-average optimization is a survivorship property not an intention"
+    },
+    {
       "from": "Retrodiction fails on non-invertibility not on induction",
       "to": "A significant persistence coefficient is evidence against its own licensing condition"
     },
@@ -6798,6 +7342,10 @@
     },
     {
       "from": "Route Kolmogorov to ergodic theory not the theory of means",
+      "to": "MOC - Defending the ergodicity claim"
+    },
+    {
+      "from": "Route Kolmogorov to ergodic theory not the theory of means",
       "to": "MOC - Ergodicity and the time-ensemble distinction"
     },
     {
@@ -6871,6 +7419,10 @@
     {
       "from": "Separate the sociological and the methodological claims about economics",
       "to": "Economics had its ensemble moment in 1738 and psychologized it"
+    },
+    {
+      "from": "Separate the sociological and the methodological claims about economics",
+      "to": "MOC - Defending the ergodicity claim"
     },
     {
       "from": "Separate the sociological and the methodological claims about economics",
@@ -7071,6 +7623,10 @@
     {
       "from": "Stationarity is a precondition of ergodicity not a corollary",
       "to": "Ergodicity is indecomposability not randomness"
+    },
+    {
+      "from": "Stationarity is a precondition of ergodicity not a corollary",
+      "to": "MOC - Defending the ergodicity claim"
     },
     {
       "from": "Stationarity is a precondition of ergodicity not a corollary",
@@ -8605,6 +9161,54 @@
       "to": "Time-average optimization is a survivorship property not an intention"
     },
     {
+      "from": "The representative agent is the ergodicity assumption in costume",
+      "to": "An absorbing barrier breaks ergodicity by construction"
+    },
+    {
+      "from": "The representative agent is the ergodicity assumption in costume",
+      "to": "Arrow-Debreu dissolves time rather than neglecting it"
+    },
+    {
+      "from": "The representative agent is the ergodicity assumption in costume",
+      "to": "Do not claim history-dependence as the novelty"
+    },
+    {
+      "from": "The representative agent is the ergodicity assumption in costume",
+      "to": "MOC - Defending the ergodicity claim"
+    },
+    {
+      "from": "The representative agent is the ergodicity assumption in costume",
+      "to": "MOC - Ergodicity and the time-ensemble distinction"
+    },
+    {
+      "from": "The representative agent is the ergodicity assumption in costume",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "The representative agent is the ergodicity assumption in costume",
+      "to": "MOC - Historiography and method"
+    },
+    {
+      "from": "The representative agent is the ergodicity assumption in costume",
+      "to": "Route Kolmogorov to ergodic theory not the theory of means"
+    },
+    {
+      "from": "The representative agent is the ergodicity assumption in costume",
+      "to": "Stationarity is a precondition of ergodicity not a corollary"
+    },
+    {
+      "from": "The representative agent is the ergodicity assumption in costume",
+      "to": "The ensemble average is the local descriptor of a barrier-shielded agent"
+    },
+    {
+      "from": "The representative agent is the ergodicity assumption in costume",
+      "to": "The split is over whether the explanandum is a state or a trajectory"
+    },
+    {
+      "from": "The representative agent is the ergodicity assumption in costume",
+      "to": "The word ergodic carries four incompatible senses"
+    },
+    {
       "from": "The sea loan is a contingent claim not a loan",
       "to": "Islamic doctrine refuses risk-commodification at step one"
     },
@@ -8627,6 +9231,50 @@
     {
       "from": "The sea loan is a contingent claim not a loan",
       "to": "The qirad envelops the sea loan"
+    },
+    {
+      "from": "The split is over whether the explanandum is a state or a trajectory",
+      "to": "Arrow-Debreu dissolves time rather than neglecting it"
+    },
+    {
+      "from": "The split is over whether the explanandum is a state or a trajectory",
+      "to": "Bad luck is what the ensemble average calls the modal trajectory"
+    },
+    {
+      "from": "The split is over whether the explanandum is a state or a trajectory",
+      "to": "Do not claim history-dependence as the novelty"
+    },
+    {
+      "from": "The split is over whether the explanandum is a state or a trajectory",
+      "to": "MOC - Defending the ergodicity claim"
+    },
+    {
+      "from": "The split is over whether the explanandum is a state or a trajectory",
+      "to": "MOC - Ergodicity and the time-ensemble distinction"
+    },
+    {
+      "from": "The split is over whether the explanandum is a state or a trajectory",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "The split is over whether the explanandum is a state or a trajectory",
+      "to": "MOC - Historiography and method"
+    },
+    {
+      "from": "The split is over whether the explanandum is a state or a trajectory",
+      "to": "Restate the cost puzzle as a question about a trajectory"
+    },
+    {
+      "from": "The split is over whether the explanandum is a state or a trajectory",
+      "to": "Route Kolmogorov to ergodic theory not the theory of means"
+    },
+    {
+      "from": "The split is over whether the explanandum is a state or a trajectory",
+      "to": "The representative agent is the ergodicity assumption in costume"
+    },
+    {
+      "from": "The split is over whether the explanandum is a state or a trajectory",
+      "to": "The sustainability criterion assumes the ergodicity it should be testing"
     },
     {
       "from": "The sustainability criterion assumes the ergodicity it should be testing",
@@ -8938,6 +9586,10 @@
     },
     {
       "from": "The word ergodic carries four incompatible senses",
+      "to": "MOC - Defending the ergodicity claim"
+    },
+    {
+      "from": "The word ergodic carries four incompatible senses",
       "to": "MOC - Ergodicity and the time-ensemble distinction"
     },
     {
@@ -9007,6 +9659,10 @@
     {
       "from": "Time-average optimization is a survivorship property not an intention",
       "to": "Absorbing barrier"
+    },
+    {
+      "from": "Time-average optimization is a survivorship property not an intention",
+      "to": "MOC - Defending the ergodicity claim"
     },
     {
       "from": "Time-average optimization is a survivorship property not an intention",

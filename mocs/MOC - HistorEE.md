@@ -19,6 +19,7 @@ Project hub for the book. Atomic notes hang off both this project MOC and a them
 - [[MOC - Islamic contract doctrine]]
 - [[MOC - Historiography and method]]
 - [[MOC - Path dependence and sequence]]
+- [[MOC - Defending the ergodicity claim]]
 
 ## Notes — Ron Harris session
 
@@ -139,6 +140,16 @@ Project hub for the book. Atomic notes hang off both this project MOC and a them
 - [[The moratorium held because leaving the pool is not a one-period cost]]
 - [[The contingent asiento is a missing form in loss_mitigation_forms]]
 - [[Drelichman and Voth 2014 on the debts and defaults of Philip II]]
+
+## Notes — Static vs dynamic equilibrium session
+
+- [[The split is over whether the explanandum is a state or a trajectory]]
+- [[Restate the cost puzzle as a question about a trajectory]]
+- [[Arrow-Debreu dissolves time rather than neglecting it]]
+- [[The representative agent is the ergodicity assumption in costume]]
+- [[Ergodicity breaking and order-dependence are independent axes]]
+- [[Cooperation is an averaging puzzle and sovereign repayment is a barrier puzzle]]
+- [[Do not claim history-dependence as the novelty]]
 
 ## Concept anchors
 

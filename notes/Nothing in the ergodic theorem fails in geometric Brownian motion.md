@@ -26,6 +26,7 @@ That claim is the historical one. Whether $\tfrac{1}{2}\sigma^{2}$ is a new theo
 - [[An absorbing barrier breaks ergodicity by construction]]
 - [[Time-average optimization is a survivorship property not an intention]]
 - [[The ensemble average is the local descriptor of a barrier-shielded agent]]
+- [[MOC - Defending the ergodicity claim]]
 - [[MOC - Ergodicity and the time-ensemble distinction]]
 - [[MOC - HistorEE]]
 

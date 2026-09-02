@@ -27,6 +27,7 @@ One qualification to carry rather than bury. A process with a single absorbing s
 - [[Entity-shielding]]
 - [[The real cut is shielded-and-pooled versus unshielded]]
 - [[Absorption is a path-dependence mechanism distinct from reinforcement]]
+- [[MOC - Defending the ergodicity claim]]
 - [[MOC - Ergodicity and the time-ensemble distinction]]
 - [[MOC - Entity-shielding and corporate forms]]
 - [[MOC - HistorEE]]

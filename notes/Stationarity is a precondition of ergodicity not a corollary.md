@@ -25,6 +25,7 @@ This also disciplines our own usage. Where the underlying increments are station
 - [[Nothing in the ergodic theorem fails in geometric Brownian motion]]
 - [[Deep-roots variables are symplesiomorphies]]
 - [[Route Kolmogorov to ergodic theory not the theory of means]]
+- [[MOC - Defending the ergodicity claim]]
 - [[MOC - Ergodicity and the time-ensemble distinction]]
 - [[MOC - Historiography and method]]
 - [[MOC - HistorEE]]

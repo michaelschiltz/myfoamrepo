@@ -11,6 +11,8 @@ status: seed
 
 Thematic hub for the project's load-bearing distinction: ensemble average vs [[Time-average|time-average]], multiplicative dynamics, and the absorbing barrier.
 
+The referee-facing material — what may be claimed, what must be conceded, where the critique lands, and what must not be said — is split out to the sub-hub [[MOC - Defending the ergodicity claim]], ordered by what each argument costs the reader. This hub holds the apparatus; that one holds the brief.
+
 ## Formal placement
 
 Written for WP3, to the standard a mathematically literate referee would apply.
@@ -72,3 +74,15 @@ Written for WP3, to the standard a mathematically literate referee would apply.
 [MOC - Risk-sharing vs risk-pricing]: <MOC - Risk-sharing vs risk-pricing.md> "MOC - Risk-sharing vs risk-pricing"
 [MOC - Entity-shielding and corporate forms]: <MOC - Entity-shielding and corporate forms.md> "MOC - Entity-shielding and corporate forms"
 [MOC - HistorEE]: <MOC - HistorEE.md> "MOC - Clearing and Settling the Realm"
+
+## Added 2026-09-02 — the defence against the orthodoxy
+
+Reformulations of the difference from the orthodox framing, kept as a set because the defence is worth having in several registers. Accumulate here.
+
+- [[The split is over whether the explanandum is a state or a trajectory]] — the hinge is not static versus dynamic but what is taken to require explanation; a configuration can be self-consistent at every date while every trajectory through it declines
+- [[Restate the cost puzzle as a question about a trajectory]] — the operative move on "why does X occur despite its cost", with the two disciplines that keep it honest
+- [[Arrow-Debreu dissolves time rather than neglecting it]] — dated commodities make the intertemporal economy formally static, so the averaging question is never posed
+- [[The representative agent is the ergodicity assumption in costume]] — where to aim the critique in models that *do* iterate, plus the answer to the stationary-distribution reply
+- [[Ergodicity breaking and order-dependence are independent axes]] — the two clusters are orthogonal; the Jensen gap is permutation-invariant and deterministic affine composition is order-dependent with no ensemble at all
+- [[Cooperation is an averaging puzzle and sovereign repayment is a barrier puzzle]] — the two showcase puzzles are dissolved by different mechanisms and make different demands on evidence
+- [[Do not claim history-dependence as the novelty]] — the guardrail; only two claims survive contact with hysteresis, multiple equilibria and critical junctures

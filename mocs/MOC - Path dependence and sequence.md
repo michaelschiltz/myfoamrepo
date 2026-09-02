@@ -33,6 +33,12 @@ The cluster is built around one negative result and three mechanisms that escape
 
 - [[Absorption is a path-dependence mechanism distinct from reinforcement]]
 
+## Relation to the ergodicity cluster
+
+- [[Ergodicity breaking and order-dependence are independent axes]]
+- [[Cooperation is an averaging puzzle and sovereign repayment is a barrier puzzle]]
+- [[Do not claim history-dependence as the novelty]]
+
 ## Reference
 
 - [[Path dependence literature]]
@@ -40,6 +46,7 @@ The cluster is built around one negative result and three mechanisms that escape
 ## Links
 
 - [[MOC - Ergodicity and the time-ensemble distinction]]
+- [[MOC - Defending the ergodicity claim]]
 - [[MOC - Entity-shielding and corporate forms]]
 - [[MOC - Historiography and method]]
 - [[MOC - HistorEE]]

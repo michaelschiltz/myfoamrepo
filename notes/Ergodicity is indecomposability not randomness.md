@@ -25,6 +25,7 @@ Ergodicity is also the *weakest* member of a hierarchy — ergodic ⊂ weakly mi
 - [[An absorbing barrier breaks ergodicity by construction]]
 - [[Route Kolmogorov to ergodic theory not the theory of means]]
 - [[Time-average]]
+- [[MOC - Defending the ergodicity claim]]
 - [[MOC - Ergodicity and the time-ensemble distinction]]
 - [[MOC - HistorEE]]
 

@@ -34,6 +34,7 @@ The available answer is that dynamics are in principle observable and testable w
 - [[Economics had its ensemble moment in 1738 and psychologized it]]
 - [[Time-average]]
 - [[Stationarity is a precondition of ergodicity not a corollary]]
+- [[MOC - Defending the ergodicity claim]]
 - [[MOC - Ergodicity and the time-ensemble distinction]]
 - [[MOC - HistorEE]]
 

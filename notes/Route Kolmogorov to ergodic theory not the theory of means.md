@@ -19,6 +19,7 @@ That is the point. Physics did not "move on" by declaring ensemble averages bad 
 - [[Economics had its ensemble moment in 1738 and psychologized it]]
 - [[The ensemble average is the local descriptor of a barrier-shielded agent]]
 - [[Time-average]]
+- [[MOC - Defending the ergodicity claim]]
 - [[MOC - Ergodicity and the time-ensemble distinction]]
 - [[MOC - HistorEE]]
 
