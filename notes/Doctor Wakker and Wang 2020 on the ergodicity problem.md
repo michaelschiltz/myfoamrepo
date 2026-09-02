@@ -65,6 +65,7 @@ DWW session, September 2026. Retrieved because [[MOC - Defending the ergodicity 
 
 ## Leads not yet followed
 
-- **Toda, *"Ergodicity Economics" is Pseudoscience* (2023)**, library `IRVRS9A4`, is on arXiv as `2306.03275` and therefore **retrievable**. Still unanswered in the vault, and now the only wholly open front.
+- **Toda, *"Ergodicity Economics" is Pseudoscience* (2023)** — read and answered; see [[Toda 2023 on ergodicity economics as pseudoscience]]. Note that Toda cites Doctor, Wakker and Wang approvingly while making an incompatible charge, per [[The three published critiques do not agree with each other]].
+- **Ford and Kay** — the third critique, and the serious one. Read and answered at [[Ford and Kay 2023 on growth-optimal decision making]]. Their Appendix B independently confirms this document's Meder criticisms and adds an internal-consistency objection the vault should hold.
 - **Peters and Adamou, "Probability weighting and Ergodicity Economics"** (ergodicityeconomics.com, March 2020) predates the SI and addresses the weighting point directly. Worth reading against the DWW Appendix.
 - **Quiggin**, "Ergodicity economics and rank-dependent utility" (December 2020), a blog response from a principal of the rank-dependent literature. Not consulted.

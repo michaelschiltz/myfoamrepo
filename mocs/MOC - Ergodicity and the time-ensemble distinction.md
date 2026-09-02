@@ -105,3 +105,10 @@ Hubbed at [[MOC - Defending the ergodicity claim]]; listed here because the sour
 - [[The unfalsifiability charge is really a scope-and-productivity charge]]
 - [[The selective claim is falsifiable where the prescriptive claim is not]]
 - [[Toda's citation allegations must be checked before we cite Peters]]
+
+## Added 2026-09-02 — the Ford–Kay exchange
+
+- [[Ford and Kay 2023 on growth-optimal decision making]]
+- [[Ford and Kay concede the condition under which their objection lapses]]
+- [[EE cannot rank across dynamics and the comparative project must not need it to]]
+- [[The three published critiques do not agree with each other]]

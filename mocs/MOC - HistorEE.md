@@ -168,6 +168,13 @@ Project hub for the book. Atomic notes hang off both this project MOC and a them
 - [[The selective claim is falsifiable where the prescriptive claim is not]]
 - [[Toda's citation allegations must be checked before we cite Peters]]
 
+## Notes — Ford and Kay session
+
+- [[Ford and Kay 2023 on growth-optimal decision making]]
+- [[Ford and Kay concede the condition under which their objection lapses]]
+- [[EE cannot rank across dynamics and the comparative project must not need it to]]
+- [[The three published critiques do not agree with each other]]
+
 ## Concept anchors
 
 - [[Absorbing barrier]]

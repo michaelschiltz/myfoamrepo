@@ -61,7 +61,16 @@ Named here so they are answered in text rather than found by a panel.
 - **Strong/weak slippage.** Using "non-ergodic" unqualified claims the rhetorical force of decomposition on evidence that supports only timescale separation. This is exactly where a referee will locate the slippage; see [[Distinguish strong from weak ergodicity breaking]].
 - **Peters's reply to Doctor, Wakker and Wang is unread.** Paywalled beyond its opening line; nothing in the vault should characterise its argument until the text is obtained. See [[Doctor Wakker and Wang 2020 on the ergodicity problem]].
 - **Three citation allegations against Peters are unchecked**, one of them serious. Until they are, cite him for the framing and never for the intellectual history — [[Toda's citation allegations must be checked before we cite Peters]].
-- **Ford and Kay (2022)**, SSRN `10.2139/ssrn.4140625`, is a third published critique surfaced by Toda's reference list. Not in the library, not read.
+- **Samuelson (1971) and Latané (1979) are not in the library** and are load-bearing on both sides of the Ford–Kay exchange. Acquire before writing on the finite-horizon question.
+
+## The Ford–Kay exchange
+
+The most serious of the three, and the only one that produced a real argument: a published critique, an eleven-author reply from the ergodicity-economics group, and a rejoinder in which the critics concede an error of their own. Read all three before citing any.
+
+- [[Ford and Kay 2023 on growth-optimal decision making]] — the source note for the full exchange, including the strongest pro-EE argument in the literature: EUT agents maximise *expected* utility while losing actual utility over time
+- [[Ford and Kay concede the condition under which their objection lapses]] — the finding. Their central charge is conditional, they state its condition, and the historical case satisfies it because the dynamic is in the archive
+- [[EE cannot rank across dynamics and the comparative project must not need it to]] — the one objection that bites on the comparative apparatus, and the three prohibitions it imposes
+- [[The three published critiques do not agree with each other]] — Toda and Ford–Kay make incompatible charges, and the incompatibility is the framework's own thesis seen from outside
 
 ## The Toda critique
 
