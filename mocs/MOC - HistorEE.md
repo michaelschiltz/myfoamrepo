@@ -181,6 +181,10 @@ Project hub for the book. Atomic notes hang off both this project MOC and a them
 - [[Galton-Watson is the extinction branch Peters named and did not develop]]
 - [[The market selection literature is the project's nearest formal neighbour]]
 
+## Notes — Taleb session
+
+- [[Taleb reads survival as evidence about the survivor and we read it as evidence about the filter]]
+
 ## Concept anchors
 
 - [[Absorbing barrier]]

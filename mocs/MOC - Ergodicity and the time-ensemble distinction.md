@@ -118,3 +118,8 @@ Hubbed at [[MOC - Defending the ergodicity claim]]; listed here because the sour
 - [[Absorption without ergodicity economics is just ruin theory]] — the unpublished objection, and the one to answer in text
 - [[Galton-Watson is the extinction branch Peters named and did not develop]] — extinction as ergodicity breaking without a Jensen gap; Peters names it once, in 1875, and develops the other limb thereafter
 - [[The market selection literature is the project's nearest formal neighbour]] — Blume and Easley; acquire before writing
+
+## Added 2026-09-02 — Taleb, with the inference reversed
+
+- [[Taleb reads survival as evidence about the survivor and we read it as evidence about the filter]] — the position the vault had corrected twice without naming; Lindy is a licensed forecast and an unlicensed explanation
+- [[Skin in the game]] — developed from stub. The rigorous content is barrier-location, and the term splits into barrier-exposure and outcome-coupling, which the *muḍāraba* separates

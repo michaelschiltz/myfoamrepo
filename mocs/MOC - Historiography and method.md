@@ -55,6 +55,7 @@ Thematic hub for the project's methodological guardrails: teleology and its inve
 - [[Arrow-Debreu dissolves time rather than neglecting it]]
 - [[The representative agent is the ergodicity assumption in costume]]
 - [[Do not claim history-dependence as the novelty]]
+- [[Taleb reads survival as evidence about the survivor and we read it as evidence about the filter]]
 - [[Ragusan collegantia is unilateral and Venetian collegantia is bilateral]]
 - [[Which peril gets a clause is set by the tradition's doctrinal problem]]
 - [[Unilateral and bilateral commenda collapse on profit and separate on loss]]

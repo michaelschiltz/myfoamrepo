@@ -149,7 +149,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "An absorbing barrier breaks ergodicity by construction",
-      "value": 52,
+      "value": 54,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -428,7 +428,7 @@
       "type": "permanent",
       "group": "stub",
       "label": "Entity-shielding",
-      "value": 49,
+      "value": 51,
       "color": "#666666",
       "shape": "dot"
     },
@@ -527,7 +527,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Galton-Watson is the extinction branch Peters named and did not develop",
-      "value": 33,
+      "value": 35,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -554,7 +554,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Guard against reverse-teleology",
-      "value": 32,
+      "value": 34,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -599,7 +599,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Institutions substitute state-verification for outcome-inference as ruin exposure rises",
-      "value": 21,
+      "value": 23,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -617,7 +617,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Islamic doctrine refuses risk-commodification at step one",
-      "value": 22,
+      "value": 23,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -716,7 +716,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Lock-in and outcome-coupling are distinct bindings",
-      "value": 33,
+      "value": 35,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -797,7 +797,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Non-ergodicity collapses the likelihood ratio on outcomes",
-      "value": 28,
+      "value": 32,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -833,7 +833,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Outcome-coupling is the condition of legibility",
-      "value": 21,
+      "value": 23,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -869,7 +869,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Persistence samples are conditioned on non-absorption",
-      "value": 40,
+      "value": 42,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -950,7 +950,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Refusals are observations of the filter not inferences from survivors",
-      "value": 69,
+      "value": 71,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1058,17 +1058,17 @@
       "type": "permanent",
       "group": "seed",
       "label": "Skin in the game is asymmetric in the mudaraba",
-      "value": 31,
+      "value": 33,
       "color": "#e6ab02",
       "shape": "dot"
     },
     {
       "id": "Skin in the game",
       "type": "permanent",
-      "group": "stub",
+      "group": "seed",
       "label": "Skin in the game",
-      "value": 28,
-      "color": "#666666",
+      "value": 54,
+      "color": "#e6ab02",
       "shape": "dot"
     },
     {
@@ -1117,11 +1117,20 @@
       "shape": "dot"
     },
     {
+      "id": "Taleb reads survival as evidence about the survivor and we read it as evidence about the filter",
+      "type": "permanent",
+      "group": "seed",
+      "label": "Taleb reads survival as evidence about the survivor and we read it as evidence about the filter",
+      "value": 31,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
       "id": "Terminal wealth is permutation-invariant but survival is not",
       "type": "permanent",
       "group": "seed",
       "label": "Terminal wealth is permutation-invariant but survival is not",
-      "value": 32,
+      "value": 33,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1319,7 +1328,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The ensemble average is the local descriptor of a barrier-shielded agent",
-      "value": 22,
+      "value": 23,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1337,7 +1346,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The four-step decoupling from participation to the veil",
-      "value": 21,
+      "value": 22,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1391,7 +1400,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The isqa is Lindy because captive not because robust",
-      "value": 20,
+      "value": 22,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1400,7 +1409,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The isqa refuses the agent's shield",
-      "value": 33,
+      "value": 35,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1427,7 +1436,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The market selection literature is the project's nearest formal neighbour",
-      "value": 29,
+      "value": 30,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1463,7 +1472,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The naties are a six-century Lindy institution",
-      "value": 21,
+      "value": 22,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1562,7 +1571,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The split is over whether the explanandum is a state or a trajectory",
-      "value": 27,
+      "value": 29,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1670,7 +1679,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Time-average optimization is a survivorship property not an intention",
-      "value": 50,
+      "value": 52,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1814,7 +1823,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Whiggish history of finance names the ascent narrative",
-      "value": 17,
+      "value": 19,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1859,7 +1868,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Defending the ergodicity claim",
-      "value": 91,
+      "value": 92,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -1886,7 +1895,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Entity-shielding and corporate forms",
-      "value": 93,
+      "value": 94,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -1895,7 +1904,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Ergodicity and the time-ensemble distinction",
-      "value": 152,
+      "value": 156,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -1904,7 +1913,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - HistorEE",
-      "value": 331,
+      "value": 333,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -1913,7 +1922,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Historiography and method",
-      "value": 164,
+      "value": 166,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -5832,6 +5841,10 @@
     },
     {
       "from": "MOC - Ergodicity and the time-ensemble distinction",
+      "to": "Skin in the game"
+    },
+    {
+      "from": "MOC - Ergodicity and the time-ensemble distinction",
       "to": "Sort the persistence objections by what they cost the referee"
     },
     {
@@ -5841,6 +5854,10 @@
     {
       "from": "MOC - Ergodicity and the time-ensemble distinction",
       "to": "Syndication and the misma moneda are pooling not prudence"
+    },
+    {
+      "from": "MOC - Ergodicity and the time-ensemble distinction",
+      "to": "Taleb reads survival as evidence about the survivor and we read it as evidence about the filter"
     },
     {
       "from": "MOC - Ergodicity and the time-ensemble distinction",
@@ -6209,6 +6226,10 @@
     {
       "from": "MOC - HistorEE",
       "to": "Syndication and the misma moneda are pooling not prudence"
+    },
+    {
+      "from": "MOC - HistorEE",
+      "to": "Taleb reads survival as evidence about the survivor and we read it as evidence about the filter"
     },
     {
       "from": "MOC - HistorEE",
@@ -6585,6 +6606,10 @@
     {
       "from": "MOC - Historiography and method",
       "to": "Split provenance into priority and independence"
+    },
+    {
+      "from": "MOC - Historiography and method",
+      "to": "Taleb reads survival as evidence about the survivor and we read it as evidence about the filter"
     },
     {
       "from": "MOC - Historiography and method",
@@ -8304,7 +8329,31 @@
     },
     {
       "from": "Skin in the game",
+      "to": "An absorbing barrier breaks ergodicity by construction"
+    },
+    {
+      "from": "Skin in the game",
+      "to": "Entity-shielding"
+    },
+    {
+      "from": "Skin in the game",
+      "to": "Institutions substitute state-verification for outcome-inference as ruin exposure rises"
+    },
+    {
+      "from": "Skin in the game",
       "to": "Islamic doctrine refuses risk-commodification at step one"
+    },
+    {
+      "from": "Skin in the game",
+      "to": "Lock-in and outcome-coupling are distinct bindings"
+    },
+    {
+      "from": "Skin in the game",
+      "to": "MOC - Entity-shielding and corporate forms"
+    },
+    {
+      "from": "Skin in the game",
+      "to": "MOC - Ergodicity and the time-ensemble distinction"
     },
     {
       "from": "Skin in the game",
@@ -8316,7 +8365,35 @@
     },
     {
       "from": "Skin in the game",
+      "to": "Non-ergodicity collapses the likelihood ratio on outcomes"
+    },
+    {
+      "from": "Skin in the game",
+      "to": "Outcome-coupling is the condition of legibility"
+    },
+    {
+      "from": "Skin in the game",
+      "to": "Skin in the game is asymmetric in the mudaraba"
+    },
+    {
+      "from": "Skin in the game",
+      "to": "Taleb reads survival as evidence about the survivor and we read it as evidence about the filter"
+    },
+    {
+      "from": "Skin in the game",
+      "to": "Terminal wealth is permutation-invariant but survival is not"
+    },
+    {
+      "from": "Skin in the game",
+      "to": "The ensemble average is the local descriptor of a barrier-shielded agent"
+    },
+    {
+      "from": "Skin in the game",
       "to": "The four-step decoupling from participation to the veil"
+    },
+    {
+      "from": "Skin in the game",
+      "to": "The isqa refuses the agent's shield"
     },
     {
       "from": "Skin in the game",
@@ -8533,6 +8610,70 @@
     {
       "from": "Syndication and the misma moneda are pooling not prudence",
       "to": "loss_mitigation_forms"
+    },
+    {
+      "from": "Taleb reads survival as evidence about the survivor and we read it as evidence about the filter",
+      "to": "Galton-Watson is the extinction branch Peters named and did not develop"
+    },
+    {
+      "from": "Taleb reads survival as evidence about the survivor and we read it as evidence about the filter",
+      "to": "Guard against reverse-teleology"
+    },
+    {
+      "from": "Taleb reads survival as evidence about the survivor and we read it as evidence about the filter",
+      "to": "MOC - Defending the ergodicity claim"
+    },
+    {
+      "from": "Taleb reads survival as evidence about the survivor and we read it as evidence about the filter",
+      "to": "MOC - Ergodicity and the time-ensemble distinction"
+    },
+    {
+      "from": "Taleb reads survival as evidence about the survivor and we read it as evidence about the filter",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Taleb reads survival as evidence about the survivor and we read it as evidence about the filter",
+      "to": "MOC - Historiography and method"
+    },
+    {
+      "from": "Taleb reads survival as evidence about the survivor and we read it as evidence about the filter",
+      "to": "Non-ergodicity collapses the likelihood ratio on outcomes"
+    },
+    {
+      "from": "Taleb reads survival as evidence about the survivor and we read it as evidence about the filter",
+      "to": "Persistence samples are conditioned on non-absorption"
+    },
+    {
+      "from": "Taleb reads survival as evidence about the survivor and we read it as evidence about the filter",
+      "to": "Refusals are observations of the filter not inferences from survivors"
+    },
+    {
+      "from": "Taleb reads survival as evidence about the survivor and we read it as evidence about the filter",
+      "to": "Skin in the game"
+    },
+    {
+      "from": "Taleb reads survival as evidence about the survivor and we read it as evidence about the filter",
+      "to": "The isqa is Lindy because captive not because robust"
+    },
+    {
+      "from": "Taleb reads survival as evidence about the survivor and we read it as evidence about the filter",
+      "to": "The market selection literature is the project's nearest formal neighbour"
+    },
+    {
+      "from": "Taleb reads survival as evidence about the survivor and we read it as evidence about the filter",
+      "to": "The naties are a six-century Lindy institution"
+    },
+    {
+      "from": "Taleb reads survival as evidence about the survivor and we read it as evidence about the filter",
+      "to": "The split is over whether the explanandum is a state or a trajectory"
+    },
+    {
+      "from": "Taleb reads survival as evidence about the survivor and we read it as evidence about the filter",
+      "to": "Time-average optimization is a survivorship property not an intention"
+    },
+    {
+      "from": "Taleb reads survival as evidence about the survivor and we read it as evidence about the filter",
+      "to": "Whiggish history of finance names the ascent narrative"
     },
     {
       "from": "Terminal wealth is permutation-invariant but survival is not",
