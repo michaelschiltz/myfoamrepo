@@ -164,6 +164,7 @@ digraph vault {
   "The moratorium held because leaving the pool is not a one-period cost" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "The morphological matrix is dictated by the shape of the feature space" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "The mudaraba is revocable not locked in" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
+  "The mutual pole entered the library through the wrong census" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "The naties are a six-century Lindy institution" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "The notarial security clause is boilerplate and cannot carry a typology" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "The opgeld prices the peril without separating it from interest" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
@@ -1132,6 +1133,7 @@ digraph vault {
   "MOC - Entity-shielding and corporate forms" -> "The ie as entity-shielding";
   "MOC - Entity-shielding and corporate forms" -> "The isqa is Lindy because captive not because robust";
   "MOC - Entity-shielding and corporate forms" -> "The isqa refuses the agent's shield";
+  "MOC - Entity-shielding and corporate forms" -> "The mutual pole entered the library through the wrong census";
   "MOC - Entity-shielding and corporate forms" -> "The naties are a six-century Lindy institution";
   "MOC - Entity-shielding and corporate forms" -> "The real cut is shielded-and-pooled versus unshielded";
   "MOC - Entity-shielding and corporate forms" -> "The waqf and the nación flamenca diverge only at legal personality";
@@ -2248,6 +2250,14 @@ digraph vault {
   "The mudaraba is revocable not locked in" -> "MOC - HistorEE";
   "The mudaraba is revocable not locked in" -> "MOC - Islamic contract doctrine";
   "The mudaraba is revocable not locked in" -> "The qirad envelops the sea loan";
+  "The mutual pole entered the library through the wrong census" -> "A scheme for extending the entity census";
+  "The mutual pole entered the library through the wrong census" -> "Entitlement by liability versus entitlement by membership";
+  "The mutual pole entered the library through the wrong census" -> "Entity-shielding";
+  "The mutual pole entered the library through the wrong census" -> "MOC - Entity-shielding and corporate forms";
+  "The mutual pole entered the library through the wrong census" -> "The real cut is shielded-and-pooled versus unshielded";
+  "The mutual pole entered the library through the wrong census" -> "The waqf partition converts absence into refusal";
+  "The mutual pole entered the library through the wrong census" -> "loss_mitigation_forms";
+  "The mutual pole entered the library through the wrong census" -> "organizational_forms";
   "The naties are a six-century Lindy institution" -> "MOC - Entity-shielding and corporate forms";
   "The naties are a six-century Lindy institution" -> "MOC - HistorEE";
   "The naties are a six-century Lindy institution" -> "Natie and kabu-nakama are a convergence pair";

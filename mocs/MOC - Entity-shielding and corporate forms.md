@@ -47,6 +47,7 @@ Thematic hub for the corporate-form apparatus: asset-partitioning, identity-wrap
 - [[Arthur's lock-in and capital lock-in are different objects]]
 - [[Absorption is a path-dependence mechanism distinct from reinforcement]]
 - [[A scheme for extending the entity census]]
+- [[The mutual pole entered the library through the wrong census]]
 
 ## Links
 
