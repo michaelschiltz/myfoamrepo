@@ -64,6 +64,20 @@ The general lesson is cheap to state and was expensive to reach: **a dependence 
 
 A characteristic returning the **same value for every form** is the mirror image: either genuinely invariant or under-specified, and the two are indistinguishable until a form breaks the tie. `interest-alienability` currently has zero variance across the coded set and carries no information at all. Note also that apparent collinearity at n=2 is not evidence of anything — any two characteristics look collinear across two forms.
 
+### `AP4` is the live case, and four batches have not moved it
+
+`AP4` — whether the endowed corpus leaves the founder's estate — carries **three** substantive cells across the whole census: `waqf_khayri`, `begijnhof` and `avariz_vakfi`, **all coding `1`**, with `.NA` on the other twenty-one forms. Verified against `data.csv` at 833 rows, 2026-09-09. Four consecutive coding batches have passed it without breaking the tie.
+
+The instances went up and the information did not, and that is the point: **a third form at the same value adds a case and not a state.** Zero variance is discharged only by a form that takes a *different* value, so acquisition aimed at this cell has to be aimed at a form that **can answer differently** — here a founder-endowed corpus that does *not* leave the founder's estate. That is a sharper reading of *add forms, not features*: the form has to be one the characteristic could distinguish, or it buys a row and no degree of freedom.
+
+What such a characteristic should carry, and now does, is an explicit **prohibition** rather than a caution in the reader's head: `AP4` may not enter a similarity or difference claim on entity-shielding until some founder-endowed form takes a value other than `1`. A zero-variance characteristic is not merely uninformative — left unmarked it is *available*, and a comparative sentence written from it will look exactly like one written from evidence.
+
+### The second-order failure, which is the one that nearly worked
+
+`AP4`'s own definition said the column held "two coded forms and one value between them" while the column held three — and **the count was stale on the day it was written**, because the same pass that wrote the sentence recoded `begijnhof` from `.NR` to `1`. A reader arriving later could reasonably have taken the third instance as news, and read the prohibition as discharged by the very sentence that imposed it.
+
+Nothing about the coded values was wrong. What was wrong was a sentence *about* the values, in the place a reader goes to find out what the values mean. **A claim about the evidence is itself a claim and has to be counted like one** — see [[A claim set chosen after the coding reports the analyst]], where the same failure reached a generated appendix.
+
 ## Links
 
 - [[Typology and character coding literature]]

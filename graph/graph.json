@@ -23,7 +23,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "A claim set chosen after the coding reports the analyst",
-      "value": 15,
+      "value": 16,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -104,7 +104,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "A scheme for extending the entity census",
-      "value": 25,
+      "value": 27,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -284,7 +284,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Count degrees of freedom not cells",
-      "value": 45,
+      "value": 46,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -599,7 +599,7 @@
       "type": "source",
       "group": "source",
       "label": "Harris 2020 on the late plurality of limited liability",
-      "value": 32,
+      "value": 33,
       "color": "#7570b3",
       "shape": "dot"
     },
@@ -1706,7 +1706,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The tontine's chronology defeats the hazard-to-pricing staging",
-      "value": 26,
+      "value": 27,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -2562,6 +2562,10 @@
     },
     {
       "from": "A scheme for extending the entity census",
+      "to": "The tontine's chronology defeats the hazard-to-pricing staging"
+    },
+    {
+      "from": "A scheme for extending the entity census",
       "to": "Transferable claims reconcile lock-in with member exit"
     },
     {
@@ -3307,6 +3311,10 @@
     {
       "from": "Cooperation is an averaging puzzle and sovereign repayment is a barrier puzzle",
       "to": "The sustainability criterion assumes the ergodicity it should be testing"
+    },
+    {
+      "from": "Count degrees of freedom not cells",
+      "to": "A claim set chosen after the coding reports the analyst"
     },
     {
       "from": "Count degrees of freedom not cells",

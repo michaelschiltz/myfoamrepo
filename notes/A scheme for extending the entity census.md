@@ -51,12 +51,12 @@ jurisdiction and, from the mid-fifteenth century, territory governed in its own 
 before the VOC, which this census also does not contain.
 
 If the entity signature of San Giorgio and the VOC is substantially the same, that is a **third
-instance of the pattern this vault already has twice**: [[The tontine's chronology defeats the
-hazard-to-pricing staging]] and [[Naviganti delayed the priced premium it is credited with dating]].
+instance of the pattern this vault already has twice**: [[The tontine's chronology defeats the hazard-to-pricing staging]] and
+[[Naviganti delayed the priced premium it is credited with dating]].
 Both defeat a staging by dating; both do it on the *pricing* axis. San Giorgio would do it on the
-**entity** axis, against exactly the account [[Harris 2020 on the late plurality of limited
-liability]] and [[The Roman universitas makes the JSC case parallelism not convergence]] are already
-circling. That is the most consequential single row available to this dataset.
+**entity** axis, against exactly the account
+[[Harris 2020 on the late plurality of limited liability]] and
+[[The Roman universitas makes the JSC case parallelism not convergence]] are already circling. That is the most consequential single row available to this dataset.
 
 Two disciplines on it, and both come from the source rather than from us. Taviani's own preface says
 San Giorgio "was neither a joint stock company nor a bank," and that it is "difficult to define San
@@ -83,6 +83,30 @@ Taviani argues diffusion from Genoa to London and Amsterdam, which makes San Gio
    body of evidence twice. The standing rule — code the class, not the entity, where rights differ by
    class — leaves open whether the entity row is admissible at all, and that is a logbook question
    before it is a coding one.
+
+**TESTED 2026-09-06, and the test arrived from the other direction.** The case was `joint_stock`,
+which was **already coded** — two cells, `LP1=1` and `AP3=P`, sitting above the three `voc` rows.
+Outcome: declared an umbrella and left **uncoded**, with zero rows in `data.csv` (verified at 833
+rows, 2026-09-09). Narrowing the type and moving its cells down were both considered and rejected on
+the evidence.
+
+The corollary the rule did not have: **an umbrella that is already coded is removed, not narrowed and
+not recoded.** A recode licence cannot be exercised on it, because **the defect is the row and not
+the values** — there is no value that stops a row entering one body of evidence twice.
+
+Removal has a price at each end, and both are worth stating before the next one.
+
+- **Instances are lost.** At removal `LP1=1` fell from six forms to five and `AP3=P` from three to
+  two. `AP3=P` still stands at two (`bazacle_mill`, `partenrederij`); `LP1=1` is back to six only
+  because `chartered_corporation_england` was coded the next day. And the loss exposed what the
+  umbrella had been doing: of the five forms coding `LP1=1` immediately after it,
+  **three were the `voc` rows `joint_stock` had been sitting directly above.** Its apparent
+  corroboration was largely its own children. (Counts as at 833 rows, 2026-09-09 — and note that the
+  `LP1` figure moved within a day, which is the reason a count belongs with its date.)
+- **Ids go as gaps, never as a renumbering.** `record_id` is declared never reused and no dataset
+  constrains contiguity, so `OF-0032` and `OF-0033` are simply absent. Renumbering would have
+  silently changed the referent of **39 `OF-` ids cited 398 times** in prose. **Row count and last id
+  will never agree again**, which is much the cheaper of the two prices.
 
 ## A protocol point
 
@@ -112,7 +136,9 @@ the bundle for the forms where the coder genuinely meets the material for the fi
 ## Source
 
 `organizational_forms` 0.8.0 and `loss_mitigation_forms` 0.6.0 as at `dccf130`, read directly; the
-zero-instance list and the density figures are computed from `data.csv`, not asserted. Taviani,
+zero-instance list and the density figures are computed from `data.csv`, not asserted. **The umbrella
+paragraph was added 2026-09-09** against the census at 833 rows and 33 coded forms; the figures in
+the body above are unrevised and still describe 0.8.0. Taviani,
 *The Making of the Modern Corporation: The Casa di San Giorgio and its Legacy (1446–1720)* (2022),
 preface and contents, held and readable (Zotero `KG9A5SRM`). The priority ordering is proposed here
 and is nobody else's; the stuck-cell diagnoses are readable off the data.
