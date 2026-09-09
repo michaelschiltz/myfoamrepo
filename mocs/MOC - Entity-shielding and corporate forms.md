@@ -48,6 +48,10 @@ Thematic hub for the corporate-form apparatus: asset-partitioning, identity-wrap
 - [[Absorption is a path-dependence mechanism distinct from reinforcement]]
 - [[A scheme for extending the entity census]]
 - [[The mutual pole entered the library through the wrong census]]
+- [[The liability characteristics cannot express what Harris found]]
+- [[The creditor limb of entity shielding has no witness]]
+- [[The Antwerp phases separate on two cells and the boundary is textual]]
+- [[Independence of apparatus is not independence of question]]
 
 ## Links
 

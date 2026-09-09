@@ -185,6 +185,17 @@ Project hub for the book. Atomic notes hang off both this project MOC and a them
 
 - [[Taleb reads survival as evidence about the survivor and we read it as evidence about the filter]]
 
+## Notes — English shielding batches and the blinding audit
+
+- [[Independence of apparatus is not independence of question]]
+- [[Galton's problem applies to the apparatus not only to the institutions]]
+- [[The liability characteristics cannot express what Harris found]]
+- [[The creditor limb of entity shielding has no witness]]
+- [[The Antwerp phases separate on two cells and the boundary is textual]]
+- [[A blind is a property of the channel not of the dataset]]
+- [[A prediction is evidence only if its priority is committed]]
+- [[A claim set chosen after the coding reports the analyst]]
+
 ## Concept anchors
 
 - [[Absorbing barrier]]

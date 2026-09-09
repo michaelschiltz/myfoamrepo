@@ -105,3 +105,13 @@ Where the sources for the European companies are and are not machine-readable is
 - [[Attractor selection bounds what a persistence design can resolve]] — the retrodictive corollary of the multi-attractor case
 - [[A significant persistence coefficient is evidence against its own licensing condition]] — the squeeze, stated as an inequality between relaxation time and horizon
 - [[Sort the persistence objections by what they cost the referee]] — how the four sort, and which one a referee has to pay for
+
+## Added 2026-09-09 — the English shielding batches, and blinding
+
+- [[Independence of apparatus is not independence of question]] — why a corrective from outside the frame discharged nothing
+- [[Galton's problem applies to the apparatus not only to the institutions]] — the independence test, run on the sources rather than on the forms
+- [[A blind is a property of the channel not of the dataset]] — the four leaks no value-set split addresses
+- [[A prediction is evidence only if its priority is committed]] — one priors file against four blind batches
+- [[A claim set chosen after the coding reports the analyst]] — the pre-registration argument, met in a generated appendix
+- [[The Antwerp phases separate on two cells and the boundary is textual]] — a compilation boundary is not a form boundary
+- [[The liability characteristics cannot express what Harris found]] — a `.NR` that is a result about the vocabulary

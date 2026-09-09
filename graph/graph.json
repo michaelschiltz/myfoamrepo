@@ -1,11 +1,29 @@
 {
   "nodes": [
     {
+      "id": "A blind is a property of the channel not of the dataset",
+      "type": "permanent",
+      "group": "seed",
+      "label": "A blind is a property of the channel not of the dataset",
+      "value": 13,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
       "id": "A blind re-coding is only blind if the value sets are",
       "type": "permanent",
       "group": "seed",
       "label": "A blind re-coding is only blind if the value sets are",
-      "value": 11,
+      "value": 15,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "A claim set chosen after the coding reports the analyst",
+      "type": "permanent",
+      "group": "seed",
+      "label": "A claim set chosen after the coding reports the analyst",
+      "value": 15,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -55,6 +73,15 @@
       "shape": "dot"
     },
     {
+      "id": "A prediction is evidence only if its priority is committed",
+      "type": "permanent",
+      "group": "seed",
+      "label": "A prediction is evidence only if its priority is committed",
+      "value": 14,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
       "id": "A route clause conditions the investor's peril in three traditions",
       "type": "permanent",
       "group": "seed",
@@ -86,7 +113,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "A shared compilation never licenses an inference to shared practice",
-      "value": 4,
+      "value": 7,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -257,7 +284,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Count degrees of freedom not cells",
-      "value": 38,
+      "value": 45,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -329,7 +356,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Divergent arbitrary particulars are the independence diagnostic",
-      "value": 40,
+      "value": 41,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -419,7 +446,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Entity shielding and owner shielding protect different trajectories",
-      "value": 28,
+      "value": 32,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -428,7 +455,7 @@
       "type": "permanent",
       "group": "stub",
       "label": "Entity-shielding",
-      "value": 52,
+      "value": 54,
       "color": "#666666",
       "shape": "dot"
     },
@@ -514,11 +541,20 @@
       "shape": "dot"
     },
     {
+      "id": "Galton's problem applies to the apparatus not only to the institutions",
+      "type": "permanent",
+      "group": "seed",
+      "label": "Galton's problem applies to the apparatus not only to the institutions",
+      "value": 19,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
       "id": "Galton's problem",
       "type": "permanent",
       "group": "seed",
       "label": "Galton's problem",
-      "value": 44,
+      "value": 45,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -563,7 +599,7 @@
       "type": "source",
       "group": "source",
       "label": "Harris 2020 on the late plurality of limited liability",
-      "value": 26,
+      "value": 32,
       "color": "#7570b3",
       "shape": "dot"
     },
@@ -591,6 +627,15 @@
       "group": "seed",
       "label": "Identity-wrapper and perpetual-monopoly are distinct shielding facets",
       "value": 16,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "Independence of apparatus is not independence of question",
+      "type": "permanent",
+      "group": "seed",
+      "label": "Independence of apparatus is not independence of question",
+      "value": 19,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -761,7 +806,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Natie is a false cognate",
-      "value": 20,
+      "value": 21,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -788,7 +833,7 @@
       "type": "permanent",
       "group": "stub",
       "label": "Never let the units slide from instruments to populations",
-      "value": 53,
+      "value": 55,
       "color": "#666666",
       "shape": "dot"
     },
@@ -950,7 +995,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Refusals are observations of the filter not inferences from survivors",
-      "value": 71,
+      "value": 76,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1085,7 +1130,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Split provenance into priority and independence",
-      "value": 25,
+      "value": 28,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1131,6 +1176,15 @@
       "group": "seed",
       "label": "Terminal wealth is permutation-invariant but survival is not",
       "value": 33,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "The Antwerp phases separate on two cells and the boundary is textual",
+      "type": "permanent",
+      "group": "seed",
+      "label": "The Antwerp phases separate on two cells and the boundary is textual",
+      "value": 18,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1247,7 +1301,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The coding commons must record stated rationale not only component presence",
-      "value": 37,
+      "value": 39,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1274,7 +1328,16 @@
       "type": "permanent",
       "group": "seed",
       "label": "The corporation is not the omega - the naties are an undisplaced niche",
-      "value": 32,
+      "value": 35,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "The creditor limb of entity shielding has no witness",
+      "type": "permanent",
+      "group": "seed",
+      "label": "The creditor limb of entity shielding has no witness",
+      "value": 17,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1283,7 +1346,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The deficit reading of absence is the scalar ranking in evidentiary form",
-      "value": 34,
+      "value": 39,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1423,6 +1486,15 @@
       "shape": "dot"
     },
     {
+      "id": "The liability characteristics cannot express what Harris found",
+      "type": "permanent",
+      "group": "seed",
+      "label": "The liability characteristics cannot express what Harris found",
+      "value": 24,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
       "id": "The liability principle was demoted from rule to maxim",
       "type": "permanent",
       "group": "seed",
@@ -1454,7 +1526,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The morphological matrix is dictated by the shape of the feature space",
-      "value": 35,
+      "value": 37,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1652,7 +1724,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The waqf and the nación flamenca diverge only at legal personality",
-      "value": 14,
+      "value": 15,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1661,7 +1733,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The waqf partition converts absence into refusal",
-      "value": 20,
+      "value": 21,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1751,7 +1823,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Transmission versus independent recurrence is the load-bearing test",
-      "value": 39,
+      "value": 41,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1832,7 +1904,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Whiggish history of finance names the ascent narrative",
-      "value": 19,
+      "value": 21,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1859,7 +1931,7 @@
       "type": "permanent",
       "group": "stub",
       "label": "limited-liability",
-      "value": 15,
+      "value": 16,
       "color": "#666666",
       "shape": "dot"
     },
@@ -1904,7 +1976,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Entity-shielding and corporate forms",
-      "value": 96,
+      "value": 104,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -1922,7 +1994,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - HistorEE",
-      "value": 333,
+      "value": 349,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -1931,7 +2003,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Historiography and method",
-      "value": 166,
+      "value": 180,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -1972,20 +2044,20 @@
       "shape": "dot"
     },
     {
-      "id": "loss_mitigation_forms",
-      "type": "database",
-      "group": "database",
-      "label": "loss_mitigation_forms",
-      "value": 39,
-      "color": "#a6761d",
-      "shape": "database"
-    },
-    {
       "id": "organizational_forms",
       "type": "database",
       "group": "database",
       "label": "organizational_forms",
-      "value": 15,
+      "value": 23,
+      "color": "#a6761d",
+      "shape": "database"
+    },
+    {
+      "id": "loss_mitigation_forms",
+      "type": "database",
+      "group": "database",
+      "label": "loss_mitigation_forms",
+      "value": 40,
       "color": "#a6761d",
       "shape": "database"
     },
@@ -2000,6 +2072,38 @@
     }
   ],
   "edges": [
+    {
+      "from": "A blind is a property of the channel not of the dataset",
+      "to": "A blind re-coding is only blind if the value sets are"
+    },
+    {
+      "from": "A blind is a property of the channel not of the dataset",
+      "to": "A prediction is evidence only if its priority is committed"
+    },
+    {
+      "from": "A blind is a property of the channel not of the dataset",
+      "to": "Count degrees of freedom not cells"
+    },
+    {
+      "from": "A blind is a property of the channel not of the dataset",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "A blind is a property of the channel not of the dataset",
+      "to": "MOC - Historiography and method"
+    },
+    {
+      "from": "A blind is a property of the channel not of the dataset",
+      "to": "Refusals are observations of the filter not inferences from survivors"
+    },
+    {
+      "from": "A blind is a property of the channel not of the dataset",
+      "to": "The coding commons must record stated rationale not only component presence"
+    },
+    {
+      "from": "A blind is a property of the channel not of the dataset",
+      "to": "organizational_forms"
+    },
     {
       "from": "A blind re-coding is only blind if the value sets are",
       "to": "Count degrees of freedom not cells"
@@ -2035,6 +2139,42 @@
     {
       "from": "A blind re-coding is only blind if the value sets are",
       "to": "loss_mitigation_forms"
+    },
+    {
+      "from": "A claim set chosen after the coding reports the analyst",
+      "to": "A blind re-coding is only blind if the value sets are"
+    },
+    {
+      "from": "A claim set chosen after the coding reports the analyst",
+      "to": "A prediction is evidence only if its priority is committed"
+    },
+    {
+      "from": "A claim set chosen after the coding reports the analyst",
+      "to": "Count degrees of freedom not cells"
+    },
+    {
+      "from": "A claim set chosen after the coding reports the analyst",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "A claim set chosen after the coding reports the analyst",
+      "to": "MOC - Historiography and method"
+    },
+    {
+      "from": "A claim set chosen after the coding reports the analyst",
+      "to": "The deficit reading of absence is the scalar ranking in evidentiary form"
+    },
+    {
+      "from": "A claim set chosen after the coding reports the analyst",
+      "to": "The morphological matrix is dictated by the shape of the feature space"
+    },
+    {
+      "from": "A claim set chosen after the coding reports the analyst",
+      "to": "loss_mitigation_forms"
+    },
+    {
+      "from": "A claim set chosen after the coding reports the analyst",
+      "to": "organizational_forms"
     },
     {
       "from": "A concealed premium is evidence about the notary not about the price",
@@ -2235,6 +2375,38 @@
     {
       "from": "A persistence parameter stable across regime change indicts the measure",
       "to": "Voigtlander and Voth measured the relaxation time and reported a mixture"
+    },
+    {
+      "from": "A prediction is evidence only if its priority is committed",
+      "to": "A blind is a property of the channel not of the dataset"
+    },
+    {
+      "from": "A prediction is evidence only if its priority is committed",
+      "to": "A blind re-coding is only blind if the value sets are"
+    },
+    {
+      "from": "A prediction is evidence only if its priority is committed",
+      "to": "A claim set chosen after the coding reports the analyst"
+    },
+    {
+      "from": "A prediction is evidence only if its priority is committed",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "A prediction is evidence only if its priority is committed",
+      "to": "MOC - Historiography and method"
+    },
+    {
+      "from": "A prediction is evidence only if its priority is committed",
+      "to": "Refusals are observations of the filter not inferences from survivors"
+    },
+    {
+      "from": "A prediction is evidence only if its priority is committed",
+      "to": "The coding commons must record stated rationale not only component presence"
+    },
+    {
+      "from": "A prediction is evidence only if its priority is committed",
+      "to": "organizational_forms"
     },
     {
       "from": "A route clause conditions the investor's peril in three traditions",
@@ -4301,6 +4473,46 @@
       "to": "Transmission versus independent recurrence is the load-bearing test"
     },
     {
+      "from": "Galton's problem applies to the apparatus not only to the institutions",
+      "to": "A shared compilation never licenses an inference to shared practice"
+    },
+    {
+      "from": "Galton's problem applies to the apparatus not only to the institutions",
+      "to": "Divergent arbitrary particulars are the independence diagnostic"
+    },
+    {
+      "from": "Galton's problem applies to the apparatus not only to the institutions",
+      "to": "Galton's problem"
+    },
+    {
+      "from": "Galton's problem applies to the apparatus not only to the institutions",
+      "to": "Harris 2020 on the late plurality of limited liability"
+    },
+    {
+      "from": "Galton's problem applies to the apparatus not only to the institutions",
+      "to": "Independence of apparatus is not independence of question"
+    },
+    {
+      "from": "Galton's problem applies to the apparatus not only to the institutions",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Galton's problem applies to the apparatus not only to the institutions",
+      "to": "MOC - Historiography and method"
+    },
+    {
+      "from": "Galton's problem applies to the apparatus not only to the institutions",
+      "to": "Split provenance into priority and independence"
+    },
+    {
+      "from": "Galton's problem applies to the apparatus not only to the institutions",
+      "to": "Transmission versus independent recurrence is the load-bearing test"
+    },
+    {
+      "from": "Galton's problem applies to the apparatus not only to the institutions",
+      "to": "organizational_forms"
+    },
+    {
       "from": "Galton-Watson is the extinction branch Peters named and did not develop",
       "to": "Absorption is a path-dependence mechanism distinct from reinforcement"
     },
@@ -4470,6 +4682,10 @@
     },
     {
       "from": "Harris 2020 on the late plurality of limited liability",
+      "to": "Galton's problem applies to the apparatus not only to the institutions"
+    },
+    {
+      "from": "Harris 2020 on the late plurality of limited liability",
       "to": "MOC - Entity-shielding and corporate forms"
     },
     {
@@ -4487,6 +4703,10 @@
     {
       "from": "Harris 2020 on the late plurality of limited liability",
       "to": "The corporation is not the omega - the naties are an undisplaced niche"
+    },
+    {
+      "from": "Harris 2020 on the late plurality of limited liability",
+      "to": "The liability characteristics cannot express what Harris found"
     },
     {
       "from": "Harris 2020 on the late plurality of limited liability",
@@ -4647,6 +4867,50 @@
     {
       "from": "Identity-wrapper and perpetual-monopoly are distinct shielding facets",
       "to": "The alleenrecht is monopoly held as tradable property"
+    },
+    {
+      "from": "Independence of apparatus is not independence of question",
+      "to": "Entity shielding and owner shielding protect different trajectories"
+    },
+    {
+      "from": "Independence of apparatus is not independence of question",
+      "to": "Galton's problem applies to the apparatus not only to the institutions"
+    },
+    {
+      "from": "Independence of apparatus is not independence of question",
+      "to": "Harris 2020 on the late plurality of limited liability"
+    },
+    {
+      "from": "Independence of apparatus is not independence of question",
+      "to": "MOC - Entity-shielding and corporate forms"
+    },
+    {
+      "from": "Independence of apparatus is not independence of question",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Independence of apparatus is not independence of question",
+      "to": "MOC - Historiography and method"
+    },
+    {
+      "from": "Independence of apparatus is not independence of question",
+      "to": "Refusals are observations of the filter not inferences from survivors"
+    },
+    {
+      "from": "Independence of apparatus is not independence of question",
+      "to": "Split provenance into priority and independence"
+    },
+    {
+      "from": "Independence of apparatus is not independence of question",
+      "to": "The deficit reading of absence is the scalar ranking in evidentiary form"
+    },
+    {
+      "from": "Independence of apparatus is not independence of question",
+      "to": "The liability characteristics cannot express what Harris found"
+    },
+    {
+      "from": "Independence of apparatus is not independence of question",
+      "to": "organizational_forms"
     },
     {
       "from": "Institutions substitute state-verification for outcome-inference as ruin exposure rises",
@@ -5546,6 +5810,10 @@
     },
     {
       "from": "MOC - Entity-shielding and corporate forms",
+      "to": "Independence of apparatus is not independence of question"
+    },
+    {
+      "from": "MOC - Entity-shielding and corporate forms",
       "to": "Isqa qirad and commenda are a liability-variable triad"
     },
     {
@@ -5602,6 +5870,10 @@
     },
     {
       "from": "MOC - Entity-shielding and corporate forms",
+      "to": "The Antwerp phases separate on two cells and the boundary is textual"
+    },
+    {
+      "from": "MOC - Entity-shielding and corporate forms",
       "to": "The Bodmerei shield was a default rule and Amsterdam contracted out of it"
     },
     {
@@ -5615,6 +5887,10 @@
     {
       "from": "MOC - Entity-shielding and corporate forms",
       "to": "The corporation is not the omega - the naties are an undisplaced niche"
+    },
+    {
+      "from": "MOC - Entity-shielding and corporate forms",
+      "to": "The creditor limb of entity shielding has no witness"
     },
     {
       "from": "MOC - Entity-shielding and corporate forms",
@@ -5639,6 +5915,10 @@
     {
       "from": "MOC - Entity-shielding and corporate forms",
       "to": "The isqa refuses the agent's shield"
+    },
+    {
+      "from": "MOC - Entity-shielding and corporate forms",
+      "to": "The liability characteristics cannot express what Harris found"
     },
     {
       "from": "MOC - Entity-shielding and corporate forms",
@@ -5954,11 +6234,23 @@
     },
     {
       "from": "MOC - HistorEE",
+      "to": "A blind is a property of the channel not of the dataset"
+    },
+    {
+      "from": "MOC - HistorEE",
+      "to": "A claim set chosen after the coding reports the analyst"
+    },
+    {
+      "from": "MOC - HistorEE",
       "to": "A contingency clause priced at zero is evidence for a time-average criterion"
     },
     {
       "from": "MOC - HistorEE",
       "to": "A migrated institution collects local names not local forms"
+    },
+    {
+      "from": "MOC - HistorEE",
+      "to": "A prediction is evidence only if its priority is committed"
     },
     {
       "from": "MOC - HistorEE",
@@ -6078,6 +6370,10 @@
     },
     {
       "from": "MOC - HistorEE",
+      "to": "Galton's problem applies to the apparatus not only to the institutions"
+    },
+    {
+      "from": "MOC - HistorEE",
       "to": "Galton-Watson is the extinction branch Peters named and did not develop"
     },
     {
@@ -6095,6 +6391,10 @@
     {
       "from": "MOC - HistorEE",
       "to": "Identity-wrapper and perpetual-monopoly are distinct shielding facets"
+    },
+    {
+      "from": "MOC - HistorEE",
+      "to": "Independence of apparatus is not independence of question"
     },
     {
       "from": "MOC - HistorEE",
@@ -6250,6 +6550,10 @@
     },
     {
       "from": "MOC - HistorEE",
+      "to": "The Antwerp phases separate on two cells and the boundary is textual"
+    },
+    {
+      "from": "MOC - HistorEE",
       "to": "The Roman universitas makes the JSC case parallelism not convergence"
     },
     {
@@ -6283,6 +6587,10 @@
     {
       "from": "MOC - HistorEE",
       "to": "The contingent asiento is a missing form in loss_mitigation_forms"
+    },
+    {
+      "from": "MOC - HistorEE",
+      "to": "The creditor limb of entity shielding has no witness"
     },
     {
       "from": "MOC - HistorEE",
@@ -6327,6 +6635,10 @@
     {
       "from": "MOC - HistorEE",
       "to": "The isqa's bifurcation belongs to the Sasanian substrate question"
+    },
+    {
+      "from": "MOC - HistorEE",
+      "to": "The liability characteristics cannot express what Harris found"
     },
     {
       "from": "MOC - HistorEE",
@@ -6450,7 +6762,15 @@
     },
     {
       "from": "MOC - Historiography and method",
+      "to": "A blind is a property of the channel not of the dataset"
+    },
+    {
+      "from": "MOC - Historiography and method",
       "to": "A blind re-coding is only blind if the value sets are"
+    },
+    {
+      "from": "MOC - Historiography and method",
+      "to": "A claim set chosen after the coding reports the analyst"
     },
     {
       "from": "MOC - Historiography and method",
@@ -6459,6 +6779,10 @@
     {
       "from": "MOC - Historiography and method",
       "to": "A persistence parameter stable across regime change indicts the measure"
+    },
+    {
+      "from": "MOC - Historiography and method",
+      "to": "A prediction is evidence only if its priority is committed"
     },
     {
       "from": "MOC - Historiography and method",
@@ -6530,6 +6854,10 @@
     },
     {
       "from": "MOC - Historiography and method",
+      "to": "Galton's problem applies to the apparatus not only to the institutions"
+    },
+    {
+      "from": "MOC - Historiography and method",
       "to": "Guard against reverse-teleology"
     },
     {
@@ -6539,6 +6867,10 @@
     {
       "from": "MOC - Historiography and method",
       "to": "Homoplasy is the finding not the noise"
+    },
+    {
+      "from": "MOC - Historiography and method",
+      "to": "Independence of apparatus is not independence of question"
     },
     {
       "from": "MOC - Historiography and method",
@@ -6626,6 +6958,10 @@
     },
     {
       "from": "MOC - Historiography and method",
+      "to": "The Antwerp phases separate on two cells and the boundary is textual"
+    },
+    {
+      "from": "MOC - Historiography and method",
       "to": "The QDL corpus is conditioned on its funder's geography"
     },
     {
@@ -6659,6 +6995,10 @@
     {
       "from": "MOC - Historiography and method",
       "to": "The isqa's bifurcation belongs to the Sasanian substrate question"
+    },
+    {
+      "from": "MOC - Historiography and method",
+      "to": "The liability characteristics cannot express what Harris found"
     },
     {
       "from": "MOC - Historiography and method",
@@ -8725,6 +9065,50 @@
       "to": "Time-average optimization is a survivorship property not an intention"
     },
     {
+      "from": "The Antwerp phases separate on two cells and the boundary is textual",
+      "to": "A shared compilation never licenses an inference to shared practice"
+    },
+    {
+      "from": "The Antwerp phases separate on two cells and the boundary is textual",
+      "to": "Count degrees of freedom not cells"
+    },
+    {
+      "from": "The Antwerp phases separate on two cells and the boundary is textual",
+      "to": "Entity-shielding"
+    },
+    {
+      "from": "The Antwerp phases separate on two cells and the boundary is textual",
+      "to": "MOC - Entity-shielding and corporate forms"
+    },
+    {
+      "from": "The Antwerp phases separate on two cells and the boundary is textual",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "The Antwerp phases separate on two cells and the boundary is textual",
+      "to": "MOC - Historiography and method"
+    },
+    {
+      "from": "The Antwerp phases separate on two cells and the boundary is textual",
+      "to": "Natie is a false cognate"
+    },
+    {
+      "from": "The Antwerp phases separate on two cells and the boundary is textual",
+      "to": "Never let the units slide from instruments to populations"
+    },
+    {
+      "from": "The Antwerp phases separate on two cells and the boundary is textual",
+      "to": "The corporation is not the omega - the naties are an undisplaced niche"
+    },
+    {
+      "from": "The Antwerp phases separate on two cells and the boundary is textual",
+      "to": "The waqf and the nación flamenca diverge only at legal personality"
+    },
+    {
+      "from": "The Antwerp phases separate on two cells and the boundary is textual",
+      "to": "organizational_forms"
+    },
+    {
       "from": "The Bodmerei shield was a default rule and Amsterdam contracted out of it",
       "to": "MOC - Entity-shielding and corporate forms"
     },
@@ -9341,6 +9725,50 @@
       "to": "The naties are a six-century Lindy institution"
     },
     {
+      "from": "The creditor limb of entity shielding has no witness",
+      "to": "Count degrees of freedom not cells"
+    },
+    {
+      "from": "The creditor limb of entity shielding has no witness",
+      "to": "Entity shielding and owner shielding protect different trajectories"
+    },
+    {
+      "from": "The creditor limb of entity shielding has no witness",
+      "to": "Entity-shielding"
+    },
+    {
+      "from": "The creditor limb of entity shielding has no witness",
+      "to": "Galton's problem applies to the apparatus not only to the institutions"
+    },
+    {
+      "from": "The creditor limb of entity shielding has no witness",
+      "to": "Independence of apparatus is not independence of question"
+    },
+    {
+      "from": "The creditor limb of entity shielding has no witness",
+      "to": "MOC - Entity-shielding and corporate forms"
+    },
+    {
+      "from": "The creditor limb of entity shielding has no witness",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "The creditor limb of entity shielding has no witness",
+      "to": "Refusals are observations of the filter not inferences from survivors"
+    },
+    {
+      "from": "The creditor limb of entity shielding has no witness",
+      "to": "The deficit reading of absence is the scalar ranking in evidentiary form"
+    },
+    {
+      "from": "The creditor limb of entity shielding has no witness",
+      "to": "The waqf partition converts absence into refusal"
+    },
+    {
+      "from": "The creditor limb of entity shielding has no witness",
+      "to": "organizational_forms"
+    },
+    {
       "from": "The deficit reading of absence is the scalar ranking in evidentiary form",
       "to": "Guard against reverse-teleology"
     },
@@ -9927,6 +10355,62 @@
     {
       "from": "The isqa's bifurcation belongs to the Sasanian substrate question",
       "to": "isqa"
+    },
+    {
+      "from": "The liability characteristics cannot express what Harris found",
+      "to": "Count degrees of freedom not cells"
+    },
+    {
+      "from": "The liability characteristics cannot express what Harris found",
+      "to": "Entity shielding and owner shielding protect different trajectories"
+    },
+    {
+      "from": "The liability characteristics cannot express what Harris found",
+      "to": "Galton's problem applies to the apparatus not only to the institutions"
+    },
+    {
+      "from": "The liability characteristics cannot express what Harris found",
+      "to": "Harris 2020 on the late plurality of limited liability"
+    },
+    {
+      "from": "The liability characteristics cannot express what Harris found",
+      "to": "Independence of apparatus is not independence of question"
+    },
+    {
+      "from": "The liability characteristics cannot express what Harris found",
+      "to": "MOC - Entity-shielding and corporate forms"
+    },
+    {
+      "from": "The liability characteristics cannot express what Harris found",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "The liability characteristics cannot express what Harris found",
+      "to": "MOC - Historiography and method"
+    },
+    {
+      "from": "The liability characteristics cannot express what Harris found",
+      "to": "The corporation is not the omega - the naties are an undisplaced niche"
+    },
+    {
+      "from": "The liability characteristics cannot express what Harris found",
+      "to": "The deficit reading of absence is the scalar ranking in evidentiary form"
+    },
+    {
+      "from": "The liability characteristics cannot express what Harris found",
+      "to": "The morphological matrix is dictated by the shape of the feature space"
+    },
+    {
+      "from": "The liability characteristics cannot express what Harris found",
+      "to": "Whiggish history of finance names the ascent narrative"
+    },
+    {
+      "from": "The liability characteristics cannot express what Harris found",
+      "to": "limited-liability"
+    },
+    {
+      "from": "The liability characteristics cannot express what Harris found",
+      "to": "organizational_forms"
     },
     {
       "from": "The liability principle was demoted from rule to maxim",
