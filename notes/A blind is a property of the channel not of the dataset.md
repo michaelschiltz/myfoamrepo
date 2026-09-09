@@ -19,9 +19,13 @@ a `definition` written so that no form's answer could be inferred.
 Building a real bundle for the `deed_of_settlement_company` re-coding — rather than a fixture —
 found four more leaks, **none of them inside the vocabulary and none addressed by that repair**.
 
-- **`graph.svg` was never regenerated and embeds every note title.** The vault's exporter rewrites
-  `.dot`, `.html` and `.json` and leaves the committed SVG alone, so **every blind bundle since the
-  graph handling was written shipped it**.
+- **A stale `graph.svg` embedding a thousand node and edge titles shipped in every bundle, and it
+  was not even in the repository.** The exporter writes `.dot`, `.html` and `.json` and no SVG —
+  deliberately, since 2026-08-02: `.gitignore` and the CI workflow both say layout output is
+  version-dependent, that nothing consumes it, and that it should be rendered on demand to `/tmp`.
+  The file was a **pre-decision leftover** left in the working tree when it was untracked, and
+  **`.gitignore` gave no protection, because a bundle copies the working tree and not the git
+  tree.** A file can be absent from the repository and present in every bundle.
 - **The wikilink dereferencer was line-oriented and this vault hard-wraps.** A link broken across a
   newline was missed, leaving a withheld title standing in a note the coder is told to read.
 - **The standing spent-blind table is not a dated section, so nothing scrubbed it.** The built bundle
@@ -46,7 +50,13 @@ Three of the five leaks are of one kind: **a record that is generated is stale t
 regenerated**, and a stale artefact inside a bundle is indistinguishable from a current one. The
 remedy that was adopted is the general one — record mtimes, run every generator, and **delete
 whatever the generator did not rewrite**, on the ground that an artefact nothing regenerates cannot
-be certified.
+be certified. Note what that remedy does *not* rely on: not the file's tracking status, not
+`.gitignore`, and not anyone remembering the file exists.
+
+**CORRECTED 2026-09-09.** The first version of the bullet above called the SVG "committed" and read
+the exporter's silence about it as an oversight. Both are wrong: the file is untracked, and not
+building it is a documented decision. The mistake made the finding weaker than it is — the leak did
+not come through the repository at all.
 
 ## The corollary about spending
 
