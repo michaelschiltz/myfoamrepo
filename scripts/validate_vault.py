@@ -6,7 +6,8 @@ Checks (errors fail the run, exit code 1):
   1. Frontmatter present with required keys (`source-session` required on
      non-MOC notes only), and `type` in the allowed set.
   2. Every heading (H1-H6) is followed by a blank line.
-  3. Every [[wikilink]] resolves (case-insensitively) to an existing note/MOC.
+  3. Every [[wikilink]] resolves (case-insensitively) to an existing note/MOC,
+     including links hard-wrapped across a newline.
   4. Every frontmatter tag appears in the controlled vocabulary (tags.md).
 
 Used by both the pre-commit hook and CI. Pure standard library.
@@ -43,6 +44,37 @@ def parse_tags(fm):
     if not m:
         return []
     return [t.strip() for t in m.group(1).split(",") if t.strip()]
+
+
+def scannable(text):
+    """The document with Foam's link-reference-definition footer lines blanked.
+
+    Those lines are the one construct whose brackets must never be read as
+    links, and they are recognisable only line by line — so they are removed
+    here, before the document is scanned as a whole.
+    """
+    return "\n".join("" if REFDEF.match(l) else l for l in text.split("\n"))
+
+
+def wikilink_targets(text):
+    """Yield every wikilink target in the document, whitespace-normalised.
+
+    Scanned per paragraph rather than per line. This vault hard-wraps its prose,
+    so a link can be broken across a newline, and a line-oriented scan does not
+    merely mis-resolve such a link — it never sees it at all, so the link goes
+    silently unchecked rather than reported.
+
+    The paragraph, not the line, is the right unit: a wikilink can cross a
+    newline and cannot cross a blank line, so scanning blocks keeps a stray
+    unclosed `[[` from swallowing the links that follow it, which whole-document
+    scanning would do.
+
+    Targets are normalised to single spaces, because Foam resolves by basename
+    and a basename contains no newline.
+    """
+    for block in re.split(r"\n[ \t]*\n", scannable(text)):
+        for m in WIKILINK.finditer(block):
+            yield " ".join(m.group(1).split())
 
 
 def controlled_vocab():
@@ -94,13 +126,9 @@ for pat in NOTE_GLOBS:
                 errors.append(f"{rel}:{i+1}: heading not followed by a blank line")
 
         # 3. wikilink resolution
-        for line in text.split("\n"):
-            if REFDEF.match(line):
-                continue
-            for m in WIKILINK.finditer(line):
-                tgt = m.group(1).strip()
-                if tgt.lower() not in basenames:
-                    errors.append(f"{rel}: unresolved wikilink [[{tgt}]]")
+        for tgt in wikilink_targets(text):
+            if tgt.lower() not in basenames:
+                errors.append(f"{rel}: unresolved wikilink [[{tgt}]]")
 
 # report
 for w in warnings:

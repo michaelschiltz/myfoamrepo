@@ -45,6 +45,26 @@ def classify(text, ntype):
     m = FM_STATUS.search(text)
     return m.group(1) if m else "default"
 
+def scannable(text):
+    """The document with Foam's link-reference-definition footer lines blanked."""
+    return "\n".join("" if REFDEF.match(l) else l for l in text.split("\n"))
+
+
+def wikilink_targets(text):
+    """Yield every wikilink target in the document, whitespace-normalised.
+
+    Scanned per paragraph rather than per line: this vault hard-wraps, and a
+    link broken across a newline is invisible to a line-oriented scan — so the
+    edge was silently missing from the graph rather than drawn wrongly. The
+    paragraph is the unit because a link can cross a newline and cannot cross a
+    blank line. Mirrors the same function in `validate_vault.py`; the two must
+    agree, or the validator will pass links the graph does not draw.
+    """
+    for block in re.split(r"\n[ \t]*\n", scannable(text)):
+        for m in WIKILINK.finditer(block):
+            yield " ".join(m.group(1).split())
+
+
 nodes, edges = {}, []
 for pat in SRC_GLOBS:
     for path in sorted(glob.glob(os.path.join(ROOT, pat))):
@@ -56,18 +76,14 @@ for pat in SRC_GLOBS:
 for pat in SRC_GLOBS:
     for path in sorted(glob.glob(os.path.join(ROOT, pat))):
         base = os.path.splitext(os.path.basename(path))[0]
-        for line in open(path, encoding="utf-8"):
-            if REFDEF.match(line):
-                continue
-            for m in WIKILINK.finditer(line):
-                tgt = m.group(1).strip()
-                # case-insensitive resolve to an existing node
-                if tgt not in nodes:
-                    hit = next((k for k in nodes if k.lower() == tgt.lower()), None)
-                    if hit:
-                        tgt = hit
-                if tgt in nodes and tgt != base:
-                    edges.append((base, tgt))
+        for tgt in wikilink_targets(open(path, encoding="utf-8").read()):
+            # case-insensitive resolve to an existing node
+            if tgt not in nodes:
+                hit = next((k for k in nodes if k.lower() == tgt.lower()), None)
+                if hit:
+                    tgt = hit
+            if tgt in nodes and tgt != base:
+                edges.append((base, tgt))
 
 # ---- database links: notes -> HistorEE_codebooks datasets, directed toward the DB
 def parse_db(text):
