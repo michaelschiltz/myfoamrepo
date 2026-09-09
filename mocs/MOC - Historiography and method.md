@@ -115,3 +115,9 @@ Where the sources for the European companies are and are not machine-readable is
 - [[A claim set chosen after the coding reports the analyst]] — the pre-registration argument, met in a generated appendix
 - [[The Antwerp phases separate on two cells and the boundary is textual]] — a compilation boundary is not a form boundary
 - [[The liability characteristics cannot express what Harris found]] — a `.NR` that is a result about the vocabulary
+
+## Added 2026-09-09 — the Dell mita case
+
+- [[The mita boundary separates two components not two points on a trajectory]] — the WP3 demonstration case, and why the author's own mechanism settles it
+- [[The mita critiques establish five nulls and none is the estimand]] — the five published attacks, what each establishes, and what none of them reaches
+- [[A refutation that shares the estimand inherits the defect]] — the critique of the critics, and the guardrail against citing an ensemble null as support

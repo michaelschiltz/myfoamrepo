@@ -82,6 +82,15 @@
       "shape": "dot"
     },
     {
+      "id": "A refutation that shares the estimand inherits the defect",
+      "type": "permanent",
+      "group": "seed",
+      "label": "A refutation that shares the estimand inherits the defect",
+      "value": 32,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
       "id": "A route clause conditions the investor's peril in three traditions",
       "type": "permanent",
       "group": "seed",
@@ -122,7 +131,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "A significant persistence coefficient is evidence against its own licensing condition",
-      "value": 34,
+      "value": 36,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -176,7 +185,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "An absorbing barrier breaks ergodicity by construction",
-      "value": 54,
+      "value": 55,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -221,7 +230,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Attractor selection bounds what a persistence design can resolve",
-      "value": 37,
+      "value": 41,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -230,7 +239,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Bad luck is what the ensemble average calls the modal trajectory",
-      "value": 18,
+      "value": 21,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -347,7 +356,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Distinguish strong from weak ergodicity breaking",
-      "value": 24,
+      "value": 25,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -419,7 +428,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Endogenised absorption has a sign",
-      "value": 17,
+      "value": 20,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -473,7 +482,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Ergodicity is indecomposability not randomness",
-      "value": 27,
+      "value": 30,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -914,7 +923,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Persistence samples are conditioned on non-absorption",
-      "value": 42,
+      "value": 47,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -932,7 +941,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Pooling's sign is set by the correlation of its baskets",
-      "value": 45,
+      "value": 47,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -995,7 +1004,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Refusals are observations of the filter not inferences from survivors",
-      "value": 76,
+      "value": 78,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1121,7 +1130,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Sort the persistence objections by what they cost the referee",
-      "value": 31,
+      "value": 35,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1513,6 +1522,24 @@
       "shape": "dot"
     },
     {
+      "id": "The mita boundary separates two components not two points on a trajectory",
+      "type": "permanent",
+      "group": "seed",
+      "label": "The mita boundary separates two components not two points on a trajectory",
+      "value": 35,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "The mita critiques establish five nulls and none is the estimand",
+      "type": "reference",
+      "group": "reference",
+      "label": "The mita critiques establish five nulls and none is the estimand",
+      "value": 18,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
       "id": "The moratorium held because leaving the pool is not a one-period cost",
       "type": "permanent",
       "group": "seed",
@@ -1679,7 +1706,7 @@
       "type": "reference",
       "group": "reference",
       "label": "The three Kelly critiques establish different nulls",
-      "value": 17,
+      "value": 24,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1868,7 +1895,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Voigtlander and Voth measured the relaxation time and reported a mixture",
-      "value": 27,
+      "value": 30,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1949,7 +1976,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Defending the ergodicity claim",
-      "value": 92,
+      "value": 98,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -1967,7 +1994,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - ERC Synergy Grant",
-      "value": 60,
+      "value": 63,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -1985,7 +2012,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Ergodicity and the time-ensemble distinction",
-      "value": 156,
+      "value": 157,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -1994,7 +2021,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - HistorEE",
-      "value": 349,
+      "value": 355,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -2003,7 +2030,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Historiography and method",
-      "value": 180,
+      "value": 186,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -2407,6 +2434,70 @@
     {
       "from": "A prediction is evidence only if its priority is committed",
       "to": "organizational_forms"
+    },
+    {
+      "from": "A refutation that shares the estimand inherits the defect",
+      "to": "A significant persistence coefficient is evidence against its own licensing condition"
+    },
+    {
+      "from": "A refutation that shares the estimand inherits the defect",
+      "to": "Attractor selection bounds what a persistence design can resolve"
+    },
+    {
+      "from": "A refutation that shares the estimand inherits the defect",
+      "to": "Bad luck is what the ensemble average calls the modal trajectory"
+    },
+    {
+      "from": "A refutation that shares the estimand inherits the defect",
+      "to": "Endogenised absorption has a sign"
+    },
+    {
+      "from": "A refutation that shares the estimand inherits the defect",
+      "to": "Ergodicity is indecomposability not randomness"
+    },
+    {
+      "from": "A refutation that shares the estimand inherits the defect",
+      "to": "MOC - Defending the ergodicity claim"
+    },
+    {
+      "from": "A refutation that shares the estimand inherits the defect",
+      "to": "MOC - ERC Synergy Grant"
+    },
+    {
+      "from": "A refutation that shares the estimand inherits the defect",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "A refutation that shares the estimand inherits the defect",
+      "to": "MOC - Historiography and method"
+    },
+    {
+      "from": "A refutation that shares the estimand inherits the defect",
+      "to": "Persistence samples are conditioned on non-absorption"
+    },
+    {
+      "from": "A refutation that shares the estimand inherits the defect",
+      "to": "Refusals are observations of the filter not inferences from survivors"
+    },
+    {
+      "from": "A refutation that shares the estimand inherits the defect",
+      "to": "Sort the persistence objections by what they cost the referee"
+    },
+    {
+      "from": "A refutation that shares the estimand inherits the defect",
+      "to": "The mita boundary separates two components not two points on a trajectory"
+    },
+    {
+      "from": "A refutation that shares the estimand inherits the defect",
+      "to": "The mita critiques establish five nulls and none is the estimand"
+    },
+    {
+      "from": "A refutation that shares the estimand inherits the defect",
+      "to": "The three Kelly critiques establish different nulls"
+    },
+    {
+      "from": "A refutation that shares the estimand inherits the defect",
+      "to": "Voigtlander and Voth measured the relaxation time and reported a mixture"
     },
     {
       "from": "A route clause conditions the investor's peril in three traditions",
@@ -5478,6 +5569,10 @@
     },
     {
       "from": "MOC - Defending the ergodicity claim",
+      "to": "A refutation that shares the estimand inherits the defect"
+    },
+    {
+      "from": "MOC - Defending the ergodicity claim",
       "to": "Absorption without ergodicity economics is just ruin theory"
     },
     {
@@ -5595,6 +5690,14 @@
     {
       "from": "MOC - Defending the ergodicity claim",
       "to": "The market selection literature is the project's nearest formal neighbour"
+    },
+    {
+      "from": "MOC - Defending the ergodicity claim",
+      "to": "The mita boundary separates two components not two points on a trajectory"
+    },
+    {
+      "from": "MOC - Defending the ergodicity claim",
+      "to": "The mita critiques establish five nulls and none is the estimand"
     },
     {
       "from": "MOC - Defending the ergodicity claim",
@@ -6262,6 +6365,10 @@
     },
     {
       "from": "MOC - HistorEE",
+      "to": "A refutation that shares the estimand inherits the defect"
+    },
+    {
+      "from": "MOC - HistorEE",
       "to": "A route clause conditions the investor's peril in three traditions"
     },
     {
@@ -6654,6 +6761,14 @@
     },
     {
       "from": "MOC - HistorEE",
+      "to": "The mita boundary separates two components not two points on a trajectory"
+    },
+    {
+      "from": "MOC - HistorEE",
+      "to": "The mita critiques establish five nulls and none is the estimand"
+    },
+    {
+      "from": "MOC - HistorEE",
       "to": "The moratorium held because leaving the pool is not a one-period cost"
     },
     {
@@ -6791,6 +6906,10 @@
     {
       "from": "MOC - Historiography and method",
       "to": "A prediction is evidence only if its priority is committed"
+    },
+    {
+      "from": "MOC - Historiography and method",
+      "to": "A refutation that shares the estimand inherits the defect"
     },
     {
       "from": "MOC - Historiography and method",
@@ -7011,6 +7130,14 @@
     {
       "from": "MOC - Historiography and method",
       "to": "The liability principle was demoted from rule to maxim"
+    },
+    {
+      "from": "MOC - Historiography and method",
+      "to": "The mita boundary separates two components not two points on a trajectory"
+    },
+    {
+      "from": "MOC - Historiography and method",
+      "to": "The mita critiques establish five nulls and none is the estimand"
     },
     {
       "from": "MOC - Historiography and method",
@@ -10503,6 +10630,114 @@
     {
       "from": "The market selection literature is the project's nearest formal neighbour",
       "to": "Whiggish history of finance names the ascent narrative"
+    },
+    {
+      "from": "The mita boundary separates two components not two points on a trajectory",
+      "to": "A refutation that shares the estimand inherits the defect"
+    },
+    {
+      "from": "The mita boundary separates two components not two points on a trajectory",
+      "to": "A significant persistence coefficient is evidence against its own licensing condition"
+    },
+    {
+      "from": "The mita boundary separates two components not two points on a trajectory",
+      "to": "An absorbing barrier breaks ergodicity by construction"
+    },
+    {
+      "from": "The mita boundary separates two components not two points on a trajectory",
+      "to": "Attractor selection bounds what a persistence design can resolve"
+    },
+    {
+      "from": "The mita boundary separates two components not two points on a trajectory",
+      "to": "Bad luck is what the ensemble average calls the modal trajectory"
+    },
+    {
+      "from": "The mita boundary separates two components not two points on a trajectory",
+      "to": "Distinguish strong from weak ergodicity breaking"
+    },
+    {
+      "from": "The mita boundary separates two components not two points on a trajectory",
+      "to": "Endogenised absorption has a sign"
+    },
+    {
+      "from": "The mita boundary separates two components not two points on a trajectory",
+      "to": "Ergodicity is indecomposability not randomness"
+    },
+    {
+      "from": "The mita boundary separates two components not two points on a trajectory",
+      "to": "MOC - Defending the ergodicity claim"
+    },
+    {
+      "from": "The mita boundary separates two components not two points on a trajectory",
+      "to": "MOC - ERC Synergy Grant"
+    },
+    {
+      "from": "The mita boundary separates two components not two points on a trajectory",
+      "to": "MOC - Ergodicity and the time-ensemble distinction"
+    },
+    {
+      "from": "The mita boundary separates two components not two points on a trajectory",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "The mita boundary separates two components not two points on a trajectory",
+      "to": "MOC - Historiography and method"
+    },
+    {
+      "from": "The mita boundary separates two components not two points on a trajectory",
+      "to": "Persistence samples are conditioned on non-absorption"
+    },
+    {
+      "from": "The mita boundary separates two components not two points on a trajectory",
+      "to": "Pooling's sign is set by the correlation of its baskets"
+    },
+    {
+      "from": "The mita boundary separates two components not two points on a trajectory",
+      "to": "Sort the persistence objections by what they cost the referee"
+    },
+    {
+      "from": "The mita boundary separates two components not two points on a trajectory",
+      "to": "The mita critiques establish five nulls and none is the estimand"
+    },
+    {
+      "from": "The mita boundary separates two components not two points on a trajectory",
+      "to": "The three Kelly critiques establish different nulls"
+    },
+    {
+      "from": "The mita boundary separates two components not two points on a trajectory",
+      "to": "Voigtlander and Voth measured the relaxation time and reported a mixture"
+    },
+    {
+      "from": "The mita critiques establish five nulls and none is the estimand",
+      "to": "A refutation that shares the estimand inherits the defect"
+    },
+    {
+      "from": "The mita critiques establish five nulls and none is the estimand",
+      "to": "MOC - ERC Synergy Grant"
+    },
+    {
+      "from": "The mita critiques establish five nulls and none is the estimand",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "The mita critiques establish five nulls and none is the estimand",
+      "to": "MOC - Historiography and method"
+    },
+    {
+      "from": "The mita critiques establish five nulls and none is the estimand",
+      "to": "Persistence samples are conditioned on non-absorption"
+    },
+    {
+      "from": "The mita critiques establish five nulls and none is the estimand",
+      "to": "Sort the persistence objections by what they cost the referee"
+    },
+    {
+      "from": "The mita critiques establish five nulls and none is the estimand",
+      "to": "The mita boundary separates two components not two points on a trajectory"
+    },
+    {
+      "from": "The mita critiques establish five nulls and none is the estimand",
+      "to": "The three Kelly critiques establish different nulls"
     },
     {
       "from": "The moratorium held because leaving the pool is not a one-period cost",

@@ -67,6 +67,7 @@ Named here so they are answered in text rather than found by a panel.
 
 - **The which-dynamic problem.** Specifying the dynamic is formally as free as specifying the utility function; the apparatus has relocated the arbitrariness, not removed it. The answer — dynamics are observable, preferences are not — is weaker for historical cases, where the dynamic is inferred from the same evidence the argument then explains. Stated at [[Jensen supplies the gap but only the dynamic privileges the logarithm]] and flagged there as live for WP3.
 - **Strong/weak slippage.** Using "non-ergodic" unqualified claims the rhetorical force of decomposition on evidence that supports only timescale separation. This is exactly where a referee will locate the slippage; see [[Distinguish strong from weak ergodicity breaking]].
+- **The criterion forfeits the empirical critics as allies.** A study reporting that a persistence contrast has vanished computes the same unlicensed quantity as the study it refutes, so it cannot be cited as support without conceding the estimand. Stated at [[A refutation that shares the estimand inherits the defect]], together with the pre-committed intact case that answers the unfalsifiability charge it invites.
 - **Peters's reply to Doctor, Wakker and Wang is unread.** Paywalled beyond its opening line; nothing in the vault should characterise its argument until the text is obtained. See [[Doctor Wakker and Wang 2020 on the ergodicity problem]].
 - **Three citation allegations against Peters are unchecked**, one of them serious. Until they are, cite him for the framing and never for the intellectual history — [[Toda's citation allegations must be checked before we cite Peters]].
 - **Samuelson (1971) and Latané (1979) are not in the library** and are load-bearing on both sides of the Ford–Kay exchange. Acquire before writing on the finite-horizon question.
@@ -107,6 +108,9 @@ The persistence-design critique is *offensive* — it attacks a design class —
 
 - [[Sort the persistence objections by what they cost the referee]] — the four-position audit, and the source of the ordering used above
 - [[The three Kelly critiques establish different nulls]] — what WP3 has to beat
+- [[The mita boundary separates two components not two points on a trajectory]] — the demonstration case, where the diagnostic returns a determinate answer instead of a caution
+- [[The mita critiques establish five nulls and none is the estimand]] — the reference layer for that case
+- [[A refutation that shares the estimand inherits the defect]] — the one item in the offensive cluster that is defensive, and belongs in the concessions
 
 ## Links
 

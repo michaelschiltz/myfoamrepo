@@ -196,6 +196,12 @@ Project hub for the book. Atomic notes hang off both this project MOC and a them
 - [[A prediction is evidence only if its priority is committed]]
 - [[A claim set chosen after the coding reports the analyst]]
 
+## Notes — Dell mita critique session
+
+- [[The mita boundary separates two components not two points on a trajectory]] — the WP3 demonstration case; the hacienda mechanism is the decomposition, and it is Dell's own
+- [[The mita critiques establish five nulls and none is the estimand]] — Arroyo Abad and Maurer, Kelly, Keele and Titiunik, Karakas, Ragas, and what each actually establishes
+- [[A refutation that shares the estimand inherits the defect]] — the critique of the critics, and why an ensemble null is not evidence for non-ergodicity
+
 ## Concept anchors
 
 - [[Absorbing barrier]]
