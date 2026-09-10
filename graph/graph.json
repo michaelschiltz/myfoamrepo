@@ -41,7 +41,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "A contingency clause priced at zero is evidence for a time-average criterion",
-      "value": 18,
+      "value": 19,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -50,7 +50,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "A migrated institution collects local names not local forms",
-      "value": 21,
+      "value": 22,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -95,7 +95,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "A route clause conditions the investor's peril in three traditions",
-      "value": 19,
+      "value": 20,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -104,7 +104,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "A scheme for extending the cooperative pooling census",
-      "value": 21,
+      "value": 22,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -208,6 +208,69 @@
       "shape": "dot"
     },
     {
+      "id": "Archivo Foral de Bizkaia - the Consulado de Bilbao",
+      "type": "reference",
+      "group": "reference",
+      "label": "Archivo Foral de Bizkaia - the Consulado de Bilbao",
+      "value": 10,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "Archivo General de Indias - Sevilla",
+      "type": "reference",
+      "group": "reference",
+      "label": "Archivo General de Indias - Sevilla",
+      "value": 19,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "Archivo General de Simancas",
+      "type": "reference",
+      "group": "reference",
+      "label": "Archivo General de Simancas",
+      "value": 14,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "Archivo Historico Nacional - Madrid",
+      "type": "reference",
+      "group": "reference",
+      "label": "Archivo Historico Nacional - Madrid",
+      "value": 11,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "Archivo Historico Provincial de Cadiz - notarial protocols and the Consulado",
+      "type": "reference",
+      "group": "reference",
+      "label": "Archivo Historico Provincial de Cadiz - notarial protocols and the Consulado",
+      "value": 10,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "Archivo Historico Provincial de Sevilla - notarial protocols",
+      "type": "reference",
+      "group": "reference",
+      "label": "Archivo Historico Provincial de Sevilla - notarial protocols",
+      "value": 14,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "Archivo de la Corona de Aragon - Barcelona",
+      "type": "reference",
+      "group": "reference",
+      "label": "Archivo de la Corona de Aragon - Barcelona",
+      "value": 15,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
       "id": "Arrow-Debreu dissolves time rather than neglecting it",
       "type": "permanent",
       "group": "seed",
@@ -223,6 +286,33 @@
       "label": "Arthur's lock-in and capital lock-in are different objects",
       "value": 22,
       "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "Arxiu Historic de Protocols de Barcelona",
+      "type": "reference",
+      "group": "reference",
+      "label": "Arxiu Historic de Protocols de Barcelona",
+      "value": 14,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "Arxiu del Regne de Mallorca",
+      "type": "reference",
+      "group": "reference",
+      "label": "Arxiu del Regne de Mallorca",
+      "value": 12,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "Arxiu del Regne de Valencia",
+      "type": "reference",
+      "group": "reference",
+      "label": "Arxiu del Regne de Valencia",
+      "value": 9,
+      "color": "#66a61e",
       "shape": "dot"
     },
     {
@@ -277,6 +367,15 @@
       "label": "Brown tests equality where a risk reading predicts dispersion",
       "value": 20,
       "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "Consulado de Burgos - the universidad de mercaderes",
+      "type": "reference",
+      "group": "reference",
+      "label": "Consulado de Burgos - the universidad de mercaderes",
+      "value": 10,
+      "color": "#66a61e",
       "shape": "dot"
     },
     {
@@ -392,7 +491,7 @@
       "type": "source",
       "group": "source",
       "label": "Drelichman and Voth 2014 on the debts and defaults of Philip II",
-      "value": 19,
+      "value": 21,
       "color": "#7570b3",
       "shape": "dot"
     },
@@ -617,7 +716,7 @@
       "type": "source",
       "group": "source",
       "label": "Hierro Anibarro 2005 on the asiento de averia and the privileged company",
-      "value": 22,
+      "value": 23,
       "color": "#7570b3",
       "shape": "dot"
     },
@@ -635,7 +734,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Identity-wrapper and perpetual-monopoly are distinct shielding facets",
-      "value": 16,
+      "value": 18,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -689,7 +788,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Isqa reading list to acquire",
-      "value": 15,
+      "value": 16,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -869,7 +968,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Olivares's junta coded the asiento as a privileged company",
-      "value": 17,
+      "value": 19,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -889,6 +988,15 @@
       "label": "Outcome-coupling is the condition of legibility",
       "value": 23,
       "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "PARES - the access layer for the Spanish state archives",
+      "type": "reference",
+      "group": "reference",
+      "label": "PARES - the access layer for the Spanish state archives",
+      "value": 24,
+      "color": "#66a61e",
       "shape": "dot"
     },
     {
@@ -968,7 +1076,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Pricing risk does not remove it",
-      "value": 25,
+      "value": 27,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -986,7 +1094,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Ragusan collegantia is unilateral and Venetian collegantia is bilateral",
-      "value": 19,
+      "value": 20,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1004,7 +1112,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Refusals are observations of the filter not inferences from survivors",
-      "value": 79,
+      "value": 80,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1166,7 +1274,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Syndication and the misma moneda are pooling not prudence",
-      "value": 15,
+      "value": 17,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1229,7 +1337,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The QDL corpus is conditioned on its funder's geography",
-      "value": 16,
+      "value": 17,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1238,7 +1346,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The Roman universitas makes the JSC case parallelism not convergence",
-      "value": 30,
+      "value": 31,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1292,7 +1400,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The asiento de averia is the pooling-to-corporation hinge",
-      "value": 23,
+      "value": 26,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1310,7 +1418,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The coding commons must record stated rationale not only component presence",
-      "value": 39,
+      "value": 42,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1319,7 +1427,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The commenda and the qirad do not separate on loss allocation",
-      "value": 26,
+      "value": 27,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1328,7 +1436,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The contingent asiento is a missing form in loss_mitigation_forms",
-      "value": 14,
+      "value": 16,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1364,7 +1472,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The depersonalised share was produced by honour not by pooling logic",
-      "value": 24,
+      "value": 25,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1544,7 +1652,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The moratorium held because leaving the pool is not a one-period cost",
-      "value": 16,
+      "value": 17,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1580,7 +1688,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The naties are a six-century Lindy institution",
-      "value": 22,
+      "value": 24,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1850,7 +1958,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Transmission versus independent recurrence is the load-bearing test",
-      "value": 41,
+      "value": 43,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1868,7 +1976,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Unilateral and bilateral commenda collapse on profit and separate on loss",
-      "value": 16,
+      "value": 19,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1922,7 +2030,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Which peril gets a clause is set by the tradition's doctrinal problem",
-      "value": 21,
+      "value": 22,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1967,7 +2075,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Acquisitions and the antiquarian trade",
-      "value": 28,
+      "value": 31,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -2003,7 +2111,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Entity-shielding and corporate forms",
-      "value": 104,
+      "value": 105,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -2021,7 +2129,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - European archives and digital collections",
-      "value": 25,
+      "value": 51,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -2066,7 +2174,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Risk-sharing vs risk-pricing",
-      "value": 124,
+      "value": 127,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -3041,6 +3149,198 @@
       "to": "Split provenance into priority and independence"
     },
     {
+      "from": "Archivo Foral de Bizkaia - the Consulado de Bilbao",
+      "to": "Consulado de Burgos - the universidad de mercaderes"
+    },
+    {
+      "from": "Archivo Foral de Bizkaia - the Consulado de Bilbao",
+      "to": "MOC - European archives and digital collections"
+    },
+    {
+      "from": "Archivo Foral de Bizkaia - the Consulado de Bilbao",
+      "to": "MOC - Risk-sharing vs risk-pricing"
+    },
+    {
+      "from": "Archivo Foral de Bizkaia - the Consulado de Bilbao",
+      "to": "PARES - the access layer for the Spanish state archives"
+    },
+    {
+      "from": "Archivo Foral de Bizkaia - the Consulado de Bilbao",
+      "to": "The coding commons must record stated rationale not only component presence"
+    },
+    {
+      "from": "Archivo General de Indias - Sevilla",
+      "to": "Archivo Historico Provincial de Cadiz - notarial protocols and the Consulado"
+    },
+    {
+      "from": "Archivo General de Indias - Sevilla",
+      "to": "Archivo Historico Provincial de Sevilla - notarial protocols"
+    },
+    {
+      "from": "Archivo General de Indias - Sevilla",
+      "to": "Hierro Anibarro 2005 on the asiento de averia and the privileged company"
+    },
+    {
+      "from": "Archivo General de Indias - Sevilla",
+      "to": "MOC - European archives and digital collections"
+    },
+    {
+      "from": "Archivo General de Indias - Sevilla",
+      "to": "Olivares's junta coded the asiento as a privileged company"
+    },
+    {
+      "from": "Archivo General de Indias - Sevilla",
+      "to": "PARES - the access layer for the Spanish state archives"
+    },
+    {
+      "from": "Archivo General de Indias - Sevilla",
+      "to": "The QDL corpus is conditioned on its funder's geography"
+    },
+    {
+      "from": "Archivo General de Indias - Sevilla",
+      "to": "The asiento de averia is the pooling-to-corporation hinge"
+    },
+    {
+      "from": "Archivo General de Indias - Sevilla",
+      "to": "The coding commons must record stated rationale not only component presence"
+    },
+    {
+      "from": "Archivo General de Indias - Sevilla",
+      "to": "The contingent asiento is a missing form in loss_mitigation_forms"
+    },
+    {
+      "from": "Archivo General de Simancas",
+      "to": "A contingency clause priced at zero is evidence for a time-average criterion"
+    },
+    {
+      "from": "Archivo General de Simancas",
+      "to": "Drelichman and Voth 2014 on the debts and defaults of Philip II"
+    },
+    {
+      "from": "Archivo General de Simancas",
+      "to": "MOC - European archives and digital collections"
+    },
+    {
+      "from": "Archivo General de Simancas",
+      "to": "PARES - the access layer for the Spanish state archives"
+    },
+    {
+      "from": "Archivo General de Simancas",
+      "to": "Syndication and the misma moneda are pooling not prudence"
+    },
+    {
+      "from": "Archivo General de Simancas",
+      "to": "The coding commons must record stated rationale not only component presence"
+    },
+    {
+      "from": "Archivo General de Simancas",
+      "to": "The contingent asiento is a missing form in loss_mitigation_forms"
+    },
+    {
+      "from": "Archivo General de Simancas",
+      "to": "The moratorium held because leaving the pool is not a one-period cost"
+    },
+    {
+      "from": "Archivo Historico Nacional - Madrid",
+      "to": "Archivo General de Indias - Sevilla"
+    },
+    {
+      "from": "Archivo Historico Nacional - Madrid",
+      "to": "MOC - Entity-shielding and corporate forms"
+    },
+    {
+      "from": "Archivo Historico Nacional - Madrid",
+      "to": "MOC - European archives and digital collections"
+    },
+    {
+      "from": "Archivo Historico Nacional - Madrid",
+      "to": "PARES - the access layer for the Spanish state archives"
+    },
+    {
+      "from": "Archivo Historico Nacional - Madrid",
+      "to": "The Roman universitas makes the JSC case parallelism not convergence"
+    },
+    {
+      "from": "Archivo Historico Nacional - Madrid",
+      "to": "Transmission versus independent recurrence is the load-bearing test"
+    },
+    {
+      "from": "Archivo Historico Provincial de Cadiz - notarial protocols and the Consulado",
+      "to": "Archivo General de Indias - Sevilla"
+    },
+    {
+      "from": "Archivo Historico Provincial de Cadiz - notarial protocols and the Consulado",
+      "to": "Archivo Historico Provincial de Sevilla - notarial protocols"
+    },
+    {
+      "from": "Archivo Historico Provincial de Cadiz - notarial protocols and the Consulado",
+      "to": "MOC - European archives and digital collections"
+    },
+    {
+      "from": "Archivo Historico Provincial de Cadiz - notarial protocols and the Consulado",
+      "to": "The asiento de averia is the pooling-to-corporation hinge"
+    },
+    {
+      "from": "Archivo Historico Provincial de Cadiz - notarial protocols and the Consulado",
+      "to": "The depersonalised share was produced by honour not by pooling logic"
+    },
+    {
+      "from": "Archivo Historico Provincial de Sevilla - notarial protocols",
+      "to": "A route clause conditions the investor's peril in three traditions"
+    },
+    {
+      "from": "Archivo Historico Provincial de Sevilla - notarial protocols",
+      "to": "Archivo General de Indias - Sevilla"
+    },
+    {
+      "from": "Archivo Historico Provincial de Sevilla - notarial protocols",
+      "to": "Archivo Historico Provincial de Cadiz - notarial protocols and the Consulado"
+    },
+    {
+      "from": "Archivo Historico Provincial de Sevilla - notarial protocols",
+      "to": "Arxiu Historic de Protocols de Barcelona"
+    },
+    {
+      "from": "Archivo Historico Provincial de Sevilla - notarial protocols",
+      "to": "MOC - Acquisitions and the antiquarian trade"
+    },
+    {
+      "from": "Archivo Historico Provincial de Sevilla - notarial protocols",
+      "to": "MOC - European archives and digital collections"
+    },
+    {
+      "from": "Archivo Historico Provincial de Sevilla - notarial protocols",
+      "to": "PARES - the access layer for the Spanish state archives"
+    },
+    {
+      "from": "Archivo Historico Provincial de Sevilla - notarial protocols",
+      "to": "Which peril gets a clause is set by the tradition's doctrinal problem"
+    },
+    {
+      "from": "Archivo de la Corona de Aragon - Barcelona",
+      "to": "A migrated institution collects local names not local forms"
+    },
+    {
+      "from": "Archivo de la Corona de Aragon - Barcelona",
+      "to": "Arxiu Historic de Protocols de Barcelona"
+    },
+    {
+      "from": "Archivo de la Corona de Aragon - Barcelona",
+      "to": "MOC - European archives and digital collections"
+    },
+    {
+      "from": "Archivo de la Corona de Aragon - Barcelona",
+      "to": "PARES - the access layer for the Spanish state archives"
+    },
+    {
+      "from": "Archivo de la Corona de Aragon - Barcelona",
+      "to": "Ragusan collegantia is unilateral and Venetian collegantia is bilateral"
+    },
+    {
+      "from": "Archivo de la Corona de Aragon - Barcelona",
+      "to": "Unilateral and bilateral commenda collapse on profit and separate on loss"
+    },
+    {
       "from": "Arrow-Debreu dissolves time rather than neglecting it",
       "to": "Absorbing barrier"
     },
@@ -3111,6 +3411,70 @@
     {
       "from": "Arthur's lock-in and capital lock-in are different objects",
       "to": "Transferable claims reconcile lock-in with member exit"
+    },
+    {
+      "from": "Arxiu Historic de Protocols de Barcelona",
+      "to": "Archivo de la Corona de Aragon - Barcelona"
+    },
+    {
+      "from": "Arxiu Historic de Protocols de Barcelona",
+      "to": "Arxiu del Regne de Mallorca"
+    },
+    {
+      "from": "Arxiu Historic de Protocols de Barcelona",
+      "to": "MOC - European archives and digital collections"
+    },
+    {
+      "from": "Arxiu Historic de Protocols de Barcelona",
+      "to": "PARES - the access layer for the Spanish state archives"
+    },
+    {
+      "from": "Arxiu Historic de Protocols de Barcelona",
+      "to": "Refusals are observations of the filter not inferences from survivors"
+    },
+    {
+      "from": "Arxiu Historic de Protocols de Barcelona",
+      "to": "The commenda and the qirad do not separate on loss allocation"
+    },
+    {
+      "from": "Arxiu Historic de Protocols de Barcelona",
+      "to": "Unilateral and bilateral commenda collapse on profit and separate on loss"
+    },
+    {
+      "from": "Arxiu del Regne de Mallorca",
+      "to": "Arxiu Historic de Protocols de Barcelona"
+    },
+    {
+      "from": "Arxiu del Regne de Mallorca",
+      "to": "Arxiu del Regne de Valencia"
+    },
+    {
+      "from": "Arxiu del Regne de Mallorca",
+      "to": "MOC - European archives and digital collections"
+    },
+    {
+      "from": "Arxiu del Regne de Mallorca",
+      "to": "MOC - Risk-sharing vs risk-pricing"
+    },
+    {
+      "from": "Arxiu del Regne de Mallorca",
+      "to": "Pricing risk does not remove it"
+    },
+    {
+      "from": "Arxiu del Regne de Valencia",
+      "to": "A scheme for extending the cooperative pooling census"
+    },
+    {
+      "from": "Arxiu del Regne de Valencia",
+      "to": "Archivo de la Corona de Aragon - Barcelona"
+    },
+    {
+      "from": "Arxiu del Regne de Valencia",
+      "to": "Arxiu del Regne de Mallorca"
+    },
+    {
+      "from": "Arxiu del Regne de Valencia",
+      "to": "MOC - European archives and digital collections"
     },
     {
       "from": "Attractor selection bounds what a persistence design can resolve",
@@ -3355,6 +3719,26 @@
     {
       "from": "Brown tests equality where a risk reading predicts dispersion",
       "to": "loss_mitigation_forms"
+    },
+    {
+      "from": "Consulado de Burgos - the universidad de mercaderes",
+      "to": "Archivo Foral de Bizkaia - the Consulado de Bilbao"
+    },
+    {
+      "from": "Consulado de Burgos - the universidad de mercaderes",
+      "to": "Identity-wrapper and perpetual-monopoly are distinct shielding facets"
+    },
+    {
+      "from": "Consulado de Burgos - the universidad de mercaderes",
+      "to": "MOC - Acquisitions and the antiquarian trade"
+    },
+    {
+      "from": "Consulado de Burgos - the universidad de mercaderes",
+      "to": "MOC - European archives and digital collections"
+    },
+    {
+      "from": "Consulado de Burgos - the universidad de mercaderes",
+      "to": "The naties are a six-century Lindy institution"
     },
     {
       "from": "Cooperation is an averaging puzzle and sovereign repayment is a barrier puzzle",
@@ -6362,6 +6746,50 @@
     },
     {
       "from": "MOC - European archives and digital collections",
+      "to": "Archivo Foral de Bizkaia - the Consulado de Bilbao"
+    },
+    {
+      "from": "MOC - European archives and digital collections",
+      "to": "Archivo General de Indias - Sevilla"
+    },
+    {
+      "from": "MOC - European archives and digital collections",
+      "to": "Archivo General de Simancas"
+    },
+    {
+      "from": "MOC - European archives and digital collections",
+      "to": "Archivo Historico Nacional - Madrid"
+    },
+    {
+      "from": "MOC - European archives and digital collections",
+      "to": "Archivo Historico Provincial de Cadiz - notarial protocols and the Consulado"
+    },
+    {
+      "from": "MOC - European archives and digital collections",
+      "to": "Archivo Historico Provincial de Sevilla - notarial protocols"
+    },
+    {
+      "from": "MOC - European archives and digital collections",
+      "to": "Archivo de la Corona de Aragon - Barcelona"
+    },
+    {
+      "from": "MOC - European archives and digital collections",
+      "to": "Arxiu Historic de Protocols de Barcelona"
+    },
+    {
+      "from": "MOC - European archives and digital collections",
+      "to": "Arxiu del Regne de Mallorca"
+    },
+    {
+      "from": "MOC - European archives and digital collections",
+      "to": "Arxiu del Regne de Valencia"
+    },
+    {
+      "from": "MOC - European archives and digital collections",
+      "to": "Consulado de Burgos - the universidad de mercaderes"
+    },
+    {
+      "from": "MOC - European archives and digital collections",
       "to": "EIC digital corpus - what is online and on what terms"
     },
     {
@@ -6399,6 +6827,10 @@
     {
       "from": "MOC - European archives and digital collections",
       "to": "Open-source HTR stack - eScriptorium Kraken Loghi"
+    },
+    {
+      "from": "MOC - European archives and digital collections",
+      "to": "PARES - the access layer for the Spanish state archives"
     },
     {
       "from": "MOC - European archives and digital collections",
@@ -8067,6 +8499,46 @@
     {
       "from": "Outcome-coupling is the condition of legibility",
       "to": "Selection frequency trades against organizational memory"
+    },
+    {
+      "from": "PARES - the access layer for the Spanish state archives",
+      "to": "Archivo Foral de Bizkaia - the Consulado de Bilbao"
+    },
+    {
+      "from": "PARES - the access layer for the Spanish state archives",
+      "to": "Archivo General de Indias - Sevilla"
+    },
+    {
+      "from": "PARES - the access layer for the Spanish state archives",
+      "to": "Archivo General de Simancas"
+    },
+    {
+      "from": "PARES - the access layer for the Spanish state archives",
+      "to": "Archivo Historico Nacional - Madrid"
+    },
+    {
+      "from": "PARES - the access layer for the Spanish state archives",
+      "to": "Archivo Historico Provincial de Cadiz - notarial protocols and the Consulado"
+    },
+    {
+      "from": "PARES - the access layer for the Spanish state archives",
+      "to": "Archivo Historico Provincial de Sevilla - notarial protocols"
+    },
+    {
+      "from": "PARES - the access layer for the Spanish state archives",
+      "to": "Archivo de la Corona de Aragon - Barcelona"
+    },
+    {
+      "from": "PARES - the access layer for the Spanish state archives",
+      "to": "Arxiu Historic de Protocols de Barcelona"
+    },
+    {
+      "from": "PARES - the access layer for the Spanish state archives",
+      "to": "Isqa reading list to acquire"
+    },
+    {
+      "from": "PARES - the access layer for the Spanish state archives",
+      "to": "MOC - European archives and digital collections"
     },
     {
       "from": "Path dependence literature",

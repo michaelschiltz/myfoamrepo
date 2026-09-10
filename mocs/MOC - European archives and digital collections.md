@@ -69,7 +69,7 @@ Descriptions, not documents. Use them to discover that a series *exists* and who
 | Belgium | Rijksarchief / Archives de l'État | <https://search.arch.be/> | Millions of scans, free, image-forward ⚠️ figure unverified |
 | United Kingdom | TNA Discovery | <https://discovery.nationalarchives.gov.uk/> | Catalogue. Company and friendly-society records are description-only |
 | France | FranceArchives + départementales | <https://francearchives.gouv.fr/> | Federated; the *départementales* hold the commercial material and image independently |
-| Spain | PARES | <https://pares.cultura.gob.es/> | Archivo General de Indias imaged in depth; `CONTRATACION` is the Casa series |
+| Spain | PARES | <https://pares.cultura.gob.es/> | State archives only — the devolved and corporation-held archives are outside it. See [[PARES - the access layer for the Spanish state archives]] and the Spain section below |
 | Portugal | DigitArq / Torre do Tombo | <https://digitarq.arquivos.pt/> | National catalogue with images ⚠️ current URL and scale to confirm |
 | Italy | No single image portal | — | Per-archive "Archivio digitale" pages; see Tier 2 |
 | Germany | Archivportal-D | <https://www.archivportal-d.de/> | Archival section of the Deutsche Digitale Bibliothek |
@@ -100,6 +100,32 @@ Where a corpus is at layer 3 the entire calculus above collapses, which is the p
 - **Medici Archive Project / BIA** — Mediceo del Principato, document-level annotation ⚠️ current access terms to confirm.
 - The English side has no member of this tier at all; see [[EIC digital corpus - what is online and on what terms]].
 
+## Spain — repository notes
+
+The first country worked through at repository level. Each note carries the sections that matter, the digitisation layer, and explicit verify flags where a placement rests on secondary literature rather than a finding aid.
+
+**The structural fact about Spain**, and the one that catches people: archival competence is devolved, so no single catalogue covers the country. [[PARES - the access layer for the Spanish state archives]] holds the state archives; Andalusia, the Basque Country, Valencia and the Balearics run their own; and the richest notarial archive of all is held by a professional corporation and appears in no public system at all. A PARES search that returns nothing is evidence about the Ministry's remit.
+
+**The Atlantic complex**
+
+- [[Archivo General de Indias - Sevilla]] — `CONTRATACION` (1492–1795, 6,337 legajos, 51 series), `CONSULADOS`, `CONTADURIA`, `INDIFERENTE GENERAL`. The *averia* strand
+- [[Archivo Historico Provincial de Sevilla - notarial protocols]] — the instruments behind the institution
+- [[Archivo Historico Provincial de Cadiz - notarial protocols and the Consulado]] — the Carrera after the 1717 move
+- [[Archivo General de Simancas]] — the fiscal archive; the Philip II *asientos*
+- [[Archivo Historico Nacional - Madrid]] — councils, charters, and the eighteenth-century privileged companies
+
+**The Crown of Aragon**
+
+- [[Archivo de la Corona de Aragon - Barcelona]] — the legal and institutional frame, from the twelfth century
+- [[Arxiu Historic de Protocols de Barcelona]] — the *comandes* themselves; corporation-held, outside every state catalogue
+- [[Arxiu del Regne de Mallorca]] — fifteenth-century marine insurance in volume
+- [[Arxiu del Regne de Valencia]] — the third royal archive; note the municipal split over the *Taula de Canvis*
+
+**The consulado towns**
+
+- [[Archivo Foral de Bizkaia - the Consulado de Bilbao]] — the Ordenanzas de Bilbao, a merchant body codifying its own rules
+- [[Consulado de Burgos - the universidad de mercaderes]] — insurance ordinances of 1538, and an uncoded identity-wrapper at Bruges. Records dispersed; custodial map not yet drawn
+
 ## Where each coded form's records sit
 
 First pass, to be corrected as the register is built. ⚠️ marks a placement that has not been verified against a finding aid.
@@ -116,7 +142,7 @@ First pass, to be corrected as the register is built. ⚠️ marks a placement t
 | Deed of settlement company | TNA Kew | `BT 41`, `BT 31`, `BT 34` | **1 only** |
 | Chartered corporation | TNA Kew | charters; Patent Rolls `C 66` ⚠️ | 1 |
 | Mutual pole / friendly societies | TNA Kew | `FS` — Registry of Friendly Societies ⚠️ subseries | 1 |
-| Asiento de avería | AGI Seville, via PARES | `CONTRATACION`, `INDIFERENTE` ⚠️ | 2 |
+| Asiento de avería | [[Archivo General de Indias - Sevilla]] | `CONSULADOS`, `CONTADURIA`, `INDIFERENTE GENERAL` ⚠️ | 2 (partial) |
 | VOC | Nationaal Archief; Zeeuws Archief | `NL-HaNA 1.04.02`; Zeeland chamber | 3 / 1 |
 
 ## Where this hub meets the others
