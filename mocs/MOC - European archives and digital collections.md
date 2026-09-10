@@ -86,7 +86,7 @@ Descriptions, not documents. Use them to discover that a series *exists* and who
 | Stadsarchief Amsterdam | <https://amsterdam-city-archives.transkribus.eu/> | *Alle Amsterdamse Akten*: hundreds of thousands of pages of 17th–18th c. notarial deeds, HTR-transcribed and free-text searchable with fuzzy matching. **Layer 3** — the single most valuable European resource for this project after GLOBALISE |
 | Archivio di Stato di Genova | <https://archiviodistatogenova.cultura.gov.it/patrimonio/archivio-digitale/notai-antichi> | *Notai Antichi* digitised, served through the Notariorum Itinera platform ⚠️ extent unquantified on the archive's own page |
 | Archivio di Stato di Venezia | <https://www.archiviodistatovenezia.it/> | *moreveneto* is a re-description of the holdings — layer 1, and excellent. Imaging is thin ⚠️ |
-| Arxiu Històric de Protocols de Barcelona | <https://arxiu.colegionotarial.org/> | The *Aurora* digital resource; medieval notarial protocols ⚠️ coverage unverified |
+| Arxiu Històric de Protocols de Barcelona | <https://arxiu.colegionotarial.org/> | *Aurora*: images only, no transcription; registration for downloads; research-and-teaching licence, no modification without permission. Corporation-held, in no state catalogue ⚠️ extent unverified |
 | Archivio di Stato di Prato | <http://datini.archiviodistato.prato.it/en/> | Fondo Datini — letters and books of account, catalogued in depth |
 | Državni arhiv u Dubrovniku | via ARHiNET / APE | Ragusan notarial and *collegantia* material ⚠️ digitisation status unresearched |
 
