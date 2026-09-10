@@ -71,7 +71,7 @@ Descriptions, not documents. Use them to discover that a series *exists* and who
 | France | FranceArchives + départementales | <https://francearchives.gouv.fr/> | Federated; the *départementales* hold the commercial material and image independently |
 | Spain | PARES | <https://pares.cultura.gob.es/> | State archives only — the devolved and corporation-held archives are outside it. See [[PARES - the access layer for the Spanish state archives]] and the Spain section below |
 | Portugal | DigitArq / Torre do Tombo | <https://digitarq.arquivos.pt/> | National catalogue with images ⚠️ current URL and scale to confirm |
-| Italy | No single image portal | — | Per-archive "Archivio digitale" pages; see Tier 2 |
+| Italy | SIAS / SIUSA / SAN | <https://sias-archivi.cultura.gov.it/> | Three overlapping description systems and no image portal at all. State archives in SIAS, bank and corporate archives in SIUSA. See [[SIAS SIUSA and SAN - the Italian access layers]] |
 | Germany | Archivportal-D | <https://www.archivportal-d.de/> | Archival section of the Deutsche Digitale Bibliothek |
 | Sweden | Riksarkivet, Digitala forskarsalen | <https://sok.riksarkivet.se/en/digitala-forskarsalen> | Heavily imaged; the Riksarkivet also publishes HTR models openly |
 | Norway | Digitalarkivet | <https://www.digitalarkivet.no/en/> | Near-total for major series |
@@ -84,10 +84,10 @@ Descriptions, not documents. Use them to discover that a series *exists* and who
 | Repository | URL | What is open |
 |---|---|---|
 | Stadsarchief Amsterdam | <https://amsterdam-city-archives.transkribus.eu/> | *Alle Amsterdamse Akten*: hundreds of thousands of pages of 17th–18th c. notarial deeds, HTR-transcribed and free-text searchable with fuzzy matching. **Layer 3** — the single most valuable European resource for this project after GLOBALISE |
-| Archivio di Stato di Genova | <https://archiviodistatogenova.cultura.gov.it/patrimonio/archivio-digitale/notai-antichi> | *Notai Antichi* digitised, served through the Notariorum Itinera platform ⚠️ extent unquantified on the archive's own page |
-| Archivio di Stato di Venezia | <https://www.archiviodistatovenezia.it/> | *moreveneto* is a re-description of the holdings — layer 1, and excellent. Imaging is thin ⚠️ |
+| [[Archivio di Stato di Genova]] | <https://archiviodistatogenova.cultura.gov.it/patrimonio/archivio-digitale/notai-antichi> | *Notai Antichi* — the earliest notarial registers in Europe — digitised via Notariorum Itinera ⚠️ extent unquantified. Also holds [[Casa di San Giorgio - the Genoese public debt archive]] |
+| [[Archivio di Stato di Venezia]] | <https://asve.arianna4.cloud/> | *moreveneto* is a re-description of the holdings — layer 1, and excellent. Imaging is thin ⚠️ |
 | Arxiu Històric de Protocols de Barcelona | <https://arxiu.colegionotarial.org/> | *Aurora*: images only, no transcription; registration for downloads; research-and-teaching licence, no modification without permission. Corporation-held, in no state catalogue ⚠️ extent unverified |
-| Archivio di Stato di Prato | <http://datini.archiviodistato.prato.it/en/> | Fondo Datini — letters and books of account, catalogued in depth |
+| [[Archivio di Stato di Prato - the Datini archive]] | <http://datini.archiviodistato.prato.it/en/> | Fondo Datini — letters and books of account, catalogued to item level |
 | Državni arhiv u Dubrovniku | via ARHiNET / APE | Ragusan notarial and *collegantia* material ⚠️ digitisation status unresearched |
 
 ## Tier 3 — corpora already transcribed
@@ -126,14 +126,40 @@ The first country worked through at repository level. Each note carries the sect
 - [[Archivo Foral de Bizkaia - the Consulado de Bilbao]] — the Ordenanzas de Bilbao, a merchant body codifying its own rules
 - [[Consulado de Burgos - the universidad de mercaderes]] — insurance ordinances of 1538, and an uncoded identity-wrapper at Bruges. Records dispersed; custodial map not yet drawn
 
+## Italy — repository notes
+
+**The structural fact about Italy** is the mirror of Spain's. Spain's catalogue is unified and its custody devolved; Italy's custody is mostly national but its catalogues are not unified — SIAS describes the state archives, SIUSA the bank, corporate and ecclesiastical ones, SAN aggregates both badly, and **the images live on each archive's own website, outside all three**. A bank archive searched only in SIAS does not appear to exist.
+
+**The maritime and notarial core**
+
+- [[Archivio di Stato di Venezia]] — `Notarile`, `Giudici di Petizion`, `Cinque Savi alla Mercanzia`. The *colleganza* and the *fraterna*
+- [[Archivio di Stato di Genova]] — *Notai Antichi*, the earliest notarial registers in Europe and the earliest witness to the western commenda
+- [[Archivio di Stato di Firenze]] — `Notarile Antecosimiano`, `Mercanzia`, `Arti`, `Monte Comune`, `Monte delle Doti`. The best-digitised of the majors
+- [[Archivio di Stato di Prato - the Datini archive]] — one firm observed as a running system rather than reconstructed from its constitutive documents
+
+**Transferable claims on a perpetual fiscal body — four cases**
+
+- [[Casa di San Giorgio - the Genoese public debt archive]] — 1239–1863, c. 40,250 units, `Debito pubblico` from 1346. Felloni's complete inventory is online
+- [[Archivio di Stato di Roma - the luoghi di monte]] — `Luoghi di monte` 1532–1824, within the `Camerale` sections
+- [[Archivio Storico del Banco di Napoli]] — the Fondo Apodissario, UNESCO Memory of the World; a charitable pool that became a monetary institution
+- [[Archivio di Stato di Milano - the Banco di Sant'Ambrogio]] — 1593, the Lombard construction of the same object
+
+Four independent constructions inside one legal culture. Shared ancestral conditions are guaranteed, so the finding can only ever be parallelism — the right claim is about the conditions under which the form recurs, not about independence.
+
+**Doctrine, and the rest**
+
+- [[Archivio Apostolico Vaticano]] — the accommodations rather than the refusals. Severe access regime: no cameras, three units a day
+- [[Archivio Storico del Monte dei Paschi di Siena]] — a *monte di pietà* of 1472 that never stopped operating
+- [[Archivio di Stato di Napoli]] — the state counterpart to the Banco; note the 1943 destruction and what it does to arguments from absence
+
 ## Where each coded form's records sit
 
 First pass, to be corrected as the register is built. ⚠️ marks a placement that has not been verified against a finding aid.
 
 | Form | Repository | Series | Layer |
 |---|---|---|---|
-| Commenda / collegantia | ASVe (Venice), ASGe (Genoa), DADU (Dubrovnik) | Notarile; Notai Antichi | 1–2 |
-| Fraterna compagnia | ASVe | Notarile, Giudici di Petizion ⚠️ | 1 |
+| Commenda / collegantia | [[Archivio di Stato di Venezia]], [[Archivio di Stato di Genova]], DADU | `Notarile`; *Notai Antichi* | 1–2 |
+| Fraterna compagnia | [[Archivio di Stato di Venezia]] | `Notarile`, `Giudici di Petizion` ⚠️ | 1 |
 | Bodemerij | Stadsarchief Amsterdam | Notarieel archief | **3** |
 | Partenrederij | Stadsarchief Amsterdam; Zaanstreek regional ⚠️ | Notarieel archief | 3 / 1 |
 | Begijnhof | Belgian city archives, Rijksarchief, KADOC ⚠️ | unidentified | 1 ⚠️ |

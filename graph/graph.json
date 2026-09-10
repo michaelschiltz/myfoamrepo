@@ -50,7 +50,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "A migrated institution collects local names not local forms",
-      "value": 22,
+      "value": 24,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -95,7 +95,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "A route clause conditions the investor's peril in three traditions",
-      "value": 20,
+      "value": 21,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -104,7 +104,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "A scheme for extending the cooperative pooling census",
-      "value": 22,
+      "value": 26,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -208,6 +208,96 @@
       "shape": "dot"
     },
     {
+      "id": "Archivio Apostolico Vaticano",
+      "type": "reference",
+      "group": "reference",
+      "label": "Archivio Apostolico Vaticano",
+      "value": 14,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "Archivio Storico del Banco di Napoli",
+      "type": "reference",
+      "group": "reference",
+      "label": "Archivio Storico del Banco di Napoli",
+      "value": 14,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "Archivio Storico del Monte dei Paschi di Siena",
+      "type": "reference",
+      "group": "reference",
+      "label": "Archivio Storico del Monte dei Paschi di Siena",
+      "value": 14,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "Archivio di Stato di Firenze",
+      "type": "reference",
+      "group": "reference",
+      "label": "Archivio di Stato di Firenze",
+      "value": 11,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "Archivio di Stato di Genova",
+      "type": "reference",
+      "group": "reference",
+      "label": "Archivio di Stato di Genova",
+      "value": 19,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "Archivio di Stato di Milano - the Banco di Sant'Ambrogio",
+      "type": "reference",
+      "group": "reference",
+      "label": "Archivio di Stato di Milano - the Banco di Sant'Ambrogio",
+      "value": 8,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "Archivio di Stato di Napoli",
+      "type": "reference",
+      "group": "reference",
+      "label": "Archivio di Stato di Napoli",
+      "value": 10,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "Archivio di Stato di Prato - the Datini archive",
+      "type": "reference",
+      "group": "reference",
+      "label": "Archivio di Stato di Prato - the Datini archive",
+      "value": 13,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "Archivio di Stato di Roma - the luoghi di monte",
+      "type": "reference",
+      "group": "reference",
+      "label": "Archivio di Stato di Roma - the luoghi di monte",
+      "value": 15,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "Archivio di Stato di Venezia",
+      "type": "reference",
+      "group": "reference",
+      "label": "Archivio di Stato di Venezia",
+      "value": 15,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
       "id": "Archivo Foral de Bizkaia - the Consulado de Bilbao",
       "type": "reference",
       "group": "reference",
@@ -293,7 +383,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Arxiu Historic de Protocols de Barcelona",
-      "value": 14,
+      "value": 15,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -370,11 +460,20 @@
       "shape": "dot"
     },
     {
+      "id": "Casa di San Giorgio - the Genoese public debt archive",
+      "type": "reference",
+      "group": "reference",
+      "label": "Casa di San Giorgio - the Genoese public debt archive",
+      "value": 19,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
       "id": "Consulado de Burgos - the universidad de mercaderes",
       "type": "reference",
       "group": "reference",
       "label": "Consulado de Burgos - the universidad de mercaderes",
-      "value": 10,
+      "value": 11,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -464,7 +563,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Divergent arbitrary particulars are the independence diagnostic",
-      "value": 41,
+      "value": 43,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -725,7 +824,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Homoplasy is the finding not the noise",
-      "value": 66,
+      "value": 68,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -734,7 +833,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Identity-wrapper and perpetual-monopoly are distinct shielding facets",
-      "value": 18,
+      "value": 20,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -770,7 +869,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Islamic doctrine refuses risk-commodification at step one",
-      "value": 23,
+      "value": 24,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -788,7 +887,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Isqa reading list to acquire",
-      "value": 16,
+      "value": 17,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -923,7 +1022,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Naviganti - Latin Christendom rejected the sea loan too",
-      "value": 22,
+      "value": 26,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -995,7 +1094,7 @@
       "type": "reference",
       "group": "reference",
       "label": "PARES - the access layer for the Spanish state archives",
-      "value": 24,
+      "value": 26,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1031,7 +1130,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Persistence samples are conditioned on non-absorption",
-      "value": 47,
+      "value": 49,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1076,7 +1175,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Pricing risk does not remove it",
-      "value": 27,
+      "value": 28,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1094,7 +1193,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Ragusan collegantia is unilateral and Venetian collegantia is bilateral",
-      "value": 20,
+      "value": 22,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1112,7 +1211,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Refusals are observations of the filter not inferences from survivors",
-      "value": 80,
+      "value": 83,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1177,6 +1276,15 @@
       "label": "Route Kolmogorov to ergodic theory not the theory of means",
       "value": 29,
       "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "SIAS SIUSA and SAN - the Italian access layers",
+      "type": "reference",
+      "group": "reference",
+      "label": "SIAS SIUSA and SAN - the Italian access layers",
+      "value": 18,
+      "color": "#66a61e",
       "shape": "dot"
     },
     {
@@ -1346,7 +1454,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The Roman universitas makes the JSC case parallelism not convergence",
-      "value": 31,
+      "value": 33,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1418,7 +1526,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The coding commons must record stated rationale not only component presence",
-      "value": 42,
+      "value": 44,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1427,7 +1535,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The commenda and the qirad do not separate on loss allocation",
-      "value": 27,
+      "value": 29,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1463,7 +1571,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The deficit reading of absence is the scalar ranking in evidentiary form",
-      "value": 40,
+      "value": 41,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1490,7 +1598,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The double refusal of the sea loan is evidence about the filter not about independence",
-      "value": 19,
+      "value": 21,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1562,7 +1670,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The heter iska restores the fixed return by evidentiary barrier",
-      "value": 23,
+      "value": 24,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1580,7 +1688,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The isqa is Lindy because captive not because robust",
-      "value": 22,
+      "value": 24,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1688,7 +1796,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The naties are a six-century Lindy institution",
-      "value": 24,
+      "value": 25,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1940,7 +2048,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Transferable claims reconcile lock-in with member exit",
-      "value": 23,
+      "value": 25,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1958,7 +2066,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Transmission versus independent recurrence is the load-bearing test",
-      "value": 43,
+      "value": 45,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1976,7 +2084,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Unilateral and bilateral commenda collapse on profit and separate on loss",
-      "value": 19,
+      "value": 20,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -2039,7 +2147,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Whiggish history of finance names the ascent narrative",
-      "value": 21,
+      "value": 22,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -2075,7 +2183,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Acquisitions and the antiquarian trade",
-      "value": 31,
+      "value": 32,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -2111,7 +2219,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Entity-shielding and corporate forms",
-      "value": 105,
+      "value": 106,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -2129,7 +2237,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - European archives and digital collections",
-      "value": 51,
+      "value": 82,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -2156,7 +2264,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Islamic contract doctrine",
-      "value": 45,
+      "value": 46,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -2174,7 +2282,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Risk-sharing vs risk-pricing",
-      "value": 127,
+      "value": 129,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -3149,6 +3257,258 @@
       "to": "Split provenance into priority and independence"
     },
     {
+      "from": "Archivio Apostolico Vaticano",
+      "to": "Archivio di Stato di Roma - the luoghi di monte"
+    },
+    {
+      "from": "Archivio Apostolico Vaticano",
+      "to": "Consulado de Burgos - the universidad de mercaderes"
+    },
+    {
+      "from": "Archivio Apostolico Vaticano",
+      "to": "Islamic doctrine refuses risk-commodification at step one"
+    },
+    {
+      "from": "Archivio Apostolico Vaticano",
+      "to": "MOC - European archives and digital collections"
+    },
+    {
+      "from": "Archivio Apostolico Vaticano",
+      "to": "MOC - Islamic contract doctrine"
+    },
+    {
+      "from": "Archivio Apostolico Vaticano",
+      "to": "Naviganti - Latin Christendom rejected the sea loan too"
+    },
+    {
+      "from": "Archivio Apostolico Vaticano",
+      "to": "The double refusal of the sea loan is evidence about the filter not about independence"
+    },
+    {
+      "from": "Archivio Apostolico Vaticano",
+      "to": "The heter iska restores the fixed return by evidentiary barrier"
+    },
+    {
+      "from": "Archivio Storico del Banco di Napoli",
+      "to": "Archivio Storico del Monte dei Paschi di Siena"
+    },
+    {
+      "from": "Archivio Storico del Banco di Napoli",
+      "to": "Archivio di Stato di Napoli"
+    },
+    {
+      "from": "Archivio Storico del Banco di Napoli",
+      "to": "Casa di San Giorgio - the Genoese public debt archive"
+    },
+    {
+      "from": "Archivio Storico del Banco di Napoli",
+      "to": "MOC - Acquisitions and the antiquarian trade"
+    },
+    {
+      "from": "Archivio Storico del Banco di Napoli",
+      "to": "MOC - European archives and digital collections"
+    },
+    {
+      "from": "Archivio Storico del Banco di Napoli",
+      "to": "SIAS SIUSA and SAN - the Italian access layers"
+    },
+    {
+      "from": "Archivio Storico del Monte dei Paschi di Siena",
+      "to": "A migrated institution collects local names not local forms"
+    },
+    {
+      "from": "Archivio Storico del Monte dei Paschi di Siena",
+      "to": "A scheme for extending the cooperative pooling census"
+    },
+    {
+      "from": "Archivio Storico del Monte dei Paschi di Siena",
+      "to": "Archivio Storico del Banco di Napoli"
+    },
+    {
+      "from": "Archivio Storico del Monte dei Paschi di Siena",
+      "to": "Arxiu Historic de Protocols de Barcelona"
+    },
+    {
+      "from": "Archivio Storico del Monte dei Paschi di Siena",
+      "to": "MOC - European archives and digital collections"
+    },
+    {
+      "from": "Archivio Storico del Monte dei Paschi di Siena",
+      "to": "SIAS SIUSA and SAN - the Italian access layers"
+    },
+    {
+      "from": "Archivio Storico del Monte dei Paschi di Siena",
+      "to": "The isqa is Lindy because captive not because robust"
+    },
+    {
+      "from": "Archivio Storico del Monte dei Paschi di Siena",
+      "to": "The naties are a six-century Lindy institution"
+    },
+    {
+      "from": "Archivio di Stato di Firenze",
+      "to": "A scheme for extending the cooperative pooling census"
+    },
+    {
+      "from": "Archivio di Stato di Firenze",
+      "to": "Archivio di Stato di Genova"
+    },
+    {
+      "from": "Archivio di Stato di Firenze",
+      "to": "Archivio di Stato di Prato - the Datini archive"
+    },
+    {
+      "from": "Archivio di Stato di Firenze",
+      "to": "Identity-wrapper and perpetual-monopoly are distinct shielding facets"
+    },
+    {
+      "from": "Archivio di Stato di Firenze",
+      "to": "MOC - European archives and digital collections"
+    },
+    {
+      "from": "Archivio di Stato di Firenze",
+      "to": "SIAS SIUSA and SAN - the Italian access layers"
+    },
+    {
+      "from": "Archivio di Stato di Genova",
+      "to": "A route clause conditions the investor's peril in three traditions"
+    },
+    {
+      "from": "Archivio di Stato di Genova",
+      "to": "Archivio di Stato di Venezia"
+    },
+    {
+      "from": "Archivio di Stato di Genova",
+      "to": "Casa di San Giorgio - the Genoese public debt archive"
+    },
+    {
+      "from": "Archivio di Stato di Genova",
+      "to": "MOC - European archives and digital collections"
+    },
+    {
+      "from": "Archivio di Stato di Genova",
+      "to": "Refusals are observations of the filter not inferences from survivors"
+    },
+    {
+      "from": "Archivio di Stato di Genova",
+      "to": "The commenda and the qirad do not separate on loss allocation"
+    },
+    {
+      "from": "Archivio di Stato di Genova",
+      "to": "Transmission versus independent recurrence is the load-bearing test"
+    },
+    {
+      "from": "Archivio di Stato di Milano - the Banco di Sant'Ambrogio",
+      "to": "Archivio di Stato di Roma - the luoghi di monte"
+    },
+    {
+      "from": "Archivio di Stato di Milano - the Banco di Sant'Ambrogio",
+      "to": "Casa di San Giorgio - the Genoese public debt archive"
+    },
+    {
+      "from": "Archivio di Stato di Milano - the Banco di Sant'Ambrogio",
+      "to": "Homoplasy is the finding not the noise"
+    },
+    {
+      "from": "Archivio di Stato di Milano - the Banco di Sant'Ambrogio",
+      "to": "MOC - European archives and digital collections"
+    },
+    {
+      "from": "Archivio di Stato di Milano - the Banco di Sant'Ambrogio",
+      "to": "SIAS SIUSA and SAN - the Italian access layers"
+    },
+    {
+      "from": "Archivio di Stato di Napoli",
+      "to": "Archivio Storico del Banco di Napoli"
+    },
+    {
+      "from": "Archivio di Stato di Napoli",
+      "to": "MOC - European archives and digital collections"
+    },
+    {
+      "from": "Archivio di Stato di Napoli",
+      "to": "Refusals are observations of the filter not inferences from survivors"
+    },
+    {
+      "from": "Archivio di Stato di Napoli",
+      "to": "SIAS SIUSA and SAN - the Italian access layers"
+    },
+    {
+      "from": "Archivio di Stato di Napoli",
+      "to": "The deficit reading of absence is the scalar ranking in evidentiary form"
+    },
+    {
+      "from": "Archivio di Stato di Prato - the Datini archive",
+      "to": "Archivio di Stato di Firenze"
+    },
+    {
+      "from": "Archivio di Stato di Prato - the Datini archive",
+      "to": "MOC - European archives and digital collections"
+    },
+    {
+      "from": "Archivio di Stato di Prato - the Datini archive",
+      "to": "MOC - Risk-sharing vs risk-pricing"
+    },
+    {
+      "from": "Archivio di Stato di Prato - the Datini archive",
+      "to": "Persistence samples are conditioned on non-absorption"
+    },
+    {
+      "from": "Archivio di Stato di Prato - the Datini archive",
+      "to": "Pricing risk does not remove it"
+    },
+    {
+      "from": "Archivio di Stato di Prato - the Datini archive",
+      "to": "The coding commons must record stated rationale not only component presence"
+    },
+    {
+      "from": "Archivio di Stato di Roma - the luoghi di monte",
+      "to": "A migrated institution collects local names not local forms"
+    },
+    {
+      "from": "Archivio di Stato di Roma - the luoghi di monte",
+      "to": "Archivio Apostolico Vaticano"
+    },
+    {
+      "from": "Archivio di Stato di Roma - the luoghi di monte",
+      "to": "Casa di San Giorgio - the Genoese public debt archive"
+    },
+    {
+      "from": "Archivio di Stato di Roma - the luoghi di monte",
+      "to": "Divergent arbitrary particulars are the independence diagnostic"
+    },
+    {
+      "from": "Archivio di Stato di Roma - the luoghi di monte",
+      "to": "MOC - European archives and digital collections"
+    },
+    {
+      "from": "Archivio di Stato di Roma - the luoghi di monte",
+      "to": "Naviganti - Latin Christendom rejected the sea loan too"
+    },
+    {
+      "from": "Archivio di Stato di Venezia",
+      "to": "A scheme for extending the cooperative pooling census"
+    },
+    {
+      "from": "Archivio di Stato di Venezia",
+      "to": "Archivio di Stato di Genova"
+    },
+    {
+      "from": "Archivio di Stato di Venezia",
+      "to": "MOC - European archives and digital collections"
+    },
+    {
+      "from": "Archivio di Stato di Venezia",
+      "to": "Ragusan collegantia is unilateral and Venetian collegantia is bilateral"
+    },
+    {
+      "from": "Archivio di Stato di Venezia",
+      "to": "SIAS SIUSA and SAN - the Italian access layers"
+    },
+    {
+      "from": "Archivio di Stato di Venezia",
+      "to": "Unilateral and bilateral commenda collapse on profit and separate on loss"
+    },
+    {
       "from": "Archivo Foral de Bizkaia - the Consulado de Bilbao",
       "to": "Consulado de Burgos - the universidad de mercaderes"
     },
@@ -3719,6 +4079,34 @@
     {
       "from": "Brown tests equality where a risk reading predicts dispersion",
       "to": "loss_mitigation_forms"
+    },
+    {
+      "from": "Casa di San Giorgio - the Genoese public debt archive",
+      "to": "Archivio di Stato di Genova"
+    },
+    {
+      "from": "Casa di San Giorgio - the Genoese public debt archive",
+      "to": "Archivio di Stato di Roma - the luoghi di monte"
+    },
+    {
+      "from": "Casa di San Giorgio - the Genoese public debt archive",
+      "to": "MOC - Entity-shielding and corporate forms"
+    },
+    {
+      "from": "Casa di San Giorgio - the Genoese public debt archive",
+      "to": "MOC - European archives and digital collections"
+    },
+    {
+      "from": "Casa di San Giorgio - the Genoese public debt archive",
+      "to": "The Roman universitas makes the JSC case parallelism not convergence"
+    },
+    {
+      "from": "Casa di San Giorgio - the Genoese public debt archive",
+      "to": "Transferable claims reconcile lock-in with member exit"
+    },
+    {
+      "from": "Casa di San Giorgio - the Genoese public debt archive",
+      "to": "Whiggish history of finance names the ascent narrative"
     },
     {
       "from": "Consulado de Burgos - the universidad de mercaderes",
@@ -6746,6 +7134,46 @@
     },
     {
       "from": "MOC - European archives and digital collections",
+      "to": "Archivio Apostolico Vaticano"
+    },
+    {
+      "from": "MOC - European archives and digital collections",
+      "to": "Archivio Storico del Banco di Napoli"
+    },
+    {
+      "from": "MOC - European archives and digital collections",
+      "to": "Archivio Storico del Monte dei Paschi di Siena"
+    },
+    {
+      "from": "MOC - European archives and digital collections",
+      "to": "Archivio di Stato di Firenze"
+    },
+    {
+      "from": "MOC - European archives and digital collections",
+      "to": "Archivio di Stato di Genova"
+    },
+    {
+      "from": "MOC - European archives and digital collections",
+      "to": "Archivio di Stato di Milano - the Banco di Sant'Ambrogio"
+    },
+    {
+      "from": "MOC - European archives and digital collections",
+      "to": "Archivio di Stato di Napoli"
+    },
+    {
+      "from": "MOC - European archives and digital collections",
+      "to": "Archivio di Stato di Prato - the Datini archive"
+    },
+    {
+      "from": "MOC - European archives and digital collections",
+      "to": "Archivio di Stato di Roma - the luoghi di monte"
+    },
+    {
+      "from": "MOC - European archives and digital collections",
+      "to": "Archivio di Stato di Venezia"
+    },
+    {
+      "from": "MOC - European archives and digital collections",
       "to": "Archivo Foral de Bizkaia - the Consulado de Bilbao"
     },
     {
@@ -6783,6 +7211,10 @@
     {
       "from": "MOC - European archives and digital collections",
       "to": "Arxiu del Regne de Valencia"
+    },
+    {
+      "from": "MOC - European archives and digital collections",
+      "to": "Casa di San Giorgio - the Genoese public debt archive"
     },
     {
       "from": "MOC - European archives and digital collections",
@@ -6835,6 +7267,10 @@
     {
       "from": "MOC - European archives and digital collections",
       "to": "Refusals are observations of the filter not inferences from survivors"
+    },
+    {
+      "from": "MOC - European archives and digital collections",
+      "to": "SIAS SIUSA and SAN - the Italian access layers"
     },
     {
       "from": "MOC - European archives and digital collections",
@@ -9255,6 +9691,38 @@
     {
       "from": "Route Kolmogorov to ergodic theory not the theory of means",
       "to": "Time-average"
+    },
+    {
+      "from": "SIAS SIUSA and SAN - the Italian access layers",
+      "to": "Archivio Storico del Banco di Napoli"
+    },
+    {
+      "from": "SIAS SIUSA and SAN - the Italian access layers",
+      "to": "Archivio Storico del Monte dei Paschi di Siena"
+    },
+    {
+      "from": "SIAS SIUSA and SAN - the Italian access layers",
+      "to": "Archivio di Stato di Firenze"
+    },
+    {
+      "from": "SIAS SIUSA and SAN - the Italian access layers",
+      "to": "Archivio di Stato di Genova"
+    },
+    {
+      "from": "SIAS SIUSA and SAN - the Italian access layers",
+      "to": "Archivio di Stato di Venezia"
+    },
+    {
+      "from": "SIAS SIUSA and SAN - the Italian access layers",
+      "to": "Isqa reading list to acquire"
+    },
+    {
+      "from": "SIAS SIUSA and SAN - the Italian access layers",
+      "to": "MOC - European archives and digital collections"
+    },
+    {
+      "from": "SIAS SIUSA and SAN - the Italian access layers",
+      "to": "PARES - the access layer for the Spanish state archives"
     },
     {
       "from": "Scuttling rewards fraud in the sea loan",
