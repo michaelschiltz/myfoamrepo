@@ -35,7 +35,7 @@ status: seed
 
 **`Arti`** — the guild archives (Calimala, Lana, Cambio). Corporate bodies with their own jurisdiction, and a possible *identity-wrapper* comparison in the sense of [[Identity-wrapper and perpetual-monopoly are distinct shielding facets]].
 
-**`Monte Comune`** and **`Monte delle Doti`** — the Florentine funded public debt and the dowry fund. The *Monte delle Doti* is a genuine pooling instrument with an actuarial structure, and it is **not currently in the census**. ⚠️ This is a live gap, not a note-to-self: a state-run contingent claim on a demographic event, priced, transferable, and well documented.
+**`Monte Comune`** and **`Monte delle Doti`** — the Florentine funded public debt and the dowry fund. The *Monte delle Doti* is a priced, transferable, life-contingent claim on a pooled fund, and it is **not in the census**. **Parked** in `HistorEE_codebooks`, logbook 2, 2026-09-10, with the question that decides whether it is a row at all: whether it mutualises among depositors or merely administers segregated claims. Not coded, and not to be coded from general knowledge.
 
 ## Links
 

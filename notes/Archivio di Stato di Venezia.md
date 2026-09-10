@@ -36,7 +36,9 @@ status: seed
 
 ## Why the convoy question is worth raising here
 
-The *muda* pooled risk across ships by regulation rather than by contract — the state compelling a risk-sharing arrangement that the parties did not negotiate. That is a different mechanism from every form currently in `loss_mitigation_forms`, and [[A scheme for extending the cooperative pooling census]] is where it would be argued for. Venice is the archive that would answer it.
+The *muda* pooled peril across ships by regulation rather than by contract — the state compelling an arrangement the parties did not negotiate. **Parked** in `HistorEE_codebooks`, logbook 2, 2026-09-10, where it bears on a question the loss census has already recorded and cannot answer: `averia_pool` is a compulsory convoy levy, `PY0`'s definition names convoy escort as its worked example of a collective good, and nothing explains the compulsion.
+
+**The boundary problem is why it is parked and not recommended.** If the *muda* pools by regulating sailing rather than through a fund, there is no fund for the census's characteristics to describe, and a row would put a regulatory rule and a contributory pool in one column on the strength of a shared word. It is also possible the codable object is the *incanto* — the auction of the galleys to merchant syndicates — which is a different institution and would belong to the entity census. Venice is the archive that would settle it; [[A scheme for extending the cooperative pooling census]] is where the case would be argued.
 
 ## Links
 
