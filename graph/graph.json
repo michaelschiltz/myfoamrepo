@@ -410,7 +410,7 @@
       "type": "reference",
       "group": "reference",
       "label": "EIC digital corpus - what is online and on what terms",
-      "value": 16,
+      "value": 17,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -545,7 +545,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "GLOBALISE removes the HTR question for the VOC and leaves it standing for the EIC",
-      "value": 23,
+      "value": 24,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -617,7 +617,7 @@
       "type": "source",
       "group": "source",
       "label": "Hierro Anibarro 2005 on the asiento de averia and the privileged company",
-      "value": 21,
+      "value": 22,
       "color": "#7570b3",
       "shape": "dot"
     },
@@ -752,7 +752,7 @@
       "type": "source",
       "group": "source",
       "label": "Le Bris Goetzmann Pouget 2023 on convergent evolution toward the joint-stock company",
-      "value": 19,
+      "value": 20,
       "color": "#7570b3",
       "shape": "dot"
     },
@@ -779,7 +779,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Loghi - the KNAW-Nationaal Archief HTR pipeline",
-      "value": 14,
+      "value": 15,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -878,7 +878,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Open-source HTR stack - eScriptorium Kraken Loghi",
-      "value": 14,
+      "value": 15,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1004,7 +1004,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Refusals are observations of the filter not inferences from survivors",
-      "value": 78,
+      "value": 79,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1229,7 +1229,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The QDL corpus is conditioned on its funder's geography",
-      "value": 15,
+      "value": 16,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1247,7 +1247,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The VOC-EIC digital asymmetry is an access regime not a survival difference",
-      "value": 23,
+      "value": 26,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1292,7 +1292,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The asiento de averia is the pooling-to-corporation hinge",
-      "value": 22,
+      "value": 23,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1346,7 +1346,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The creditor limb of entity shielding has no witness",
-      "value": 17,
+      "value": 18,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1355,7 +1355,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The deficit reading of absence is the scalar ranking in evidentiary form",
-      "value": 39,
+      "value": 40,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1841,7 +1841,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Transkribus - managed HTR platform",
-      "value": 17,
+      "value": 18,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1877,7 +1877,7 @@
       "type": "reference",
       "group": "reference",
       "label": "VOC digital corpus - what is online and on what terms",
-      "value": 18,
+      "value": 19,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1967,7 +1967,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Acquisitions and the antiquarian trade",
-      "value": 25,
+      "value": 28,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -1985,7 +1985,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Digitisation and text recognition",
-      "value": 27,
+      "value": 30,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -1994,7 +1994,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - ERC Synergy Grant",
-      "value": 63,
+      "value": 64,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -2017,6 +2017,15 @@
       "shape": "dot"
     },
     {
+      "id": "MOC - European archives and digital collections",
+      "type": "moc",
+      "group": "moc",
+      "label": "MOC - European archives and digital collections",
+      "value": 25,
+      "color": "#d95f02",
+      "shape": "dot"
+    },
+    {
       "id": "MOC - HistorEE",
       "type": "moc",
       "group": "moc",
@@ -2030,7 +2039,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Historiography and method",
-      "value": 186,
+      "value": 187,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -2066,7 +2075,7 @@
       "type": "reference",
       "group": "reference",
       "label": "tags",
-      "value": 10,
+      "value": 12,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -5525,6 +5534,10 @@
     },
     {
       "from": "MOC - Acquisitions and the antiquarian trade",
+      "to": "MOC - European archives and digital collections"
+    },
+    {
+      "from": "MOC - Acquisitions and the antiquarian trade",
       "to": "MOC - HistorEE"
     },
     {
@@ -5766,6 +5779,10 @@
     {
       "from": "MOC - Digitisation and text recognition",
       "to": "Loghi - the KNAW-Nationaal Archief HTR pipeline"
+    },
+    {
+      "from": "MOC - Digitisation and text recognition",
+      "to": "MOC - European archives and digital collections"
     },
     {
       "from": "MOC - Digitisation and text recognition",
@@ -6342,6 +6359,78 @@
     {
       "from": "MOC - Ergodicity and the time-ensemble distinction",
       "to": "Toda's own example makes EE more falsifiable than expected utility"
+    },
+    {
+      "from": "MOC - European archives and digital collections",
+      "to": "EIC digital corpus - what is online and on what terms"
+    },
+    {
+      "from": "MOC - European archives and digital collections",
+      "to": "GLOBALISE removes the HTR question for the VOC and leaves it standing for the EIC"
+    },
+    {
+      "from": "MOC - European archives and digital collections",
+      "to": "Hierro Anibarro 2005 on the asiento de averia and the privileged company"
+    },
+    {
+      "from": "MOC - European archives and digital collections",
+      "to": "Le Bris Goetzmann Pouget 2023 on convergent evolution toward the joint-stock company"
+    },
+    {
+      "from": "MOC - European archives and digital collections",
+      "to": "Loghi - the KNAW-Nationaal Archief HTR pipeline"
+    },
+    {
+      "from": "MOC - European archives and digital collections",
+      "to": "MOC - Acquisitions and the antiquarian trade"
+    },
+    {
+      "from": "MOC - European archives and digital collections",
+      "to": "MOC - Digitisation and text recognition"
+    },
+    {
+      "from": "MOC - European archives and digital collections",
+      "to": "MOC - ERC Synergy Grant"
+    },
+    {
+      "from": "MOC - European archives and digital collections",
+      "to": "MOC - Historiography and method"
+    },
+    {
+      "from": "MOC - European archives and digital collections",
+      "to": "Open-source HTR stack - eScriptorium Kraken Loghi"
+    },
+    {
+      "from": "MOC - European archives and digital collections",
+      "to": "Refusals are observations of the filter not inferences from survivors"
+    },
+    {
+      "from": "MOC - European archives and digital collections",
+      "to": "The QDL corpus is conditioned on its funder's geography"
+    },
+    {
+      "from": "MOC - European archives and digital collections",
+      "to": "The VOC-EIC digital asymmetry is an access regime not a survival difference"
+    },
+    {
+      "from": "MOC - European archives and digital collections",
+      "to": "The asiento de averia is the pooling-to-corporation hinge"
+    },
+    {
+      "from": "MOC - European archives and digital collections",
+      "to": "The creditor limb of entity shielding has no witness"
+    },
+    {
+      "from": "MOC - European archives and digital collections",
+      "to": "The deficit reading of absence is the scalar ranking in evidentiary form"
+    },
+    {
+      "from": "MOC - European archives and digital collections",
+      "to": "Transkribus - managed HTR platform"
+    },
+    {
+      "from": "MOC - European archives and digital collections",
+      "to": "VOC digital corpus - what is online and on what terms"
     },
     {
       "from": "MOC - HistorEE",
@@ -12449,6 +12538,10 @@
     },
     {
       "from": "tags",
+      "to": "MOC - European archives and digital collections"
+    },
+    {
+      "from": "tags",
       "to": "Path dependence requires naming the non-commuting operation"
     },
     {
@@ -12458,6 +12551,10 @@
     {
       "from": "tags",
       "to": "Ribbit mandates exposure rather than forbidding gain"
+    },
+    {
+      "from": "tags",
+      "to": "The VOC-EIC digital asymmetry is an access regime not a survival difference"
     },
     {
       "from": "tags",

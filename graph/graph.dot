@@ -225,6 +225,7 @@ digraph vault {
   "MOC - ERC Synergy Grant" [fillcolor="#d95f02", fontcolor=white, shape=ellipse];
   "MOC - Entity-shielding and corporate forms" [fillcolor="#d95f02", fontcolor=white, shape=ellipse];
   "MOC - Ergodicity and the time-ensemble distinction" [fillcolor="#d95f02", fontcolor=white, shape=ellipse];
+  "MOC - European archives and digital collections" [fillcolor="#d95f02", fontcolor=white, shape=ellipse];
   "MOC - HistorEE" [fillcolor="#d95f02", fontcolor=white, shape=ellipse];
   "MOC - Historiography and method" [fillcolor="#d95f02", fontcolor=white, shape=ellipse];
   "MOC - Islamic contract doctrine" [fillcolor="#d95f02", fontcolor=white, shape=ellipse];
@@ -1090,6 +1091,7 @@ digraph vault {
   "MOC - Acquisitions and the antiquarian trade" -> "Isqa reading list to acquire";
   "MOC - Acquisitions and the antiquarian trade" -> "MOC - Digitisation and text recognition";
   "MOC - Acquisitions and the antiquarian trade" -> "MOC - ERC Synergy Grant";
+  "MOC - Acquisitions and the antiquarian trade" -> "MOC - European archives and digital collections";
   "MOC - Acquisitions and the antiquarian trade" -> "MOC - HistorEE";
   "MOC - Acquisitions and the antiquarian trade" -> "MOC - Historiography and method";
   "MOC - Acquisitions and the antiquarian trade" -> "Preservation-grade overhead scanners - Zeutschel and i2S";
@@ -1151,6 +1153,7 @@ digraph vault {
   "MOC - Digitisation and text recognition" -> "GLOBALISE removes the HTR question for the VOC and leaves it standing for the EIC";
   "MOC - Digitisation and text recognition" -> "Kuzushiji OCR - the NDL and CODH stack";
   "MOC - Digitisation and text recognition" -> "Loghi - the KNAW-Nationaal Archief HTR pipeline";
+  "MOC - Digitisation and text recognition" -> "MOC - European archives and digital collections";
   "MOC - Digitisation and text recognition" -> "Open-source HTR stack - eScriptorium Kraken Loghi";
   "MOC - Digitisation and text recognition" -> "Preservation-grade overhead scanners - Zeutschel and i2S";
   "MOC - Digitisation and text recognition" -> "Robotic V-cradle book scanners - Treventus and Qidenus";
@@ -1295,6 +1298,24 @@ digraph vault {
   "MOC - Ergodicity and the time-ensemble distinction" -> "Toda 2023 on ergodicity economics as pseudoscience";
   "MOC - Ergodicity and the time-ensemble distinction" -> "Toda's citation allegations must be checked before we cite Peters";
   "MOC - Ergodicity and the time-ensemble distinction" -> "Toda's own example makes EE more falsifiable than expected utility";
+  "MOC - European archives and digital collections" -> "EIC digital corpus - what is online and on what terms";
+  "MOC - European archives and digital collections" -> "GLOBALISE removes the HTR question for the VOC and leaves it standing for the EIC";
+  "MOC - European archives and digital collections" -> "Hierro Anibarro 2005 on the asiento de averia and the privileged company";
+  "MOC - European archives and digital collections" -> "Le Bris Goetzmann Pouget 2023 on convergent evolution toward the joint-stock company";
+  "MOC - European archives and digital collections" -> "Loghi - the KNAW-Nationaal Archief HTR pipeline";
+  "MOC - European archives and digital collections" -> "MOC - Acquisitions and the antiquarian trade";
+  "MOC - European archives and digital collections" -> "MOC - Digitisation and text recognition";
+  "MOC - European archives and digital collections" -> "MOC - ERC Synergy Grant";
+  "MOC - European archives and digital collections" -> "MOC - Historiography and method";
+  "MOC - European archives and digital collections" -> "Open-source HTR stack - eScriptorium Kraken Loghi";
+  "MOC - European archives and digital collections" -> "Refusals are observations of the filter not inferences from survivors";
+  "MOC - European archives and digital collections" -> "The QDL corpus is conditioned on its funder's geography";
+  "MOC - European archives and digital collections" -> "The VOC-EIC digital asymmetry is an access regime not a survival difference";
+  "MOC - European archives and digital collections" -> "The asiento de averia is the pooling-to-corporation hinge";
+  "MOC - European archives and digital collections" -> "The creditor limb of entity shielding has no witness";
+  "MOC - European archives and digital collections" -> "The deficit reading of absence is the scalar ranking in evidentiary form";
+  "MOC - European archives and digital collections" -> "Transkribus - managed HTR platform";
+  "MOC - European archives and digital collections" -> "VOC digital corpus - what is online and on what terms";
   "MOC - HistorEE" -> "A blind is a property of the channel not of the dataset";
   "MOC - HistorEE" -> "A claim set chosen after the coding reports the analyst";
   "MOC - HistorEE" -> "A contingency clause priced at zero is evidence for a time-average criterion";
@@ -2821,9 +2842,11 @@ digraph vault {
   "tags" -> "Homoplasy is the finding not the noise";
   "tags" -> "MOC - Acquisitions and the antiquarian trade";
   "tags" -> "MOC - Digitisation and text recognition";
+  "tags" -> "MOC - European archives and digital collections";
   "tags" -> "Path dependence requires naming the non-commuting operation";
   "tags" -> "Retrodiction fails on non-invertibility not on induction";
   "tags" -> "Ribbit mandates exposure rather than forbidding gain";
+  "tags" -> "The VOC-EIC digital asymmetry is an access regime not a survival difference";
   "tags" -> "The isqa refuses the agent's shield";
   "tags" -> "Typology and character coding literature";
 }

@@ -52,6 +52,8 @@ Distinct from the tooling layer, and consequential in the other direction: where
 - [[EIC digital corpus - what is online and on what terms]] — images at best, and mostly behind a subscription
 - [[GLOBALISE removes the HTR question for the VOC and leaves it standing for the EIC]] — what that means for the project's own transcription budget
 
+The register of *which* repositories hold what, and at which of the three layers, is a hub of its own: [[MOC - European archives and digital collections]]. The rule it turns on is the one this hub exists to answer — an imaged archive is not a transcribed one, and the gap between them is this hub's entire subject matter.
+
 ## Tiers at a glance
 
 | Tier | Examples | Throughput | Indicative cost | Who it is for |

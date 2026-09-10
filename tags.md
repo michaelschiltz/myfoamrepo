@@ -85,3 +85,15 @@ Rule: **never tag an argument note with a tooling tag, and never tag a tooling n
 Rule, unchanged: **never tag an argument note with an acquisitions tag, and never tag an acquisitions note with a concept tag.**
 
 **Watch this boundary — it is the leakiest one in the vocabulary.** The trade is itself a selection filter, and a claim about how dealer specialisms, cataloguing conventions or digitisation funding condition what survives *into view* is an argument, not infrastructure. Such a claim belongs in `notes/` under `provenance`, `selection` or `survivorship-bias`, never here. The test is whether the note would change if the trade were organised differently: if yes it is infrastructure, if it is *about* the fact that the trade is organised this way it is an argument.
+
+## Archives — *not* concept vocabulary
+
+`archives`
+
+**The third quarantined layer, on the same reasoning as the tooling and acquisitions tags.** It labels a repository as a place one goes and a holding as something one can or cannot see — not an object of study. It hubs at [[MOC - European archives and digital collections]] with `project: infrastructure`, `type: reference`.
+
+Rule, unchanged: **never tag an argument note with `archives`, and never tag a note in that hub with a concept tag.**
+
+The boundary against `acquisitions` is worth stating because the two hubs abut. `acquisitions` covers routes to a text one does not have — purchase, want-list, ILL, commissioned surrogate. `archives` covers the institution that holds the original and the terms on which it is open. A commissioned scan is the one object that belongs to both, and it is filed under `acquisitions` because the decision it records is a spending decision.
+
+And the same leak: a claim that *digitisation funding conditions what comes into view* is an argument, not infrastructure, and belongs in `notes/` under `provenance`, `selection` or `legibility`. See [[The VOC-EIC digital asymmetry is an access regime not a survival difference]].

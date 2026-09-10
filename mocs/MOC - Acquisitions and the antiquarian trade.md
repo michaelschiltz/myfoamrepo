@@ -61,6 +61,7 @@ Provenance deserves the same discipline the project applies elsewhere. A chain o
 
 ## Where this hub meets the others
 
+- [[MOC - European archives and digital collections]] — the third side of the triangle: which institution holds the series, and at what layer it is already open. Check it before any want-list entry, because a text already at layer 3 costs nothing
 - [[MOC - Digitisation and text recognition]] — the surrogate route; [[Preservation-grade overhead scanners - Zeutschel and i2S]] carries the rule for commissioning (ask for the uncompressed TIFF archival master, not the delivery PDF)
 - [[VOC digital corpus - what is online and on what terms]] and [[EIC digital corpus - what is online and on what terms]] — the free tier, and its asymmetry
 - [[Van Dam's Beschryvinge - the VOC described by its own advocaat]] — a worked case of a text whose editions and access conditions determine what can be claimed from it
