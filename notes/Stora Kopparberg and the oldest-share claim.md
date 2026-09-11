@@ -43,6 +43,7 @@ If Stora is coded, it should be coded for what can be evidenced — and on prese
 ## Links
 
 - [[The Kux carries transferability with unlimited liability]]
+- [[The talha and the Zubusse are the same mechanism with opposite liability rules]]
 - [[Le Bris Goetzmann Pouget 2023 on convergent evolution toward the joint-stock company]]
 - [[Guard against reverse-teleology]]
 - [[Whiggish history of finance names the ascent narrative]]

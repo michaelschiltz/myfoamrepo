@@ -308,6 +308,7 @@ digraph vault {
   "The selective claim is falsifiable where the prescriptive claim is not" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "The split is over whether the explanandum is a state or a trajectory" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "The sustainability criterion assumes the ergodicity it should be testing" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
+  "The talha and the Zubusse are the same mechanism with opposite liability rules" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "The theory predicts recurrence not independent origins" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "The three Kelly critiques establish different nulls" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
   "The three published critiques do not agree with each other" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
@@ -2175,6 +2176,7 @@ digraph vault {
   "MOC - HistorEE" -> "The selective claim is falsifiable where the prescriptive claim is not";
   "MOC - HistorEE" -> "The split is over whether the explanandum is a state or a trajectory";
   "MOC - HistorEE" -> "The sustainability criterion assumes the ergodicity it should be testing";
+  "MOC - HistorEE" -> "The talha and the Zubusse are the same mechanism with opposite liability rules";
   "MOC - HistorEE" -> "The theory predicts recurrence not independent origins";
   "MOC - HistorEE" -> "The three published critiques do not agree with each other";
   "MOC - HistorEE" -> "The unfalsifiability charge is really a scope-and-productivity charge";
@@ -2988,6 +2990,7 @@ digraph vault {
   "Stora Kopparberg and the oldest-share claim" -> "The Kux carries transferability with unlimited liability";
   "Stora Kopparberg and the oldest-share claim" -> "The isqa is Lindy because captive not because robust";
   "Stora Kopparberg and the oldest-share claim" -> "The naties are a six-century Lindy institution";
+  "Stora Kopparberg and the oldest-share claim" -> "The talha and the Zubusse are the same mechanism with opposite liability rules";
   "Stora Kopparberg and the oldest-share claim" -> "Transferable claims reconcile lock-in with member exit";
   "Stora Kopparberg and the oldest-share claim" -> "Whiggish history of finance names the ascent narrative";
   "Svenska Ostindiska Companiet - the Gothenburg archive" -> "Asiatisk Kompagni and the Danish trading companies";
@@ -3070,6 +3073,7 @@ digraph vault {
   "The Kux carries transferability with unlimited liability" -> "MOC - Entity-shielding and corporate forms";
   "The Kux carries transferability with unlimited liability" -> "MOC - HistorEE";
   "The Kux carries transferability with unlimited liability" -> "Stora Kopparberg and the oldest-share claim";
+  "The Kux carries transferability with unlimited liability" -> "The talha and the Zubusse are the same mechanism with opposite liability rules";
   "The Kux carries transferability with unlimited liability" -> "Transferable claims reconcile lock-in with member exit";
   "The Nakai ledger scores as losses what present value scores as gains" -> "Economics had its ensemble moment in 1738 and psychologized it";
   "The Nakai ledger scores as losses what present value scores as gains" -> "MOC - Ergodicity and the time-ensemble distinction";
@@ -3601,6 +3605,14 @@ digraph vault {
   "The sustainability criterion assumes the ergodicity it should be testing" -> "MOC - HistorEE";
   "The sustainability criterion assumes the ergodicity it should be testing" -> "Non-ergodicity collapses the likelihood ratio on outcomes";
   "The sustainability criterion assumes the ergodicity it should be testing" -> "Time-average";
+  "The talha and the Zubusse are the same mechanism with opposite liability rules" -> "Count degrees of freedom not cells";
+  "The talha and the Zubusse are the same mechanism with opposite liability rules" -> "Le Bris Goetzmann Pouget 2023 on convergent evolution toward the joint-stock company";
+  "The talha and the Zubusse are the same mechanism with opposite liability rules" -> "MOC - Entity-shielding and corporate forms";
+  "The talha and the Zubusse are the same mechanism with opposite liability rules" -> "MOC - HistorEE";
+  "The talha and the Zubusse are the same mechanism with opposite liability rules" -> "Stora Kopparberg and the oldest-share claim";
+  "The talha and the Zubusse are the same mechanism with opposite liability rules" -> "The Kux carries transferability with unlimited liability";
+  "The talha and the Zubusse are the same mechanism with opposite liability rules" -> "The coding commons must record stated rationale not only component presence";
+  "The talha and the Zubusse are the same mechanism with opposite liability rules" -> "Transferable claims reconcile lock-in with member exit";
   "The theory predicts recurrence not independent origins" -> "Divergent arbitrary particulars are the independence diagnostic";
   "The theory predicts recurrence not independent origins" -> "Galton's problem";
   "The theory predicts recurrence not independent origins" -> "MOC - ERC Synergy Grant";

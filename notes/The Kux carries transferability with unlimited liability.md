@@ -29,6 +29,8 @@ The standard account runs the other way: transferable claims are held to *requir
 
 **That bears directly on [[Transferable claims reconcile lock-in with member exit]].** The Kux resolves the same tension by the opposite route: not by capping the member's exposure so the claim can move, but by **making the claim move while leaving the exposure uncapped** — and then using forfeiture as the enforcement that a liability rule would otherwise have provided.
 
+**The Bazacle makes this sharper, not weaker.** The *talha* is the same device — periodic call, forfeiture, recycled claim — under an **explicit cap**: the Castel statute of 1417 allowed the company to demand no more from a *parier* than the value of his share. **So both routes were available in medieval Europe, and the Kux is the deviant one.** See [[The talha and the Zubusse are the same mechanism with opposite liability rules]], which is where that pair is argued.
+
 **And the *Zubusse* is capital lock-in inverted.** The census's `capital-lock-in` asks whether contributed capital can be withdrawn at the member's will. Here it cannot — *and the member can be compelled to contribute more*, on pain of losing what he has. That is a stronger condition than lock-in, and the census has no value for it.
 
 ## Why it is better evidenced than Stora

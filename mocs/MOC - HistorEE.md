@@ -206,6 +206,7 @@ Project hub for the book. Atomic notes hang off both this project MOC and a them
 
 - [[Stora Kopparberg and the oldest-share claim]] — the 1288 *bytesbrev* is a debt settled with a fractional interest, and will not carry a first-instance claim
 - [[The Kux carries transferability with unlimited liability]] — the German mining share, and a configuration the joint-stock literature treats as impossible
+- [[The talha and the Zubusse are the same mechanism with opposite liability rules]] — a near-minimal pair: the device held constant, the liability rule varying
 
 ## Concept anchors
 

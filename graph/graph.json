@@ -770,7 +770,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Count degrees of freedom not cells",
-      "value": 47,
+      "value": 49,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1472,7 +1472,7 @@
       "type": "source",
       "group": "source",
       "label": "Le Bris Goetzmann Pouget 2023 on convergent evolution toward the joint-stock company",
-      "value": 28,
+      "value": 29,
       "color": "#7570b3",
       "shape": "dot"
     },
@@ -2156,7 +2156,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Stora Kopparberg and the oldest-share claim",
-      "value": 18,
+      "value": 20,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -2246,7 +2246,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The Kux carries transferability with unlimited liability",
-      "value": 13,
+      "value": 17,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -2381,7 +2381,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The coding commons must record stated rationale not only component presence",
-      "value": 50,
+      "value": 52,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -2764,6 +2764,15 @@
       "shape": "dot"
     },
     {
+      "id": "The talha and the Zubusse are the same mechanism with opposite liability rules",
+      "type": "permanent",
+      "group": "seed",
+      "label": "The talha and the Zubusse are the same mechanism with opposite liability rules",
+      "value": 16,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
       "id": "The theory predicts recurrence not independent origins",
       "type": "permanent",
       "group": "seed",
@@ -2912,7 +2921,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Transferable claims reconcile lock-in with member exit",
-      "value": 31,
+      "value": 32,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -3128,7 +3137,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Entity-shielding and corporate forms",
-      "value": 113,
+      "value": 114,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -3173,7 +3182,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - HistorEE",
-      "value": 360,
+      "value": 362,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -10520,6 +10529,10 @@
     },
     {
       "from": "MOC - HistorEE",
+      "to": "The talha and the Zubusse are the same mechanism with opposite liability rules"
+    },
+    {
+      "from": "MOC - HistorEE",
       "to": "The theory predicts recurrence not independent origins"
     },
     {
@@ -13772,6 +13785,10 @@
     },
     {
       "from": "Stora Kopparberg and the oldest-share claim",
+      "to": "The talha and the Zubusse are the same mechanism with opposite liability rules"
+    },
+    {
+      "from": "Stora Kopparberg and the oldest-share claim",
       "to": "Transferable claims reconcile lock-in with member exit"
     },
     {
@@ -14097,6 +14114,10 @@
     {
       "from": "The Kux carries transferability with unlimited liability",
       "to": "Stora Kopparberg and the oldest-share claim"
+    },
+    {
+      "from": "The Kux carries transferability with unlimited liability",
+      "to": "The talha and the Zubusse are the same mechanism with opposite liability rules"
     },
     {
       "from": "The Kux carries transferability with unlimited liability",
@@ -16221,6 +16242,38 @@
     {
       "from": "The sustainability criterion assumes the ergodicity it should be testing",
       "to": "Time-average"
+    },
+    {
+      "from": "The talha and the Zubusse are the same mechanism with opposite liability rules",
+      "to": "Count degrees of freedom not cells"
+    },
+    {
+      "from": "The talha and the Zubusse are the same mechanism with opposite liability rules",
+      "to": "Le Bris Goetzmann Pouget 2023 on convergent evolution toward the joint-stock company"
+    },
+    {
+      "from": "The talha and the Zubusse are the same mechanism with opposite liability rules",
+      "to": "MOC - Entity-shielding and corporate forms"
+    },
+    {
+      "from": "The talha and the Zubusse are the same mechanism with opposite liability rules",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "The talha and the Zubusse are the same mechanism with opposite liability rules",
+      "to": "Stora Kopparberg and the oldest-share claim"
+    },
+    {
+      "from": "The talha and the Zubusse are the same mechanism with opposite liability rules",
+      "to": "The Kux carries transferability with unlimited liability"
+    },
+    {
+      "from": "The talha and the Zubusse are the same mechanism with opposite liability rules",
+      "to": "The coding commons must record stated rationale not only component presence"
+    },
+    {
+      "from": "The talha and the Zubusse are the same mechanism with opposite liability rules",
+      "to": "Transferable claims reconcile lock-in with member exit"
     },
     {
       "from": "The theory predicts recurrence not independent origins",
