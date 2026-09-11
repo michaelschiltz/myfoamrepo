@@ -50,7 +50,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "A migrated institution collects local names not local forms",
-      "value": 38,
+      "value": 39,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -104,7 +104,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "A scheme for extending the cooperative pooling census",
-      "value": 40,
+      "value": 42,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -410,7 +410,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Archivio di Stato di Genova",
-      "value": 22,
+      "value": 23,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -419,7 +419,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Archivio di Stato di Lucca",
-      "value": 11,
+      "value": 12,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -482,7 +482,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Archivio di Stato di Venezia",
-      "value": 18,
+      "value": 20,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -689,7 +689,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Bodmerei - where the German bottomry records are",
-      "value": 18,
+      "value": 19,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -829,6 +829,15 @@
       "shape": "dot"
     },
     {
+      "id": "Croatian archives online - ARHiNET and the access layer",
+      "type": "reference",
+      "group": "reference",
+      "label": "Croatian archives online - ARHiNET and the access layer",
+      "value": 11,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
       "id": "Decoupling substitutes proxy legibility for outcome legibility",
       "type": "permanent",
       "group": "seed",
@@ -932,7 +941,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Divergent arbitrary particulars are the independence diagnostic",
-      "value": 56,
+      "value": 58,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -961,6 +970,33 @@
       "label": "Drelichman and Voth 2014 on the debts and defaults of Philip II",
       "value": 21,
       "color": "#7570b3",
+      "shape": "dot"
+    },
+    {
+      "id": "Drzavni arhiv u Dubrovniku",
+      "type": "reference",
+      "group": "reference",
+      "label": "Drzavni arhiv u Dubrovniku",
+      "value": 24,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "Drzavni arhiv u Splitu and the Dalmatian notariates",
+      "type": "reference",
+      "group": "reference",
+      "label": "Drzavni arhiv u Splitu and the Dalmatian notariates",
+      "value": 12,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "Drzavni arhiv u Zadru",
+      "type": "reference",
+      "group": "reference",
+      "label": "Drzavni arhiv u Zadru",
+      "value": 11,
+      "color": "#66a61e",
       "shape": "dot"
     },
     {
@@ -1229,7 +1265,7 @@
       "type": "reference",
       "group": "reference",
       "label": "German archives online - the federal access layers",
-      "value": 13,
+      "value": 14,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1247,7 +1283,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Guard against reverse-teleology",
-      "value": 39,
+      "value": 40,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1266,6 +1302,15 @@
       "group": "reference",
       "label": "HCA - the High Court of Admiralty",
       "value": 16,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "Handoff - the non-European archive survey",
+      "type": "reference",
+      "group": "reference",
+      "label": "Handoff - the non-European archive survey",
+      "value": 15,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1292,7 +1337,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Het Scheepvaartmuseum - Amsterdam",
-      "value": 8,
+      "value": 9,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1342,6 +1387,15 @@
       "shape": "dot"
     },
     {
+      "id": "Hrvatski drzavni arhiv - Zagreb",
+      "type": "reference",
+      "group": "reference",
+      "label": "Hrvatski drzavni arhiv - Zagreb",
+      "value": 8,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
       "id": "IISG and NEHA - Amsterdam",
       "type": "reference",
       "group": "reference",
@@ -1364,7 +1418,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Independence of apparatus is not independence of question",
-      "value": 29,
+      "value": 32,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1373,7 +1427,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Insolvente Boedelskamer - Antwerp",
-      "value": 23,
+      "value": 24,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1697,7 +1751,7 @@
       "type": "reference",
       "group": "reference",
       "label": "National Records of Scotland",
-      "value": 9,
+      "value": 10,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1886,7 +1940,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Pricing risk does not remove it",
-      "value": 34,
+      "value": 36,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1904,8 +1958,17 @@
       "type": "permanent",
       "group": "seed",
       "label": "Ragusan collegantia is unilateral and Venetian collegantia is bilateral",
-      "value": 22,
+      "value": 26,
       "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "Ragusan maritime insurance",
+      "type": "reference",
+      "group": "reference",
+      "label": "Ragusan maritime insurance",
+      "value": 10,
+      "color": "#66a61e",
       "shape": "dot"
     },
     {
@@ -1931,7 +1994,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Refusals are observations of the filter not inferences from survivors",
-      "value": 105,
+      "value": 107,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -2012,7 +2075,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Rijksarchief te Luik en Namen - the Walloon repositories",
-      "value": 8,
+      "value": 10,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -2237,7 +2300,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Stadtarchiv Stralsund and the Wendish towns",
-      "value": 10,
+      "value": 12,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -2264,7 +2327,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Stockholms stadsarkiv and the Swedish town records",
-      "value": 12,
+      "value": 14,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -2332,6 +2395,15 @@
       "shape": "dot"
     },
     {
+      "id": "The Adriatic scope edge - Kotor and the modern borders",
+      "type": "reference",
+      "group": "reference",
+      "label": "The Adriatic scope edge - Kotor and the modern borders",
+      "value": 8,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
       "id": "The Antwerp phases separate on two cells and the boundary is textual",
       "type": "permanent",
       "group": "seed",
@@ -2382,6 +2454,15 @@
       "group": "reference",
       "label": "The Business Archives Council and the UK business archives",
       "value": 13,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "The Dubrovnik quarantine of 1377",
+      "type": "reference",
+      "group": "reference",
+      "label": "The Dubrovnik quarantine of 1377",
+      "value": 8,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -2449,6 +2530,15 @@
       "shape": "dot"
     },
     {
+      "id": "The Ottoman documents at Dubrovnik",
+      "type": "reference",
+      "group": "reference",
+      "label": "The Ottoman documents at Dubrovnik",
+      "value": 13,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
       "id": "The Prize Papers - HCA 32 and the German money",
       "type": "reference",
       "group": "reference",
@@ -2464,6 +2554,15 @@
       "label": "The QDL corpus is conditioned on its funder's geography",
       "value": 27,
       "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "The Ragusan chancery and notarial series",
+      "type": "reference",
+      "group": "reference",
+      "label": "The Ragusan chancery and notarial series",
+      "value": 17,
+      "color": "#66a61e",
       "shape": "dot"
     },
     {
@@ -2534,7 +2633,7 @@
       "type": "reference",
       "group": "reference",
       "label": "The amirautes - a series across the coastal departments",
-      "value": 26,
+      "value": 28,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -2543,7 +2642,7 @@
       "type": "reference",
       "group": "reference",
       "label": "The archives departementales system",
-      "value": 15,
+      "value": 16,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -3155,7 +3254,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Unilateral and bilateral commenda collapse on profit and separate on loss",
-      "value": 20,
+      "value": 21,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -3281,7 +3380,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Acquisitions and the antiquarian trade",
-      "value": 38,
+      "value": 39,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -3290,7 +3389,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Belgian archives",
-      "value": 37,
+      "value": 38,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -3299,7 +3398,16 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - British archives",
-      "value": 54,
+      "value": 55,
+      "color": "#d95f02",
+      "shape": "dot"
+    },
+    {
+      "id": "MOC - Croatian archives",
+      "type": "moc",
+      "group": "moc",
+      "label": "MOC - Croatian archives",
+      "value": 34,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -3317,7 +3425,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Digitisation and text recognition",
-      "value": 35,
+      "value": 37,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -3326,7 +3434,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Dutch archives",
-      "value": 34,
+      "value": 35,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -3335,7 +3443,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - ERC Synergy Grant",
-      "value": 64,
+      "value": 65,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -3362,7 +3470,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - European archives and digital collections",
-      "value": 133,
+      "value": 141,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -3371,7 +3479,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - French archives",
-      "value": 58,
+      "value": 59,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -3380,7 +3488,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - German archives",
-      "value": 51,
+      "value": 52,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -3407,7 +3515,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Islamic contract doctrine",
-      "value": 46,
+      "value": 48,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -3416,7 +3524,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Italian archives",
-      "value": 35,
+      "value": 36,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -3425,7 +3533,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Nordic archives",
-      "value": 40,
+      "value": 41,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -3443,7 +3551,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Risk-sharing vs risk-pricing",
-      "value": 138,
+      "value": 141,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -3452,7 +3560,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Spanish archives",
-      "value": 27,
+      "value": 28,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -6303,6 +6411,26 @@
       "to": "organizational_forms"
     },
     {
+      "from": "Croatian archives online - ARHiNET and the access layer",
+      "to": "Drzavni arhiv u Dubrovniku"
+    },
+    {
+      "from": "Croatian archives online - ARHiNET and the access layer",
+      "to": "German archives online - the federal access layers"
+    },
+    {
+      "from": "Croatian archives online - ARHiNET and the access layer",
+      "to": "Hrvatski drzavni arhiv - Zagreb"
+    },
+    {
+      "from": "Croatian archives online - ARHiNET and the access layer",
+      "to": "MOC - Croatian archives"
+    },
+    {
+      "from": "Croatian archives online - ARHiNET and the access layer",
+      "to": "The archives departementales system"
+    },
+    {
       "from": "Decoupling substitutes proxy legibility for outcome legibility",
       "to": "MOC - Entity-shielding and corporate forms"
     },
@@ -6817,6 +6945,74 @@
     {
       "from": "Drelichman and Voth 2014 on the debts and defaults of Philip II",
       "to": "MOC - Risk-sharing vs risk-pricing"
+    },
+    {
+      "from": "Drzavni arhiv u Dubrovniku",
+      "to": "Archivio di Stato di Venezia"
+    },
+    {
+      "from": "Drzavni arhiv u Dubrovniku",
+      "to": "MOC - Croatian archives"
+    },
+    {
+      "from": "Drzavni arhiv u Dubrovniku",
+      "to": "Ragusan collegantia is unilateral and Venetian collegantia is bilateral"
+    },
+    {
+      "from": "Drzavni arhiv u Dubrovniku",
+      "to": "The Ottoman documents at Dubrovnik"
+    },
+    {
+      "from": "Drzavni arhiv u Dubrovniku",
+      "to": "The Ragusan chancery and notarial series"
+    },
+    {
+      "from": "Drzavni arhiv u Dubrovniku",
+      "to": "Unilateral and bilateral commenda collapse on profit and separate on loss"
+    },
+    {
+      "from": "Drzavni arhiv u Splitu and the Dalmatian notariates",
+      "to": "A migrated institution collects local names not local forms"
+    },
+    {
+      "from": "Drzavni arhiv u Splitu and the Dalmatian notariates",
+      "to": "Croatian archives online - ARHiNET and the access layer"
+    },
+    {
+      "from": "Drzavni arhiv u Splitu and the Dalmatian notariates",
+      "to": "Drzavni arhiv u Zadru"
+    },
+    {
+      "from": "Drzavni arhiv u Splitu and the Dalmatian notariates",
+      "to": "MOC - Croatian archives"
+    },
+    {
+      "from": "Drzavni arhiv u Splitu and the Dalmatian notariates",
+      "to": "Stadtarchiv Stralsund and the Wendish towns"
+    },
+    {
+      "from": "Drzavni arhiv u Splitu and the Dalmatian notariates",
+      "to": "The amirautes - a series across the coastal departments"
+    },
+    {
+      "from": "Drzavni arhiv u Zadru",
+      "to": "Archivio di Stato di Venezia"
+    },
+    {
+      "from": "Drzavni arhiv u Zadru",
+      "to": "Divergent arbitrary particulars are the independence diagnostic"
+    },
+    {
+      "from": "Drzavni arhiv u Zadru",
+      "to": "Drzavni arhiv u Dubrovniku"
+    },
+    {
+      "from": "Drzavni arhiv u Zadru",
+      "to": "Drzavni arhiv u Splitu and the Dalmatian notariates"
+    },
+    {
+      "from": "Drzavni arhiv u Zadru",
+      "to": "MOC - Croatian archives"
     },
     {
       "from": "Dutch archives online - the access layers",
@@ -8011,6 +8207,46 @@
       "to": "The amirautes - a series across the coastal departments"
     },
     {
+      "from": "Handoff - the non-European archive survey",
+      "to": "Archivio di Stato di Lucca"
+    },
+    {
+      "from": "Handoff - the non-European archive survey",
+      "to": "Bodmerei - where the German bottomry records are"
+    },
+    {
+      "from": "Handoff - the non-European archive survey",
+      "to": "Het Scheepvaartmuseum - Amsterdam"
+    },
+    {
+      "from": "Handoff - the non-European archive survey",
+      "to": "Insolvente Boedelskamer - Antwerp"
+    },
+    {
+      "from": "Handoff - the non-European archive survey",
+      "to": "MOC - Acquisitions and the antiquarian trade"
+    },
+    {
+      "from": "Handoff - the non-European archive survey",
+      "to": "MOC - Digitisation and text recognition"
+    },
+    {
+      "from": "Handoff - the non-European archive survey",
+      "to": "MOC - ERC Synergy Grant"
+    },
+    {
+      "from": "Handoff - the non-European archive survey",
+      "to": "MOC - European archives and digital collections"
+    },
+    {
+      "from": "Handoff - the non-European archive survey",
+      "to": "MOC - Islamic contract doctrine"
+    },
+    {
+      "from": "Handoff - the non-European archive survey",
+      "to": "The Ottoman documents at Dubrovnik"
+    },
+    {
       "from": "Hanse documents on the Memory of the World register",
       "to": "Archiv der Hansestadt Lubeck"
     },
@@ -8297,6 +8533,22 @@
     {
       "from": "Homoplasy is the finding not the noise",
       "to": "Transmission versus independent recurrence is the load-bearing test"
+    },
+    {
+      "from": "Hrvatski drzavni arhiv - Zagreb",
+      "to": "A scheme for extending the cooperative pooling census"
+    },
+    {
+      "from": "Hrvatski drzavni arhiv - Zagreb",
+      "to": "Croatian archives online - ARHiNET and the access layer"
+    },
+    {
+      "from": "Hrvatski drzavni arhiv - Zagreb",
+      "to": "Drzavni arhiv u Dubrovniku"
+    },
+    {
+      "from": "Hrvatski drzavni arhiv - Zagreb",
+      "to": "MOC - Croatian archives"
     },
     {
       "from": "IISG and NEHA - Amsterdam",
@@ -9383,6 +9635,86 @@
       "to": "The Virtual Record Treasury and reconstruction as method"
     },
     {
+      "from": "MOC - Croatian archives",
+      "to": "Croatian archives online - ARHiNET and the access layer"
+    },
+    {
+      "from": "MOC - Croatian archives",
+      "to": "Drzavni arhiv u Dubrovniku"
+    },
+    {
+      "from": "MOC - Croatian archives",
+      "to": "Drzavni arhiv u Splitu and the Dalmatian notariates"
+    },
+    {
+      "from": "MOC - Croatian archives",
+      "to": "Drzavni arhiv u Zadru"
+    },
+    {
+      "from": "MOC - Croatian archives",
+      "to": "Hrvatski drzavni arhiv - Zagreb"
+    },
+    {
+      "from": "MOC - Croatian archives",
+      "to": "MOC - Belgian archives"
+    },
+    {
+      "from": "MOC - Croatian archives",
+      "to": "MOC - British archives"
+    },
+    {
+      "from": "MOC - Croatian archives",
+      "to": "MOC - Dutch archives"
+    },
+    {
+      "from": "MOC - Croatian archives",
+      "to": "MOC - European archives and digital collections"
+    },
+    {
+      "from": "MOC - Croatian archives",
+      "to": "MOC - French archives"
+    },
+    {
+      "from": "MOC - Croatian archives",
+      "to": "MOC - German archives"
+    },
+    {
+      "from": "MOC - Croatian archives",
+      "to": "MOC - Italian archives"
+    },
+    {
+      "from": "MOC - Croatian archives",
+      "to": "MOC - Nordic archives"
+    },
+    {
+      "from": "MOC - Croatian archives",
+      "to": "MOC - Spanish archives"
+    },
+    {
+      "from": "MOC - Croatian archives",
+      "to": "Ragusan collegantia is unilateral and Venetian collegantia is bilateral"
+    },
+    {
+      "from": "MOC - Croatian archives",
+      "to": "Ragusan maritime insurance"
+    },
+    {
+      "from": "MOC - Croatian archives",
+      "to": "The Adriatic scope edge - Kotor and the modern borders"
+    },
+    {
+      "from": "MOC - Croatian archives",
+      "to": "The Dubrovnik quarantine of 1377"
+    },
+    {
+      "from": "MOC - Croatian archives",
+      "to": "The Ottoman documents at Dubrovnik"
+    },
+    {
+      "from": "MOC - Croatian archives",
+      "to": "The Ragusan chancery and notarial series"
+    },
+    {
       "from": "MOC - Defending the ergodicity claim",
       "to": "A refutation that shares the estimand inherits the defect"
     },
@@ -10292,6 +10624,10 @@
     },
     {
       "from": "MOC - European archives and digital collections",
+      "to": "Drzavni arhiv u Dubrovniku"
+    },
+    {
+      "from": "MOC - European archives and digital collections",
       "to": "Dutch archives online - the access layers"
     },
     {
@@ -10309,6 +10645,10 @@
     {
       "from": "MOC - European archives and digital collections",
       "to": "Gemeentearchief Zaanstad - the partenrederij country"
+    },
+    {
+      "from": "MOC - European archives and digital collections",
+      "to": "Handoff - the non-European archive survey"
     },
     {
       "from": "MOC - European archives and digital collections",
@@ -10341,6 +10681,10 @@
     {
       "from": "MOC - European archives and digital collections",
       "to": "MOC - British archives"
+    },
+    {
+      "from": "MOC - European archives and digital collections",
+      "to": "MOC - Croatian archives"
     },
     {
       "from": "MOC - European archives and digital collections",
@@ -10425,6 +10769,10 @@
     {
       "from": "MOC - European archives and digital collections",
       "to": "The QDL corpus is conditioned on its funder's geography"
+    },
+    {
+      "from": "MOC - European archives and digital collections",
+      "to": "The Ragusan chancery and notarial series"
     },
     {
       "from": "MOC - European archives and digital collections",
@@ -13243,6 +13591,26 @@
       "to": "loss_mitigation_forms"
     },
     {
+      "from": "Ragusan maritime insurance",
+      "to": "Drzavni arhiv u Dubrovniku"
+    },
+    {
+      "from": "Ragusan maritime insurance",
+      "to": "MOC - Croatian archives"
+    },
+    {
+      "from": "Ragusan maritime insurance",
+      "to": "MOC - Risk-sharing vs risk-pricing"
+    },
+    {
+      "from": "Ragusan maritime insurance",
+      "to": "Pricing risk does not remove it"
+    },
+    {
+      "from": "Ragusan maritime insurance",
+      "to": "The Ragusan chancery and notarial series"
+    },
+    {
       "from": "Read the Nakai anomaly against the ie's horizon not the transaction's",
       "to": "MOC - Entity-shielding and corporate forms"
     },
@@ -14667,6 +15035,26 @@
       "to": "Time-average optimization is a survivorship property not an intention"
     },
     {
+      "from": "The Adriatic scope edge - Kotor and the modern borders",
+      "to": "Drzavni arhiv u Zadru"
+    },
+    {
+      "from": "The Adriatic scope edge - Kotor and the modern borders",
+      "to": "Guard against reverse-teleology"
+    },
+    {
+      "from": "The Adriatic scope edge - Kotor and the modern borders",
+      "to": "MOC - Croatian archives"
+    },
+    {
+      "from": "The Adriatic scope edge - Kotor and the modern borders",
+      "to": "Refusals are observations of the filter not inferences from survivors"
+    },
+    {
+      "from": "The Adriatic scope edge - Kotor and the modern borders",
+      "to": "Rijksarchief te Luik en Namen - the Walloon repositories"
+    },
+    {
       "from": "The Antwerp phases separate on two cells and the boundary is textual",
       "to": "A shared compilation never licenses an inference to shared practice"
     },
@@ -14829,6 +15217,26 @@
     {
       "from": "The Business Archives Council and the UK business archives",
       "to": "The VOC-EIC digital asymmetry is an access regime not a survival difference"
+    },
+    {
+      "from": "The Dubrovnik quarantine of 1377",
+      "to": "A scheme for extending the cooperative pooling census"
+    },
+    {
+      "from": "The Dubrovnik quarantine of 1377",
+      "to": "Drzavni arhiv u Dubrovniku"
+    },
+    {
+      "from": "The Dubrovnik quarantine of 1377",
+      "to": "MOC - Croatian archives"
+    },
+    {
+      "from": "The Dubrovnik quarantine of 1377",
+      "to": "MOC - Risk-sharing vs risk-pricing"
+    },
+    {
+      "from": "The Dubrovnik quarantine of 1377",
+      "to": "Refusals are observations of the filter not inferences from survivors"
     },
     {
       "from": "The Fugger diversified activity while concentrating the barrier",
@@ -15035,6 +15443,26 @@
       "to": "The deficit reading of absence is the scalar ranking in evidentiary form"
     },
     {
+      "from": "The Ottoman documents at Dubrovnik",
+      "to": "Drzavni arhiv u Dubrovniku"
+    },
+    {
+      "from": "The Ottoman documents at Dubrovnik",
+      "to": "Independence of apparatus is not independence of question"
+    },
+    {
+      "from": "The Ottoman documents at Dubrovnik",
+      "to": "MOC - Croatian archives"
+    },
+    {
+      "from": "The Ottoman documents at Dubrovnik",
+      "to": "MOC - Islamic contract doctrine"
+    },
+    {
+      "from": "The Ottoman documents at Dubrovnik",
+      "to": "The Ragusan chancery and notarial series"
+    },
+    {
       "from": "The Prize Papers - HCA 32 and the German money",
       "to": "British Library - the India Office Records"
     },
@@ -15089,6 +15517,34 @@
     {
       "from": "The QDL corpus is conditioned on its funder's geography",
       "to": "The VOC-EIC digital asymmetry is an access regime not a survival difference"
+    },
+    {
+      "from": "The Ragusan chancery and notarial series",
+      "to": "Archivio di Stato di Genova"
+    },
+    {
+      "from": "The Ragusan chancery and notarial series",
+      "to": "Drzavni arhiv u Dubrovniku"
+    },
+    {
+      "from": "The Ragusan chancery and notarial series",
+      "to": "Independence of apparatus is not independence of question"
+    },
+    {
+      "from": "The Ragusan chancery and notarial series",
+      "to": "MOC - Croatian archives"
+    },
+    {
+      "from": "The Ragusan chancery and notarial series",
+      "to": "National Records of Scotland"
+    },
+    {
+      "from": "The Ragusan chancery and notarial series",
+      "to": "Ragusan collegantia is unilateral and Venetian collegantia is bilateral"
+    },
+    {
+      "from": "The Ragusan chancery and notarial series",
+      "to": "Stockholms stadsarkiv and the Swedish town records"
     },
     {
       "from": "The Roman universitas makes the JSC case parallelism not convergence",

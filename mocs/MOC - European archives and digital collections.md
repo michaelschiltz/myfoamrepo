@@ -109,8 +109,9 @@ Repository-level notes live in country MOCs, each carrying that country's struct
 | Germany | [[MOC - German archives]] | No frame and no national archive for the period. Competence is civic, and the cities are where the material is |
 | Nordics | [[MOC - Nordic archives]] | Best infrastructure in Europe, thinnest institutional variety — Belgium's mirror. The one absence in the survey that is probably evidential |
 | Britain | [[MOC - British archives]] | Excellent description, thin imaging where it matters. Three major corpora opened by foreign or commercial money, none of it British |
+| Croatia | [[MOC - Croatian archives]] | One frame, many custodians — and at Dubrovnik the **whole archive of a commercial republic**, all 73 Republic fonds on the Memory of the World register |
 
-**Not yet surveyed:** Croatia.
+**The European survey is complete.** Non-European repositories — Ottoman, Geniza, Japanese, South and East Asian — are named in the grant's travel line and need their own pass; see [[Handoff - the non-European archive survey]].
 
 ## Where each coded form's records sit
 
@@ -118,7 +119,7 @@ First pass, to be corrected as the register is built. ⚠️ marks a placement t
 
 | Form | Repository | Series | Layer |
 |---|---|---|---|
-| Commenda / collegantia | [[Archivio di Stato di Venezia]], [[Archivio di Stato di Genova]], DADU | `Notarile`; *Notai Antichi* | 1–2 |
+| Commenda / collegantia | [[Archivio di Stato di Venezia]], [[Archivio di Stato di Genova]], [[Drzavni arhiv u Dubrovniku]] | `Notarile`; *Notai Antichi*; [[The Ragusan chancery and notarial series]] | 1–2 |
 | Fraterna compagnia | [[Archivio di Stato di Venezia]] | `Notarile`, `Giudici di Petizion` ⚠️ | 1 |
 | Bodemerij / Bodmerei | [[Stadsarchief Amsterdam - the notarial archive]]; [[Bodmerei - where the German bottomry records are]] | Notarieel archief; Hamburg `Admiralitätskollegium`, Lübeck *Niederstadtbuch* ⚠️ | **3** / 1 ⚠️ |
 | Partenrederij | [[Stadsarchief Amsterdam - the notarial archive]]; [[Gemeentearchief Zaanstad - the partenrederij country]] | Notarieel archief; `OA-0020`, `OA-0170` | 3 / 1 ⚠️ |
