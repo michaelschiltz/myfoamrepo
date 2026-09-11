@@ -50,7 +50,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "A migrated institution collects local names not local forms",
-      "value": 26,
+      "value": 30,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -104,7 +104,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "A scheme for extending the cooperative pooling census",
-      "value": 29,
+      "value": 30,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -208,11 +208,29 @@
       "shape": "dot"
     },
     {
+      "id": "Antwerp schepenregisters and the regesten",
+      "type": "reference",
+      "group": "reference",
+      "label": "Antwerp schepenregisters and the regesten",
+      "value": 9,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
       "id": "Archief Ieper - one charter and five accounts",
       "type": "reference",
       "group": "reference",
       "label": "Archief Ieper - one charter and five accounts",
       "value": 10,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "Archief van de Stad Brussel",
+      "type": "reference",
+      "group": "reference",
+      "label": "Archief van de Stad Brussel",
+      "value": 9,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -226,11 +244,20 @@
       "shape": "dot"
     },
     {
+      "id": "Archivio Storico Assicurazioni Generali - Trieste",
+      "type": "reference",
+      "group": "reference",
+      "label": "Archivio Storico Assicurazioni Generali - Trieste",
+      "value": 10,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
       "id": "Archivio Storico del Banco di Napoli",
       "type": "reference",
       "group": "reference",
       "label": "Archivio Storico del Banco di Napoli",
-      "value": 14,
+      "value": 15,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -239,7 +266,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Archivio Storico del Monte dei Paschi di Siena",
-      "value": 14,
+      "value": 15,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -248,7 +275,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Archivio di Stato di Firenze",
-      "value": 12,
+      "value": 16,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -257,7 +284,16 @@
       "type": "reference",
       "group": "reference",
       "label": "Archivio di Stato di Genova",
-      "value": 19,
+      "value": 21,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "Archivio di Stato di Lucca",
+      "type": "reference",
+      "group": "reference",
+      "label": "Archivio di Stato di Lucca",
+      "value": 10,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -280,11 +316,29 @@
       "shape": "dot"
     },
     {
+      "id": "Archivio di Stato di Palermo",
+      "type": "reference",
+      "group": "reference",
+      "label": "Archivio di Stato di Palermo",
+      "value": 8,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "Archivio di Stato di Pisa",
+      "type": "reference",
+      "group": "reference",
+      "label": "Archivio di Stato di Pisa",
+      "value": 13,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
       "id": "Archivio di Stato di Prato - the Datini archive",
       "type": "reference",
       "group": "reference",
       "label": "Archivio di Stato di Prato - the Datini archive",
-      "value": 13,
+      "value": 12,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -302,7 +356,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Archivio di Stato di Venezia",
-      "value": 16,
+      "value": 17,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -311,7 +365,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Archivo Foral de Bizkaia - the Consulado de Bilbao",
-      "value": 10,
+      "value": 11,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -338,7 +392,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Archivo Historico Nacional - Madrid",
-      "value": 11,
+      "value": 12,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -392,7 +446,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Arxiu Historic de Protocols de Barcelona",
-      "value": 16,
+      "value": 17,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -446,7 +500,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Begijnhof archives - where the beguinages records are",
-      "value": 19,
+      "value": 22,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -455,7 +509,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Belgian archives online - the access layers",
-      "value": 23,
+      "value": 25,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -509,7 +563,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Casa di San Giorgio - the Genoese public debt archive",
-      "value": 19,
+      "value": 18,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -518,7 +572,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Consulado de Burgos - the universidad de mercaderes",
-      "value": 14,
+      "value": 15,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -572,7 +626,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Delpher - the full-text layer",
-      "value": 17,
+      "value": 18,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -626,7 +680,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Divergent arbitrary particulars are the independence diagnostic",
-      "value": 45,
+      "value": 48,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -662,7 +716,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Dutch archives online - the access layers",
-      "value": 22,
+      "value": 25,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -779,7 +833,7 @@
       "type": "reference",
       "group": "reference",
       "label": "FelixArchief - Antwerp city archive",
-      "value": 19,
+      "value": 23,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -887,7 +941,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Guard against reverse-teleology",
-      "value": 34,
+      "value": 37,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -898,6 +952,24 @@
       "label": "Harris 2020 on the late plurality of limited liability",
       "value": 33,
       "color": "#7570b3",
+      "shape": "dot"
+    },
+    {
+      "id": "Het Scheepvaartmuseum - Amsterdam",
+      "type": "reference",
+      "group": "reference",
+      "label": "Het Scheepvaartmuseum - Amsterdam",
+      "value": 8,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "Het Utrechts Archief",
+      "type": "reference",
+      "group": "reference",
+      "label": "Het Utrechts Archief",
+      "value": 10,
+      "color": "#66a61e",
       "shape": "dot"
     },
     {
@@ -914,7 +986,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Hof van Holland - the civil litigation record",
-      "value": 15,
+      "value": 19,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1013,7 +1085,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Itinera Nova - the Leuven aldermen's registers",
-      "value": 11,
+      "value": 13,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1135,6 +1207,15 @@
       "shape": "dot"
     },
     {
+      "id": "Medici Archive Project - the BIA platform",
+      "type": "reference",
+      "group": "reference",
+      "label": "Medici Archive Project - the BIA platform",
+      "value": 10,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
       "id": "Multiplicative amplification is indifferent to what it amplifies",
       "type": "permanent",
       "group": "seed",
@@ -1157,7 +1238,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Natie archives - where the Antwerp nations records are",
-      "value": 20,
+      "value": 21,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1184,7 +1265,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Naviganti - Latin Christendom rejected the sea loan too",
-      "value": 26,
+      "value": 27,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1213,6 +1294,15 @@
       "label": "Non-ergodicity collapses the likelihood ratio on outcomes",
       "value": 32,
       "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "Noord-Hollands Archief - Haarlem",
+      "type": "reference",
+      "group": "reference",
+      "label": "Noord-Hollands Archief - Haarlem",
+      "value": 12,
+      "color": "#66a61e",
       "shape": "dot"
     },
     {
@@ -1256,7 +1346,7 @@
       "type": "reference",
       "group": "reference",
       "label": "PARES - the access layer for the Spanish state archives",
-      "value": 27,
+      "value": 30,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1337,7 +1427,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Pricing risk does not remove it",
-      "value": 30,
+      "value": 32,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1369,11 +1459,20 @@
       "shape": "dot"
     },
     {
+      "id": "Real Chancilleria de Valladolid",
+      "type": "reference",
+      "group": "reference",
+      "label": "Real Chancilleria de Valladolid",
+      "value": 11,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
       "id": "Refusals are observations of the filter not inferences from survivors",
       "type": "permanent",
       "group": "seed",
       "label": "Refusals are observations of the filter not inferences from survivors",
-      "value": 89,
+      "value": 95,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1427,7 +1526,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Rijksarchief in Belgie - the state archives network",
-      "value": 14,
+      "value": 19,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1436,7 +1535,16 @@
       "type": "reference",
       "group": "reference",
       "label": "Rijksarchief te Antwerpen and Beveren - the notarial series",
-      "value": 13,
+      "value": 16,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "Rijksarchief te Luik en Namen - the Walloon repositories",
+      "type": "reference",
+      "group": "reference",
+      "label": "Rijksarchief te Luik en Namen - the Walloon repositories",
+      "value": 8,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1463,7 +1571,7 @@
       "type": "reference",
       "group": "reference",
       "label": "SIAS SIUSA and SAN - the Italian access layers",
-      "value": 20,
+      "value": 24,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1544,7 +1652,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Stadsarchief Amsterdam - the notarial archive",
-      "value": 31,
+      "value": 34,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1567,11 +1675,20 @@
       "shape": "dot"
     },
     {
+      "id": "Stadsarchief Mechelen",
+      "type": "reference",
+      "group": "reference",
+      "label": "Stadsarchief Mechelen",
+      "value": 9,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
       "id": "Stadsarchief Rotterdam - the notarial archive and scanning on demand",
       "type": "reference",
       "group": "reference",
       "label": "Stadsarchief Rotterdam - the notarial archive and scanning on demand",
-      "value": 10,
+      "value": 9,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1625,7 +1742,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The Antwerp phases separate on two cells and the boundary is textual",
-      "value": 19,
+      "value": 20,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1661,7 +1778,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The QDL corpus is conditioned on its funder's geography",
-      "value": 17,
+      "value": 19,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1742,7 +1859,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The coding commons must record stated rationale not only component presence",
-      "value": 46,
+      "value": 47,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1814,7 +1931,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The double refusal of the sea loan is evidence about the filter not about independence",
-      "value": 21,
+      "value": 22,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -2093,7 +2210,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The sea loan is a contingent claim not a loan",
-      "value": 21,
+      "value": 23,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -2309,7 +2426,7 @@
       "type": "reference",
       "group": "reference",
       "label": "VOC digital corpus - what is online and on what terms",
-      "value": 23,
+      "value": 24,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -2318,7 +2435,7 @@
       "type": "source",
       "group": "source",
       "label": "Van Dam's Beschryvinge - the VOC described by its own advocaat",
-      "value": 35,
+      "value": 36,
       "color": "#7570b3",
       "shape": "dot"
     },
@@ -2417,7 +2534,16 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Acquisitions and the antiquarian trade",
-      "value": 35,
+      "value": 36,
+      "color": "#d95f02",
+      "shape": "dot"
+    },
+    {
+      "id": "MOC - Belgian archives",
+      "type": "moc",
+      "group": "moc",
+      "label": "MOC - Belgian archives",
+      "value": 30,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -2435,7 +2561,16 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Digitisation and text recognition",
-      "value": 33,
+      "value": 34,
+      "color": "#d95f02",
+      "shape": "dot"
+    },
+    {
+      "id": "MOC - Dutch archives",
+      "type": "moc",
+      "group": "moc",
+      "label": "MOC - Dutch archives",
+      "value": 30,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -2471,7 +2606,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - European archives and digital collections",
-      "value": 150,
+      "value": 115,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -2503,6 +2638,15 @@
       "shape": "dot"
     },
     {
+      "id": "MOC - Italian archives",
+      "type": "moc",
+      "group": "moc",
+      "label": "MOC - Italian archives",
+      "value": 32,
+      "color": "#d95f02",
+      "shape": "dot"
+    },
+    {
       "id": "MOC - Path dependence and sequence",
       "type": "moc",
       "group": "moc",
@@ -2516,7 +2660,16 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Risk-sharing vs risk-pricing",
-      "value": 132,
+      "value": 133,
+      "color": "#d95f02",
+      "shape": "dot"
+    },
+    {
+      "id": "MOC - Spanish archives",
+      "type": "moc",
+      "group": "moc",
+      "label": "MOC - Spanish archives",
+      "value": 25,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -3491,6 +3644,26 @@
       "to": "Split provenance into priority and independence"
     },
     {
+      "from": "Antwerp schepenregisters and the regesten",
+      "to": "FelixArchief - Antwerp city archive"
+    },
+    {
+      "from": "Antwerp schepenregisters and the regesten",
+      "to": "Itinera Nova - the Leuven aldermen's registers"
+    },
+    {
+      "from": "Antwerp schepenregisters and the regesten",
+      "to": "MOC - Belgian archives"
+    },
+    {
+      "from": "Antwerp schepenregisters and the regesten",
+      "to": "Refusals are observations of the filter not inferences from survivors"
+    },
+    {
+      "from": "Antwerp schepenregisters and the regesten",
+      "to": "Rijksarchief te Antwerpen and Beveren - the notarial series"
+    },
+    {
       "from": "Archief Ieper - one charter and five accounts",
       "to": "Archivio di Stato di Napoli"
     },
@@ -3509,6 +3682,26 @@
     {
       "from": "Archief Ieper - one charter and five accounts",
       "to": "The deficit reading of absence is the scalar ranking in evidentiary form"
+    },
+    {
+      "from": "Archief van de Stad Brussel",
+      "to": "A scheme for extending the cooperative pooling census"
+    },
+    {
+      "from": "Archief van de Stad Brussel",
+      "to": "Belgian archives online - the access layers"
+    },
+    {
+      "from": "Archief van de Stad Brussel",
+      "to": "MOC - Belgian archives"
+    },
+    {
+      "from": "Archief van de Stad Brussel",
+      "to": "Rijksarchief in Belgie - the state archives network"
+    },
+    {
+      "from": "Archief van de Stad Brussel",
+      "to": "Rijksarchief te Antwerpen and Beveren - the notarial series"
     },
     {
       "from": "Archivio Apostolico Vaticano",
@@ -3541,6 +3734,34 @@
     {
       "from": "Archivio Apostolico Vaticano",
       "to": "The heter iska restores the fixed return by evidentiary barrier"
+    },
+    {
+      "from": "Archivio Storico Assicurazioni Generali - Trieste",
+      "to": "Archivio Storico del Banco di Napoli"
+    },
+    {
+      "from": "Archivio Storico Assicurazioni Generali - Trieste",
+      "to": "Archivio Storico del Monte dei Paschi di Siena"
+    },
+    {
+      "from": "Archivio Storico Assicurazioni Generali - Trieste",
+      "to": "Archivio di Stato di Venezia"
+    },
+    {
+      "from": "Archivio Storico Assicurazioni Generali - Trieste",
+      "to": "Guard against reverse-teleology"
+    },
+    {
+      "from": "Archivio Storico Assicurazioni Generali - Trieste",
+      "to": "MOC - Italian archives"
+    },
+    {
+      "from": "Archivio Storico Assicurazioni Generali - Trieste",
+      "to": "MOC - Risk-sharing vs risk-pricing"
+    },
+    {
+      "from": "Archivio Storico Assicurazioni Generali - Trieste",
+      "to": "SIAS SIUSA and SAN - the Italian access layers"
     },
     {
       "from": "Archivio Storico del Banco di Napoli",
@@ -3651,6 +3872,34 @@
       "to": "Transmission versus independent recurrence is the load-bearing test"
     },
     {
+      "from": "Archivio di Stato di Lucca",
+      "to": "Archivio di Stato di Firenze"
+    },
+    {
+      "from": "Archivio di Stato di Lucca",
+      "to": "Archivio di Stato di Pisa"
+    },
+    {
+      "from": "Archivio di Stato di Lucca",
+      "to": "Archivo Foral de Bizkaia - the Consulado de Bilbao"
+    },
+    {
+      "from": "Archivio di Stato di Lucca",
+      "to": "Consulado de Burgos - the universidad de mercaderes"
+    },
+    {
+      "from": "Archivio di Stato di Lucca",
+      "to": "MOC - Italian archives"
+    },
+    {
+      "from": "Archivio di Stato di Lucca",
+      "to": "Pricing risk does not remove it"
+    },
+    {
+      "from": "Archivio di Stato di Lucca",
+      "to": "SIAS SIUSA and SAN - the Italian access layers"
+    },
+    {
       "from": "Archivio di Stato di Milano - the Banco di Sant'Ambrogio",
       "to": "Archivio di Stato di Roma - the luoghi di monte"
     },
@@ -3689,6 +3938,54 @@
     {
       "from": "Archivio di Stato di Napoli",
       "to": "The deficit reading of absence is the scalar ranking in evidentiary form"
+    },
+    {
+      "from": "Archivio di Stato di Palermo",
+      "to": "A migrated institution collects local names not local forms"
+    },
+    {
+      "from": "Archivio di Stato di Palermo",
+      "to": "Archivio di Stato di Genova"
+    },
+    {
+      "from": "Archivio di Stato di Palermo",
+      "to": "Arxiu Historic de Protocols de Barcelona"
+    },
+    {
+      "from": "Archivio di Stato di Palermo",
+      "to": "Divergent arbitrary particulars are the independence diagnostic"
+    },
+    {
+      "from": "Archivio di Stato di Palermo",
+      "to": "MOC - Italian archives"
+    },
+    {
+      "from": "Archivio di Stato di Pisa",
+      "to": "Archivio di Stato di Genova"
+    },
+    {
+      "from": "Archivio di Stato di Pisa",
+      "to": "Divergent arbitrary particulars are the independence diagnostic"
+    },
+    {
+      "from": "Archivio di Stato di Pisa",
+      "to": "MOC - Italian archives"
+    },
+    {
+      "from": "Archivio di Stato di Pisa",
+      "to": "Naviganti - Latin Christendom rejected the sea loan too"
+    },
+    {
+      "from": "Archivio di Stato di Pisa",
+      "to": "SIAS SIUSA and SAN - the Italian access layers"
+    },
+    {
+      "from": "Archivio di Stato di Pisa",
+      "to": "The double refusal of the sea loan is evidence about the filter not about independence"
+    },
+    {
+      "from": "Archivio di Stato di Pisa",
+      "to": "The sea loan is a contingent claim not a loan"
     },
     {
       "from": "Archivio di Stato di Prato - the Datini archive",
@@ -6103,6 +6400,46 @@
       "to": "Whiggish history of finance names the ascent narrative"
     },
     {
+      "from": "Het Scheepvaartmuseum - Amsterdam",
+      "to": "Dutch archives online - the access layers"
+    },
+    {
+      "from": "Het Scheepvaartmuseum - Amsterdam",
+      "to": "MOC - Acquisitions and the antiquarian trade"
+    },
+    {
+      "from": "Het Scheepvaartmuseum - Amsterdam",
+      "to": "MOC - Dutch archives"
+    },
+    {
+      "from": "Het Scheepvaartmuseum - Amsterdam",
+      "to": "Refusals are observations of the filter not inferences from survivors"
+    },
+    {
+      "from": "Het Scheepvaartmuseum - Amsterdam",
+      "to": "Van Dam's Beschryvinge - the VOC described by its own advocaat"
+    },
+    {
+      "from": "Het Utrechts Archief",
+      "to": "Begijnhof archives - where the beguinages records are"
+    },
+    {
+      "from": "Het Utrechts Archief",
+      "to": "Dutch archives online - the access layers"
+    },
+    {
+      "from": "Het Utrechts Archief",
+      "to": "MOC - Dutch archives"
+    },
+    {
+      "from": "Het Utrechts Archief",
+      "to": "Noord-Hollands Archief - Haarlem"
+    },
+    {
+      "from": "Het Utrechts Archief",
+      "to": "Stadsarchief Amsterdam - the notarial archive"
+    },
+    {
       "from": "Hierro Anibarro 2005 on the asiento de averia and the privileged company",
       "to": "Entity-shielding"
     },
@@ -7007,6 +7344,86 @@
       "to": "Van Dam's Beschryvinge - the VOC described by its own advocaat"
     },
     {
+      "from": "MOC - Belgian archives",
+      "to": "Antwerp schepenregisters and the regesten"
+    },
+    {
+      "from": "MOC - Belgian archives",
+      "to": "Archief Ieper - one charter and five accounts"
+    },
+    {
+      "from": "MOC - Belgian archives",
+      "to": "Archief van de Stad Brussel"
+    },
+    {
+      "from": "MOC - Belgian archives",
+      "to": "Begijnhof archives - where the beguinages records are"
+    },
+    {
+      "from": "MOC - Belgian archives",
+      "to": "BelgicaPress and KBR - the thin full-text layer"
+    },
+    {
+      "from": "MOC - Belgian archives",
+      "to": "FelixArchief - Antwerp city archive"
+    },
+    {
+      "from": "MOC - Belgian archives",
+      "to": "Insolvente Boedelskamer - Antwerp"
+    },
+    {
+      "from": "MOC - Belgian archives",
+      "to": "Itinera Nova - the Leuven aldermen's registers"
+    },
+    {
+      "from": "MOC - Belgian archives",
+      "to": "KADOC - religious archives at Leuven"
+    },
+    {
+      "from": "MOC - Belgian archives",
+      "to": "MOC - Dutch archives"
+    },
+    {
+      "from": "MOC - Belgian archives",
+      "to": "MOC - European archives and digital collections"
+    },
+    {
+      "from": "MOC - Belgian archives",
+      "to": "MOC - Italian archives"
+    },
+    {
+      "from": "MOC - Belgian archives",
+      "to": "MOC - Spanish archives"
+    },
+    {
+      "from": "MOC - Belgian archives",
+      "to": "Natie archives - where the Antwerp nations records are"
+    },
+    {
+      "from": "MOC - Belgian archives",
+      "to": "Rijksarchief in Belgie - the state archives network"
+    },
+    {
+      "from": "MOC - Belgian archives",
+      "to": "Rijksarchief te Antwerpen and Beveren - the notarial series"
+    },
+    {
+      "from": "MOC - Belgian archives",
+      "to": "Rijksarchief te Luik en Namen - the Walloon repositories"
+    },
+    {
+      "from": "MOC - Belgian archives",
+      "to": "Stadsarchief Brugge - the Hanse and the nations"
+    },
+    {
+      "from": "MOC - Belgian archives",
+      "to": "Stadsarchief Gent - the begijnhoven and the guilds"
+    },
+    {
+      "from": "MOC - Belgian archives",
+      "to": "Stadsarchief Mechelen"
+    },
+    {
       "from": "MOC - Defending the ergodicity claim",
       "to": "A refutation that shares the estimand inherits the defect"
     },
@@ -7229,6 +7646,90 @@
     {
       "from": "MOC - Digitisation and text recognition",
       "to": "VOC digital corpus - what is online and on what terms"
+    },
+    {
+      "from": "MOC - Dutch archives",
+      "to": "Averijgrossen - the general average adjudications"
+    },
+    {
+      "from": "MOC - Dutch archives",
+      "to": "Delpher - the full-text layer"
+    },
+    {
+      "from": "MOC - Dutch archives",
+      "to": "Desolate Boedelkamer - Amsterdam"
+    },
+    {
+      "from": "MOC - Dutch archives",
+      "to": "Dutch archives online - the access layers"
+    },
+    {
+      "from": "MOC - Dutch archives",
+      "to": "Gemeentearchief Zaanstad - the partenrederij country"
+    },
+    {
+      "from": "MOC - Dutch archives",
+      "to": "Het Scheepvaartmuseum - Amsterdam"
+    },
+    {
+      "from": "MOC - Dutch archives",
+      "to": "Het Utrechts Archief"
+    },
+    {
+      "from": "MOC - Dutch archives",
+      "to": "Hof van Holland - the civil litigation record"
+    },
+    {
+      "from": "MOC - Dutch archives",
+      "to": "IISG and NEHA - Amsterdam"
+    },
+    {
+      "from": "MOC - Dutch archives",
+      "to": "Kamer van Assurantie en Averij - Amsterdam"
+    },
+    {
+      "from": "MOC - Dutch archives",
+      "to": "MOC - Belgian archives"
+    },
+    {
+      "from": "MOC - Dutch archives",
+      "to": "MOC - European archives and digital collections"
+    },
+    {
+      "from": "MOC - Dutch archives",
+      "to": "MOC - Italian archives"
+    },
+    {
+      "from": "MOC - Dutch archives",
+      "to": "MOC - Spanish archives"
+    },
+    {
+      "from": "MOC - Dutch archives",
+      "to": "Nationaal Archief - The Hague"
+    },
+    {
+      "from": "MOC - Dutch archives",
+      "to": "Noord-Hollands Archief - Haarlem"
+    },
+    {
+      "from": "MOC - Dutch archives",
+      "to": "Stadsarchief Amsterdam - the notarial archive"
+    },
+    {
+      "from": "MOC - Dutch archives",
+      "to": "Stadsarchief Rotterdam - the notarial archive and scanning on demand"
+    },
+    {
+      "from": "MOC - Dutch archives",
+      "to": "VOC digital corpus - what is online and on what terms"
+    },
+    {
+      "from": "MOC - Dutch archives",
+      "to": "Westfries Archief - the Hoorn and Enkhuizen chambers"
+    },
+    {
+      "from": "MOC - Dutch archives",
+      "to": "Zeeuws Archief - the Zeeland chamber and the MCC"
     },
     {
       "from": "MOC - ERC Synergy Grant",
@@ -7788,43 +8289,7 @@
     },
     {
       "from": "MOC - European archives and digital collections",
-      "to": "Archief Ieper - one charter and five accounts"
-    },
-    {
-      "from": "MOC - European archives and digital collections",
-      "to": "Archivio Apostolico Vaticano"
-    },
-    {
-      "from": "MOC - European archives and digital collections",
-      "to": "Archivio Storico del Banco di Napoli"
-    },
-    {
-      "from": "MOC - European archives and digital collections",
-      "to": "Archivio Storico del Monte dei Paschi di Siena"
-    },
-    {
-      "from": "MOC - European archives and digital collections",
-      "to": "Archivio di Stato di Firenze"
-    },
-    {
-      "from": "MOC - European archives and digital collections",
       "to": "Archivio di Stato di Genova"
-    },
-    {
-      "from": "MOC - European archives and digital collections",
-      "to": "Archivio di Stato di Milano - the Banco di Sant'Ambrogio"
-    },
-    {
-      "from": "MOC - European archives and digital collections",
-      "to": "Archivio di Stato di Napoli"
-    },
-    {
-      "from": "MOC - European archives and digital collections",
-      "to": "Archivio di Stato di Prato - the Datini archive"
-    },
-    {
-      "from": "MOC - European archives and digital collections",
-      "to": "Archivio di Stato di Roma - the luoghi di monte"
     },
     {
       "from": "MOC - European archives and digital collections",
@@ -7832,43 +8297,7 @@
     },
     {
       "from": "MOC - European archives and digital collections",
-      "to": "Archivo Foral de Bizkaia - the Consulado de Bilbao"
-    },
-    {
-      "from": "MOC - European archives and digital collections",
       "to": "Archivo General de Indias - Sevilla"
-    },
-    {
-      "from": "MOC - European archives and digital collections",
-      "to": "Archivo General de Simancas"
-    },
-    {
-      "from": "MOC - European archives and digital collections",
-      "to": "Archivo Historico Nacional - Madrid"
-    },
-    {
-      "from": "MOC - European archives and digital collections",
-      "to": "Archivo Historico Provincial de Cadiz - notarial protocols and the Consulado"
-    },
-    {
-      "from": "MOC - European archives and digital collections",
-      "to": "Archivo Historico Provincial de Sevilla - notarial protocols"
-    },
-    {
-      "from": "MOC - European archives and digital collections",
-      "to": "Archivo de la Corona de Aragon - Barcelona"
-    },
-    {
-      "from": "MOC - European archives and digital collections",
-      "to": "Arxiu Historic de Protocols de Barcelona"
-    },
-    {
-      "from": "MOC - European archives and digital collections",
-      "to": "Arxiu del Regne de Mallorca"
-    },
-    {
-      "from": "MOC - European archives and digital collections",
-      "to": "Arxiu del Regne de Valencia"
     },
     {
       "from": "MOC - European archives and digital collections",
@@ -7881,18 +8310,6 @@
     {
       "from": "MOC - European archives and digital collections",
       "to": "Belgian archives online - the access layers"
-    },
-    {
-      "from": "MOC - European archives and digital collections",
-      "to": "BelgicaPress and KBR - the thin full-text layer"
-    },
-    {
-      "from": "MOC - European archives and digital collections",
-      "to": "Casa di San Giorgio - the Genoese public debt archive"
-    },
-    {
-      "from": "MOC - European archives and digital collections",
-      "to": "Consulado de Burgos - the universidad de mercaderes"
     },
     {
       "from": "MOC - European archives and digital collections",
@@ -7912,10 +8329,6 @@
     },
     {
       "from": "MOC - European archives and digital collections",
-      "to": "FelixArchief - Antwerp city archive"
-    },
-    {
-      "from": "MOC - European archives and digital collections",
       "to": "GLOBALISE removes the HTR question for the VOC and leaves it standing for the EIC"
     },
     {
@@ -7928,27 +8341,11 @@
     },
     {
       "from": "MOC - European archives and digital collections",
-      "to": "Hof van Holland - the civil litigation record"
-    },
-    {
-      "from": "MOC - European archives and digital collections",
-      "to": "IISG and NEHA - Amsterdam"
-    },
-    {
-      "from": "MOC - European archives and digital collections",
       "to": "Insolvente Boedelskamer - Antwerp"
     },
     {
       "from": "MOC - European archives and digital collections",
       "to": "Itinera Nova - the Leuven aldermen's registers"
-    },
-    {
-      "from": "MOC - European archives and digital collections",
-      "to": "KADOC - religious archives at Leuven"
-    },
-    {
-      "from": "MOC - European archives and digital collections",
-      "to": "Kamer van Assurantie en Averij - Amsterdam"
     },
     {
       "from": "MOC - European archives and digital collections",
@@ -7964,7 +8361,15 @@
     },
     {
       "from": "MOC - European archives and digital collections",
+      "to": "MOC - Belgian archives"
+    },
+    {
+      "from": "MOC - European archives and digital collections",
       "to": "MOC - Digitisation and text recognition"
+    },
+    {
+      "from": "MOC - European archives and digital collections",
+      "to": "MOC - Dutch archives"
     },
     {
       "from": "MOC - European archives and digital collections",
@@ -7976,11 +8381,27 @@
     },
     {
       "from": "MOC - European archives and digital collections",
+      "to": "MOC - Italian archives"
+    },
+    {
+      "from": "MOC - European archives and digital collections",
+      "to": "MOC - Spanish archives"
+    },
+    {
+      "from": "MOC - European archives and digital collections",
+      "to": "Medici Archive Project - the BIA platform"
+    },
+    {
+      "from": "MOC - European archives and digital collections",
       "to": "Natie archives - where the Antwerp nations records are"
     },
     {
       "from": "MOC - European archives and digital collections",
       "to": "Nationaal Archief - The Hague"
+    },
+    {
+      "from": "MOC - European archives and digital collections",
+      "to": "Noord-Hollands Archief - Haarlem"
     },
     {
       "from": "MOC - European archives and digital collections",
@@ -7996,14 +8417,6 @@
     },
     {
       "from": "MOC - European archives and digital collections",
-      "to": "Rijksarchief in Belgie - the state archives network"
-    },
-    {
-      "from": "MOC - European archives and digital collections",
-      "to": "Rijksarchief te Antwerpen and Beveren - the notarial series"
-    },
-    {
-      "from": "MOC - European archives and digital collections",
       "to": "SIAS SIUSA and SAN - the Italian access layers"
     },
     {
@@ -8013,14 +8426,6 @@
     {
       "from": "MOC - European archives and digital collections",
       "to": "Stadsarchief Brugge - the Hanse and the nations"
-    },
-    {
-      "from": "MOC - European archives and digital collections",
-      "to": "Stadsarchief Gent - the begijnhoven and the guilds"
-    },
-    {
-      "from": "MOC - European archives and digital collections",
-      "to": "Stadsarchief Rotterdam - the notarial archive and scanning on demand"
     },
     {
       "from": "MOC - European archives and digital collections",
@@ -8999,6 +9404,90 @@
       "to": "isqa"
     },
     {
+      "from": "MOC - Italian archives",
+      "to": "Archivio Apostolico Vaticano"
+    },
+    {
+      "from": "MOC - Italian archives",
+      "to": "Archivio Storico Assicurazioni Generali - Trieste"
+    },
+    {
+      "from": "MOC - Italian archives",
+      "to": "Archivio Storico del Banco di Napoli"
+    },
+    {
+      "from": "MOC - Italian archives",
+      "to": "Archivio Storico del Monte dei Paschi di Siena"
+    },
+    {
+      "from": "MOC - Italian archives",
+      "to": "Archivio di Stato di Firenze"
+    },
+    {
+      "from": "MOC - Italian archives",
+      "to": "Archivio di Stato di Genova"
+    },
+    {
+      "from": "MOC - Italian archives",
+      "to": "Archivio di Stato di Lucca"
+    },
+    {
+      "from": "MOC - Italian archives",
+      "to": "Archivio di Stato di Milano - the Banco di Sant'Ambrogio"
+    },
+    {
+      "from": "MOC - Italian archives",
+      "to": "Archivio di Stato di Napoli"
+    },
+    {
+      "from": "MOC - Italian archives",
+      "to": "Archivio di Stato di Palermo"
+    },
+    {
+      "from": "MOC - Italian archives",
+      "to": "Archivio di Stato di Pisa"
+    },
+    {
+      "from": "MOC - Italian archives",
+      "to": "Archivio di Stato di Prato - the Datini archive"
+    },
+    {
+      "from": "MOC - Italian archives",
+      "to": "Archivio di Stato di Roma - the luoghi di monte"
+    },
+    {
+      "from": "MOC - Italian archives",
+      "to": "Archivio di Stato di Venezia"
+    },
+    {
+      "from": "MOC - Italian archives",
+      "to": "Casa di San Giorgio - the Genoese public debt archive"
+    },
+    {
+      "from": "MOC - Italian archives",
+      "to": "MOC - Belgian archives"
+    },
+    {
+      "from": "MOC - Italian archives",
+      "to": "MOC - Dutch archives"
+    },
+    {
+      "from": "MOC - Italian archives",
+      "to": "MOC - European archives and digital collections"
+    },
+    {
+      "from": "MOC - Italian archives",
+      "to": "MOC - Spanish archives"
+    },
+    {
+      "from": "MOC - Italian archives",
+      "to": "Medici Archive Project - the BIA platform"
+    },
+    {
+      "from": "MOC - Italian archives",
+      "to": "SIAS SIUSA and SAN - the Italian access layers"
+    },
+    {
       "from": "MOC - Path dependence and sequence",
       "to": "Absorption is a path-dependence mechanism distinct from reinforcement"
     },
@@ -9291,6 +9780,74 @@
       "to": "isqa"
     },
     {
+      "from": "MOC - Spanish archives",
+      "to": "Archivo Foral de Bizkaia - the Consulado de Bilbao"
+    },
+    {
+      "from": "MOC - Spanish archives",
+      "to": "Archivo General de Indias - Sevilla"
+    },
+    {
+      "from": "MOC - Spanish archives",
+      "to": "Archivo General de Simancas"
+    },
+    {
+      "from": "MOC - Spanish archives",
+      "to": "Archivo Historico Nacional - Madrid"
+    },
+    {
+      "from": "MOC - Spanish archives",
+      "to": "Archivo Historico Provincial de Cadiz - notarial protocols and the Consulado"
+    },
+    {
+      "from": "MOC - Spanish archives",
+      "to": "Archivo Historico Provincial de Sevilla - notarial protocols"
+    },
+    {
+      "from": "MOC - Spanish archives",
+      "to": "Archivo de la Corona de Aragon - Barcelona"
+    },
+    {
+      "from": "MOC - Spanish archives",
+      "to": "Arxiu Historic de Protocols de Barcelona"
+    },
+    {
+      "from": "MOC - Spanish archives",
+      "to": "Arxiu del Regne de Mallorca"
+    },
+    {
+      "from": "MOC - Spanish archives",
+      "to": "Arxiu del Regne de Valencia"
+    },
+    {
+      "from": "MOC - Spanish archives",
+      "to": "Consulado de Burgos - the universidad de mercaderes"
+    },
+    {
+      "from": "MOC - Spanish archives",
+      "to": "MOC - Belgian archives"
+    },
+    {
+      "from": "MOC - Spanish archives",
+      "to": "MOC - Dutch archives"
+    },
+    {
+      "from": "MOC - Spanish archives",
+      "to": "MOC - European archives and digital collections"
+    },
+    {
+      "from": "MOC - Spanish archives",
+      "to": "MOC - Italian archives"
+    },
+    {
+      "from": "MOC - Spanish archives",
+      "to": "PARES - the access layer for the Spanish state archives"
+    },
+    {
+      "from": "MOC - Spanish archives",
+      "to": "Real Chancilleria de Valladolid"
+    },
+    {
       "from": "Mare Liberum was a corporate legal weapon",
       "to": "Entity-shielding"
     },
@@ -9309,6 +9866,26 @@
     {
       "from": "Mare Liberum was a corporate legal weapon",
       "to": "The four-step decoupling from participation to the veil"
+    },
+    {
+      "from": "Medici Archive Project - the BIA platform",
+      "to": "Archivio di Stato di Firenze"
+    },
+    {
+      "from": "Medici Archive Project - the BIA platform",
+      "to": "MOC - Digitisation and text recognition"
+    },
+    {
+      "from": "Medici Archive Project - the BIA platform",
+      "to": "MOC - Italian archives"
+    },
+    {
+      "from": "Medici Archive Project - the BIA platform",
+      "to": "Refusals are observations of the filter not inferences from survivors"
+    },
+    {
+      "from": "Medici Archive Project - the BIA platform",
+      "to": "The QDL corpus is conditioned on its funder's geography"
     },
     {
       "from": "Multiplicative amplification is indifferent to what it amplifies",
@@ -9629,6 +10206,26 @@
     {
       "from": "Non-ergodicity collapses the likelihood ratio on outcomes",
       "to": "Skin in the game is asymmetric in the mudaraba"
+    },
+    {
+      "from": "Noord-Hollands Archief - Haarlem",
+      "to": "A migrated institution collects local names not local forms"
+    },
+    {
+      "from": "Noord-Hollands Archief - Haarlem",
+      "to": "Dutch archives online - the access layers"
+    },
+    {
+      "from": "Noord-Hollands Archief - Haarlem",
+      "to": "Het Utrechts Archief"
+    },
+    {
+      "from": "Noord-Hollands Archief - Haarlem",
+      "to": "MOC - Dutch archives"
+    },
+    {
+      "from": "Noord-Hollands Archief - Haarlem",
+      "to": "Stadsarchief Amsterdam - the notarial archive"
     },
     {
       "from": "Nothing in the ergodic theorem fails in geometric Brownian motion",
@@ -10243,6 +10840,34 @@
       "to": "loss_mitigation_forms"
     },
     {
+      "from": "Real Chancilleria de Valladolid",
+      "to": "Archivio di Stato di Firenze"
+    },
+    {
+      "from": "Real Chancilleria de Valladolid",
+      "to": "Archivio di Stato di Venezia"
+    },
+    {
+      "from": "Real Chancilleria de Valladolid",
+      "to": "Archivo Historico Nacional - Madrid"
+    },
+    {
+      "from": "Real Chancilleria de Valladolid",
+      "to": "Hof van Holland - the civil litigation record"
+    },
+    {
+      "from": "Real Chancilleria de Valladolid",
+      "to": "MOC - Spanish archives"
+    },
+    {
+      "from": "Real Chancilleria de Valladolid",
+      "to": "PARES - the access layer for the Spanish state archives"
+    },
+    {
+      "from": "Real Chancilleria de Valladolid",
+      "to": "The coding commons must record stated rationale not only component presence"
+    },
+    {
       "from": "Refusals are observations of the filter not inferences from survivors",
       "to": "MOC - HistorEE"
     },
@@ -10517,6 +11142,26 @@
     {
       "from": "Rijksarchief te Antwerpen and Beveren - the notarial series",
       "to": "Stadsarchief Amsterdam - the notarial archive"
+    },
+    {
+      "from": "Rijksarchief te Luik en Namen - the Walloon repositories",
+      "to": "Belgian archives online - the access layers"
+    },
+    {
+      "from": "Rijksarchief te Luik en Namen - the Walloon repositories",
+      "to": "Guard against reverse-teleology"
+    },
+    {
+      "from": "Rijksarchief te Luik en Namen - the Walloon repositories",
+      "to": "MOC - Belgian archives"
+    },
+    {
+      "from": "Rijksarchief te Luik en Namen - the Walloon repositories",
+      "to": "Refusals are observations of the filter not inferences from survivors"
+    },
+    {
+      "from": "Rijksarchief te Luik en Namen - the Walloon repositories",
+      "to": "Rijksarchief in Belgie - the state archives network"
     },
     {
       "from": "Robotic V-cradle book scanners - Treventus and Qidenus",
@@ -10961,6 +11606,26 @@
     {
       "from": "Stadsarchief Gent - the begijnhoven and the guilds",
       "to": "MOC - European archives and digital collections"
+    },
+    {
+      "from": "Stadsarchief Mechelen",
+      "to": "FelixArchief - Antwerp city archive"
+    },
+    {
+      "from": "Stadsarchief Mechelen",
+      "to": "Hof van Holland - the civil litigation record"
+    },
+    {
+      "from": "Stadsarchief Mechelen",
+      "to": "MOC - Belgian archives"
+    },
+    {
+      "from": "Stadsarchief Mechelen",
+      "to": "Rijksarchief in Belgie - the state archives network"
+    },
+    {
+      "from": "Stadsarchief Mechelen",
+      "to": "The Antwerp phases separate on two cells and the boundary is textual"
     },
     {
       "from": "Stadsarchief Rotterdam - the notarial archive and scanning on demand",

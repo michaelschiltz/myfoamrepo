@@ -79,137 +79,33 @@ Descriptions, not documents. Use them to discover that a series *exists* and who
 | Norway | Digitalarkivet | <https://www.digitalarkivet.no/en/> | Near-total for major series |
 | Croatia | ARHiNET | <http://arhinet.arhiv.hr/> | Descriptive; Dubrovnik is `HR-DADU` |
 
-## Tier 2 — city and notarial archives
-
-**This is where the pooling forms actually are.** The commenda, the *collegantia*, the *bodemerij*, the *partenrederij* and the *fraterna* are notarial and municipal instruments; the national archive is the wrong place to look for almost all of them.
-
-| Repository | URL | What is open |
-|---|---|---|
-| [[Stadsarchief Amsterdam - the notarial archive]] | <https://amsterdam-city-archives.transkribus.eu/> | *Alle Amsterdamse Akten*: hundreds of thousands of pages of 17th–18th c. notarial deeds, HTR-transcribed and free-text searchable. **Layer 3** — the single most valuable European resource for this project after GLOBALISE |
-| [[Archivio di Stato di Genova]] | <https://archiviodistatogenova.cultura.gov.it/patrimonio/archivio-digitale/notai-antichi> | *Notai Antichi* — the earliest notarial registers in Europe — digitised via Notariorum Itinera ⚠️ extent unquantified. Also holds [[Casa di San Giorgio - the Genoese public debt archive]] |
-| [[Archivio di Stato di Venezia]] | <https://asve.arianna4.cloud/> | *moreveneto* is a re-description of the holdings — layer 1, and excellent. Imaging is thin ⚠️ |
-| Arxiu Històric de Protocols de Barcelona | <https://arxiu.colegionotarial.org/> | *Aurora*: images only, no transcription; registration for downloads; research-and-teaching licence, no modification without permission. Corporation-held, in no state catalogue ⚠️ extent unverified |
-| [[Archivio di Stato di Prato - the Datini archive]] | <http://datini.archiviodistato.prato.it/en/> | Fondo Datini — letters and books of account, catalogued to item level |
-| [[Stadsarchief Rotterdam - the notarial archive and scanning on demand]] | <https://stadsarchief.rotterdam.nl/> | ONA toegang `18`; **free scanning on demand**, three items a day, published publicly |
-| Državni arhiv u Dubrovniku | via ARHiNET / APE | Ragusan notarial and *collegantia* material ⚠️ digitisation status unresearched |
-
 ## Tier 3 — corpora already transcribed
 
 Where a corpus is at layer 3 the entire calculus above collapses, which is the point of [[GLOBALISE removes the HTR question for the VOC and leaves it standing for the EIC]]. Check this tier before spending anything.
 
 - **GLOBALISE** — ≈5 million OBP scans, Loghi-transcribed, Dataverse download. See [[VOC digital corpus - what is online and on what terms]].
-- **Alle Amsterdamse Akten** — Amsterdam notarial deeds, HTR, searchable (Tier 2 above).
-- **Fondo Datini** — catalogued to item level, letters and account books.
-- **Medici Archive Project / BIA** — Mediceo del Principato, document-level annotation ⚠️ current access terms to confirm.
+- **Alle Amsterdamse Akten** — Amsterdam notarial deeds, HTR, free-text searchable. See [[Stadsarchief Amsterdam - the notarial archive]].
+- **Haarlem** — the whole notarial archive reported word-searchable ⚠️ transcription basis unconfirmed. See [[Noord-Hollands Archief - Haarlem]].
+- **Itinera Nova** — Leuven aldermen's registers, 14th–18th c., volunteer-transcribed. See [[Itinera Nova - the Leuven aldermen's registers]].
+- **Delpher** — 18M+ newspaper pages, 1618–1879 downloadable as open data. See [[Delpher - the full-text layer]].
+- **Fondo Datini** — catalogued to item level; layer 1 at fine grain rather than layer 3.
+- **Medici Archive Project / BIA** — a scholar-annotated *selection*, not a transcribed series. See [[Medici Archive Project - the BIA platform]].
 - The English side has no member of this tier at all; see [[EIC digital corpus - what is online and on what terms]].
 
-## Spain — repository notes
+**Every genuine member of this tier is in the Low Countries.** Four of the five transcribed corpora are Dutch or Flemish, and the fifth is a Dutch newspaper corpus. **That is not a fact about where early modern Europe wrote things down**, and a comparative corpus assembled from what is searchable will be a corpus about the Low Countries with illustrations from elsewhere.
 
-The first country worked through at repository level. Each note carries the sections that matter, the digitisation layer, and explicit verify flags where a placement rests on secondary literature rather than a finding aid.
+## Country hubs
 
-**The structural fact about Spain**, and the one that catches people: archival competence is devolved, so no single catalogue covers the country. [[PARES - the access layer for the Spanish state archives]] holds the state archives; Andalusia, the Basque Country, Valencia and the Balearics run their own; and the richest notarial archive of all is held by a professional corporation and appears in no public system at all. A PARES search that returns nothing is evidence about the Ministry's remit.
+Repository-level notes live in country MOCs, each carrying that country's structural fact. **The structural facts are different in each case, and the differences are the substance** — this hub exists to hold what is common, not to list what is not.
 
-**The Atlantic complex**
+| Country | Hub | The structural fact |
+|---|---|---|
+| Spain | [[MOC - Spanish archives]] | Unified catalogue, devolved custody. A null result in PARES is a fact about the Ministry's remit |
+| Italy | [[MOC - Italian archives]] | Mostly national custody, three unreconciled catalogues, images outside all of them. No layer 3 |
+| Netherlands | [[MOC - Dutch archives]] | No obstacle: CC0 scans, OAI-PMH, free scanning on demand. The easiest country, and the most biasing |
+| Belgium | [[MOC - Belgian archives]] | Worse infrastructure, better holdings. The country that breaks the proxy |
 
-- [[Archivo General de Indias - Sevilla]] — `CONTRATACION` (1492–1795, 6,337 legajos, 51 series), `CONSULADOS`, `CONTADURIA`, `INDIFERENTE GENERAL`. The *averia* strand
-- [[Archivo Historico Provincial de Sevilla - notarial protocols]] — the instruments behind the institution
-- [[Archivo Historico Provincial de Cadiz - notarial protocols and the Consulado]] — the Carrera after the 1717 move
-- [[Archivo General de Simancas]] — the fiscal archive; the Philip II *asientos*
-- [[Archivo Historico Nacional - Madrid]] — councils, charters, and the eighteenth-century privileged companies
-
-**The Crown of Aragon**
-
-- [[Archivo de la Corona de Aragon - Barcelona]] — the legal and institutional frame, from the twelfth century
-- [[Arxiu Historic de Protocols de Barcelona]] — the *comandes* themselves; corporation-held, outside every state catalogue
-- [[Arxiu del Regne de Mallorca]] — fifteenth-century marine insurance in volume
-- [[Arxiu del Regne de Valencia]] — the third royal archive; note the municipal split over the *Taula de Canvis*
-
-**The consulado towns**
-
-- [[Archivo Foral de Bizkaia - the Consulado de Bilbao]] — the Ordenanzas de Bilbao, a merchant body codifying its own rules
-- [[Consulado de Burgos - the universidad de mercaderes]] — insurance ordinances of 1538, and an uncoded identity-wrapper at Bruges. Records dispersed; custodial map not yet drawn
-
-## Italy — repository notes
-
-**The structural fact about Italy** is the mirror of Spain's. Spain's catalogue is unified and its custody devolved; Italy's custody is mostly national but its catalogues are not unified — SIAS describes the state archives, SIUSA the bank, corporate and ecclesiastical ones, SAN aggregates both badly, and **the images live on each archive's own website, outside all three**. A bank archive searched only in SIAS does not appear to exist.
-
-**The maritime and notarial core**
-
-- [[Archivio di Stato di Venezia]] — `Notarile`, `Giudici di Petizion`, `Cinque Savi alla Mercanzia`. The *colleganza* and the *fraterna*
-- [[Archivio di Stato di Genova]] — *Notai Antichi*, the earliest notarial registers in Europe and the earliest witness to the western commenda
-- [[Archivio di Stato di Firenze]] — `Notarile Antecosimiano`, `Mercanzia`, `Arti`, `Monte Comune`, `Monte delle Doti`. The best-digitised of the majors
-- [[Archivio di Stato di Prato - the Datini archive]] — one firm observed as a running system rather than reconstructed from its constitutive documents
-
-**Transferable claims on a perpetual fiscal body — four cases**
-
-- [[Casa di San Giorgio - the Genoese public debt archive]] — 1239–1863, c. 40,250 units, `Debito pubblico` from 1346. Felloni's complete inventory is online
-- [[Archivio di Stato di Roma - the luoghi di monte]] — `Luoghi di monte` 1532–1824, within the `Camerale` sections
-- [[Archivio Storico del Banco di Napoli]] — the Fondo Apodissario, UNESCO Memory of the World; a charitable pool that became a monetary institution
-- [[Archivio di Stato di Milano - the Banco di Sant'Ambrogio]] — 1593, the Lombard construction of the same object
-
-Four independent constructions inside one legal culture. Shared ancestral conditions are guaranteed, so the finding can only ever be parallelism — the right claim is about the conditions under which the form recurs, not about independence.
-
-**Doctrine, and the rest**
-
-- [[Archivio Apostolico Vaticano]] — the accommodations rather than the refusals. Severe access regime: no cameras, three units a day
-- [[Archivio Storico del Monte dei Paschi di Siena]] — a *monte di pietà* of 1472 that never stopped operating
-- [[Archivio di Stato di Napoli]] — the state counterpart to the Banco; note the 1943 destruction and what it does to arguments from absence
-
-## The Netherlands — repository notes
-
-**The structural fact about the Netherlands is that there is no structural obstacle.** Spain's is devolved custody under a unified catalogue; Italy's is unified custody under three catalogues that do not image. The Dutch have neither — and they have what neither of the others has, an **open-data mandate that reaches the scans**: CC0 inventories and scans, OAI-PMH harvesting, 300 dpi downloads. Several archives will also **digitise on request for nothing** and publish the result.
-
-The caution travels with the convenience. This material will be easier to work than anything else in the European set, and that is a fact about Dutch science policy after 2010, not about the seventeenth century.
-
-**The access layers**
-
-- [[Dutch archives online - the access layers]] — the licence position, the harvesting route, and what free scanning on demand does to the acquisitions calculus
-- [[Delpher - the full-text layer]] — 18M+ newspaper pages, full-text, with the 1618–1879 texts downloadable as open data. Price currents, shipping intelligence, insurance notices, bankruptcy notices
-
-**Amsterdam — four series, and the richest match in the whole survey**
-
-- [[Stadsarchief Amsterdam - the notarial archive]] — the only notarial archive in Europe at layer 3
-- [[Averijgrossen - the general average adjudications]] — 1700–1810, indexed, scans linked, **recording how liability was distributed between skipper and cargo owners**. A coded form with a serial adjudication record
-- [[Kamer van Assurantie en Averij - Amsterdam]] — a standing court for marine insurance from **1598**, four years before the VOC charter
-- [[Desolate Boedelkamer - Amsterdam]] — the bankruptcy chamber; the best candidate anywhere for the missing creditor limb
-
-**The companies**
-
-- [[Nationaal Archief - The Hague]] — `1.04.02` VOC, `1.05` WIC, the Staten-Generaal
-- [[Hof van Holland - the civil litigation record]] — `3.03.01.01`, 1428–1811, *Civiele sententies* separately indexed
-- [[Zeeuws Archief - the Zeeland chamber and the MCC]] — toegang `20`, MCC 1720–1889, UNESCO Memory of the World; a complete company archive of modest size
-- [[Westfries Archief - the Hoorn and Enkhuizen chambers]] — the small chambers, and locked-in minority participation
-
-**The rest**
-
-- [[Gemeentearchief Zaanstad - the partenrederij country]] — `OA-0020` and `OA-0170`; where a single-witness row could be repaired from instruments
-- [[Stadsarchief Rotterdam - the notarial archive and scanning on demand]] — the second maritime notariate, and the cheap independence test
-- [[IISG and NEHA - Amsterdam]] — business archives, price currents, and the mutual and cooperative records the entity census is short of
-
-## Belgium — repository notes
-
-**The country that separates digital infrastructure from archival holdings**, and the one that shows the two are independent variables. On infrastructure Belgium is clearly worse than the Netherlands: images behind a registration wall with no open-data posture, a full-text layer fifteen times thinner, custody split four ways at once, and one great archive destroyed outright. On holdings it is not worse — and for this project's central question it is better than anything else surveyed.
-
-Until this pass every country confirmed the funding-map argument in the same direction, which made it easy to mistake for a description rather than a warning. **Ease of access is not a proxy for richness.**
-
-**Antwerp**
-
-- [[Insolvente Boedelskamer - Antwerp]] — 204 m, 3,000+ fonds, from 1518, 150+ complete firm archives, UNESCO Memory of the World. **An archive of absorption**: these papers survive because the firms failed. The best-suited single fonds in the whole survey
-- [[FelixArchief - Antwerp city archive]] — `Schepenregisters` and their regesten; the archive that could repair a single-witness row
-- [[Rijksarchief te Antwerpen and Beveren - the notarial series]] — the custody trap: in Belgium the notarial protocols are with the *state*, not the city
-- [[Natie archives - where the Antwerp nations records are]] — a coded form whose records have never been located
-
-**The transcribed corpus**
-
-- [[Itinera Nova - the Leuven aldermen's registers]] — 14th–18th c., volunteer-transcribed, full-text, free, 100,000+ acts. Belgium has a layer-3 corpus; Spain and Italy have none. It is also the wrong material for this project's spine, which is the trap
-
-**The rest**
-
-- [[Rijksarchief in Belgie - the state archives network]] — AGATHA, backbone series, registration required
-- [[Stadsarchief Brugge - the Hanse and the nations]] — the merchant nations before Antwerp; the other end of the Burgos-at-Bruges thread
-- [[Stadsarchief Gent - the begijnhoven and the guilds]] · [[Begijnhof archives - where the beguinages records are]] · [[KADOC - religious archives at Leuven]] — a coded form dispersed across four custodians by the dissolution settlement, which sorted documents by type rather than at random
-- [[BelgicaPress and KBR - the thin full-text layer]] — 1.2M pages against Delpher's 18M
-- [[Archief Ieper - one charter and five accounts]] — the belfry fire of 22 November 1914. **A fire has no shape**, so the gap licenses no inference in either direction
+**Not yet surveyed:** France, Germany, the Nordics, Britain, Croatia.
 
 ## Where each coded form's records sit
 
@@ -246,7 +142,8 @@ First pass, to be corrected as the register is built. ⚠️ marks a placement t
 
 - **Bazacle is the weakest placement in the table.** The series at the Archives départementales de la Haute-Garonne has not been identified, and the secondary literature is being used as a proxy for a finding aid. Fix this first — it is the project's flagship pre-modern share case.
 - **Which portals expose IIIF and permit bulk download.** This decides whether an HTR pipeline can be pointed at a corpus at all, and it is unresearched for every Tier 1 portal above.
-- **The begijnhof and *naties* placements are guesses.** Ecclesiastical and civic record in the Low Countries is split across state, municipal and university custody in a way that the aggregators describe badly.
+- **The `begijnhof` and `natie` records have still not been located**, and both now have notes saying so properly rather than a flag in a table: [[Begijnhof archives - where the beguinages records are]] and [[Natie archives - where the Antwerp nations records are]]. Both are desk tasks and both should precede any citation of those rows in the grant material.
+- **Whether the Insolvente Boedelskamer records state reasoning or only outcomes.** It decides whether the census's creditor limb has a witness, and it is the single most consequential unanswered question in the survey.
 - **Nothing here is costed.** Reproduction fees are per-institution and per-use, and the register's rights column is empty for every row.
 - **Non-European repositories are out of scope by decision, not by judgement.** Ottoman, Geniza and Japanese holdings are named in the grant's travel line and need their own pass.
 
