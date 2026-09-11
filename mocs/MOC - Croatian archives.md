@@ -46,13 +46,14 @@ Country hub under [[MOC - European archives and digital collections]]. **Infrast
 ## Open questions
 
 - The Ragusan insurance ordinance's date and text, and whether an insurance series exists as such
-- Are the Ottoman documents catalogued to item level, and in what script?
+- ~~Are the Ottoman documents catalogued to item level, and in what script?~~ **Answered in the Ottoman pass** — partly to item level, in three scripts. See [[MOC - Ottoman archives]]
 - Do the Dalmatian notariates follow Venice or Ragusa?
 - Access, photography and reproduction terms at Dubrovnik — unestablished, and the trip most worth costing in Europe
 
 ## Links
 
 - [[MOC - European archives and digital collections]]
+- [[MOC - Ottoman archives]]
 - [[MOC - Italian archives]]
 - [[MOC - British archives]]
 - [[MOC - Nordic archives]]

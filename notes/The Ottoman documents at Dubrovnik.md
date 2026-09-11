@@ -24,11 +24,21 @@ The project's non-European strand begins with the Ottoman archives, and the natu
 
 For a project whose method turns on [[Independence of apparatus is not independence of question]], **a bilateral relationship recorded in two apparatuses within one archive is an unusually clean test site** — and it is reachable without the language and access problems of the Istanbul material.
 
-⚠️ Nothing here is verified beyond the count and the inscription. Whether the Ottoman documents are catalogued to item level, and in what script and language, decides whether any of this is practical.
+## Answered in the Ottoman pass
+
+The warning this note carried — that item-level cataloguing and script were unknown and decided whether any of this was practical — is now answered, and the answer is **mostly yes**:
+
+- **The series is `HR-DADU-07.2`, *Acta Turcarum*: 161 boxes, 17 linear metres, about 15,000 documents**, in four subseries and a large unarranged remainder. See [[Acta Turcarum - the Ottoman series at Dubrovnik]].
+- **The kadi documents are inventoried to item level (Miović 2019)** — by court and date, without content. See [[Kadijski spisi - the kadi documents at Dubrovnik]].
+- **Script is three problems, not one**: Cyrillic and already edited before c.1525; Ottoman Turkish after; and **an eighteenth-century Italian translation layer made by the Republic's dragomans**, which may locate a document and may not witness it. See [[The Dubrovnik Ottoman documents in three scripts]].
+- **The Istanbul counterpart exists and has been compared once** — and the Porte's register and Dubrovnik's record disagree. See [[Duvel-i Ecnebiye - the Istanbul side of the Ragusan relationship]].
+
+⚠️ Access, photography and reproduction terms at Dubrovnik remain unestablished.
 
 ## Links
 
 - [[MOC - Croatian archives]]
+- [[MOC - Ottoman archives]]
 - [[Drzavni arhiv u Dubrovniku]]
 - [[The Ragusan chancery and notarial series]]
 - [[Independence of apparatus is not independence of question]]

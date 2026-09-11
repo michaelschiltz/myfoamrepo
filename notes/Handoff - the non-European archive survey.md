@@ -47,9 +47,15 @@ For each country: establish **the structural fact** — what the country's archi
 
 **Ask the layer question about script, not only about imaging.** In Europe an imaged series is usable by a reader of the language; an imaged Ottoman series may not be usable by anyone on the team without paid transcription. **That makes "imaged" a weaker result than it was in Europe, and the register's *language and script* column becomes load-bearing rather than descriptive.**
 
+## Progress
+
+- **Ottoman — done, 11 September 2026.** [[MOC - Ottoman archives]]. The Dubrovnik start held; the script prediction was right and understated — the census's Ottoman rows are accounts, and accounts are in siyakat; successor custody recurred with the waqf in a stronger form than predicted.
+- Geniza, Japan, China, South Asia — not started.
+
 ## Links
 
 - [[MOC - European archives and digital collections]]
+- [[MOC - Ottoman archives]]
 - [[The Ottoman documents at Dubrovnik]]
 - [[MOC - Digitisation and text recognition]]
 - [[MOC - Acquisitions and the antiquarian trade]]

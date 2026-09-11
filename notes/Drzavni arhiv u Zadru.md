@@ -24,6 +24,10 @@ The census's `collegantia` claim is a Venice–Ragusa comparison. **Venetian Dal
 
 ⚠️ Series, extents and digitisation unverified. Thirteenth-century Dalmatian notarial records are the subject of an active scholarly literature, which is the cheapest entry.
 
+## A piece of the Ottoman series passed through here
+
+**About 860 Ottoman documents were sent from Dubrovnik to Zadar in 1836 as *Carte Turche*,** and nine misfiled boxes of the kadi documents were later retrieved from Zadar. ⚠️ Whether anything Ottoman from Dubrovnik is still here was not established. See [[Acta Turcarum - the Ottoman series at Dubrovnik]].
+
 ## Links
 
 - [[MOC - Croatian archives]]

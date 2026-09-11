@@ -172,6 +172,15 @@
       "shape": "dot"
     },
     {
+      "id": "Acta Turcarum - the Ottoman series at Dubrovnik",
+      "type": "reference",
+      "group": "reference",
+      "label": "Acta Turcarum - the Ottoman series at Dubrovnik",
+      "value": 20,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
       "id": "Amsterdam notaries drafted ship-pledged and goods-pledged bodemerij as one instrument",
       "type": "permanent",
       "group": "seed",
@@ -977,7 +986,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Drzavni arhiv u Dubrovniku",
-      "value": 24,
+      "value": 26,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -995,7 +1004,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Drzavni arhiv u Zadru",
-      "value": 11,
+      "value": 13,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1005,6 +1014,15 @@
       "group": "reference",
       "label": "Dutch archives online - the access layers",
       "value": 27,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "Duvel-i Ecnebiye - the Istanbul side of the Ragusan relationship",
+      "type": "reference",
+      "group": "reference",
+      "label": "Duvel-i Ecnebiye - the Istanbul side of the Ragusan relationship",
+      "value": 12,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1310,7 +1328,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Handoff - the non-European archive survey",
-      "value": 15,
+      "value": 24,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1405,6 +1423,15 @@
       "shape": "dot"
     },
     {
+      "id": "ISAM Library Archive - the court register image collection",
+      "type": "reference",
+      "group": "reference",
+      "label": "ISAM Library Archive - the court register image collection",
+      "value": 16,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
       "id": "Identity-wrapper and perpetual-monopoly are distinct shielding facets",
       "type": "permanent",
       "group": "seed",
@@ -1418,7 +1445,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Independence of apparatus is not independence of question",
-      "value": 32,
+      "value": 36,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1427,7 +1454,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Insolvente Boedelskamer - Antwerp",
-      "value": 24,
+      "value": 25,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1486,6 +1513,24 @@
       "shape": "dot"
     },
     {
+      "id": "Istanbul Kadi Sicilleri - the published transliterations",
+      "type": "reference",
+      "group": "reference",
+      "label": "Istanbul Kadi Sicilleri - the published transliterations",
+      "value": 14,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "Istanbul Muftulugu Seriyye Sicilleri Arsivi",
+      "type": "reference",
+      "group": "reference",
+      "label": "Istanbul Muftulugu Seriyye Sicilleri Arsivi",
+      "value": 23,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
       "id": "Itinera Nova - the Leuven aldermen's registers",
       "type": "reference",
       "group": "reference",
@@ -1531,6 +1576,15 @@
       "shape": "dot"
     },
     {
+      "id": "Kadijski spisi - the kadi documents at Dubrovnik",
+      "type": "reference",
+      "group": "reference",
+      "label": "Kadijski spisi - the kadi documents at Dubrovnik",
+      "value": 17,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
       "id": "Kamer van Assurantie en Averij - Amsterdam",
       "type": "reference",
       "group": "reference",
@@ -1555,6 +1609,15 @@
       "label": "Kuran's brake is a refusal of immortal entities",
       "value": 18,
       "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "Kuyud-i Kadime Arsivi - Ankara",
+      "type": "reference",
+      "group": "reference",
+      "label": "Kuyud-i Kadime Arsivi - Ankara",
+      "value": 8,
+      "color": "#66a61e",
       "shape": "dot"
     },
     {
@@ -1675,6 +1738,15 @@
       "shape": "dot"
     },
     {
+      "id": "Milli Kutuphane - Ankara",
+      "type": "reference",
+      "group": "reference",
+      "label": "Milli Kutuphane - Ankara",
+      "value": 10,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
       "id": "Minutier central des notaires de Paris",
       "type": "reference",
       "group": "reference",
@@ -1734,6 +1806,15 @@
       "group": "reference",
       "label": "National Archives of Ireland PRONI and the Four Courts fire",
       "value": 10,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "National Library Sofia - the Oriental Department and the 1931 sale",
+      "type": "reference",
+      "group": "reference",
+      "label": "National Library Sofia - the Oriental Department and the 1931 sale",
+      "value": 9,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1837,6 +1918,24 @@
       "shape": "dot"
     },
     {
+      "id": "Orta sandigi records - the guild and Janissary chests",
+      "type": "reference",
+      "group": "reference",
+      "label": "Orta sandigi records - the guild and Janissary chests",
+      "value": 13,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "Osmanli Arsivi - Istanbul",
+      "type": "reference",
+      "group": "reference",
+      "label": "Osmanli Arsivi - Istanbul",
+      "value": 26,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
       "id": "Outcome-coupling is the condition of legibility",
       "type": "permanent",
       "group": "seed",
@@ -1886,7 +1985,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Perpetuity splits into adaptation and petrification",
-      "value": 20,
+      "value": 21,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1994,7 +2093,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Refusals are observations of the filter not inferences from survivors",
-      "value": 107,
+      "value": 111,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -2112,6 +2211,15 @@
       "group": "reference",
       "label": "SIAS SIUSA and SAN - the Italian access layers",
       "value": 25,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "Sarajevo - the Oriental Institute loss and the Gazi Husrev-beg Library",
+      "type": "reference",
+      "group": "reference",
+      "label": "Sarajevo - the Oriental Institute loss and the Gazi Husrev-beg Library",
+      "value": 7,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -2404,6 +2512,15 @@
       "shape": "dot"
     },
     {
+      "id": "The Anatolian court registers - museum to National Library to State Archives",
+      "type": "reference",
+      "group": "reference",
+      "label": "The Anatolian court registers - museum to National Library to State Archives",
+      "value": 17,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
       "id": "The Antwerp phases separate on two cells and the boundary is textual",
       "type": "permanent",
       "group": "seed",
@@ -2454,6 +2571,15 @@
       "group": "reference",
       "label": "The Business Archives Council and the UK business archives",
       "value": 13,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "The Dubrovnik Ottoman documents in three scripts",
+      "type": "reference",
+      "group": "reference",
+      "label": "The Dubrovnik Ottoman documents in three scripts",
+      "value": 15,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -2534,7 +2660,7 @@
       "type": "reference",
       "group": "reference",
       "label": "The Ottoman documents at Dubrovnik",
-      "value": 13,
+      "value": 22,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -2561,7 +2687,7 @@
       "type": "reference",
       "group": "reference",
       "label": "The Ragusan chancery and notarial series",
-      "value": 17,
+      "value": 20,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -2579,7 +2705,7 @@
       "type": "reference",
       "group": "reference",
       "label": "The Sound Toll Registers",
-      "value": 21,
+      "value": 22,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -2588,7 +2714,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The VOC-EIC digital asymmetry is an access regime not a survival difference",
-      "value": 54,
+      "value": 55,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -3070,6 +3196,15 @@
       "shape": "dot"
     },
     {
+      "id": "The tasnif collections - subject classification over provenance",
+      "type": "reference",
+      "group": "reference",
+      "label": "The tasnif collections - subject classification over provenance",
+      "value": 16,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
       "id": "The theory predicts recurrence not independent origins",
       "type": "permanent",
       "group": "seed",
@@ -3137,7 +3272,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The waqf partition converts absence into refusal",
-      "value": 21,
+      "value": 22,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -3268,6 +3403,15 @@
       "shape": "dot"
     },
     {
+      "id": "Vakiflar Genel Mudurlugu Arsivi - Ankara",
+      "type": "reference",
+      "group": "reference",
+      "label": "Vakiflar Genel Mudurlugu Arsivi - Ankara",
+      "value": 18,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
       "id": "Van Dam's Beschryvinge - the VOC described by its own advocaat",
       "type": "source",
       "group": "source",
@@ -3380,7 +3524,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Acquisitions and the antiquarian trade",
-      "value": 39,
+      "value": 41,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -3407,7 +3551,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Croatian archives",
-      "value": 34,
+      "value": 37,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -3425,7 +3569,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Digitisation and text recognition",
-      "value": 37,
+      "value": 39,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -3443,7 +3587,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - ERC Synergy Grant",
-      "value": 65,
+      "value": 66,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -3470,7 +3614,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - European archives and digital collections",
-      "value": 141,
+      "value": 149,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -3515,7 +3659,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Islamic contract doctrine",
-      "value": 48,
+      "value": 49,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -3534,6 +3678,15 @@
       "group": "moc",
       "label": "MOC - Nordic archives",
       "value": 41,
+      "color": "#d95f02",
+      "shape": "dot"
+    },
+    {
+      "id": "MOC - Ottoman archives",
+      "type": "moc",
+      "group": "moc",
+      "label": "MOC - Ottoman archives",
+      "value": 67,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -4405,6 +4558,42 @@
     {
       "from": "Absorption without ergodicity economics is just ruin theory",
       "to": "Time-average optimization is a survivorship property not an intention"
+    },
+    {
+      "from": "Acta Turcarum - the Ottoman series at Dubrovnik",
+      "to": "Drzavni arhiv u Dubrovniku"
+    },
+    {
+      "from": "Acta Turcarum - the Ottoman series at Dubrovnik",
+      "to": "Drzavni arhiv u Zadru"
+    },
+    {
+      "from": "Acta Turcarum - the Ottoman series at Dubrovnik",
+      "to": "Duvel-i Ecnebiye - the Istanbul side of the Ragusan relationship"
+    },
+    {
+      "from": "Acta Turcarum - the Ottoman series at Dubrovnik",
+      "to": "Independence of apparatus is not independence of question"
+    },
+    {
+      "from": "Acta Turcarum - the Ottoman series at Dubrovnik",
+      "to": "Kadijski spisi - the kadi documents at Dubrovnik"
+    },
+    {
+      "from": "Acta Turcarum - the Ottoman series at Dubrovnik",
+      "to": "MOC - Ottoman archives"
+    },
+    {
+      "from": "Acta Turcarum - the Ottoman series at Dubrovnik",
+      "to": "The Dubrovnik Ottoman documents in three scripts"
+    },
+    {
+      "from": "Acta Turcarum - the Ottoman series at Dubrovnik",
+      "to": "The Ottoman documents at Dubrovnik"
+    },
+    {
+      "from": "Acta Turcarum - the Ottoman series at Dubrovnik",
+      "to": "The Ragusan chancery and notarial series"
     },
     {
       "from": "Amsterdam notaries drafted ship-pledged and goods-pledged bodemerij as one instrument",
@@ -6996,6 +7185,10 @@
     },
     {
       "from": "Drzavni arhiv u Zadru",
+      "to": "Acta Turcarum - the Ottoman series at Dubrovnik"
+    },
+    {
+      "from": "Drzavni arhiv u Zadru",
       "to": "Archivio di Stato di Venezia"
     },
     {
@@ -7053,6 +7246,26 @@
     {
       "from": "Dutch archives online - the access layers",
       "to": "The VOC-EIC digital asymmetry is an access regime not a survival difference"
+    },
+    {
+      "from": "Duvel-i Ecnebiye - the Istanbul side of the Ragusan relationship",
+      "to": "Acta Turcarum - the Ottoman series at Dubrovnik"
+    },
+    {
+      "from": "Duvel-i Ecnebiye - the Istanbul side of the Ragusan relationship",
+      "to": "Independence of apparatus is not independence of question"
+    },
+    {
+      "from": "Duvel-i Ecnebiye - the Istanbul side of the Ragusan relationship",
+      "to": "MOC - Ottoman archives"
+    },
+    {
+      "from": "Duvel-i Ecnebiye - the Istanbul side of the Ragusan relationship",
+      "to": "Osmanli Arsivi - Istanbul"
+    },
+    {
+      "from": "Duvel-i Ecnebiye - the Istanbul side of the Ragusan relationship",
+      "to": "Refusals are observations of the filter not inferences from survivors"
     },
     {
       "from": "EE cannot rank across dynamics and the comparative project must not need it to",
@@ -8244,6 +8457,10 @@
     },
     {
       "from": "Handoff - the non-European archive survey",
+      "to": "MOC - Ottoman archives"
+    },
+    {
+      "from": "Handoff - the non-European archive survey",
       "to": "The Ottoman documents at Dubrovnik"
     },
     {
@@ -8579,6 +8796,26 @@
       "to": "SIAS SIUSA and SAN - the Italian access layers"
     },
     {
+      "from": "ISAM Library Archive - the court register image collection",
+      "to": "Istanbul Kadi Sicilleri - the published transliterations"
+    },
+    {
+      "from": "ISAM Library Archive - the court register image collection",
+      "to": "Istanbul Muftulugu Seriyye Sicilleri Arsivi"
+    },
+    {
+      "from": "ISAM Library Archive - the court register image collection",
+      "to": "MOC - European archives and digital collections"
+    },
+    {
+      "from": "ISAM Library Archive - the court register image collection",
+      "to": "MOC - Ottoman archives"
+    },
+    {
+      "from": "ISAM Library Archive - the court register image collection",
+      "to": "The Anatolian court registers - museum to National Library to State Archives"
+    },
+    {
       "from": "Identity-wrapper and perpetual-monopoly are distinct shielding facets",
       "to": "Entity-shielding"
     },
@@ -8879,6 +9116,58 @@
       "to": "isqa"
     },
     {
+      "from": "Istanbul Kadi Sicilleri - the published transliterations",
+      "to": "Handoff - the non-European archive survey"
+    },
+    {
+      "from": "Istanbul Kadi Sicilleri - the published transliterations",
+      "to": "ISAM Library Archive - the court register image collection"
+    },
+    {
+      "from": "Istanbul Kadi Sicilleri - the published transliterations",
+      "to": "Istanbul Muftulugu Seriyye Sicilleri Arsivi"
+    },
+    {
+      "from": "Istanbul Kadi Sicilleri - the published transliterations",
+      "to": "MOC - European archives and digital collections"
+    },
+    {
+      "from": "Istanbul Kadi Sicilleri - the published transliterations",
+      "to": "MOC - Ottoman archives"
+    },
+    {
+      "from": "Istanbul Kadi Sicilleri - the published transliterations",
+      "to": "Refusals are observations of the filter not inferences from survivors"
+    },
+    {
+      "from": "Istanbul Kadi Sicilleri - the published transliterations",
+      "to": "The VOC-EIC digital asymmetry is an access regime not a survival difference"
+    },
+    {
+      "from": "Istanbul Muftulugu Seriyye Sicilleri Arsivi",
+      "to": "ISAM Library Archive - the court register image collection"
+    },
+    {
+      "from": "Istanbul Muftulugu Seriyye Sicilleri Arsivi",
+      "to": "Istanbul Kadi Sicilleri - the published transliterations"
+    },
+    {
+      "from": "Istanbul Muftulugu Seriyye Sicilleri Arsivi",
+      "to": "Kadijski spisi - the kadi documents at Dubrovnik"
+    },
+    {
+      "from": "Istanbul Muftulugu Seriyye Sicilleri Arsivi",
+      "to": "MOC - Ottoman archives"
+    },
+    {
+      "from": "Istanbul Muftulugu Seriyye Sicilleri Arsivi",
+      "to": "Orta sandigi records - the guild and Janissary chests"
+    },
+    {
+      "from": "Istanbul Muftulugu Seriyye Sicilleri Arsivi",
+      "to": "The Anatolian court registers - museum to National Library to State Archives"
+    },
+    {
       "from": "Itinera Nova - the Leuven aldermen's registers",
       "to": "Belgian archives online - the access layers"
     },
@@ -9015,6 +9304,34 @@
       "to": "MOC - European archives and digital collections"
     },
     {
+      "from": "Kadijski spisi - the kadi documents at Dubrovnik",
+      "to": "Acta Turcarum - the Ottoman series at Dubrovnik"
+    },
+    {
+      "from": "Kadijski spisi - the kadi documents at Dubrovnik",
+      "to": "Insolvente Boedelskamer - Antwerp"
+    },
+    {
+      "from": "Kadijski spisi - the kadi documents at Dubrovnik",
+      "to": "Istanbul Muftulugu Seriyye Sicilleri Arsivi"
+    },
+    {
+      "from": "Kadijski spisi - the kadi documents at Dubrovnik",
+      "to": "MOC - Ottoman archives"
+    },
+    {
+      "from": "Kadijski spisi - the kadi documents at Dubrovnik",
+      "to": "The Dubrovnik Ottoman documents in three scripts"
+    },
+    {
+      "from": "Kadijski spisi - the kadi documents at Dubrovnik",
+      "to": "The Ottoman documents at Dubrovnik"
+    },
+    {
+      "from": "Kadijski spisi - the kadi documents at Dubrovnik",
+      "to": "The Ragusan chancery and notarial series"
+    },
+    {
       "from": "Kamer van Assurantie en Averij - Amsterdam",
       "to": "Averijgrossen - the general average adjudications"
     },
@@ -9073,6 +9390,22 @@
     {
       "from": "Kuran's brake is a refusal of immortal entities",
       "to": "The mudaraba is revocable not locked in"
+    },
+    {
+      "from": "Kuyud-i Kadime Arsivi - Ankara",
+      "to": "MOC - Ottoman archives"
+    },
+    {
+      "from": "Kuyud-i Kadime Arsivi - Ankara",
+      "to": "Osmanli Arsivi - Istanbul"
+    },
+    {
+      "from": "Kuyud-i Kadime Arsivi - Ankara",
+      "to": "The Sound Toll Registers"
+    },
+    {
+      "from": "Kuyud-i Kadime Arsivi - Ankara",
+      "to": "Vakiflar Genel Mudurlugu Arsivi - Ankara"
     },
     {
       "from": "Kuzushiji OCR - the NDL and CODH stack",
@@ -9685,6 +10018,10 @@
     {
       "from": "MOC - Croatian archives",
       "to": "MOC - Nordic archives"
+    },
+    {
+      "from": "MOC - Croatian archives",
+      "to": "MOC - Ottoman archives"
     },
     {
       "from": "MOC - Croatian archives",
@@ -10717,6 +11054,10 @@
     {
       "from": "MOC - European archives and digital collections",
       "to": "MOC - Nordic archives"
+    },
+    {
+      "from": "MOC - European archives and digital collections",
+      "to": "MOC - Ottoman archives"
     },
     {
       "from": "MOC - European archives and digital collections",
@@ -12151,6 +12492,102 @@
       "to": "Visby and the Gotland sea law"
     },
     {
+      "from": "MOC - Ottoman archives",
+      "to": "Acta Turcarum - the Ottoman series at Dubrovnik"
+    },
+    {
+      "from": "MOC - Ottoman archives",
+      "to": "Duvel-i Ecnebiye - the Istanbul side of the Ragusan relationship"
+    },
+    {
+      "from": "MOC - Ottoman archives",
+      "to": "Handoff - the non-European archive survey"
+    },
+    {
+      "from": "MOC - Ottoman archives",
+      "to": "ISAM Library Archive - the court register image collection"
+    },
+    {
+      "from": "MOC - Ottoman archives",
+      "to": "Istanbul Kadi Sicilleri - the published transliterations"
+    },
+    {
+      "from": "MOC - Ottoman archives",
+      "to": "Istanbul Muftulugu Seriyye Sicilleri Arsivi"
+    },
+    {
+      "from": "MOC - Ottoman archives",
+      "to": "Kadijski spisi - the kadi documents at Dubrovnik"
+    },
+    {
+      "from": "MOC - Ottoman archives",
+      "to": "Kuyud-i Kadime Arsivi - Ankara"
+    },
+    {
+      "from": "MOC - Ottoman archives",
+      "to": "MOC - Acquisitions and the antiquarian trade"
+    },
+    {
+      "from": "MOC - Ottoman archives",
+      "to": "MOC - Croatian archives"
+    },
+    {
+      "from": "MOC - Ottoman archives",
+      "to": "MOC - Digitisation and text recognition"
+    },
+    {
+      "from": "MOC - Ottoman archives",
+      "to": "MOC - ERC Synergy Grant"
+    },
+    {
+      "from": "MOC - Ottoman archives",
+      "to": "MOC - European archives and digital collections"
+    },
+    {
+      "from": "MOC - Ottoman archives",
+      "to": "MOC - Islamic contract doctrine"
+    },
+    {
+      "from": "MOC - Ottoman archives",
+      "to": "Milli Kutuphane - Ankara"
+    },
+    {
+      "from": "MOC - Ottoman archives",
+      "to": "National Library Sofia - the Oriental Department and the 1931 sale"
+    },
+    {
+      "from": "MOC - Ottoman archives",
+      "to": "Orta sandigi records - the guild and Janissary chests"
+    },
+    {
+      "from": "MOC - Ottoman archives",
+      "to": "Osmanli Arsivi - Istanbul"
+    },
+    {
+      "from": "MOC - Ottoman archives",
+      "to": "Sarajevo - the Oriental Institute loss and the Gazi Husrev-beg Library"
+    },
+    {
+      "from": "MOC - Ottoman archives",
+      "to": "The Anatolian court registers - museum to National Library to State Archives"
+    },
+    {
+      "from": "MOC - Ottoman archives",
+      "to": "The Dubrovnik Ottoman documents in three scripts"
+    },
+    {
+      "from": "MOC - Ottoman archives",
+      "to": "The Ottoman documents at Dubrovnik"
+    },
+    {
+      "from": "MOC - Ottoman archives",
+      "to": "The tasnif collections - subject classification over provenance"
+    },
+    {
+      "from": "MOC - Ottoman archives",
+      "to": "Vakiflar Genel Mudurlugu Arsivi - Ankara"
+    },
+    {
       "from": "MOC - Path dependence and sequence",
       "to": "Absorption is a path-dependence mechanism distinct from reinforcement"
     },
@@ -12551,6 +12988,22 @@
       "to": "The QDL corpus is conditioned on its funder's geography"
     },
     {
+      "from": "Milli Kutuphane - Ankara",
+      "to": "MOC - Acquisitions and the antiquarian trade"
+    },
+    {
+      "from": "Milli Kutuphane - Ankara",
+      "to": "MOC - Ottoman archives"
+    },
+    {
+      "from": "Milli Kutuphane - Ankara",
+      "to": "The Anatolian court registers - museum to National Library to State Archives"
+    },
+    {
+      "from": "Milli Kutuphane - Ankara",
+      "to": "Vakiflar Genel Mudurlugu Arsivi - Ankara"
+    },
+    {
       "from": "Minutier central des notaires de Paris",
       "to": "Archives departementales de la Gironde - Bordeaux"
     },
@@ -12745,6 +13198,22 @@
     {
       "from": "National Archives of Ireland PRONI and the Four Courts fire",
       "to": "The Virtual Record Treasury and reconstruction as method"
+    },
+    {
+      "from": "National Library Sofia - the Oriental Department and the 1931 sale",
+      "to": "Handoff - the non-European archive survey"
+    },
+    {
+      "from": "National Library Sofia - the Oriental Department and the 1931 sale",
+      "to": "MOC - Ottoman archives"
+    },
+    {
+      "from": "National Library Sofia - the Oriental Department and the 1931 sale",
+      "to": "Osmanli Arsivi - Istanbul"
+    },
+    {
+      "from": "National Library Sofia - the Oriental Department and the 1931 sale",
+      "to": "The tasnif collections - subject classification over provenance"
     },
     {
       "from": "National Library of Wales",
@@ -13101,6 +13570,58 @@
     {
       "from": "Open-source HTR stack - eScriptorium Kraken Loghi",
       "to": "Transkribus - managed HTR platform"
+    },
+    {
+      "from": "Orta sandigi records - the guild and Janissary chests",
+      "to": "Istanbul Muftulugu Seriyye Sicilleri Arsivi"
+    },
+    {
+      "from": "Orta sandigi records - the guild and Janissary chests",
+      "to": "MOC - Ottoman archives"
+    },
+    {
+      "from": "Orta sandigi records - the guild and Janissary chests",
+      "to": "Osmanli Arsivi - Istanbul"
+    },
+    {
+      "from": "Orta sandigi records - the guild and Janissary chests",
+      "to": "The tasnif collections - subject classification over provenance"
+    },
+    {
+      "from": "Osmanli Arsivi - Istanbul",
+      "to": "Duvel-i Ecnebiye - the Istanbul side of the Ragusan relationship"
+    },
+    {
+      "from": "Osmanli Arsivi - Istanbul",
+      "to": "Istanbul Muftulugu Seriyye Sicilleri Arsivi"
+    },
+    {
+      "from": "Osmanli Arsivi - Istanbul",
+      "to": "Kuyud-i Kadime Arsivi - Ankara"
+    },
+    {
+      "from": "Osmanli Arsivi - Istanbul",
+      "to": "MOC - Ottoman archives"
+    },
+    {
+      "from": "Osmanli Arsivi - Istanbul",
+      "to": "National Library Sofia - the Oriental Department and the 1931 sale"
+    },
+    {
+      "from": "Osmanli Arsivi - Istanbul",
+      "to": "Orta sandigi records - the guild and Janissary chests"
+    },
+    {
+      "from": "Osmanli Arsivi - Istanbul",
+      "to": "The Anatolian court registers - museum to National Library to State Archives"
+    },
+    {
+      "from": "Osmanli Arsivi - Istanbul",
+      "to": "The tasnif collections - subject classification over provenance"
+    },
+    {
+      "from": "Osmanli Arsivi - Istanbul",
+      "to": "Vakiflar Genel Mudurlugu Arsivi - Ankara"
     },
     {
       "from": "Outcome-coupling is the condition of legibility",
@@ -14091,6 +14612,22 @@
       "to": "PARES - the access layer for the Spanish state archives"
     },
     {
+      "from": "Sarajevo - the Oriental Institute loss and the Gazi Husrev-beg Library",
+      "to": "Handoff - the non-European archive survey"
+    },
+    {
+      "from": "Sarajevo - the Oriental Institute loss and the Gazi Husrev-beg Library",
+      "to": "Kadijski spisi - the kadi documents at Dubrovnik"
+    },
+    {
+      "from": "Sarajevo - the Oriental Institute loss and the Gazi Husrev-beg Library",
+      "to": "MOC - Ottoman archives"
+    },
+    {
+      "from": "Sarajevo - the Oriental Institute loss and the Gazi Husrev-beg Library",
+      "to": "Vakiflar Genel Mudurlugu Arsivi - Ankara"
+    },
+    {
       "from": "Scots partnership has legal personality and English partnership does not",
       "to": "Entity shielding and owner shielding protect different trajectories"
     },
@@ -15055,6 +15592,26 @@
       "to": "Rijksarchief te Luik en Namen - the Walloon repositories"
     },
     {
+      "from": "The Anatolian court registers - museum to National Library to State Archives",
+      "to": "ISAM Library Archive - the court register image collection"
+    },
+    {
+      "from": "The Anatolian court registers - museum to National Library to State Archives",
+      "to": "Istanbul Muftulugu Seriyye Sicilleri Arsivi"
+    },
+    {
+      "from": "The Anatolian court registers - museum to National Library to State Archives",
+      "to": "MOC - Ottoman archives"
+    },
+    {
+      "from": "The Anatolian court registers - museum to National Library to State Archives",
+      "to": "Milli Kutuphane - Ankara"
+    },
+    {
+      "from": "The Anatolian court registers - museum to National Library to State Archives",
+      "to": "Osmanli Arsivi - Istanbul"
+    },
+    {
       "from": "The Antwerp phases separate on two cells and the boundary is textual",
       "to": "A shared compilation never licenses an inference to shared practice"
     },
@@ -15217,6 +15774,34 @@
     {
       "from": "The Business Archives Council and the UK business archives",
       "to": "The VOC-EIC digital asymmetry is an access regime not a survival difference"
+    },
+    {
+      "from": "The Dubrovnik Ottoman documents in three scripts",
+      "to": "Acta Turcarum - the Ottoman series at Dubrovnik"
+    },
+    {
+      "from": "The Dubrovnik Ottoman documents in three scripts",
+      "to": "Handoff - the non-European archive survey"
+    },
+    {
+      "from": "The Dubrovnik Ottoman documents in three scripts",
+      "to": "Independence of apparatus is not independence of question"
+    },
+    {
+      "from": "The Dubrovnik Ottoman documents in three scripts",
+      "to": "Kadijski spisi - the kadi documents at Dubrovnik"
+    },
+    {
+      "from": "The Dubrovnik Ottoman documents in three scripts",
+      "to": "MOC - Digitisation and text recognition"
+    },
+    {
+      "from": "The Dubrovnik Ottoman documents in three scripts",
+      "to": "MOC - Ottoman archives"
+    },
+    {
+      "from": "The Dubrovnik Ottoman documents in three scripts",
+      "to": "The Ottoman documents at Dubrovnik"
     },
     {
       "from": "The Dubrovnik quarantine of 1377",
@@ -15444,11 +16029,23 @@
     },
     {
       "from": "The Ottoman documents at Dubrovnik",
+      "to": "Acta Turcarum - the Ottoman series at Dubrovnik"
+    },
+    {
+      "from": "The Ottoman documents at Dubrovnik",
       "to": "Drzavni arhiv u Dubrovniku"
     },
     {
       "from": "The Ottoman documents at Dubrovnik",
+      "to": "Duvel-i Ecnebiye - the Istanbul side of the Ragusan relationship"
+    },
+    {
+      "from": "The Ottoman documents at Dubrovnik",
       "to": "Independence of apparatus is not independence of question"
+    },
+    {
+      "from": "The Ottoman documents at Dubrovnik",
+      "to": "Kadijski spisi - the kadi documents at Dubrovnik"
     },
     {
       "from": "The Ottoman documents at Dubrovnik",
@@ -15457,6 +16054,14 @@
     {
       "from": "The Ottoman documents at Dubrovnik",
       "to": "MOC - Islamic contract doctrine"
+    },
+    {
+      "from": "The Ottoman documents at Dubrovnik",
+      "to": "MOC - Ottoman archives"
+    },
+    {
+      "from": "The Ottoman documents at Dubrovnik",
+      "to": "The Dubrovnik Ottoman documents in three scripts"
     },
     {
       "from": "The Ottoman documents at Dubrovnik",
@@ -17627,6 +18232,30 @@
       "to": "Transferable claims reconcile lock-in with member exit"
     },
     {
+      "from": "The tasnif collections - subject classification over provenance",
+      "to": "MOC - European archives and digital collections"
+    },
+    {
+      "from": "The tasnif collections - subject classification over provenance",
+      "to": "MOC - Ottoman archives"
+    },
+    {
+      "from": "The tasnif collections - subject classification over provenance",
+      "to": "National Library Sofia - the Oriental Department and the 1931 sale"
+    },
+    {
+      "from": "The tasnif collections - subject classification over provenance",
+      "to": "Orta sandigi records - the guild and Janissary chests"
+    },
+    {
+      "from": "The tasnif collections - subject classification over provenance",
+      "to": "Osmanli Arsivi - Istanbul"
+    },
+    {
+      "from": "The tasnif collections - subject classification over provenance",
+      "to": "Refusals are observations of the filter not inferences from survivors"
+    },
+    {
       "from": "The theory predicts recurrence not independent origins",
       "to": "Divergent arbitrary particulars are the independence diagnostic"
     },
@@ -18441,6 +19070,34 @@
     {
       "from": "VOC digital corpus - what is online and on what terms",
       "to": "Van Dam's Beschryvinge - the VOC described by its own advocaat"
+    },
+    {
+      "from": "Vakiflar Genel Mudurlugu Arsivi - Ankara",
+      "to": "Handoff - the non-European archive survey"
+    },
+    {
+      "from": "Vakiflar Genel Mudurlugu Arsivi - Ankara",
+      "to": "Istanbul Muftulugu Seriyye Sicilleri Arsivi"
+    },
+    {
+      "from": "Vakiflar Genel Mudurlugu Arsivi - Ankara",
+      "to": "MOC - Ottoman archives"
+    },
+    {
+      "from": "Vakiflar Genel Mudurlugu Arsivi - Ankara",
+      "to": "Osmanli Arsivi - Istanbul"
+    },
+    {
+      "from": "Vakiflar Genel Mudurlugu Arsivi - Ankara",
+      "to": "Perpetuity splits into adaptation and petrification"
+    },
+    {
+      "from": "Vakiflar Genel Mudurlugu Arsivi - Ankara",
+      "to": "The Dubrovnik Ottoman documents in three scripts"
+    },
+    {
+      "from": "Vakiflar Genel Mudurlugu Arsivi - Ankara",
+      "to": "The waqf partition converts absence into refusal"
     },
     {
       "from": "Van Dam's Beschryvinge - the VOC described by its own advocaat",
