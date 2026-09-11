@@ -50,7 +50,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "A migrated institution collects local names not local forms",
-      "value": 24,
+      "value": 25,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -104,7 +104,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "A scheme for extending the cooperative pooling census",
-      "value": 26,
+      "value": 27,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -239,7 +239,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Archivio di Stato di Firenze",
-      "value": 11,
+      "value": 12,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -266,7 +266,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Archivio di Stato di Napoli",
-      "value": 10,
+      "value": 11,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -293,7 +293,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Archivio di Stato di Venezia",
-      "value": 15,
+      "value": 16,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -383,7 +383,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Arxiu Historic de Protocols de Barcelona",
-      "value": 15,
+      "value": 16,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -412,6 +412,15 @@
       "label": "Attractor selection bounds what a persistence design can resolve",
       "value": 41,
       "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "Averijgrossen - the general average adjudications",
+      "type": "reference",
+      "group": "reference",
+      "label": "Averijgrossen - the general average adjudications",
+      "value": 15,
+      "color": "#66a61e",
       "shape": "dot"
     },
     {
@@ -523,11 +532,29 @@
       "shape": "dot"
     },
     {
+      "id": "Delpher - the full-text layer",
+      "type": "reference",
+      "group": "reference",
+      "label": "Delpher - the full-text layer",
+      "value": 15,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
       "id": "Desktop and portable capture - CZUR and ScanTent",
       "type": "reference",
       "group": "reference",
       "label": "Desktop and portable capture - CZUR and ScanTent",
       "value": 14,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "Desolate Boedelkamer - Amsterdam",
+      "type": "reference",
+      "group": "reference",
+      "label": "Desolate Boedelkamer - Amsterdam",
+      "value": 16,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -563,7 +590,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Divergent arbitrary particulars are the independence diagnostic",
-      "value": 43,
+      "value": 45,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -592,6 +619,15 @@
       "label": "Drelichman and Voth 2014 on the debts and defaults of Philip II",
       "value": 21,
       "color": "#7570b3",
+      "shape": "dot"
+    },
+    {
+      "id": "Dutch archives online - the access layers",
+      "type": "reference",
+      "group": "reference",
+      "label": "Dutch archives online - the access layers",
+      "value": 20,
+      "color": "#66a61e",
       "shape": "dot"
     },
     {
@@ -653,7 +689,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Entity shielding and owner shielding protect different trajectories",
-      "value": 32,
+      "value": 35,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -743,7 +779,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "GLOBALISE removes the HTR question for the VOC and leaves it standing for the EIC",
-      "value": 24,
+      "value": 25,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -772,6 +808,15 @@
       "label": "Galton-Watson is the extinction branch Peters named and did not develop",
       "value": 35,
       "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "Gemeentearchief Zaanstad - the partenrederij country",
+      "type": "reference",
+      "group": "reference",
+      "label": "Gemeentearchief Zaanstad - the partenrederij country",
+      "value": 11,
+      "color": "#66a61e",
       "shape": "dot"
     },
     {
@@ -820,12 +865,30 @@
       "shape": "dot"
     },
     {
+      "id": "Hof van Holland - the civil litigation record",
+      "type": "reference",
+      "group": "reference",
+      "label": "Hof van Holland - the civil litigation record",
+      "value": 15,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
       "id": "Homoplasy is the finding not the noise",
       "type": "permanent",
       "group": "seed",
       "label": "Homoplasy is the finding not the noise",
       "value": 68,
       "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "IISG and NEHA - Amsterdam",
+      "type": "reference",
+      "group": "reference",
+      "label": "IISG and NEHA - Amsterdam",
+      "value": 13,
+      "color": "#66a61e",
       "shape": "dot"
     },
     {
@@ -842,7 +905,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Independence of apparatus is not independence of question",
-      "value": 19,
+      "value": 21,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -907,6 +970,15 @@
       "label": "Jensen supplies the gap but only the dynamic privileges the logarithm",
       "value": 34,
       "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "Kamer van Assurantie en Averij - Amsterdam",
+      "type": "reference",
+      "group": "reference",
+      "label": "Kamer van Assurantie en Averij - Amsterdam",
+      "value": 14,
+      "color": "#66a61e",
       "shape": "dot"
     },
     {
@@ -977,7 +1049,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Loghi - the KNAW-Nationaal Archief HTR pipeline",
-      "value": 15,
+      "value": 17,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1015,6 +1087,15 @@
       "label": "Natie is a false cognate",
       "value": 21,
       "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "Nationaal Archief - The Hague",
+      "type": "reference",
+      "group": "reference",
+      "label": "Nationaal Archief - The Hague",
+      "value": 20,
+      "color": "#66a61e",
       "shape": "dot"
     },
     {
@@ -1076,7 +1157,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Open-source HTR stack - eScriptorium Kraken Loghi",
-      "value": 15,
+      "value": 17,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1094,7 +1175,7 @@
       "type": "reference",
       "group": "reference",
       "label": "PARES - the access layer for the Spanish state archives",
-      "value": 26,
+      "value": 27,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1130,7 +1211,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Persistence samples are conditioned on non-absorption",
-      "value": 49,
+      "value": 51,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1175,7 +1256,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Pricing risk does not remove it",
-      "value": 28,
+      "value": 30,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1211,7 +1292,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Refusals are observations of the filter not inferences from survivors",
-      "value": 83,
+      "value": 86,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1283,7 +1364,7 @@
       "type": "reference",
       "group": "reference",
       "label": "SIAS SIUSA and SAN - the Italian access layers",
-      "value": 18,
+      "value": 20,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1357,6 +1438,24 @@
       "label": "Split provenance into priority and independence",
       "value": 28,
       "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "Stadsarchief Amsterdam - the notarial archive",
+      "type": "reference",
+      "group": "reference",
+      "label": "Stadsarchief Amsterdam - the notarial archive",
+      "value": 27,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "Stadsarchief Rotterdam - the notarial archive and scanning on demand",
+      "type": "reference",
+      "group": "reference",
+      "label": "Stadsarchief Rotterdam - the notarial archive and scanning on demand",
+      "value": 10,
+      "color": "#66a61e",
       "shape": "dot"
     },
     {
@@ -1463,7 +1562,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The VOC-EIC digital asymmetry is an access regime not a survival difference",
-      "value": 26,
+      "value": 30,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1526,7 +1625,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The coding commons must record stated rationale not only component presence",
-      "value": 44,
+      "value": 45,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1562,7 +1661,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The creditor limb of entity shielding has no witness",
-      "value": 18,
+      "value": 22,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -2048,7 +2147,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Transferable claims reconcile lock-in with member exit",
-      "value": 25,
+      "value": 27,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -2057,7 +2156,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Transkribus - managed HTR platform",
-      "value": 18,
+      "value": 19,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -2093,7 +2192,7 @@
       "type": "reference",
       "group": "reference",
       "label": "VOC digital corpus - what is online and on what terms",
-      "value": 19,
+      "value": 23,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -2102,7 +2201,7 @@
       "type": "source",
       "group": "source",
       "label": "Van Dam's Beschryvinge - the VOC described by its own advocaat",
-      "value": 34,
+      "value": 35,
       "color": "#7570b3",
       "shape": "dot"
     },
@@ -2134,6 +2233,15 @@
       "shape": "dot"
     },
     {
+      "id": "Westfries Archief - the Hoorn and Enkhuizen chambers",
+      "type": "reference",
+      "group": "reference",
+      "label": "Westfries Archief - the Hoorn and Enkhuizen chambers",
+      "value": 10,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
       "id": "Which peril gets a clause is set by the tradition's doctrinal problem",
       "type": "permanent",
       "group": "seed",
@@ -2149,6 +2257,15 @@
       "label": "Whiggish history of finance names the ascent narrative",
       "value": 22,
       "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "Zeeuws Archief - the Zeeland chamber and the MCC",
+      "type": "reference",
+      "group": "reference",
+      "label": "Zeeuws Archief - the Zeeland chamber and the MCC",
+      "value": 12,
+      "color": "#66a61e",
       "shape": "dot"
     },
     {
@@ -2183,7 +2300,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Acquisitions and the antiquarian trade",
-      "value": 32,
+      "value": 35,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -2201,7 +2318,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Digitisation and text recognition",
-      "value": 30,
+      "value": 32,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -2237,7 +2354,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - European archives and digital collections",
-      "value": 82,
+      "value": 118,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -2282,7 +2399,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Risk-sharing vs risk-pricing",
-      "value": 129,
+      "value": 132,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -3897,6 +4014,30 @@
       "to": "Voigtlander and Voth measured the relaxation time and reported a mixture"
     },
     {
+      "from": "Averijgrossen - the general average adjudications",
+      "to": "Kamer van Assurantie en Averij - Amsterdam"
+    },
+    {
+      "from": "Averijgrossen - the general average adjudications",
+      "to": "MOC - European archives and digital collections"
+    },
+    {
+      "from": "Averijgrossen - the general average adjudications",
+      "to": "MOC - Risk-sharing vs risk-pricing"
+    },
+    {
+      "from": "Averijgrossen - the general average adjudications",
+      "to": "Refusals are observations of the filter not inferences from survivors"
+    },
+    {
+      "from": "Averijgrossen - the general average adjudications",
+      "to": "Stadsarchief Amsterdam - the notarial archive"
+    },
+    {
+      "from": "Averijgrossen - the general average adjudications",
+      "to": "The VOC-EIC digital asymmetry is an access regime not a survival difference"
+    },
+    {
       "from": "Bad luck is what the ensemble average calls the modal trajectory",
       "to": "Drelichman and Voth 2014 on the debts and defaults of Philip II"
     },
@@ -4385,6 +4526,34 @@
       "to": "The split is over whether the explanandum is a state or a trajectory"
     },
     {
+      "from": "Delpher - the full-text layer",
+      "to": "Dutch archives online - the access layers"
+    },
+    {
+      "from": "Delpher - the full-text layer",
+      "to": "IISG and NEHA - Amsterdam"
+    },
+    {
+      "from": "Delpher - the full-text layer",
+      "to": "Kamer van Assurantie en Averij - Amsterdam"
+    },
+    {
+      "from": "Delpher - the full-text layer",
+      "to": "MOC - Digitisation and text recognition"
+    },
+    {
+      "from": "Delpher - the full-text layer",
+      "to": "MOC - European archives and digital collections"
+    },
+    {
+      "from": "Delpher - the full-text layer",
+      "to": "Open-source HTR stack - eScriptorium Kraken Loghi"
+    },
+    {
+      "from": "Delpher - the full-text layer",
+      "to": "The VOC-EIC digital asymmetry is an access regime not a survival difference"
+    },
+    {
       "from": "Desktop and portable capture - CZUR and ScanTent",
       "to": "Kuzushiji OCR - the NDL and CODH stack"
     },
@@ -4403,6 +4572,42 @@
     {
       "from": "Desktop and portable capture - CZUR and ScanTent",
       "to": "Transkribus - managed HTR platform"
+    },
+    {
+      "from": "Desolate Boedelkamer - Amsterdam",
+      "to": "Delpher - the full-text layer"
+    },
+    {
+      "from": "Desolate Boedelkamer - Amsterdam",
+      "to": "Entity shielding and owner shielding protect different trajectories"
+    },
+    {
+      "from": "Desolate Boedelkamer - Amsterdam",
+      "to": "Hof van Holland - the civil litigation record"
+    },
+    {
+      "from": "Desolate Boedelkamer - Amsterdam",
+      "to": "IISG and NEHA - Amsterdam"
+    },
+    {
+      "from": "Desolate Boedelkamer - Amsterdam",
+      "to": "MOC - European archives and digital collections"
+    },
+    {
+      "from": "Desolate Boedelkamer - Amsterdam",
+      "to": "Persistence samples are conditioned on non-absorption"
+    },
+    {
+      "from": "Desolate Boedelkamer - Amsterdam",
+      "to": "Stadsarchief Amsterdam - the notarial archive"
+    },
+    {
+      "from": "Desolate Boedelkamer - Amsterdam",
+      "to": "The coding commons must record stated rationale not only component presence"
+    },
+    {
+      "from": "Desolate Boedelkamer - Amsterdam",
+      "to": "The creditor limb of entity shielding has no witness"
     },
     {
       "from": "Deviation rather than shipwreck is what bodemerij litigation is about",
@@ -4639,6 +4844,46 @@
     {
       "from": "Drelichman and Voth 2014 on the debts and defaults of Philip II",
       "to": "MOC - Risk-sharing vs risk-pricing"
+    },
+    {
+      "from": "Dutch archives online - the access layers",
+      "to": "Arxiu Historic de Protocols de Barcelona"
+    },
+    {
+      "from": "Dutch archives online - the access layers",
+      "to": "Delpher - the full-text layer"
+    },
+    {
+      "from": "Dutch archives online - the access layers",
+      "to": "MOC - Acquisitions and the antiquarian trade"
+    },
+    {
+      "from": "Dutch archives online - the access layers",
+      "to": "MOC - European archives and digital collections"
+    },
+    {
+      "from": "Dutch archives online - the access layers",
+      "to": "Nationaal Archief - The Hague"
+    },
+    {
+      "from": "Dutch archives online - the access layers",
+      "to": "PARES - the access layer for the Spanish state archives"
+    },
+    {
+      "from": "Dutch archives online - the access layers",
+      "to": "SIAS SIUSA and SAN - the Italian access layers"
+    },
+    {
+      "from": "Dutch archives online - the access layers",
+      "to": "Stadsarchief Amsterdam - the notarial archive"
+    },
+    {
+      "from": "Dutch archives online - the access layers",
+      "to": "Stadsarchief Rotterdam - the notarial archive and scanning on demand"
+    },
+    {
+      "from": "Dutch archives online - the access layers",
+      "to": "The VOC-EIC digital asymmetry is an access regime not a survival difference"
     },
     {
       "from": "EE cannot rank across dynamics and the comparative project must not need it to",
@@ -5461,6 +5706,26 @@
       "to": "Time-average optimization is a survivorship property not an intention"
     },
     {
+      "from": "Gemeentearchief Zaanstad - the partenrederij country",
+      "to": "Dutch archives online - the access layers"
+    },
+    {
+      "from": "Gemeentearchief Zaanstad - the partenrederij country",
+      "to": "Entity shielding and owner shielding protect different trajectories"
+    },
+    {
+      "from": "Gemeentearchief Zaanstad - the partenrederij country",
+      "to": "Independence of apparatus is not independence of question"
+    },
+    {
+      "from": "Gemeentearchief Zaanstad - the partenrederij country",
+      "to": "MOC - European archives and digital collections"
+    },
+    {
+      "from": "Gemeentearchief Zaanstad - the partenrederij country",
+      "to": "Stadsarchief Amsterdam - the notarial archive"
+    },
+    {
       "from": "General average shares decisions where warichi shares hazards",
       "to": "MOC - HistorEE"
     },
@@ -5633,6 +5898,38 @@
       "to": "limited-liability"
     },
     {
+      "from": "Hof van Holland - the civil litigation record",
+      "to": "Archivio di Stato di Firenze"
+    },
+    {
+      "from": "Hof van Holland - the civil litigation record",
+      "to": "Archivio di Stato di Venezia"
+    },
+    {
+      "from": "Hof van Holland - the civil litigation record",
+      "to": "Desolate Boedelkamer - Amsterdam"
+    },
+    {
+      "from": "Hof van Holland - the civil litigation record",
+      "to": "Entity shielding and owner shielding protect different trajectories"
+    },
+    {
+      "from": "Hof van Holland - the civil litigation record",
+      "to": "MOC - European archives and digital collections"
+    },
+    {
+      "from": "Hof van Holland - the civil litigation record",
+      "to": "Nationaal Archief - The Hague"
+    },
+    {
+      "from": "Hof van Holland - the civil litigation record",
+      "to": "Stadsarchief Amsterdam - the notarial archive"
+    },
+    {
+      "from": "Hof van Holland - the civil litigation record",
+      "to": "The creditor limb of entity shielding has no witness"
+    },
+    {
       "from": "Homoplasy is the finding not the noise",
       "to": "Borrow the diagnostics not the tree"
     },
@@ -5727,6 +6024,34 @@
     {
       "from": "Homoplasy is the finding not the noise",
       "to": "Transmission versus independent recurrence is the load-bearing test"
+    },
+    {
+      "from": "IISG and NEHA - Amsterdam",
+      "to": "A scheme for extending the cooperative pooling census"
+    },
+    {
+      "from": "IISG and NEHA - Amsterdam",
+      "to": "Delpher - the full-text layer"
+    },
+    {
+      "from": "IISG and NEHA - Amsterdam",
+      "to": "Dutch archives online - the access layers"
+    },
+    {
+      "from": "IISG and NEHA - Amsterdam",
+      "to": "Loghi - the KNAW-Nationaal Archief HTR pipeline"
+    },
+    {
+      "from": "IISG and NEHA - Amsterdam",
+      "to": "MOC - European archives and digital collections"
+    },
+    {
+      "from": "IISG and NEHA - Amsterdam",
+      "to": "Nationaal Archief - The Hague"
+    },
+    {
+      "from": "IISG and NEHA - Amsterdam",
+      "to": "SIAS SIUSA and SAN - the Italian access layers"
     },
     {
       "from": "Identity-wrapper and perpetual-monopoly are distinct shielding facets",
@@ -6047,6 +6372,26 @@
     {
       "from": "Jensen supplies the gap but only the dynamic privileges the logarithm",
       "to": "Time-average"
+    },
+    {
+      "from": "Kamer van Assurantie en Averij - Amsterdam",
+      "to": "Averijgrossen - the general average adjudications"
+    },
+    {
+      "from": "Kamer van Assurantie en Averij - Amsterdam",
+      "to": "MOC - European archives and digital collections"
+    },
+    {
+      "from": "Kamer van Assurantie en Averij - Amsterdam",
+      "to": "MOC - Risk-sharing vs risk-pricing"
+    },
+    {
+      "from": "Kamer van Assurantie en Averij - Amsterdam",
+      "to": "Pricing risk does not remove it"
+    },
+    {
+      "from": "Kamer van Assurantie en Averij - Amsterdam",
+      "to": "Stadsarchief Amsterdam - the notarial archive"
     },
     {
       "from": "Kuran's brake is a refusal of immortal entities",
@@ -7214,11 +7559,27 @@
     },
     {
       "from": "MOC - European archives and digital collections",
+      "to": "Averijgrossen - the general average adjudications"
+    },
+    {
+      "from": "MOC - European archives and digital collections",
       "to": "Casa di San Giorgio - the Genoese public debt archive"
     },
     {
       "from": "MOC - European archives and digital collections",
       "to": "Consulado de Burgos - the universidad de mercaderes"
+    },
+    {
+      "from": "MOC - European archives and digital collections",
+      "to": "Delpher - the full-text layer"
+    },
+    {
+      "from": "MOC - European archives and digital collections",
+      "to": "Desolate Boedelkamer - Amsterdam"
+    },
+    {
+      "from": "MOC - European archives and digital collections",
+      "to": "Dutch archives online - the access layers"
     },
     {
       "from": "MOC - European archives and digital collections",
@@ -7230,7 +7591,23 @@
     },
     {
       "from": "MOC - European archives and digital collections",
+      "to": "Gemeentearchief Zaanstad - the partenrederij country"
+    },
+    {
+      "from": "MOC - European archives and digital collections",
       "to": "Hierro Anibarro 2005 on the asiento de averia and the privileged company"
+    },
+    {
+      "from": "MOC - European archives and digital collections",
+      "to": "Hof van Holland - the civil litigation record"
+    },
+    {
+      "from": "MOC - European archives and digital collections",
+      "to": "IISG and NEHA - Amsterdam"
+    },
+    {
+      "from": "MOC - European archives and digital collections",
+      "to": "Kamer van Assurantie en Averij - Amsterdam"
     },
     {
       "from": "MOC - European archives and digital collections",
@@ -7258,6 +7635,10 @@
     },
     {
       "from": "MOC - European archives and digital collections",
+      "to": "Nationaal Archief - The Hague"
+    },
+    {
+      "from": "MOC - European archives and digital collections",
       "to": "Open-source HTR stack - eScriptorium Kraken Loghi"
     },
     {
@@ -7271,6 +7652,14 @@
     {
       "from": "MOC - European archives and digital collections",
       "to": "SIAS SIUSA and SAN - the Italian access layers"
+    },
+    {
+      "from": "MOC - European archives and digital collections",
+      "to": "Stadsarchief Amsterdam - the notarial archive"
+    },
+    {
+      "from": "MOC - European archives and digital collections",
+      "to": "Stadsarchief Rotterdam - the notarial archive and scanning on demand"
     },
     {
       "from": "MOC - European archives and digital collections",
@@ -7299,6 +7688,14 @@
     {
       "from": "MOC - European archives and digital collections",
       "to": "VOC digital corpus - what is online and on what terms"
+    },
+    {
+      "from": "MOC - European archives and digital collections",
+      "to": "Westfries Archief - the Hoorn and Enkhuizen chambers"
+    },
+    {
+      "from": "MOC - European archives and digital collections",
+      "to": "Zeeuws Archief - the Zeeland chamber and the MCC"
     },
     {
       "from": "MOC - HistorEE",
@@ -8641,6 +9038,38 @@
       "to": "The alleenrecht is monopoly held as tradable property"
     },
     {
+      "from": "Nationaal Archief - The Hague",
+      "to": "Archivio di Stato di Napoli"
+    },
+    {
+      "from": "Nationaal Archief - The Hague",
+      "to": "Dutch archives online - the access layers"
+    },
+    {
+      "from": "Nationaal Archief - The Hague",
+      "to": "GLOBALISE removes the HTR question for the VOC and leaves it standing for the EIC"
+    },
+    {
+      "from": "Nationaal Archief - The Hague",
+      "to": "Hof van Holland - the civil litigation record"
+    },
+    {
+      "from": "Nationaal Archief - The Hague",
+      "to": "MOC - European archives and digital collections"
+    },
+    {
+      "from": "Nationaal Archief - The Hague",
+      "to": "VOC digital corpus - what is online and on what terms"
+    },
+    {
+      "from": "Nationaal Archief - The Hague",
+      "to": "Van Dam's Beschryvinge - the VOC described by its own advocaat"
+    },
+    {
+      "from": "Nationaal Archief - The Hague",
+      "to": "Zeeuws Archief - the Zeeland chamber and the MCC"
+    },
+    {
       "from": "Naviganti - Latin Christendom rejected the sea loan too",
       "to": "Islamic doctrine refuses risk-commodification at step one"
     },
@@ -10027,6 +10456,58 @@
     {
       "from": "Split provenance into priority and independence",
       "to": "Transmission versus independent recurrence is the load-bearing test"
+    },
+    {
+      "from": "Stadsarchief Amsterdam - the notarial archive",
+      "to": "Averijgrossen - the general average adjudications"
+    },
+    {
+      "from": "Stadsarchief Amsterdam - the notarial archive",
+      "to": "Desolate Boedelkamer - Amsterdam"
+    },
+    {
+      "from": "Stadsarchief Amsterdam - the notarial archive",
+      "to": "Gemeentearchief Zaanstad - the partenrederij country"
+    },
+    {
+      "from": "Stadsarchief Amsterdam - the notarial archive",
+      "to": "Kamer van Assurantie en Averij - Amsterdam"
+    },
+    {
+      "from": "Stadsarchief Amsterdam - the notarial archive",
+      "to": "MOC - Digitisation and text recognition"
+    },
+    {
+      "from": "Stadsarchief Amsterdam - the notarial archive",
+      "to": "MOC - European archives and digital collections"
+    },
+    {
+      "from": "Stadsarchief Amsterdam - the notarial archive",
+      "to": "Refusals are observations of the filter not inferences from survivors"
+    },
+    {
+      "from": "Stadsarchief Amsterdam - the notarial archive",
+      "to": "Transkribus - managed HTR platform"
+    },
+    {
+      "from": "Stadsarchief Rotterdam - the notarial archive and scanning on demand",
+      "to": "A migrated institution collects local names not local forms"
+    },
+    {
+      "from": "Stadsarchief Rotterdam - the notarial archive and scanning on demand",
+      "to": "Dutch archives online - the access layers"
+    },
+    {
+      "from": "Stadsarchief Rotterdam - the notarial archive and scanning on demand",
+      "to": "MOC - Acquisitions and the antiquarian trade"
+    },
+    {
+      "from": "Stadsarchief Rotterdam - the notarial archive and scanning on demand",
+      "to": "MOC - European archives and digital collections"
+    },
+    {
+      "from": "Stadsarchief Rotterdam - the notarial archive and scanning on demand",
+      "to": "Stadsarchief Amsterdam - the notarial archive"
     },
     {
       "from": "Stationarity is a precondition of ergodicity not a corollary",
@@ -13325,6 +13806,26 @@
       "to": "loss_mitigation_forms"
     },
     {
+      "from": "Westfries Archief - the Hoorn and Enkhuizen chambers",
+      "to": "MOC - European archives and digital collections"
+    },
+    {
+      "from": "Westfries Archief - the Hoorn and Enkhuizen chambers",
+      "to": "Nationaal Archief - The Hague"
+    },
+    {
+      "from": "Westfries Archief - the Hoorn and Enkhuizen chambers",
+      "to": "Transferable claims reconcile lock-in with member exit"
+    },
+    {
+      "from": "Westfries Archief - the Hoorn and Enkhuizen chambers",
+      "to": "VOC digital corpus - what is online and on what terms"
+    },
+    {
+      "from": "Westfries Archief - the Hoorn and Enkhuizen chambers",
+      "to": "Zeeuws Archief - the Zeeland chamber and the MCC"
+    },
+    {
       "from": "Which peril gets a clause is set by the tradition's doctrinal problem",
       "to": "A route clause conditions the investor's peril in three traditions"
     },
@@ -13387,6 +13888,26 @@
     {
       "from": "Whiggish history of finance names the ascent narrative",
       "to": "The tontine's chronology defeats the hazard-to-pricing staging"
+    },
+    {
+      "from": "Zeeuws Archief - the Zeeland chamber and the MCC",
+      "to": "Divergent arbitrary particulars are the independence diagnostic"
+    },
+    {
+      "from": "Zeeuws Archief - the Zeeland chamber and the MCC",
+      "to": "MOC - European archives and digital collections"
+    },
+    {
+      "from": "Zeeuws Archief - the Zeeland chamber and the MCC",
+      "to": "Nationaal Archief - The Hague"
+    },
+    {
+      "from": "Zeeuws Archief - the Zeeland chamber and the MCC",
+      "to": "VOC digital corpus - what is online and on what terms"
+    },
+    {
+      "from": "Zeeuws Archief - the Zeeland chamber and the MCC",
+      "to": "Westfries Archief - the Hoorn and Enkhuizen chambers"
     },
     {
       "from": "commenda",

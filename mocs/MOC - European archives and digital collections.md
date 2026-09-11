@@ -65,7 +65,7 @@ Descriptions, not documents. Use them to discover that a series *exists* and who
 
 | Country | Portal | URL | Note |
 |---|---|---|---|
-| Netherlands | Nationaal Archief | <https://www.nationaalarchief.nl/en/research> | Scans free; explicit terms-of-use page. `NL-HaNA 1.04.02` is the VOC archive |
+| Netherlands | Nationaal Archief; archieven.nl | <https://www.nationaalarchief.nl/> | Inventories and scans **CC0**, OAI-PMH harvesting, 300 dpi downloads, ~2.8% restricted. No IIIF advertised. See [[Dutch archives online - the access layers]] |
 | Belgium | Rijksarchief / Archives de l'État | <https://search.arch.be/> | Millions of scans, free, image-forward ⚠️ figure unverified |
 | United Kingdom | TNA Discovery | <https://discovery.nationalarchives.gov.uk/> | Catalogue. Company and friendly-society records are description-only |
 | France | FranceArchives + départementales | <https://francearchives.gouv.fr/> | Federated; the *départementales* hold the commercial material and image independently |
@@ -83,11 +83,12 @@ Descriptions, not documents. Use them to discover that a series *exists* and who
 
 | Repository | URL | What is open |
 |---|---|---|
-| Stadsarchief Amsterdam | <https://amsterdam-city-archives.transkribus.eu/> | *Alle Amsterdamse Akten*: hundreds of thousands of pages of 17th–18th c. notarial deeds, HTR-transcribed and free-text searchable with fuzzy matching. **Layer 3** — the single most valuable European resource for this project after GLOBALISE |
+| [[Stadsarchief Amsterdam - the notarial archive]] | <https://amsterdam-city-archives.transkribus.eu/> | *Alle Amsterdamse Akten*: hundreds of thousands of pages of 17th–18th c. notarial deeds, HTR-transcribed and free-text searchable. **Layer 3** — the single most valuable European resource for this project after GLOBALISE |
 | [[Archivio di Stato di Genova]] | <https://archiviodistatogenova.cultura.gov.it/patrimonio/archivio-digitale/notai-antichi> | *Notai Antichi* — the earliest notarial registers in Europe — digitised via Notariorum Itinera ⚠️ extent unquantified. Also holds [[Casa di San Giorgio - the Genoese public debt archive]] |
 | [[Archivio di Stato di Venezia]] | <https://asve.arianna4.cloud/> | *moreveneto* is a re-description of the holdings — layer 1, and excellent. Imaging is thin ⚠️ |
 | Arxiu Històric de Protocols de Barcelona | <https://arxiu.colegionotarial.org/> | *Aurora*: images only, no transcription; registration for downloads; research-and-teaching licence, no modification without permission. Corporation-held, in no state catalogue ⚠️ extent unverified |
 | [[Archivio di Stato di Prato - the Datini archive]] | <http://datini.archiviodistato.prato.it/en/> | Fondo Datini — letters and books of account, catalogued to item level |
+| [[Stadsarchief Rotterdam - the notarial archive and scanning on demand]] | <https://stadsarchief.rotterdam.nl/> | ONA toegang `18`; **free scanning on demand**, three items a day, published publicly |
 | Državni arhiv u Dubrovniku | via ARHiNET / APE | Ragusan notarial and *collegantia* material ⚠️ digitisation status unresearched |
 
 ## Tier 3 — corpora already transcribed
@@ -152,6 +153,37 @@ Four independent constructions inside one legal culture. Shared ancestral condit
 - [[Archivio Storico del Monte dei Paschi di Siena]] — a *monte di pietà* of 1472 that never stopped operating
 - [[Archivio di Stato di Napoli]] — the state counterpart to the Banco; note the 1943 destruction and what it does to arguments from absence
 
+## The Netherlands — repository notes
+
+**The structural fact about the Netherlands is that there is no structural obstacle.** Spain's is devolved custody under a unified catalogue; Italy's is unified custody under three catalogues that do not image. The Dutch have neither — and they have what neither of the others has, an **open-data mandate that reaches the scans**: CC0 inventories and scans, OAI-PMH harvesting, 300 dpi downloads. Several archives will also **digitise on request for nothing** and publish the result.
+
+The caution travels with the convenience. This material will be easier to work than anything else in the European set, and that is a fact about Dutch science policy after 2010, not about the seventeenth century.
+
+**The access layers**
+
+- [[Dutch archives online - the access layers]] — the licence position, the harvesting route, and what free scanning on demand does to the acquisitions calculus
+- [[Delpher - the full-text layer]] — 18M+ newspaper pages, full-text, with the 1618–1879 texts downloadable as open data. Price currents, shipping intelligence, insurance notices, bankruptcy notices
+
+**Amsterdam — four series, and the richest match in the whole survey**
+
+- [[Stadsarchief Amsterdam - the notarial archive]] — the only notarial archive in Europe at layer 3
+- [[Averijgrossen - the general average adjudications]] — 1700–1810, indexed, scans linked, **recording how liability was distributed between skipper and cargo owners**. A coded form with a serial adjudication record
+- [[Kamer van Assurantie en Averij - Amsterdam]] — a standing court for marine insurance from **1598**, four years before the VOC charter
+- [[Desolate Boedelkamer - Amsterdam]] — the bankruptcy chamber; the best candidate anywhere for the missing creditor limb
+
+**The companies**
+
+- [[Nationaal Archief - The Hague]] — `1.04.02` VOC, `1.05` WIC, the Staten-Generaal
+- [[Hof van Holland - the civil litigation record]] — `3.03.01.01`, 1428–1811, *Civiele sententies* separately indexed
+- [[Zeeuws Archief - the Zeeland chamber and the MCC]] — toegang `20`, MCC 1720–1889, UNESCO Memory of the World; a complete company archive of modest size
+- [[Westfries Archief - the Hoorn and Enkhuizen chambers]] — the small chambers, and locked-in minority participation
+
+**The rest**
+
+- [[Gemeentearchief Zaanstad - the partenrederij country]] — `OA-0020` and `OA-0170`; where a single-witness row could be repaired from instruments
+- [[Stadsarchief Rotterdam - the notarial archive and scanning on demand]] — the second maritime notariate, and the cheap independence test
+- [[IISG and NEHA - Amsterdam]] — business archives, price currents, and the mutual and cooperative records the entity census is short of
+
 ## Where each coded form's records sit
 
 First pass, to be corrected as the register is built. ⚠️ marks a placement that has not been verified against a finding aid.
@@ -160,16 +192,17 @@ First pass, to be corrected as the register is built. ⚠️ marks a placement t
 |---|---|---|---|
 | Commenda / collegantia | [[Archivio di Stato di Venezia]], [[Archivio di Stato di Genova]], DADU | `Notarile`; *Notai Antichi* | 1–2 |
 | Fraterna compagnia | [[Archivio di Stato di Venezia]] | `Notarile`, `Giudici di Petizion` ⚠️ | 1 |
-| Bodemerij | Stadsarchief Amsterdam | Notarieel archief | **3** |
-| Partenrederij | Stadsarchief Amsterdam; Zaanstreek regional ⚠️ | Notarieel archief | 3 / 1 |
+| Bodemerij | [[Stadsarchief Amsterdam - the notarial archive]] | Notarieel archief | **3** |
+| Partenrederij | [[Stadsarchief Amsterdam - the notarial archive]]; [[Gemeentearchief Zaanstad - the partenrederij country]] | Notarieel archief; `OA-0020`, `OA-0170` | 3 / 1 ⚠️ |
 | Begijnhof | Belgian city archives, Rijksarchief, KADOC ⚠️ | unidentified | 1 ⚠️ |
 | Naties | Antwerp FelixArchief, Bruges city archives ⚠️ | — | 1 ⚠️ |
 | Bazacle | Archives départementales de la Haute-Garonne | ⚠️ series not yet identified | 1 ⚠️ |
 | Deed of settlement company | TNA Kew | `BT 41`, `BT 31`, `BT 34` | **1 only** |
 | Chartered corporation | TNA Kew | charters; Patent Rolls `C 66` ⚠️ | 1 |
 | Mutual pole / friendly societies | TNA Kew | `FS` — Registry of Friendly Societies ⚠️ subseries | 1 |
+| General average | [[Averijgrossen - the general average adjudications]] | Schout en Schepenen, *Vonnissen ter zaken van Averij Grosse* 1700–1810 | **2, indexed** |
 | Asiento de avería | [[Archivo General de Indias - Sevilla]] | `CONSULADOS`, `CONTADURIA`, `INDIFERENTE GENERAL` ⚠️ | 2 (partial) |
-| VOC | Nationaal Archief; Zeeuws Archief | `NL-HaNA 1.04.02`; Zeeland chamber | 3 / 1 |
+| VOC | [[Nationaal Archief - The Hague]]; [[Zeeuws Archief - the Zeeland chamber and the MCC]]; [[Westfries Archief - the Hoorn and Enkhuizen chambers]] | `1.04.02`; Zeeland, Hoorn and Enkhuizen chambers | 3 / 1 |
 
 ## Where this hub meets the others
 
