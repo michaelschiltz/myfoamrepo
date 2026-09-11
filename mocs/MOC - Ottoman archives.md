@@ -70,7 +70,7 @@ Regional hub, the first of the non-European passes, linked from the country tabl
 | Cairo | — | 1,851 | 1530 |
 | Crimea | St Petersburg | 121 | 1601 |
 
-**Cairo goes with the Geniza pass**, where the city is already a destination. **Damascus and Aleppo are not a desk question.** Thessaloniki is the one to promote first: Aydın 2015 on Salonica cash waqfs is in the census's library.
+**Cairo goes with the Geniza pass**, where the city is already a destination — and that pass found the Geniza is not in Cairo, so the trip is Ottoman after all: see [[Cairo - what the Geniza trip does and does not need]]. **Damascus and Aleppo are not a desk question.** Thessaloniki is the one to promote first: Aydın 2015 on Salonica cash waqfs is in the census's library.
 
 ## Where each coded form's records sit
 

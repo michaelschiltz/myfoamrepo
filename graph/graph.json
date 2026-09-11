@@ -694,6 +694,15 @@
       "shape": "dot"
     },
     {
+      "id": "Bodleian Library - the Oxford Genizah fragments",
+      "type": "reference",
+      "group": "reference",
+      "label": "Bodleian Library - the Oxford Genizah fragments",
+      "value": 7,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
       "id": "Bodmerei - where the German bottomry records are",
       "type": "reference",
       "group": "reference",
@@ -770,6 +779,33 @@
       "type": "reference",
       "group": "reference",
       "label": "C 66 - the Patent Rolls and the charters",
+      "value": 12,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "Cairo - what the Geniza trip does and does not need",
+      "type": "reference",
+      "group": "reference",
+      "label": "Cairo - what the Geniza trip does and does not need",
+      "value": 11,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "Cairo Geniza - the deposit and its survival rule",
+      "type": "reference",
+      "group": "reference",
+      "label": "Cairo Geniza - the deposit and its survival rule",
+      "value": 18,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "Cambridge University Library - the Taylor-Schechter Genizah Collection",
+      "type": "reference",
+      "group": "reference",
+      "label": "Cambridge University Library - the Taylor-Schechter Genizah Collection",
       "value": 12,
       "color": "#66a61e",
       "shape": "dot"
@@ -1198,6 +1234,15 @@
       "shape": "dot"
     },
     {
+      "id": "Friedberg Genizah Project and Ktiv - the image union layer",
+      "type": "reference",
+      "group": "reference",
+      "label": "Friedberg Genizah Project and Ktiv - the image union layer",
+      "value": 17,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
       "id": "Fuggerarchiv - Dillingen",
       "type": "reference",
       "group": "reference",
@@ -1279,6 +1324,15 @@
       "shape": "dot"
     },
     {
+      "id": "Geniza partnership documents - where the census's isqa and qirad evidence sits",
+      "type": "reference",
+      "group": "reference",
+      "label": "Geniza partnership documents - where the census's isqa and qirad evidence sits",
+      "value": 20,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
       "id": "German archives online - the federal access layers",
       "type": "reference",
       "group": "reference",
@@ -1328,7 +1382,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Handoff - the non-European archive survey",
-      "value": 24,
+      "value": 29,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1427,7 +1481,7 @@
       "type": "reference",
       "group": "reference",
       "label": "ISAM Library Archive - the court register image collection",
-      "value": 16,
+      "value": 17,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1499,7 +1553,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Isqa qirad and commenda are a liability-variable triad",
-      "value": 32,
+      "value": 33,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1508,7 +1562,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Isqa reading list to acquire",
-      "value": 17,
+      "value": 18,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1540,6 +1594,15 @@
       "shape": "dot"
     },
     {
+      "id": "JTS Library - the Elkan Nathan Adler Geniza collection",
+      "type": "reference",
+      "group": "reference",
+      "label": "JTS Library - the Elkan Nathan Adler Geniza collection",
+      "value": 9,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
       "id": "Jensen gap",
       "type": "permanent",
       "group": "stub",
@@ -1555,6 +1618,15 @@
       "label": "Jensen supplies the gap but only the dynamic privileges the logarithm",
       "value": 34,
       "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "John Rylands Library - the Rylands Genizah Collection",
+      "type": "reference",
+      "group": "reference",
+      "label": "John Rylands Library - the Rylands Genizah Collection",
+      "value": 5,
+      "color": "#66a61e",
       "shape": "dot"
     },
     {
@@ -1738,6 +1810,15 @@
       "shape": "dot"
     },
     {
+      "id": "MiDRASH - the machine transcription of the Geniza",
+      "type": "reference",
+      "group": "reference",
+      "label": "MiDRASH - the machine transcription of the Geniza",
+      "value": 15,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
       "id": "Milli Kutuphane - Ankara",
       "type": "reference",
       "group": "reference",
@@ -1815,6 +1896,15 @@
       "group": "reference",
       "label": "National Library Sofia - the Oriental Department and the 1931 sale",
       "value": 9,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "National Library of Russia - the Firkovich and Antonin collections",
+      "type": "reference",
+      "group": "reference",
+      "label": "National Library of Russia - the Firkovich and Antonin collections",
+      "value": 6,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1913,7 +2003,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Open-source HTR stack - eScriptorium Kraken Loghi",
-      "value": 19,
+      "value": 20,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -2044,6 +2134,15 @@
       "shape": "dot"
     },
     {
+      "id": "Princeton Geniza Project - the documentary database",
+      "type": "reference",
+      "group": "reference",
+      "label": "Princeton Geniza Project - the documentary database",
+      "value": 13,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
       "id": "Pure multiplicative dynamics are permutation-invariant",
       "type": "permanent",
       "group": "seed",
@@ -2093,7 +2192,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Refusals are observations of the filter not inferences from survivors",
-      "value": 111,
+      "value": 112,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -2705,7 +2804,7 @@
       "type": "reference",
       "group": "reference",
       "label": "The Sound Toll Registers",
-      "value": 22,
+      "value": 23,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -2813,7 +2912,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The commenda and the qirad do not separate on loss allocation",
-      "value": 29,
+      "value": 30,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -2849,7 +2948,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The deficit reading of absence is the scalar ranking in evidentiary form",
-      "value": 46,
+      "value": 47,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -2975,7 +3074,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The isqa refuses the agent's shield",
-      "value": 35,
+      "value": 36,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -3166,6 +3265,15 @@
       "label": "The selective claim is falsifiable where the prescriptive claim is not",
       "value": 37,
       "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "The smaller Geniza collections",
+      "type": "reference",
+      "group": "reference",
+      "label": "The smaller Geniza collections",
+      "value": 8,
+      "color": "#66a61e",
       "shape": "dot"
     },
     {
@@ -3407,7 +3515,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Vakiflar Genel Mudurlugu Arsivi - Ankara",
-      "value": 18,
+      "value": 19,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -3524,7 +3632,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Acquisitions and the antiquarian trade",
-      "value": 41,
+      "value": 45,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -3569,7 +3677,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Digitisation and text recognition",
-      "value": 39,
+      "value": 41,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -3587,7 +3695,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - ERC Synergy Grant",
-      "value": 66,
+      "value": 67,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -3614,7 +3722,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - European archives and digital collections",
-      "value": 149,
+      "value": 154,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -3624,6 +3732,15 @@
       "group": "moc",
       "label": "MOC - French archives",
       "value": 59,
+      "color": "#d95f02",
+      "shape": "dot"
+    },
+    {
+      "id": "MOC - Geniza archives",
+      "type": "moc",
+      "group": "moc",
+      "label": "MOC - Geniza archives",
+      "value": 43,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -3659,7 +3776,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Islamic contract doctrine",
-      "value": 49,
+      "value": 50,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -3686,7 +3803,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Ottoman archives",
-      "value": 67,
+      "value": 72,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -6064,6 +6181,18 @@
       "to": "The naties are a six-century Lindy institution"
     },
     {
+      "from": "Bodleian Library - the Oxford Genizah fragments",
+      "to": "Cambridge University Library - the Taylor-Schechter Genizah Collection"
+    },
+    {
+      "from": "Bodleian Library - the Oxford Genizah fragments",
+      "to": "Geniza partnership documents - where the census's isqa and qirad evidence sits"
+    },
+    {
+      "from": "Bodleian Library - the Oxford Genizah fragments",
+      "to": "MOC - Geniza archives"
+    },
+    {
       "from": "Bodmerei - where the German bottomry records are",
       "to": "Archiv der Hansestadt Lubeck"
     },
@@ -6366,6 +6495,82 @@
     {
       "from": "C 66 - the Patent Rolls and the charters",
       "to": "The National Archives - Kew"
+    },
+    {
+      "from": "Cairo - what the Geniza trip does and does not need",
+      "to": "Cairo Geniza - the deposit and its survival rule"
+    },
+    {
+      "from": "Cairo - what the Geniza trip does and does not need",
+      "to": "Cambridge University Library - the Taylor-Schechter Genizah Collection"
+    },
+    {
+      "from": "Cairo - what the Geniza trip does and does not need",
+      "to": "Friedberg Genizah Project and Ktiv - the image union layer"
+    },
+    {
+      "from": "Cairo - what the Geniza trip does and does not need",
+      "to": "MOC - Geniza archives"
+    },
+    {
+      "from": "Cairo - what the Geniza trip does and does not need",
+      "to": "MOC - Ottoman archives"
+    },
+    {
+      "from": "Cairo - what the Geniza trip does and does not need",
+      "to": "MiDRASH - the machine transcription of the Geniza"
+    },
+    {
+      "from": "Cairo - what the Geniza trip does and does not need",
+      "to": "Vakiflar Genel Mudurlugu Arsivi - Ankara"
+    },
+    {
+      "from": "Cairo Geniza - the deposit and its survival rule",
+      "to": "Friedberg Genizah Project and Ktiv - the image union layer"
+    },
+    {
+      "from": "Cairo Geniza - the deposit and its survival rule",
+      "to": "Geniza partnership documents - where the census's isqa and qirad evidence sits"
+    },
+    {
+      "from": "Cairo Geniza - the deposit and its survival rule",
+      "to": "MOC - Acquisitions and the antiquarian trade"
+    },
+    {
+      "from": "Cairo Geniza - the deposit and its survival rule",
+      "to": "MOC - Geniza archives"
+    },
+    {
+      "from": "Cairo Geniza - the deposit and its survival rule",
+      "to": "Refusals are observations of the filter not inferences from survivors"
+    },
+    {
+      "from": "Cairo Geniza - the deposit and its survival rule",
+      "to": "The deficit reading of absence is the scalar ranking in evidentiary form"
+    },
+    {
+      "from": "Cambridge University Library - the Taylor-Schechter Genizah Collection",
+      "to": "Bodleian Library - the Oxford Genizah fragments"
+    },
+    {
+      "from": "Cambridge University Library - the Taylor-Schechter Genizah Collection",
+      "to": "Cairo Geniza - the deposit and its survival rule"
+    },
+    {
+      "from": "Cambridge University Library - the Taylor-Schechter Genizah Collection",
+      "to": "Friedberg Genizah Project and Ktiv - the image union layer"
+    },
+    {
+      "from": "Cambridge University Library - the Taylor-Schechter Genizah Collection",
+      "to": "MOC - Geniza archives"
+    },
+    {
+      "from": "Cambridge University Library - the Taylor-Schechter Genizah Collection",
+      "to": "MiDRASH - the machine transcription of the Geniza"
+    },
+    {
+      "from": "Cambridge University Library - the Taylor-Schechter Genizah Collection",
+      "to": "Princeton Geniza Project - the documentary database"
     },
     {
       "from": "Casa di San Giorgio - the Genoese public debt archive",
@@ -7964,6 +8169,26 @@
       "to": "The archives departementales system"
     },
     {
+      "from": "Friedberg Genizah Project and Ktiv - the image union layer",
+      "to": "Cairo Geniza - the deposit and its survival rule"
+    },
+    {
+      "from": "Friedberg Genizah Project and Ktiv - the image union layer",
+      "to": "ISAM Library Archive - the court register image collection"
+    },
+    {
+      "from": "Friedberg Genizah Project and Ktiv - the image union layer",
+      "to": "MOC - European archives and digital collections"
+    },
+    {
+      "from": "Friedberg Genizah Project and Ktiv - the image union layer",
+      "to": "MOC - Geniza archives"
+    },
+    {
+      "from": "Friedberg Genizah Project and Ktiv - the image union layer",
+      "to": "MiDRASH - the machine transcription of the Geniza"
+    },
+    {
       "from": "Fuggerarchiv - Dillingen",
       "to": "Archivio Storico del Monte dei Paschi di Siena"
     },
@@ -8280,6 +8505,54 @@
       "to": "loss_mitigation_forms"
     },
     {
+      "from": "Geniza partnership documents - where the census's isqa and qirad evidence sits",
+      "to": "Bodleian Library - the Oxford Genizah fragments"
+    },
+    {
+      "from": "Geniza partnership documents - where the census's isqa and qirad evidence sits",
+      "to": "Cairo Geniza - the deposit and its survival rule"
+    },
+    {
+      "from": "Geniza partnership documents - where the census's isqa and qirad evidence sits",
+      "to": "Cambridge University Library - the Taylor-Schechter Genizah Collection"
+    },
+    {
+      "from": "Geniza partnership documents - where the census's isqa and qirad evidence sits",
+      "to": "Handoff - the non-European archive survey"
+    },
+    {
+      "from": "Geniza partnership documents - where the census's isqa and qirad evidence sits",
+      "to": "Isqa qirad and commenda are a liability-variable triad"
+    },
+    {
+      "from": "Geniza partnership documents - where the census's isqa and qirad evidence sits",
+      "to": "Isqa reading list to acquire"
+    },
+    {
+      "from": "Geniza partnership documents - where the census's isqa and qirad evidence sits",
+      "to": "JTS Library - the Elkan Nathan Adler Geniza collection"
+    },
+    {
+      "from": "Geniza partnership documents - where the census's isqa and qirad evidence sits",
+      "to": "MOC - Geniza archives"
+    },
+    {
+      "from": "Geniza partnership documents - where the census's isqa and qirad evidence sits",
+      "to": "MiDRASH - the machine transcription of the Geniza"
+    },
+    {
+      "from": "Geniza partnership documents - where the census's isqa and qirad evidence sits",
+      "to": "Princeton Geniza Project - the documentary database"
+    },
+    {
+      "from": "Geniza partnership documents - where the census's isqa and qirad evidence sits",
+      "to": "The commenda and the qirad do not separate on loss allocation"
+    },
+    {
+      "from": "Geniza partnership documents - where the census's isqa and qirad evidence sits",
+      "to": "The isqa refuses the agent's shield"
+    },
+    {
       "from": "German archives online - the federal access layers",
       "to": "Deutsches Zeitungsportal - the German full-text layer"
     },
@@ -8450,6 +8723,10 @@
     {
       "from": "Handoff - the non-European archive survey",
       "to": "MOC - European archives and digital collections"
+    },
+    {
+      "from": "Handoff - the non-European archive survey",
+      "to": "MOC - Geniza archives"
     },
     {
       "from": "Handoff - the non-European archive survey",
@@ -9188,6 +9465,26 @@
       "to": "The VOC-EIC digital asymmetry is an access regime not a survival difference"
     },
     {
+      "from": "JTS Library - the Elkan Nathan Adler Geniza collection",
+      "to": "Cambridge University Library - the Taylor-Schechter Genizah Collection"
+    },
+    {
+      "from": "JTS Library - the Elkan Nathan Adler Geniza collection",
+      "to": "Friedberg Genizah Project and Ktiv - the image union layer"
+    },
+    {
+      "from": "JTS Library - the Elkan Nathan Adler Geniza collection",
+      "to": "Geniza partnership documents - where the census's isqa and qirad evidence sits"
+    },
+    {
+      "from": "JTS Library - the Elkan Nathan Adler Geniza collection",
+      "to": "MOC - Geniza archives"
+    },
+    {
+      "from": "JTS Library - the Elkan Nathan Adler Geniza collection",
+      "to": "Princeton Geniza Project - the documentary database"
+    },
+    {
       "from": "Jensen gap",
       "to": "Entity-shielding"
     },
@@ -9254,6 +9551,18 @@
     {
       "from": "Jensen supplies the gap but only the dynamic privileges the logarithm",
       "to": "Time-average"
+    },
+    {
+      "from": "John Rylands Library - the Rylands Genizah Collection",
+      "to": "Friedberg Genizah Project and Ktiv - the image union layer"
+    },
+    {
+      "from": "John Rylands Library - the Rylands Genizah Collection",
+      "to": "MOC - Geniza archives"
+    },
+    {
+      "from": "John Rylands Library - the Rylands Genizah Collection",
+      "to": "The smaller Geniza collections"
     },
     {
       "from": "Juridictions consulaires - the merchant courts",
@@ -11041,6 +11350,10 @@
     },
     {
       "from": "MOC - European archives and digital collections",
+      "to": "MOC - Geniza archives"
+    },
+    {
+      "from": "MOC - European archives and digital collections",
       "to": "MOC - German archives"
     },
     {
@@ -11262,6 +11575,82 @@
     {
       "from": "MOC - French archives",
       "to": "The archives departementales system"
+    },
+    {
+      "from": "MOC - Geniza archives",
+      "to": "Bodleian Library - the Oxford Genizah fragments"
+    },
+    {
+      "from": "MOC - Geniza archives",
+      "to": "Cairo - what the Geniza trip does and does not need"
+    },
+    {
+      "from": "MOC - Geniza archives",
+      "to": "Cairo Geniza - the deposit and its survival rule"
+    },
+    {
+      "from": "MOC - Geniza archives",
+      "to": "Cambridge University Library - the Taylor-Schechter Genizah Collection"
+    },
+    {
+      "from": "MOC - Geniza archives",
+      "to": "Friedberg Genizah Project and Ktiv - the image union layer"
+    },
+    {
+      "from": "MOC - Geniza archives",
+      "to": "Geniza partnership documents - where the census's isqa and qirad evidence sits"
+    },
+    {
+      "from": "MOC - Geniza archives",
+      "to": "Handoff - the non-European archive survey"
+    },
+    {
+      "from": "MOC - Geniza archives",
+      "to": "JTS Library - the Elkan Nathan Adler Geniza collection"
+    },
+    {
+      "from": "MOC - Geniza archives",
+      "to": "John Rylands Library - the Rylands Genizah Collection"
+    },
+    {
+      "from": "MOC - Geniza archives",
+      "to": "MOC - Acquisitions and the antiquarian trade"
+    },
+    {
+      "from": "MOC - Geniza archives",
+      "to": "MOC - Digitisation and text recognition"
+    },
+    {
+      "from": "MOC - Geniza archives",
+      "to": "MOC - ERC Synergy Grant"
+    },
+    {
+      "from": "MOC - Geniza archives",
+      "to": "MOC - European archives and digital collections"
+    },
+    {
+      "from": "MOC - Geniza archives",
+      "to": "MOC - Islamic contract doctrine"
+    },
+    {
+      "from": "MOC - Geniza archives",
+      "to": "MOC - Ottoman archives"
+    },
+    {
+      "from": "MOC - Geniza archives",
+      "to": "MiDRASH - the machine transcription of the Geniza"
+    },
+    {
+      "from": "MOC - Geniza archives",
+      "to": "National Library of Russia - the Firkovich and Antonin collections"
+    },
+    {
+      "from": "MOC - Geniza archives",
+      "to": "Princeton Geniza Project - the documentary database"
+    },
+    {
+      "from": "MOC - Geniza archives",
+      "to": "The smaller Geniza collections"
     },
     {
       "from": "MOC - German archives",
@@ -12497,6 +12886,10 @@
     },
     {
       "from": "MOC - Ottoman archives",
+      "to": "Cairo - what the Geniza trip does and does not need"
+    },
+    {
+      "from": "MOC - Ottoman archives",
       "to": "Duvel-i Ecnebiye - the Istanbul side of the Ragusan relationship"
     },
     {
@@ -12988,6 +13381,30 @@
       "to": "The QDL corpus is conditioned on its funder's geography"
     },
     {
+      "from": "MiDRASH - the machine transcription of the Geniza",
+      "to": "Friedberg Genizah Project and Ktiv - the image union layer"
+    },
+    {
+      "from": "MiDRASH - the machine transcription of the Geniza",
+      "to": "Geniza partnership documents - where the census's isqa and qirad evidence sits"
+    },
+    {
+      "from": "MiDRASH - the machine transcription of the Geniza",
+      "to": "MOC - Digitisation and text recognition"
+    },
+    {
+      "from": "MiDRASH - the machine transcription of the Geniza",
+      "to": "MOC - Geniza archives"
+    },
+    {
+      "from": "MiDRASH - the machine transcription of the Geniza",
+      "to": "Open-source HTR stack - eScriptorium Kraken Loghi"
+    },
+    {
+      "from": "MiDRASH - the machine transcription of the Geniza",
+      "to": "Princeton Geniza Project - the documentary database"
+    },
+    {
       "from": "Milli Kutuphane - Ankara",
       "to": "MOC - Acquisitions and the antiquarian trade"
     },
@@ -13214,6 +13631,18 @@
     {
       "from": "National Library Sofia - the Oriental Department and the 1931 sale",
       "to": "The tasnif collections - subject classification over provenance"
+    },
+    {
+      "from": "National Library of Russia - the Firkovich and Antonin collections",
+      "to": "Cairo Geniza - the deposit and its survival rule"
+    },
+    {
+      "from": "National Library of Russia - the Firkovich and Antonin collections",
+      "to": "Friedberg Genizah Project and Ktiv - the image union layer"
+    },
+    {
+      "from": "National Library of Russia - the Firkovich and Antonin collections",
+      "to": "MOC - Geniza archives"
     },
     {
       "from": "National Library of Wales",
@@ -14034,6 +14463,30 @@
     {
       "from": "Pricing risk does not remove it",
       "to": "Time-average"
+    },
+    {
+      "from": "Princeton Geniza Project - the documentary database",
+      "to": "Cairo Geniza - the deposit and its survival rule"
+    },
+    {
+      "from": "Princeton Geniza Project - the documentary database",
+      "to": "Geniza partnership documents - where the census's isqa and qirad evidence sits"
+    },
+    {
+      "from": "Princeton Geniza Project - the documentary database",
+      "to": "JTS Library - the Elkan Nathan Adler Geniza collection"
+    },
+    {
+      "from": "Princeton Geniza Project - the documentary database",
+      "to": "MOC - Geniza archives"
+    },
+    {
+      "from": "Princeton Geniza Project - the documentary database",
+      "to": "MiDRASH - the machine transcription of the Geniza"
+    },
+    {
+      "from": "Princeton Geniza Project - the documentary database",
+      "to": "The Sound Toll Registers"
     },
     {
       "from": "Pure multiplicative dynamics are permutation-invariant",
@@ -18134,6 +18587,22 @@
     {
       "from": "The selective claim is falsifiable where the prescriptive claim is not",
       "to": "Toda 2023 on ergodicity economics as pseudoscience"
+    },
+    {
+      "from": "The smaller Geniza collections",
+      "to": "Cairo Geniza - the deposit and its survival rule"
+    },
+    {
+      "from": "The smaller Geniza collections",
+      "to": "Friedberg Genizah Project and Ktiv - the image union layer"
+    },
+    {
+      "from": "The smaller Geniza collections",
+      "to": "MOC - Geniza archives"
+    },
+    {
+      "from": "The smaller Geniza collections",
+      "to": "MiDRASH - the machine transcription of the Geniza"
     },
     {
       "from": "The split is over whether the explanandum is a state or a trajectory",

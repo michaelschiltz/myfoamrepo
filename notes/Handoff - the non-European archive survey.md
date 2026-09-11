@@ -50,12 +50,14 @@ For each country: establish **the structural fact** — what the country's archi
 ## Progress
 
 - **Ottoman — done, 11 September 2026.** [[MOC - Ottoman archives]]. The Dubrovnik start held; the script prediction was right and understated — the census's Ottoman rows are accounts, and accounts are in siyakat; successor custody recurred with the waqf in a stronger form than predicted.
-- Geniza, Japan, China, South Asia — not started.
+- **Geniza — done, 11 September 2026.** [[MOC - Geniza archives]]. Better served digitally than expected — images of the whole deposit online and a machine transcription released in 2025 — so the binding constraints moved from access and script to the denominator and the deposit's positionality. The `isqa_alloc` dispute turned out to be a record-type difference.
+- Japan, China, South Asia — not started. South Asia waits on Decision_log D4.
 
 ## Links
 
 - [[MOC - European archives and digital collections]]
 - [[MOC - Ottoman archives]]
+- [[MOC - Geniza archives]]
 - [[The Ottoman documents at Dubrovnik]]
 - [[MOC - Digitisation and text recognition]]
 - [[MOC - Acquisitions and the antiquarian trade]]
