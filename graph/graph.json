@@ -50,7 +50,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "A migrated institution collects local names not local forms",
-      "value": 35,
+      "value": 37,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -212,7 +212,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Antwerp schepenregisters and the regesten",
-      "value": 10,
+      "value": 11,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -239,7 +239,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Archiv der Hansestadt Lubeck",
-      "value": 16,
+      "value": 21,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -284,7 +284,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Archives departementales de la Loire-Atlantique - Nantes",
-      "value": 15,
+      "value": 16,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -320,7 +320,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Archives diplomatiques - La Courneuve and Nantes",
-      "value": 10,
+      "value": 11,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -356,7 +356,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Archives nationales du monde du travail - Roubaix",
-      "value": 12,
+      "value": 15,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -595,6 +595,15 @@
       "shape": "dot"
     },
     {
+      "id": "Asiatisk Kompagni and the Danish trading companies",
+      "type": "reference",
+      "group": "reference",
+      "label": "Asiatisk Kompagni and the Danish trading companies",
+      "value": 14,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
       "id": "Attractor selection bounds what a persistence design can resolve",
       "type": "permanent",
       "group": "seed",
@@ -608,7 +617,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Averijgrossen - the general average adjudications",
-      "value": 19,
+      "value": 21,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -644,7 +653,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Belgian archives online - the access layers",
-      "value": 25,
+      "value": 27,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -658,11 +667,20 @@
       "shape": "dot"
     },
     {
+      "id": "Bergen and the Hanseatic Kontor",
+      "type": "reference",
+      "group": "reference",
+      "label": "Bergen and the Hanseatic Kontor",
+      "value": 19,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
       "id": "Bodmerei - where the German bottomry records are",
       "type": "reference",
       "group": "reference",
       "label": "Bodmerei - where the German bottomry records are",
-      "value": 16,
+      "value": 18,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -712,6 +730,15 @@
       "shape": "dot"
     },
     {
+      "id": "Centrum for Naringslivshistoria - Stockholm",
+      "type": "reference",
+      "group": "reference",
+      "label": "Centrum for Naringslivshistoria - Stockholm",
+      "value": 15,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
       "id": "Chambre de commerce de Marseille - the 1599 archive",
       "type": "reference",
       "group": "reference",
@@ -725,7 +752,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Consulado de Burgos - the universidad de mercaderes",
-      "value": 19,
+      "value": 20,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -779,7 +806,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Delpher - the full-text layer",
-      "value": 20,
+      "value": 21,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -820,6 +847,15 @@
       "shape": "dot"
     },
     {
+      "id": "Digitalarkivet and the Norwegian archives",
+      "type": "reference",
+      "group": "reference",
+      "label": "Digitalarkivet and the Norwegian archives",
+      "value": 9,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
       "id": "Discipline the Whig epithet by pinning it to teleology and survivorship",
       "type": "permanent",
       "group": "seed",
@@ -842,7 +878,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Divergent arbitrary particulars are the independence diagnostic",
-      "value": 54,
+      "value": 56,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -878,7 +914,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Dutch archives online - the access layers",
-      "value": 26,
+      "value": 27,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1049,7 +1085,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Fuggerarchiv - Dillingen",
-      "value": 15,
+      "value": 19,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1103,7 +1139,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Geheimes Staatsarchiv Preussischer Kulturbesitz - Berlin",
-      "value": 10,
+      "value": 14,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1112,7 +1148,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Gemeentearchief Zaanstad - the partenrederij country",
-      "value": 13,
+      "value": 14,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1157,7 +1193,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Hanse documents on the Memory of the World register",
-      "value": 15,
+      "value": 17,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1211,7 +1247,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Hof van Holland - the civil litigation record",
-      "value": 21,
+      "value": 22,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1229,7 +1265,7 @@
       "type": "reference",
       "group": "reference",
       "label": "IISG and NEHA - Amsterdam",
-      "value": 19,
+      "value": 21,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1238,7 +1274,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Identity-wrapper and perpetual-monopoly are distinct shielding facets",
-      "value": 25,
+      "value": 29,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1247,7 +1283,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Independence of apparatus is not independence of question",
-      "value": 27,
+      "value": 28,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1319,7 +1355,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Itinera Nova - the Leuven aldermen's registers",
-      "value": 15,
+      "value": 17,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1355,7 +1391,7 @@
       "type": "reference",
       "group": "reference",
       "label": "KADOC - religious archives at Leuven",
-      "value": 15,
+      "value": 16,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1365,6 +1401,15 @@
       "group": "reference",
       "label": "Kamer van Assurantie en Averij - Amsterdam",
       "value": 14,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "Kansallisarkisto - Finland",
+      "type": "reference",
+      "group": "reference",
+      "label": "Kansallisarkisto - Finland",
+      "value": 8,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1427,7 +1472,7 @@
       "type": "source",
       "group": "source",
       "label": "Le Bris Goetzmann Pouget 2023 on convergent evolution toward the joint-stock company",
-      "value": 23,
+      "value": 25,
       "color": "#7570b3",
       "shape": "dot"
     },
@@ -1508,7 +1553,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Natie archives - where the Antwerp nations records are",
-      "value": 27,
+      "value": 30,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1571,7 +1616,16 @@
       "type": "reference",
       "group": "reference",
       "label": "Noord-Hollands Archief - Haarlem",
-      "value": 12,
+      "value": 13,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "Nordic archives online - the access layers",
+      "type": "reference",
+      "group": "reference",
+      "label": "Nordic archives online - the access layers",
+      "value": 19,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1598,7 +1652,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Open-source HTR stack - eScriptorium Kraken Loghi",
-      "value": 17,
+      "value": 19,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1661,7 +1715,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Persistence samples are conditioned on non-absorption",
-      "value": 58,
+      "value": 59,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1751,7 +1805,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Refusals are observations of the filter not inferences from survivors",
-      "value": 99,
+      "value": 100,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1801,6 +1855,15 @@
       "shape": "dot"
     },
     {
+      "id": "Rigsarkivet Denmark - Daisy and Arkivalieronline",
+      "type": "reference",
+      "group": "reference",
+      "label": "Rigsarkivet Denmark - Daisy and Arkivalieronline",
+      "value": 16,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
       "id": "Rijksarchief in Belgie - the state archives network",
       "type": "reference",
       "group": "reference",
@@ -1824,6 +1887,15 @@
       "group": "reference",
       "label": "Rijksarchief te Luik en Namen - the Walloon repositories",
       "value": 8,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "Riksarkivet Sweden - the national archives and the AI lab",
+      "type": "reference",
+      "group": "reference",
+      "label": "Riksarkivet Sweden - the national archives and the AI lab",
+      "value": 16,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1886,7 +1958,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Service historique de la Defense - Lorient and the Compagnie des Indes",
-      "value": 13,
+      "value": 16,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1967,7 +2039,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Stadsarchief Brugge - the Hanse and the nations",
-      "value": 13,
+      "value": 14,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -2053,12 +2125,39 @@
       "shape": "dot"
     },
     {
+      "id": "Stockholms stadsarkiv and the Swedish town records",
+      "type": "reference",
+      "group": "reference",
+      "label": "Stockholms stadsarkiv and the Swedish town records",
+      "value": 12,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
       "id": "Stoic loci on cooperation - only two argue from interdependence",
       "type": "source",
       "group": "source",
       "label": "Stoic loci on cooperation - only two argue from interdependence",
       "value": 11,
       "color": "#7570b3",
+      "shape": "dot"
+    },
+    {
+      "id": "Stora Kopparberg - the 1288 share",
+      "type": "reference",
+      "group": "reference",
+      "label": "Stora Kopparberg - the 1288 share",
+      "value": 18,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "Svenska Ostindiska Companiet - the Gothenburg archive",
+      "type": "reference",
+      "group": "reference",
+      "label": "Svenska Ostindiska Companiet - the Gothenburg archive",
+      "value": 12,
+      "color": "#66a61e",
       "shape": "dot"
     },
     {
@@ -2102,7 +2201,7 @@
       "type": "reference",
       "group": "reference",
       "label": "The Bazacle records - a custody problem",
-      "value": 18,
+      "value": 21,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -2129,7 +2228,7 @@
       "type": "reference",
       "group": "reference",
       "label": "The German Wirtschaftsarchive - a distributed business archive",
-      "value": 12,
+      "value": 14,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -2143,11 +2242,20 @@
       "shape": "dot"
     },
     {
+      "id": "The Nordic thinness - what is actually missing",
+      "type": "reference",
+      "group": "reference",
+      "label": "The Nordic thinness - what is actually missing",
+      "value": 17,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
       "id": "The QDL corpus is conditioned on its funder's geography",
       "type": "permanent",
       "group": "seed",
       "label": "The QDL corpus is conditioned on its funder's geography",
-      "value": 19,
+      "value": 20,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -2161,11 +2269,20 @@
       "shape": "dot"
     },
     {
+      "id": "The Sound Toll Registers",
+      "type": "reference",
+      "group": "reference",
+      "label": "The Sound Toll Registers",
+      "value": 19,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
       "id": "The VOC-EIC digital asymmetry is an access regime not a survival difference",
       "type": "permanent",
       "group": "seed",
       "label": "The VOC-EIC digital asymmetry is an access regime not a survival difference",
-      "value": 42,
+      "value": 45,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -2183,7 +2300,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The alleenrecht is monopoly held as tradable property",
-      "value": 17,
+      "value": 18,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -2291,7 +2408,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The deficit reading of absence is the scalar ranking in evidentiary form",
-      "value": 44,
+      "value": 45,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -2516,7 +2633,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The naties are a six-century Lindy institution",
-      "value": 32,
+      "value": 33,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -2719,6 +2836,15 @@
       "shape": "dot"
     },
     {
+      "id": "Thjodskjalasafn Islands - Iceland",
+      "type": "reference",
+      "group": "reference",
+      "label": "Thjodskjalasafn Islands - Iceland",
+      "value": 9,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
       "id": "Time-average optimization is a survivorship property not an intention",
       "type": "permanent",
       "group": "seed",
@@ -2768,7 +2894,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Transferable claims reconcile lock-in with member exit",
-      "value": 27,
+      "value": 28,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -2786,7 +2912,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Transmission versus independent recurrence is the load-bearing test",
-      "value": 50,
+      "value": 51,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -2824,6 +2950,15 @@
       "label": "Van Dam's Beschryvinge - the VOC described by its own advocaat",
       "value": 36,
       "color": "#7570b3",
+      "shape": "dot"
+    },
+    {
+      "id": "Visby and the Gotland sea law",
+      "type": "reference",
+      "group": "reference",
+      "label": "Visby and the Gotland sea law",
+      "value": 8,
+      "color": "#66a61e",
       "shape": "dot"
     },
     {
@@ -2885,7 +3020,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Zeeuws Archief - the Zeeland chamber and the MCC",
-      "value": 15,
+      "value": 16,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -2930,7 +3065,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Belgian archives",
-      "value": 35,
+      "value": 36,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -2948,7 +3083,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Digitisation and text recognition",
-      "value": 34,
+      "value": 35,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -2957,7 +3092,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Dutch archives",
-      "value": 32,
+      "value": 33,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -2975,7 +3110,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Entity-shielding and corporate forms",
-      "value": 110,
+      "value": 111,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -2993,7 +3128,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - European archives and digital collections",
-      "value": 123,
+      "value": 127,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -3002,7 +3137,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - French archives",
-      "value": 56,
+      "value": 57,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -3011,7 +3146,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - German archives",
-      "value": 49,
+      "value": 50,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -3029,7 +3164,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Historiography and method",
-      "value": 187,
+      "value": 188,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -3047,7 +3182,16 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Italian archives",
-      "value": 34,
+      "value": 35,
+      "color": "#d95f02",
+      "shape": "dot"
+    },
+    {
+      "id": "MOC - Nordic archives",
+      "type": "moc",
+      "group": "moc",
+      "label": "MOC - Nordic archives",
+      "value": 39,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -3065,7 +3209,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Risk-sharing vs risk-pricing",
-      "value": 135,
+      "value": 136,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -5093,6 +5237,34 @@
       "to": "MOC - European archives and digital collections"
     },
     {
+      "from": "Asiatisk Kompagni and the Danish trading companies",
+      "to": "Archives departementales de la Loire-Atlantique - Nantes"
+    },
+    {
+      "from": "Asiatisk Kompagni and the Danish trading companies",
+      "to": "Geheimes Staatsarchiv Preussischer Kulturbesitz - Berlin"
+    },
+    {
+      "from": "Asiatisk Kompagni and the Danish trading companies",
+      "to": "MOC - Nordic archives"
+    },
+    {
+      "from": "Asiatisk Kompagni and the Danish trading companies",
+      "to": "Rigsarkivet Denmark - Daisy and Arkivalieronline"
+    },
+    {
+      "from": "Asiatisk Kompagni and the Danish trading companies",
+      "to": "Service historique de la Defense - Lorient and the Compagnie des Indes"
+    },
+    {
+      "from": "Asiatisk Kompagni and the Danish trading companies",
+      "to": "Transmission versus independent recurrence is the load-bearing test"
+    },
+    {
+      "from": "Asiatisk Kompagni and the Danish trading companies",
+      "to": "Zeeuws Archief - the Zeeland chamber and the MCC"
+    },
+    {
       "from": "Attractor selection bounds what a persistence design can resolve",
       "to": "A significant persistence coefficient is evidence against its own licensing condition"
     },
@@ -5305,6 +5477,42 @@
       "to": "The deficit reading of absence is the scalar ranking in evidentiary form"
     },
     {
+      "from": "Bergen and the Hanseatic Kontor",
+      "to": "Archiv der Hansestadt Lubeck"
+    },
+    {
+      "from": "Bergen and the Hanseatic Kontor",
+      "to": "Archives diplomatiques - La Courneuve and Nantes"
+    },
+    {
+      "from": "Bergen and the Hanseatic Kontor",
+      "to": "Consulado de Burgos - the universidad de mercaderes"
+    },
+    {
+      "from": "Bergen and the Hanseatic Kontor",
+      "to": "Hanse documents on the Memory of the World register"
+    },
+    {
+      "from": "Bergen and the Hanseatic Kontor",
+      "to": "Identity-wrapper and perpetual-monopoly are distinct shielding facets"
+    },
+    {
+      "from": "Bergen and the Hanseatic Kontor",
+      "to": "MOC - Nordic archives"
+    },
+    {
+      "from": "Bergen and the Hanseatic Kontor",
+      "to": "Natie archives - where the Antwerp nations records are"
+    },
+    {
+      "from": "Bergen and the Hanseatic Kontor",
+      "to": "Stadsarchief Brugge - the Hanse and the nations"
+    },
+    {
+      "from": "Bergen and the Hanseatic Kontor",
+      "to": "The naties are a six-century Lindy institution"
+    },
+    {
       "from": "Bodmerei - where the German bottomry records are",
       "to": "Archiv der Hansestadt Lubeck"
     },
@@ -5515,6 +5723,38 @@
     {
       "from": "Casa di San Giorgio - the Genoese public debt archive",
       "to": "Whiggish history of finance names the ascent narrative"
+    },
+    {
+      "from": "Centrum for Naringslivshistoria - Stockholm",
+      "to": "Archives nationales du monde du travail - Roubaix"
+    },
+    {
+      "from": "Centrum for Naringslivshistoria - Stockholm",
+      "to": "Fuggerarchiv - Dillingen"
+    },
+    {
+      "from": "Centrum for Naringslivshistoria - Stockholm",
+      "to": "IISG and NEHA - Amsterdam"
+    },
+    {
+      "from": "Centrum for Naringslivshistoria - Stockholm",
+      "to": "KADOC - religious archives at Leuven"
+    },
+    {
+      "from": "Centrum for Naringslivshistoria - Stockholm",
+      "to": "MOC - Nordic archives"
+    },
+    {
+      "from": "Centrum for Naringslivshistoria - Stockholm",
+      "to": "Persistence samples are conditioned on non-absorption"
+    },
+    {
+      "from": "Centrum for Naringslivshistoria - Stockholm",
+      "to": "The Bazacle records - a custody problem"
+    },
+    {
+      "from": "Centrum for Naringslivshistoria - Stockholm",
+      "to": "The German Wirtschaftsarchive - a distributed business archive"
     },
     {
       "from": "Chambre de commerce de Marseille - the 1599 archive",
@@ -5939,6 +6179,22 @@
     {
       "from": "Deviation rather than shipwreck is what bodemerij litigation is about",
       "to": "loss_mitigation_forms"
+    },
+    {
+      "from": "Digitalarkivet and the Norwegian archives",
+      "to": "Bergen and the Hanseatic Kontor"
+    },
+    {
+      "from": "Digitalarkivet and the Norwegian archives",
+      "to": "MOC - Nordic archives"
+    },
+    {
+      "from": "Digitalarkivet and the Norwegian archives",
+      "to": "Nordic archives online - the access layers"
+    },
+    {
+      "from": "Digitalarkivet and the Norwegian archives",
+      "to": "Rigsarkivet Denmark - Daisy and Arkivalieronline"
     },
     {
       "from": "Discipline the Whig epithet by pinning it to teleology and survivorship",
@@ -8045,6 +8301,22 @@
       "to": "Stadsarchief Amsterdam - the notarial archive"
     },
     {
+      "from": "Kansallisarkisto - Finland",
+      "to": "Gemeentearchief Zaanstad - the partenrederij country"
+    },
+    {
+      "from": "Kansallisarkisto - Finland",
+      "to": "MOC - Nordic archives"
+    },
+    {
+      "from": "Kansallisarkisto - Finland",
+      "to": "Nordic archives online - the access layers"
+    },
+    {
+      "from": "Kansallisarkisto - Finland",
+      "to": "Riksarkivet Sweden - the national archives and the AI lab"
+    },
+    {
       "from": "Kuran's brake is a refusal of immortal entities",
       "to": "Guard against reverse-teleology"
     },
@@ -9442,6 +9714,10 @@
     },
     {
       "from": "MOC - European archives and digital collections",
+      "to": "MOC - Nordic archives"
+    },
+    {
+      "from": "MOC - European archives and digital collections",
       "to": "MOC - Spanish archives"
     },
     {
@@ -9491,6 +9767,10 @@
     {
       "from": "MOC - European archives and digital collections",
       "to": "The QDL corpus is conditioned on its funder's geography"
+    },
+    {
+      "from": "MOC - European archives and digital collections",
+      "to": "The Sound Toll Registers"
     },
     {
       "from": "MOC - European archives and digital collections",
@@ -10765,6 +11045,90 @@
       "to": "SIAS SIUSA and SAN - the Italian access layers"
     },
     {
+      "from": "MOC - Nordic archives",
+      "to": "Asiatisk Kompagni and the Danish trading companies"
+    },
+    {
+      "from": "MOC - Nordic archives",
+      "to": "Bergen and the Hanseatic Kontor"
+    },
+    {
+      "from": "MOC - Nordic archives",
+      "to": "Centrum for Naringslivshistoria - Stockholm"
+    },
+    {
+      "from": "MOC - Nordic archives",
+      "to": "Digitalarkivet and the Norwegian archives"
+    },
+    {
+      "from": "MOC - Nordic archives",
+      "to": "Geheimes Staatsarchiv Preussischer Kulturbesitz - Berlin"
+    },
+    {
+      "from": "MOC - Nordic archives",
+      "to": "Kansallisarkisto - Finland"
+    },
+    {
+      "from": "MOC - Nordic archives",
+      "to": "MOC - Belgian archives"
+    },
+    {
+      "from": "MOC - Nordic archives",
+      "to": "MOC - Dutch archives"
+    },
+    {
+      "from": "MOC - Nordic archives",
+      "to": "MOC - European archives and digital collections"
+    },
+    {
+      "from": "MOC - Nordic archives",
+      "to": "MOC - French archives"
+    },
+    {
+      "from": "MOC - Nordic archives",
+      "to": "MOC - German archives"
+    },
+    {
+      "from": "MOC - Nordic archives",
+      "to": "Nordic archives online - the access layers"
+    },
+    {
+      "from": "MOC - Nordic archives",
+      "to": "Rigsarkivet Denmark - Daisy and Arkivalieronline"
+    },
+    {
+      "from": "MOC - Nordic archives",
+      "to": "Riksarkivet Sweden - the national archives and the AI lab"
+    },
+    {
+      "from": "MOC - Nordic archives",
+      "to": "Stockholms stadsarkiv and the Swedish town records"
+    },
+    {
+      "from": "MOC - Nordic archives",
+      "to": "Stora Kopparberg - the 1288 share"
+    },
+    {
+      "from": "MOC - Nordic archives",
+      "to": "Svenska Ostindiska Companiet - the Gothenburg archive"
+    },
+    {
+      "from": "MOC - Nordic archives",
+      "to": "The Nordic thinness - what is actually missing"
+    },
+    {
+      "from": "MOC - Nordic archives",
+      "to": "The Sound Toll Registers"
+    },
+    {
+      "from": "MOC - Nordic archives",
+      "to": "Thjodskjalasafn Islands - Iceland"
+    },
+    {
+      "from": "MOC - Nordic archives",
+      "to": "Visby and the Gotland sea law"
+    },
+    {
       "from": "MOC - Path dependence and sequence",
       "to": "Absorption is a path-dependence mechanism distinct from reinforcement"
     },
@@ -11527,6 +11891,42 @@
     {
       "from": "Noord-Hollands Archief - Haarlem",
       "to": "Stadsarchief Amsterdam - the notarial archive"
+    },
+    {
+      "from": "Nordic archives online - the access layers",
+      "to": "Belgian archives online - the access layers"
+    },
+    {
+      "from": "Nordic archives online - the access layers",
+      "to": "Digitalarkivet and the Norwegian archives"
+    },
+    {
+      "from": "Nordic archives online - the access layers",
+      "to": "Dutch archives online - the access layers"
+    },
+    {
+      "from": "Nordic archives online - the access layers",
+      "to": "Kansallisarkisto - Finland"
+    },
+    {
+      "from": "Nordic archives online - the access layers",
+      "to": "MOC - Nordic archives"
+    },
+    {
+      "from": "Nordic archives online - the access layers",
+      "to": "Rigsarkivet Denmark - Daisy and Arkivalieronline"
+    },
+    {
+      "from": "Nordic archives online - the access layers",
+      "to": "Riksarkivet Sweden - the national archives and the AI lab"
+    },
+    {
+      "from": "Nordic archives online - the access layers",
+      "to": "The Nordic thinness - what is actually missing"
+    },
+    {
+      "from": "Nordic archives online - the access layers",
+      "to": "The Sound Toll Registers"
     },
     {
       "from": "Nothing in the ergodic theorem fails in geometric Brownian motion",
@@ -12429,6 +12829,22 @@
       "to": "isqa"
     },
     {
+      "from": "Rigsarkivet Denmark - Daisy and Arkivalieronline",
+      "to": "Asiatisk Kompagni and the Danish trading companies"
+    },
+    {
+      "from": "Rigsarkivet Denmark - Daisy and Arkivalieronline",
+      "to": "MOC - Nordic archives"
+    },
+    {
+      "from": "Rigsarkivet Denmark - Daisy and Arkivalieronline",
+      "to": "Nordic archives online - the access layers"
+    },
+    {
+      "from": "Rigsarkivet Denmark - Daisy and Arkivalieronline",
+      "to": "The Sound Toll Registers"
+    },
+    {
       "from": "Rijksarchief in Belgie - the state archives network",
       "to": "Begijnhof archives - where the beguinages records are"
     },
@@ -12487,6 +12903,34 @@
     {
       "from": "Rijksarchief te Luik en Namen - the Walloon repositories",
       "to": "Rijksarchief in Belgie - the state archives network"
+    },
+    {
+      "from": "Riksarkivet Sweden - the national archives and the AI lab",
+      "to": "Hof van Holland - the civil litigation record"
+    },
+    {
+      "from": "Riksarkivet Sweden - the national archives and the AI lab",
+      "to": "MOC - Digitisation and text recognition"
+    },
+    {
+      "from": "Riksarkivet Sweden - the national archives and the AI lab",
+      "to": "MOC - Nordic archives"
+    },
+    {
+      "from": "Riksarkivet Sweden - the national archives and the AI lab",
+      "to": "Noord-Hollands Archief - Haarlem"
+    },
+    {
+      "from": "Riksarkivet Sweden - the national archives and the AI lab",
+      "to": "Open-source HTR stack - eScriptorium Kraken Loghi"
+    },
+    {
+      "from": "Riksarkivet Sweden - the national archives and the AI lab",
+      "to": "Stora Kopparberg - the 1288 share"
+    },
+    {
+      "from": "Riksarkivet Sweden - the national archives and the AI lab",
+      "to": "Svenska Ostindiska Companiet - the Gothenburg archive"
     },
     {
       "from": "Robotic V-cradle book scanners - Treventus and Qidenus",
@@ -13189,6 +13633,30 @@
       "to": "The German Wirtschaftsarchive - a distributed business archive"
     },
     {
+      "from": "Stockholms stadsarkiv and the Swedish town records",
+      "to": "Antwerp schepenregisters and the regesten"
+    },
+    {
+      "from": "Stockholms stadsarkiv and the Swedish town records",
+      "to": "Archiv der Hansestadt Lubeck"
+    },
+    {
+      "from": "Stockholms stadsarkiv and the Swedish town records",
+      "to": "Bodmerei - where the German bottomry records are"
+    },
+    {
+      "from": "Stockholms stadsarkiv and the Swedish town records",
+      "to": "Independence of apparatus is not independence of question"
+    },
+    {
+      "from": "Stockholms stadsarkiv and the Swedish town records",
+      "to": "Itinera Nova - the Leuven aldermen's registers"
+    },
+    {
+      "from": "Stockholms stadsarkiv and the Swedish town records",
+      "to": "MOC - Nordic archives"
+    },
+    {
       "from": "Stoic loci on cooperation - only two argue from interdependence",
       "to": "MOC - ERC Synergy Grant"
     },
@@ -13211,6 +13679,62 @@
     {
       "from": "Stoic loci on cooperation - only two argue from interdependence",
       "to": "Time-average optimization is a survivorship property not an intention"
+    },
+    {
+      "from": "Stora Kopparberg - the 1288 share",
+      "to": "Divergent arbitrary particulars are the independence diagnostic"
+    },
+    {
+      "from": "Stora Kopparberg - the 1288 share",
+      "to": "Fuggerarchiv - Dillingen"
+    },
+    {
+      "from": "Stora Kopparberg - the 1288 share",
+      "to": "Le Bris Goetzmann Pouget 2023 on convergent evolution toward the joint-stock company"
+    },
+    {
+      "from": "Stora Kopparberg - the 1288 share",
+      "to": "MOC - Italian archives"
+    },
+    {
+      "from": "Stora Kopparberg - the 1288 share",
+      "to": "MOC - Nordic archives"
+    },
+    {
+      "from": "Stora Kopparberg - the 1288 share",
+      "to": "Natie archives - where the Antwerp nations records are"
+    },
+    {
+      "from": "Stora Kopparberg - the 1288 share",
+      "to": "The Bazacle records - a custody problem"
+    },
+    {
+      "from": "Stora Kopparberg - the 1288 share",
+      "to": "Transferable claims reconcile lock-in with member exit"
+    },
+    {
+      "from": "Svenska Ostindiska Companiet - the Gothenburg archive",
+      "to": "Asiatisk Kompagni and the Danish trading companies"
+    },
+    {
+      "from": "Svenska Ostindiska Companiet - the Gothenburg archive",
+      "to": "Geheimes Staatsarchiv Preussischer Kulturbesitz - Berlin"
+    },
+    {
+      "from": "Svenska Ostindiska Companiet - the Gothenburg archive",
+      "to": "MOC - Entity-shielding and corporate forms"
+    },
+    {
+      "from": "Svenska Ostindiska Companiet - the Gothenburg archive",
+      "to": "MOC - Nordic archives"
+    },
+    {
+      "from": "Svenska Ostindiska Companiet - the Gothenburg archive",
+      "to": "Riksarkivet Sweden - the national archives and the AI lab"
+    },
+    {
+      "from": "Svenska Ostindiska Companiet - the Gothenburg archive",
+      "to": "Service historique de la Defense - Lorient and the Compagnie des Indes"
     },
     {
       "from": "Syndication and the misma moneda are pooling not prudence",
@@ -13521,6 +14045,38 @@
       "to": "loss_mitigation_forms"
     },
     {
+      "from": "The Nordic thinness - what is actually missing",
+      "to": "Bergen and the Hanseatic Kontor"
+    },
+    {
+      "from": "The Nordic thinness - what is actually missing",
+      "to": "MOC - Nordic archives"
+    },
+    {
+      "from": "The Nordic thinness - what is actually missing",
+      "to": "Nordic archives online - the access layers"
+    },
+    {
+      "from": "The Nordic thinness - what is actually missing",
+      "to": "Refusals are observations of the filter not inferences from survivors"
+    },
+    {
+      "from": "The Nordic thinness - what is actually missing",
+      "to": "Stockholms stadsarkiv and the Swedish town records"
+    },
+    {
+      "from": "The Nordic thinness - what is actually missing",
+      "to": "Stora Kopparberg - the 1288 share"
+    },
+    {
+      "from": "The Nordic thinness - what is actually missing",
+      "to": "The Sound Toll Registers"
+    },
+    {
+      "from": "The Nordic thinness - what is actually missing",
+      "to": "The deficit reading of absence is the scalar ranking in evidentiary form"
+    },
+    {
       "from": "The QDL corpus is conditioned on its funder's geography",
       "to": "EIC digital corpus - what is online and on what terms"
     },
@@ -13603,6 +14159,34 @@
     {
       "from": "The Roman universitas makes the JSC case parallelism not convergence",
       "to": "Transmission versus independent recurrence is the load-bearing test"
+    },
+    {
+      "from": "The Sound Toll Registers",
+      "to": "Averijgrossen - the general average adjudications"
+    },
+    {
+      "from": "The Sound Toll Registers",
+      "to": "Delpher - the full-text layer"
+    },
+    {
+      "from": "The Sound Toll Registers",
+      "to": "MOC - Historiography and method"
+    },
+    {
+      "from": "The Sound Toll Registers",
+      "to": "MOC - Nordic archives"
+    },
+    {
+      "from": "The Sound Toll Registers",
+      "to": "Rigsarkivet Denmark - Daisy and Arkivalieronline"
+    },
+    {
+      "from": "The Sound Toll Registers",
+      "to": "The QDL corpus is conditioned on its funder's geography"
+    },
+    {
+      "from": "The Sound Toll Registers",
+      "to": "The VOC-EIC digital asymmetry is an access regime not a survival difference"
     },
     {
       "from": "The VOC-EIC digital asymmetry is an access regime not a survival difference",
@@ -15949,6 +16533,26 @@
       "to": "Stationarity is a precondition of ergodicity not a corollary"
     },
     {
+      "from": "Thjodskjalasafn Islands - Iceland",
+      "to": "Identity-wrapper and perpetual-monopoly are distinct shielding facets"
+    },
+    {
+      "from": "Thjodskjalasafn Islands - Iceland",
+      "to": "MOC - Nordic archives"
+    },
+    {
+      "from": "Thjodskjalasafn Islands - Iceland",
+      "to": "Rigsarkivet Denmark - Daisy and Arkivalieronline"
+    },
+    {
+      "from": "Thjodskjalasafn Islands - Iceland",
+      "to": "The Nordic thinness - what is actually missing"
+    },
+    {
+      "from": "Thjodskjalasafn Islands - Iceland",
+      "to": "The alleenrecht is monopoly held as tradable property"
+    },
+    {
       "from": "Time-average",
       "to": "Absorbing barrier"
     },
@@ -16399,6 +17003,26 @@
     {
       "from": "Van Dam's Beschryvinge - the VOC described by its own advocaat",
       "to": "Transkribus - managed HTR platform"
+    },
+    {
+      "from": "Visby and the Gotland sea law",
+      "to": "A migrated institution collects local names not local forms"
+    },
+    {
+      "from": "Visby and the Gotland sea law",
+      "to": "Archiv der Hansestadt Lubeck"
+    },
+    {
+      "from": "Visby and the Gotland sea law",
+      "to": "Averijgrossen - the general average adjudications"
+    },
+    {
+      "from": "Visby and the Gotland sea law",
+      "to": "MOC - Nordic archives"
+    },
+    {
+      "from": "Visby and the Gotland sea law",
+      "to": "MOC - Risk-sharing vs risk-pricing"
     },
     {
       "from": "Voigtlander and Voth measured the relaxation time and reported a mixture",

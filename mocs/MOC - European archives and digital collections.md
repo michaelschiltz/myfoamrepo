@@ -88,11 +88,12 @@ Where a corpus is at layer 3 the entire calculus above collapses, which is the p
 - **Haarlem** — the whole notarial archive reported word-searchable ⚠️ transcription basis unconfirmed. See [[Noord-Hollands Archief - Haarlem]].
 - **Itinera Nova** — Leuven aldermen's registers, 14th–18th c., volunteer-transcribed. See [[Itinera Nova - the Leuven aldermen's registers]].
 - **Delpher** — 18M+ newspaper pages, 1618–1879 downloadable as open data. See [[Delpher - the full-text layer]].
+- **Sound Toll Registers Online** — every passage of the Danish straits, 1497/1557–1857, transcribed into a database. See [[The Sound Toll Registers]]. **The only genuine denominator in the survey**, and an interpretation rather than a copy.
 - **Fondo Datini** — catalogued to item level; layer 1 at fine grain rather than layer 3.
 - **Medici Archive Project / BIA** — a scholar-annotated *selection*, not a transcribed series. See [[Medici Archive Project - the BIA platform]].
 - The English side has no member of this tier at all; see [[EIC digital corpus - what is online and on what terms]].
 
-**Every genuine member of this tier is in the Low Countries.** Four of the five transcribed corpora are Dutch or Flemish, and the fifth is a Dutch newspaper corpus. **That is not a fact about where early modern Europe wrote things down**, and a comparative corpus assembled from what is searchable will be a corpus about the Low Countries with illustrations from elsewhere.
+**Every transcribed *notarial* corpus in this tier is in the Low Countries.** The exception is the Sound Toll series, which is Danish, fiscal, and not a corpus of instruments at all. **That is not a fact about where early modern Europe wrote things down**, and a comparative corpus assembled from what is searchable will be a corpus about the Low Countries with illustrations from elsewhere.
 
 ## Country hubs
 
@@ -106,8 +107,9 @@ Repository-level notes live in country MOCs, each carrying that country's struct
 | Belgium | [[MOC - Belgian archives]] | Worse infrastructure, better holdings. The country that breaks the proxy |
 | France | [[MOC - French archives]] | Scale, against one uniform classification. A question can be put to a *series* nationwide — and the interfaces are the least remotely-workable in the survey |
 | Germany | [[MOC - German archives]] | No frame and no national archive for the period. Competence is civic, and the cities are where the material is |
+| Nordics | [[MOC - Nordic archives]] | Best infrastructure in Europe, thinnest institutional variety — Belgium's mirror. The one absence in the survey that is probably evidential |
 
-**Not yet surveyed:** the Nordics, Britain, Croatia.
+**Not yet surveyed:** Britain, Croatia.
 
 ## Where each coded form's records sit
 
