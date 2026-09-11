@@ -104,7 +104,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "A scheme for extending the cooperative pooling census",
-      "value": 33,
+      "value": 39,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -221,7 +221,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Archief Ieper - one charter and five accounts",
-      "value": 12,
+      "value": 13,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -235,11 +235,20 @@
       "shape": "dot"
     },
     {
+      "id": "Archiv der Hansestadt Lubeck",
+      "type": "reference",
+      "group": "reference",
+      "label": "Archiv der Hansestadt Lubeck",
+      "value": 16,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
       "id": "Archives de Paris and the fire of 1871",
       "type": "reference",
       "group": "reference",
       "label": "Archives de Paris and the fire of 1871",
-      "value": 13,
+      "value": 14,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -248,7 +257,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Archives departementales de l'Herault - Montpellier",
-      "value": 9,
+      "value": 11,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -302,7 +311,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Archives departementales du Nord - the Chambre des comptes de Lille",
-      "value": 10,
+      "value": 12,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -347,7 +356,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Archives nationales du monde du travail - Roubaix",
-      "value": 10,
+      "value": 12,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -374,7 +383,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Archivio Storico del Banco di Napoli",
-      "value": 15,
+      "value": 16,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -383,7 +392,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Archivio Storico del Monte dei Paschi di Siena",
-      "value": 15,
+      "value": 16,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -419,7 +428,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Archivio di Stato di Milano - the Banco di Sant'Ambrogio",
-      "value": 8,
+      "value": 10,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -428,7 +437,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Archivio di Stato di Napoli",
-      "value": 14,
+      "value": 15,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -599,7 +608,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Averijgrossen - the general average adjudications",
-      "value": 17,
+      "value": 19,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -613,11 +622,20 @@
       "shape": "dot"
     },
     {
+      "id": "Bayerisches Hauptstaatsarchiv - Munchen",
+      "type": "reference",
+      "group": "reference",
+      "label": "Bayerisches Hauptstaatsarchiv - Munchen",
+      "value": 12,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
       "id": "Begijnhof archives - where the beguinages records are",
       "type": "reference",
       "group": "reference",
       "label": "Begijnhof archives - where the beguinages records are",
-      "value": 22,
+      "value": 24,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -635,7 +653,16 @@
       "type": "reference",
       "group": "reference",
       "label": "BelgicaPress and KBR - the thin full-text layer",
-      "value": 11,
+      "value": 12,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "Bodmerei - where the German bottomry records are",
+      "type": "reference",
+      "group": "reference",
+      "label": "Bodmerei - where the German bottomry records are",
+      "value": 16,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -680,7 +707,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Casa di San Giorgio - the Genoese public debt archive",
-      "value": 18,
+      "value": 20,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -689,7 +716,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Chambre de commerce de Marseille - the 1599 archive",
-      "value": 12,
+      "value": 14,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -752,7 +779,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Delpher - the full-text layer",
-      "value": 19,
+      "value": 20,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -771,6 +798,15 @@
       "group": "reference",
       "label": "Desolate Boedelkamer - Amsterdam",
       "value": 20,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "Deutsches Zeitungsportal - the German full-text layer",
+      "type": "reference",
+      "group": "reference",
+      "label": "Deutsches Zeitungsportal - the German full-text layer",
+      "value": 11,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -806,7 +842,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Divergent arbitrary particulars are the independence diagnostic",
-      "value": 52,
+      "value": 54,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1004,6 +1040,15 @@
       "type": "reference",
       "group": "reference",
       "label": "FranceArchives and the French access layers",
+      "value": 16,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "Fuggerarchiv - Dillingen",
+      "type": "reference",
+      "group": "reference",
+      "label": "Fuggerarchiv - Dillingen",
       "value": 15,
       "color": "#66a61e",
       "shape": "dot"
@@ -1022,7 +1067,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Gallica and RetroNews - the French full-text layer",
-      "value": 12,
+      "value": 13,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1054,6 +1099,15 @@
       "shape": "dot"
     },
     {
+      "id": "Geheimes Staatsarchiv Preussischer Kulturbesitz - Berlin",
+      "type": "reference",
+      "group": "reference",
+      "label": "Geheimes Staatsarchiv Preussischer Kulturbesitz - Berlin",
+      "value": 10,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
       "id": "Gemeentearchief Zaanstad - the partenrederij country",
       "type": "reference",
       "group": "reference",
@@ -1072,6 +1126,15 @@
       "shape": "dot"
     },
     {
+      "id": "German archives online - the federal access layers",
+      "type": "reference",
+      "group": "reference",
+      "label": "German archives online - the federal access layers",
+      "value": 13,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
       "id": "Gharar excludes designed-in unverifiability",
       "type": "permanent",
       "group": "seed",
@@ -1087,6 +1150,15 @@
       "label": "Guard against reverse-teleology",
       "value": 37,
       "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "Hanse documents on the Memory of the World register",
+      "type": "reference",
+      "group": "reference",
+      "label": "Hanse documents on the Memory of the World register",
+      "value": 15,
+      "color": "#66a61e",
       "shape": "dot"
     },
     {
@@ -1126,6 +1198,15 @@
       "shape": "dot"
     },
     {
+      "id": "Historisches Archiv der Stadt Koln and the 2009 collapse",
+      "type": "reference",
+      "group": "reference",
+      "label": "Historisches Archiv der Stadt Koln and the 2009 collapse",
+      "value": 14,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
       "id": "Hof van Holland - the civil litigation record",
       "type": "reference",
       "group": "reference",
@@ -1148,7 +1229,7 @@
       "type": "reference",
       "group": "reference",
       "label": "IISG and NEHA - Amsterdam",
-      "value": 17,
+      "value": 19,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1166,7 +1247,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Independence of apparatus is not independence of question",
-      "value": 23,
+      "value": 27,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1175,7 +1256,16 @@
       "type": "reference",
       "group": "reference",
       "label": "Insolvente Boedelskamer - Antwerp",
-      "value": 19,
+      "value": 21,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "Institut fur Stadtgeschichte Frankfurt",
+      "type": "reference",
+      "group": "reference",
+      "label": "Institut fur Stadtgeschichte Frankfurt",
+      "value": 10,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1229,7 +1319,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Itinera Nova - the Leuven aldermen's registers",
-      "value": 13,
+      "value": 15,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1256,7 +1346,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Juridictions consulaires - the merchant courts",
-      "value": 11,
+      "value": 12,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1312,6 +1402,24 @@
       "label": "Labour exchange is the pooling type the census cannot see",
       "value": 19,
       "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "Landesarchiv Baden-Wurttemberg",
+      "type": "reference",
+      "group": "reference",
+      "label": "Landesarchiv Baden-Wurttemberg",
+      "value": 8,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "Landesarchiv NRW and the Rhineland",
+      "type": "reference",
+      "group": "reference",
+      "label": "Landesarchiv NRW and the Rhineland",
+      "value": 11,
+      "color": "#66a61e",
       "shape": "dot"
     },
     {
@@ -1400,7 +1508,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Natie archives - where the Antwerp nations records are",
-      "value": 25,
+      "value": 27,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1553,7 +1661,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Persistence samples are conditioned on non-absorption",
-      "value": 54,
+      "value": 58,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1643,7 +1751,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Refusals are observations of the filter not inferences from survivors",
-      "value": 97,
+      "value": 99,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1742,7 +1850,7 @@
       "type": "reference",
       "group": "reference",
       "label": "SIAS SIUSA and SAN - the Italian access layers",
-      "value": 24,
+      "value": 25,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1778,7 +1886,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Service historique de la Defense - Lorient and the Compagnie des Indes",
-      "value": 12,
+      "value": 13,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1828,11 +1936,29 @@
       "shape": "dot"
     },
     {
+      "id": "Staatsarchiv Bremen",
+      "type": "reference",
+      "group": "reference",
+      "label": "Staatsarchiv Bremen",
+      "value": 8,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "Staatsarchiv Hamburg",
+      "type": "reference",
+      "group": "reference",
+      "label": "Staatsarchiv Hamburg",
+      "value": 17,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
       "id": "Stadsarchief Amsterdam - the notarial archive",
       "type": "reference",
       "group": "reference",
       "label": "Stadsarchief Amsterdam - the notarial archive",
-      "value": 36,
+      "value": 38,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1841,7 +1967,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Stadsarchief Brugge - the Hanse and the nations",
-      "value": 12,
+      "value": 13,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1873,12 +1999,57 @@
       "shape": "dot"
     },
     {
+      "id": "Stadtarchiv Augsburg and the Staatsarchiv",
+      "type": "reference",
+      "group": "reference",
+      "label": "Stadtarchiv Augsburg and the Staatsarchiv",
+      "value": 13,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "Stadtarchiv Leipzig and the fairs",
+      "type": "reference",
+      "group": "reference",
+      "label": "Stadtarchiv Leipzig and the fairs",
+      "value": 10,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "Stadtarchiv Nurnberg",
+      "type": "reference",
+      "group": "reference",
+      "label": "Stadtarchiv Nurnberg",
+      "value": 11,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "Stadtarchiv Stralsund and the Wendish towns",
+      "type": "reference",
+      "group": "reference",
+      "label": "Stadtarchiv Stralsund and the Wendish towns",
+      "value": 10,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
       "id": "Stationarity is a precondition of ergodicity not a corollary",
       "type": "permanent",
       "group": "seed",
       "label": "Stationarity is a precondition of ergodicity not a corollary",
       "value": 29,
       "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "Stiftung Hanseatisches Wirtschaftsarchiv - Hamburg",
+      "type": "reference",
+      "group": "reference",
+      "label": "Stiftung Hanseatisches Wirtschaftsarchiv - Hamburg",
+      "value": 11,
+      "color": "#66a61e",
       "shape": "dot"
     },
     {
@@ -1895,7 +2066,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Syndication and the misma moneda are pooling not prudence",
-      "value": 17,
+      "value": 18,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1931,7 +2102,7 @@
       "type": "reference",
       "group": "reference",
       "label": "The Bazacle records - a custody problem",
-      "value": 16,
+      "value": 18,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1951,6 +2122,15 @@
       "label": "The Fugger diversified activity while concentrating the barrier",
       "value": 19,
       "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "The German Wirtschaftsarchive - a distributed business archive",
+      "type": "reference",
+      "group": "reference",
+      "label": "The German Wirtschaftsarchive - a distributed business archive",
+      "value": 12,
+      "color": "#66a61e",
       "shape": "dot"
     },
     {
@@ -1985,7 +2165,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The VOC-EIC digital asymmetry is an access regime not a survival difference",
-      "value": 39,
+      "value": 42,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -2021,7 +2201,7 @@
       "type": "reference",
       "group": "reference",
       "label": "The amirautes - a series across the coastal departments",
-      "value": 23,
+      "value": 24,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -2030,7 +2210,7 @@
       "type": "reference",
       "group": "reference",
       "label": "The archives departementales system",
-      "value": 14,
+      "value": 15,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -2066,7 +2246,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The coding commons must record stated rationale not only component presence",
-      "value": 48,
+      "value": 50,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -2336,7 +2516,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The naties are a six-century Lindy institution",
-      "value": 30,
+      "value": 32,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -2606,7 +2786,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Transmission versus independent recurrence is the load-bearing test",
-      "value": 49,
+      "value": 50,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -2750,7 +2930,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Belgian archives",
-      "value": 33,
+      "value": 35,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -2777,7 +2957,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Dutch archives",
-      "value": 31,
+      "value": 32,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -2795,7 +2975,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Entity-shielding and corporate forms",
-      "value": 109,
+      "value": 110,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -2813,7 +2993,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - European archives and digital collections",
-      "value": 119,
+      "value": 123,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -2822,7 +3002,16 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - French archives",
-      "value": 55,
+      "value": 56,
+      "color": "#d95f02",
+      "shape": "dot"
+    },
+    {
+      "id": "MOC - German archives",
+      "type": "moc",
+      "group": "moc",
+      "label": "MOC - German archives",
+      "value": 49,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -2831,7 +3020,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - HistorEE",
-      "value": 355,
+      "value": 356,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -2858,7 +3047,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Italian archives",
-      "value": 33,
+      "value": 34,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -2876,7 +3065,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Risk-sharing vs risk-pricing",
-      "value": 134,
+      "value": 135,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -2885,7 +3074,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Spanish archives",
-      "value": 26,
+      "value": 27,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -3918,6 +4107,30 @@
     {
       "from": "Archief van de Stad Brussel",
       "to": "Rijksarchief te Antwerpen and Beveren - the notarial series"
+    },
+    {
+      "from": "Archiv der Hansestadt Lubeck",
+      "to": "A scheme for extending the cooperative pooling census"
+    },
+    {
+      "from": "Archiv der Hansestadt Lubeck",
+      "to": "Hanse documents on the Memory of the World register"
+    },
+    {
+      "from": "Archiv der Hansestadt Lubeck",
+      "to": "Itinera Nova - the Leuven aldermen's registers"
+    },
+    {
+      "from": "Archiv der Hansestadt Lubeck",
+      "to": "MOC - German archives"
+    },
+    {
+      "from": "Archiv der Hansestadt Lubeck",
+      "to": "Staatsarchiv Hamburg"
+    },
+    {
+      "from": "Archiv der Hansestadt Lubeck",
+      "to": "The naties are a six-century Lindy institution"
     },
     {
       "from": "Archives de Paris and the fire of 1871",
@@ -4988,6 +5201,26 @@
       "to": "Time-average optimization is a survivorship property not an intention"
     },
     {
+      "from": "Bayerisches Hauptstaatsarchiv - Munchen",
+      "to": "Begijnhof archives - where the beguinages records are"
+    },
+    {
+      "from": "Bayerisches Hauptstaatsarchiv - Munchen",
+      "to": "German archives online - the federal access layers"
+    },
+    {
+      "from": "Bayerisches Hauptstaatsarchiv - Munchen",
+      "to": "Landesarchiv Baden-Wurttemberg"
+    },
+    {
+      "from": "Bayerisches Hauptstaatsarchiv - Munchen",
+      "to": "MOC - German archives"
+    },
+    {
+      "from": "Bayerisches Hauptstaatsarchiv - Munchen",
+      "to": "Stadtarchiv Augsburg and the Staatsarchiv"
+    },
+    {
       "from": "Begijnhof archives - where the beguinages records are",
       "to": "Entity shielding and owner shielding protect different trajectories"
     },
@@ -5070,6 +5303,30 @@
     {
       "from": "BelgicaPress and KBR - the thin full-text layer",
       "to": "The deficit reading of absence is the scalar ranking in evidentiary form"
+    },
+    {
+      "from": "Bodmerei - where the German bottomry records are",
+      "to": "Archiv der Hansestadt Lubeck"
+    },
+    {
+      "from": "Bodmerei - where the German bottomry records are",
+      "to": "Independence of apparatus is not independence of question"
+    },
+    {
+      "from": "Bodmerei - where the German bottomry records are",
+      "to": "MOC - German archives"
+    },
+    {
+      "from": "Bodmerei - where the German bottomry records are",
+      "to": "Staatsarchiv Bremen"
+    },
+    {
+      "from": "Bodmerei - where the German bottomry records are",
+      "to": "Staatsarchiv Hamburg"
+    },
+    {
+      "from": "Bodmerei - where the German bottomry records are",
+      "to": "Stadsarchief Amsterdam - the notarial archive"
     },
     {
       "from": "Borrow the diagnostics not the tree",
@@ -5642,6 +5899,34 @@
     {
       "from": "Desolate Boedelkamer - Amsterdam",
       "to": "The creditor limb of entity shielding has no witness"
+    },
+    {
+      "from": "Deutsches Zeitungsportal - the German full-text layer",
+      "to": "BelgicaPress and KBR - the thin full-text layer"
+    },
+    {
+      "from": "Deutsches Zeitungsportal - the German full-text layer",
+      "to": "Delpher - the full-text layer"
+    },
+    {
+      "from": "Deutsches Zeitungsportal - the German full-text layer",
+      "to": "Gallica and RetroNews - the French full-text layer"
+    },
+    {
+      "from": "Deutsches Zeitungsportal - the German full-text layer",
+      "to": "German archives online - the federal access layers"
+    },
+    {
+      "from": "Deutsches Zeitungsportal - the German full-text layer",
+      "to": "MOC - German archives"
+    },
+    {
+      "from": "Deutsches Zeitungsportal - the German full-text layer",
+      "to": "Staatsarchiv Hamburg"
+    },
+    {
+      "from": "Deutsches Zeitungsportal - the German full-text layer",
+      "to": "The VOC-EIC digital asymmetry is an access regime not a survival difference"
     },
     {
       "from": "Deviation rather than shipwreck is what bodemerij litigation is about",
@@ -6592,6 +6877,30 @@
       "to": "The archives departementales system"
     },
     {
+      "from": "Fuggerarchiv - Dillingen",
+      "to": "Archivio Storico del Monte dei Paschi di Siena"
+    },
+    {
+      "from": "Fuggerarchiv - Dillingen",
+      "to": "MOC - German archives"
+    },
+    {
+      "from": "Fuggerarchiv - Dillingen",
+      "to": "Natie archives - where the Antwerp nations records are"
+    },
+    {
+      "from": "Fuggerarchiv - Dillingen",
+      "to": "Persistence samples are conditioned on non-absorption"
+    },
+    {
+      "from": "Fuggerarchiv - Dillingen",
+      "to": "Stadtarchiv Augsburg and the Staatsarchiv"
+    },
+    {
+      "from": "Fuggerarchiv - Dillingen",
+      "to": "The Bazacle records - a custody problem"
+    },
+    {
       "from": "GLOBALISE removes the HTR question for the VOC and leaves it standing for the EIC",
       "to": "EIC digital corpus - what is online and on what terms"
     },
@@ -6804,6 +7113,30 @@
       "to": "Time-average optimization is a survivorship property not an intention"
     },
     {
+      "from": "Geheimes Staatsarchiv Preussischer Kulturbesitz - Berlin",
+      "to": "Insolvente Boedelskamer - Antwerp"
+    },
+    {
+      "from": "Geheimes Staatsarchiv Preussischer Kulturbesitz - Berlin",
+      "to": "MOC - Entity-shielding and corporate forms"
+    },
+    {
+      "from": "Geheimes Staatsarchiv Preussischer Kulturbesitz - Berlin",
+      "to": "MOC - German archives"
+    },
+    {
+      "from": "Geheimes Staatsarchiv Preussischer Kulturbesitz - Berlin",
+      "to": "Persistence samples are conditioned on non-absorption"
+    },
+    {
+      "from": "Geheimes Staatsarchiv Preussischer Kulturbesitz - Berlin",
+      "to": "Service historique de la Defense - Lorient and the Compagnie des Indes"
+    },
+    {
+      "from": "Geheimes Staatsarchiv Preussischer Kulturbesitz - Berlin",
+      "to": "Transmission versus independent recurrence is the load-bearing test"
+    },
+    {
       "from": "Gemeentearchief Zaanstad - the partenrederij country",
       "to": "Dutch archives online - the access layers"
     },
@@ -6858,6 +7191,26 @@
     {
       "from": "General average shares decisions where warichi shares hazards",
       "to": "loss_mitigation_forms"
+    },
+    {
+      "from": "German archives online - the federal access layers",
+      "to": "Deutsches Zeitungsportal - the German full-text layer"
+    },
+    {
+      "from": "German archives online - the federal access layers",
+      "to": "FranceArchives and the French access layers"
+    },
+    {
+      "from": "German archives online - the federal access layers",
+      "to": "MOC - German archives"
+    },
+    {
+      "from": "German archives online - the federal access layers",
+      "to": "SIAS SIUSA and SAN - the Italian access layers"
+    },
+    {
+      "from": "German archives online - the federal access layers",
+      "to": "The archives departementales system"
     },
     {
       "from": "Gharar excludes designed-in unverifiability",
@@ -6918,6 +7271,26 @@
     {
       "from": "Guard against reverse-teleology",
       "to": "Time-average optimization is a survivorship property not an intention"
+    },
+    {
+      "from": "Hanse documents on the Memory of the World register",
+      "to": "Archiv der Hansestadt Lubeck"
+    },
+    {
+      "from": "Hanse documents on the Memory of the World register",
+      "to": "Historisches Archiv der Stadt Koln and the 2009 collapse"
+    },
+    {
+      "from": "Hanse documents on the Memory of the World register",
+      "to": "MOC - German archives"
+    },
+    {
+      "from": "Hanse documents on the Memory of the World register",
+      "to": "Stadsarchief Brugge - the Hanse and the nations"
+    },
+    {
+      "from": "Hanse documents on the Memory of the World register",
+      "to": "The VOC-EIC digital asymmetry is an access regime not a survival difference"
     },
     {
       "from": "Harris 2020 on the late plurality of limited liability",
@@ -7034,6 +7407,30 @@
     {
       "from": "Hierro Anibarro 2005 on the asiento de averia and the privileged company",
       "to": "limited-liability"
+    },
+    {
+      "from": "Historisches Archiv der Stadt Koln and the 2009 collapse",
+      "to": "Archief Ieper - one charter and five accounts"
+    },
+    {
+      "from": "Historisches Archiv der Stadt Koln and the 2009 collapse",
+      "to": "Archives de Paris and the fire of 1871"
+    },
+    {
+      "from": "Historisches Archiv der Stadt Koln and the 2009 collapse",
+      "to": "Archivio di Stato di Napoli"
+    },
+    {
+      "from": "Historisches Archiv der Stadt Koln and the 2009 collapse",
+      "to": "Hanse documents on the Memory of the World register"
+    },
+    {
+      "from": "Historisches Archiv der Stadt Koln and the 2009 collapse",
+      "to": "MOC - German archives"
+    },
+    {
+      "from": "Historisches Archiv der Stadt Koln and the 2009 collapse",
+      "to": "Refusals are observations of the filter not inferences from survivors"
     },
     {
       "from": "Hof van Holland - the civil litigation record",
@@ -7282,6 +7679,26 @@
     {
       "from": "Insolvente Boedelskamer - Antwerp",
       "to": "The creditor limb of entity shielding has no witness"
+    },
+    {
+      "from": "Institut fur Stadtgeschichte Frankfurt",
+      "to": "A scheme for extending the cooperative pooling census"
+    },
+    {
+      "from": "Institut fur Stadtgeschichte Frankfurt",
+      "to": "German archives online - the federal access layers"
+    },
+    {
+      "from": "Institut fur Stadtgeschichte Frankfurt",
+      "to": "MOC - German archives"
+    },
+    {
+      "from": "Institut fur Stadtgeschichte Frankfurt",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Institut fur Stadtgeschichte Frankfurt",
+      "to": "Stadtarchiv Leipzig and the fairs"
     },
     {
       "from": "Institutions substitute state-verification for outcome-inference as ruin exposure rises",
@@ -7742,6 +8159,46 @@
     {
       "from": "Labour exchange is the pooling type the census cannot see",
       "to": "loss_mitigation_forms"
+    },
+    {
+      "from": "Landesarchiv Baden-Wurttemberg",
+      "to": "Bayerisches Hauptstaatsarchiv - Munchen"
+    },
+    {
+      "from": "Landesarchiv Baden-Wurttemberg",
+      "to": "German archives online - the federal access layers"
+    },
+    {
+      "from": "Landesarchiv Baden-Wurttemberg",
+      "to": "Landesarchiv NRW and the Rhineland"
+    },
+    {
+      "from": "Landesarchiv Baden-Wurttemberg",
+      "to": "MOC - German archives"
+    },
+    {
+      "from": "Landesarchiv NRW and the Rhineland",
+      "to": "Archives departementales du Nord - the Chambre des comptes de Lille"
+    },
+    {
+      "from": "Landesarchiv NRW and the Rhineland",
+      "to": "German archives online - the federal access layers"
+    },
+    {
+      "from": "Landesarchiv NRW and the Rhineland",
+      "to": "Historisches Archiv der Stadt Koln and the 2009 collapse"
+    },
+    {
+      "from": "Landesarchiv NRW and the Rhineland",
+      "to": "MOC - Belgian archives"
+    },
+    {
+      "from": "Landesarchiv NRW and the Rhineland",
+      "to": "MOC - German archives"
+    },
+    {
+      "from": "Landesarchiv NRW and the Rhineland",
+      "to": "The German Wirtschaftsarchive - a distributed business archive"
     },
     {
       "from": "Le Bris Goetzmann Pouget 2023 on convergent evolution toward the joint-stock company",
@@ -8901,6 +9358,10 @@
     },
     {
       "from": "MOC - European archives and digital collections",
+      "to": "Bodmerei - where the German bottomry records are"
+    },
+    {
+      "from": "MOC - European archives and digital collections",
       "to": "Delpher - the full-text layer"
     },
     {
@@ -8966,6 +9427,10 @@
     {
       "from": "MOC - European archives and digital collections",
       "to": "MOC - French archives"
+    },
+    {
+      "from": "MOC - European archives and digital collections",
+      "to": "MOC - German archives"
     },
     {
       "from": "MOC - European archives and digital collections",
@@ -9170,6 +9635,110 @@
     {
       "from": "MOC - French archives",
       "to": "The archives departementales system"
+    },
+    {
+      "from": "MOC - German archives",
+      "to": "Archiv der Hansestadt Lubeck"
+    },
+    {
+      "from": "MOC - German archives",
+      "to": "Bayerisches Hauptstaatsarchiv - Munchen"
+    },
+    {
+      "from": "MOC - German archives",
+      "to": "Bodmerei - where the German bottomry records are"
+    },
+    {
+      "from": "MOC - German archives",
+      "to": "Deutsches Zeitungsportal - the German full-text layer"
+    },
+    {
+      "from": "MOC - German archives",
+      "to": "Fuggerarchiv - Dillingen"
+    },
+    {
+      "from": "MOC - German archives",
+      "to": "Geheimes Staatsarchiv Preussischer Kulturbesitz - Berlin"
+    },
+    {
+      "from": "MOC - German archives",
+      "to": "German archives online - the federal access layers"
+    },
+    {
+      "from": "MOC - German archives",
+      "to": "Hanse documents on the Memory of the World register"
+    },
+    {
+      "from": "MOC - German archives",
+      "to": "Historisches Archiv der Stadt Koln and the 2009 collapse"
+    },
+    {
+      "from": "MOC - German archives",
+      "to": "Institut fur Stadtgeschichte Frankfurt"
+    },
+    {
+      "from": "MOC - German archives",
+      "to": "Landesarchiv Baden-Wurttemberg"
+    },
+    {
+      "from": "MOC - German archives",
+      "to": "Landesarchiv NRW and the Rhineland"
+    },
+    {
+      "from": "MOC - German archives",
+      "to": "MOC - Belgian archives"
+    },
+    {
+      "from": "MOC - German archives",
+      "to": "MOC - Dutch archives"
+    },
+    {
+      "from": "MOC - German archives",
+      "to": "MOC - European archives and digital collections"
+    },
+    {
+      "from": "MOC - German archives",
+      "to": "MOC - French archives"
+    },
+    {
+      "from": "MOC - German archives",
+      "to": "MOC - Italian archives"
+    },
+    {
+      "from": "MOC - German archives",
+      "to": "MOC - Spanish archives"
+    },
+    {
+      "from": "MOC - German archives",
+      "to": "Staatsarchiv Bremen"
+    },
+    {
+      "from": "MOC - German archives",
+      "to": "Staatsarchiv Hamburg"
+    },
+    {
+      "from": "MOC - German archives",
+      "to": "Stadtarchiv Augsburg and the Staatsarchiv"
+    },
+    {
+      "from": "MOC - German archives",
+      "to": "Stadtarchiv Leipzig and the fairs"
+    },
+    {
+      "from": "MOC - German archives",
+      "to": "Stadtarchiv Nurnberg"
+    },
+    {
+      "from": "MOC - German archives",
+      "to": "Stadtarchiv Stralsund and the Wendish towns"
+    },
+    {
+      "from": "MOC - German archives",
+      "to": "Stiftung Hanseatisches Wirtschaftsarchiv - Hamburg"
+    },
+    {
+      "from": "MOC - German archives",
+      "to": "The German Wirtschaftsarchive - a distributed business archive"
     },
     {
       "from": "MOC - HistorEE",
@@ -12316,6 +12885,50 @@
       "to": "Transmission versus independent recurrence is the load-bearing test"
     },
     {
+      "from": "Staatsarchiv Bremen",
+      "to": "A scheme for extending the cooperative pooling census"
+    },
+    {
+      "from": "Staatsarchiv Bremen",
+      "to": "Archiv der Hansestadt Lubeck"
+    },
+    {
+      "from": "Staatsarchiv Bremen",
+      "to": "Bodmerei - where the German bottomry records are"
+    },
+    {
+      "from": "Staatsarchiv Bremen",
+      "to": "MOC - German archives"
+    },
+    {
+      "from": "Staatsarchiv Bremen",
+      "to": "Staatsarchiv Hamburg"
+    },
+    {
+      "from": "Staatsarchiv Hamburg",
+      "to": "Averijgrossen - the general average adjudications"
+    },
+    {
+      "from": "Staatsarchiv Hamburg",
+      "to": "Bodmerei - where the German bottomry records are"
+    },
+    {
+      "from": "Staatsarchiv Hamburg",
+      "to": "MOC - German archives"
+    },
+    {
+      "from": "Staatsarchiv Hamburg",
+      "to": "Stiftung Hanseatisches Wirtschaftsarchiv - Hamburg"
+    },
+    {
+      "from": "Staatsarchiv Hamburg",
+      "to": "The amirautes - a series across the coastal departments"
+    },
+    {
+      "from": "Staatsarchiv Hamburg",
+      "to": "The coding commons must record stated rationale not only component presence"
+    },
+    {
       "from": "Stadsarchief Amsterdam - the notarial archive",
       "to": "Averijgrossen - the general average adjudications"
     },
@@ -12428,6 +13041,90 @@
       "to": "Stadsarchief Amsterdam - the notarial archive"
     },
     {
+      "from": "Stadtarchiv Augsburg and the Staatsarchiv",
+      "to": "Bayerisches Hauptstaatsarchiv - Munchen"
+    },
+    {
+      "from": "Stadtarchiv Augsburg and the Staatsarchiv",
+      "to": "Fuggerarchiv - Dillingen"
+    },
+    {
+      "from": "Stadtarchiv Augsburg and the Staatsarchiv",
+      "to": "Independence of apparatus is not independence of question"
+    },
+    {
+      "from": "Stadtarchiv Augsburg and the Staatsarchiv",
+      "to": "MOC - German archives"
+    },
+    {
+      "from": "Stadtarchiv Augsburg and the Staatsarchiv",
+      "to": "Stadtarchiv Nurnberg"
+    },
+    {
+      "from": "Stadtarchiv Leipzig and the fairs",
+      "to": "A scheme for extending the cooperative pooling census"
+    },
+    {
+      "from": "Stadtarchiv Leipzig and the fairs",
+      "to": "Institut fur Stadtgeschichte Frankfurt"
+    },
+    {
+      "from": "Stadtarchiv Leipzig and the fairs",
+      "to": "MOC - German archives"
+    },
+    {
+      "from": "Stadtarchiv Leipzig and the fairs",
+      "to": "MOC - Risk-sharing vs risk-pricing"
+    },
+    {
+      "from": "Stadtarchiv Leipzig and the fairs",
+      "to": "Syndication and the misma moneda are pooling not prudence"
+    },
+    {
+      "from": "Stadtarchiv Nurnberg",
+      "to": "A scheme for extending the cooperative pooling census"
+    },
+    {
+      "from": "Stadtarchiv Nurnberg",
+      "to": "Archivio Storico del Banco di Napoli"
+    },
+    {
+      "from": "Stadtarchiv Nurnberg",
+      "to": "Archivio di Stato di Milano - the Banco di Sant'Ambrogio"
+    },
+    {
+      "from": "Stadtarchiv Nurnberg",
+      "to": "Casa di San Giorgio - the Genoese public debt archive"
+    },
+    {
+      "from": "Stadtarchiv Nurnberg",
+      "to": "MOC - German archives"
+    },
+    {
+      "from": "Stadtarchiv Nurnberg",
+      "to": "Stadtarchiv Augsburg and the Staatsarchiv"
+    },
+    {
+      "from": "Stadtarchiv Stralsund and the Wendish towns",
+      "to": "Archiv der Hansestadt Lubeck"
+    },
+    {
+      "from": "Stadtarchiv Stralsund and the Wendish towns",
+      "to": "Archives departementales de l'Herault - Montpellier"
+    },
+    {
+      "from": "Stadtarchiv Stralsund and the Wendish towns",
+      "to": "Divergent arbitrary particulars are the independence diagnostic"
+    },
+    {
+      "from": "Stadtarchiv Stralsund and the Wendish towns",
+      "to": "Hanse documents on the Memory of the World register"
+    },
+    {
+      "from": "Stadtarchiv Stralsund and the Wendish towns",
+      "to": "MOC - German archives"
+    },
+    {
       "from": "Stationarity is a precondition of ergodicity not a corollary",
       "to": "An absorbing barrier breaks ergodicity by construction"
     },
@@ -12466,6 +13163,30 @@
     {
       "from": "Stationarity is a precondition of ergodicity not a corollary",
       "to": "The word ergodic carries four incompatible senses"
+    },
+    {
+      "from": "Stiftung Hanseatisches Wirtschaftsarchiv - Hamburg",
+      "to": "A scheme for extending the cooperative pooling census"
+    },
+    {
+      "from": "Stiftung Hanseatisches Wirtschaftsarchiv - Hamburg",
+      "to": "Chambre de commerce de Marseille - the 1599 archive"
+    },
+    {
+      "from": "Stiftung Hanseatisches Wirtschaftsarchiv - Hamburg",
+      "to": "Juridictions consulaires - the merchant courts"
+    },
+    {
+      "from": "Stiftung Hanseatisches Wirtschaftsarchiv - Hamburg",
+      "to": "MOC - German archives"
+    },
+    {
+      "from": "Stiftung Hanseatisches Wirtschaftsarchiv - Hamburg",
+      "to": "Staatsarchiv Hamburg"
+    },
+    {
+      "from": "Stiftung Hanseatisches Wirtschaftsarchiv - Hamburg",
+      "to": "The German Wirtschaftsarchive - a distributed business archive"
     },
     {
       "from": "Stoic loci on cooperation - only two argue from interdependence",
@@ -12742,6 +13463,26 @@
     {
       "from": "The Fugger diversified activity while concentrating the barrier",
       "to": "The real cut is shielded-and-pooled versus unshielded"
+    },
+    {
+      "from": "The German Wirtschaftsarchive - a distributed business archive",
+      "to": "Archives nationales du monde du travail - Roubaix"
+    },
+    {
+      "from": "The German Wirtschaftsarchive - a distributed business archive",
+      "to": "Fuggerarchiv - Dillingen"
+    },
+    {
+      "from": "The German Wirtschaftsarchive - a distributed business archive",
+      "to": "IISG and NEHA - Amsterdam"
+    },
+    {
+      "from": "The German Wirtschaftsarchive - a distributed business archive",
+      "to": "MOC - German archives"
+    },
+    {
+      "from": "The German Wirtschaftsarchive - a distributed business archive",
+      "to": "Stiftung Hanseatisches Wirtschaftsarchiv - Hamburg"
     },
     {
       "from": "The Nakai ledger scores as losses what present value scores as gains",

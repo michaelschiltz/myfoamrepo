@@ -105,8 +105,9 @@ Repository-level notes live in country MOCs, each carrying that country's struct
 | Netherlands | [[MOC - Dutch archives]] | No obstacle: CC0 scans, OAI-PMH, free scanning on demand. The easiest country, and the most biasing |
 | Belgium | [[MOC - Belgian archives]] | Worse infrastructure, better holdings. The country that breaks the proxy |
 | France | [[MOC - French archives]] | Scale, against one uniform classification. A question can be put to a *series* nationwide — and the interfaces are the least remotely-workable in the survey |
+| Germany | [[MOC - German archives]] | No frame and no national archive for the period. Competence is civic, and the cities are where the material is |
 
-**Not yet surveyed:** Germany, the Nordics, Britain, Croatia.
+**Not yet surveyed:** the Nordics, Britain, Croatia.
 
 ## Where each coded form's records sit
 
@@ -116,7 +117,7 @@ First pass, to be corrected as the register is built. ⚠️ marks a placement t
 |---|---|---|---|
 | Commenda / collegantia | [[Archivio di Stato di Venezia]], [[Archivio di Stato di Genova]], DADU | `Notarile`; *Notai Antichi* | 1–2 |
 | Fraterna compagnia | [[Archivio di Stato di Venezia]] | `Notarile`, `Giudici di Petizion` ⚠️ | 1 |
-| Bodemerij | [[Stadsarchief Amsterdam - the notarial archive]] | Notarieel archief | **3** |
+| Bodemerij / Bodmerei | [[Stadsarchief Amsterdam - the notarial archive]]; [[Bodmerei - where the German bottomry records are]] | Notarieel archief; Hamburg `Admiralitätskollegium`, Lübeck *Niederstadtbuch* ⚠️ | **3** / 1 ⚠️ |
 | Partenrederij | [[Stadsarchief Amsterdam - the notarial archive]]; [[Gemeentearchief Zaanstad - the partenrederij country]] | Notarieel archief; `OA-0020`, `OA-0170` | 3 / 1 ⚠️ |
 | Begijnhof | Dispersed — see [[Begijnhof archives - where the beguinages records are]] | unidentified across four custodians | 1 ⚠️ |
 | Naties | [[Natie archives - where the Antwerp nations records are]]; [[Stadsarchief Brugge - the Hanse and the nations]] | not located; possibly in successor-company custody | 1 ⚠️ |
