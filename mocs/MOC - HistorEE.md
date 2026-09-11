@@ -202,6 +202,11 @@ Project hub for the book. Atomic notes hang off both this project MOC and a them
 - [[The mita critiques establish five nulls and none is the estimand]] — Arroyo Abad and Maurer, Kelly, Keele and Titiunik, Karakas, Ragas, and what each actually establishes
 - [[A refutation that shares the estimand inherits the defect]] — the critique of the critics, and why an ensemble null is not evidence for non-ergodicity
 
+## Notes — mining shares and the oldest-share claim
+
+- [[Stora Kopparberg and the oldest-share claim]] — the 1288 *bytesbrev* is a debt settled with a fractional interest, and will not carry a first-instance claim
+- [[The Kux carries transferability with unlimited liability]] — the German mining share, and a configuration the joint-stock literature treats as impossible
+
 ## Concept anchors
 
 - [[Absorbing barrier]]
