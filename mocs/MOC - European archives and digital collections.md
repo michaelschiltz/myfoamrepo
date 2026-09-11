@@ -34,6 +34,8 @@ This is the project's own argument turned on its own supply chain, one scale up 
 - **Italy** digitised by project. Notarial material is open where a funded project chose it — Genoa's *Notai Antichi*, Prato's Datini, the Medici correspondence — and closed where none did. The selection tracks scholarly fashion and regional funding, not the density of the record.
 - **Britain** left the company record unfunded, so the single richest serial constitutional archive in Europe is invisible from a desk.
 
+**Belgium qualifies this, and the qualification is the more important half.** Its infrastructure is clearly the worse — images behind a registration wall, a press corpus a fifteenth the size of the Dutch one — and its holdings are, for this project's central question, the best in the survey. Until that pass every country confirmed the funding map in the same direction, which made it easy to read as a description of where the evidence is. **It is not. It is a description of where the evidence is *legible*, and the two come apart.** See [[Belgian archives online - the access layers]].
+
 The operative rule follows directly and is the same one already in force for the VOC/EIC comparison: **never compute a frequency across national corpora.** Any statement of the form "the Dutch record shows X more often than the Italian" is uninterpretable while one side was counted by machine over millions of transcribed pages and the other by hand over whatever a project imaged. See [[Refusals are observations of the filter not inferences from survivors]] and [[The deficit reading of absence is the scalar ranking in evidentiary form]].
 
 ## Third decision: register per source, not per archive
@@ -66,7 +68,7 @@ Descriptions, not documents. Use them to discover that a series *exists* and who
 | Country | Portal | URL | Note |
 |---|---|---|---|
 | Netherlands | Nationaal Archief; archieven.nl | <https://www.nationaalarchief.nl/> | Inventories and scans **CC0**, OAI-PMH harvesting, 300 dpi downloads, ~2.8% restricted. No IIIF advertised. See [[Dutch archives online - the access layers]] |
-| Belgium | Rijksarchief / Archives de l'État | <https://search.arch.be/> | Millions of scans, free, image-forward ⚠️ figure unverified |
+| Belgium | Rijksarchief / Archives de l'État | <https://search.arch.be/> | Millions of images via AGATHA, free — but **registration required to view**, and no CC0, OAI-PMH or bulk route advertised. See [[Belgian archives online - the access layers]] |
 | United Kingdom | TNA Discovery | <https://discovery.nationalarchives.gov.uk/> | Catalogue. Company and friendly-society records are description-only |
 | France | FranceArchives + départementales | <https://francearchives.gouv.fr/> | Federated; the *départementales* hold the commercial material and image independently |
 | Spain | PARES | <https://pares.cultura.gob.es/> | State archives only — the devolved and corporation-held archives are outside it. See [[PARES - the access layer for the Spanish state archives]] and the Spain section below |
@@ -184,6 +186,31 @@ The caution travels with the convenience. This material will be easier to work t
 - [[Stadsarchief Rotterdam - the notarial archive and scanning on demand]] — the second maritime notariate, and the cheap independence test
 - [[IISG and NEHA - Amsterdam]] — business archives, price currents, and the mutual and cooperative records the entity census is short of
 
+## Belgium — repository notes
+
+**The country that separates digital infrastructure from archival holdings**, and the one that shows the two are independent variables. On infrastructure Belgium is clearly worse than the Netherlands: images behind a registration wall with no open-data posture, a full-text layer fifteen times thinner, custody split four ways at once, and one great archive destroyed outright. On holdings it is not worse — and for this project's central question it is better than anything else surveyed.
+
+Until this pass every country confirmed the funding-map argument in the same direction, which made it easy to mistake for a description rather than a warning. **Ease of access is not a proxy for richness.**
+
+**Antwerp**
+
+- [[Insolvente Boedelskamer - Antwerp]] — 204 m, 3,000+ fonds, from 1518, 150+ complete firm archives, UNESCO Memory of the World. **An archive of absorption**: these papers survive because the firms failed. The best-suited single fonds in the whole survey
+- [[FelixArchief - Antwerp city archive]] — `Schepenregisters` and their regesten; the archive that could repair a single-witness row
+- [[Rijksarchief te Antwerpen and Beveren - the notarial series]] — the custody trap: in Belgium the notarial protocols are with the *state*, not the city
+- [[Natie archives - where the Antwerp nations records are]] — a coded form whose records have never been located
+
+**The transcribed corpus**
+
+- [[Itinera Nova - the Leuven aldermen's registers]] — 14th–18th c., volunteer-transcribed, full-text, free, 100,000+ acts. Belgium has a layer-3 corpus; Spain and Italy have none. It is also the wrong material for this project's spine, which is the trap
+
+**The rest**
+
+- [[Rijksarchief in Belgie - the state archives network]] — AGATHA, backbone series, registration required
+- [[Stadsarchief Brugge - the Hanse and the nations]] — the merchant nations before Antwerp; the other end of the Burgos-at-Bruges thread
+- [[Stadsarchief Gent - the begijnhoven and the guilds]] · [[Begijnhof archives - where the beguinages records are]] · [[KADOC - religious archives at Leuven]] — a coded form dispersed across four custodians by the dissolution settlement, which sorted documents by type rather than at random
+- [[BelgicaPress and KBR - the thin full-text layer]] — 1.2M pages against Delpher's 18M
+- [[Archief Ieper - one charter and five accounts]] — the belfry fire of 22 November 1914. **A fire has no shape**, so the gap licenses no inference in either direction
+
 ## Where each coded form's records sit
 
 First pass, to be corrected as the register is built. ⚠️ marks a placement that has not been verified against a finding aid.
@@ -194,12 +221,13 @@ First pass, to be corrected as the register is built. ⚠️ marks a placement t
 | Fraterna compagnia | [[Archivio di Stato di Venezia]] | `Notarile`, `Giudici di Petizion` ⚠️ | 1 |
 | Bodemerij | [[Stadsarchief Amsterdam - the notarial archive]] | Notarieel archief | **3** |
 | Partenrederij | [[Stadsarchief Amsterdam - the notarial archive]]; [[Gemeentearchief Zaanstad - the partenrederij country]] | Notarieel archief; `OA-0020`, `OA-0170` | 3 / 1 ⚠️ |
-| Begijnhof | Belgian city archives, Rijksarchief, KADOC ⚠️ | unidentified | 1 ⚠️ |
-| Naties | Antwerp FelixArchief, Bruges city archives ⚠️ | — | 1 ⚠️ |
+| Begijnhof | Dispersed — see [[Begijnhof archives - where the beguinages records are]] | unidentified across four custodians | 1 ⚠️ |
+| Naties | [[Natie archives - where the Antwerp nations records are]]; [[Stadsarchief Brugge - the Hanse and the nations]] | not located; possibly in successor-company custody | 1 ⚠️ |
 | Bazacle | Archives départementales de la Haute-Garonne | ⚠️ series not yet identified | 1 ⚠️ |
 | Deed of settlement company | TNA Kew | `BT 41`, `BT 31`, `BT 34` | **1 only** |
 | Chartered corporation | TNA Kew | charters; Patent Rolls `C 66` ⚠️ | 1 |
 | Mutual pole / friendly societies | TNA Kew | `FS` — Registry of Friendly Societies ⚠️ subseries | 1 |
+| Entity shielding, creditor limb | [[Insolvente Boedelskamer - Antwerp]]; [[Desolate Boedelkamer - Amsterdam]] | `IB 1`–`IB 3,038` | 1 ⚠️ |
 | General average | [[Averijgrossen - the general average adjudications]] | Schout en Schepenen, *Vonnissen ter zaken van Averij Grosse* 1700–1810 | **2, indexed** |
 | Asiento de avería | [[Archivo General de Indias - Sevilla]] | `CONSULADOS`, `CONTADURIA`, `INDIFERENTE GENERAL` ⚠️ | 2 (partial) |
 | VOC | [[Nationaal Archief - The Hague]]; [[Zeeuws Archief - the Zeeland chamber and the MCC]]; [[Westfries Archief - the Hoorn and Enkhuizen chambers]] | `1.04.02`; Zeeland, Hoorn and Enkhuizen chambers | 3 / 1 |

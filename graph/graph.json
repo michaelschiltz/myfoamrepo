@@ -50,7 +50,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "A migrated institution collects local names not local forms",
-      "value": 25,
+      "value": 26,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -104,7 +104,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "A scheme for extending the cooperative pooling census",
-      "value": 27,
+      "value": 29,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -208,6 +208,15 @@
       "shape": "dot"
     },
     {
+      "id": "Archief Ieper - one charter and five accounts",
+      "type": "reference",
+      "group": "reference",
+      "label": "Archief Ieper - one charter and five accounts",
+      "value": 10,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
       "id": "Archivio Apostolico Vaticano",
       "type": "reference",
       "group": "reference",
@@ -266,7 +275,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Archivio di Stato di Napoli",
-      "value": 11,
+      "value": 13,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -433,6 +442,33 @@
       "shape": "dot"
     },
     {
+      "id": "Begijnhof archives - where the beguinages records are",
+      "type": "reference",
+      "group": "reference",
+      "label": "Begijnhof archives - where the beguinages records are",
+      "value": 19,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "Belgian archives online - the access layers",
+      "type": "reference",
+      "group": "reference",
+      "label": "Belgian archives online - the access layers",
+      "value": 23,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "BelgicaPress and KBR - the thin full-text layer",
+      "type": "reference",
+      "group": "reference",
+      "label": "BelgicaPress and KBR - the thin full-text layer",
+      "value": 10,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
       "id": "Borrow the diagnostics not the tree",
       "type": "permanent",
       "group": "seed",
@@ -482,7 +518,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Consulado de Burgos - the universidad de mercaderes",
-      "value": 11,
+      "value": 14,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -536,7 +572,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Delpher - the full-text layer",
-      "value": 15,
+      "value": 17,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -554,7 +590,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Desolate Boedelkamer - Amsterdam",
-      "value": 16,
+      "value": 20,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -626,7 +662,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Dutch archives online - the access layers",
-      "value": 20,
+      "value": 22,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -689,7 +725,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Entity shielding and owner shielding protect different trajectories",
-      "value": 35,
+      "value": 37,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -736,6 +772,15 @@
       "label": "Fat tails do not require fat-tailed inputs",
       "value": 29,
       "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "FelixArchief - Antwerp city archive",
+      "type": "reference",
+      "group": "reference",
+      "label": "FelixArchief - Antwerp city archive",
+      "value": 19,
+      "color": "#66a61e",
       "shape": "dot"
     },
     {
@@ -887,7 +932,7 @@
       "type": "reference",
       "group": "reference",
       "label": "IISG and NEHA - Amsterdam",
-      "value": 13,
+      "value": 15,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -896,7 +941,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Identity-wrapper and perpetual-monopoly are distinct shielding facets",
-      "value": 20,
+      "value": 23,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -905,8 +950,17 @@
       "type": "permanent",
       "group": "seed",
       "label": "Independence of apparatus is not independence of question",
-      "value": 21,
+      "value": 23,
       "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "Insolvente Boedelskamer - Antwerp",
+      "type": "reference",
+      "group": "reference",
+      "label": "Insolvente Boedelskamer - Antwerp",
+      "value": 19,
+      "color": "#66a61e",
       "shape": "dot"
     },
     {
@@ -955,6 +1009,15 @@
       "shape": "dot"
     },
     {
+      "id": "Itinera Nova - the Leuven aldermen's registers",
+      "type": "reference",
+      "group": "reference",
+      "label": "Itinera Nova - the Leuven aldermen's registers",
+      "value": 11,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
       "id": "Jensen gap",
       "type": "permanent",
       "group": "stub",
@@ -970,6 +1033,15 @@
       "label": "Jensen supplies the gap but only the dynamic privileges the logarithm",
       "value": 34,
       "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "KADOC - religious archives at Leuven",
+      "type": "reference",
+      "group": "reference",
+      "label": "KADOC - religious archives at Leuven",
+      "value": 13,
+      "color": "#66a61e",
       "shape": "dot"
     },
     {
@@ -1081,11 +1153,20 @@
       "shape": "dot"
     },
     {
+      "id": "Natie archives - where the Antwerp nations records are",
+      "type": "reference",
+      "group": "reference",
+      "label": "Natie archives - where the Antwerp nations records are",
+      "value": 20,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
       "id": "Natie is a false cognate",
       "type": "permanent",
       "group": "seed",
       "label": "Natie is a false cognate",
-      "value": 21,
+      "value": 24,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1211,7 +1292,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Persistence samples are conditioned on non-absorption",
-      "value": 51,
+      "value": 53,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1292,7 +1373,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Refusals are observations of the filter not inferences from survivors",
-      "value": 86,
+      "value": 89,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1339,6 +1420,24 @@
       "label": "Ribbit mandates exposure rather than forbidding gain",
       "value": 24,
       "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "Rijksarchief in Belgie - the state archives network",
+      "type": "reference",
+      "group": "reference",
+      "label": "Rijksarchief in Belgie - the state archives network",
+      "value": 14,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "Rijksarchief te Antwerpen and Beveren - the notarial series",
+      "type": "reference",
+      "group": "reference",
+      "label": "Rijksarchief te Antwerpen and Beveren - the notarial series",
+      "value": 13,
+      "color": "#66a61e",
       "shape": "dot"
     },
     {
@@ -1445,7 +1544,25 @@
       "type": "reference",
       "group": "reference",
       "label": "Stadsarchief Amsterdam - the notarial archive",
-      "value": 27,
+      "value": 31,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "Stadsarchief Brugge - the Hanse and the nations",
+      "type": "reference",
+      "group": "reference",
+      "label": "Stadsarchief Brugge - the Hanse and the nations",
+      "value": 12,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "Stadsarchief Gent - the begijnhoven and the guilds",
+      "type": "reference",
+      "group": "reference",
+      "label": "Stadsarchief Gent - the begijnhoven and the guilds",
+      "value": 10,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1508,7 +1625,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The Antwerp phases separate on two cells and the boundary is textual",
-      "value": 18,
+      "value": 19,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1562,7 +1679,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The VOC-EIC digital asymmetry is an access regime not a survival difference",
-      "value": 30,
+      "value": 36,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1580,7 +1697,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The alleenrecht is monopoly held as tradable property",
-      "value": 16,
+      "value": 17,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1625,7 +1742,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The coding commons must record stated rationale not only component presence",
-      "value": 45,
+      "value": 46,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1661,7 +1778,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The creditor limb of entity shielding has no witness",
-      "value": 22,
+      "value": 24,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1670,7 +1787,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The deficit reading of absence is the scalar ranking in evidentiary form",
-      "value": 41,
+      "value": 43,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1895,7 +2012,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The naties are a six-century Lindy institution",
-      "value": 25,
+      "value": 29,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -2318,7 +2435,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Digitisation and text recognition",
-      "value": 32,
+      "value": 33,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -2336,7 +2453,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Entity-shielding and corporate forms",
-      "value": 106,
+      "value": 107,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -2354,7 +2471,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - European archives and digital collections",
-      "value": 118,
+      "value": 150,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -3374,6 +3491,26 @@
       "to": "Split provenance into priority and independence"
     },
     {
+      "from": "Archief Ieper - one charter and five accounts",
+      "to": "Archivio di Stato di Napoli"
+    },
+    {
+      "from": "Archief Ieper - one charter and five accounts",
+      "to": "Belgian archives online - the access layers"
+    },
+    {
+      "from": "Archief Ieper - one charter and five accounts",
+      "to": "MOC - European archives and digital collections"
+    },
+    {
+      "from": "Archief Ieper - one charter and five accounts",
+      "to": "Refusals are observations of the filter not inferences from survivors"
+    },
+    {
+      "from": "Archief Ieper - one charter and five accounts",
+      "to": "The deficit reading of absence is the scalar ranking in evidentiary form"
+    },
+    {
       "from": "Archivio Apostolico Vaticano",
       "to": "Archivio di Stato di Roma - the luoghi di monte"
     },
@@ -4060,6 +4197,90 @@
     {
       "from": "Bad luck is what the ensemble average calls the modal trajectory",
       "to": "Time-average optimization is a survivorship property not an intention"
+    },
+    {
+      "from": "Begijnhof archives - where the beguinages records are",
+      "to": "Entity shielding and owner shielding protect different trajectories"
+    },
+    {
+      "from": "Begijnhof archives - where the beguinages records are",
+      "to": "KADOC - religious archives at Leuven"
+    },
+    {
+      "from": "Begijnhof archives - where the beguinages records are",
+      "to": "MOC - European archives and digital collections"
+    },
+    {
+      "from": "Begijnhof archives - where the beguinages records are",
+      "to": "Refusals are observations of the filter not inferences from survivors"
+    },
+    {
+      "from": "Begijnhof archives - where the beguinages records are",
+      "to": "Rijksarchief in Belgie - the state archives network"
+    },
+    {
+      "from": "Begijnhof archives - where the beguinages records are",
+      "to": "Stadsarchief Gent - the begijnhoven and the guilds"
+    },
+    {
+      "from": "Belgian archives online - the access layers",
+      "to": "Archief Ieper - one charter and five accounts"
+    },
+    {
+      "from": "Belgian archives online - the access layers",
+      "to": "BelgicaPress and KBR - the thin full-text layer"
+    },
+    {
+      "from": "Belgian archives online - the access layers",
+      "to": "Desolate Boedelkamer - Amsterdam"
+    },
+    {
+      "from": "Belgian archives online - the access layers",
+      "to": "Dutch archives online - the access layers"
+    },
+    {
+      "from": "Belgian archives online - the access layers",
+      "to": "Insolvente Boedelskamer - Antwerp"
+    },
+    {
+      "from": "Belgian archives online - the access layers",
+      "to": "Itinera Nova - the Leuven aldermen's registers"
+    },
+    {
+      "from": "Belgian archives online - the access layers",
+      "to": "KADOC - religious archives at Leuven"
+    },
+    {
+      "from": "Belgian archives online - the access layers",
+      "to": "MOC - European archives and digital collections"
+    },
+    {
+      "from": "Belgian archives online - the access layers",
+      "to": "Rijksarchief in Belgie - the state archives network"
+    },
+    {
+      "from": "Belgian archives online - the access layers",
+      "to": "The VOC-EIC digital asymmetry is an access regime not a survival difference"
+    },
+    {
+      "from": "BelgicaPress and KBR - the thin full-text layer",
+      "to": "Belgian archives online - the access layers"
+    },
+    {
+      "from": "BelgicaPress and KBR - the thin full-text layer",
+      "to": "Delpher - the full-text layer"
+    },
+    {
+      "from": "BelgicaPress and KBR - the thin full-text layer",
+      "to": "MOC - European archives and digital collections"
+    },
+    {
+      "from": "BelgicaPress and KBR - the thin full-text layer",
+      "to": "The VOC-EIC digital asymmetry is an access regime not a survival difference"
+    },
+    {
+      "from": "BelgicaPress and KBR - the thin full-text layer",
+      "to": "The deficit reading of absence is the scalar ranking in evidentiary form"
     },
     {
       "from": "Borrow the diagnostics not the tree",
@@ -5346,6 +5567,26 @@
       "to": "Terminal wealth is permutation-invariant but survival is not"
     },
     {
+      "from": "FelixArchief - Antwerp city archive",
+      "to": "Independence of apparatus is not independence of question"
+    },
+    {
+      "from": "FelixArchief - Antwerp city archive",
+      "to": "Insolvente Boedelskamer - Antwerp"
+    },
+    {
+      "from": "FelixArchief - Antwerp city archive",
+      "to": "MOC - European archives and digital collections"
+    },
+    {
+      "from": "FelixArchief - Antwerp city archive",
+      "to": "Natie archives - where the Antwerp nations records are"
+    },
+    {
+      "from": "FelixArchief - Antwerp city archive",
+      "to": "The Antwerp phases separate on two cells and the boundary is textual"
+    },
+    {
       "from": "Flows make the dynamic affine and affine maps do not commute",
       "to": "MOC - Ergodicity and the time-ensemble distinction"
     },
@@ -6118,6 +6359,34 @@
       "to": "organizational_forms"
     },
     {
+      "from": "Insolvente Boedelskamer - Antwerp",
+      "to": "Desolate Boedelkamer - Amsterdam"
+    },
+    {
+      "from": "Insolvente Boedelskamer - Antwerp",
+      "to": "FelixArchief - Antwerp city archive"
+    },
+    {
+      "from": "Insolvente Boedelskamer - Antwerp",
+      "to": "MOC - Entity-shielding and corporate forms"
+    },
+    {
+      "from": "Insolvente Boedelskamer - Antwerp",
+      "to": "MOC - European archives and digital collections"
+    },
+    {
+      "from": "Insolvente Boedelskamer - Antwerp",
+      "to": "Persistence samples are conditioned on non-absorption"
+    },
+    {
+      "from": "Insolvente Boedelskamer - Antwerp",
+      "to": "The coding commons must record stated rationale not only component presence"
+    },
+    {
+      "from": "Insolvente Boedelskamer - Antwerp",
+      "to": "The creditor limb of entity shielding has no witness"
+    },
+    {
       "from": "Institutions substitute state-verification for outcome-inference as ruin exposure rises",
       "to": "Absorbing barrier"
     },
@@ -6306,6 +6575,26 @@
       "to": "isqa"
     },
     {
+      "from": "Itinera Nova - the Leuven aldermen's registers",
+      "to": "Belgian archives online - the access layers"
+    },
+    {
+      "from": "Itinera Nova - the Leuven aldermen's registers",
+      "to": "MOC - Digitisation and text recognition"
+    },
+    {
+      "from": "Itinera Nova - the Leuven aldermen's registers",
+      "to": "MOC - European archives and digital collections"
+    },
+    {
+      "from": "Itinera Nova - the Leuven aldermen's registers",
+      "to": "Stadsarchief Amsterdam - the notarial archive"
+    },
+    {
+      "from": "Itinera Nova - the Leuven aldermen's registers",
+      "to": "The VOC-EIC digital asymmetry is an access regime not a survival difference"
+    },
+    {
       "from": "Jensen gap",
       "to": "Entity-shielding"
     },
@@ -6372,6 +6661,26 @@
     {
       "from": "Jensen supplies the gap but only the dynamic privileges the logarithm",
       "to": "Time-average"
+    },
+    {
+      "from": "KADOC - religious archives at Leuven",
+      "to": "A scheme for extending the cooperative pooling census"
+    },
+    {
+      "from": "KADOC - religious archives at Leuven",
+      "to": "Begijnhof archives - where the beguinages records are"
+    },
+    {
+      "from": "KADOC - religious archives at Leuven",
+      "to": "Belgian archives online - the access layers"
+    },
+    {
+      "from": "KADOC - religious archives at Leuven",
+      "to": "IISG and NEHA - Amsterdam"
+    },
+    {
+      "from": "KADOC - religious archives at Leuven",
+      "to": "MOC - European archives and digital collections"
     },
     {
       "from": "Kamer van Assurantie en Averij - Amsterdam",
@@ -7479,6 +7788,10 @@
     },
     {
       "from": "MOC - European archives and digital collections",
+      "to": "Archief Ieper - one charter and five accounts"
+    },
+    {
+      "from": "MOC - European archives and digital collections",
       "to": "Archivio Apostolico Vaticano"
     },
     {
@@ -7563,6 +7876,18 @@
     },
     {
       "from": "MOC - European archives and digital collections",
+      "to": "Begijnhof archives - where the beguinages records are"
+    },
+    {
+      "from": "MOC - European archives and digital collections",
+      "to": "Belgian archives online - the access layers"
+    },
+    {
+      "from": "MOC - European archives and digital collections",
+      "to": "BelgicaPress and KBR - the thin full-text layer"
+    },
+    {
+      "from": "MOC - European archives and digital collections",
       "to": "Casa di San Giorgio - the Genoese public debt archive"
     },
     {
@@ -7587,6 +7912,10 @@
     },
     {
       "from": "MOC - European archives and digital collections",
+      "to": "FelixArchief - Antwerp city archive"
+    },
+    {
+      "from": "MOC - European archives and digital collections",
       "to": "GLOBALISE removes the HTR question for the VOC and leaves it standing for the EIC"
     },
     {
@@ -7604,6 +7933,18 @@
     {
       "from": "MOC - European archives and digital collections",
       "to": "IISG and NEHA - Amsterdam"
+    },
+    {
+      "from": "MOC - European archives and digital collections",
+      "to": "Insolvente Boedelskamer - Antwerp"
+    },
+    {
+      "from": "MOC - European archives and digital collections",
+      "to": "Itinera Nova - the Leuven aldermen's registers"
+    },
+    {
+      "from": "MOC - European archives and digital collections",
+      "to": "KADOC - religious archives at Leuven"
     },
     {
       "from": "MOC - European archives and digital collections",
@@ -7635,6 +7976,10 @@
     },
     {
       "from": "MOC - European archives and digital collections",
+      "to": "Natie archives - where the Antwerp nations records are"
+    },
+    {
+      "from": "MOC - European archives and digital collections",
       "to": "Nationaal Archief - The Hague"
     },
     {
@@ -7651,11 +7996,27 @@
     },
     {
       "from": "MOC - European archives and digital collections",
+      "to": "Rijksarchief in Belgie - the state archives network"
+    },
+    {
+      "from": "MOC - European archives and digital collections",
+      "to": "Rijksarchief te Antwerpen and Beveren - the notarial series"
+    },
+    {
+      "from": "MOC - European archives and digital collections",
       "to": "SIAS SIUSA and SAN - the Italian access layers"
     },
     {
       "from": "MOC - European archives and digital collections",
       "to": "Stadsarchief Amsterdam - the notarial archive"
+    },
+    {
+      "from": "MOC - European archives and digital collections",
+      "to": "Stadsarchief Brugge - the Hanse and the nations"
+    },
+    {
+      "from": "MOC - European archives and digital collections",
+      "to": "Stadsarchief Gent - the begijnhoven and the guilds"
     },
     {
       "from": "MOC - European archives and digital collections",
@@ -9018,6 +9379,38 @@
       "to": "clearing_records"
     },
     {
+      "from": "Natie archives - where the Antwerp nations records are",
+      "to": "Consulado de Burgos - the universidad de mercaderes"
+    },
+    {
+      "from": "Natie archives - where the Antwerp nations records are",
+      "to": "FelixArchief - Antwerp city archive"
+    },
+    {
+      "from": "Natie archives - where the Antwerp nations records are",
+      "to": "Identity-wrapper and perpetual-monopoly are distinct shielding facets"
+    },
+    {
+      "from": "Natie archives - where the Antwerp nations records are",
+      "to": "MOC - European archives and digital collections"
+    },
+    {
+      "from": "Natie archives - where the Antwerp nations records are",
+      "to": "Natie is a false cognate"
+    },
+    {
+      "from": "Natie archives - where the Antwerp nations records are",
+      "to": "Stadsarchief Brugge - the Hanse and the nations"
+    },
+    {
+      "from": "Natie archives - where the Antwerp nations records are",
+      "to": "The alleenrecht is monopoly held as tradable property"
+    },
+    {
+      "from": "Natie archives - where the Antwerp nations records are",
+      "to": "The naties are a six-century Lindy institution"
+    },
+    {
       "from": "Natie is a false cognate",
       "to": "Entity-shielding"
     },
@@ -10086,6 +10479,46 @@
       "to": "isqa"
     },
     {
+      "from": "Rijksarchief in Belgie - the state archives network",
+      "to": "Begijnhof archives - where the beguinages records are"
+    },
+    {
+      "from": "Rijksarchief in Belgie - the state archives network",
+      "to": "Belgian archives online - the access layers"
+    },
+    {
+      "from": "Rijksarchief in Belgie - the state archives network",
+      "to": "FelixArchief - Antwerp city archive"
+    },
+    {
+      "from": "Rijksarchief in Belgie - the state archives network",
+      "to": "MOC - European archives and digital collections"
+    },
+    {
+      "from": "Rijksarchief in Belgie - the state archives network",
+      "to": "Rijksarchief te Antwerpen and Beveren - the notarial series"
+    },
+    {
+      "from": "Rijksarchief te Antwerpen and Beveren - the notarial series",
+      "to": "A migrated institution collects local names not local forms"
+    },
+    {
+      "from": "Rijksarchief te Antwerpen and Beveren - the notarial series",
+      "to": "FelixArchief - Antwerp city archive"
+    },
+    {
+      "from": "Rijksarchief te Antwerpen and Beveren - the notarial series",
+      "to": "MOC - European archives and digital collections"
+    },
+    {
+      "from": "Rijksarchief te Antwerpen and Beveren - the notarial series",
+      "to": "Rijksarchief in Belgie - the state archives network"
+    },
+    {
+      "from": "Rijksarchief te Antwerpen and Beveren - the notarial series",
+      "to": "Stadsarchief Amsterdam - the notarial archive"
+    },
+    {
       "from": "Robotic V-cradle book scanners - Treventus and Qidenus",
       "to": "Desktop and portable capture - CZUR and ScanTent"
     },
@@ -10488,6 +10921,46 @@
     {
       "from": "Stadsarchief Amsterdam - the notarial archive",
       "to": "Transkribus - managed HTR platform"
+    },
+    {
+      "from": "Stadsarchief Brugge - the Hanse and the nations",
+      "to": "Consulado de Burgos - the universidad de mercaderes"
+    },
+    {
+      "from": "Stadsarchief Brugge - the Hanse and the nations",
+      "to": "Identity-wrapper and perpetual-monopoly are distinct shielding facets"
+    },
+    {
+      "from": "Stadsarchief Brugge - the Hanse and the nations",
+      "to": "MOC - European archives and digital collections"
+    },
+    {
+      "from": "Stadsarchief Brugge - the Hanse and the nations",
+      "to": "Natie archives - where the Antwerp nations records are"
+    },
+    {
+      "from": "Stadsarchief Brugge - the Hanse and the nations",
+      "to": "The naties are a six-century Lindy institution"
+    },
+    {
+      "from": "Stadsarchief Gent - the begijnhoven and the guilds",
+      "to": "A scheme for extending the cooperative pooling census"
+    },
+    {
+      "from": "Stadsarchief Gent - the begijnhoven and the guilds",
+      "to": "Begijnhof archives - where the beguinages records are"
+    },
+    {
+      "from": "Stadsarchief Gent - the begijnhoven and the guilds",
+      "to": "Belgian archives online - the access layers"
+    },
+    {
+      "from": "Stadsarchief Gent - the begijnhoven and the guilds",
+      "to": "KADOC - religious archives at Leuven"
+    },
+    {
+      "from": "Stadsarchief Gent - the begijnhoven and the guilds",
+      "to": "MOC - European archives and digital collections"
     },
     {
       "from": "Stadsarchief Rotterdam - the notarial archive and scanning on demand",
