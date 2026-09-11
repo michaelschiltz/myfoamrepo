@@ -50,7 +50,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "A migrated institution collects local names not local forms",
-      "value": 37,
+      "value": 38,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -104,7 +104,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "A scheme for extending the cooperative pooling census",
-      "value": 39,
+      "value": 40,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -248,7 +248,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Archives de Paris and the fire of 1871",
-      "value": 14,
+      "value": 17,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -284,7 +284,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Archives departementales de la Loire-Atlantique - Nantes",
-      "value": 16,
+      "value": 18,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -311,7 +311,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Archives departementales du Nord - the Chambre des comptes de Lille",
-      "value": 12,
+      "value": 13,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -356,7 +356,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Archives nationales du monde du travail - Roubaix",
-      "value": 15,
+      "value": 18,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -365,7 +365,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Archivio Apostolico Vaticano",
-      "value": 14,
+      "value": 15,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -491,7 +491,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Archivo Foral de Bizkaia - the Consulado de Bilbao",
-      "value": 14,
+      "value": 15,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -509,7 +509,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Archivo General de Simancas",
-      "value": 14,
+      "value": 15,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -617,7 +617,16 @@
       "type": "reference",
       "group": "reference",
       "label": "Averijgrossen - the general average adjudications",
-      "value": 21,
+      "value": 25,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "BT 41 BT 31 and the company files",
+      "type": "reference",
+      "group": "reference",
+      "label": "BT 41 BT 31 and the company files",
+      "value": 13,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -662,7 +671,7 @@
       "type": "reference",
       "group": "reference",
       "label": "BelgicaPress and KBR - the thin full-text layer",
-      "value": 12,
+      "value": 13,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -671,7 +680,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Bergen and the Hanseatic Kontor",
-      "value": 19,
+      "value": 20,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -712,6 +721,33 @@
       "shape": "dot"
     },
     {
+      "id": "Bristol Archives",
+      "type": "reference",
+      "group": "reference",
+      "label": "Bristol Archives",
+      "value": 11,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "British Library - the India Office Records",
+      "type": "reference",
+      "group": "reference",
+      "label": "British Library - the India Office Records",
+      "value": 14,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "British archives online - the access layers",
+      "type": "reference",
+      "group": "reference",
+      "label": "British archives online - the access layers",
+      "value": 17,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
       "id": "Brown tests equality where a risk reading predicts dispersion",
       "type": "permanent",
       "group": "seed",
@@ -721,11 +757,20 @@
       "shape": "dot"
     },
     {
+      "id": "C 66 - the Patent Rolls and the charters",
+      "type": "reference",
+      "group": "reference",
+      "label": "C 66 - the Patent Rolls and the charters",
+      "value": 12,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
       "id": "Casa di San Giorgio - the Genoese public debt archive",
       "type": "reference",
       "group": "reference",
       "label": "Casa di San Giorgio - the Genoese public debt archive",
-      "value": 20,
+      "value": 21,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -734,7 +779,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Centrum for Naringslivshistoria - Stockholm",
-      "value": 15,
+      "value": 17,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -743,7 +788,16 @@
       "type": "reference",
       "group": "reference",
       "label": "Chambre de commerce de Marseille - the 1599 archive",
-      "value": 14,
+      "value": 16,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "Chancery and the equity pleadings",
+      "type": "reference",
+      "group": "reference",
+      "label": "Chancery and the equity pleadings",
+      "value": 13,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -806,7 +860,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Delpher - the full-text layer",
-      "value": 21,
+      "value": 22,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -833,7 +887,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Deutsches Zeitungsportal - the German full-text layer",
-      "value": 11,
+      "value": 12,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -932,7 +986,7 @@
       "type": "reference",
       "group": "reference",
       "label": "EIC digital corpus - what is online and on what terms",
-      "value": 17,
+      "value": 19,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -977,7 +1031,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Entity shielding and owner shielding protect different trajectories",
-      "value": 38,
+      "value": 40,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1015,6 +1069,15 @@
       "label": "Extending a pool along kin proximity buys N without buying decorrelation",
       "value": 17,
       "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "FS - the Registry of Friendly Societies",
+      "type": "reference",
+      "group": "reference",
+      "label": "FS - the Registry of Friendly Societies",
+      "value": 12,
+      "color": "#66a61e",
       "shape": "dot"
     },
     {
@@ -1085,7 +1148,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Fuggerarchiv - Dillingen",
-      "value": 19,
+      "value": 23,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1103,7 +1166,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Gallica and RetroNews - the French full-text layer",
-      "value": 13,
+      "value": 15,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1189,6 +1252,24 @@
       "shape": "dot"
     },
     {
+      "id": "Guildhall Library and the City livery companies",
+      "type": "reference",
+      "group": "reference",
+      "label": "Guildhall Library and the City livery companies",
+      "value": 18,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "HCA - the High Court of Admiralty",
+      "type": "reference",
+      "group": "reference",
+      "label": "HCA - the High Court of Admiralty",
+      "value": 16,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
       "id": "Hanse documents on the Memory of the World register",
       "type": "reference",
       "group": "reference",
@@ -1238,7 +1319,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Historisches Archiv der Stadt Koln and the 2009 collapse",
-      "value": 14,
+      "value": 17,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1265,7 +1346,7 @@
       "type": "reference",
       "group": "reference",
       "label": "IISG and NEHA - Amsterdam",
-      "value": 21,
+      "value": 22,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1274,7 +1355,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Identity-wrapper and perpetual-monopoly are distinct shielding facets",
-      "value": 29,
+      "value": 30,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1283,7 +1364,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Independence of apparatus is not independence of question",
-      "value": 28,
+      "value": 29,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1292,7 +1373,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Insolvente Boedelskamer - Antwerp",
-      "value": 21,
+      "value": 23,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1472,7 +1553,7 @@
       "type": "source",
       "group": "source",
       "label": "Le Bris Goetzmann Pouget 2023 on convergent evolution toward the joint-stock company",
-      "value": 29,
+      "value": 31,
       "color": "#7570b3",
       "shape": "dot"
     },
@@ -1483,6 +1564,24 @@
       "label": "Legal violence is the weapon of the militarily insufficient",
       "value": 8,
       "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "Liverpool Record Office and the Maritime Archives",
+      "type": "reference",
+      "group": "reference",
+      "label": "Liverpool Record Office and the Maritime Archives",
+      "value": 11,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "Lloyd's and the marine insurance records",
+      "type": "reference",
+      "group": "reference",
+      "label": "Lloyd's and the marine insurance records",
+      "value": 17,
+      "color": "#66a61e",
       "shape": "dot"
     },
     {
@@ -1553,7 +1652,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Natie archives - where the Antwerp nations records are",
-      "value": 30,
+      "value": 32,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1572,6 +1671,33 @@
       "group": "reference",
       "label": "Nationaal Archief - The Hague",
       "value": 20,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "National Archives of Ireland PRONI and the Four Courts fire",
+      "type": "reference",
+      "group": "reference",
+      "label": "National Archives of Ireland PRONI and the Four Courts fire",
+      "value": 10,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "National Library of Wales",
+      "type": "reference",
+      "group": "reference",
+      "label": "National Library of Wales",
+      "value": 7,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "National Records of Scotland",
+      "type": "reference",
+      "group": "reference",
+      "label": "National Records of Scotland",
+      "value": 9,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1616,7 +1742,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Noord-Hollands Archief - Haarlem",
-      "value": 13,
+      "value": 15,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1679,7 +1805,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Parlement de Paris - serie X",
-      "value": 13,
+      "value": 14,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1760,7 +1886,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Pricing risk does not remove it",
-      "value": 32,
+      "value": 34,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1805,7 +1931,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Refusals are observations of the filter not inferences from survivors",
-      "value": 100,
+      "value": 105,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1877,7 +2003,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Rijksarchief te Antwerpen and Beveren - the notarial series",
-      "value": 18,
+      "value": 19,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1924,6 +2050,15 @@
       "label": "SIAS SIUSA and SAN - the Italian access layers",
       "value": 25,
       "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "Scots partnership has legal personality and English partnership does not",
+      "type": "permanent",
+      "group": "seed",
+      "label": "Scots partnership has legal personality and English partnership does not",
+      "value": 15,
+      "color": "#e6ab02",
       "shape": "dot"
     },
     {
@@ -2021,7 +2156,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Staatsarchiv Hamburg",
-      "value": 17,
+      "value": 19,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -2066,7 +2201,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Stadsarchief Rotterdam - the notarial archive and scanning on demand",
-      "value": 9,
+      "value": 11,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -2201,8 +2336,17 @@
       "type": "permanent",
       "group": "seed",
       "label": "The Antwerp phases separate on two cells and the boundary is textual",
-      "value": 20,
+      "value": 22,
       "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "The Bank of England Archive",
+      "type": "reference",
+      "group": "reference",
+      "label": "The Bank of England Archive",
+      "value": 11,
+      "color": "#66a61e",
       "shape": "dot"
     },
     {
@@ -2210,7 +2354,7 @@
       "type": "reference",
       "group": "reference",
       "label": "The Bazacle records - a custody problem",
-      "value": 21,
+      "value": 22,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -2221,6 +2365,24 @@
       "label": "The Bodmerei shield was a default rule and Amsterdam contracted out of it",
       "value": 7,
       "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "The British Newspaper Archive and the commercial full-text layer",
+      "type": "reference",
+      "group": "reference",
+      "label": "The British Newspaper Archive and the commercial full-text layer",
+      "value": 14,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "The Business Archives Council and the UK business archives",
+      "type": "reference",
+      "group": "reference",
+      "label": "The Business Archives Council and the UK business archives",
+      "value": 13,
+      "color": "#66a61e",
       "shape": "dot"
     },
     {
@@ -2237,7 +2399,7 @@
       "type": "reference",
       "group": "reference",
       "label": "The German Wirtschaftsarchive - a distributed business archive",
-      "value": 14,
+      "value": 16,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -2251,12 +2413,30 @@
       "shape": "dot"
     },
     {
+      "id": "The London Archives",
+      "type": "reference",
+      "group": "reference",
+      "label": "The London Archives",
+      "value": 11,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
       "id": "The Nakai ledger scores as losses what present value scores as gains",
       "type": "permanent",
       "group": "seed",
       "label": "The Nakai ledger scores as losses what present value scores as gains",
       "value": 17,
       "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "The National Archives - Kew",
+      "type": "reference",
+      "group": "reference",
+      "label": "The National Archives - Kew",
+      "value": 25,
+      "color": "#66a61e",
       "shape": "dot"
     },
     {
@@ -2269,11 +2449,20 @@
       "shape": "dot"
     },
     {
+      "id": "The Prize Papers - HCA 32 and the German money",
+      "type": "reference",
+      "group": "reference",
+      "label": "The Prize Papers - HCA 32 and the German money",
+      "value": 19,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
       "id": "The QDL corpus is conditioned on its funder's geography",
       "type": "permanent",
       "group": "seed",
       "label": "The QDL corpus is conditioned on its funder's geography",
-      "value": 20,
+      "value": 27,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -2291,7 +2480,7 @@
       "type": "reference",
       "group": "reference",
       "label": "The Sound Toll Registers",
-      "value": 19,
+      "value": 21,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -2300,8 +2489,17 @@
       "type": "permanent",
       "group": "seed",
       "label": "The VOC-EIC digital asymmetry is an access regime not a survival difference",
-      "value": 45,
+      "value": 54,
       "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "The Virtual Record Treasury and reconstruction as method",
+      "type": "reference",
+      "group": "reference",
+      "label": "The Virtual Record Treasury and reconstruction as method",
+      "value": 13,
+      "color": "#66a61e",
       "shape": "dot"
     },
     {
@@ -2336,7 +2534,7 @@
       "type": "reference",
       "group": "reference",
       "label": "The amirautes - a series across the coastal departments",
-      "value": 24,
+      "value": 26,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -2417,7 +2615,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The creditor limb of entity shielding has no witness",
-      "value": 24,
+      "value": 28,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -2426,7 +2624,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The deficit reading of absence is the scalar ranking in evidentiary form",
-      "value": 45,
+      "value": 46,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -2768,7 +2966,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The talha and the Zubusse are the same mechanism with opposite liability rules",
-      "value": 16,
+      "value": 18,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -2921,7 +3119,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Transferable claims reconcile lock-in with member exit",
-      "value": 32,
+      "value": 33,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -2966,7 +3164,7 @@
       "type": "reference",
       "group": "reference",
       "label": "VOC digital corpus - what is online and on what terms",
-      "value": 25,
+      "value": 27,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -2975,7 +3173,7 @@
       "type": "source",
       "group": "source",
       "label": "Van Dam's Beschryvinge - the VOC described by its own advocaat",
-      "value": 36,
+      "value": 37,
       "color": "#7570b3",
       "shape": "dot"
     },
@@ -3092,7 +3290,16 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Belgian archives",
-      "value": 36,
+      "value": 37,
+      "color": "#d95f02",
+      "shape": "dot"
+    },
+    {
+      "id": "MOC - British archives",
+      "type": "moc",
+      "group": "moc",
+      "label": "MOC - British archives",
+      "value": 54,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -3119,7 +3326,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Dutch archives",
-      "value": 33,
+      "value": 34,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -3137,7 +3344,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Entity-shielding and corporate forms",
-      "value": 114,
+      "value": 119,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -3155,7 +3362,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - European archives and digital collections",
-      "value": 127,
+      "value": 133,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -3164,7 +3371,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - French archives",
-      "value": 57,
+      "value": 58,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -3173,7 +3380,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - German archives",
-      "value": 50,
+      "value": 51,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -3182,7 +3389,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - HistorEE",
-      "value": 362,
+      "value": 364,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -3218,7 +3425,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Nordic archives",
-      "value": 39,
+      "value": 40,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -3236,7 +3443,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Risk-sharing vs risk-pricing",
-      "value": 136,
+      "value": 138,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -5376,6 +5583,26 @@
       "to": "The VOC-EIC digital asymmetry is an access regime not a survival difference"
     },
     {
+      "from": "BT 41 BT 31 and the company files",
+      "to": "MOC - British archives"
+    },
+    {
+      "from": "BT 41 BT 31 and the company files",
+      "to": "MOC - Entity-shielding and corporate forms"
+    },
+    {
+      "from": "BT 41 BT 31 and the company files",
+      "to": "Refusals are observations of the filter not inferences from survivors"
+    },
+    {
+      "from": "BT 41 BT 31 and the company files",
+      "to": "The National Archives - Kew"
+    },
+    {
+      "from": "BT 41 BT 31 and the company files",
+      "to": "The VOC-EIC digital asymmetry is an access regime not a survival difference"
+    },
+    {
       "from": "Bad luck is what the ensemble average calls the modal trajectory",
       "to": "Drelichman and Voth 2014 on the debts and defaults of Philip II"
     },
@@ -5688,6 +5915,102 @@
       "to": "loss_mitigation_forms"
     },
     {
+      "from": "Bristol Archives",
+      "to": "Archives departementales de la Loire-Atlantique - Nantes"
+    },
+    {
+      "from": "Bristol Archives",
+      "to": "Chambre de commerce de Marseille - the 1599 archive"
+    },
+    {
+      "from": "Bristol Archives",
+      "to": "Guildhall Library and the City livery companies"
+    },
+    {
+      "from": "Bristol Archives",
+      "to": "Liverpool Record Office and the Maritime Archives"
+    },
+    {
+      "from": "Bristol Archives",
+      "to": "MOC - British archives"
+    },
+    {
+      "from": "British Library - the India Office Records",
+      "to": "EIC digital corpus - what is online and on what terms"
+    },
+    {
+      "from": "British Library - the India Office Records",
+      "to": "Gallica and RetroNews - the French full-text layer"
+    },
+    {
+      "from": "British Library - the India Office Records",
+      "to": "MOC - British archives"
+    },
+    {
+      "from": "British Library - the India Office Records",
+      "to": "The Prize Papers - HCA 32 and the German money"
+    },
+    {
+      "from": "British Library - the India Office Records",
+      "to": "The QDL corpus is conditioned on its funder's geography"
+    },
+    {
+      "from": "British Library - the India Office Records",
+      "to": "The VOC-EIC digital asymmetry is an access regime not a survival difference"
+    },
+    {
+      "from": "British Library - the India Office Records",
+      "to": "Van Dam's Beschryvinge - the VOC described by its own advocaat"
+    },
+    {
+      "from": "British archives online - the access layers",
+      "to": "BT 41 BT 31 and the company files"
+    },
+    {
+      "from": "British archives online - the access layers",
+      "to": "British Library - the India Office Records"
+    },
+    {
+      "from": "British archives online - the access layers",
+      "to": "MOC - British archives"
+    },
+    {
+      "from": "British archives online - the access layers",
+      "to": "National Archives of Ireland PRONI and the Four Courts fire"
+    },
+    {
+      "from": "British archives online - the access layers",
+      "to": "National Library of Wales"
+    },
+    {
+      "from": "British archives online - the access layers",
+      "to": "National Records of Scotland"
+    },
+    {
+      "from": "British archives online - the access layers",
+      "to": "Scots partnership has legal personality and English partnership does not"
+    },
+    {
+      "from": "British archives online - the access layers",
+      "to": "The British Newspaper Archive and the commercial full-text layer"
+    },
+    {
+      "from": "British archives online - the access layers",
+      "to": "The National Archives - Kew"
+    },
+    {
+      "from": "British archives online - the access layers",
+      "to": "The Prize Papers - HCA 32 and the German money"
+    },
+    {
+      "from": "British archives online - the access layers",
+      "to": "The QDL corpus is conditioned on its funder's geography"
+    },
+    {
+      "from": "British archives online - the access layers",
+      "to": "The VOC-EIC digital asymmetry is an access regime not a survival difference"
+    },
+    {
       "from": "Brown tests equality where a risk reading predicts dispersion",
       "to": "MOC - HistorEE"
     },
@@ -5722,6 +6045,30 @@
     {
       "from": "Brown tests equality where a risk reading predicts dispersion",
       "to": "loss_mitigation_forms"
+    },
+    {
+      "from": "C 66 - the Patent Rolls and the charters",
+      "to": "Archives departementales du Nord - the Chambre des comptes de Lille"
+    },
+    {
+      "from": "C 66 - the Patent Rolls and the charters",
+      "to": "MOC - British archives"
+    },
+    {
+      "from": "C 66 - the Patent Rolls and the charters",
+      "to": "MOC - Entity-shielding and corporate forms"
+    },
+    {
+      "from": "C 66 - the Patent Rolls and the charters",
+      "to": "Parlement de Paris - serie X"
+    },
+    {
+      "from": "C 66 - the Patent Rolls and the charters",
+      "to": "The Antwerp phases separate on two cells and the boundary is textual"
+    },
+    {
+      "from": "C 66 - the Patent Rolls and the charters",
+      "to": "The National Archives - Kew"
     },
     {
       "from": "Casa di San Giorgio - the Genoese public debt archive",
@@ -5806,6 +6153,30 @@
     {
       "from": "Chambre de commerce de Marseille - the 1599 archive",
       "to": "The asiento de averia is the pooling-to-corporation hinge"
+    },
+    {
+      "from": "Chancery and the equity pleadings",
+      "to": "Archivo General de Simancas"
+    },
+    {
+      "from": "Chancery and the equity pleadings",
+      "to": "Entity shielding and owner shielding protect different trajectories"
+    },
+    {
+      "from": "Chancery and the equity pleadings",
+      "to": "Insolvente Boedelskamer - Antwerp"
+    },
+    {
+      "from": "Chancery and the equity pleadings",
+      "to": "MOC - British archives"
+    },
+    {
+      "from": "Chancery and the equity pleadings",
+      "to": "The National Archives - Kew"
+    },
+    {
+      "from": "Chancery and the equity pleadings",
+      "to": "The creditor limb of entity shielding has no witness"
     },
     {
       "from": "Consulado de Burgos - the universidad de mercaderes",
@@ -6900,6 +7271,30 @@
       "to": "The Fugger diversified activity while concentrating the barrier"
     },
     {
+      "from": "FS - the Registry of Friendly Societies",
+      "to": "A scheme for extending the cooperative pooling census"
+    },
+    {
+      "from": "FS - the Registry of Friendly Societies",
+      "to": "Archives nationales du monde du travail - Roubaix"
+    },
+    {
+      "from": "FS - the Registry of Friendly Societies",
+      "to": "Archivo Foral de Bizkaia - the Consulado de Bilbao"
+    },
+    {
+      "from": "FS - the Registry of Friendly Societies",
+      "to": "MOC - British archives"
+    },
+    {
+      "from": "FS - the Registry of Friendly Societies",
+      "to": "The National Archives - Kew"
+    },
+    {
+      "from": "FS - the Registry of Friendly Societies",
+      "to": "The Sound Toll Registers"
+    },
+    {
       "from": "Fat tails do not require fat-tailed inputs",
       "to": "A persistence parameter stable across regime change indicts the measure"
     },
@@ -7554,6 +7949,66 @@
     {
       "from": "Guard against reverse-teleology",
       "to": "Time-average optimization is a survivorship property not an intention"
+    },
+    {
+      "from": "Guildhall Library and the City livery companies",
+      "to": "Bergen and the Hanseatic Kontor"
+    },
+    {
+      "from": "Guildhall Library and the City livery companies",
+      "to": "Fuggerarchiv - Dillingen"
+    },
+    {
+      "from": "Guildhall Library and the City livery companies",
+      "to": "Identity-wrapper and perpetual-monopoly are distinct shielding facets"
+    },
+    {
+      "from": "Guildhall Library and the City livery companies",
+      "to": "Lloyd's and the marine insurance records"
+    },
+    {
+      "from": "Guildhall Library and the City livery companies",
+      "to": "MOC - British archives"
+    },
+    {
+      "from": "Guildhall Library and the City livery companies",
+      "to": "MOC - Entity-shielding and corporate forms"
+    },
+    {
+      "from": "Guildhall Library and the City livery companies",
+      "to": "Natie archives - where the Antwerp nations records are"
+    },
+    {
+      "from": "Guildhall Library and the City livery companies",
+      "to": "The Bazacle records - a custody problem"
+    },
+    {
+      "from": "HCA - the High Court of Admiralty",
+      "to": "Averijgrossen - the general average adjudications"
+    },
+    {
+      "from": "HCA - the High Court of Admiralty",
+      "to": "MOC - British archives"
+    },
+    {
+      "from": "HCA - the High Court of Admiralty",
+      "to": "MOC - Risk-sharing vs risk-pricing"
+    },
+    {
+      "from": "HCA - the High Court of Admiralty",
+      "to": "Staatsarchiv Hamburg"
+    },
+    {
+      "from": "HCA - the High Court of Admiralty",
+      "to": "The National Archives - Kew"
+    },
+    {
+      "from": "HCA - the High Court of Admiralty",
+      "to": "The Prize Papers - HCA 32 and the German money"
+    },
+    {
+      "from": "HCA - the High Court of Admiralty",
+      "to": "The amirautes - a series across the coastal departments"
     },
     {
       "from": "Hanse documents on the Memory of the World register",
@@ -8564,6 +9019,54 @@
       "to": "Mare Liberum was a corporate legal weapon"
     },
     {
+      "from": "Liverpool Record Office and the Maritime Archives",
+      "to": "A migrated institution collects local names not local forms"
+    },
+    {
+      "from": "Liverpool Record Office and the Maritime Archives",
+      "to": "Bristol Archives"
+    },
+    {
+      "from": "Liverpool Record Office and the Maritime Archives",
+      "to": "Lloyd's and the marine insurance records"
+    },
+    {
+      "from": "Liverpool Record Office and the Maritime Archives",
+      "to": "MOC - British archives"
+    },
+    {
+      "from": "Liverpool Record Office and the Maritime Archives",
+      "to": "Noord-Hollands Archief - Haarlem"
+    },
+    {
+      "from": "Liverpool Record Office and the Maritime Archives",
+      "to": "Stadsarchief Rotterdam - the notarial archive and scanning on demand"
+    },
+    {
+      "from": "Lloyd's and the marine insurance records",
+      "to": "Averijgrossen - the general average adjudications"
+    },
+    {
+      "from": "Lloyd's and the marine insurance records",
+      "to": "Guildhall Library and the City livery companies"
+    },
+    {
+      "from": "Lloyd's and the marine insurance records",
+      "to": "MOC - British archives"
+    },
+    {
+      "from": "Lloyd's and the marine insurance records",
+      "to": "MOC - Risk-sharing vs risk-pricing"
+    },
+    {
+      "from": "Lloyd's and the marine insurance records",
+      "to": "Pricing risk does not remove it"
+    },
+    {
+      "from": "Lloyd's and the marine insurance records",
+      "to": "The London Archives"
+    },
+    {
       "from": "Lock-in and outcome-coupling are distinct bindings",
       "to": "Entity-shielding"
     },
@@ -8766,6 +9269,118 @@
     {
       "from": "MOC - Belgian archives",
       "to": "Stadsarchief Mechelen"
+    },
+    {
+      "from": "MOC - British archives",
+      "to": "BT 41 BT 31 and the company files"
+    },
+    {
+      "from": "MOC - British archives",
+      "to": "Bristol Archives"
+    },
+    {
+      "from": "MOC - British archives",
+      "to": "British Library - the India Office Records"
+    },
+    {
+      "from": "MOC - British archives",
+      "to": "British archives online - the access layers"
+    },
+    {
+      "from": "MOC - British archives",
+      "to": "C 66 - the Patent Rolls and the charters"
+    },
+    {
+      "from": "MOC - British archives",
+      "to": "Chancery and the equity pleadings"
+    },
+    {
+      "from": "MOC - British archives",
+      "to": "FS - the Registry of Friendly Societies"
+    },
+    {
+      "from": "MOC - British archives",
+      "to": "Guildhall Library and the City livery companies"
+    },
+    {
+      "from": "MOC - British archives",
+      "to": "HCA - the High Court of Admiralty"
+    },
+    {
+      "from": "MOC - British archives",
+      "to": "Liverpool Record Office and the Maritime Archives"
+    },
+    {
+      "from": "MOC - British archives",
+      "to": "Lloyd's and the marine insurance records"
+    },
+    {
+      "from": "MOC - British archives",
+      "to": "MOC - Belgian archives"
+    },
+    {
+      "from": "MOC - British archives",
+      "to": "MOC - Dutch archives"
+    },
+    {
+      "from": "MOC - British archives",
+      "to": "MOC - European archives and digital collections"
+    },
+    {
+      "from": "MOC - British archives",
+      "to": "MOC - French archives"
+    },
+    {
+      "from": "MOC - British archives",
+      "to": "MOC - German archives"
+    },
+    {
+      "from": "MOC - British archives",
+      "to": "MOC - Nordic archives"
+    },
+    {
+      "from": "MOC - British archives",
+      "to": "National Archives of Ireland PRONI and the Four Courts fire"
+    },
+    {
+      "from": "MOC - British archives",
+      "to": "National Library of Wales"
+    },
+    {
+      "from": "MOC - British archives",
+      "to": "National Records of Scotland"
+    },
+    {
+      "from": "MOC - British archives",
+      "to": "Scots partnership has legal personality and English partnership does not"
+    },
+    {
+      "from": "MOC - British archives",
+      "to": "The Bank of England Archive"
+    },
+    {
+      "from": "MOC - British archives",
+      "to": "The British Newspaper Archive and the commercial full-text layer"
+    },
+    {
+      "from": "MOC - British archives",
+      "to": "The Business Archives Council and the UK business archives"
+    },
+    {
+      "from": "MOC - British archives",
+      "to": "The London Archives"
+    },
+    {
+      "from": "MOC - British archives",
+      "to": "The National Archives - Kew"
+    },
+    {
+      "from": "MOC - British archives",
+      "to": "The Prize Papers - HCA 32 and the German money"
+    },
+    {
+      "from": "MOC - British archives",
+      "to": "The Virtual Record Treasury and reconstruction as method"
     },
     {
       "from": "MOC - Defending the ergodicity claim",
@@ -9649,6 +10264,10 @@
     },
     {
       "from": "MOC - European archives and digital collections",
+      "to": "BT 41 BT 31 and the company files"
+    },
+    {
+      "from": "MOC - European archives and digital collections",
       "to": "Begijnhof archives - where the beguinages records are"
     },
     {
@@ -9658,6 +10277,10 @@
     {
       "from": "MOC - European archives and digital collections",
       "to": "Bodmerei - where the German bottomry records are"
+    },
+    {
+      "from": "MOC - European archives and digital collections",
+      "to": "C 66 - the Patent Rolls and the charters"
     },
     {
       "from": "MOC - European archives and digital collections",
@@ -9674,6 +10297,10 @@
     {
       "from": "MOC - European archives and digital collections",
       "to": "EIC digital corpus - what is online and on what terms"
+    },
+    {
+      "from": "MOC - European archives and digital collections",
+      "to": "FS - the Registry of Friendly Societies"
     },
     {
       "from": "MOC - European archives and digital collections",
@@ -9710,6 +10337,10 @@
     {
       "from": "MOC - European archives and digital collections",
       "to": "MOC - Belgian archives"
+    },
+    {
+      "from": "MOC - European archives and digital collections",
+      "to": "MOC - British archives"
     },
     {
       "from": "MOC - European archives and digital collections",
@@ -10334,6 +10965,10 @@
     {
       "from": "MOC - HistorEE",
       "to": "Route Kolmogorov to ergodic theory not the theory of means"
+    },
+    {
+      "from": "MOC - HistorEE",
+      "to": "Scots partnership has legal personality and English partnership does not"
     },
     {
       "from": "MOC - HistorEE",
@@ -11744,6 +12379,54 @@
       "to": "Zeeuws Archief - the Zeeland chamber and the MCC"
     },
     {
+      "from": "National Archives of Ireland PRONI and the Four Courts fire",
+      "to": "Archives de Paris and the fire of 1871"
+    },
+    {
+      "from": "National Archives of Ireland PRONI and the Four Courts fire",
+      "to": "Historisches Archiv der Stadt Koln and the 2009 collapse"
+    },
+    {
+      "from": "National Archives of Ireland PRONI and the Four Courts fire",
+      "to": "MOC - British archives"
+    },
+    {
+      "from": "National Archives of Ireland PRONI and the Four Courts fire",
+      "to": "Refusals are observations of the filter not inferences from survivors"
+    },
+    {
+      "from": "National Archives of Ireland PRONI and the Four Courts fire",
+      "to": "The Virtual Record Treasury and reconstruction as method"
+    },
+    {
+      "from": "National Library of Wales",
+      "to": "British archives online - the access layers"
+    },
+    {
+      "from": "National Library of Wales",
+      "to": "MOC - British archives"
+    },
+    {
+      "from": "National Library of Wales",
+      "to": "The British Newspaper Archive and the commercial full-text layer"
+    },
+    {
+      "from": "National Records of Scotland",
+      "to": "MOC - British archives"
+    },
+    {
+      "from": "National Records of Scotland",
+      "to": "MOC - Entity-shielding and corporate forms"
+    },
+    {
+      "from": "National Records of Scotland",
+      "to": "Scots partnership has legal personality and English partnership does not"
+    },
+    {
+      "from": "National Records of Scotland",
+      "to": "The National Archives - Kew"
+    },
+    {
       "from": "Naviganti - Latin Christendom rejected the sea loan too",
       "to": "Islamic doctrine refuses risk-commodification at step one"
     },
@@ -13040,6 +13723,34 @@
       "to": "PARES - the access layer for the Spanish state archives"
     },
     {
+      "from": "Scots partnership has legal personality and English partnership does not",
+      "to": "Entity shielding and owner shielding protect different trajectories"
+    },
+    {
+      "from": "Scots partnership has legal personality and English partnership does not",
+      "to": "Independence of apparatus is not independence of question"
+    },
+    {
+      "from": "Scots partnership has legal personality and English partnership does not",
+      "to": "MOC - Entity-shielding and corporate forms"
+    },
+    {
+      "from": "Scots partnership has legal personality and English partnership does not",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Scots partnership has legal personality and English partnership does not",
+      "to": "National Records of Scotland"
+    },
+    {
+      "from": "Scots partnership has legal personality and English partnership does not",
+      "to": "The creditor limb of entity shielding has no witness"
+    },
+    {
+      "from": "Scots partnership has legal personality and English partnership does not",
+      "to": "The talha and the Zubusse are the same mechanism with opposite liability rules"
+    },
+    {
       "from": "Scuttling rewards fraud in the sea loan",
       "to": "A concealed premium is evidence about the notary not about the price"
     },
@@ -14000,6 +14711,26 @@
       "to": "organizational_forms"
     },
     {
+      "from": "The Bank of England Archive",
+      "to": "Casa di San Giorgio - the Genoese public debt archive"
+    },
+    {
+      "from": "The Bank of England Archive",
+      "to": "Fuggerarchiv - Dillingen"
+    },
+    {
+      "from": "The Bank of England Archive",
+      "to": "Le Bris Goetzmann Pouget 2023 on convergent evolution toward the joint-stock company"
+    },
+    {
+      "from": "The Bank of England Archive",
+      "to": "MOC - British archives"
+    },
+    {
+      "from": "The Bank of England Archive",
+      "to": "Transferable claims reconcile lock-in with member exit"
+    },
+    {
       "from": "The Bazacle records - a custody problem",
       "to": "Archives departementales de la Haute-Garonne"
     },
@@ -14042,6 +14773,62 @@
     {
       "from": "The Bodmerei shield was a default rule and Amsterdam contracted out of it",
       "to": "loss_mitigation_forms"
+    },
+    {
+      "from": "The British Newspaper Archive and the commercial full-text layer",
+      "to": "BelgicaPress and KBR - the thin full-text layer"
+    },
+    {
+      "from": "The British Newspaper Archive and the commercial full-text layer",
+      "to": "Delpher - the full-text layer"
+    },
+    {
+      "from": "The British Newspaper Archive and the commercial full-text layer",
+      "to": "Deutsches Zeitungsportal - the German full-text layer"
+    },
+    {
+      "from": "The British Newspaper Archive and the commercial full-text layer",
+      "to": "Gallica and RetroNews - the French full-text layer"
+    },
+    {
+      "from": "The British Newspaper Archive and the commercial full-text layer",
+      "to": "MOC - British archives"
+    },
+    {
+      "from": "The British Newspaper Archive and the commercial full-text layer",
+      "to": "The QDL corpus is conditioned on its funder's geography"
+    },
+    {
+      "from": "The British Newspaper Archive and the commercial full-text layer",
+      "to": "The VOC-EIC digital asymmetry is an access regime not a survival difference"
+    },
+    {
+      "from": "The Business Archives Council and the UK business archives",
+      "to": "Archives nationales du monde du travail - Roubaix"
+    },
+    {
+      "from": "The Business Archives Council and the UK business archives",
+      "to": "Centrum for Naringslivshistoria - Stockholm"
+    },
+    {
+      "from": "The Business Archives Council and the UK business archives",
+      "to": "Fuggerarchiv - Dillingen"
+    },
+    {
+      "from": "The Business Archives Council and the UK business archives",
+      "to": "IISG and NEHA - Amsterdam"
+    },
+    {
+      "from": "The Business Archives Council and the UK business archives",
+      "to": "MOC - British archives"
+    },
+    {
+      "from": "The Business Archives Council and the UK business archives",
+      "to": "The German Wirtschaftsarchive - a distributed business archive"
+    },
+    {
+      "from": "The Business Archives Council and the UK business archives",
+      "to": "The VOC-EIC digital asymmetry is an access regime not a survival difference"
     },
     {
       "from": "The Fugger diversified activity while concentrating the barrier",
@@ -14124,6 +14911,26 @@
       "to": "Transferable claims reconcile lock-in with member exit"
     },
     {
+      "from": "The London Archives",
+      "to": "Guildhall Library and the City livery companies"
+    },
+    {
+      "from": "The London Archives",
+      "to": "Lloyd's and the marine insurance records"
+    },
+    {
+      "from": "The London Archives",
+      "to": "MOC - British archives"
+    },
+    {
+      "from": "The London Archives",
+      "to": "Rijksarchief te Antwerpen and Beveren - the notarial series"
+    },
+    {
+      "from": "The London Archives",
+      "to": "The Bank of England Archive"
+    },
+    {
       "from": "The Nakai ledger scores as losses what present value scores as gains",
       "to": "Economics had its ensemble moment in 1738 and psychologized it"
     },
@@ -14160,6 +14967,42 @@
       "to": "loss_mitigation_forms"
     },
     {
+      "from": "The National Archives - Kew",
+      "to": "Archivio Apostolico Vaticano"
+    },
+    {
+      "from": "The National Archives - Kew",
+      "to": "BT 41 BT 31 and the company files"
+    },
+    {
+      "from": "The National Archives - Kew",
+      "to": "British archives online - the access layers"
+    },
+    {
+      "from": "The National Archives - Kew",
+      "to": "C 66 - the Patent Rolls and the charters"
+    },
+    {
+      "from": "The National Archives - Kew",
+      "to": "Chancery and the equity pleadings"
+    },
+    {
+      "from": "The National Archives - Kew",
+      "to": "FS - the Registry of Friendly Societies"
+    },
+    {
+      "from": "The National Archives - Kew",
+      "to": "HCA - the High Court of Admiralty"
+    },
+    {
+      "from": "The National Archives - Kew",
+      "to": "MOC - British archives"
+    },
+    {
+      "from": "The National Archives - Kew",
+      "to": "Stadsarchief Rotterdam - the notarial archive and scanning on demand"
+    },
+    {
       "from": "The Nordic thinness - what is actually missing",
       "to": "Bergen and the Hanseatic Kontor"
     },
@@ -14190,6 +15033,34 @@
     {
       "from": "The Nordic thinness - what is actually missing",
       "to": "The deficit reading of absence is the scalar ranking in evidentiary form"
+    },
+    {
+      "from": "The Prize Papers - HCA 32 and the German money",
+      "to": "British Library - the India Office Records"
+    },
+    {
+      "from": "The Prize Papers - HCA 32 and the German money",
+      "to": "HCA - the High Court of Admiralty"
+    },
+    {
+      "from": "The Prize Papers - HCA 32 and the German money",
+      "to": "MOC - British archives"
+    },
+    {
+      "from": "The Prize Papers - HCA 32 and the German money",
+      "to": "Refusals are observations of the filter not inferences from survivors"
+    },
+    {
+      "from": "The Prize Papers - HCA 32 and the German money",
+      "to": "The QDL corpus is conditioned on its funder's geography"
+    },
+    {
+      "from": "The Prize Papers - HCA 32 and the German money",
+      "to": "The VOC-EIC digital asymmetry is an access regime not a survival difference"
+    },
+    {
+      "from": "The Prize Papers - HCA 32 and the German money",
+      "to": "VOC digital corpus - what is online and on what terms"
     },
     {
       "from": "The QDL corpus is conditioned on its funder's geography",
@@ -14346,6 +15217,30 @@
     {
       "from": "The VOC-EIC digital asymmetry is an access regime not a survival difference",
       "to": "Van Dam's Beschryvinge - the VOC described by its own advocaat"
+    },
+    {
+      "from": "The Virtual Record Treasury and reconstruction as method",
+      "to": "Archives de Paris and the fire of 1871"
+    },
+    {
+      "from": "The Virtual Record Treasury and reconstruction as method",
+      "to": "Historisches Archiv der Stadt Koln and the 2009 collapse"
+    },
+    {
+      "from": "The Virtual Record Treasury and reconstruction as method",
+      "to": "MOC - British archives"
+    },
+    {
+      "from": "The Virtual Record Treasury and reconstruction as method",
+      "to": "National Archives of Ireland PRONI and the Four Courts fire"
+    },
+    {
+      "from": "The Virtual Record Treasury and reconstruction as method",
+      "to": "Refusals are observations of the filter not inferences from survivors"
+    },
+    {
+      "from": "The Virtual Record Treasury and reconstruction as method",
+      "to": "The deficit reading of absence is the scalar ranking in evidentiary form"
     },
     {
       "from": "The Wakker counterexample refutes expected log utility too",

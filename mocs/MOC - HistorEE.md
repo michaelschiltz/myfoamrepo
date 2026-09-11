@@ -202,6 +202,10 @@ Project hub for the book. Atomic notes hang off both this project MOC and a them
 - [[The mita critiques establish five nulls and none is the estimand]] — Arroyo Abad and Maurer, Kelly, Keele and Titiunik, Karakas, Ragas, and what each actually establishes
 - [[A refutation that shares the estimand inherits the defect]] — the critique of the critics, and why an ensemble null is not evidence for non-ergodicity
 
+## Notes — Scots legal personality
+
+- [[Scots partnership has legal personality and English partnership does not]] — a difference on the most theoretically loaded axis, inside one state and one commercial economy
+
 ## Notes — mining shares and the oldest-share claim
 
 - [[Stora Kopparberg and the oldest-share claim]] — the 1288 *bytesbrev* is a debt settled with a fractional interest, and will not carry a first-instance claim

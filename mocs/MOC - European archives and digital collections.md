@@ -108,8 +108,9 @@ Repository-level notes live in country MOCs, each carrying that country's struct
 | France | [[MOC - French archives]] | Scale, against one uniform classification. A question can be put to a *series* nationwide — and the interfaces are the least remotely-workable in the survey |
 | Germany | [[MOC - German archives]] | No frame and no national archive for the period. Competence is civic, and the cities are where the material is |
 | Nordics | [[MOC - Nordic archives]] | Best infrastructure in Europe, thinnest institutional variety — Belgium's mirror. The one absence in the survey that is probably evidential |
+| Britain | [[MOC - British archives]] | Excellent description, thin imaging where it matters. Three major corpora opened by foreign or commercial money, none of it British |
 
-**Not yet surveyed:** Britain, Croatia.
+**Not yet surveyed:** Croatia.
 
 ## Where each coded form's records sit
 
@@ -124,9 +125,9 @@ First pass, to be corrected as the register is built. ⚠️ marks a placement t
 | Begijnhof | Dispersed — see [[Begijnhof archives - where the beguinages records are]] | unidentified across four custodians | 1 ⚠️ |
 | Naties | [[Natie archives - where the Antwerp nations records are]]; [[Stadsarchief Brugge - the Hanse and the nations]] | not located; possibly in successor-company custody | 1 ⚠️ |
 | Bazacle | [[The Bazacle records - a custody problem]] | Toulouse, cote unidentified; modern archive plausibly EDF *Fonds Ex-Sociétés* ⚠️ | 1 ⚠️ |
-| Deed of settlement company | TNA Kew | `BT 41`, `BT 31`, `BT 34` | **1 only** |
-| Chartered corporation | TNA Kew | charters; Patent Rolls `C 66` ⚠️ | 1 |
-| Mutual pole / friendly societies | TNA Kew | `FS` — Registry of Friendly Societies ⚠️ subseries | 1 |
+| Deed of settlement company | [[BT 41 BT 31 and the company files]] | `BT 41`, `BT 31`, `BT 34` | **1 only**; `BT 31` is a sample ⚠️ |
+| Chartered corporation | [[C 66 - the Patent Rolls and the charters]] | enrolled charters, Patent Rolls `C 66` ⚠️ | 1 |
+| Mutual pole / friendly societies | [[FS - the Registry of Friendly Societies]] | `FS` — deposited rules ⚠️ subseries | 1 |
 | Entity shielding, creditor limb | [[Insolvente Boedelskamer - Antwerp]]; [[Desolate Boedelkamer - Amsterdam]] | `IB 1`–`IB 3,038` | 1 ⚠️ |
 | General average | [[Averijgrossen - the general average adjudications]] | Schout en Schepenen, *Vonnissen ter zaken van Averij Grosse* 1700–1810 | **2, indexed** |
 | Asiento de avería | [[Archivo General de Indias - Sevilla]] | `CONSULADOS`, `CONTADURIA`, `INDIFERENTE GENERAL` ⚠️ | 2 (partial) |
