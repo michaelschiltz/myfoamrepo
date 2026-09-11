@@ -52,7 +52,8 @@ For each country: establish **the structural fact** — what the country's archi
 - **Ottoman — done, 11 September 2026.** [[MOC - Ottoman archives]]. The Dubrovnik start held; the script prediction was right and understated — the census's Ottoman rows are accounts, and accounts are in siyakat; successor custody recurred with the waqf in a stronger form than predicted.
 - **Geniza — done, 11 September 2026.** [[MOC - Geniza archives]]. Better served digitally than expected — images of the whole deposit online and a machine transcription released in 2025 — so the binding constraints moved from access and script to the denominator and the deposit's positionality. The `isqa_alloc` dispute turned out to be a record-type difference.
 - **Japan — done, 11 September 2026.** [[MOC - Japanese archives]]. Successor custody is the default rather than the exception; books are imaged and the census's documents are not; the Japanese rows rest on printed transcriptions; and `clearing_records` has no archive yet.
-- China, South Asia — not started. South Asia waits on Decision_log D4.
+- **China — done, 11 September 2026.** [[MOC - Chinese archives]]. The Qing central record is split between Beijing and Taipei by a 1921 waste-paper sale and the 1949 evacuation, under opposite access regimes; it is not where the census's evidence is. Every coded Chinese cell passes through Zelin 2019 and the earliest through one 1995 compilation; the associations' operating record survives abroad (Hong Kong, Leiden); A7 has no Chinese destination.
+- South Asia — not started. Waits on Decision_log D4.
 
 ## Links
 
@@ -60,6 +61,7 @@ For each country: establish **the structural fact** — what the country's archi
 - [[MOC - Ottoman archives]]
 - [[MOC - Geniza archives]]
 - [[MOC - Japanese archives]]
+- [[MOC - Chinese archives]]
 - [[The Ottoman documents at Dubrovnik]]
 - [[MOC - Digitisation and text recognition]]
 - [[MOC - Acquisitions and the antiquarian trade]]

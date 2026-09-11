@@ -59,7 +59,7 @@
       "type": "permanent",
       "group": "superseded",
       "label": "A perfectly correlated peril leaves only the time average",
-      "value": 18,
+      "value": 19,
       "color": "#1b9e77",
       "shape": "dot"
     },
@@ -169,6 +169,15 @@
       "label": "Absorption without ergodicity economics is just ruin theory",
       "value": 36,
       "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "Academia Sinica IHP - the Grand Secretariat archives in Taipei",
+      "type": "reference",
+      "group": "reference",
+      "label": "Academia Sinica IHP - the Grand Secretariat archives in Taipei",
+      "value": 9,
+      "color": "#66a61e",
       "shape": "dot"
     },
     {
@@ -640,6 +649,15 @@
       "shape": "dot"
     },
     {
+      "id": "Ba County archive - Sichuan Provincial Archives",
+      "type": "reference",
+      "group": "reference",
+      "label": "Ba County archive - Sichuan Provincial Archives",
+      "value": 10,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
       "id": "Bad luck is what the ensemble average calls the modal trajectory",
       "type": "permanent",
       "group": "seed",
@@ -725,7 +743,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Books are imaged and documents are not - the Japanese digital split",
-      "value": 22,
+      "value": 25,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -824,7 +842,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Cairo Geniza - the deposit and its survival rule",
-      "value": 18,
+      "value": 19,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -874,6 +892,33 @@
       "shape": "dot"
     },
     {
+      "id": "Chinese archives - the Qing record divided by a sale and a strait",
+      "type": "reference",
+      "group": "reference",
+      "label": "Chinese archives - the Qing record divided by a sale and a strait",
+      "value": 20,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "Chinese contracts - the private document boom and the market that feeds it",
+      "type": "reference",
+      "group": "reference",
+      "label": "Chinese contracts - the private document boom and the market that feeds it",
+      "value": 19,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "Chinese genealogies - Shanghai Library and FamilySearch",
+      "type": "reference",
+      "group": "reference",
+      "label": "Chinese genealogies - Shanghai Library and FamilySearch",
+      "value": 9,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
       "id": "Consulado de Burgos - the universidad de mercaderes",
       "type": "reference",
       "group": "reference",
@@ -896,7 +941,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Count degrees of freedom not cells",
-      "value": 49,
+      "value": 51,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -906,6 +951,15 @@
       "group": "reference",
       "label": "Croatian archives online - ARHiNET and the access layer",
       "value": 11,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "Danxin archives - National Taiwan University",
+      "type": "reference",
+      "group": "reference",
+      "label": "Danxin archives - National Taiwan University",
+      "value": 9,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1049,7 +1103,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Drzavni arhiv u Dubrovniku",
-      "value": 26,
+      "value": 27,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1221,6 +1275,15 @@
       "group": "reference",
       "label": "FelixArchief - Antwerp city archive",
       "value": 23,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "First Historical Archives of China - Beijing",
+      "type": "reference",
+      "group": "reference",
+      "label": "First Historical Archives of China - Beijing",
+      "value": 13,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1405,6 +1468,15 @@
       "shape": "dot"
     },
     {
+      "id": "Guild stele inscriptions - the huiguan's surviving record",
+      "type": "reference",
+      "group": "reference",
+      "label": "Guild stele inscriptions - the huiguan's surviving record",
+      "value": 12,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
       "id": "Guildhall Library and the City livery companies",
       "type": "reference",
       "group": "reference",
@@ -1427,7 +1499,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Handoff - the non-European archive survey",
-      "value": 36,
+      "value": 41,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1518,6 +1590,15 @@
       "group": "reference",
       "label": "Hrvatski drzavni arhiv - Zagreb",
       "value": 8,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "Huizhou documents - the largest private contract corpus",
+      "type": "reference",
+      "group": "reference",
+      "label": "Huizhou documents - the largest private contract corpus",
+      "value": 14,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1670,7 +1751,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Japanese archives - custody follows the house",
-      "value": 32,
+      "value": 34,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1787,7 +1868,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Kye is not a ROSCA and the equation is an artefact of comparison with mujin",
-      "value": 19,
+      "value": 20,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1805,7 +1886,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Kyu-bakufu hikitsugisho - the Edo town magistrate records",
-      "value": 15,
+      "value": 16,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1852,6 +1933,15 @@
       "label": "Legal violence is the weapon of the militarily insufficient",
       "value": 8,
       "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "Leiden University Library - the Kong Koan archive of Batavia",
+      "type": "reference",
+      "group": "reference",
+      "label": "Leiden University Library - the Kong Koan archive of Batavia",
+      "value": 10,
+      "color": "#66a61e",
       "shape": "dot"
     },
     {
@@ -2057,7 +2147,16 @@
       "type": "reference",
       "group": "reference",
       "label": "National Library Sofia - the Oriental Department and the 1931 sale",
-      "value": 9,
+      "value": 13,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "National Library of China - the ancient books resource base",
+      "type": "reference",
+      "group": "reference",
+      "label": "National Library of China - the ancient books resource base",
+      "value": 8,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -2076,6 +2175,15 @@
       "group": "reference",
       "label": "National Library of Wales",
       "value": 7,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "National Palace Museum Taipei - the Qing palace memorials",
+      "type": "reference",
+      "group": "reference",
+      "label": "National Palace Museum Taipei - the Qing palace memorials",
+      "value": 12,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -2224,6 +2332,15 @@
       "shape": "dot"
     },
     {
+      "id": "PRC archival access - photography forbidden and catalogues curated",
+      "type": "reference",
+      "group": "reference",
+      "label": "PRC archival access - photography forbidden and catalogues curated",
+      "value": 15,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
       "id": "Parlement de Paris - serie X",
       "type": "reference",
       "group": "reference",
@@ -2327,7 +2444,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Princeton Geniza Project - the documentary database",
-      "value": 13,
+      "value": 14,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -2338,6 +2455,24 @@
       "label": "Pure multiplicative dynamics are permutation-invariant",
       "value": 26,
       "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "Qing grain price database - a denominator from the memorials",
+      "type": "reference",
+      "group": "reference",
+      "label": "Qing grain price database - a denominator from the memorials",
+      "value": 13,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "Qingshui River documents - forest contracts in shares",
+      "type": "reference",
+      "group": "reference",
+      "label": "Qingshui River documents - forest contracts in shares",
+      "value": 6,
+      "color": "#66a61e",
       "shape": "dot"
     },
     {
@@ -2381,7 +2516,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Refusals are observations of the filter not inferences from survivors",
-      "value": 113,
+      "value": 115,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -2562,6 +2697,15 @@
       "group": "reference",
       "label": "Service historique de la Defense - Lorient and the Compagnie des Indes",
       "value": 16,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "Shanxi piaohao records - letters, house rules and a collector's compilation",
+      "type": "reference",
+      "group": "reference",
+      "label": "Shanxi piaohao records - letters, house rules and a collector's compilation",
+      "value": 7,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -2777,7 +2921,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Stora Kopparberg and the oldest-share claim",
-      "value": 20,
+      "value": 21,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -2806,6 +2950,15 @@
       "label": "Syndication and the misma moneda are pooling not prudence",
       "value": 18,
       "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "Taiwan Shiho - the colonial survey of Chinese associations and shares",
+      "type": "reference",
+      "group": "reference",
+      "label": "Taiwan Shiho - the colonial survey of Chinese associations and shares",
+      "value": 8,
+      "color": "#66a61e",
       "shape": "dot"
     },
     {
@@ -3029,7 +3182,7 @@
       "type": "reference",
       "group": "reference",
       "label": "The Sound Toll Registers",
-      "value": 23,
+      "value": 24,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -3220,6 +3373,15 @@
       "label": "The durable-and-coupled cell is the underexplored one",
       "value": 15,
       "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "The eight thousand sacks - the Grand Secretariat archives sold as waste paper",
+      "type": "reference",
+      "group": "reference",
+      "label": "The eight thousand sacks - the Grand Secretariat archives sold as waste paper",
+      "value": 12,
+      "color": "#66a61e",
       "shape": "dot"
     },
     {
@@ -3416,7 +3578,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The notarial security clause is boilerplate and cannot carry a typology",
-      "value": 15,
+      "value": 16,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -3695,7 +3857,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Tokyo Metropolitan Archives - the Edo town office and the shichibu tsumikin",
-      "value": 7,
+      "value": 8,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -3733,6 +3895,15 @@
       "label": "Transmission versus independent recurrence is the load-bearing test",
       "value": 51,
       "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "Tung Wah Coffin Home Archives - Hong Kong",
+      "type": "reference",
+      "group": "reference",
+      "label": "Tung Wah Coffin Home Archives - Hong Kong",
+      "value": 11,
+      "color": "#66a61e",
       "shape": "dot"
     },
     {
@@ -3853,6 +4024,24 @@
       "shape": "dot"
     },
     {
+      "id": "Zhang Chuanxi 1995 - the contract compilation behind the census's Chinese rows",
+      "type": "reference",
+      "group": "reference",
+      "label": "Zhang Chuanxi 1995 - the contract compilation behind the census's Chinese rows",
+      "value": 17,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "Zigong salt contracts - shareholding in the wells",
+      "type": "reference",
+      "group": "reference",
+      "label": "Zigong salt contracts - shareholding in the wells",
+      "value": 7,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
       "id": "commenda",
       "type": "permanent",
       "group": "stub",
@@ -3884,7 +4073,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Acquisitions and the antiquarian trade",
-      "value": 50,
+      "value": 54,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -3903,6 +4092,15 @@
       "group": "moc",
       "label": "MOC - British archives",
       "value": 55,
+      "color": "#d95f02",
+      "shape": "dot"
+    },
+    {
+      "id": "MOC - Chinese archives",
+      "type": "moc",
+      "group": "moc",
+      "label": "MOC - Chinese archives",
+      "value": 74,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -3929,7 +4127,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Digitisation and text recognition",
-      "value": 46,
+      "value": 47,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -3938,7 +4136,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Dutch archives",
-      "value": 35,
+      "value": 36,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -3947,7 +4145,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - ERC Synergy Grant",
-      "value": 68,
+      "value": 69,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -3974,7 +4172,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - European archives and digital collections",
-      "value": 161,
+      "value": 165,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -3992,7 +4190,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Geniza archives",
-      "value": 45,
+      "value": 47,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -4046,7 +4244,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Japanese archives",
-      "value": 82,
+      "value": 84,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -4064,7 +4262,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Ottoman archives",
-      "value": 74,
+      "value": 76,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -4936,6 +5134,22 @@
     {
       "from": "Absorption without ergodicity economics is just ruin theory",
       "to": "Time-average optimization is a survivorship property not an intention"
+    },
+    {
+      "from": "Academia Sinica IHP - the Grand Secretariat archives in Taipei",
+      "to": "Chinese archives - the Qing record divided by a sale and a strait"
+    },
+    {
+      "from": "Academia Sinica IHP - the Grand Secretariat archives in Taipei",
+      "to": "MOC - Chinese archives"
+    },
+    {
+      "from": "Academia Sinica IHP - the Grand Secretariat archives in Taipei",
+      "to": "National Palace Museum Taipei - the Qing palace memorials"
+    },
+    {
+      "from": "Academia Sinica IHP - the Grand Secretariat archives in Taipei",
+      "to": "The eight thousand sacks - the Grand Secretariat archives sold as waste paper"
     },
     {
       "from": "Acta Turcarum - the Ottoman series at Dubrovnik",
@@ -6278,6 +6492,22 @@
       "to": "The VOC-EIC digital asymmetry is an access regime not a survival difference"
     },
     {
+      "from": "Ba County archive - Sichuan Provincial Archives",
+      "to": "Danxin archives - National Taiwan University"
+    },
+    {
+      "from": "Ba County archive - Sichuan Provincial Archives",
+      "to": "Drzavni arhiv u Dubrovniku"
+    },
+    {
+      "from": "Ba County archive - Sichuan Provincial Archives",
+      "to": "MOC - Chinese archives"
+    },
+    {
+      "from": "Ba County archive - Sichuan Provincial Archives",
+      "to": "PRC archival access - photography forbidden and catalogues curated"
+    },
+    {
       "from": "Bad luck is what the ensemble average calls the modal trajectory",
       "to": "Drelichman and Voth 2014 on the debts and defaults of Philip II"
     },
@@ -7022,6 +7252,90 @@
       "to": "The creditor limb of entity shielding has no witness"
     },
     {
+      "from": "Chinese archives - the Qing record divided by a sale and a strait",
+      "to": "Academia Sinica IHP - the Grand Secretariat archives in Taipei"
+    },
+    {
+      "from": "Chinese archives - the Qing record divided by a sale and a strait",
+      "to": "Chinese contracts - the private document boom and the market that feeds it"
+    },
+    {
+      "from": "Chinese archives - the Qing record divided by a sale and a strait",
+      "to": "First Historical Archives of China - Beijing"
+    },
+    {
+      "from": "Chinese archives - the Qing record divided by a sale and a strait",
+      "to": "Handoff - the non-European archive survey"
+    },
+    {
+      "from": "Chinese archives - the Qing record divided by a sale and a strait",
+      "to": "MOC - Chinese archives"
+    },
+    {
+      "from": "Chinese archives - the Qing record divided by a sale and a strait",
+      "to": "National Library Sofia - the Oriental Department and the 1931 sale"
+    },
+    {
+      "from": "Chinese archives - the Qing record divided by a sale and a strait",
+      "to": "National Palace Museum Taipei - the Qing palace memorials"
+    },
+    {
+      "from": "Chinese archives - the Qing record divided by a sale and a strait",
+      "to": "PRC archival access - photography forbidden and catalogues curated"
+    },
+    {
+      "from": "Chinese archives - the Qing record divided by a sale and a strait",
+      "to": "Qing grain price database - a denominator from the memorials"
+    },
+    {
+      "from": "Chinese archives - the Qing record divided by a sale and a strait",
+      "to": "The eight thousand sacks - the Grand Secretariat archives sold as waste paper"
+    },
+    {
+      "from": "Chinese contracts - the private document boom and the market that feeds it",
+      "to": "Cairo Geniza - the deposit and its survival rule"
+    },
+    {
+      "from": "Chinese contracts - the private document boom and the market that feeds it",
+      "to": "Huizhou documents - the largest private contract corpus"
+    },
+    {
+      "from": "Chinese contracts - the private document boom and the market that feeds it",
+      "to": "MOC - Acquisitions and the antiquarian trade"
+    },
+    {
+      "from": "Chinese contracts - the private document boom and the market that feeds it",
+      "to": "MOC - Chinese archives"
+    },
+    {
+      "from": "Chinese contracts - the private document boom and the market that feeds it",
+      "to": "Qingshui River documents - forest contracts in shares"
+    },
+    {
+      "from": "Chinese contracts - the private document boom and the market that feeds it",
+      "to": "Zhang Chuanxi 1995 - the contract compilation behind the census's Chinese rows"
+    },
+    {
+      "from": "Chinese contracts - the private document boom and the market that feeds it",
+      "to": "Zigong salt contracts - shareholding in the wells"
+    },
+    {
+      "from": "Chinese genealogies - Shanghai Library and FamilySearch",
+      "to": "Books are imaged and documents are not - the Japanese digital split"
+    },
+    {
+      "from": "Chinese genealogies - Shanghai Library and FamilySearch",
+      "to": "Huizhou documents - the largest private contract corpus"
+    },
+    {
+      "from": "Chinese genealogies - Shanghai Library and FamilySearch",
+      "to": "MOC - Chinese archives"
+    },
+    {
+      "from": "Chinese genealogies - Shanghai Library and FamilySearch",
+      "to": "National Library of China - the ancient books resource base"
+    },
+    {
       "from": "Consulado de Burgos - the universidad de mercaderes",
       "to": "Archivo Foral de Bizkaia - the Consulado de Bilbao"
     },
@@ -7164,6 +7478,18 @@
     {
       "from": "Croatian archives online - ARHiNET and the access layer",
       "to": "The archives departementales system"
+    },
+    {
+      "from": "Danxin archives - National Taiwan University",
+      "to": "Ba County archive - Sichuan Provincial Archives"
+    },
+    {
+      "from": "Danxin archives - National Taiwan University",
+      "to": "Chinese archives - the Qing record divided by a sale and a strait"
+    },
+    {
+      "from": "Danxin archives - National Taiwan University",
+      "to": "MOC - Chinese archives"
     },
     {
       "from": "Decoupling substitutes proxy legibility for outcome legibility",
@@ -8338,6 +8664,30 @@
       "to": "The Antwerp phases separate on two cells and the boundary is textual"
     },
     {
+      "from": "First Historical Archives of China - Beijing",
+      "to": "Chinese archives - the Qing record divided by a sale and a strait"
+    },
+    {
+      "from": "First Historical Archives of China - Beijing",
+      "to": "MOC - Chinese archives"
+    },
+    {
+      "from": "First Historical Archives of China - Beijing",
+      "to": "National Palace Museum Taipei - the Qing palace memorials"
+    },
+    {
+      "from": "First Historical Archives of China - Beijing",
+      "to": "PRC archival access - photography forbidden and catalogues curated"
+    },
+    {
+      "from": "First Historical Archives of China - Beijing",
+      "to": "Qing grain price database - a denominator from the memorials"
+    },
+    {
+      "from": "First Historical Archives of China - Beijing",
+      "to": "Zhang Chuanxi 1995 - the contract compilation behind the census's Chinese rows"
+    },
+    {
       "from": "Flows make the dynamic affine and affine maps do not commute",
       "to": "MOC - Ergodicity and the time-ensemble distinction"
     },
@@ -9014,6 +9364,22 @@
       "to": "Time-average optimization is a survivorship property not an intention"
     },
     {
+      "from": "Guild stele inscriptions - the huiguan's surviving record",
+      "to": "Chinese contracts - the private document boom and the market that feeds it"
+    },
+    {
+      "from": "Guild stele inscriptions - the huiguan's surviving record",
+      "to": "Leiden University Library - the Kong Koan archive of Batavia"
+    },
+    {
+      "from": "Guild stele inscriptions - the huiguan's surviving record",
+      "to": "MOC - Chinese archives"
+    },
+    {
+      "from": "Guild stele inscriptions - the huiguan's surviving record",
+      "to": "Tung Wah Coffin Home Archives - Hong Kong"
+    },
+    {
       "from": "Guildhall Library and the City livery companies",
       "to": "Bergen and the Hanseatic Kontor"
     },
@@ -9092,6 +9458,10 @@
     {
       "from": "Handoff - the non-European archive survey",
       "to": "MOC - Acquisitions and the antiquarian trade"
+    },
+    {
+      "from": "Handoff - the non-European archive survey",
+      "to": "MOC - Chinese archives"
     },
     {
       "from": "Handoff - the non-European archive survey",
@@ -9444,6 +9814,22 @@
     {
       "from": "Hrvatski drzavni arhiv - Zagreb",
       "to": "MOC - Croatian archives"
+    },
+    {
+      "from": "Huizhou documents - the largest private contract corpus",
+      "to": "Chinese contracts - the private document boom and the market that feeds it"
+    },
+    {
+      "from": "Huizhou documents - the largest private contract corpus",
+      "to": "Kye is not a ROSCA and the equation is an artefact of comparison with mujin"
+    },
+    {
+      "from": "Huizhou documents - the largest private contract corpus",
+      "to": "MOC - Chinese archives"
+    },
+    {
+      "from": "Huizhou documents - the largest private contract corpus",
+      "to": "Zhang Chuanxi 1995 - the contract compilation behind the census's Chinese rows"
     },
     {
       "from": "IISG and NEHA - Amsterdam",
@@ -10442,6 +10828,22 @@
       "to": "Mare Liberum was a corporate legal weapon"
     },
     {
+      "from": "Leiden University Library - the Kong Koan archive of Batavia",
+      "to": "Guild stele inscriptions - the huiguan's surviving record"
+    },
+    {
+      "from": "Leiden University Library - the Kong Koan archive of Batavia",
+      "to": "MOC - Chinese archives"
+    },
+    {
+      "from": "Leiden University Library - the Kong Koan archive of Batavia",
+      "to": "MOC - Dutch archives"
+    },
+    {
+      "from": "Leiden University Library - the Kong Koan archive of Batavia",
+      "to": "Tung Wah Coffin Home Archives - Hong Kong"
+    },
+    {
       "from": "Liverpool Record Office and the Maritime Archives",
       "to": "A migrated institution collects local names not local forms"
     },
@@ -10804,6 +11206,130 @@
     {
       "from": "MOC - British archives",
       "to": "The Virtual Record Treasury and reconstruction as method"
+    },
+    {
+      "from": "MOC - Chinese archives",
+      "to": "Academia Sinica IHP - the Grand Secretariat archives in Taipei"
+    },
+    {
+      "from": "MOC - Chinese archives",
+      "to": "Ba County archive - Sichuan Provincial Archives"
+    },
+    {
+      "from": "MOC - Chinese archives",
+      "to": "Chinese archives - the Qing record divided by a sale and a strait"
+    },
+    {
+      "from": "MOC - Chinese archives",
+      "to": "Chinese contracts - the private document boom and the market that feeds it"
+    },
+    {
+      "from": "MOC - Chinese archives",
+      "to": "Chinese genealogies - Shanghai Library and FamilySearch"
+    },
+    {
+      "from": "MOC - Chinese archives",
+      "to": "Count degrees of freedom not cells"
+    },
+    {
+      "from": "MOC - Chinese archives",
+      "to": "Danxin archives - National Taiwan University"
+    },
+    {
+      "from": "MOC - Chinese archives",
+      "to": "First Historical Archives of China - Beijing"
+    },
+    {
+      "from": "MOC - Chinese archives",
+      "to": "Guild stele inscriptions - the huiguan's surviving record"
+    },
+    {
+      "from": "MOC - Chinese archives",
+      "to": "Handoff - the non-European archive survey"
+    },
+    {
+      "from": "MOC - Chinese archives",
+      "to": "Huizhou documents - the largest private contract corpus"
+    },
+    {
+      "from": "MOC - Chinese archives",
+      "to": "Leiden University Library - the Kong Koan archive of Batavia"
+    },
+    {
+      "from": "MOC - Chinese archives",
+      "to": "MOC - Acquisitions and the antiquarian trade"
+    },
+    {
+      "from": "MOC - Chinese archives",
+      "to": "MOC - Digitisation and text recognition"
+    },
+    {
+      "from": "MOC - Chinese archives",
+      "to": "MOC - ERC Synergy Grant"
+    },
+    {
+      "from": "MOC - Chinese archives",
+      "to": "MOC - European archives and digital collections"
+    },
+    {
+      "from": "MOC - Chinese archives",
+      "to": "MOC - Geniza archives"
+    },
+    {
+      "from": "MOC - Chinese archives",
+      "to": "MOC - Japanese archives"
+    },
+    {
+      "from": "MOC - Chinese archives",
+      "to": "MOC - Ottoman archives"
+    },
+    {
+      "from": "MOC - Chinese archives",
+      "to": "National Library Sofia - the Oriental Department and the 1931 sale"
+    },
+    {
+      "from": "MOC - Chinese archives",
+      "to": "National Library of China - the ancient books resource base"
+    },
+    {
+      "from": "MOC - Chinese archives",
+      "to": "National Palace Museum Taipei - the Qing palace memorials"
+    },
+    {
+      "from": "MOC - Chinese archives",
+      "to": "PRC archival access - photography forbidden and catalogues curated"
+    },
+    {
+      "from": "MOC - Chinese archives",
+      "to": "Qing grain price database - a denominator from the memorials"
+    },
+    {
+      "from": "MOC - Chinese archives",
+      "to": "Qingshui River documents - forest contracts in shares"
+    },
+    {
+      "from": "MOC - Chinese archives",
+      "to": "Shanxi piaohao records - letters, house rules and a collector's compilation"
+    },
+    {
+      "from": "MOC - Chinese archives",
+      "to": "Taiwan Shiho - the colonial survey of Chinese associations and shares"
+    },
+    {
+      "from": "MOC - Chinese archives",
+      "to": "The eight thousand sacks - the Grand Secretariat archives sold as waste paper"
+    },
+    {
+      "from": "MOC - Chinese archives",
+      "to": "Tung Wah Coffin Home Archives - Hong Kong"
+    },
+    {
+      "from": "MOC - Chinese archives",
+      "to": "Zhang Chuanxi 1995 - the contract compilation behind the census's Chinese rows"
+    },
+    {
+      "from": "MOC - Chinese archives",
+      "to": "Zigong salt contracts - shareholding in the wells"
     },
     {
       "from": "MOC - Croatian archives",
@@ -11860,6 +12386,10 @@
     {
       "from": "MOC - European archives and digital collections",
       "to": "MOC - British archives"
+    },
+    {
+      "from": "MOC - European archives and digital collections",
+      "to": "MOC - Chinese archives"
     },
     {
       "from": "MOC - European archives and digital collections",
@@ -14450,6 +14980,18 @@
       "to": "The tasnif collections - subject classification over provenance"
     },
     {
+      "from": "National Library of China - the ancient books resource base",
+      "to": "Books are imaged and documents are not - the Japanese digital split"
+    },
+    {
+      "from": "National Library of China - the ancient books resource base",
+      "to": "Chinese genealogies - Shanghai Library and FamilySearch"
+    },
+    {
+      "from": "National Library of China - the ancient books resource base",
+      "to": "MOC - Chinese archives"
+    },
+    {
       "from": "National Library of Russia - the Firkovich and Antonin collections",
       "to": "Cairo Geniza - the deposit and its survival rule"
     },
@@ -14472,6 +15014,22 @@
     {
       "from": "National Library of Wales",
       "to": "The British Newspaper Archive and the commercial full-text layer"
+    },
+    {
+      "from": "National Palace Museum Taipei - the Qing palace memorials",
+      "to": "Chinese archives - the Qing record divided by a sale and a strait"
+    },
+    {
+      "from": "National Palace Museum Taipei - the Qing palace memorials",
+      "to": "First Historical Archives of China - Beijing"
+    },
+    {
+      "from": "National Palace Museum Taipei - the Qing palace memorials",
+      "to": "MOC - Chinese archives"
+    },
+    {
+      "from": "National Palace Museum Taipei - the Qing palace memorials",
+      "to": "Qing grain price database - a denominator from the memorials"
     },
     {
       "from": "National Records of Scotland",
@@ -14970,6 +15528,26 @@
       "to": "MOC - European archives and digital collections"
     },
     {
+      "from": "PRC archival access - photography forbidden and catalogues curated",
+      "to": "Chinese archives - the Qing record divided by a sale and a strait"
+    },
+    {
+      "from": "PRC archival access - photography forbidden and catalogues curated",
+      "to": "Chinese contracts - the private document boom and the market that feeds it"
+    },
+    {
+      "from": "PRC archival access - photography forbidden and catalogues curated",
+      "to": "First Historical Archives of China - Beijing"
+    },
+    {
+      "from": "PRC archival access - photography forbidden and catalogues curated",
+      "to": "MOC - Chinese archives"
+    },
+    {
+      "from": "PRC archival access - photography forbidden and catalogues curated",
+      "to": "Refusals are observations of the filter not inferences from survivors"
+    },
+    {
       "from": "Parlement de Paris - serie X",
       "to": "Archives nationales - Paris and Pierrefitte"
     },
@@ -15396,6 +15974,46 @@
     {
       "from": "Pure multiplicative dynamics are permutation-invariant",
       "to": "Time-average"
+    },
+    {
+      "from": "Qing grain price database - a denominator from the memorials",
+      "to": "A perfectly correlated peril leaves only the time average"
+    },
+    {
+      "from": "Qing grain price database - a denominator from the memorials",
+      "to": "First Historical Archives of China - Beijing"
+    },
+    {
+      "from": "Qing grain price database - a denominator from the memorials",
+      "to": "MOC - Chinese archives"
+    },
+    {
+      "from": "Qing grain price database - a denominator from the memorials",
+      "to": "National Palace Museum Taipei - the Qing palace memorials"
+    },
+    {
+      "from": "Qing grain price database - a denominator from the memorials",
+      "to": "Princeton Geniza Project - the documentary database"
+    },
+    {
+      "from": "Qing grain price database - a denominator from the memorials",
+      "to": "The Sound Toll Registers"
+    },
+    {
+      "from": "Qing grain price database - a denominator from the memorials",
+      "to": "Tokyo Metropolitan Archives - the Edo town office and the shichibu tsumikin"
+    },
+    {
+      "from": "Qingshui River documents - forest contracts in shares",
+      "to": "Chinese contracts - the private document boom and the market that feeds it"
+    },
+    {
+      "from": "Qingshui River documents - forest contracts in shares",
+      "to": "Huizhou documents - the largest private contract corpus"
+    },
+    {
+      "from": "Qingshui River documents - forest contracts in shares",
+      "to": "MOC - Chinese archives"
     },
     {
       "from": "Ragusan collegantia is unilateral and Venetian collegantia is bilateral",
@@ -16096,6 +16714,22 @@
     {
       "from": "Service historique de la Defense - Lorient and the Compagnie des Indes",
       "to": "VOC digital corpus - what is online and on what terms"
+    },
+    {
+      "from": "Shanxi piaohao records - letters, house rules and a collector's compilation",
+      "to": "Japanese archives - custody follows the house"
+    },
+    {
+      "from": "Shanxi piaohao records - letters, house rules and a collector's compilation",
+      "to": "MOC - Acquisitions and the antiquarian trade"
+    },
+    {
+      "from": "Shanxi piaohao records - letters, house rules and a collector's compilation",
+      "to": "MOC - Chinese archives"
+    },
+    {
+      "from": "Shanxi piaohao records - letters, house rules and a collector's compilation",
+      "to": "Zhang Chuanxi 1995 - the contract compilation behind the census's Chinese rows"
     },
     {
       "from": "Shiga University - the Omi merchant archives",
@@ -16864,6 +17498,26 @@
     {
       "from": "Syndication and the misma moneda are pooling not prudence",
       "to": "loss_mitigation_forms"
+    },
+    {
+      "from": "Taiwan Shiho - the colonial survey of Chinese associations and shares",
+      "to": "Danxin archives - National Taiwan University"
+    },
+    {
+      "from": "Taiwan Shiho - the colonial survey of Chinese associations and shares",
+      "to": "Japanese archives - custody follows the house"
+    },
+    {
+      "from": "Taiwan Shiho - the colonial survey of Chinese associations and shares",
+      "to": "Kyu-bakufu hikitsugisho - the Edo town magistrate records"
+    },
+    {
+      "from": "Taiwan Shiho - the colonial survey of Chinese associations and shares",
+      "to": "MOC - Chinese archives"
+    },
+    {
+      "from": "Taiwan Shiho - the colonial survey of Chinese associations and shares",
+      "to": "Zhang Chuanxi 1995 - the contract compilation behind the census's Chinese rows"
     },
     {
       "from": "Taleb reads survival as evidence about the survivor and we read it as evidence about the filter",
@@ -18408,6 +19062,26 @@
     {
       "from": "The durable-and-coupled cell is the underexplored one",
       "to": "The naties are a six-century Lindy institution"
+    },
+    {
+      "from": "The eight thousand sacks - the Grand Secretariat archives sold as waste paper",
+      "to": "Academia Sinica IHP - the Grand Secretariat archives in Taipei"
+    },
+    {
+      "from": "The eight thousand sacks - the Grand Secretariat archives sold as waste paper",
+      "to": "Chinese archives - the Qing record divided by a sale and a strait"
+    },
+    {
+      "from": "The eight thousand sacks - the Grand Secretariat archives sold as waste paper",
+      "to": "MOC - Acquisitions and the antiquarian trade"
+    },
+    {
+      "from": "The eight thousand sacks - the Grand Secretariat archives sold as waste paper",
+      "to": "MOC - Chinese archives"
+    },
+    {
+      "from": "The eight thousand sacks - the Grand Secretariat archives sold as waste paper",
+      "to": "National Library Sofia - the Oriental Department and the 1931 sale"
     },
     {
       "from": "The ensemble average is the local descriptor of a barrier-shielded agent",
@@ -20442,6 +21116,18 @@
       "to": "The qirad's antecedents are Sasanian not Sogdian"
     },
     {
+      "from": "Tung Wah Coffin Home Archives - Hong Kong",
+      "to": "Guild stele inscriptions - the huiguan's surviving record"
+    },
+    {
+      "from": "Tung Wah Coffin Home Archives - Hong Kong",
+      "to": "Leiden University Library - the Kong Koan archive of Batavia"
+    },
+    {
+      "from": "Tung Wah Coffin Home Archives - Hong Kong",
+      "to": "MOC - Chinese archives"
+    },
+    {
       "from": "Typology and character coding literature",
       "to": "Borrow the diagnostics not the tree"
     },
@@ -20896,6 +21582,42 @@
     {
       "from": "Zeeuws Archief - the Zeeland chamber and the MCC",
       "to": "Westfries Archief - the Hoorn and Enkhuizen chambers"
+    },
+    {
+      "from": "Zhang Chuanxi 1995 - the contract compilation behind the census's Chinese rows",
+      "to": "Chinese contracts - the private document boom and the market that feeds it"
+    },
+    {
+      "from": "Zhang Chuanxi 1995 - the contract compilation behind the census's Chinese rows",
+      "to": "Count degrees of freedom not cells"
+    },
+    {
+      "from": "Zhang Chuanxi 1995 - the contract compilation behind the census's Chinese rows",
+      "to": "Huizhou documents - the largest private contract corpus"
+    },
+    {
+      "from": "Zhang Chuanxi 1995 - the contract compilation behind the census's Chinese rows",
+      "to": "MOC - Chinese archives"
+    },
+    {
+      "from": "Zhang Chuanxi 1995 - the contract compilation behind the census's Chinese rows",
+      "to": "The notarial security clause is boilerplate and cannot carry a typology"
+    },
+    {
+      "from": "Zigong salt contracts - shareholding in the wells",
+      "to": "Chinese contracts - the private document boom and the market that feeds it"
+    },
+    {
+      "from": "Zigong salt contracts - shareholding in the wells",
+      "to": "MOC - Chinese archives"
+    },
+    {
+      "from": "Zigong salt contracts - shareholding in the wells",
+      "to": "Stora Kopparberg and the oldest-share claim"
+    },
+    {
+      "from": "Zigong salt contracts - shareholding in the wells",
+      "to": "Zhang Chuanxi 1995 - the contract compilation behind the census's Chinese rows"
     },
     {
       "from": "commenda",
