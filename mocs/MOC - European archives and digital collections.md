@@ -112,8 +112,9 @@ Repository-level notes live in country MOCs, each carrying that country's struct
 | Croatia | [[MOC - Croatian archives]] | One frame, many custodians — and at Dubrovnik the **whole archive of a commercial republic**, all 73 Republic fonds on the Memory of the World register |
 | Ottoman (non-European) | [[MOC - Ottoman archives]] | The court record divided by the Republic and by the successor borders and reunited only as images, in one reading room; the central archive classified by subject before provenance; the waqf's deeds held by the waqf's administrator. **Script decides the layer**, and the census's rows are accounts in siyakat |
 | Geniza (non-European) | [[MOC - Geniza archives]] | Not an archive but a deposit, emptied by dealers and an expedition into sixty collections — and **reunited online at every layer**, down to a machine transcription of the whole. The survival rule is a script rule, and so is the machine's accuracy |
+| Japan (non-European) | [[MOC - Japanese archives]] | Custody follows the house, and dispersal is policy. **Books are imaged; the documents the census needs are not** — they are at layer 3 in print, in municipal histories. The binding constraint is permission and residency, not script |
 
-**The European survey is complete.** Non-European repositories — Ottoman, Geniza, Japanese, South and East Asian — are named in the grant's travel line and need their own pass; see [[Handoff - the non-European archive survey]]. **The Ottoman and Geniza passes are done** and hang off the table above as the first non-European rows: [[MOC - Ottoman archives]], [[MOC - Geniza archives]].
+**The European survey is complete.** Non-European repositories — Ottoman, Geniza, Japanese, South and East Asian — are named in the grant's travel line and need their own pass; see [[Handoff - the non-European archive survey]]. **The Ottoman, Geniza and Japanese passes are done** and hang off the table above as the first non-European rows: [[MOC - Ottoman archives]], [[MOC - Geniza archives]], [[MOC - Japanese archives]].
 
 ## Where each coded form's records sit
 

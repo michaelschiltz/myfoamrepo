@@ -649,6 +649,15 @@
       "shape": "dot"
     },
     {
+      "id": "Bank of Japan Currency Museum - the Senpeikan documents",
+      "type": "reference",
+      "group": "reference",
+      "label": "Bank of Japan Currency Museum - the Senpeikan documents",
+      "value": 9,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
       "id": "Bayerisches Hauptstaatsarchiv - Munchen",
       "type": "reference",
       "group": "reference",
@@ -708,6 +717,15 @@
       "group": "reference",
       "label": "Bodmerei - where the German bottomry records are",
       "value": 19,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "Books are imaged and documents are not - the Japanese digital split",
+      "type": "reference",
+      "group": "reference",
+      "label": "Books are imaged and documents are not - the Japanese digital split",
+      "value": 22,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -780,6 +798,15 @@
       "group": "reference",
       "label": "C 66 - the Patent Rolls and the charters",
       "value": 12,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "CODH datasets - the open machine-learning layer",
+      "type": "reference",
+      "group": "reference",
+      "label": "CODH datasets - the open machine-learning layer",
+      "value": 8,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1081,6 +1108,15 @@
       "shape": "dot"
     },
     {
+      "id": "Echigo - the NIJL fonds behind the census's Echigo rows",
+      "type": "reference",
+      "group": "reference",
+      "label": "Echigo - the NIJL fonds behind the census's Echigo rows",
+      "value": 11,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
       "id": "Economics had its ensemble moment in 1738 and psychologized it",
       "type": "permanent",
       "group": "seed",
@@ -1220,7 +1256,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Forms are not independent observations when a village runs a portfolio",
-      "value": 21,
+      "value": 22,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1247,7 +1283,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Fuggerarchiv - Dillingen",
-      "value": 23,
+      "value": 25,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1315,11 +1351,20 @@
       "shape": "dot"
     },
     {
+      "id": "Genchi hozon - keeping documents where they are",
+      "type": "reference",
+      "group": "reference",
+      "label": "Genchi hozon - keeping documents where they are",
+      "value": 11,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
       "id": "General average shares decisions where warichi shares hazards",
       "type": "permanent",
       "group": "seed",
       "label": "General average shares decisions where warichi shares hazards",
-      "value": 17,
+      "value": 18,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1382,7 +1427,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Handoff - the non-European archive survey",
-      "value": 29,
+      "value": 36,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1429,6 +1474,15 @@
       "label": "Hierro Anibarro 2005 on the asiento de averia and the privileged company",
       "value": 23,
       "color": "#7570b3",
+      "shape": "dot"
+    },
+    {
+      "id": "Historiographical Institute - the Shiryo Hensanjo and the Dai Nihon series",
+      "type": "reference",
+      "group": "reference",
+      "label": "Historiographical Institute - the Shiryo Hensanjo and the Dai Nihon series",
+      "value": 9,
+      "color": "#66a61e",
       "shape": "dot"
     },
     {
@@ -1481,7 +1535,7 @@
       "type": "reference",
       "group": "reference",
       "label": "ISAM Library Archive - the court register image collection",
-      "value": 17,
+      "value": 19,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1499,7 +1553,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Independence of apparatus is not independence of question",
-      "value": 36,
+      "value": 37,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1603,6 +1657,24 @@
       "shape": "dot"
     },
     {
+      "id": "Japan Search - the national metadata aggregator",
+      "type": "reference",
+      "group": "reference",
+      "label": "Japan Search - the national metadata aggregator",
+      "value": 9,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "Japanese archives - custody follows the house",
+      "type": "reference",
+      "group": "reference",
+      "label": "Japanese archives - custody follows the house",
+      "value": 32,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
       "id": "Jensen gap",
       "type": "permanent",
       "group": "stub",
@@ -1618,6 +1690,15 @@
       "label": "Jensen supplies the gap but only the dynamic privileges the logarithm",
       "value": 34,
       "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "Jichitaishi - the municipal histories as Japan's print layer 3",
+      "type": "reference",
+      "group": "reference",
+      "label": "Jichitaishi - the municipal histories as Japan's print layer 3",
+      "value": 13,
+      "color": "#66a61e",
       "shape": "dot"
     },
     {
@@ -1697,7 +1778,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Kuzushiji OCR - the NDL and CODH stack",
-      "value": 12,
+      "value": 20,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1708,6 +1789,24 @@
       "label": "Kye is not a ROSCA and the equation is an artefact of comparison with mujin",
       "value": 19,
       "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "Kyoto Institute Library and Archives - the Toji Hyakugo Monjo",
+      "type": "reference",
+      "group": "reference",
+      "label": "Kyoto Institute Library and Archives - the Toji Hyakugo Monjo",
+      "value": 5,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "Kyu-bakufu hikitsugisho - the Edo town magistrate records",
+      "type": "reference",
+      "group": "reference",
+      "label": "Kyu-bakufu hikitsugisho - the Edo town magistrate records",
+      "value": 15,
+      "color": "#66a61e",
       "shape": "dot"
     },
     {
@@ -1828,11 +1927,29 @@
       "shape": "dot"
     },
     {
+      "id": "Minna de Honkoku - crowdsourced transcription",
+      "type": "reference",
+      "group": "reference",
+      "label": "Minna de Honkoku - crowdsourced transcription",
+      "value": 10,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
       "id": "Minutier central des notaires de Paris",
       "type": "reference",
       "group": "reference",
       "label": "Minutier central des notaires de Paris",
       "value": 17,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "Mitsui Bunko - the Mitsui house archive",
+      "type": "reference",
+      "group": "reference",
+      "label": "Mitsui Bunko - the Mitsui house archive",
+      "value": 15,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1846,11 +1963,38 @@
       "shape": "dot"
     },
     {
+      "id": "NDL transmission service for individuals - the residency wall",
+      "type": "reference",
+      "group": "reference",
+      "label": "NDL transmission service for individuals - the residency wall",
+      "value": 11,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "NIJL Archives - the Shiryokan village and merchant fonds",
+      "type": "reference",
+      "group": "reference",
+      "label": "NIJL Archives - the Shiryokan village and merchant fonds",
+      "value": 15,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "NIJL Kokusho Database - the classical books union layer",
+      "type": "reference",
+      "group": "reference",
+      "label": "NIJL Kokusho Database - the classical books union layer",
+      "value": 11,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
       "id": "Natie and kabu-nakama are a convergence pair",
       "type": "permanent",
       "group": "seed",
       "label": "Natie and kabu-nakama are a convergence pair",
-      "value": 24,
+      "value": 25,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1887,6 +2031,24 @@
       "group": "reference",
       "label": "National Archives of Ireland PRONI and the Four Courts fire",
       "value": 10,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "National Archives of Japan - the Naikaku Bunko and the digital archive",
+      "type": "reference",
+      "group": "reference",
+      "label": "National Archives of Japan - the Naikaku Bunko and the digital archive",
+      "value": 10,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "National Diet Library - Digital Collections and the kotenseki OCR layer",
+      "type": "reference",
+      "group": "reference",
+      "label": "National Diet Library - Digital Collections and the kotenseki OCR layer",
+      "value": 14,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -2017,11 +2179,29 @@
       "shape": "dot"
     },
     {
+      "id": "Osaka Museum of History - the Konoike family documents",
+      "type": "reference",
+      "group": "reference",
+      "label": "Osaka Museum of History - the Konoike family documents",
+      "value": 14,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "Osaka University of Commerce - the Museum of Commercial History",
+      "type": "reference",
+      "group": "reference",
+      "label": "Osaka University of Commerce - the Museum of Commercial History",
+      "value": 5,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
       "id": "Osmanli Arsivi - Istanbul",
       "type": "reference",
       "group": "reference",
       "label": "Osmanli Arsivi - Istanbul",
-      "value": 26,
+      "value": 27,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -2104,6 +2284,15 @@
       "label": "Pooling's sign is set by the correlation of its baskets",
       "value": 47,
       "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "Prefectural and municipal archives - the monjokan network",
+      "type": "reference",
+      "group": "reference",
+      "label": "Prefectural and municipal archives - the monjokan network",
+      "value": 9,
+      "color": "#66a61e",
       "shape": "dot"
     },
     {
@@ -2192,7 +2381,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Refusals are observations of the filter not inferences from survivors",
-      "value": 112,
+      "value": 113,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -2203,6 +2392,15 @@
       "label": "Reinforcement selects an attractor the ensemble average never occupies",
       "value": 27,
       "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "Rekihaku - the National Museum of Japanese History and khirin",
+      "type": "reference",
+      "group": "reference",
+      "label": "Rekihaku - the National Museum of Japanese History and khirin",
+      "value": 7,
+      "color": "#66a61e",
       "shape": "dot"
     },
     {
@@ -2255,7 +2453,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Rijksarchief in Belgie - the state archives network",
-      "value": 19,
+      "value": 20,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -2364,6 +2562,24 @@
       "group": "reference",
       "label": "Service historique de la Defense - Lorient and the Compagnie des Indes",
       "value": 16,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "Shiga University - the Omi merchant archives",
+      "type": "reference",
+      "group": "reference",
+      "label": "Shiga University - the Omi merchant archives",
+      "value": 8,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "Shiryo Net and the disaster survival rule",
+      "type": "reference",
+      "group": "reference",
+      "label": "Shiryo Net and the disaster survival rule",
+      "value": 13,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -2566,6 +2782,15 @@
       "shape": "dot"
     },
     {
+      "id": "Sumitomo Historical Archives - Kyoto",
+      "type": "reference",
+      "group": "reference",
+      "label": "Sumitomo Historical Archives - Kyoto",
+      "value": 9,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
       "id": "Svenska Ostindiska Companiet - the Gothenburg archive",
       "type": "reference",
       "group": "reference",
@@ -2687,7 +2912,7 @@
       "type": "reference",
       "group": "reference",
       "label": "The Dubrovnik quarantine of 1377",
-      "value": 8,
+      "value": 9,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -2813,7 +3038,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The VOC-EIC digital asymmetry is an access regime not a survival difference",
-      "value": 55,
+      "value": 56,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -2896,6 +3121,15 @@
       "label": "The bidding ko transfers from the liquidity-constrained to the liquid",
       "value": 21,
       "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "The clearing records dataset has no archive yet",
+      "type": "reference",
+      "group": "reference",
+      "label": "The clearing records dataset has no archive yet",
+      "value": 20,
+      "color": "#66a61e",
       "shape": "dot"
     },
     {
@@ -3056,7 +3290,7 @@
       "type": "permanent",
       "group": "stub",
       "label": "The ie as entity-shielding",
-      "value": 20,
+      "value": 23,
       "color": "#666666",
       "shape": "dot"
     },
@@ -3182,7 +3416,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The notarial security clause is boilerplate and cannot carry a typology",
-      "value": 14,
+      "value": 15,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -3457,6 +3691,24 @@
       "shape": "dot"
     },
     {
+      "id": "Tokyo Metropolitan Archives - the Edo town office and the shichibu tsumikin",
+      "type": "reference",
+      "group": "reference",
+      "label": "Tokyo Metropolitan Archives - the Edo town office and the shichibu tsumikin",
+      "value": 7,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "Toyonaka City - the Chokoji-mura documents",
+      "type": "reference",
+      "group": "reference",
+      "label": "Toyonaka City - the Chokoji-mura documents",
+      "value": 10,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
       "id": "Transferable claims reconcile lock-in with member exit",
       "type": "permanent",
       "group": "seed",
@@ -3560,7 +3812,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Warichi re-randomises after absorption rather than diversifying",
-      "value": 21,
+      "value": 22,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -3632,7 +3884,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Acquisitions and the antiquarian trade",
-      "value": 45,
+      "value": 50,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -3677,7 +3929,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Digitisation and text recognition",
-      "value": 41,
+      "value": 46,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -3695,7 +3947,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - ERC Synergy Grant",
-      "value": 67,
+      "value": 68,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -3722,7 +3974,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - European archives and digital collections",
-      "value": 154,
+      "value": 161,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -3740,7 +3992,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Geniza archives",
-      "value": 43,
+      "value": 45,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -3790,6 +4042,15 @@
       "shape": "dot"
     },
     {
+      "id": "MOC - Japanese archives",
+      "type": "moc",
+      "group": "moc",
+      "label": "MOC - Japanese archives",
+      "value": 82,
+      "color": "#d95f02",
+      "shape": "dot"
+    },
+    {
       "id": "MOC - Nordic archives",
       "type": "moc",
       "group": "moc",
@@ -3803,7 +4064,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Ottoman archives",
-      "value": 72,
+      "value": 74,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -6041,6 +6302,22 @@
       "to": "Time-average optimization is a survivorship property not an intention"
     },
     {
+      "from": "Bank of Japan Currency Museum - the Senpeikan documents",
+      "to": "MOC - Acquisitions and the antiquarian trade"
+    },
+    {
+      "from": "Bank of Japan Currency Museum - the Senpeikan documents",
+      "to": "MOC - Japanese archives"
+    },
+    {
+      "from": "Bank of Japan Currency Museum - the Senpeikan documents",
+      "to": "Mitsui Bunko - the Mitsui house archive"
+    },
+    {
+      "from": "Bank of Japan Currency Museum - the Senpeikan documents",
+      "to": "The clearing records dataset has no archive yet"
+    },
+    {
       "from": "Bayerisches Hauptstaatsarchiv - Munchen",
       "to": "Begijnhof archives - where the beguinages records are"
     },
@@ -6215,6 +6492,54 @@
     {
       "from": "Bodmerei - where the German bottomry records are",
       "to": "Stadsarchief Amsterdam - the notarial archive"
+    },
+    {
+      "from": "Books are imaged and documents are not - the Japanese digital split",
+      "to": "Echigo - the NIJL fonds behind the census's Echigo rows"
+    },
+    {
+      "from": "Books are imaged and documents are not - the Japanese digital split",
+      "to": "Japan Search - the national metadata aggregator"
+    },
+    {
+      "from": "Books are imaged and documents are not - the Japanese digital split",
+      "to": "Japanese archives - custody follows the house"
+    },
+    {
+      "from": "Books are imaged and documents are not - the Japanese digital split",
+      "to": "Jichitaishi - the municipal histories as Japan's print layer 3"
+    },
+    {
+      "from": "Books are imaged and documents are not - the Japanese digital split",
+      "to": "Kuzushiji OCR - the NDL and CODH stack"
+    },
+    {
+      "from": "Books are imaged and documents are not - the Japanese digital split",
+      "to": "MOC - Digitisation and text recognition"
+    },
+    {
+      "from": "Books are imaged and documents are not - the Japanese digital split",
+      "to": "MOC - European archives and digital collections"
+    },
+    {
+      "from": "Books are imaged and documents are not - the Japanese digital split",
+      "to": "MOC - Japanese archives"
+    },
+    {
+      "from": "Books are imaged and documents are not - the Japanese digital split",
+      "to": "Minna de Honkoku - crowdsourced transcription"
+    },
+    {
+      "from": "Books are imaged and documents are not - the Japanese digital split",
+      "to": "NIJL Kokusho Database - the classical books union layer"
+    },
+    {
+      "from": "Books are imaged and documents are not - the Japanese digital split",
+      "to": "National Archives of Japan - the Naikaku Bunko and the digital archive"
+    },
+    {
+      "from": "Books are imaged and documents are not - the Japanese digital split",
+      "to": "National Diet Library - Digital Collections and the kotenseki OCR layer"
     },
     {
       "from": "Borrow the diagnostics not the tree",
@@ -6495,6 +6820,22 @@
     {
       "from": "C 66 - the Patent Rolls and the charters",
       "to": "The National Archives - Kew"
+    },
+    {
+      "from": "CODH datasets - the open machine-learning layer",
+      "to": "Books are imaged and documents are not - the Japanese digital split"
+    },
+    {
+      "from": "CODH datasets - the open machine-learning layer",
+      "to": "Kuzushiji OCR - the NDL and CODH stack"
+    },
+    {
+      "from": "CODH datasets - the open machine-learning layer",
+      "to": "MOC - Japanese archives"
+    },
+    {
+      "from": "CODH datasets - the open machine-learning layer",
+      "to": "NIJL Kokusho Database - the classical books union layer"
     },
     {
       "from": "Cairo - what the Geniza trip does and does not need",
@@ -7557,6 +7898,26 @@
       "to": "VOC digital corpus - what is online and on what terms"
     },
     {
+      "from": "Echigo - the NIJL fonds behind the census's Echigo rows",
+      "to": "General average shares decisions where warichi shares hazards"
+    },
+    {
+      "from": "Echigo - the NIJL fonds behind the census's Echigo rows",
+      "to": "MOC - Acquisitions and the antiquarian trade"
+    },
+    {
+      "from": "Echigo - the NIJL fonds behind the census's Echigo rows",
+      "to": "MOC - Japanese archives"
+    },
+    {
+      "from": "Echigo - the NIJL fonds behind the census's Echigo rows",
+      "to": "NIJL Archives - the Shiryokan village and merchant fonds"
+    },
+    {
+      "from": "Echigo - the NIJL fonds behind the census's Echigo rows",
+      "to": "Warichi re-randomises after absorption rather than diversifying"
+    },
+    {
       "from": "Economics had its ensemble moment in 1738 and psychologized it",
       "to": "MOC - Ergodicity and the time-ensemble distinction"
     },
@@ -8469,6 +8830,26 @@
       "to": "Stadsarchief Amsterdam - the notarial archive"
     },
     {
+      "from": "Genchi hozon - keeping documents where they are",
+      "to": "ISAM Library Archive - the court register image collection"
+    },
+    {
+      "from": "Genchi hozon - keeping documents where they are",
+      "to": "Japanese archives - custody follows the house"
+    },
+    {
+      "from": "Genchi hozon - keeping documents where they are",
+      "to": "MOC - Japanese archives"
+    },
+    {
+      "from": "Genchi hozon - keeping documents where they are",
+      "to": "NIJL Archives - the Shiryokan village and merchant fonds"
+    },
+    {
+      "from": "Genchi hozon - keeping documents where they are",
+      "to": "Shiryo Net and the disaster survival rule"
+    },
+    {
       "from": "General average shares decisions where warichi shares hazards",
       "to": "MOC - HistorEE"
     },
@@ -8734,6 +9115,10 @@
     },
     {
       "from": "Handoff - the non-European archive survey",
+      "to": "MOC - Japanese archives"
+    },
+    {
+      "from": "Handoff - the non-European archive survey",
       "to": "MOC - Ottoman archives"
     },
     {
@@ -8875,6 +9260,22 @@
     {
       "from": "Hierro Anibarro 2005 on the asiento de averia and the privileged company",
       "to": "limited-liability"
+    },
+    {
+      "from": "Historiographical Institute - the Shiryo Hensanjo and the Dai Nihon series",
+      "to": "ISAM Library Archive - the court register image collection"
+    },
+    {
+      "from": "Historiographical Institute - the Shiryo Hensanjo and the Dai Nihon series",
+      "to": "Jichitaishi - the municipal histories as Japan's print layer 3"
+    },
+    {
+      "from": "Historiographical Institute - the Shiryo Hensanjo and the Dai Nihon series",
+      "to": "Kyu-bakufu hikitsugisho - the Edo town magistrate records"
+    },
+    {
+      "from": "Historiographical Institute - the Shiryo Hensanjo and the Dai Nihon series",
+      "to": "MOC - Japanese archives"
     },
     {
       "from": "Historisches Archiv der Stadt Koln and the 2009 collapse",
@@ -9485,6 +9886,78 @@
       "to": "Princeton Geniza Project - the documentary database"
     },
     {
+      "from": "Japan Search - the national metadata aggregator",
+      "to": "Books are imaged and documents are not - the Japanese digital split"
+    },
+    {
+      "from": "Japan Search - the national metadata aggregator",
+      "to": "MOC - European archives and digital collections"
+    },
+    {
+      "from": "Japan Search - the national metadata aggregator",
+      "to": "MOC - Japanese archives"
+    },
+    {
+      "from": "Japan Search - the national metadata aggregator",
+      "to": "NIJL Kokusho Database - the classical books union layer"
+    },
+    {
+      "from": "Japanese archives - custody follows the house",
+      "to": "Genchi hozon - keeping documents where they are"
+    },
+    {
+      "from": "Japanese archives - custody follows the house",
+      "to": "Handoff - the non-European archive survey"
+    },
+    {
+      "from": "Japanese archives - custody follows the house",
+      "to": "Kyu-bakufu hikitsugisho - the Edo town magistrate records"
+    },
+    {
+      "from": "Japanese archives - custody follows the house",
+      "to": "MOC - Digitisation and text recognition"
+    },
+    {
+      "from": "Japanese archives - custody follows the house",
+      "to": "MOC - Japanese archives"
+    },
+    {
+      "from": "Japanese archives - custody follows the house",
+      "to": "Mitsui Bunko - the Mitsui house archive"
+    },
+    {
+      "from": "Japanese archives - custody follows the house",
+      "to": "NIJL Archives - the Shiryokan village and merchant fonds"
+    },
+    {
+      "from": "Japanese archives - custody follows the house",
+      "to": "National Archives of Japan - the Naikaku Bunko and the digital archive"
+    },
+    {
+      "from": "Japanese archives - custody follows the house",
+      "to": "Osaka Museum of History - the Konoike family documents"
+    },
+    {
+      "from": "Japanese archives - custody follows the house",
+      "to": "Shiga University - the Omi merchant archives"
+    },
+    {
+      "from": "Japanese archives - custody follows the house",
+      "to": "Shiryo Net and the disaster survival rule"
+    },
+    {
+      "from": "Japanese archives - custody follows the house",
+      "to": "Sumitomo Historical Archives - Kyoto"
+    },
+    {
+      "from": "Japanese archives - custody follows the house",
+      "to": "The ie as entity-shielding"
+    },
+    {
+      "from": "Japanese archives - custody follows the house",
+      "to": "Toyonaka City - the Chokoji-mura documents"
+    },
+    {
       "from": "Jensen gap",
       "to": "Entity-shielding"
     },
@@ -9551,6 +10024,26 @@
     {
       "from": "Jensen supplies the gap but only the dynamic privileges the logarithm",
       "to": "Time-average"
+    },
+    {
+      "from": "Jichitaishi - the municipal histories as Japan's print layer 3",
+      "to": "Books are imaged and documents are not - the Japanese digital split"
+    },
+    {
+      "from": "Jichitaishi - the municipal histories as Japan's print layer 3",
+      "to": "Japanese archives - custody follows the house"
+    },
+    {
+      "from": "Jichitaishi - the municipal histories as Japan's print layer 3",
+      "to": "MOC - Japanese archives"
+    },
+    {
+      "from": "Jichitaishi - the municipal histories as Japan's print layer 3",
+      "to": "NDL transmission service for individuals - the residency wall"
+    },
+    {
+      "from": "Jichitaishi - the municipal histories as Japan's print layer 3",
+      "to": "The VOC-EIC digital asymmetry is an access regime not a survival difference"
     },
     {
       "from": "John Rylands Library - the Rylands Genizah Collection",
@@ -9722,6 +10215,10 @@
     },
     {
       "from": "Kuzushiji OCR - the NDL and CODH stack",
+      "to": "National Diet Library - Digital Collections and the kotenseki OCR layer"
+    },
+    {
+      "from": "Kuzushiji OCR - the NDL and CODH stack",
       "to": "Open-source HTR stack - eScriptorium Kraken Loghi"
     },
     {
@@ -9767,6 +10264,38 @@
     {
       "from": "Kye is not a ROSCA and the equation is an artefact of comparison with mujin",
       "to": "Transmission versus independent recurrence is the load-bearing test"
+    },
+    {
+      "from": "Kyoto Institute Library and Archives - the Toji Hyakugo Monjo",
+      "to": "Historiographical Institute - the Shiryo Hensanjo and the Dai Nihon series"
+    },
+    {
+      "from": "Kyoto Institute Library and Archives - the Toji Hyakugo Monjo",
+      "to": "Japanese archives - custody follows the house"
+    },
+    {
+      "from": "Kyoto Institute Library and Archives - the Toji Hyakugo Monjo",
+      "to": "MOC - Japanese archives"
+    },
+    {
+      "from": "Kyu-bakufu hikitsugisho - the Edo town magistrate records",
+      "to": "Historiographical Institute - the Shiryo Hensanjo and the Dai Nihon series"
+    },
+    {
+      "from": "Kyu-bakufu hikitsugisho - the Edo town magistrate records",
+      "to": "MOC - Japanese archives"
+    },
+    {
+      "from": "Kyu-bakufu hikitsugisho - the Edo town magistrate records",
+      "to": "Natie and kabu-nakama are a convergence pair"
+    },
+    {
+      "from": "Kyu-bakufu hikitsugisho - the Edo town magistrate records",
+      "to": "National Diet Library - Digital Collections and the kotenseki OCR layer"
+    },
+    {
+      "from": "Kyu-bakufu hikitsugisho - the Edo town magistrate records",
+      "to": "The clearing records dataset has no archive yet"
     },
     {
       "from": "Labour exchange is the pooling type the census cannot see",
@@ -10563,6 +11092,10 @@
     {
       "from": "MOC - Digitisation and text recognition",
       "to": "MOC - European archives and digital collections"
+    },
+    {
+      "from": "MOC - Digitisation and text recognition",
+      "to": "MOC - Japanese archives"
     },
     {
       "from": "MOC - Digitisation and text recognition",
@@ -11363,6 +11896,10 @@
     {
       "from": "MOC - European archives and digital collections",
       "to": "MOC - Italian archives"
+    },
+    {
+      "from": "MOC - European archives and digital collections",
+      "to": "MOC - Japanese archives"
     },
     {
       "from": "MOC - European archives and digital collections",
@@ -12797,6 +13334,146 @@
       "to": "SIAS SIUSA and SAN - the Italian access layers"
     },
     {
+      "from": "MOC - Japanese archives",
+      "to": "Bank of Japan Currency Museum - the Senpeikan documents"
+    },
+    {
+      "from": "MOC - Japanese archives",
+      "to": "Books are imaged and documents are not - the Japanese digital split"
+    },
+    {
+      "from": "MOC - Japanese archives",
+      "to": "CODH datasets - the open machine-learning layer"
+    },
+    {
+      "from": "MOC - Japanese archives",
+      "to": "Echigo - the NIJL fonds behind the census's Echigo rows"
+    },
+    {
+      "from": "MOC - Japanese archives",
+      "to": "Genchi hozon - keeping documents where they are"
+    },
+    {
+      "from": "MOC - Japanese archives",
+      "to": "Handoff - the non-European archive survey"
+    },
+    {
+      "from": "MOC - Japanese archives",
+      "to": "Historiographical Institute - the Shiryo Hensanjo and the Dai Nihon series"
+    },
+    {
+      "from": "MOC - Japanese archives",
+      "to": "Japan Search - the national metadata aggregator"
+    },
+    {
+      "from": "MOC - Japanese archives",
+      "to": "Japanese archives - custody follows the house"
+    },
+    {
+      "from": "MOC - Japanese archives",
+      "to": "Jichitaishi - the municipal histories as Japan's print layer 3"
+    },
+    {
+      "from": "MOC - Japanese archives",
+      "to": "Kyoto Institute Library and Archives - the Toji Hyakugo Monjo"
+    },
+    {
+      "from": "MOC - Japanese archives",
+      "to": "Kyu-bakufu hikitsugisho - the Edo town magistrate records"
+    },
+    {
+      "from": "MOC - Japanese archives",
+      "to": "MOC - Acquisitions and the antiquarian trade"
+    },
+    {
+      "from": "MOC - Japanese archives",
+      "to": "MOC - Digitisation and text recognition"
+    },
+    {
+      "from": "MOC - Japanese archives",
+      "to": "MOC - ERC Synergy Grant"
+    },
+    {
+      "from": "MOC - Japanese archives",
+      "to": "MOC - European archives and digital collections"
+    },
+    {
+      "from": "MOC - Japanese archives",
+      "to": "MOC - Geniza archives"
+    },
+    {
+      "from": "MOC - Japanese archives",
+      "to": "MOC - Ottoman archives"
+    },
+    {
+      "from": "MOC - Japanese archives",
+      "to": "Minna de Honkoku - crowdsourced transcription"
+    },
+    {
+      "from": "MOC - Japanese archives",
+      "to": "Mitsui Bunko - the Mitsui house archive"
+    },
+    {
+      "from": "MOC - Japanese archives",
+      "to": "NDL transmission service for individuals - the residency wall"
+    },
+    {
+      "from": "MOC - Japanese archives",
+      "to": "NIJL Archives - the Shiryokan village and merchant fonds"
+    },
+    {
+      "from": "MOC - Japanese archives",
+      "to": "NIJL Kokusho Database - the classical books union layer"
+    },
+    {
+      "from": "MOC - Japanese archives",
+      "to": "National Archives of Japan - the Naikaku Bunko and the digital archive"
+    },
+    {
+      "from": "MOC - Japanese archives",
+      "to": "National Diet Library - Digital Collections and the kotenseki OCR layer"
+    },
+    {
+      "from": "MOC - Japanese archives",
+      "to": "Osaka Museum of History - the Konoike family documents"
+    },
+    {
+      "from": "MOC - Japanese archives",
+      "to": "Osaka University of Commerce - the Museum of Commercial History"
+    },
+    {
+      "from": "MOC - Japanese archives",
+      "to": "Prefectural and municipal archives - the monjokan network"
+    },
+    {
+      "from": "MOC - Japanese archives",
+      "to": "Rekihaku - the National Museum of Japanese History and khirin"
+    },
+    {
+      "from": "MOC - Japanese archives",
+      "to": "Shiga University - the Omi merchant archives"
+    },
+    {
+      "from": "MOC - Japanese archives",
+      "to": "Shiryo Net and the disaster survival rule"
+    },
+    {
+      "from": "MOC - Japanese archives",
+      "to": "Sumitomo Historical Archives - Kyoto"
+    },
+    {
+      "from": "MOC - Japanese archives",
+      "to": "The clearing records dataset has no archive yet"
+    },
+    {
+      "from": "MOC - Japanese archives",
+      "to": "Tokyo Metropolitan Archives - the Edo town office and the shichibu tsumikin"
+    },
+    {
+      "from": "MOC - Japanese archives",
+      "to": "Toyonaka City - the Chokoji-mura documents"
+    },
+    {
       "from": "MOC - Nordic archives",
       "to": "Asiatisk Kompagni and the Danish trading companies"
     },
@@ -13421,6 +14098,22 @@
       "to": "Vakiflar Genel Mudurlugu Arsivi - Ankara"
     },
     {
+      "from": "Minna de Honkoku - crowdsourced transcription",
+      "to": "Books are imaged and documents are not - the Japanese digital split"
+    },
+    {
+      "from": "Minna de Honkoku - crowdsourced transcription",
+      "to": "Kuzushiji OCR - the NDL and CODH stack"
+    },
+    {
+      "from": "Minna de Honkoku - crowdsourced transcription",
+      "to": "MOC - Japanese archives"
+    },
+    {
+      "from": "Minna de Honkoku - crowdsourced transcription",
+      "to": "Rekihaku - the National Museum of Japanese History and khirin"
+    },
+    {
       "from": "Minutier central des notaires de Paris",
       "to": "Archives departementales de la Gironde - Bordeaux"
     },
@@ -13443,6 +14136,26 @@
     {
       "from": "Minutier central des notaires de Paris",
       "to": "Stadsarchief Amsterdam - the notarial archive"
+    },
+    {
+      "from": "Mitsui Bunko - the Mitsui house archive",
+      "to": "Fuggerarchiv - Dillingen"
+    },
+    {
+      "from": "Mitsui Bunko - the Mitsui house archive",
+      "to": "Japanese archives - custody follows the house"
+    },
+    {
+      "from": "Mitsui Bunko - the Mitsui house archive",
+      "to": "MOC - Japanese archives"
+    },
+    {
+      "from": "Mitsui Bunko - the Mitsui house archive",
+      "to": "Sumitomo Historical Archives - Kyoto"
+    },
+    {
+      "from": "Mitsui Bunko - the Mitsui house archive",
+      "to": "The clearing records dataset has no archive yet"
     },
     {
       "from": "Multiplicative amplification is indifferent to what it amplifies",
@@ -13483,6 +14196,66 @@
     {
       "from": "Multiplicative amplification is indifferent to what it amplifies",
       "to": "The ascent narrative is the Jensen error as historiography"
+    },
+    {
+      "from": "NDL transmission service for individuals - the residency wall",
+      "to": "Jichitaishi - the municipal histories as Japan's print layer 3"
+    },
+    {
+      "from": "NDL transmission service for individuals - the residency wall",
+      "to": "MOC - Japanese archives"
+    },
+    {
+      "from": "NDL transmission service for individuals - the residency wall",
+      "to": "National Diet Library - Digital Collections and the kotenseki OCR layer"
+    },
+    {
+      "from": "NDL transmission service for individuals - the residency wall",
+      "to": "Osmanli Arsivi - Istanbul"
+    },
+    {
+      "from": "NIJL Archives - the Shiryokan village and merchant fonds",
+      "to": "Echigo - the NIJL fonds behind the census's Echigo rows"
+    },
+    {
+      "from": "NIJL Archives - the Shiryokan village and merchant fonds",
+      "to": "Genchi hozon - keeping documents where they are"
+    },
+    {
+      "from": "NIJL Archives - the Shiryokan village and merchant fonds",
+      "to": "Japanese archives - custody follows the house"
+    },
+    {
+      "from": "NIJL Archives - the Shiryokan village and merchant fonds",
+      "to": "MOC - Acquisitions and the antiquarian trade"
+    },
+    {
+      "from": "NIJL Archives - the Shiryokan village and merchant fonds",
+      "to": "MOC - Japanese archives"
+    },
+    {
+      "from": "NIJL Kokusho Database - the classical books union layer",
+      "to": "Books are imaged and documents are not - the Japanese digital split"
+    },
+    {
+      "from": "NIJL Kokusho Database - the classical books union layer",
+      "to": "CODH datasets - the open machine-learning layer"
+    },
+    {
+      "from": "NIJL Kokusho Database - the classical books union layer",
+      "to": "Japan Search - the national metadata aggregator"
+    },
+    {
+      "from": "NIJL Kokusho Database - the classical books union layer",
+      "to": "MOC - Japanese archives"
+    },
+    {
+      "from": "NIJL Kokusho Database - the classical books union layer",
+      "to": "NIJL Archives - the Shiryokan village and merchant fonds"
+    },
+    {
+      "from": "NIJL Kokusho Database - the classical books union layer",
+      "to": "The notarial security clause is boilerplate and cannot carry a typology"
     },
     {
       "from": "Natie and kabu-nakama are a convergence pair",
@@ -13615,6 +14388,50 @@
     {
       "from": "National Archives of Ireland PRONI and the Four Courts fire",
       "to": "The Virtual Record Treasury and reconstruction as method"
+    },
+    {
+      "from": "National Archives of Japan - the Naikaku Bunko and the digital archive",
+      "to": "Books are imaged and documents are not - the Japanese digital split"
+    },
+    {
+      "from": "National Archives of Japan - the Naikaku Bunko and the digital archive",
+      "to": "Japan Search - the national metadata aggregator"
+    },
+    {
+      "from": "National Archives of Japan - the Naikaku Bunko and the digital archive",
+      "to": "Japanese archives - custody follows the house"
+    },
+    {
+      "from": "National Archives of Japan - the Naikaku Bunko and the digital archive",
+      "to": "MOC - Japanese archives"
+    },
+    {
+      "from": "National Archives of Japan - the Naikaku Bunko and the digital archive",
+      "to": "Shiryo Net and the disaster survival rule"
+    },
+    {
+      "from": "National Diet Library - Digital Collections and the kotenseki OCR layer",
+      "to": "Books are imaged and documents are not - the Japanese digital split"
+    },
+    {
+      "from": "National Diet Library - Digital Collections and the kotenseki OCR layer",
+      "to": "Jichitaishi - the municipal histories as Japan's print layer 3"
+    },
+    {
+      "from": "National Diet Library - Digital Collections and the kotenseki OCR layer",
+      "to": "Kuzushiji OCR - the NDL and CODH stack"
+    },
+    {
+      "from": "National Diet Library - Digital Collections and the kotenseki OCR layer",
+      "to": "Kyu-bakufu hikitsugisho - the Edo town magistrate records"
+    },
+    {
+      "from": "National Diet Library - Digital Collections and the kotenseki OCR layer",
+      "to": "MOC - Japanese archives"
+    },
+    {
+      "from": "National Diet Library - Digital Collections and the kotenseki OCR layer",
+      "to": "NDL transmission service for individuals - the residency wall"
     },
     {
       "from": "National Library Sofia - the Oriental Department and the 1931 sale",
@@ -14017,6 +14834,42 @@
       "to": "The tasnif collections - subject classification over provenance"
     },
     {
+      "from": "Osaka Museum of History - the Konoike family documents",
+      "to": "Bank of Japan Currency Museum - the Senpeikan documents"
+    },
+    {
+      "from": "Osaka Museum of History - the Konoike family documents",
+      "to": "Japanese archives - custody follows the house"
+    },
+    {
+      "from": "Osaka Museum of History - the Konoike family documents",
+      "to": "MOC - Japanese archives"
+    },
+    {
+      "from": "Osaka Museum of History - the Konoike family documents",
+      "to": "Mitsui Bunko - the Mitsui house archive"
+    },
+    {
+      "from": "Osaka Museum of History - the Konoike family documents",
+      "to": "Shiryo Net and the disaster survival rule"
+    },
+    {
+      "from": "Osaka Museum of History - the Konoike family documents",
+      "to": "The clearing records dataset has no archive yet"
+    },
+    {
+      "from": "Osaka University of Commerce - the Museum of Commercial History",
+      "to": "MOC - Digitisation and text recognition"
+    },
+    {
+      "from": "Osaka University of Commerce - the Museum of Commercial History",
+      "to": "MOC - Japanese archives"
+    },
+    {
+      "from": "Osaka University of Commerce - the Museum of Commercial History",
+      "to": "Osaka Museum of History - the Konoike family documents"
+    },
+    {
       "from": "Osmanli Arsivi - Istanbul",
       "to": "Duvel-i Ecnebiye - the Istanbul side of the Ragusan relationship"
     },
@@ -14373,6 +15226,26 @@
       "to": "Time-average"
     },
     {
+      "from": "Prefectural and municipal archives - the monjokan network",
+      "to": "Japanese archives - custody follows the house"
+    },
+    {
+      "from": "Prefectural and municipal archives - the monjokan network",
+      "to": "MOC - Japanese archives"
+    },
+    {
+      "from": "Prefectural and municipal archives - the monjokan network",
+      "to": "Rijksarchief in Belgie - the state archives network"
+    },
+    {
+      "from": "Prefectural and municipal archives - the monjokan network",
+      "to": "Tokyo Metropolitan Archives - the Edo town office and the shichibu tsumikin"
+    },
+    {
+      "from": "Prefectural and municipal archives - the monjokan network",
+      "to": "Toyonaka City - the Chokoji-mura documents"
+    },
+    {
       "from": "Preservation-grade overhead scanners - Zeutschel and i2S",
       "to": "Desktop and portable capture - CZUR and ScanTent"
     },
@@ -14715,6 +15588,18 @@
     {
       "from": "Reinforcement selects an attractor the ensemble average never occupies",
       "to": "Path dependence requires naming the non-commuting operation"
+    },
+    {
+      "from": "Rekihaku - the National Museum of Japanese History and khirin",
+      "to": "Books are imaged and documents are not - the Japanese digital split"
+    },
+    {
+      "from": "Rekihaku - the National Museum of Japanese History and khirin",
+      "to": "MOC - Japanese archives"
+    },
+    {
+      "from": "Rekihaku - the National Museum of Japanese History and khirin",
+      "to": "Minna de Honkoku - crowdsourced transcription"
     },
     {
       "from": "Relief ko for a named person is claimed to be unattested outside Japan",
@@ -15211,6 +16096,46 @@
     {
       "from": "Service historique de la Defense - Lorient and the Compagnie des Indes",
       "to": "VOC digital corpus - what is online and on what terms"
+    },
+    {
+      "from": "Shiga University - the Omi merchant archives",
+      "to": "Independence of apparatus is not independence of question"
+    },
+    {
+      "from": "Shiga University - the Omi merchant archives",
+      "to": "Japanese archives - custody follows the house"
+    },
+    {
+      "from": "Shiga University - the Omi merchant archives",
+      "to": "MOC - Japanese archives"
+    },
+    {
+      "from": "Shiga University - the Omi merchant archives",
+      "to": "The ie as entity-shielding"
+    },
+    {
+      "from": "Shiryo Net and the disaster survival rule",
+      "to": "Genchi hozon - keeping documents where they are"
+    },
+    {
+      "from": "Shiryo Net and the disaster survival rule",
+      "to": "Handoff - the non-European archive survey"
+    },
+    {
+      "from": "Shiryo Net and the disaster survival rule",
+      "to": "Japanese archives - custody follows the house"
+    },
+    {
+      "from": "Shiryo Net and the disaster survival rule",
+      "to": "MOC - Japanese archives"
+    },
+    {
+      "from": "Shiryo Net and the disaster survival rule",
+      "to": "Mitsui Bunko - the Mitsui house archive"
+    },
+    {
+      "from": "Shiryo Net and the disaster survival rule",
+      "to": "Osaka Museum of History - the Konoike family documents"
     },
     {
       "from": "Simonsohn 2016 on East Syrian civil law and the Sasanian substrate",
@@ -15863,6 +16788,22 @@
     {
       "from": "Stora Kopparberg and the oldest-share claim",
       "to": "Whiggish history of finance names the ascent narrative"
+    },
+    {
+      "from": "Sumitomo Historical Archives - Kyoto",
+      "to": "Fuggerarchiv - Dillingen"
+    },
+    {
+      "from": "Sumitomo Historical Archives - Kyoto",
+      "to": "Japanese archives - custody follows the house"
+    },
+    {
+      "from": "Sumitomo Historical Archives - Kyoto",
+      "to": "MOC - Japanese archives"
+    },
+    {
+      "from": "Sumitomo Historical Archives - Kyoto",
+      "to": "Mitsui Bunko - the Mitsui house archive"
     },
     {
       "from": "Svenska Ostindiska Companiet - the Gothenburg archive",
@@ -17035,6 +17976,42 @@
     {
       "from": "The bidding ko transfers from the liquidity-constrained to the liquid",
       "to": "loss_mitigation_forms"
+    },
+    {
+      "from": "The clearing records dataset has no archive yet",
+      "to": "Bank of Japan Currency Museum - the Senpeikan documents"
+    },
+    {
+      "from": "The clearing records dataset has no archive yet",
+      "to": "Kyu-bakufu hikitsugisho - the Edo town magistrate records"
+    },
+    {
+      "from": "The clearing records dataset has no archive yet",
+      "to": "MOC - European archives and digital collections"
+    },
+    {
+      "from": "The clearing records dataset has no archive yet",
+      "to": "MOC - Japanese archives"
+    },
+    {
+      "from": "The clearing records dataset has no archive yet",
+      "to": "Mitsui Bunko - the Mitsui house archive"
+    },
+    {
+      "from": "The clearing records dataset has no archive yet",
+      "to": "NDL transmission service for individuals - the residency wall"
+    },
+    {
+      "from": "The clearing records dataset has no archive yet",
+      "to": "Osaka Museum of History - the Konoike family documents"
+    },
+    {
+      "from": "The clearing records dataset has no archive yet",
+      "to": "Refusals are observations of the filter not inferences from survivors"
+    },
+    {
+      "from": "The clearing records dataset has no archive yet",
+      "to": "Sumitomo Historical Archives - Kyoto"
     },
     {
       "from": "The coding commons must record stated rationale not only component presence",
@@ -19343,6 +20320,38 @@
     {
       "from": "Toda's own example makes EE more falsifiable than expected utility",
       "to": "Toda 2023 on ergodicity economics as pseudoscience"
+    },
+    {
+      "from": "Tokyo Metropolitan Archives - the Edo town office and the shichibu tsumikin",
+      "to": "Kyu-bakufu hikitsugisho - the Edo town magistrate records"
+    },
+    {
+      "from": "Tokyo Metropolitan Archives - the Edo town office and the shichibu tsumikin",
+      "to": "MOC - Japanese archives"
+    },
+    {
+      "from": "Tokyo Metropolitan Archives - the Edo town office and the shichibu tsumikin",
+      "to": "Prefectural and municipal archives - the monjokan network"
+    },
+    {
+      "from": "Tokyo Metropolitan Archives - the Edo town office and the shichibu tsumikin",
+      "to": "The Dubrovnik quarantine of 1377"
+    },
+    {
+      "from": "Toyonaka City - the Chokoji-mura documents",
+      "to": "Forms are not independent observations when a village runs a portfolio"
+    },
+    {
+      "from": "Toyonaka City - the Chokoji-mura documents",
+      "to": "Japanese archives - custody follows the house"
+    },
+    {
+      "from": "Toyonaka City - the Chokoji-mura documents",
+      "to": "MOC - Japanese archives"
+    },
+    {
+      "from": "Toyonaka City - the Chokoji-mura documents",
+      "to": "Prefectural and municipal archives - the monjokan network"
     },
     {
       "from": "Transferable claims reconcile lock-in with member exit",

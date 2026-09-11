@@ -59,7 +59,7 @@ The gap is informative rather than contradictory — it is what you would expect
 
 ## To verify
 
-- Whether ver. 3 remains current or a ver. 4 has appeared since Feb 2024.
+- ~~Whether ver. 3 remains current or a ver. 4 has appeared since Feb 2024.~~ **Answered 2026-09-11:** the NDL used **ver. 3** to add full text for about 75,000 *kotenseki* to its Digital Collections on 1 September 2026. See [[National Diet Library - Digital Collections and the kotenseki OCR layer]].
 - Practical performance on **account books and ledgers specifically** — tabular and columnar financial layouts are a layout-analysis problem, not a character-recognition problem, and every accuracy figure above is for running text. **This is the real unknown for this project and worth testing on a sample before committing.**
 
 ## Links
