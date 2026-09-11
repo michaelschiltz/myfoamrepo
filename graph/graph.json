@@ -50,7 +50,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "A migrated institution collects local names not local forms",
-      "value": 30,
+      "value": 35,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -104,7 +104,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "A scheme for extending the cooperative pooling census",
-      "value": 30,
+      "value": 33,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -212,7 +212,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Antwerp schepenregisters and the regesten",
-      "value": 9,
+      "value": 10,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -221,7 +221,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Archief Ieper - one charter and five accounts",
-      "value": 10,
+      "value": 12,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -231,6 +231,123 @@
       "group": "reference",
       "label": "Archief van de Stad Brussel",
       "value": 9,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "Archives de Paris and the fire of 1871",
+      "type": "reference",
+      "group": "reference",
+      "label": "Archives de Paris and the fire of 1871",
+      "value": 13,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "Archives departementales de l'Herault - Montpellier",
+      "type": "reference",
+      "group": "reference",
+      "label": "Archives departementales de l'Herault - Montpellier",
+      "value": 9,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "Archives departementales de la Gironde - Bordeaux",
+      "type": "reference",
+      "group": "reference",
+      "label": "Archives departementales de la Gironde - Bordeaux",
+      "value": 15,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "Archives departementales de la Haute-Garonne",
+      "type": "reference",
+      "group": "reference",
+      "label": "Archives departementales de la Haute-Garonne",
+      "value": 11,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "Archives departementales de la Loire-Atlantique - Nantes",
+      "type": "reference",
+      "group": "reference",
+      "label": "Archives departementales de la Loire-Atlantique - Nantes",
+      "value": 15,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "Archives departementales de la Seine-Maritime - Rouen",
+      "type": "reference",
+      "group": "reference",
+      "label": "Archives departementales de la Seine-Maritime - Rouen",
+      "value": 9,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "Archives departementales des Bouches-du-Rhone - Marseille",
+      "type": "reference",
+      "group": "reference",
+      "label": "Archives departementales des Bouches-du-Rhone - Marseille",
+      "value": 13,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "Archives departementales du Nord - the Chambre des comptes de Lille",
+      "type": "reference",
+      "group": "reference",
+      "label": "Archives departementales du Nord - the Chambre des comptes de Lille",
+      "value": 10,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "Archives diplomatiques - La Courneuve and Nantes",
+      "type": "reference",
+      "group": "reference",
+      "label": "Archives diplomatiques - La Courneuve and Nantes",
+      "value": 10,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "Archives municipales de Bayonne - the Basque coast",
+      "type": "reference",
+      "group": "reference",
+      "label": "Archives municipales de Bayonne - the Basque coast",
+      "value": 8,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "Archives nationales - Paris and Pierrefitte",
+      "type": "reference",
+      "group": "reference",
+      "label": "Archives nationales - Paris and Pierrefitte",
+      "value": 21,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "Archives nationales d'outre-mer - Aix-en-Provence",
+      "type": "reference",
+      "group": "reference",
+      "label": "Archives nationales d'outre-mer - Aix-en-Provence",
+      "value": 11,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "Archives nationales du monde du travail - Roubaix",
+      "type": "reference",
+      "group": "reference",
+      "label": "Archives nationales du monde du travail - Roubaix",
+      "value": 10,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -248,7 +365,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Archivio Storico Assicurazioni Generali - Trieste",
-      "value": 10,
+      "value": 12,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -284,7 +401,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Archivio di Stato di Genova",
-      "value": 21,
+      "value": 22,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -293,7 +410,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Archivio di Stato di Lucca",
-      "value": 10,
+      "value": 11,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -311,7 +428,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Archivio di Stato di Napoli",
-      "value": 13,
+      "value": 14,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -320,7 +437,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Archivio di Stato di Palermo",
-      "value": 8,
+      "value": 10,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -356,7 +473,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Archivio di Stato di Venezia",
-      "value": 17,
+      "value": 18,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -365,7 +482,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Archivo Foral de Bizkaia - the Consulado de Bilbao",
-      "value": 11,
+      "value": 14,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -446,7 +563,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Arxiu Historic de Protocols de Barcelona",
-      "value": 17,
+      "value": 21,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -482,7 +599,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Averijgrossen - the general average adjudications",
-      "value": 15,
+      "value": 17,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -518,7 +635,7 @@
       "type": "reference",
       "group": "reference",
       "label": "BelgicaPress and KBR - the thin full-text layer",
-      "value": 10,
+      "value": 11,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -568,11 +685,20 @@
       "shape": "dot"
     },
     {
+      "id": "Chambre de commerce de Marseille - the 1599 archive",
+      "type": "reference",
+      "group": "reference",
+      "label": "Chambre de commerce de Marseille - the 1599 archive",
+      "value": 12,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
       "id": "Consulado de Burgos - the universidad de mercaderes",
       "type": "reference",
       "group": "reference",
       "label": "Consulado de Burgos - the universidad de mercaderes",
-      "value": 15,
+      "value": 19,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -626,7 +752,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Delpher - the full-text layer",
-      "value": 18,
+      "value": 19,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -680,7 +806,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Divergent arbitrary particulars are the independence diagnostic",
-      "value": 48,
+      "value": 52,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -716,7 +842,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Dutch archives online - the access layers",
-      "value": 25,
+      "value": 26,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -874,12 +1000,30 @@
       "shape": "dot"
     },
     {
+      "id": "FranceArchives and the French access layers",
+      "type": "reference",
+      "group": "reference",
+      "label": "FranceArchives and the French access layers",
+      "value": 15,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
       "id": "GLOBALISE removes the HTR question for the VOC and leaves it standing for the EIC",
       "type": "permanent",
       "group": "seed",
       "label": "GLOBALISE removes the HTR question for the VOC and leaves it standing for the EIC",
       "value": 25,
       "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "Gallica and RetroNews - the French full-text layer",
+      "type": "reference",
+      "group": "reference",
+      "label": "Gallica and RetroNews - the French full-text layer",
+      "value": 12,
+      "color": "#66a61e",
       "shape": "dot"
     },
     {
@@ -914,7 +1058,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Gemeentearchief Zaanstad - the partenrederij country",
-      "value": 11,
+      "value": 13,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -986,7 +1130,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Hof van Holland - the civil litigation record",
-      "value": 19,
+      "value": 21,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1004,7 +1148,7 @@
       "type": "reference",
       "group": "reference",
       "label": "IISG and NEHA - Amsterdam",
-      "value": 15,
+      "value": 17,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1013,7 +1157,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Identity-wrapper and perpetual-monopoly are distinct shielding facets",
-      "value": 23,
+      "value": 25,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1108,11 +1252,20 @@
       "shape": "dot"
     },
     {
+      "id": "Juridictions consulaires - the merchant courts",
+      "type": "reference",
+      "group": "reference",
+      "label": "Juridictions consulaires - the merchant courts",
+      "value": 11,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
       "id": "KADOC - religious archives at Leuven",
       "type": "reference",
       "group": "reference",
       "label": "KADOC - religious archives at Leuven",
-      "value": 13,
+      "value": 15,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1166,7 +1319,7 @@
       "type": "source",
       "group": "source",
       "label": "Le Bris Goetzmann Pouget 2023 on convergent evolution toward the joint-stock company",
-      "value": 20,
+      "value": 23,
       "color": "#7570b3",
       "shape": "dot"
     },
@@ -1216,6 +1369,15 @@
       "shape": "dot"
     },
     {
+      "id": "Minutier central des notaires de Paris",
+      "type": "reference",
+      "group": "reference",
+      "label": "Minutier central des notaires de Paris",
+      "value": 17,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
       "id": "Multiplicative amplification is indifferent to what it amplifies",
       "type": "permanent",
       "group": "seed",
@@ -1238,7 +1400,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Natie archives - where the Antwerp nations records are",
-      "value": 21,
+      "value": 25,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1351,6 +1513,15 @@
       "shape": "dot"
     },
     {
+      "id": "Parlement de Paris - serie X",
+      "type": "reference",
+      "group": "reference",
+      "label": "Parlement de Paris - serie X",
+      "value": 13,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
       "id": "Path dependence literature",
       "type": "reference",
       "group": "reference",
@@ -1382,7 +1553,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Persistence samples are conditioned on non-absorption",
-      "value": 53,
+      "value": 54,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1463,7 +1634,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Real Chancilleria de Valladolid",
-      "value": 11,
+      "value": 13,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1472,7 +1643,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Refusals are observations of the filter not inferences from survivors",
-      "value": 95,
+      "value": 97,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1535,7 +1706,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Rijksarchief te Antwerpen and Beveren - the notarial series",
-      "value": 16,
+      "value": 18,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1603,6 +1774,15 @@
       "shape": "dot"
     },
     {
+      "id": "Service historique de la Defense - Lorient and the Compagnie des Indes",
+      "type": "reference",
+      "group": "reference",
+      "label": "Service historique de la Defense - Lorient and the Compagnie des Indes",
+      "value": 12,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
       "id": "Simonsohn 2016 on East Syrian civil law and the Sasanian substrate",
       "type": "source",
       "group": "source",
@@ -1652,7 +1832,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Stadsarchief Amsterdam - the notarial archive",
-      "value": 34,
+      "value": 36,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1747,6 +1927,15 @@
       "shape": "dot"
     },
     {
+      "id": "The Bazacle records - a custody problem",
+      "type": "reference",
+      "group": "reference",
+      "label": "The Bazacle records - a custody problem",
+      "value": 16,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
       "id": "The Bodmerei shield was a default rule and Amsterdam contracted out of it",
       "type": "permanent",
       "group": "seed",
@@ -1796,7 +1985,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The VOC-EIC digital asymmetry is an access regime not a survival difference",
-      "value": 36,
+      "value": 39,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1828,6 +2017,24 @@
       "shape": "dot"
     },
     {
+      "id": "The amirautes - a series across the coastal departments",
+      "type": "reference",
+      "group": "reference",
+      "label": "The amirautes - a series across the coastal departments",
+      "value": 23,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "The archives departementales system",
+      "type": "reference",
+      "group": "reference",
+      "label": "The archives departementales system",
+      "value": 14,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
       "id": "The ascent narrative is the Jensen error as historiography",
       "type": "permanent",
       "group": "seed",
@@ -1841,7 +2048,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The asiento de averia is the pooling-to-corporation hinge",
-      "value": 26,
+      "value": 27,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1859,7 +2066,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The coding commons must record stated rationale not only component presence",
-      "value": 47,
+      "value": 48,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1904,7 +2111,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The deficit reading of absence is the scalar ranking in evidentiary form",
-      "value": 43,
+      "value": 44,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -2129,7 +2336,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The naties are a six-century Lindy institution",
-      "value": 29,
+      "value": 30,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -2399,7 +2606,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Transmission versus independent recurrence is the load-bearing test",
-      "value": 45,
+      "value": 49,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -2426,7 +2633,7 @@
       "type": "reference",
       "group": "reference",
       "label": "VOC digital corpus - what is online and on what terms",
-      "value": 24,
+      "value": 25,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -2498,7 +2705,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Zeeuws Archief - the Zeeland chamber and the MCC",
-      "value": 12,
+      "value": 15,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -2534,7 +2741,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Acquisitions and the antiquarian trade",
-      "value": 36,
+      "value": 38,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -2543,7 +2750,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Belgian archives",
-      "value": 30,
+      "value": 33,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -2570,7 +2777,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Dutch archives",
-      "value": 30,
+      "value": 31,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -2588,7 +2795,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Entity-shielding and corporate forms",
-      "value": 107,
+      "value": 109,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -2606,7 +2813,16 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - European archives and digital collections",
-      "value": 115,
+      "value": 119,
+      "color": "#d95f02",
+      "shape": "dot"
+    },
+    {
+      "id": "MOC - French archives",
+      "type": "moc",
+      "group": "moc",
+      "label": "MOC - French archives",
+      "value": 55,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -2642,7 +2858,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Italian archives",
-      "value": 32,
+      "value": 33,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -2660,7 +2876,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Risk-sharing vs risk-pricing",
-      "value": 133,
+      "value": 134,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -2669,7 +2885,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Spanish archives",
-      "value": 25,
+      "value": 26,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -3702,6 +3918,282 @@
     {
       "from": "Archief van de Stad Brussel",
       "to": "Rijksarchief te Antwerpen and Beveren - the notarial series"
+    },
+    {
+      "from": "Archives de Paris and the fire of 1871",
+      "to": "Archief Ieper - one charter and five accounts"
+    },
+    {
+      "from": "Archives de Paris and the fire of 1871",
+      "to": "Archivio di Stato di Napoli"
+    },
+    {
+      "from": "Archives de Paris and the fire of 1871",
+      "to": "Juridictions consulaires - the merchant courts"
+    },
+    {
+      "from": "Archives de Paris and the fire of 1871",
+      "to": "MOC - French archives"
+    },
+    {
+      "from": "Archives de Paris and the fire of 1871",
+      "to": "Minutier central des notaires de Paris"
+    },
+    {
+      "from": "Archives de Paris and the fire of 1871",
+      "to": "Refusals are observations of the filter not inferences from survivors"
+    },
+    {
+      "from": "Archives de Paris and the fire of 1871",
+      "to": "The deficit reading of absence is the scalar ranking in evidentiary form"
+    },
+    {
+      "from": "Archives departementales de l'Herault - Montpellier",
+      "to": "A migrated institution collects local names not local forms"
+    },
+    {
+      "from": "Archives departementales de l'Herault - Montpellier",
+      "to": "Archives departementales des Bouches-du-Rhone - Marseille"
+    },
+    {
+      "from": "Archives departementales de l'Herault - Montpellier",
+      "to": "Archivio di Stato di Palermo"
+    },
+    {
+      "from": "Archives departementales de l'Herault - Montpellier",
+      "to": "Arxiu Historic de Protocols de Barcelona"
+    },
+    {
+      "from": "Archives departementales de l'Herault - Montpellier",
+      "to": "MOC - French archives"
+    },
+    {
+      "from": "Archives departementales de la Gironde - Bordeaux",
+      "to": "Archives departementales de la Loire-Atlantique - Nantes"
+    },
+    {
+      "from": "Archives departementales de la Gironde - Bordeaux",
+      "to": "Archives departementales de la Seine-Maritime - Rouen"
+    },
+    {
+      "from": "Archives departementales de la Gironde - Bordeaux",
+      "to": "MOC - French archives"
+    },
+    {
+      "from": "Archives departementales de la Gironde - Bordeaux",
+      "to": "Minutier central des notaires de Paris"
+    },
+    {
+      "from": "Archives departementales de la Gironde - Bordeaux",
+      "to": "The amirautes - a series across the coastal departments"
+    },
+    {
+      "from": "Archives departementales de la Haute-Garonne",
+      "to": "FranceArchives and the French access layers"
+    },
+    {
+      "from": "Archives departementales de la Haute-Garonne",
+      "to": "Le Bris Goetzmann Pouget 2023 on convergent evolution toward the joint-stock company"
+    },
+    {
+      "from": "Archives departementales de la Haute-Garonne",
+      "to": "MOC - French archives"
+    },
+    {
+      "from": "Archives departementales de la Haute-Garonne",
+      "to": "The Bazacle records - a custody problem"
+    },
+    {
+      "from": "Archives departementales de la Haute-Garonne",
+      "to": "The archives departementales system"
+    },
+    {
+      "from": "Archives departementales de la Loire-Atlantique - Nantes",
+      "to": "A migrated institution collects local names not local forms"
+    },
+    {
+      "from": "Archives departementales de la Loire-Atlantique - Nantes",
+      "to": "Archives departementales de la Gironde - Bordeaux"
+    },
+    {
+      "from": "Archives departementales de la Loire-Atlantique - Nantes",
+      "to": "Archives nationales d'outre-mer - Aix-en-Provence"
+    },
+    {
+      "from": "Archives departementales de la Loire-Atlantique - Nantes",
+      "to": "Gemeentearchief Zaanstad - the partenrederij country"
+    },
+    {
+      "from": "Archives departementales de la Loire-Atlantique - Nantes",
+      "to": "MOC - French archives"
+    },
+    {
+      "from": "Archives departementales de la Loire-Atlantique - Nantes",
+      "to": "Zeeuws Archief - the Zeeland chamber and the MCC"
+    },
+    {
+      "from": "Archives departementales de la Seine-Maritime - Rouen",
+      "to": "Archives departementales de la Gironde - Bordeaux"
+    },
+    {
+      "from": "Archives departementales de la Seine-Maritime - Rouen",
+      "to": "Archives departementales de la Loire-Atlantique - Nantes"
+    },
+    {
+      "from": "Archives departementales de la Seine-Maritime - Rouen",
+      "to": "Divergent arbitrary particulars are the independence diagnostic"
+    },
+    {
+      "from": "Archives departementales de la Seine-Maritime - Rouen",
+      "to": "MOC - French archives"
+    },
+    {
+      "from": "Archives departementales de la Seine-Maritime - Rouen",
+      "to": "The amirautes - a series across the coastal departments"
+    },
+    {
+      "from": "Archives departementales des Bouches-du-Rhone - Marseille",
+      "to": "A migrated institution collects local names not local forms"
+    },
+    {
+      "from": "Archives departementales des Bouches-du-Rhone - Marseille",
+      "to": "Archivio di Stato di Genova"
+    },
+    {
+      "from": "Archives departementales des Bouches-du-Rhone - Marseille",
+      "to": "Arxiu Historic de Protocols de Barcelona"
+    },
+    {
+      "from": "Archives departementales des Bouches-du-Rhone - Marseille",
+      "to": "Chambre de commerce de Marseille - the 1599 archive"
+    },
+    {
+      "from": "Archives departementales des Bouches-du-Rhone - Marseille",
+      "to": "MOC - French archives"
+    },
+    {
+      "from": "Archives departementales des Bouches-du-Rhone - Marseille",
+      "to": "The amirautes - a series across the coastal departments"
+    },
+    {
+      "from": "Archives departementales du Nord - the Chambre des comptes de Lille",
+      "to": "Antwerp schepenregisters and the regesten"
+    },
+    {
+      "from": "Archives departementales du Nord - the Chambre des comptes de Lille",
+      "to": "Gallica and RetroNews - the French full-text layer"
+    },
+    {
+      "from": "Archives departementales du Nord - the Chambre des comptes de Lille",
+      "to": "MOC - Belgian archives"
+    },
+    {
+      "from": "Archives departementales du Nord - the Chambre des comptes de Lille",
+      "to": "MOC - French archives"
+    },
+    {
+      "from": "Archives departementales du Nord - the Chambre des comptes de Lille",
+      "to": "Rijksarchief te Antwerpen and Beveren - the notarial series"
+    },
+    {
+      "from": "Archives diplomatiques - La Courneuve and Nantes",
+      "to": "Chambre de commerce de Marseille - the 1599 archive"
+    },
+    {
+      "from": "Archives diplomatiques - La Courneuve and Nantes",
+      "to": "Identity-wrapper and perpetual-monopoly are distinct shielding facets"
+    },
+    {
+      "from": "Archives diplomatiques - La Courneuve and Nantes",
+      "to": "MOC - French archives"
+    },
+    {
+      "from": "Archives diplomatiques - La Courneuve and Nantes",
+      "to": "Natie archives - where the Antwerp nations records are"
+    },
+    {
+      "from": "Archives diplomatiques - La Courneuve and Nantes",
+      "to": "The naties are a six-century Lindy institution"
+    },
+    {
+      "from": "Archives municipales de Bayonne - the Basque coast",
+      "to": "A migrated institution collects local names not local forms"
+    },
+    {
+      "from": "Archives municipales de Bayonne - the Basque coast",
+      "to": "Archivo Foral de Bizkaia - the Consulado de Bilbao"
+    },
+    {
+      "from": "Archives municipales de Bayonne - the Basque coast",
+      "to": "Consulado de Burgos - the universidad de mercaderes"
+    },
+    {
+      "from": "Archives municipales de Bayonne - the Basque coast",
+      "to": "Divergent arbitrary particulars are the independence diagnostic"
+    },
+    {
+      "from": "Archives municipales de Bayonne - the Basque coast",
+      "to": "MOC - French archives"
+    },
+    {
+      "from": "Archives nationales - Paris and Pierrefitte",
+      "to": "MOC - French archives"
+    },
+    {
+      "from": "Archives nationales - Paris and Pierrefitte",
+      "to": "Minutier central des notaires de Paris"
+    },
+    {
+      "from": "Archives nationales - Paris and Pierrefitte",
+      "to": "Parlement de Paris - serie X"
+    },
+    {
+      "from": "Archives nationales - Paris and Pierrefitte",
+      "to": "The amirautes - a series across the coastal departments"
+    },
+    {
+      "from": "Archives nationales - Paris and Pierrefitte",
+      "to": "Transmission versus independent recurrence is the load-bearing test"
+    },
+    {
+      "from": "Archives nationales d'outre-mer - Aix-en-Provence",
+      "to": "Archives nationales - Paris and Pierrefitte"
+    },
+    {
+      "from": "Archives nationales d'outre-mer - Aix-en-Provence",
+      "to": "MOC - Entity-shielding and corporate forms"
+    },
+    {
+      "from": "Archives nationales d'outre-mer - Aix-en-Provence",
+      "to": "MOC - French archives"
+    },
+    {
+      "from": "Archives nationales d'outre-mer - Aix-en-Provence",
+      "to": "Service historique de la Defense - Lorient and the Compagnie des Indes"
+    },
+    {
+      "from": "Archives nationales d'outre-mer - Aix-en-Provence",
+      "to": "Zeeuws Archief - the Zeeland chamber and the MCC"
+    },
+    {
+      "from": "Archives nationales du monde du travail - Roubaix",
+      "to": "A scheme for extending the cooperative pooling census"
+    },
+    {
+      "from": "Archives nationales du monde du travail - Roubaix",
+      "to": "Archivio Storico Assicurazioni Generali - Trieste"
+    },
+    {
+      "from": "Archives nationales du monde du travail - Roubaix",
+      "to": "IISG and NEHA - Amsterdam"
+    },
+    {
+      "from": "Archives nationales du monde du travail - Roubaix",
+      "to": "KADOC - religious archives at Leuven"
+    },
+    {
+      "from": "Archives nationales du monde du travail - Roubaix",
+      "to": "MOC - French archives"
     },
     {
       "from": "Archivio Apostolico Vaticano",
@@ -4766,6 +5258,30 @@
     {
       "from": "Casa di San Giorgio - the Genoese public debt archive",
       "to": "Whiggish history of finance names the ascent narrative"
+    },
+    {
+      "from": "Chambre de commerce de Marseille - the 1599 archive",
+      "to": "A scheme for extending the cooperative pooling census"
+    },
+    {
+      "from": "Chambre de commerce de Marseille - the 1599 archive",
+      "to": "Archives departementales des Bouches-du-Rhone - Marseille"
+    },
+    {
+      "from": "Chambre de commerce de Marseille - the 1599 archive",
+      "to": "Arxiu Historic de Protocols de Barcelona"
+    },
+    {
+      "from": "Chambre de commerce de Marseille - the 1599 archive",
+      "to": "Consulado de Burgos - the universidad de mercaderes"
+    },
+    {
+      "from": "Chambre de commerce de Marseille - the 1599 archive",
+      "to": "MOC - French archives"
+    },
+    {
+      "from": "Chambre de commerce de Marseille - the 1599 archive",
+      "to": "The asiento de averia is the pooling-to-corporation hinge"
     },
     {
       "from": "Consulado de Burgos - the universidad de mercaderes",
@@ -6052,6 +6568,30 @@
       "to": "loss_mitigation_forms"
     },
     {
+      "from": "FranceArchives and the French access layers",
+      "to": "Archives nationales - Paris and Pierrefitte"
+    },
+    {
+      "from": "FranceArchives and the French access layers",
+      "to": "Dutch archives online - the access layers"
+    },
+    {
+      "from": "FranceArchives and the French access layers",
+      "to": "Gallica and RetroNews - the French full-text layer"
+    },
+    {
+      "from": "FranceArchives and the French access layers",
+      "to": "MOC - French archives"
+    },
+    {
+      "from": "FranceArchives and the French access layers",
+      "to": "The amirautes - a series across the coastal departments"
+    },
+    {
+      "from": "FranceArchives and the French access layers",
+      "to": "The archives departementales system"
+    },
+    {
       "from": "GLOBALISE removes the HTR question for the VOC and leaves it standing for the EIC",
       "to": "EIC digital corpus - what is online and on what terms"
     },
@@ -6090,6 +6630,26 @@
     {
       "from": "GLOBALISE removes the HTR question for the VOC and leaves it standing for the EIC",
       "to": "Van Dam's Beschryvinge - the VOC described by its own advocaat"
+    },
+    {
+      "from": "Gallica and RetroNews - the French full-text layer",
+      "to": "BelgicaPress and KBR - the thin full-text layer"
+    },
+    {
+      "from": "Gallica and RetroNews - the French full-text layer",
+      "to": "Delpher - the full-text layer"
+    },
+    {
+      "from": "Gallica and RetroNews - the French full-text layer",
+      "to": "MOC - Acquisitions and the antiquarian trade"
+    },
+    {
+      "from": "Gallica and RetroNews - the French full-text layer",
+      "to": "MOC - French archives"
+    },
+    {
+      "from": "Gallica and RetroNews - the French full-text layer",
+      "to": "The VOC-EIC digital asymmetry is an access regime not a survival difference"
     },
     {
       "from": "Galton's problem",
@@ -6998,6 +7558,34 @@
     {
       "from": "Jensen supplies the gap but only the dynamic privileges the logarithm",
       "to": "Time-average"
+    },
+    {
+      "from": "Juridictions consulaires - the merchant courts",
+      "to": "A scheme for extending the cooperative pooling census"
+    },
+    {
+      "from": "Juridictions consulaires - the merchant courts",
+      "to": "Archives de Paris and the fire of 1871"
+    },
+    {
+      "from": "Juridictions consulaires - the merchant courts",
+      "to": "Archivio di Stato di Lucca"
+    },
+    {
+      "from": "Juridictions consulaires - the merchant courts",
+      "to": "Archivo Foral de Bizkaia - the Consulado de Bilbao"
+    },
+    {
+      "from": "Juridictions consulaires - the merchant courts",
+      "to": "Consulado de Burgos - the universidad de mercaderes"
+    },
+    {
+      "from": "Juridictions consulaires - the merchant courts",
+      "to": "MOC - French archives"
+    },
+    {
+      "from": "Juridictions consulaires - the merchant courts",
+      "to": "The amirautes - a series across the coastal departments"
     },
     {
       "from": "KADOC - religious archives at Leuven",
@@ -8377,6 +8965,10 @@
     },
     {
       "from": "MOC - European archives and digital collections",
+      "to": "MOC - French archives"
+    },
+    {
+      "from": "MOC - European archives and digital collections",
       "to": "MOC - Historiography and method"
     },
     {
@@ -8429,6 +9021,10 @@
     },
     {
       "from": "MOC - European archives and digital collections",
+      "to": "The Bazacle records - a custody problem"
+    },
+    {
+      "from": "MOC - European archives and digital collections",
       "to": "The QDL corpus is conditioned on its funder's geography"
     },
     {
@@ -8462,6 +9058,118 @@
     {
       "from": "MOC - European archives and digital collections",
       "to": "Zeeuws Archief - the Zeeland chamber and the MCC"
+    },
+    {
+      "from": "MOC - French archives",
+      "to": "Archives de Paris and the fire of 1871"
+    },
+    {
+      "from": "MOC - French archives",
+      "to": "Archives departementales de l'Herault - Montpellier"
+    },
+    {
+      "from": "MOC - French archives",
+      "to": "Archives departementales de la Gironde - Bordeaux"
+    },
+    {
+      "from": "MOC - French archives",
+      "to": "Archives departementales de la Haute-Garonne"
+    },
+    {
+      "from": "MOC - French archives",
+      "to": "Archives departementales de la Loire-Atlantique - Nantes"
+    },
+    {
+      "from": "MOC - French archives",
+      "to": "Archives departementales de la Seine-Maritime - Rouen"
+    },
+    {
+      "from": "MOC - French archives",
+      "to": "Archives departementales des Bouches-du-Rhone - Marseille"
+    },
+    {
+      "from": "MOC - French archives",
+      "to": "Archives departementales du Nord - the Chambre des comptes de Lille"
+    },
+    {
+      "from": "MOC - French archives",
+      "to": "Archives diplomatiques - La Courneuve and Nantes"
+    },
+    {
+      "from": "MOC - French archives",
+      "to": "Archives municipales de Bayonne - the Basque coast"
+    },
+    {
+      "from": "MOC - French archives",
+      "to": "Archives nationales - Paris and Pierrefitte"
+    },
+    {
+      "from": "MOC - French archives",
+      "to": "Archives nationales d'outre-mer - Aix-en-Provence"
+    },
+    {
+      "from": "MOC - French archives",
+      "to": "Archives nationales du monde du travail - Roubaix"
+    },
+    {
+      "from": "MOC - French archives",
+      "to": "Chambre de commerce de Marseille - the 1599 archive"
+    },
+    {
+      "from": "MOC - French archives",
+      "to": "FranceArchives and the French access layers"
+    },
+    {
+      "from": "MOC - French archives",
+      "to": "Gallica and RetroNews - the French full-text layer"
+    },
+    {
+      "from": "MOC - French archives",
+      "to": "Juridictions consulaires - the merchant courts"
+    },
+    {
+      "from": "MOC - French archives",
+      "to": "MOC - Belgian archives"
+    },
+    {
+      "from": "MOC - French archives",
+      "to": "MOC - Dutch archives"
+    },
+    {
+      "from": "MOC - French archives",
+      "to": "MOC - European archives and digital collections"
+    },
+    {
+      "from": "MOC - French archives",
+      "to": "MOC - Italian archives"
+    },
+    {
+      "from": "MOC - French archives",
+      "to": "MOC - Spanish archives"
+    },
+    {
+      "from": "MOC - French archives",
+      "to": "Minutier central des notaires de Paris"
+    },
+    {
+      "from": "MOC - French archives",
+      "to": "Parlement de Paris - serie X"
+    },
+    {
+      "from": "MOC - French archives",
+      "to": "Service historique de la Defense - Lorient and the Compagnie des Indes"
+    },
+    {
+      "from": "MOC - French archives",
+      "to": "The Bazacle records - a custody problem"
+    },
+    {
+      "from": "MOC - French archives",
+      "to": "The amirautes - a series across the coastal departments"
+    },
+    {
+      "from": "MOC - French archives",
+      "to": "The archives departementales system"
     },
     {
       "from": "MOC - HistorEE",
@@ -9888,6 +10596,30 @@
       "to": "The QDL corpus is conditioned on its funder's geography"
     },
     {
+      "from": "Minutier central des notaires de Paris",
+      "to": "Archives departementales de la Gironde - Bordeaux"
+    },
+    {
+      "from": "Minutier central des notaires de Paris",
+      "to": "Archives departementales de la Loire-Atlantique - Nantes"
+    },
+    {
+      "from": "Minutier central des notaires de Paris",
+      "to": "Archives nationales - Paris and Pierrefitte"
+    },
+    {
+      "from": "Minutier central des notaires de Paris",
+      "to": "Arxiu Historic de Protocols de Barcelona"
+    },
+    {
+      "from": "Minutier central des notaires de Paris",
+      "to": "MOC - French archives"
+    },
+    {
+      "from": "Minutier central des notaires de Paris",
+      "to": "Stadsarchief Amsterdam - the notarial archive"
+    },
+    {
       "from": "Multiplicative amplification is indifferent to what it amplifies",
       "to": "Absorption is a path-dependence mechanism distinct from reinforcement"
     },
@@ -10394,6 +11126,30 @@
     {
       "from": "PARES - the access layer for the Spanish state archives",
       "to": "MOC - European archives and digital collections"
+    },
+    {
+      "from": "Parlement de Paris - serie X",
+      "to": "Archives nationales - Paris and Pierrefitte"
+    },
+    {
+      "from": "Parlement de Paris - serie X",
+      "to": "Archivio di Stato di Venezia"
+    },
+    {
+      "from": "Parlement de Paris - serie X",
+      "to": "Hof van Holland - the civil litigation record"
+    },
+    {
+      "from": "Parlement de Paris - serie X",
+      "to": "MOC - French archives"
+    },
+    {
+      "from": "Parlement de Paris - serie X",
+      "to": "Real Chancilleria de Valladolid"
+    },
+    {
+      "from": "Parlement de Paris - serie X",
+      "to": "The coding commons must record stated rationale not only component presence"
     },
     {
       "from": "Path dependence literature",
@@ -11312,6 +12068,30 @@
       "to": "Time-average"
     },
     {
+      "from": "Service historique de la Defense - Lorient and the Compagnie des Indes",
+      "to": "Archives nationales - Paris and Pierrefitte"
+    },
+    {
+      "from": "Service historique de la Defense - Lorient and the Compagnie des Indes",
+      "to": "Archives nationales d'outre-mer - Aix-en-Provence"
+    },
+    {
+      "from": "Service historique de la Defense - Lorient and the Compagnie des Indes",
+      "to": "MOC - Entity-shielding and corporate forms"
+    },
+    {
+      "from": "Service historique de la Defense - Lorient and the Compagnie des Indes",
+      "to": "MOC - French archives"
+    },
+    {
+      "from": "Service historique de la Defense - Lorient and the Compagnie des Indes",
+      "to": "Transmission versus independent recurrence is the load-bearing test"
+    },
+    {
+      "from": "Service historique de la Defense - Lorient and the Compagnie des Indes",
+      "to": "VOC digital corpus - what is online and on what terms"
+    },
+    {
       "from": "Simonsohn 2016 on East Syrian civil law and the Sasanian substrate",
       "to": "MOC - ERC Synergy Grant"
     },
@@ -11892,6 +12672,34 @@
       "to": "organizational_forms"
     },
     {
+      "from": "The Bazacle records - a custody problem",
+      "to": "Archives departementales de la Haute-Garonne"
+    },
+    {
+      "from": "The Bazacle records - a custody problem",
+      "to": "FranceArchives and the French access layers"
+    },
+    {
+      "from": "The Bazacle records - a custody problem",
+      "to": "Le Bris Goetzmann Pouget 2023 on convergent evolution toward the joint-stock company"
+    },
+    {
+      "from": "The Bazacle records - a custody problem",
+      "to": "MOC - Acquisitions and the antiquarian trade"
+    },
+    {
+      "from": "The Bazacle records - a custody problem",
+      "to": "MOC - French archives"
+    },
+    {
+      "from": "The Bazacle records - a custody problem",
+      "to": "Natie archives - where the Antwerp nations records are"
+    },
+    {
+      "from": "The Bazacle records - a custody problem",
+      "to": "Persistence samples are conditioned on non-absorption"
+    },
+    {
       "from": "The Bodmerei shield was a default rule and Amsterdam contracted out of it",
       "to": "MOC - Entity-shielding and corporate forms"
     },
@@ -12214,6 +13022,50 @@
     {
       "from": "The amana-daman structure refuses to infer fault from loss",
       "to": "The mudaraba is revocable not locked in"
+    },
+    {
+      "from": "The amirautes - a series across the coastal departments",
+      "to": "Archives nationales - Paris and Pierrefitte"
+    },
+    {
+      "from": "The amirautes - a series across the coastal departments",
+      "to": "Averijgrossen - the general average adjudications"
+    },
+    {
+      "from": "The amirautes - a series across the coastal departments",
+      "to": "Divergent arbitrary particulars are the independence diagnostic"
+    },
+    {
+      "from": "The amirautes - a series across the coastal departments",
+      "to": "MOC - French archives"
+    },
+    {
+      "from": "The amirautes - a series across the coastal departments",
+      "to": "MOC - Risk-sharing vs risk-pricing"
+    },
+    {
+      "from": "The amirautes - a series across the coastal departments",
+      "to": "The archives departementales system"
+    },
+    {
+      "from": "The archives departementales system",
+      "to": "FranceArchives and the French access layers"
+    },
+    {
+      "from": "The archives departementales system",
+      "to": "MOC - French archives"
+    },
+    {
+      "from": "The archives departementales system",
+      "to": "The Bazacle records - a custody problem"
+    },
+    {
+      "from": "The archives departementales system",
+      "to": "The VOC-EIC digital asymmetry is an access regime not a survival difference"
+    },
+    {
+      "from": "The archives departementales system",
+      "to": "The amirautes - a series across the coastal departments"
     },
     {
       "from": "The ascent narrative is the Jensen error as historiography",

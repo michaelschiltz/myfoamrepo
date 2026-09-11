@@ -104,8 +104,9 @@ Repository-level notes live in country MOCs, each carrying that country's struct
 | Italy | [[MOC - Italian archives]] | Mostly national custody, three unreconciled catalogues, images outside all of them. No layer 3 |
 | Netherlands | [[MOC - Dutch archives]] | No obstacle: CC0 scans, OAI-PMH, free scanning on demand. The easiest country, and the most biasing |
 | Belgium | [[MOC - Belgian archives]] | Worse infrastructure, better holdings. The country that breaks the proxy |
+| France | [[MOC - French archives]] | Scale, against one uniform classification. A question can be put to a *series* nationwide — and the interfaces are the least remotely-workable in the survey |
 
-**Not yet surveyed:** France, Germany, the Nordics, Britain, Croatia.
+**Not yet surveyed:** Germany, the Nordics, Britain, Croatia.
 
 ## Where each coded form's records sit
 
@@ -119,7 +120,7 @@ First pass, to be corrected as the register is built. ⚠️ marks a placement t
 | Partenrederij | [[Stadsarchief Amsterdam - the notarial archive]]; [[Gemeentearchief Zaanstad - the partenrederij country]] | Notarieel archief; `OA-0020`, `OA-0170` | 3 / 1 ⚠️ |
 | Begijnhof | Dispersed — see [[Begijnhof archives - where the beguinages records are]] | unidentified across four custodians | 1 ⚠️ |
 | Naties | [[Natie archives - where the Antwerp nations records are]]; [[Stadsarchief Brugge - the Hanse and the nations]] | not located; possibly in successor-company custody | 1 ⚠️ |
-| Bazacle | Archives départementales de la Haute-Garonne | ⚠️ series not yet identified | 1 ⚠️ |
+| Bazacle | [[The Bazacle records - a custody problem]] | Toulouse, cote unidentified; modern archive plausibly EDF *Fonds Ex-Sociétés* ⚠️ | 1 ⚠️ |
 | Deed of settlement company | TNA Kew | `BT 41`, `BT 31`, `BT 34` | **1 only** |
 | Chartered corporation | TNA Kew | charters; Patent Rolls `C 66` ⚠️ | 1 |
 | Mutual pole / friendly societies | TNA Kew | `FS` — Registry of Friendly Societies ⚠️ subseries | 1 |
