@@ -42,7 +42,7 @@ The transcription quality is HTR output on early modern Dutch hands, not a criti
 
 - **ANRI, Jakarta** — *Sejarah Nusantara* (<https://sejarah-nusantara.anri.go.id>), built with the Corts Foundation from 2011. Daily journals of Batavia Castle; and the **Diplomatic Letters 1625–1812** corpus: 4,300+ letters between the High Government and Southeast Asian rulers, transcribed *and translated*, found buried in the daghregisters by Manse and Niemeijer in 2013–14. Correspondence exchanged principally 1683–1743.
 - **TANAP** inventories — <http://databases.tanap.net/ead/>, with a selection re-presented at <https://docs.globalise.huygens.knaw.nl/tanap/>. Finding aids for the Asian and Cape repositories, plus establishment reconstructions. ⚠️ The original TANAP site is partly decayed; treat GLOBALISE's mirror as the stable entry.
-- Colombo, Chennai and Cape Town holdings are described but only patchily imaged. ⚠️ Unresearched.
+- Colombo, Chennai and Cape Town holdings are described but only patchily imaged. **Partly answered, 12 September 2026**: at Chennai, about **1,763 Dutch volumes**, with the unique material — about two-thirds — scanned under a project with the Nationaal Archief and the Netherlands embassy ([[Tamil Nadu Archives - the Madras records and the Dutch series]]); at Colombo, **310 metres** of VOC Ceylon records, conserved under the same programme, with the *thombo* index searchable online ([[Sri Lanka National Archives - the Dutch records and the thombos]]). ⚠️ Whether either set of scans is online is still unestablished; Cape Town unresearched.
 
 ## What this does not include
 

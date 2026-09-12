@@ -145,6 +145,15 @@
       "shape": "dot"
     },
     {
+      "id": "ASI epigraphy and the published corpora",
+      "type": "reference",
+      "group": "reference",
+      "label": "ASI epigraphy and the published corpora",
+      "value": 10,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
       "id": "Absorbing barrier",
       "type": "permanent",
       "group": "seed",
@@ -788,7 +797,7 @@
       "type": "reference",
       "group": "reference",
       "label": "British Library - the India Office Records",
-      "value": 14,
+      "value": 18,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -842,7 +851,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Cairo Geniza - the deposit and its survival rule",
-      "value": 19,
+      "value": 20,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -892,6 +901,15 @@
       "shape": "dot"
     },
     {
+      "id": "Chettiar banking - the enquiry is public and the account books are not",
+      "type": "reference",
+      "group": "reference",
+      "label": "Chettiar banking - the enquiry is public and the account books are not",
+      "value": 11,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
       "id": "Chinese archives - the Qing record divided by a sale and a strait",
       "type": "reference",
       "group": "reference",
@@ -905,7 +923,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Chinese contracts - the private document boom and the market that feeds it",
-      "value": 19,
+      "value": 22,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -914,6 +932,15 @@
       "type": "reference",
       "group": "reference",
       "label": "Chinese genealogies - Shanghai Library and FamilySearch",
+      "value": 10,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "Chit funds and kuri - a living rotating association with no historical archive",
+      "type": "reference",
+      "group": "reference",
+      "label": "Chit funds and kuri - a living rotating association with no historical archive",
       "value": 9,
       "color": "#66a61e",
       "shape": "dot"
@@ -941,7 +968,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Count degrees of freedom not cells",
-      "value": 51,
+      "value": 52,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -950,6 +977,15 @@
       "type": "reference",
       "group": "reference",
       "label": "Croatian archives online - ARHiNET and the access layer",
+      "value": 11,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "DHARMA - an ERC Synergy project that produced a TEI corpus of inscriptions",
+      "type": "reference",
+      "group": "reference",
+      "label": "DHARMA - an ERC Synergy project that produced a TEI corpus of inscriptions",
       "value": 11,
       "color": "#66a61e",
       "shape": "dot"
@@ -1157,7 +1193,7 @@
       "type": "reference",
       "group": "reference",
       "label": "EIC digital corpus - what is online and on what terms",
-      "value": 19,
+      "value": 20,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1472,7 +1508,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Guild stele inscriptions - the huiguan's surviving record",
-      "value": 12,
+      "value": 13,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1499,7 +1535,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Handoff - the non-European archive survey",
-      "value": 41,
+      "value": 46,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1598,7 +1634,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Huizhou documents - the largest private contract corpus",
-      "value": 14,
+      "value": 15,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1636,6 +1672,24 @@
       "label": "Independence of apparatus is not independence of question",
       "value": 37,
       "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "Indian inscriptions - the endowment recorded in stone",
+      "type": "reference",
+      "group": "reference",
+      "label": "Indian inscriptions - the endowment recorded in stone",
+      "value": 15,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "Indian merchant account books - bahi khata and kadai kanakku",
+      "type": "reference",
+      "group": "reference",
+      "label": "Indian merchant account books - bahi khata and kadai kanakku",
+      "value": 17,
+      "color": "#66a61e",
       "shape": "dot"
     },
     {
@@ -1778,7 +1832,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Jichitaishi - the municipal histories as Japan's print layer 3",
-      "value": 13,
+      "value": 14,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1859,7 +1913,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Kuzushiji OCR - the NDL and CODH stack",
-      "value": 20,
+      "value": 22,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1868,7 +1922,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Kye is not a ROSCA and the equation is an artefact of comparison with mujin",
-      "value": 20,
+      "value": 22,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1886,7 +1940,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Kyu-bakufu hikitsugisho - the Edo town magistrate records",
-      "value": 16,
+      "value": 17,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1940,7 +1994,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Leiden University Library - the Kong Koan archive of Batavia",
-      "value": 10,
+      "value": 11,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1977,6 +2031,15 @@
       "group": "reference",
       "label": "Loghi - the KNAW-Nationaal Archief HTR pipeline",
       "value": 17,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "Maharashtra State Archives - the Peshwa Daftar",
+      "type": "reference",
+      "group": "reference",
+      "label": "Maharashtra State Archives - the Peshwa Daftar",
+      "value": 12,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -2039,7 +2102,16 @@
       "type": "reference",
       "group": "reference",
       "label": "Mitsui Bunko - the Mitsui house archive",
-      "value": 15,
+      "value": 16,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "Modi script and the forty million documents",
+      "type": "reference",
+      "group": "reference",
+      "label": "Modi script and the forty million documents",
+      "value": 13,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -2112,6 +2184,15 @@
       "group": "reference",
       "label": "Nationaal Archief - The Hague",
       "value": 20,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "National Archives of India - Abhilekh Patal",
+      "type": "reference",
+      "group": "reference",
+      "label": "National Archives of India - Abhilekh Patal",
+      "value": 7,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -2273,7 +2354,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Open-source HTR stack - eScriptorium Kraken Loghi",
-      "value": 20,
+      "value": 21,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -2494,6 +2575,15 @@
       "shape": "dot"
     },
     {
+      "id": "Rajasthan State Archives - Bikaner and the princely bahis",
+      "type": "reference",
+      "group": "reference",
+      "label": "Rajasthan State Archives - Bikaner and the princely bahis",
+      "value": 9,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
       "id": "Read the Nakai anomaly against the ie's horizon not the transaction's",
       "type": "permanent",
       "group": "seed",
@@ -2705,7 +2795,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Shanxi piaohao records - letters, house rules and a collector's compilation",
-      "value": 7,
+      "value": 8,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -2764,12 +2854,30 @@
       "shape": "dot"
     },
     {
+      "id": "South Asian archives - the colonial state kept the record and the merchants kept their own",
+      "type": "reference",
+      "group": "reference",
+      "label": "South Asian archives - the colonial state kept the record and the merchants kept their own",
+      "value": 16,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
       "id": "Split provenance into priority and independence",
       "type": "permanent",
       "group": "seed",
       "label": "Split provenance into priority and independence",
       "value": 28,
       "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "Sri Lanka National Archives - the Dutch records and the thombos",
+      "type": "reference",
+      "group": "reference",
+      "label": "Sri Lanka National Archives - the Dutch records and the thombos",
+      "value": 10,
+      "color": "#66a61e",
       "shape": "dot"
     },
     {
@@ -2957,7 +3065,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Taiwan Shiho - the colonial survey of Chinese associations and shares",
-      "value": 8,
+      "value": 10,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -2968,6 +3076,24 @@
       "label": "Taleb reads survival as evidence about the survivor and we read it as evidence about the filter",
       "value": 31,
       "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "Tamil Nadu Archives - the Madras records and the Dutch series",
+      "type": "reference",
+      "group": "reference",
+      "label": "Tamil Nadu Archives - the Madras records and the Dutch series",
+      "value": 11,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "Tata Central Archives and the scarcity of Indian business archives",
+      "type": "reference",
+      "group": "reference",
+      "label": "Tata Central Archives and the scarcity of Indian business archives",
+      "value": 7,
+      "color": "#66a61e",
       "shape": "dot"
     },
     {
@@ -3295,6 +3421,15 @@
       "shape": "dot"
     },
     {
+      "id": "The colonial enquiry as South Asia's layer 3",
+      "type": "reference",
+      "group": "reference",
+      "label": "The colonial enquiry as South Asia's layer 3",
+      "value": 16,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
       "id": "The commenda and the qirad do not separate on loss allocation",
       "type": "permanent",
       "group": "seed",
@@ -3481,6 +3616,24 @@
       "label": "The isqa's bifurcation belongs to the Sasanian substrate question",
       "value": 15,
       "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "The jajmani system has no archive",
+      "type": "reference",
+      "group": "reference",
+      "label": "The jajmani system has no archive",
+      "value": 8,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "The joint Hindu family is a law-report institution",
+      "type": "reference",
+      "group": "reference",
+      "label": "The joint Hindu family is a law-report institution",
+      "value": 7,
+      "color": "#66a61e",
       "shape": "dot"
     },
     {
@@ -3929,7 +4082,7 @@
       "type": "reference",
       "group": "reference",
       "label": "VOC digital corpus - what is online and on what terms",
-      "value": 27,
+      "value": 33,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -4073,7 +4226,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Acquisitions and the antiquarian trade",
-      "value": 54,
+      "value": 56,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -4100,7 +4253,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Chinese archives",
-      "value": 74,
+      "value": 77,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -4127,7 +4280,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Digitisation and text recognition",
-      "value": 47,
+      "value": 51,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -4145,7 +4298,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - ERC Synergy Grant",
-      "value": 69,
+      "value": 72,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -4172,7 +4325,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - European archives and digital collections",
-      "value": 165,
+      "value": 169,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -4190,7 +4343,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Geniza archives",
-      "value": 47,
+      "value": 49,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -4217,7 +4370,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Historiography and method",
-      "value": 188,
+      "value": 189,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -4244,7 +4397,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Japanese archives",
-      "value": 84,
+      "value": 86,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -4262,7 +4415,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Ottoman archives",
-      "value": 76,
+      "value": 78,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -4281,6 +4434,15 @@
       "group": "moc",
       "label": "MOC - Risk-sharing vs risk-pricing",
       "value": 141,
+      "color": "#d95f02",
+      "shape": "dot"
+    },
+    {
+      "id": "MOC - South Asian archives",
+      "type": "moc",
+      "group": "moc",
+      "label": "MOC - South Asian archives",
+      "value": 58,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -4986,6 +5148,18 @@
     {
       "from": "A single throw of dice cannot be evaluated by its expectation",
       "to": "Time-average"
+    },
+    {
+      "from": "ASI epigraphy and the published corpora",
+      "to": "DHARMA - an ERC Synergy project that produced a TEI corpus of inscriptions"
+    },
+    {
+      "from": "ASI epigraphy and the published corpora",
+      "to": "Indian inscriptions - the endowment recorded in stone"
+    },
+    {
+      "from": "ASI epigraphy and the published corpora",
+      "to": "MOC - South Asian archives"
     },
     {
       "from": "Absorbing barrier",
@@ -7252,6 +7426,22 @@
       "to": "The creditor limb of entity shielding has no witness"
     },
     {
+      "from": "Chettiar banking - the enquiry is public and the account books are not",
+      "to": "Indian merchant account books - bahi khata and kadai kanakku"
+    },
+    {
+      "from": "Chettiar banking - the enquiry is public and the account books are not",
+      "to": "MOC - South Asian archives"
+    },
+    {
+      "from": "Chettiar banking - the enquiry is public and the account books are not",
+      "to": "Shanxi piaohao records - letters, house rules and a collector's compilation"
+    },
+    {
+      "from": "Chettiar banking - the enquiry is public and the account books are not",
+      "to": "The colonial enquiry as South Asia's layer 3"
+    },
+    {
       "from": "Chinese archives - the Qing record divided by a sale and a strait",
       "to": "Academia Sinica IHP - the Grand Secretariat archives in Taipei"
     },
@@ -7334,6 +7524,22 @@
     {
       "from": "Chinese genealogies - Shanghai Library and FamilySearch",
       "to": "National Library of China - the ancient books resource base"
+    },
+    {
+      "from": "Chit funds and kuri - a living rotating association with no historical archive",
+      "to": "Chinese contracts - the private document boom and the market that feeds it"
+    },
+    {
+      "from": "Chit funds and kuri - a living rotating association with no historical archive",
+      "to": "Kye is not a ROSCA and the equation is an artefact of comparison with mujin"
+    },
+    {
+      "from": "Chit funds and kuri - a living rotating association with no historical archive",
+      "to": "MOC - South Asian archives"
+    },
+    {
+      "from": "Chit funds and kuri - a living rotating association with no historical archive",
+      "to": "The colonial enquiry as South Asia's layer 3"
     },
     {
       "from": "Consulado de Burgos - the universidad de mercaderes",
@@ -7478,6 +7684,26 @@
     {
       "from": "Croatian archives online - ARHiNET and the access layer",
       "to": "The archives departementales system"
+    },
+    {
+      "from": "DHARMA - an ERC Synergy project that produced a TEI corpus of inscriptions",
+      "to": "ASI epigraphy and the published corpora"
+    },
+    {
+      "from": "DHARMA - an ERC Synergy project that produced a TEI corpus of inscriptions",
+      "to": "Indian inscriptions - the endowment recorded in stone"
+    },
+    {
+      "from": "DHARMA - an ERC Synergy project that produced a TEI corpus of inscriptions",
+      "to": "MOC - Digitisation and text recognition"
+    },
+    {
+      "from": "DHARMA - an ERC Synergy project that produced a TEI corpus of inscriptions",
+      "to": "MOC - ERC Synergy Grant"
+    },
+    {
+      "from": "DHARMA - an ERC Synergy project that produced a TEI corpus of inscriptions",
+      "to": "MOC - South Asian archives"
     },
     {
       "from": "Danxin archives - National Taiwan University",
@@ -9493,6 +9719,10 @@
     },
     {
       "from": "Handoff - the non-European archive survey",
+      "to": "MOC - South Asian archives"
+    },
+    {
+      "from": "Handoff - the non-European archive survey",
       "to": "The Ottoman documents at Dubrovnik"
     },
     {
@@ -9942,6 +10172,46 @@
     {
       "from": "Independence of apparatus is not independence of question",
       "to": "organizational_forms"
+    },
+    {
+      "from": "Indian inscriptions - the endowment recorded in stone",
+      "to": "ASI epigraphy and the published corpora"
+    },
+    {
+      "from": "Indian inscriptions - the endowment recorded in stone",
+      "to": "Cairo Geniza - the deposit and its survival rule"
+    },
+    {
+      "from": "Indian inscriptions - the endowment recorded in stone",
+      "to": "DHARMA - an ERC Synergy project that produced a TEI corpus of inscriptions"
+    },
+    {
+      "from": "Indian inscriptions - the endowment recorded in stone",
+      "to": "Guild stele inscriptions - the huiguan's surviving record"
+    },
+    {
+      "from": "Indian inscriptions - the endowment recorded in stone",
+      "to": "MOC - South Asian archives"
+    },
+    {
+      "from": "Indian merchant account books - bahi khata and kadai kanakku",
+      "to": "Chettiar banking - the enquiry is public and the account books are not"
+    },
+    {
+      "from": "Indian merchant account books - bahi khata and kadai kanakku",
+      "to": "Chinese contracts - the private document boom and the market that feeds it"
+    },
+    {
+      "from": "Indian merchant account books - bahi khata and kadai kanakku",
+      "to": "MOC - Acquisitions and the antiquarian trade"
+    },
+    {
+      "from": "Indian merchant account books - bahi khata and kadai kanakku",
+      "to": "MOC - South Asian archives"
+    },
+    {
+      "from": "Indian merchant account books - bahi khata and kadai kanakku",
+      "to": "Rajasthan State Archives - Bikaner and the princely bahis"
     },
     {
       "from": "Insolvente Boedelskamer - Antwerp",
@@ -12441,6 +12711,10 @@
     },
     {
       "from": "MOC - European archives and digital collections",
+      "to": "MOC - South Asian archives"
+    },
+    {
+      "from": "MOC - European archives and digital collections",
       "to": "MOC - Spanish archives"
     },
     {
@@ -14480,6 +14754,122 @@
       "to": "isqa"
     },
     {
+      "from": "MOC - South Asian archives",
+      "to": "ASI epigraphy and the published corpora"
+    },
+    {
+      "from": "MOC - South Asian archives",
+      "to": "British Library - the India Office Records"
+    },
+    {
+      "from": "MOC - South Asian archives",
+      "to": "Chettiar banking - the enquiry is public and the account books are not"
+    },
+    {
+      "from": "MOC - South Asian archives",
+      "to": "Chit funds and kuri - a living rotating association with no historical archive"
+    },
+    {
+      "from": "MOC - South Asian archives",
+      "to": "DHARMA - an ERC Synergy project that produced a TEI corpus of inscriptions"
+    },
+    {
+      "from": "MOC - South Asian archives",
+      "to": "Handoff - the non-European archive survey"
+    },
+    {
+      "from": "MOC - South Asian archives",
+      "to": "Indian inscriptions - the endowment recorded in stone"
+    },
+    {
+      "from": "MOC - South Asian archives",
+      "to": "Indian merchant account books - bahi khata and kadai kanakku"
+    },
+    {
+      "from": "MOC - South Asian archives",
+      "to": "Leiden University Library - the Kong Koan archive of Batavia"
+    },
+    {
+      "from": "MOC - South Asian archives",
+      "to": "MOC - Acquisitions and the antiquarian trade"
+    },
+    {
+      "from": "MOC - South Asian archives",
+      "to": "MOC - Chinese archives"
+    },
+    {
+      "from": "MOC - South Asian archives",
+      "to": "MOC - Digitisation and text recognition"
+    },
+    {
+      "from": "MOC - South Asian archives",
+      "to": "MOC - ERC Synergy Grant"
+    },
+    {
+      "from": "MOC - South Asian archives",
+      "to": "MOC - European archives and digital collections"
+    },
+    {
+      "from": "MOC - South Asian archives",
+      "to": "MOC - Geniza archives"
+    },
+    {
+      "from": "MOC - South Asian archives",
+      "to": "MOC - Japanese archives"
+    },
+    {
+      "from": "MOC - South Asian archives",
+      "to": "MOC - Ottoman archives"
+    },
+    {
+      "from": "MOC - South Asian archives",
+      "to": "Maharashtra State Archives - the Peshwa Daftar"
+    },
+    {
+      "from": "MOC - South Asian archives",
+      "to": "Modi script and the forty million documents"
+    },
+    {
+      "from": "MOC - South Asian archives",
+      "to": "National Archives of India - Abhilekh Patal"
+    },
+    {
+      "from": "MOC - South Asian archives",
+      "to": "Rajasthan State Archives - Bikaner and the princely bahis"
+    },
+    {
+      "from": "MOC - South Asian archives",
+      "to": "South Asian archives - the colonial state kept the record and the merchants kept their own"
+    },
+    {
+      "from": "MOC - South Asian archives",
+      "to": "Sri Lanka National Archives - the Dutch records and the thombos"
+    },
+    {
+      "from": "MOC - South Asian archives",
+      "to": "Tamil Nadu Archives - the Madras records and the Dutch series"
+    },
+    {
+      "from": "MOC - South Asian archives",
+      "to": "Tata Central Archives and the scarcity of Indian business archives"
+    },
+    {
+      "from": "MOC - South Asian archives",
+      "to": "The colonial enquiry as South Asia's layer 3"
+    },
+    {
+      "from": "MOC - South Asian archives",
+      "to": "The jajmani system has no archive"
+    },
+    {
+      "from": "MOC - South Asian archives",
+      "to": "The joint Hindu family is a law-report institution"
+    },
+    {
+      "from": "MOC - South Asian archives",
+      "to": "VOC digital corpus - what is online and on what terms"
+    },
+    {
       "from": "MOC - Spanish archives",
       "to": "Archivo Foral de Bizkaia - the Consulado de Bilbao"
     },
@@ -14546,6 +14936,22 @@
     {
       "from": "MOC - Spanish archives",
       "to": "Real Chancilleria de Valladolid"
+    },
+    {
+      "from": "Maharashtra State Archives - the Peshwa Daftar",
+      "to": "Indian merchant account books - bahi khata and kadai kanakku"
+    },
+    {
+      "from": "Maharashtra State Archives - the Peshwa Daftar",
+      "to": "Kyu-bakufu hikitsugisho - the Edo town magistrate records"
+    },
+    {
+      "from": "Maharashtra State Archives - the Peshwa Daftar",
+      "to": "MOC - South Asian archives"
+    },
+    {
+      "from": "Maharashtra State Archives - the Peshwa Daftar",
+      "to": "Modi script and the forty million documents"
     },
     {
       "from": "Mare Liberum was a corporate legal weapon",
@@ -14686,6 +15092,26 @@
     {
       "from": "Mitsui Bunko - the Mitsui house archive",
       "to": "The clearing records dataset has no archive yet"
+    },
+    {
+      "from": "Modi script and the forty million documents",
+      "to": "Kuzushiji OCR - the NDL and CODH stack"
+    },
+    {
+      "from": "Modi script and the forty million documents",
+      "to": "MOC - Digitisation and text recognition"
+    },
+    {
+      "from": "Modi script and the forty million documents",
+      "to": "MOC - South Asian archives"
+    },
+    {
+      "from": "Modi script and the forty million documents",
+      "to": "Maharashtra State Archives - the Peshwa Daftar"
+    },
+    {
+      "from": "Modi script and the forty million documents",
+      "to": "Open-source HTR stack - eScriptorium Kraken Loghi"
     },
     {
       "from": "Multiplicative amplification is indifferent to what it amplifies",
@@ -14898,6 +15324,18 @@
     {
       "from": "Nationaal Archief - The Hague",
       "to": "Zeeuws Archief - the Zeeland chamber and the MCC"
+    },
+    {
+      "from": "National Archives of India - Abhilekh Patal",
+      "to": "British Library - the India Office Records"
+    },
+    {
+      "from": "National Archives of India - Abhilekh Patal",
+      "to": "MOC - South Asian archives"
+    },
+    {
+      "from": "National Archives of India - Abhilekh Patal",
+      "to": "The colonial enquiry as South Asia's layer 3"
     },
     {
       "from": "National Archives of Ireland PRONI and the Four Courts fire",
@@ -16076,6 +16514,18 @@
       "to": "The Ragusan chancery and notarial series"
     },
     {
+      "from": "Rajasthan State Archives - Bikaner and the princely bahis",
+      "to": "Indian merchant account books - bahi khata and kadai kanakku"
+    },
+    {
+      "from": "Rajasthan State Archives - Bikaner and the princely bahis",
+      "to": "MOC - South Asian archives"
+    },
+    {
+      "from": "Rajasthan State Archives - Bikaner and the princely bahis",
+      "to": "Maharashtra State Archives - the Peshwa Daftar"
+    },
+    {
       "from": "Read the Nakai anomaly against the ie's horizon not the transaction's",
       "to": "MOC - Entity-shielding and corporate forms"
     },
@@ -16972,6 +17422,58 @@
       "to": "Voigtlander and Voth measured the relaxation time and reported a mixture"
     },
     {
+      "from": "South Asian archives - the colonial state kept the record and the merchants kept their own",
+      "to": "British Library - the India Office Records"
+    },
+    {
+      "from": "South Asian archives - the colonial state kept the record and the merchants kept their own",
+      "to": "Handoff - the non-European archive survey"
+    },
+    {
+      "from": "South Asian archives - the colonial state kept the record and the merchants kept their own",
+      "to": "Indian inscriptions - the endowment recorded in stone"
+    },
+    {
+      "from": "South Asian archives - the colonial state kept the record and the merchants kept their own",
+      "to": "Indian merchant account books - bahi khata and kadai kanakku"
+    },
+    {
+      "from": "South Asian archives - the colonial state kept the record and the merchants kept their own",
+      "to": "MOC - Chinese archives"
+    },
+    {
+      "from": "South Asian archives - the colonial state kept the record and the merchants kept their own",
+      "to": "MOC - South Asian archives"
+    },
+    {
+      "from": "South Asian archives - the colonial state kept the record and the merchants kept their own",
+      "to": "Maharashtra State Archives - the Peshwa Daftar"
+    },
+    {
+      "from": "South Asian archives - the colonial state kept the record and the merchants kept their own",
+      "to": "Modi script and the forty million documents"
+    },
+    {
+      "from": "South Asian archives - the colonial state kept the record and the merchants kept their own",
+      "to": "National Archives of India - Abhilekh Patal"
+    },
+    {
+      "from": "South Asian archives - the colonial state kept the record and the merchants kept their own",
+      "to": "Rajasthan State Archives - Bikaner and the princely bahis"
+    },
+    {
+      "from": "South Asian archives - the colonial state kept the record and the merchants kept their own",
+      "to": "Tamil Nadu Archives - the Madras records and the Dutch series"
+    },
+    {
+      "from": "South Asian archives - the colonial state kept the record and the merchants kept their own",
+      "to": "The colonial enquiry as South Asia's layer 3"
+    },
+    {
+      "from": "South Asian archives - the colonial state kept the record and the merchants kept their own",
+      "to": "The joint Hindu family is a law-report institution"
+    },
+    {
       "from": "Split provenance into priority and independence",
       "to": "MOC - HistorEE"
     },
@@ -16994,6 +17496,22 @@
     {
       "from": "Split provenance into priority and independence",
       "to": "Transmission versus independent recurrence is the load-bearing test"
+    },
+    {
+      "from": "Sri Lanka National Archives - the Dutch records and the thombos",
+      "to": "Chettiar banking - the enquiry is public and the account books are not"
+    },
+    {
+      "from": "Sri Lanka National Archives - the Dutch records and the thombos",
+      "to": "MOC - South Asian archives"
+    },
+    {
+      "from": "Sri Lanka National Archives - the Dutch records and the thombos",
+      "to": "Tamil Nadu Archives - the Madras records and the Dutch series"
+    },
+    {
+      "from": "Sri Lanka National Archives - the Dutch records and the thombos",
+      "to": "VOC digital corpus - what is online and on what terms"
     },
     {
       "from": "Staatsarchiv Bremen",
@@ -17582,6 +18100,38 @@
     {
       "from": "Taleb reads survival as evidence about the survivor and we read it as evidence about the filter",
       "to": "Whiggish history of finance names the ascent narrative"
+    },
+    {
+      "from": "Tamil Nadu Archives - the Madras records and the Dutch series",
+      "to": "EIC digital corpus - what is online and on what terms"
+    },
+    {
+      "from": "Tamil Nadu Archives - the Madras records and the Dutch series",
+      "to": "MOC - South Asian archives"
+    },
+    {
+      "from": "Tamil Nadu Archives - the Madras records and the Dutch series",
+      "to": "Sri Lanka National Archives - the Dutch records and the thombos"
+    },
+    {
+      "from": "Tamil Nadu Archives - the Madras records and the Dutch series",
+      "to": "VOC digital corpus - what is online and on what terms"
+    },
+    {
+      "from": "Tata Central Archives and the scarcity of Indian business archives",
+      "to": "Huizhou documents - the largest private contract corpus"
+    },
+    {
+      "from": "Tata Central Archives and the scarcity of Indian business archives",
+      "to": "Indian merchant account books - bahi khata and kadai kanakku"
+    },
+    {
+      "from": "Tata Central Archives and the scarcity of Indian business archives",
+      "to": "MOC - South Asian archives"
+    },
+    {
+      "from": "Tata Central Archives and the scarcity of Indian business archives",
+      "to": "Mitsui Bunko - the Mitsui house archive"
     },
     {
       "from": "Terminal wealth is permutation-invariant but survival is not",
@@ -18708,6 +19258,26 @@
       "to": "Transmission versus independent recurrence is the load-bearing test"
     },
     {
+      "from": "The colonial enquiry as South Asia's layer 3",
+      "to": "Chettiar banking - the enquiry is public and the account books are not"
+    },
+    {
+      "from": "The colonial enquiry as South Asia's layer 3",
+      "to": "Chit funds and kuri - a living rotating association with no historical archive"
+    },
+    {
+      "from": "The colonial enquiry as South Asia's layer 3",
+      "to": "Jichitaishi - the municipal histories as Japan's print layer 3"
+    },
+    {
+      "from": "The colonial enquiry as South Asia's layer 3",
+      "to": "MOC - South Asian archives"
+    },
+    {
+      "from": "The colonial enquiry as South Asia's layer 3",
+      "to": "Taiwan Shiho - the colonial survey of Chinese associations and shares"
+    },
+    {
       "from": "The commenda and the qirad do not separate on loss allocation",
       "to": "A route clause conditions the investor's peril in three traditions"
     },
@@ -19490,6 +20060,38 @@
     {
       "from": "The isqa's bifurcation belongs to the Sasanian substrate question",
       "to": "isqa"
+    },
+    {
+      "from": "The jajmani system has no archive",
+      "to": "Indian inscriptions - the endowment recorded in stone"
+    },
+    {
+      "from": "The jajmani system has no archive",
+      "to": "MOC - ERC Synergy Grant"
+    },
+    {
+      "from": "The jajmani system has no archive",
+      "to": "MOC - Historiography and method"
+    },
+    {
+      "from": "The jajmani system has no archive",
+      "to": "MOC - South Asian archives"
+    },
+    {
+      "from": "The joint Hindu family is a law-report institution",
+      "to": "Chinese genealogies - Shanghai Library and FamilySearch"
+    },
+    {
+      "from": "The joint Hindu family is a law-report institution",
+      "to": "Count degrees of freedom not cells"
+    },
+    {
+      "from": "The joint Hindu family is a law-report institution",
+      "to": "MOC - South Asian archives"
+    },
+    {
+      "from": "The joint Hindu family is a law-report institution",
+      "to": "The colonial enquiry as South Asia's layer 3"
     },
     {
       "from": "The liability characteristics cannot express what Harris found",
@@ -21226,6 +21828,14 @@
     {
       "from": "VOC digital corpus - what is online and on what terms",
       "to": "Open-source HTR stack - eScriptorium Kraken Loghi"
+    },
+    {
+      "from": "VOC digital corpus - what is online and on what terms",
+      "to": "Sri Lanka National Archives - the Dutch records and the thombos"
+    },
+    {
+      "from": "VOC digital corpus - what is online and on what terms",
+      "to": "Tamil Nadu Archives - the Madras records and the Dutch series"
     },
     {
       "from": "VOC digital corpus - what is online and on what terms",
