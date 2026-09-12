@@ -38,7 +38,9 @@ Three document types, in the manuscripts themselves:
 
 ## Where the texts are
 
-Manuscripts at the British Library, the BnF, the National Library of China and the IOM; **transcriptions in the Chinese editorial programmes** — Ning Ke and Hao Chunwen's compilation of *she* documents and Hao's ongoing series on the British collection. ⚠️ **The size of the whole *she* corpus was not established in this pass**; the compilation's contents were not seen. English-language treatments: Teiser 2020 on the women's bylaws, Hao Chunwen 2021 in *Hualin International Journal of Buddhist Studies* 4.2.
+Manuscripts at the British Library, the BnF, the National Library of China and the IOM; **transcriptions in the Chinese editorial programmes** — 寧可 Ning Ke and 郝春文 Hao Chunwen (eds), 《敦煌社邑文書輯校》 (Nanjing: 江蘇古籍出版社, 1997), and Hao's ongoing series on the British collection.
+
+**Corpus size, established 12 September 2026**: Teiser puts the essential data at **422 manuscripts from Dunhuang and Turfan** containing documents on the workings of lay associations; **Ning and Hao's compilation collects 345**, and a 2019 update adds a further 77. ⚠️ From Teiser's footnote, read through a summary; the compilation itself has not been seen. English-language treatments: Teiser 2020 on the women's bylaws, Hao Chunwen 2021 in *Hualin International Journal of Buddhist Studies* 4.2.
 
 ## Links
 

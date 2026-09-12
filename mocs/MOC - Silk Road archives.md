@@ -54,7 +54,7 @@ Hub for the Inner Asian documentary material, linked from the country table of [
 
 ## The candidate
 
-[[Dunhuang she associations - bylaws for a funeral fund]] — **logbook 2, 2026-09-12 (xi)**. Ninth- and tenth-century lay associations whose **own bylaws (社條) fix a contribution in kind at a member's death**, with penalties for default and named officers. **Membership twelve to twenty-six. Four women's bylaws survive, dated 658 or earlier to 968, and they sit in four different countries' collections.** **The *shihōsho* problem is solved before the work starts.**
+[[Dunhuang she associations - bylaws for a funeral fund]] — **logbook 2, 2026-09-12 (xi)**. Ninth- and tenth-century lay associations whose **own bylaws (社條) fix a contribution in kind at a member's death**, with penalties for default and named officers. **Membership twelve to twenty-six. Four women's bylaws survive, dated 658 or earlier to 968, in four different countries' collections; the corpus as a whole is 422 manuscripts, 345 of them collated in 1997.** **The *shihōsho* problem is solved before the work starts.**
 
 ## What this pass adds to the seven patterns
 
@@ -83,7 +83,7 @@ Hub for the Inner Asian documentary material, linked from the country table of [
 ## Open questions
 
 - **Is any surviving Uyghur or Khara-Khoto contract an *ortoq* contract?** The question that would upgrade WP1's calibration.
-- **How large is the *she* corpus?** Ning Ke and Hao Chunwen's compilation would say.
+- ~~How large is the *she* corpus?~~ **Answered 12 September 2026: 422 manuscripts from Dunhuang and Turfan; 345 in Ning and Hao's 1997 compilation, plus 77 added in 2019** (Teiser 2020). **What remains is its composition** — how many are bylaws rather than circulars.
 - **Does the *she* bylaw fix the contribution by household, by share or per head** — `CN2` — and what happened to a member who could not pay?
 - **What is IDP's licence**, and what survived the British Library's systems disruption?
 - **Berlin's wartime losses and the Soviet removals** — before any completeness claim.
