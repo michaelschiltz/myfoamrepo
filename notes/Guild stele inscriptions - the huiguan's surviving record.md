@@ -30,6 +30,7 @@ status: seed
 - [[Tung Wah Coffin Home Archives - Hong Kong]]
 - [[Leiden University Library - the Kong Koan archive of Batavia]]
 - [[Chinese contracts - the private document boom and the market that feeds it]]
+- [[Dunhuang she associations - bylaws for a funeral fund]]
 
 ## Source
 

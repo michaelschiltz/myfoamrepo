@@ -54,6 +54,7 @@ For each country: establish **the structural fact** — what the country's archi
 - **Japan — done, 11 September 2026.** [[MOC - Japanese archives]]. Successor custody is the default rather than the exception; books are imaged and the census's documents are not; the Japanese rows rest on printed transcriptions; and `clearing_records` has no archive yet.
 - **China — done, 11 September 2026.** [[MOC - Chinese archives]]. The Qing central record is split between Beijing and Taipei by a 1921 waste-paper sale and the 1949 evacuation, under opposite access regimes; it is not where the census's evidence is. Every coded Chinese cell passes through Zelin 2019 and the earliest through one 1995 compilation; the associations' operating record survives abroad (Hong Kong, Leiden); A7 has no Chinese destination.
 - **South Asia — done, 12 September 2026.** [[MOC - South Asian archives]]. Run without waiting on Decision_log D4 and without deciding it. The colonial state's record is vast and online; the merchants' books are gone; layer 3 is the colonial enquiry; the best evidence is epigraphic. **Two candidates parked — the *śreṇi* endowment and the South Indian chit fund — and the census's one South Asian row is confirmed for removal.**
+- **Silk Road / Inner Asia — done, 12 September 2026.** [[MOC - Silk Road archives]]. A cross-cutting pass at MS's request, including the Japanese holdings. Expedition dispersal and digital reunification; **the record is documentary while `ortoq_equity` and `ortoq_loan` are coded from chronicles**; the Dunhuang *she* association parked as the survey's best-shaped candidate.
 - **The non-European survey is complete.** South-East Asia was not surveyed as a region; what the Chinese and Dutch passes found on that side is recorded in the South Asian hub under D4.
 
 ## Links
@@ -64,6 +65,7 @@ For each country: establish **the structural fact** — what the country's archi
 - [[MOC - Japanese archives]]
 - [[MOC - Chinese archives]]
 - [[MOC - South Asian archives]]
+- [[MOC - Silk Road archives]]
 - [[The Ottoman documents at Dubrovnik]]
 - [[MOC - Digitisation and text recognition]]
 - [[MOC - Acquisitions and the antiquarian trade]]

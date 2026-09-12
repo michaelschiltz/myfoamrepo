@@ -730,6 +730,15 @@
       "shape": "dot"
     },
     {
+      "id": "Berlin - the Turfan collection",
+      "type": "reference",
+      "group": "reference",
+      "label": "Berlin - the Turfan collection",
+      "value": 9,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
       "id": "Bodleian Library - the Oxford Genizah fragments",
       "type": "reference",
       "group": "reference",
@@ -802,11 +811,20 @@
       "shape": "dot"
     },
     {
+      "id": "British Library - the Stein collection",
+      "type": "reference",
+      "group": "reference",
+      "label": "British Library - the Stein collection",
+      "value": 12,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
       "id": "British archives online - the access layers",
       "type": "reference",
       "group": "reference",
       "label": "British archives online - the access layers",
-      "value": 17,
+      "value": 19,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -851,7 +869,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Cairo Geniza - the deposit and its survival rule",
-      "value": 20,
+      "value": 22,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -941,7 +959,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Chit funds and kuri - a living rotating association with no historical archive",
-      "value": 9,
+      "value": 10,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -968,7 +986,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Count degrees of freedom not cells",
-      "value": 52,
+      "value": 53,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -986,7 +1004,7 @@
       "type": "reference",
       "group": "reference",
       "label": "DHARMA - an ERC Synergy project that produced a TEI corpus of inscriptions",
-      "value": 11,
+      "value": 14,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1158,6 +1176,15 @@
       "group": "reference",
       "label": "Drzavni arhiv u Zadru",
       "value": 13,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "Dunhuang she associations - bylaws for a funeral fund",
+      "type": "reference",
+      "group": "reference",
+      "label": "Dunhuang she associations - bylaws for a funeral fund",
+      "value": 12,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1373,7 +1400,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Friedberg Genizah Project and Ktiv - the image union layer",
-      "value": 17,
+      "value": 19,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1508,7 +1535,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Guild stele inscriptions - the huiguan's surviving record",
-      "value": 13,
+      "value": 16,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1535,7 +1562,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Handoff - the non-European archive survey",
-      "value": 46,
+      "value": 50,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1639,6 +1666,15 @@
       "shape": "dot"
     },
     {
+      "id": "IDP - the digital reunification of a dispersed archive",
+      "type": "reference",
+      "group": "reference",
+      "label": "IDP - the digital reunification of a dispersed archive",
+      "value": 17,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
       "id": "IISG and NEHA - Amsterdam",
       "type": "reference",
       "group": "reference",
@@ -1711,6 +1747,15 @@
       "shape": "dot"
     },
     {
+      "id": "Institute of Oriental Manuscripts - St Petersburg",
+      "type": "reference",
+      "group": "reference",
+      "label": "Institute of Oriental Manuscripts - St Petersburg",
+      "value": 12,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
       "id": "Institutions substitute state-verification for outcome-inference as ruin exposure rises",
       "type": "permanent",
       "group": "seed",
@@ -1726,6 +1771,15 @@
       "label": "Insurance is a split-off from the sea loan not a coordinate mechanism",
       "value": 15,
       "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "Invisible East - an open corpus for the eastern Islamicate documents",
+      "type": "reference",
+      "group": "reference",
+      "label": "Invisible East - an open corpus for the eastern Islamicate documents",
+      "value": 12,
+      "color": "#66a61e",
       "shape": "dot"
     },
     {
@@ -1805,7 +1859,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Japanese archives - custody follows the house",
-      "value": 34,
+      "value": 35,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1832,7 +1886,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Jichitaishi - the municipal histories as Japan's print layer 3",
-      "value": 14,
+      "value": 15,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -2066,7 +2120,7 @@
       "type": "reference",
       "group": "reference",
       "label": "MiDRASH - the machine transcription of the Geniza",
-      "value": 15,
+      "value": 17,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -2242,6 +2296,15 @@
       "shape": "dot"
     },
     {
+      "id": "National Library of China and the Dunhuang Academy",
+      "type": "reference",
+      "group": "reference",
+      "label": "National Library of China and the Dunhuang Academy",
+      "value": 8,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
       "id": "National Library of Russia - the Firkovich and Antonin collections",
       "type": "reference",
       "group": "reference",
@@ -2338,6 +2401,15 @@
       "label": "Nothing in the ergodic theorem fails in geometric Brownian motion",
       "value": 41,
       "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "Old Uyghur contracts - the documentary layer under the ortoq",
+      "type": "reference",
+      "group": "reference",
+      "label": "Old Uyghur contracts - the documentary layer under the ortoq",
+      "value": 15,
+      "color": "#66a61e",
       "shape": "dot"
     },
     {
@@ -2728,6 +2800,15 @@
       "shape": "dot"
     },
     {
+      "id": "Ryukoku University and the Otani collection",
+      "type": "reference",
+      "group": "reference",
+      "label": "Ryukoku University and the Otani collection",
+      "value": 11,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
       "id": "SIAS SIUSA and SAN - the Italian access layers",
       "type": "reference",
       "group": "reference",
@@ -2818,6 +2899,15 @@
       "shape": "dot"
     },
     {
+      "id": "Silk Road documents - one site's archive in twelve institutions",
+      "type": "reference",
+      "group": "reference",
+      "label": "Silk Road documents - one site's archive in twelve institutions",
+      "value": 17,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
       "id": "Simonsohn 2016 on East Syrian civil law and the Sasanian substrate",
       "type": "source",
       "group": "source",
@@ -2842,6 +2932,15 @@
       "label": "Skin in the game",
       "value": 54,
       "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "Sogdian commercial documents - thin but not empty",
+      "type": "reference",
+      "group": "reference",
+      "label": "Sogdian commercial documents - thin but not empty",
+      "value": 15,
+      "color": "#66a61e",
       "shape": "dot"
     },
     {
@@ -3214,6 +3313,15 @@
       "shape": "dot"
     },
     {
+      "id": "The Khalili Bactrian documents - a private collection as the archive",
+      "type": "reference",
+      "group": "reference",
+      "label": "The Khalili Bactrian documents - a private collection as the archive",
+      "value": 9,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
       "id": "The Kux carries transferability with unlimited liability",
       "type": "permanent",
       "group": "seed",
@@ -3255,6 +3363,15 @@
       "group": "reference",
       "label": "The Nordic thinness - what is actually missing",
       "value": 17,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "The Otani dispersal - Kyoto, Tokyo, Lushun, Seoul",
+      "type": "reference",
+      "group": "reference",
+      "label": "The Otani dispersal - Kyoto, Tokyo, Lushun, Seoul",
+      "value": 11,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -3301,6 +3418,24 @@
       "label": "The Roman universitas makes the JSC case parallelism not convergence",
       "value": 33,
       "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "The Silk Road layer 3 is a national editorial programme",
+      "type": "reference",
+      "group": "reference",
+      "label": "The Silk Road layer 3 is a national editorial programme",
+      "value": 20,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "The Silk Road record is documents and the census codes chronicles",
+      "type": "reference",
+      "group": "reference",
+      "label": "The Silk Road record is documents and the census codes chronicles",
+      "value": 16,
+      "color": "#66a61e",
       "shape": "dot"
     },
     {
@@ -3749,7 +3884,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The ortoq is the discriminating instrument",
-      "value": 21,
+      "value": 29,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -3776,7 +3911,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The qirad's antecedents are Sasanian not Sogdian",
-      "value": 36,
+      "value": 38,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -4015,6 +4150,15 @@
       "shape": "dot"
     },
     {
+      "id": "Toyo Bunko and the Digital Silk Road - the expedition library not the finds",
+      "type": "reference",
+      "group": "reference",
+      "label": "Toyo Bunko and the Digital Silk Road - the expedition library not the finds",
+      "value": 7,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
       "id": "Toyonaka City - the Chokoji-mura documents",
       "type": "reference",
       "group": "reference",
@@ -4181,7 +4325,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Zhang Chuanxi 1995 - the contract compilation behind the census's Chinese rows",
-      "value": 17,
+      "value": 19,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -4226,7 +4370,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Acquisitions and the antiquarian trade",
-      "value": 56,
+      "value": 60,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -4253,7 +4397,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Chinese archives",
-      "value": 77,
+      "value": 79,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -4280,7 +4424,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Digitisation and text recognition",
-      "value": 51,
+      "value": 53,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -4298,7 +4442,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - ERC Synergy Grant",
-      "value": 72,
+      "value": 74,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -4325,7 +4469,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - European archives and digital collections",
-      "value": 169,
+      "value": 173,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -4343,7 +4487,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Geniza archives",
-      "value": 49,
+      "value": 50,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -4352,7 +4496,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - German archives",
-      "value": 52,
+      "value": 53,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -4397,7 +4541,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Japanese archives",
-      "value": 86,
+      "value": 89,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -4415,7 +4559,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Ottoman archives",
-      "value": 78,
+      "value": 79,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -4438,11 +4582,20 @@
       "shape": "dot"
     },
     {
+      "id": "MOC - Silk Road archives",
+      "type": "moc",
+      "group": "moc",
+      "label": "MOC - Silk Road archives",
+      "value": 51,
+      "color": "#d95f02",
+      "shape": "dot"
+    },
+    {
       "id": "MOC - South Asian archives",
       "type": "moc",
       "group": "moc",
       "label": "MOC - South Asian archives",
-      "value": 58,
+      "value": 59,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -6862,6 +7015,22 @@
       "to": "The naties are a six-century Lindy institution"
     },
     {
+      "from": "Berlin - the Turfan collection",
+      "to": "IDP - the digital reunification of a dispersed archive"
+    },
+    {
+      "from": "Berlin - the Turfan collection",
+      "to": "MOC - German archives"
+    },
+    {
+      "from": "Berlin - the Turfan collection",
+      "to": "MOC - Silk Road archives"
+    },
+    {
+      "from": "Berlin - the Turfan collection",
+      "to": "Old Uyghur contracts - the documentary layer under the ortoq"
+    },
+    {
       "from": "Bodleian Library - the Oxford Genizah fragments",
       "to": "Cambridge University Library - the Taylor-Schechter Genizah Collection"
     },
@@ -7116,6 +7285,30 @@
     {
       "from": "British Library - the India Office Records",
       "to": "Van Dam's Beschryvinge - the VOC described by its own advocaat"
+    },
+    {
+      "from": "British Library - the Stein collection",
+      "to": "British archives online - the access layers"
+    },
+    {
+      "from": "British Library - the Stein collection",
+      "to": "Dunhuang she associations - bylaws for a funeral fund"
+    },
+    {
+      "from": "British Library - the Stein collection",
+      "to": "IDP - the digital reunification of a dispersed archive"
+    },
+    {
+      "from": "British Library - the Stein collection",
+      "to": "MOC - Silk Road archives"
+    },
+    {
+      "from": "British Library - the Stein collection",
+      "to": "Sogdian commercial documents - thin but not empty"
+    },
+    {
+      "from": "British Library - the Stein collection",
+      "to": "The Silk Road layer 3 is a national editorial programme"
     },
     {
       "from": "British archives online - the access layers",
@@ -8304,6 +8497,22 @@
     {
       "from": "Drzavni arhiv u Zadru",
       "to": "MOC - Croatian archives"
+    },
+    {
+      "from": "Dunhuang she associations - bylaws for a funeral fund",
+      "to": "Chit funds and kuri - a living rotating association with no historical archive"
+    },
+    {
+      "from": "Dunhuang she associations - bylaws for a funeral fund",
+      "to": "Guild stele inscriptions - the huiguan's surviving record"
+    },
+    {
+      "from": "Dunhuang she associations - bylaws for a funeral fund",
+      "to": "MOC - Silk Road archives"
+    },
+    {
+      "from": "Dunhuang she associations - bylaws for a funeral fund",
+      "to": "The Silk Road layer 3 is a national editorial programme"
     },
     {
       "from": "Dutch archives online - the access layers",
@@ -9595,6 +9804,10 @@
     },
     {
       "from": "Guild stele inscriptions - the huiguan's surviving record",
+      "to": "Dunhuang she associations - bylaws for a funeral fund"
+    },
+    {
+      "from": "Guild stele inscriptions - the huiguan's surviving record",
       "to": "Leiden University Library - the Kong Koan archive of Batavia"
     },
     {
@@ -9716,6 +9929,10 @@
     {
       "from": "Handoff - the non-European archive survey",
       "to": "MOC - Ottoman archives"
+    },
+    {
+      "from": "Handoff - the non-European archive survey",
+      "to": "MOC - Silk Road archives"
     },
     {
       "from": "Handoff - the non-European archive survey",
@@ -10062,6 +10279,30 @@
       "to": "Zhang Chuanxi 1995 - the contract compilation behind the census's Chinese rows"
     },
     {
+      "from": "IDP - the digital reunification of a dispersed archive",
+      "to": "Friedberg Genizah Project and Ktiv - the image union layer"
+    },
+    {
+      "from": "IDP - the digital reunification of a dispersed archive",
+      "to": "MOC - Digitisation and text recognition"
+    },
+    {
+      "from": "IDP - the digital reunification of a dispersed archive",
+      "to": "MOC - Silk Road archives"
+    },
+    {
+      "from": "IDP - the digital reunification of a dispersed archive",
+      "to": "MiDRASH - the machine transcription of the Geniza"
+    },
+    {
+      "from": "IDP - the digital reunification of a dispersed archive",
+      "to": "Silk Road documents - one site's archive in twelve institutions"
+    },
+    {
+      "from": "IDP - the digital reunification of a dispersed archive",
+      "to": "The Silk Road layer 3 is a national editorial programme"
+    },
+    {
       "from": "IISG and NEHA - Amsterdam",
       "to": "A scheme for extending the cooperative pooling census"
     },
@@ -10262,6 +10503,22 @@
       "to": "Stadtarchiv Leipzig and the fairs"
     },
     {
+      "from": "Institute of Oriental Manuscripts - St Petersburg",
+      "to": "MOC - Silk Road archives"
+    },
+    {
+      "from": "Institute of Oriental Manuscripts - St Petersburg",
+      "to": "Silk Road documents - one site's archive in twelve institutions"
+    },
+    {
+      "from": "Institute of Oriental Manuscripts - St Petersburg",
+      "to": "Sogdian commercial documents - thin but not empty"
+    },
+    {
+      "from": "Institute of Oriental Manuscripts - St Petersburg",
+      "to": "The Silk Road layer 3 is a national editorial programme"
+    },
+    {
       "from": "Institutions substitute state-verification for outcome-inference as ruin exposure rises",
       "to": "Absorbing barrier"
     },
@@ -10344,6 +10601,26 @@
     {
       "from": "Insurance is a split-off from the sea loan not a coordinate mechanism",
       "to": "loss_mitigation_forms"
+    },
+    {
+      "from": "Invisible East - an open corpus for the eastern Islamicate documents",
+      "to": "DHARMA - an ERC Synergy project that produced a TEI corpus of inscriptions"
+    },
+    {
+      "from": "Invisible East - an open corpus for the eastern Islamicate documents",
+      "to": "MOC - ERC Synergy Grant"
+    },
+    {
+      "from": "Invisible East - an open corpus for the eastern Islamicate documents",
+      "to": "MOC - Silk Road archives"
+    },
+    {
+      "from": "Invisible East - an open corpus for the eastern Islamicate documents",
+      "to": "Sogdian commercial documents - thin but not empty"
+    },
+    {
+      "from": "Invisible East - an open corpus for the eastern Islamicate documents",
+      "to": "The Khalili Bactrian documents - a private collection as the archive"
     },
     {
       "from": "Islamic doctrine refuses risk-commodification at step one",
@@ -12711,6 +12988,10 @@
     },
     {
       "from": "MOC - European archives and digital collections",
+      "to": "MOC - Silk Road archives"
+    },
+    {
+      "from": "MOC - European archives and digital collections",
       "to": "MOC - South Asian archives"
     },
     {
@@ -14754,6 +15035,114 @@
       "to": "isqa"
     },
     {
+      "from": "MOC - Silk Road archives",
+      "to": "Berlin - the Turfan collection"
+    },
+    {
+      "from": "MOC - Silk Road archives",
+      "to": "British Library - the Stein collection"
+    },
+    {
+      "from": "MOC - Silk Road archives",
+      "to": "DHARMA - an ERC Synergy project that produced a TEI corpus of inscriptions"
+    },
+    {
+      "from": "MOC - Silk Road archives",
+      "to": "Dunhuang she associations - bylaws for a funeral fund"
+    },
+    {
+      "from": "MOC - Silk Road archives",
+      "to": "Handoff - the non-European archive survey"
+    },
+    {
+      "from": "MOC - Silk Road archives",
+      "to": "IDP - the digital reunification of a dispersed archive"
+    },
+    {
+      "from": "MOC - Silk Road archives",
+      "to": "Institute of Oriental Manuscripts - St Petersburg"
+    },
+    {
+      "from": "MOC - Silk Road archives",
+      "to": "Invisible East - an open corpus for the eastern Islamicate documents"
+    },
+    {
+      "from": "MOC - Silk Road archives",
+      "to": "MOC - Acquisitions and the antiquarian trade"
+    },
+    {
+      "from": "MOC - Silk Road archives",
+      "to": "MOC - Chinese archives"
+    },
+    {
+      "from": "MOC - Silk Road archives",
+      "to": "MOC - Digitisation and text recognition"
+    },
+    {
+      "from": "MOC - Silk Road archives",
+      "to": "MOC - ERC Synergy Grant"
+    },
+    {
+      "from": "MOC - Silk Road archives",
+      "to": "MOC - European archives and digital collections"
+    },
+    {
+      "from": "MOC - Silk Road archives",
+      "to": "MOC - Geniza archives"
+    },
+    {
+      "from": "MOC - Silk Road archives",
+      "to": "MOC - Japanese archives"
+    },
+    {
+      "from": "MOC - Silk Road archives",
+      "to": "MOC - Ottoman archives"
+    },
+    {
+      "from": "MOC - Silk Road archives",
+      "to": "MOC - South Asian archives"
+    },
+    {
+      "from": "MOC - Silk Road archives",
+      "to": "National Library of China and the Dunhuang Academy"
+    },
+    {
+      "from": "MOC - Silk Road archives",
+      "to": "Old Uyghur contracts - the documentary layer under the ortoq"
+    },
+    {
+      "from": "MOC - Silk Road archives",
+      "to": "Ryukoku University and the Otani collection"
+    },
+    {
+      "from": "MOC - Silk Road archives",
+      "to": "Silk Road documents - one site's archive in twelve institutions"
+    },
+    {
+      "from": "MOC - Silk Road archives",
+      "to": "Sogdian commercial documents - thin but not empty"
+    },
+    {
+      "from": "MOC - Silk Road archives",
+      "to": "The Khalili Bactrian documents - a private collection as the archive"
+    },
+    {
+      "from": "MOC - Silk Road archives",
+      "to": "The Otani dispersal - Kyoto, Tokyo, Lushun, Seoul"
+    },
+    {
+      "from": "MOC - Silk Road archives",
+      "to": "The Silk Road layer 3 is a national editorial programme"
+    },
+    {
+      "from": "MOC - Silk Road archives",
+      "to": "The Silk Road record is documents and the census codes chronicles"
+    },
+    {
+      "from": "MOC - Silk Road archives",
+      "to": "Toyo Bunko and the Digital Silk Road - the expedition library not the finds"
+    },
+    {
       "from": "MOC - South Asian archives",
       "to": "ASI epigraphy and the published corpora"
     },
@@ -15430,6 +15819,22 @@
       "to": "MOC - Chinese archives"
     },
     {
+      "from": "National Library of China and the Dunhuang Academy",
+      "to": "Dunhuang she associations - bylaws for a funeral fund"
+    },
+    {
+      "from": "National Library of China and the Dunhuang Academy",
+      "to": "MOC - Chinese archives"
+    },
+    {
+      "from": "National Library of China and the Dunhuang Academy",
+      "to": "MOC - Silk Road archives"
+    },
+    {
+      "from": "National Library of China and the Dunhuang Academy",
+      "to": "The Silk Road layer 3 is a national editorial programme"
+    },
+    {
       "from": "National Library of Russia - the Firkovich and Antonin collections",
       "to": "Cairo Geniza - the deposit and its survival rule"
     },
@@ -15752,6 +16157,30 @@
     {
       "from": "Nothing in the ergodic theorem fails in geometric Brownian motion",
       "to": "Time-average optimization is a survivorship property not an intention"
+    },
+    {
+      "from": "Old Uyghur contracts - the documentary layer under the ortoq",
+      "to": "Berlin - the Turfan collection"
+    },
+    {
+      "from": "Old Uyghur contracts - the documentary layer under the ortoq",
+      "to": "MOC - Silk Road archives"
+    },
+    {
+      "from": "Old Uyghur contracts - the documentary layer under the ortoq",
+      "to": "Ryukoku University and the Otani collection"
+    },
+    {
+      "from": "Old Uyghur contracts - the documentary layer under the ortoq",
+      "to": "The Silk Road layer 3 is a national editorial programme"
+    },
+    {
+      "from": "Old Uyghur contracts - the documentary layer under the ortoq",
+      "to": "The Silk Road record is documents and the census codes chronicles"
+    },
+    {
+      "from": "Old Uyghur contracts - the documentary layer under the ortoq",
+      "to": "The ortoq is the discriminating instrument"
     },
     {
       "from": "Olivares's junta coded the asiento as a privileged company",
@@ -16986,6 +17415,22 @@
       "to": "Time-average"
     },
     {
+      "from": "Ryukoku University and the Otani collection",
+      "to": "IDP - the digital reunification of a dispersed archive"
+    },
+    {
+      "from": "Ryukoku University and the Otani collection",
+      "to": "MOC - Japanese archives"
+    },
+    {
+      "from": "Ryukoku University and the Otani collection",
+      "to": "MOC - Silk Road archives"
+    },
+    {
+      "from": "Ryukoku University and the Otani collection",
+      "to": "The Otani dispersal - Kyoto, Tokyo, Lushun, Seoul"
+    },
+    {
       "from": "SIAS SIUSA and SAN - the Italian access layers",
       "to": "Archivio Storico del Banco di Napoli"
     },
@@ -17222,6 +17667,42 @@
       "to": "Osaka Museum of History - the Konoike family documents"
     },
     {
+      "from": "Silk Road documents - one site's archive in twelve institutions",
+      "to": "Berlin - the Turfan collection"
+    },
+    {
+      "from": "Silk Road documents - one site's archive in twelve institutions",
+      "to": "British Library - the Stein collection"
+    },
+    {
+      "from": "Silk Road documents - one site's archive in twelve institutions",
+      "to": "Cairo Geniza - the deposit and its survival rule"
+    },
+    {
+      "from": "Silk Road documents - one site's archive in twelve institutions",
+      "to": "IDP - the digital reunification of a dispersed archive"
+    },
+    {
+      "from": "Silk Road documents - one site's archive in twelve institutions",
+      "to": "Institute of Oriental Manuscripts - St Petersburg"
+    },
+    {
+      "from": "Silk Road documents - one site's archive in twelve institutions",
+      "to": "MOC - Acquisitions and the antiquarian trade"
+    },
+    {
+      "from": "Silk Road documents - one site's archive in twelve institutions",
+      "to": "MOC - Silk Road archives"
+    },
+    {
+      "from": "Silk Road documents - one site's archive in twelve institutions",
+      "to": "National Library of China and the Dunhuang Academy"
+    },
+    {
+      "from": "Silk Road documents - one site's archive in twelve institutions",
+      "to": "The Otani dispersal - Kyoto, Tokyo, Lushun, Seoul"
+    },
+    {
       "from": "Simonsohn 2016 on East Syrian civil law and the Sasanian substrate",
       "to": "MOC - ERC Synergy Grant"
     },
@@ -17368,6 +17849,26 @@
     {
       "from": "Skin in the game is asymmetric in the mudaraba",
       "to": "organizational_forms"
+    },
+    {
+      "from": "Sogdian commercial documents - thin but not empty",
+      "to": "Institute of Oriental Manuscripts - St Petersburg"
+    },
+    {
+      "from": "Sogdian commercial documents - thin but not empty",
+      "to": "Invisible East - an open corpus for the eastern Islamicate documents"
+    },
+    {
+      "from": "Sogdian commercial documents - thin but not empty",
+      "to": "MOC - Silk Road archives"
+    },
+    {
+      "from": "Sogdian commercial documents - thin but not empty",
+      "to": "The ortoq is the discriminating instrument"
+    },
+    {
+      "from": "Sogdian commercial documents - thin but not empty",
+      "to": "The qirad's antecedents are Sasanian not Sogdian"
     },
     {
       "from": "Sort the persistence objections by what they cost the referee",
@@ -18470,6 +18971,22 @@
       "to": "Stiftung Hanseatisches Wirtschaftsarchiv - Hamburg"
     },
     {
+      "from": "The Khalili Bactrian documents - a private collection as the archive",
+      "to": "Count degrees of freedom not cells"
+    },
+    {
+      "from": "The Khalili Bactrian documents - a private collection as the archive",
+      "to": "Invisible East - an open corpus for the eastern Islamicate documents"
+    },
+    {
+      "from": "The Khalili Bactrian documents - a private collection as the archive",
+      "to": "MOC - Acquisitions and the antiquarian trade"
+    },
+    {
+      "from": "The Khalili Bactrian documents - a private collection as the archive",
+      "to": "MOC - Silk Road archives"
+    },
+    {
       "from": "The Kux carries transferability with unlimited liability",
       "to": "Count degrees of freedom not cells"
     },
@@ -18624,6 +19141,22 @@
     {
       "from": "The Nordic thinness - what is actually missing",
       "to": "The deficit reading of absence is the scalar ranking in evidentiary form"
+    },
+    {
+      "from": "The Otani dispersal - Kyoto, Tokyo, Lushun, Seoul",
+      "to": "Japanese archives - custody follows the house"
+    },
+    {
+      "from": "The Otani dispersal - Kyoto, Tokyo, Lushun, Seoul",
+      "to": "MOC - Silk Road archives"
+    },
+    {
+      "from": "The Otani dispersal - Kyoto, Tokyo, Lushun, Seoul",
+      "to": "Ryukoku University and the Otani collection"
+    },
+    {
+      "from": "The Otani dispersal - Kyoto, Tokyo, Lushun, Seoul",
+      "to": "Silk Road documents - one site's archive in twelve institutions"
     },
     {
       "from": "The Ottoman documents at Dubrovnik",
@@ -18804,6 +19337,66 @@
     {
       "from": "The Roman universitas makes the JSC case parallelism not convergence",
       "to": "Transmission versus independent recurrence is the load-bearing test"
+    },
+    {
+      "from": "The Silk Road layer 3 is a national editorial programme",
+      "to": "IDP - the digital reunification of a dispersed archive"
+    },
+    {
+      "from": "The Silk Road layer 3 is a national editorial programme",
+      "to": "Invisible East - an open corpus for the eastern Islamicate documents"
+    },
+    {
+      "from": "The Silk Road layer 3 is a national editorial programme",
+      "to": "Jichitaishi - the municipal histories as Japan's print layer 3"
+    },
+    {
+      "from": "The Silk Road layer 3 is a national editorial programme",
+      "to": "MOC - Silk Road archives"
+    },
+    {
+      "from": "The Silk Road layer 3 is a national editorial programme",
+      "to": "MiDRASH - the machine transcription of the Geniza"
+    },
+    {
+      "from": "The Silk Road layer 3 is a national editorial programme",
+      "to": "Old Uyghur contracts - the documentary layer under the ortoq"
+    },
+    {
+      "from": "The Silk Road layer 3 is a national editorial programme",
+      "to": "Zhang Chuanxi 1995 - the contract compilation behind the census's Chinese rows"
+    },
+    {
+      "from": "The Silk Road record is documents and the census codes chronicles",
+      "to": "Dunhuang she associations - bylaws for a funeral fund"
+    },
+    {
+      "from": "The Silk Road record is documents and the census codes chronicles",
+      "to": "Institute of Oriental Manuscripts - St Petersburg"
+    },
+    {
+      "from": "The Silk Road record is documents and the census codes chronicles",
+      "to": "MOC - Silk Road archives"
+    },
+    {
+      "from": "The Silk Road record is documents and the census codes chronicles",
+      "to": "Old Uyghur contracts - the documentary layer under the ortoq"
+    },
+    {
+      "from": "The Silk Road record is documents and the census codes chronicles",
+      "to": "Sogdian commercial documents - thin but not empty"
+    },
+    {
+      "from": "The Silk Road record is documents and the census codes chronicles",
+      "to": "The Khalili Bactrian documents - a private collection as the archive"
+    },
+    {
+      "from": "The Silk Road record is documents and the census codes chronicles",
+      "to": "The ortoq is the discriminating instrument"
+    },
+    {
+      "from": "The Silk Road record is documents and the census codes chronicles",
+      "to": "The qirad's antecedents are Sasanian not Sogdian"
     },
     {
       "from": "The Sound Toll Registers",
@@ -20547,6 +21140,14 @@
     },
     {
       "from": "The ortoq is the discriminating instrument",
+      "to": "Old Uyghur contracts - the documentary layer under the ortoq"
+    },
+    {
+      "from": "The ortoq is the discriminating instrument",
+      "to": "The Silk Road record is documents and the census codes chronicles"
+    },
+    {
+      "from": "The ortoq is the discriminating instrument",
       "to": "The qirad's antecedents are Sasanian not Sogdian"
     },
     {
@@ -21612,6 +22213,26 @@
     {
       "from": "Tokyo Metropolitan Archives - the Edo town office and the shichibu tsumikin",
       "to": "The Dubrovnik quarantine of 1377"
+    },
+    {
+      "from": "Toyo Bunko and the Digital Silk Road - the expedition library not the finds",
+      "to": "British Library - the Stein collection"
+    },
+    {
+      "from": "Toyo Bunko and the Digital Silk Road - the expedition library not the finds",
+      "to": "MOC - Japanese archives"
+    },
+    {
+      "from": "Toyo Bunko and the Digital Silk Road - the expedition library not the finds",
+      "to": "MOC - Silk Road archives"
+    },
+    {
+      "from": "Toyo Bunko and the Digital Silk Road - the expedition library not the finds",
+      "to": "Ryukoku University and the Otani collection"
+    },
+    {
+      "from": "Toyo Bunko and the Digital Silk Road - the expedition library not the finds",
+      "to": "Silk Road documents - one site's archive in twelve institutions"
     },
     {
       "from": "Toyonaka City - the Chokoji-mura documents",
