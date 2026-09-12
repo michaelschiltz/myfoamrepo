@@ -34,6 +34,7 @@ Whether that can be exploited depends on whether the surviving population of Ams
 - [[The creditor limb of entity shielding has no witness]]
 - [[Entity shielding and owner shielding protect different trajectories]]
 - [[Persistence samples are conditioned on non-absorption]]
+- [[The record of non-survivors survives where failure was administered]]
 - [[Hof van Holland - the civil litigation record]]
 
 ## Source

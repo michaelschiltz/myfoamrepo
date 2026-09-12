@@ -437,6 +437,7 @@ digraph vault {
   "The qirad envelops the sea loan" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "The qirad's antecedents are Sasanian not Sogdian" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "The real cut is shielded-and-pooled versus unshielded" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
+  "The record of non-survivors survives where failure was administered" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "The representative agent is the ergodicity assumption in costume" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "The sea loan is a contingent claim not a loan" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "The selective claim is falsifiable where the prescriptive claim is not" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
@@ -1392,6 +1393,7 @@ digraph vault {
   "Desolate Boedelkamer - Amsterdam" -> "Stadsarchief Amsterdam - the notarial archive";
   "Desolate Boedelkamer - Amsterdam" -> "The coding commons must record stated rationale not only component presence";
   "Desolate Boedelkamer - Amsterdam" -> "The creditor limb of entity shielding has no witness";
+  "Desolate Boedelkamer - Amsterdam" -> "The record of non-survivors survives where failure was administered";
   "Deutsches Zeitungsportal - the German full-text layer" -> "BelgicaPress and KBR - the thin full-text layer";
   "Deutsches Zeitungsportal - the German full-text layer" -> "Delpher - the full-text layer";
   "Deutsches Zeitungsportal - the German full-text layer" -> "Gallica and RetroNews - the French full-text layer";
@@ -1841,6 +1843,7 @@ digraph vault {
   "Handoff - the non-European archive survey" -> "MOC - Silk Road archives";
   "Handoff - the non-European archive survey" -> "MOC - South Asian archives";
   "Handoff - the non-European archive survey" -> "The Ottoman documents at Dubrovnik";
+  "Handoff - the non-European archive survey" -> "The record of non-survivors survives where failure was administered";
   "Hanse documents on the Memory of the World register" -> "Archiv der Hansestadt Lubeck";
   "Hanse documents on the Memory of the World register" -> "Historisches Archiv der Stadt Koln and the 2009 collapse";
   "Hanse documents on the Memory of the World register" -> "MOC - German archives";
@@ -1976,6 +1979,7 @@ digraph vault {
   "Insolvente Boedelskamer - Antwerp" -> "Persistence samples are conditioned on non-absorption";
   "Insolvente Boedelskamer - Antwerp" -> "The coding commons must record stated rationale not only component presence";
   "Insolvente Boedelskamer - Antwerp" -> "The creditor limb of entity shielding has no witness";
+  "Insolvente Boedelskamer - Antwerp" -> "The record of non-survivors survives where failure was administered";
   "Institut fur Stadtgeschichte Frankfurt" -> "A scheme for extending the cooperative pooling census";
   "Institut fur Stadtgeschichte Frankfurt" -> "German archives online - the federal access layers";
   "Institut fur Stadtgeschichte Frankfurt" -> "MOC - German archives";
@@ -2907,6 +2911,7 @@ digraph vault {
   "MOC - Historiography and method" -> "The notarial security clause is boilerplate and cannot carry a typology";
   "MOC - Historiography and method" -> "The ortoq is the discriminating instrument";
   "MOC - Historiography and method" -> "The qirad's antecedents are Sasanian not Sogdian";
+  "MOC - Historiography and method" -> "The record of non-survivors survives where failure was administered";
   "MOC - Historiography and method" -> "The representative agent is the ergodicity assumption in costume";
   "MOC - Historiography and method" -> "The split is over whether the explanandum is a state or a trajectory";
   "MOC - Historiography and method" -> "The theory predicts recurrence not independent origins";
@@ -4683,6 +4688,20 @@ digraph vault {
   "The real cut is shielded-and-pooled versus unshielded" -> "The ensemble average is the local descriptor of a barrier-shielded agent";
   "The real cut is shielded-and-pooled versus unshielded" -> "The ie as entity-shielding";
   "The real cut is shielded-and-pooled versus unshielded" -> "Time-average optimization is a survivorship property not an intention";
+  "The record of non-survivors survives where failure was administered" -> "Absorption without ergodicity economics is just ruin theory";
+  "The record of non-survivors survives where failure was administered" -> "Cairo Geniza - the deposit and its survival rule";
+  "The record of non-survivors survives where failure was administered" -> "Chettiar banking - the enquiry is public and the account books are not";
+  "The record of non-survivors survives where failure was administered" -> "Desolate Boedelkamer - Amsterdam";
+  "The record of non-survivors survives where failure was administered" -> "Handoff - the non-European archive survey";
+  "The record of non-survivors survives where failure was administered" -> "Insolvente Boedelskamer - Antwerp";
+  "The record of non-survivors survives where failure was administered" -> "Japanese archives - custody follows the house";
+  "The record of non-survivors survives where failure was administered" -> "Leiden University Library - the Kong Koan archive of Batavia";
+  "The record of non-survivors survives where failure was administered" -> "MOC - Entity-shielding and corporate forms";
+  "The record of non-survivors survives where failure was administered" -> "MOC - Historiography and method";
+  "The record of non-survivors survives where failure was administered" -> "Orta sandigi records - the guild and Janissary chests";
+  "The record of non-survivors survives where failure was administered" -> "Persistence samples are conditioned on non-absorption";
+  "The record of non-survivors survives where failure was administered" -> "Silk Road documents - one site's archive in twelve institutions";
+  "The record of non-survivors survives where failure was administered" -> "The creditor limb of entity shielding has no witness";
   "The representative agent is the ergodicity assumption in costume" -> "An absorbing barrier breaks ergodicity by construction";
   "The representative agent is the ergodicity assumption in costume" -> "Arrow-Debreu dissolves time rather than neglecting it";
   "The representative agent is the ergodicity assumption in costume" -> "Do not claim history-dependence as the novelty";

@@ -43,6 +43,7 @@ The nomination describes it as a **crucial complement to the VOC archives**, and
 - [[Desolate Boedelkamer - Amsterdam]]
 - [[The creditor limb of entity shielding has no witness]]
 - [[Persistence samples are conditioned on non-absorption]]
+- [[The record of non-survivors survives where failure was administered]]
 - [[MOC - Entity-shielding and corporate forms]]
 
 ## Source

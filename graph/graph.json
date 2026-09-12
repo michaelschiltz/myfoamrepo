@@ -176,7 +176,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Absorption without ergodicity economics is just ruin theory",
-      "value": 36,
+      "value": 37,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -869,7 +869,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Cairo Geniza - the deposit and its survival rule",
-      "value": 22,
+      "value": 23,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -923,7 +923,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Chettiar banking - the enquiry is public and the account books are not",
-      "value": 11,
+      "value": 13,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1067,7 +1067,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Desolate Boedelkamer - Amsterdam",
-      "value": 20,
+      "value": 23,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1562,7 +1562,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Handoff - the non-European archive survey",
-      "value": 50,
+      "value": 52,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1733,7 +1733,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Insolvente Boedelskamer - Antwerp",
-      "value": 25,
+      "value": 28,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1859,7 +1859,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Japanese archives - custody follows the house",
-      "value": 35,
+      "value": 36,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -2048,7 +2048,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Leiden University Library - the Kong Koan archive of Batavia",
-      "value": 11,
+      "value": 12,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -2435,7 +2435,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Orta sandigi records - the guild and Janissary chests",
-      "value": 13,
+      "value": 15,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -2534,7 +2534,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Persistence samples are conditioned on non-absorption",
-      "value": 59,
+      "value": 61,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -2903,7 +2903,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Silk Road documents - one site's archive in twelve institutions",
-      "value": 17,
+      "value": 18,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -3596,7 +3596,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The creditor limb of entity shielding has no witness",
-      "value": 28,
+      "value": 30,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -3920,6 +3920,15 @@
       "type": "permanent",
       "group": "seed",
       "label": "The real cut is shielded-and-pooled versus unshielded",
+      "value": 25,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "The record of non-survivors survives where failure was administered",
+      "type": "permanent",
+      "group": "seed",
+      "label": "The record of non-survivors survives where failure was administered",
       "value": 25,
       "color": "#e6ab02",
       "shape": "dot"
@@ -4451,7 +4460,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Entity-shielding and corporate forms",
-      "value": 119,
+      "value": 120,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -4514,7 +4523,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Historiography and method",
-      "value": 189,
+      "value": 191,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -8147,6 +8156,10 @@
       "to": "The creditor limb of entity shielding has no witness"
     },
     {
+      "from": "Desolate Boedelkamer - Amsterdam",
+      "to": "The record of non-survivors survives where failure was administered"
+    },
+    {
       "from": "Deutsches Zeitungsportal - the German full-text layer",
       "to": "BelgicaPress and KBR - the thin full-text layer"
     },
@@ -9943,6 +9956,10 @@
       "to": "The Ottoman documents at Dubrovnik"
     },
     {
+      "from": "Handoff - the non-European archive survey",
+      "to": "The record of non-survivors survives where failure was administered"
+    },
+    {
       "from": "Hanse documents on the Memory of the World register",
       "to": "Archiv der Hansestadt Lubeck"
     },
@@ -10481,6 +10498,10 @@
     {
       "from": "Insolvente Boedelskamer - Antwerp",
       "to": "The creditor limb of entity shielding has no witness"
+    },
+    {
+      "from": "Insolvente Boedelskamer - Antwerp",
+      "to": "The record of non-survivors survives where failure was administered"
     },
     {
       "from": "Institut fur Stadtgeschichte Frankfurt",
@@ -14205,6 +14226,10 @@
     {
       "from": "MOC - Historiography and method",
       "to": "The qirad's antecedents are Sasanian not Sogdian"
+    },
+    {
+      "from": "MOC - Historiography and method",
+      "to": "The record of non-survivors survives where failure was administered"
     },
     {
       "from": "MOC - Historiography and method",
@@ -21309,6 +21334,62 @@
     {
       "from": "The real cut is shielded-and-pooled versus unshielded",
       "to": "Time-average optimization is a survivorship property not an intention"
+    },
+    {
+      "from": "The record of non-survivors survives where failure was administered",
+      "to": "Absorption without ergodicity economics is just ruin theory"
+    },
+    {
+      "from": "The record of non-survivors survives where failure was administered",
+      "to": "Cairo Geniza - the deposit and its survival rule"
+    },
+    {
+      "from": "The record of non-survivors survives where failure was administered",
+      "to": "Chettiar banking - the enquiry is public and the account books are not"
+    },
+    {
+      "from": "The record of non-survivors survives where failure was administered",
+      "to": "Desolate Boedelkamer - Amsterdam"
+    },
+    {
+      "from": "The record of non-survivors survives where failure was administered",
+      "to": "Handoff - the non-European archive survey"
+    },
+    {
+      "from": "The record of non-survivors survives where failure was administered",
+      "to": "Insolvente Boedelskamer - Antwerp"
+    },
+    {
+      "from": "The record of non-survivors survives where failure was administered",
+      "to": "Japanese archives - custody follows the house"
+    },
+    {
+      "from": "The record of non-survivors survives where failure was administered",
+      "to": "Leiden University Library - the Kong Koan archive of Batavia"
+    },
+    {
+      "from": "The record of non-survivors survives where failure was administered",
+      "to": "MOC - Entity-shielding and corporate forms"
+    },
+    {
+      "from": "The record of non-survivors survives where failure was administered",
+      "to": "MOC - Historiography and method"
+    },
+    {
+      "from": "The record of non-survivors survives where failure was administered",
+      "to": "Orta sandigi records - the guild and Janissary chests"
+    },
+    {
+      "from": "The record of non-survivors survives where failure was administered",
+      "to": "Persistence samples are conditioned on non-absorption"
+    },
+    {
+      "from": "The record of non-survivors survives where failure was administered",
+      "to": "Silk Road documents - one site's archive in twelve institutions"
+    },
+    {
+      "from": "The record of non-survivors survives where failure was administered",
+      "to": "The creditor limb of entity shielding has no witness"
     },
     {
       "from": "The representative agent is the ergodicity assumption in costume",

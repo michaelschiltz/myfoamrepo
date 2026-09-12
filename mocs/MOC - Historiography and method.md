@@ -19,6 +19,7 @@ Thematic hub for the project's methodological guardrails: teleology and its inve
 - [[Whiggish history of finance names the ascent narrative]]
 - [[The ascent narrative is the Jensen error as historiography]]
 - [[Discipline the Whig epithet by pinning it to teleology and survivorship]]
+- [[The record of non-survivors survives where failure was administered]]
 - [[Guard against reverse-teleology]]
 - [[Kuran's brake is a refusal of immortal entities]]
 - [[Selection frequency trades against organizational memory]]

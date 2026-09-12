@@ -36,6 +36,8 @@ For each country: establish **the structural fact** — what the country's archi
 
 **7. Failure is where the census is emptiest.** [[Insolvente Boedelskamer - Antwerp]] on the loss side, the Brandenburg African Company on the entity side. Every coded entity form is a survivor.
 
+**Qualified, 12 September 2026**: the class is not uniformly dark. [[The record of non-survivors survives where failure was administered]] — where creditors, heirs or a confiscating state had a claim, failure produced a better record than success. **Ask of every region: did this jurisdiction administer failure, and where is that archive?**
+
 ## What is already committed for the Ottoman pass
 
 - The grant's travel line names **Istanbul and Ankara** (Yaycıoğlu and postdocs) and **Cairo / Cambridge** for the Geniza.
