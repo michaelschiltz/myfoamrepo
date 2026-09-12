@@ -1067,7 +1067,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Desolate Boedelkamer - Amsterdam",
-      "value": 23,
+      "value": 24,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1549,6 +1549,15 @@
       "shape": "dot"
     },
     {
+      "id": "Gurema - the insolvent estate distributed among creditors",
+      "type": "reference",
+      "group": "reference",
+      "label": "Gurema - the insolvent estate distributed among creditors",
+      "value": 15,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
       "id": "HCA - the High Court of Admiralty",
       "type": "reference",
       "group": "reference",
@@ -1688,7 +1697,7 @@
       "type": "reference",
       "group": "reference",
       "label": "ISAM Library Archive - the court register image collection",
-      "value": 19,
+      "value": 21,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1733,7 +1742,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Insolvente Boedelskamer - Antwerp",
-      "value": 28,
+      "value": 29,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1823,7 +1832,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Istanbul Muftulugu Seriyye Sicilleri Arsivi",
-      "value": 23,
+      "value": 24,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -2170,6 +2179,15 @@
       "shape": "dot"
     },
     {
+      "id": "Muhallefat and musadere - confiscation as an archive",
+      "type": "reference",
+      "group": "reference",
+      "label": "Muhallefat and musadere - confiscation as an archive",
+      "value": 12,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
       "id": "Multiplicative amplification is indifferent to what it amplifies",
       "type": "permanent",
       "group": "seed",
@@ -2363,7 +2381,7 @@
       "type": "permanent",
       "group": "stub",
       "label": "Never let the units slide from instruments to populations",
-      "value": 55,
+      "value": 57,
       "color": "#666666",
       "shape": "dot"
     },
@@ -2435,7 +2453,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Orta sandigi records - the guild and Janissary chests",
-      "value": 15,
+      "value": 17,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -2462,7 +2480,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Osmanli Arsivi - Istanbul",
-      "value": 27,
+      "value": 28,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -3196,6 +3214,15 @@
       "shape": "dot"
     },
     {
+      "id": "Tereke defterleri - the Ottoman estate inventory series",
+      "type": "reference",
+      "group": "reference",
+      "label": "Tereke defterleri - the Ottoman estate inventory series",
+      "value": 15,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
       "id": "Terminal wealth is permutation-invariant but survival is not",
       "type": "permanent",
       "group": "seed",
@@ -3218,7 +3245,7 @@
       "type": "reference",
       "group": "reference",
       "label": "The Anatolian court registers - museum to National Library to State Archives",
-      "value": 17,
+      "value": 18,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -3551,7 +3578,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The coding commons must record stated rationale not only component presence",
-      "value": 52,
+      "value": 53,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -3596,7 +3623,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The creditor limb of entity shielding has no witness",
-      "value": 30,
+      "value": 31,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -3929,7 +3956,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The record of non-survivors survives where failure was administered",
-      "value": 25,
+      "value": 34,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -4568,7 +4595,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Ottoman archives",
-      "value": 79,
+      "value": 86,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -9864,6 +9891,38 @@
       "to": "The Bazacle records - a custody problem"
     },
     {
+      "from": "Gurema - the insolvent estate distributed among creditors",
+      "to": "Desolate Boedelkamer - Amsterdam"
+    },
+    {
+      "from": "Gurema - the insolvent estate distributed among creditors",
+      "to": "Insolvente Boedelskamer - Antwerp"
+    },
+    {
+      "from": "Gurema - the insolvent estate distributed among creditors",
+      "to": "MOC - Ottoman archives"
+    },
+    {
+      "from": "Gurema - the insolvent estate distributed among creditors",
+      "to": "Muhallefat and musadere - confiscation as an archive"
+    },
+    {
+      "from": "Gurema - the insolvent estate distributed among creditors",
+      "to": "Tereke defterleri - the Ottoman estate inventory series"
+    },
+    {
+      "from": "Gurema - the insolvent estate distributed among creditors",
+      "to": "The coding commons must record stated rationale not only component presence"
+    },
+    {
+      "from": "Gurema - the insolvent estate distributed among creditors",
+      "to": "The creditor limb of entity shielding has no witness"
+    },
+    {
+      "from": "Gurema - the insolvent estate distributed among creditors",
+      "to": "The record of non-survivors survives where failure was administered"
+    },
+    {
       "from": "HCA - the High Court of Admiralty",
       "to": "Averijgrossen - the general average adjudications"
     },
@@ -14681,6 +14740,10 @@
     },
     {
       "from": "MOC - Ottoman archives",
+      "to": "Gurema - the insolvent estate distributed among creditors"
+    },
+    {
+      "from": "MOC - Ottoman archives",
       "to": "Handoff - the non-European archive survey"
     },
     {
@@ -14733,6 +14796,10 @@
     },
     {
       "from": "MOC - Ottoman archives",
+      "to": "Muhallefat and musadere - confiscation as an archive"
+    },
+    {
+      "from": "MOC - Ottoman archives",
       "to": "National Library Sofia - the Oriental Department and the 1931 sale"
     },
     {
@@ -14749,6 +14816,10 @@
     },
     {
       "from": "MOC - Ottoman archives",
+      "to": "Tereke defterleri - the Ottoman estate inventory series"
+    },
+    {
+      "from": "MOC - Ottoman archives",
       "to": "The Anatolian court registers - museum to National Library to State Archives"
     },
     {
@@ -14758,6 +14829,10 @@
     {
       "from": "MOC - Ottoman archives",
       "to": "The Ottoman documents at Dubrovnik"
+    },
+    {
+      "from": "MOC - Ottoman archives",
+      "to": "The record of non-survivors survives where failure was administered"
     },
     {
       "from": "MOC - Ottoman archives",
@@ -15526,6 +15601,26 @@
     {
       "from": "Modi script and the forty million documents",
       "to": "Open-source HTR stack - eScriptorium Kraken Loghi"
+    },
+    {
+      "from": "Muhallefat and musadere - confiscation as an archive",
+      "to": "Gurema - the insolvent estate distributed among creditors"
+    },
+    {
+      "from": "Muhallefat and musadere - confiscation as an archive",
+      "to": "MOC - Ottoman archives"
+    },
+    {
+      "from": "Muhallefat and musadere - confiscation as an archive",
+      "to": "Orta sandigi records - the guild and Janissary chests"
+    },
+    {
+      "from": "Muhallefat and musadere - confiscation as an archive",
+      "to": "Osmanli Arsivi - Istanbul"
+    },
+    {
+      "from": "Muhallefat and musadere - confiscation as an archive",
+      "to": "The record of non-survivors survives where failure was administered"
     },
     {
       "from": "Multiplicative amplification is indifferent to what it amplifies",
@@ -18660,6 +18755,34 @@
       "to": "Mitsui Bunko - the Mitsui house archive"
     },
     {
+      "from": "Tereke defterleri - the Ottoman estate inventory series",
+      "to": "Gurema - the insolvent estate distributed among creditors"
+    },
+    {
+      "from": "Tereke defterleri - the Ottoman estate inventory series",
+      "to": "ISAM Library Archive - the court register image collection"
+    },
+    {
+      "from": "Tereke defterleri - the Ottoman estate inventory series",
+      "to": "Istanbul Muftulugu Seriyye Sicilleri Arsivi"
+    },
+    {
+      "from": "Tereke defterleri - the Ottoman estate inventory series",
+      "to": "MOC - Ottoman archives"
+    },
+    {
+      "from": "Tereke defterleri - the Ottoman estate inventory series",
+      "to": "Never let the units slide from instruments to populations"
+    },
+    {
+      "from": "Tereke defterleri - the Ottoman estate inventory series",
+      "to": "The Anatolian court registers - museum to National Library to State Archives"
+    },
+    {
+      "from": "Tereke defterleri - the Ottoman estate inventory series",
+      "to": "The record of non-survivors survives where failure was administered"
+    },
+    {
       "from": "Terminal wealth is permutation-invariant but survival is not",
       "to": "Absorbing barrier"
     },
@@ -21353,6 +21476,10 @@
     },
     {
       "from": "The record of non-survivors survives where failure was administered",
+      "to": "Gurema - the insolvent estate distributed among creditors"
+    },
+    {
+      "from": "The record of non-survivors survives where failure was administered",
       "to": "Handoff - the non-European archive survey"
     },
     {
@@ -21377,6 +21504,10 @@
     },
     {
       "from": "The record of non-survivors survives where failure was administered",
+      "to": "Muhallefat and musadere - confiscation as an archive"
+    },
+    {
+      "from": "The record of non-survivors survives where failure was administered",
       "to": "Orta sandigi records - the guild and Janissary chests"
     },
     {
@@ -21386,6 +21517,10 @@
     {
       "from": "The record of non-survivors survives where failure was administered",
       "to": "Silk Road documents - one site's archive in twelve institutions"
+    },
+    {
+      "from": "The record of non-survivors survives where failure was administered",
+      "to": "Tereke defterleri - the Ottoman estate inventory series"
     },
     {
       "from": "The record of non-survivors survives where failure was administered",

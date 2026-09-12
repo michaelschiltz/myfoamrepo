@@ -72,6 +72,16 @@ Regional hub, the first of the non-European passes, linked from the country tabl
 
 **Cairo goes with the Geniza pass**, where the city is already a destination — and that pass found the Geniza is not in Cairo, so the trip is Ottoman after all: see [[Cairo - what the Geniza trip does and does not need]]. **Damascus and Aleppo are not a desk question.** Thessaloniki is the one to promote first: Aydın 2015 on Salonica cash waqfs is in the census's library.
 
+## The record of failure, added 12 September 2026
+
+A follow-up pass, prompted by the general finding at [[The record of non-survivors survives where failure was administered]]: **the Ottoman empire administered endings, and the administration is serial.**
+
+- [[Tereke defterleri - the Ottoman estate inventory series]] — post-mortem inventories in the court registers, **assets and liabilities**; **8,810 of them used for two north-west Anatolian provinces, 1460–1870**, in one recent study
+- [[Gurema - the insolvent estate distributed among creditors]] — **the insolvent estate, distributed pro rata**: the census's creditor limb, in a serial source, with two 2024 case studies (Bursa 1703–1710; Kastamonu 1753–1889)
+- [[Muhallefat and musadere - confiscation as an archive]] — **the state as claimant**, to 1839; the Janissary chests are the collective case
+
+**What this does to the pass's seventh pattern.** The Ottoman pass reported failure as the emptiest region of the census. **It is not the emptiest region of the archive**: dying insolvent was an administered event with a written distribution, and it happened in the same registers the census already cites. ⚠️ **The failure *rate* is still unknown** — no study read gives insolvent estates as a share of inventories.
+
 ## Where each coded form's records sit
 
 ⚠️ marks a placement resting on the census's own description or on secondary literature rather than a finding aid. **The last column is load-bearing, not descriptive.**
