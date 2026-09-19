@@ -230,6 +230,7 @@ digraph vault {
   "Le Bris Goetzmann Pouget 2023 on convergent evolution toward the joint-stock company" [fillcolor="#7570b3", fontcolor=white, shape=ellipse];
   "Legal violence is the weapon of the militarily insufficient" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Leiden University Library - the Kong Koan archive of Batavia" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
+  "Licensing the ensemble is a dynamical question not a metaphysical one" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Liverpool Record Office and the Maritime Archives" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
   "Lloyd's and the marine insurance records" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
   "Lock-in and outcome-coupling are distinct bindings" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
@@ -2218,6 +2219,15 @@ digraph vault {
   "Leiden University Library - the Kong Koan archive of Batavia" -> "MOC - Chinese archives";
   "Leiden University Library - the Kong Koan archive of Batavia" -> "MOC - Dutch archives";
   "Leiden University Library - the Kong Koan archive of Batavia" -> "Tung Wah Coffin Home Archives - Hong Kong";
+  "Licensing the ensemble is a dynamical question not a metaphysical one" -> "An absorbing barrier breaks ergodicity by construction";
+  "Licensing the ensemble is a dynamical question not a metaphysical one" -> "Ergodicity is indecomposability not randomness";
+  "Licensing the ensemble is a dynamical question not a metaphysical one" -> "MOC - Defending the ergodicity claim";
+  "Licensing the ensemble is a dynamical question not a metaphysical one" -> "MOC - Ergodicity and the time-ensemble distinction";
+  "Licensing the ensemble is a dynamical question not a metaphysical one" -> "MOC - HistorEE";
+  "Licensing the ensemble is a dynamical question not a metaphysical one" -> "Route Kolmogorov to ergodic theory not the theory of means";
+  "Licensing the ensemble is a dynamical question not a metaphysical one" -> "Stationarity is a precondition of ergodicity not a corollary";
+  "Licensing the ensemble is a dynamical question not a metaphysical one" -> "The ensemble average is the local descriptor of a barrier-shielded agent";
+  "Licensing the ensemble is a dynamical question not a metaphysical one" -> "The word ergodic carries four incompatible senses";
   "Liverpool Record Office and the Maritime Archives" -> "A migrated institution collects local names not local forms";
   "Liverpool Record Office and the Maritime Archives" -> "Bristol Archives";
   "Liverpool Record Office and the Maritime Archives" -> "Lloyd's and the marine insurance records";

@@ -212,7 +212,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "An absorbing barrier breaks ergodicity by construction",
-      "value": 55,
+      "value": 57,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1301,7 +1301,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Ergodicity is indecomposability not randomness",
-      "value": 30,
+      "value": 32,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -2062,6 +2062,15 @@
       "shape": "dot"
     },
     {
+      "id": "Licensing the ensemble is a dynamical question not a metaphysical one",
+      "type": "permanent",
+      "group": "seed",
+      "label": "Licensing the ensemble is a dynamical question not a metaphysical one",
+      "value": 13,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
       "id": "Liverpool Record Office and the Maritime Archives",
       "type": "reference",
       "group": "reference",
@@ -2813,7 +2822,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Route Kolmogorov to ergodic theory not the theory of means",
-      "value": 29,
+      "value": 31,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -3101,7 +3110,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Stationarity is a precondition of ergodicity not a corollary",
-      "value": 29,
+      "value": 30,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -3686,7 +3695,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The ensemble average is the local descriptor of a barrier-shielded agent",
-      "value": 23,
+      "value": 24,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -4118,7 +4127,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The word ergodic carries four incompatible senses",
-      "value": 27,
+      "value": 28,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -4451,7 +4460,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Defending the ergodicity claim",
-      "value": 98,
+      "value": 99,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -4496,7 +4505,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Ergodicity and the time-ensemble distinction",
-      "value": 157,
+      "value": 158,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -4541,7 +4550,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - HistorEE",
-      "value": 364,
+      "value": 365,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -11469,6 +11478,42 @@
     {
       "from": "Leiden University Library - the Kong Koan archive of Batavia",
       "to": "Tung Wah Coffin Home Archives - Hong Kong"
+    },
+    {
+      "from": "Licensing the ensemble is a dynamical question not a metaphysical one",
+      "to": "An absorbing barrier breaks ergodicity by construction"
+    },
+    {
+      "from": "Licensing the ensemble is a dynamical question not a metaphysical one",
+      "to": "Ergodicity is indecomposability not randomness"
+    },
+    {
+      "from": "Licensing the ensemble is a dynamical question not a metaphysical one",
+      "to": "MOC - Defending the ergodicity claim"
+    },
+    {
+      "from": "Licensing the ensemble is a dynamical question not a metaphysical one",
+      "to": "MOC - Ergodicity and the time-ensemble distinction"
+    },
+    {
+      "from": "Licensing the ensemble is a dynamical question not a metaphysical one",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Licensing the ensemble is a dynamical question not a metaphysical one",
+      "to": "Route Kolmogorov to ergodic theory not the theory of means"
+    },
+    {
+      "from": "Licensing the ensemble is a dynamical question not a metaphysical one",
+      "to": "Stationarity is a precondition of ergodicity not a corollary"
+    },
+    {
+      "from": "Licensing the ensemble is a dynamical question not a metaphysical one",
+      "to": "The ensemble average is the local descriptor of a barrier-shielded agent"
+    },
+    {
+      "from": "Licensing the ensemble is a dynamical question not a metaphysical one",
+      "to": "The word ergodic carries four incompatible senses"
     },
     {
       "from": "Liverpool Record Office and the Maritime Archives",
