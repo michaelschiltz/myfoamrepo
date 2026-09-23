@@ -293,6 +293,7 @@ digraph vault {
   "Pricing is orthogonal to mitigation mechanism not a stage of it" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Pricing risk does not remove it" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Princeton Geniza Project - the documentary database" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
+  "Prospect theory's parameters are neither population constants nor individual traits" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Pure multiplicative dynamics are permutation-invariant" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Qing grain price database - a denominator from the memorials" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
   "Qingshui River documents - forest contracts in shares" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
@@ -763,6 +764,7 @@ digraph vault {
   "Answering EU's failures with more psychology instantiates the complaint" -> "MOC - Ergodicity and the time-ensemble distinction";
   "Answering EU's failures with more psychology instantiates the complaint" -> "MOC - HistorEE";
   "Answering EU's failures with more psychology instantiates the complaint" -> "MOC - Historiography and method";
+  "Answering EU's failures with more psychology instantiates the complaint" -> "Prospect theory's parameters are neither population constants nor individual traits";
   "Answering EU's failures with more psychology instantiates the complaint" -> "Route Kolmogorov to ergodic theory not the theory of means";
   "Answering EU's failures with more psychology instantiates the complaint" -> "Separate the sociological and the methodological claims about economics";
   "Answering EU's failures with more psychology instantiates the complaint" -> "The representative agent is the ergodicity assumption in costume";
@@ -2394,6 +2396,7 @@ digraph vault {
   "MOC - Defending the ergodicity claim" -> "MOC - Historiography and method";
   "MOC - Defending the ergodicity claim" -> "MOC - Path dependence and sequence";
   "MOC - Defending the ergodicity claim" -> "Nothing in the ergodic theorem fails in geometric Brownian motion";
+  "MOC - Defending the ergodicity claim" -> "Prospect theory's parameters are neither population constants nor individual traits";
   "MOC - Defending the ergodicity claim" -> "Restate the cost puzzle as a question about a trajectory";
   "MOC - Defending the ergodicity claim" -> "Route Kolmogorov to ergodic theory not the theory of means";
   "MOC - Defending the ergodicity claim" -> "Separate the sociological and the methodological claims about economics";
@@ -3592,6 +3595,15 @@ digraph vault {
   "Princeton Geniza Project - the documentary database" -> "MOC - Geniza archives";
   "Princeton Geniza Project - the documentary database" -> "MiDRASH - the machine transcription of the Geniza";
   "Princeton Geniza Project - the documentary database" -> "The Sound Toll Registers";
+  "Prospect theory's parameters are neither population constants nor individual traits" -> "Answering EU's failures with more psychology instantiates the complaint";
+  "Prospect theory's parameters are neither population constants nor individual traits" -> "Doctor Wakker and Wang 2020 on the ergodicity problem";
+  "Prospect theory's parameters are neither population constants nor individual traits" -> "Economics had its ensemble moment in 1738 and psychologized it";
+  "Prospect theory's parameters are neither population constants nor individual traits" -> "Ford and Kay concede the condition under which their objection lapses";
+  "Prospect theory's parameters are neither population constants nor individual traits" -> "Jensen supplies the gap but only the dynamic privileges the logarithm";
+  "Prospect theory's parameters are neither population constants nor individual traits" -> "MOC - Defending the ergodicity claim";
+  "Prospect theory's parameters are neither population constants nor individual traits" -> "MOC - Ergodicity and the time-ensemble distinction";
+  "Prospect theory's parameters are neither population constants nor individual traits" -> "MOC - HistorEE";
+  "Prospect theory's parameters are neither population constants nor individual traits" -> "Toda's own example makes EE more falsifiable than expected utility";
   "Pure multiplicative dynamics are permutation-invariant" -> "Absorbing barrier";
   "Pure multiplicative dynamics are permutation-invariant" -> "Flows make the dynamic affine and affine maps do not commute";
   "Pure multiplicative dynamics are permutation-invariant" -> "MOC - Ergodicity and the time-ensemble distinction";

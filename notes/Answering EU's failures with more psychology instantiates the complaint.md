@@ -25,6 +25,7 @@ The authors make the position explicit and quote Peters making it: the field "dr
 ## Links
 
 - [[Doctor Wakker and Wang 2020 on the ergodicity problem]]
+- [[Prospect theory's parameters are neither population constants nor individual traits]]
 - [[Route Kolmogorov to ergodic theory not the theory of means]]
 - [[Do not claim history-dependence as the novelty]]
 - [[Separate the sociological and the methodological claims about economics]]

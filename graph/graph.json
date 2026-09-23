@@ -221,7 +221,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Answering EU's failures with more psychology instantiates the complaint",
-      "value": 23,
+      "value": 26,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1139,7 +1139,7 @@
       "type": "source",
       "group": "source",
       "label": "Doctor Wakker and Wang 2020 on the ergodicity problem",
-      "value": 49,
+      "value": 51,
       "color": "#7570b3",
       "shape": "dot"
     },
@@ -1238,7 +1238,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Economics had its ensemble moment in 1738 and psychologized it",
-      "value": 18,
+      "value": 19,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1373,7 +1373,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Ford and Kay concede the condition under which their objection lapses",
-      "value": 27,
+      "value": 29,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1886,7 +1886,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Jensen supplies the gap but only the dynamic privileges the logarithm",
-      "value": 34,
+      "value": 36,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -2626,6 +2626,15 @@
       "label": "Princeton Geniza Project - the documentary database",
       "value": 14,
       "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "Prospect theory's parameters are neither population constants nor individual traits",
+      "type": "permanent",
+      "group": "seed",
+      "label": "Prospect theory's parameters are neither population constants nor individual traits",
+      "value": 18,
+      "color": "#e6ab02",
       "shape": "dot"
     },
     {
@@ -4181,7 +4190,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Toda's own example makes EE more falsifiable than expected utility",
-      "value": 21,
+      "value": 23,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -4460,7 +4469,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Defending the ergodicity claim",
-      "value": 99,
+      "value": 102,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -4505,7 +4514,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Ergodicity and the time-ensemble distinction",
-      "value": 158,
+      "value": 159,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -4550,7 +4559,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - HistorEE",
-      "value": 365,
+      "value": 366,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -5654,6 +5663,10 @@
     {
       "from": "Answering EU's failures with more psychology instantiates the complaint",
       "to": "MOC - Historiography and method"
+    },
+    {
+      "from": "Answering EU's failures with more psychology instantiates the complaint",
+      "to": "Prospect theory's parameters are neither population constants nor individual traits"
     },
     {
       "from": "Answering EU's failures with more psychology instantiates the complaint",
@@ -12181,6 +12194,10 @@
     },
     {
       "from": "MOC - Defending the ergodicity claim",
+      "to": "Prospect theory's parameters are neither population constants nor individual traits"
+    },
+    {
+      "from": "MOC - Defending the ergodicity claim",
       "to": "Restate the cost puzzle as a question about a trajectory"
     },
     {
@@ -16970,6 +16987,42 @@
     {
       "from": "Princeton Geniza Project - the documentary database",
       "to": "The Sound Toll Registers"
+    },
+    {
+      "from": "Prospect theory's parameters are neither population constants nor individual traits",
+      "to": "Answering EU's failures with more psychology instantiates the complaint"
+    },
+    {
+      "from": "Prospect theory's parameters are neither population constants nor individual traits",
+      "to": "Doctor Wakker and Wang 2020 on the ergodicity problem"
+    },
+    {
+      "from": "Prospect theory's parameters are neither population constants nor individual traits",
+      "to": "Economics had its ensemble moment in 1738 and psychologized it"
+    },
+    {
+      "from": "Prospect theory's parameters are neither population constants nor individual traits",
+      "to": "Ford and Kay concede the condition under which their objection lapses"
+    },
+    {
+      "from": "Prospect theory's parameters are neither population constants nor individual traits",
+      "to": "Jensen supplies the gap but only the dynamic privileges the logarithm"
+    },
+    {
+      "from": "Prospect theory's parameters are neither population constants nor individual traits",
+      "to": "MOC - Defending the ergodicity claim"
+    },
+    {
+      "from": "Prospect theory's parameters are neither population constants nor individual traits",
+      "to": "MOC - Ergodicity and the time-ensemble distinction"
+    },
+    {
+      "from": "Prospect theory's parameters are neither population constants nor individual traits",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Prospect theory's parameters are neither population constants nor individual traits",
+      "to": "Toda's own example makes EE more falsifiable than expected utility"
     },
     {
       "from": "Pure multiplicative dynamics are permutation-invariant",

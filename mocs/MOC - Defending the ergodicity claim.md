@@ -101,6 +101,7 @@ The leading published critique, answered here. The source note carries what they
 - [[The growth-rate criterion is asymptotic and the horizon comparison cuts both ways]] — the concession, and why the framework is committed to it
 - [[Defending expected utility by axiomatics forfeits its normative claim]] — §§1–2 are correct and self-defeating together
 - [[Answering EU's failures with more psychology instantiates the complaint]] — §5 demonstrates the movement it is offered against
+- [[Prospect theory's parameters are neither population constants nor individual traits]] — the elicitation evidence behind §5's replacement: the parameters are fitted quantities of the design, so they cannot adjudicate taste against dynamic
 
 ## Adjacent, not absorbed
 
