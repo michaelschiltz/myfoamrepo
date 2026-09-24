@@ -28,7 +28,7 @@ status: seed
 
 1. **Death with debts** — *guremâ*, here, in the *şer'iyye sicilleri*, from at least the seventeenth century.
 2. **Confiscation** — [[Muhallefat and musadere - confiscation as an archive]], for the elite, to 1839.
-3. **Commercial bankruptcy** — after the commercial code of 1850 and the *ticaret mahkemeleri*, the Ottoman state acquired a bankruptcy procedure for merchants proper. ⚠️ **Its records were not located in this pass**; provincial commercial-court studies exist (Beirut, İzmir, Salonica, Ankara) and are the way in.
+3. **Commercial bankruptcy** — after the commercial code of 1850 and the *ticaret mahkemeleri*, the Ottoman state acquired a bankruptcy procedure for merchants proper. **Partly answered 24 September 2026**: the code gives bankruptcy arts. 148–315; one register run survives — Damascus, 156 vols, 1883–1929; and provincial studies (Ankara, Adana, the Bulgarian lands) read the files. See [[Source editions - Ottoman and Islamic law]]. ⚠️ No register was opened and no count of bankruptcies obtained.
 
 **Only the third is a boedelkamer in the strict sense — a procedure for the failure of a going concern rather than for the estate of a dead man.** The first two are what the empire had before it, and they are far better served.
 

@@ -28,14 +28,52 @@ The printed notarial and business-record editions behind the census's *commenda*
   - *Lanfranco (1202–1226)*, ed. Krueger & Reynolds, 3 vols (1951–53) ⚠️ from memory
   
   **This is the corpus behind van Doosselaere 2009.** Reti Medievali Open Archive has records for *Guglielmo Cassinese* I–II and *Oberto 1186* ⚠️ site would not open; HathiTrust search-only for the Oberto volumes.
-- **Not reached, and high priority**: the "Notai genovesi in Oltremare" series (Caffa, Pera, **Chios**, Famagusta) — relevant to `maona_chios`.
+- The overseas registers — Caffa, Pera, **Chios**, Famagusta — are listed below under *Notai genovesi in Oltremare*.
 
 ## Venice
 
 - **R. Morozzo della Rocca & Antonino Lombardo (eds), *Documenti del commercio veneziano nei secoli XI–XIII***, 2 vols (Rome & Turin, 1940; Documenti e studi 19–20; repr. 1971) — **the main *collegantia* corpus**. (WorldCat wrongly gives the co-editor as "Attilio".)
 - **Lombardo & Morozzo della Rocca (eds), *Nuovi documenti del commercio veneto dei sec. XI–XIII*** (Venice: Deputazione di Storia Patria per le Venezie, 1953; Monumenti storici n.s. 7), xiv + 129 pp.
 - **Tafel & Thomas (eds), *Urkunden zur älteren Handels- und Staatsgeschichte der Republik Venedig***, 3 vols (Vienna, 1856–57; Fontes Rerum Austriacarum II, 12–14) — treaties and privileges 814–1299; free on archive.org.
-- **"Fonti per la storia di Venezia", section III (notarial archives)** — Venetian notaries in Crete and Ayas. ⚠️ Not verified.
+- **"Fonti per la storia di Venezia", section III (notarial archives)** — listed in full below.
+
+## Genoa overseas: the *Notai genovesi in Oltremare* (added 2026-09-24)
+
+**Notarial registers written in the Genoese colonies and trading posts**, dense in commenda, sea-loan, freight and exchange contracts; **the Chios volumes are the published notarial evidence for the maona's *loca* (shares) and the *maonesi***. Mostly in the *Collana storica di fonti e studi* (CSFS; Genova: Università di Genova, Istituto di Paleografia e Storia medievale, ed. G. Pistarino, 1969–89) and the *Collana storica dell'Oltremare ligure* (CSOL; Bordighera: Istituto internazionale di studi liguri). **No free legitimate online copy was found for any volume**; the Società Ligure and Reti Medievali sites were unreachable.
+
+- **Chilia (Kilia)**, Antonio di Ponzò, 1360–61 — ed. Pistarino (1971; CSFS 12 = CSOL 1)
+- **Caffa and Licostomo**, 14th c. — ed. Balbi & Raiteri (1973; CSFS 14 = CSOL 2)
+- **Cyprus (Famagusta)**, Lamberto di Sambuceto — five volumes: 1300–01, ed. Polonio (1982; CSFS 31); 1301, ed. Pavoni (1982; CSFS 32); 1296–99, ed. Balard (1983; CSFS 39); 1304–07 with Giovanni de Rocha 1308–10, ed. Balard (1984; CSFS 43); 1302, ed. Pavoni (1987; CSFS 49)
+- **Pera and Mytilene**, 1408–1490 and 1454–60 — ed. Roccatagliata (1982; CSFS 34/1–2)
+- **Chios**, 1453–54 and 1470–71 — ed. Roccatagliata (1982; CSFS 35)
+- **Chios**, Donato di Chiavari, 1394 — ed. Balard (1988; CSFS 51)
+- **Chios**, Gregorio Panissaro, 1403–05 — ed. Piana Toniolo (Genova: Accademia ligure di scienze e lettere, 1995)
+- **Chios**, Raffaele de Casanova, 16th c. — ed. Balletto (Bordighera, 2015; CSOL)
+- **Tunis**, Pietro Battifoglio, 1288–89 — ed. Pistarino (1986; CSFS 47)
+- **Laiazzo (Ayas)**, 1274–79 — ed. Balletto (1989; CSFS 53)
+- **Caffa and the Black Sea**, 14th–15th c. — ed. Alvaro, Assini, Balletto, Basso, dir. Karpov (St Petersburg: Aletheia, 2018)
+- **Outside the series**: Balard, *Gênes et l'Outre-Mer* I, *Les actes de Caffa du notaire Lamberto di Sambuceto 1289–1290* (Paris–La Haye: Mouton, 1973) and II, *Actes de Kilia du notaire Antonio di Ponzò 1360* (1980); Balard, Duba & Schabel, *Actes de Famagouste du notaire génois Lamberto di Sambuceto* (Nicosia, 2012); Desimoni's Famagusta acts in *Archives de l'Orient latin* 2 (1884) and *Revue de l'Orient latin* 1 (1893) ⚠️ likely free, not checked; Belgrano's Pera documents in *Atti SLSP* XIII (1877).
+
+**The maona of Chios**: **Philip P. Argenti, *The Occupation of Chios by the Genoese and their Administration of the Island, 1346–1566, described in contemporary documents & official dispatches***, 3 vols (Cambridge UP, 1958) — vol. I narrative (xxiii + 713 pp.), **vols II–III documents (xvii + 981 pp.)**; HathiTrust search-only. **The printed source for the maona's founding documents.** ⚠️ Whether the 1362 convention and shareholder lists are printed there not checked. Hopf, *Les Giustiniani, dynastes de Chios* (Paris, 1888) is free on archive.org. **No Italian edition of the 1347 and 1362 conventions was found** — for `maona_chios`, the census's Taviani 2022 remains the route.
+
+## Venice overseas: *Fonti per la storia di Venezia*, sez. III — Archivi notarili (added 2026-09-24)
+
+Venice: Comitato per la pubblicazione delle fonti relative alla storia di Venezia (recent volumes Rome: Viella); unnumbered; **print only**. The colonial registers are the *colleganza* and sea-loan evidence for Crete, Famagusta, Ayas and the Black Sea:
+
+- Benvenuto de Brixano, Candia 1301–02 — ed. Morozzo della Rocca (1950)
+- Leonardo Marcello, Candia 1278–81 — ed. Chiaudano & Lombardo (1960)
+- Moretto Bon, Venice, Trebizond and Tana 1403–08 — ed. de' Colli (1963)
+- Zaccaria de Fredo, Candia 1352–57/58 — ed. Lombardo (1967/68 ⚠️)
+- Domenico prete di S. Maurizio, Venice 1309–16 — ed. Tiepolo (1970)
+- Nicola de Boateriis, Famagusta and Venice 1355–65 — ed. Lombardo (1973)
+- Felice de Merlis, Venice and Ayas 1315–48 — ed. Bondi Sebellico, 2 vols (1973, 1978); indexes ed. Mozzato (Viella, 2012)
+- Bernardo de Rodulfis, Venice 1392–99 — ed. Tamba (1974)
+- Anonymous notary, Venice 1290–92 — ed. Baroni (1977)
+- Pietro Pizolo, Candia 1300 and 1304–05 — ed. Carbone, 2 vols (1978, 1985)
+- Servodio Peccator, Venice and Alexandria 1444–49 — ed. Rossi (1983)
+- Susinello Marino, Chioggia 1348–64 — ed. Perini (2001)
+- Stefano Bono, Candia 1303–04 — ed. Tiepolo et al. (Viella, 2011)
+- (and a ship's logbook, Giovanni Manzini 1471–84, ed. Greco, 1997 — not notarial)
 
 ## Marseille, Provence, Barcelona, Pisa
 
@@ -67,4 +105,4 @@ The printed notarial and business-record editions behind the census's *commenda*
 
 ## Source
 
-Source-editions survey, 24 September 2026. Fulcrum table of contents (Lopez & Raymond); WorldCat, Sudoc, HathiTrust, Stanford SearchWorks, BnF records; review headings in *JEH* and *AHR*; Istituto Datini pages; Tognetti's survey of Tuscan account-book editions (*Anuario de Estudios Medievales*); Le Bris, Goetzmann & Pouget, NBER WP 21335. Read through catalogue pages; **no edition opened.**
+Source-editions survey, 24 September 2026. Fulcrum table of contents (Lopez & Raymond); WorldCat, Sudoc, HathiTrust, Stanford SearchWorks, BnF records; review headings in *JEH* and *AHR*; Istituto Datini pages; Tognetti's survey of Tuscan account-book editions (*Anuario de Estudios Medievales*); Le Bris, Goetzmann & Pouget, NBER WP 21335. **Added the same day**: UW–Madison catalogue records, the Frankika (EFA) bibliography, Sudoc, Balard's CV, IBS, HathiTrust (Argenti), the Regione Veneto series list and Viella's series page. Read through catalogue pages; **no edition opened.**

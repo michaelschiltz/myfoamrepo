@@ -46,14 +46,32 @@ Printed and online editions of Ottoman court registers, waqf registers, estate i
 - **Tyser et al. (tr.), *The Mejelle*** (Nicosia 1901; Lahore reprints) — Book X on partnership; archive.org lending.
 - **Udovitch, *Partnership and Profit in Medieval Islam*** (Princeton, 1970) — the English route into classical partnership law. **Ramli 2020** translates only the first chapter of al-Sarakhsī's *Kitāb al-Muḍāraba*; **no full English translation of Sarakhsī's partnership books was found.**
 
+## After 1850: the commercial code and the commercial courts (added 2026-09-24)
+
+**The Ottoman boedelkamer in the strict sense** — a procedure for the failure of a going concern — begins with the commercial code of 1850. What is in print:
+
+- **The code itself.** *Kanunname-i Ticaret* (1850), 315 articles; **bankruptcy (*iflas*) is arts. 148–315, the concordat (*konkordato*) arts. 211–248** — more than half the code. Ottoman text in *Düstur*, 1st series, vol. 1, pp. 375–445; modern edition by Gürzumar (1962). The article structure is from **Çınar, *İstanbul Hukuk Mecmuası* 82 (2024), doi:10.26650/mecmua.2024.82.1.001** (free). ⚠️ Gürzumar's full title not recorded.
+- **The French versions.** **George Young, *Corps de droit ottoman***, 7 vols (Oxford: Clarendon, 1905–06) — **vol. VII: Code de commerce pp. 55–102, Code maritime pp. 103–154, Procédure commerciale pp. 155–170.** Free on archive.org. **Grégoire Aristarchi, *Législation ottomane***, 7 parts (Constantinople, 1873–88), free on Gallica. ⚠️ Which part carries the Code de commerce was not established.
+- **The registers of a commercial court.** **Damascus: 156 volumes, 1883–1929**, at the Markaz al-Wathāʾiq al-Tārīkhiyya — identified by **Mahmoud Ade, *Quaderni Storici* 51/3 (2016), doi:10.1408/86399**. **The only run of commercial-court registers located; unedited.**
+- **The studies that read court files**:
+  - **Demirci (2019)**, Ankara PhD on the provincial commercial courts — free PDF at APİKAM; points to State Archives series including T.d and T.MAT. ⚠️ First name and title not recorded.
+  - **Masheva (2022)**, Böhlau — the commercial-court records of the Bulgarian lands. ⚠️ Title not recorded.
+  - **Karsandık Yazıcı (2015)** — Adana court records, **including bankruptcy cases**.
+  - **Alkan (2023)** — the *Ceride-i Mehâkim*, the court gazette that printed judgments.
+  - **Ağır & Artunç, *Business History Review* (2021)**; **Kenanoğlu (2005)** — the institutional history of the *ticaret mahkemeleri*.
+
+**What this settles for the failure record**: the procedure is in print in two languages and is dominated by bankruptcy; the case files survive at least in Damascus and are read province by province. See [[The record of non-survivors survives where failure was administered]] and [[Gurema - the insolvent estate distributed among creditors]].
+
 ## Links
 
 - [[MOC - Source editions]]
 - [[MOC - Ottoman archives]]
+- [[The record of non-survivors survives where failure was administered]]
+- [[Gurema - the insolvent estate distributed among creditors]]
 - [[Istanbul Kadi Sicilleri - the published transliterations]]
 - [[Tereke defterleri - the Ottoman estate inventory series]]
 - [[Vakiflar Genel Mudurlugu Arsivi - Ankara]]
 
 ## Source
 
-Source-editions survey, 24 September 2026. TTK library catalogue records; DergiPark; State Archives publication PDFs (colophons); İSNAD citation guide; Bursa municipality release of 3 February 2024; Cambridge Core and H-Net review records; CiNii. Read through catalogue and summary pages; **no edition opened.** Not reached (search budget): post-1850 commercial-court editions, Aleppo/Cairo sijill editions, Bulgarian and Bosnian register series, Cretan registers.
+Source-editions survey, 24 September 2026. TTK library catalogue records; DergiPark; State Archives publication PDFs (colophons); İSNAD citation guide; Bursa municipality release of 3 February 2024; Cambridge Core and H-Net review records; CiNii. Read through catalogue and summary pages; **no edition opened.** Post-1850 section (same day): Çınar 2024 (read), archive.org record for Young, Gallica record for Aristarchi, abstract pages for Ade, Demirci, Masheva, Karsandık Yazıcı, Alkan, Ağır & Artunç. Not reached: Aleppo/Cairo sijill editions, Bosnian register series, Cretan registers.

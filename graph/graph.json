@@ -1553,7 +1553,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Gurema - the insolvent estate distributed among creditors",
-      "value": 16,
+      "value": 19,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -3038,7 +3038,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Source editions - Italian and Mediterranean commerce",
-      "value": 11,
+      "value": 12,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -3065,7 +3065,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Source editions - Ottoman and Islamic law",
-      "value": 10,
+      "value": 15,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -4082,7 +4082,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The record of non-survivors survives where failure was administered",
-      "value": 35,
+      "value": 37,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -4766,7 +4766,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Source editions",
-      "value": 47,
+      "value": 48,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -10053,6 +10053,10 @@
     {
       "from": "Gurema - the insolvent estate distributed among creditors",
       "to": "Muhallefat and musadere - confiscation as an archive"
+    },
+    {
+      "from": "Gurema - the insolvent estate distributed among creditors",
+      "to": "Source editions - Ottoman and Islamic law"
     },
     {
       "from": "Gurema - the insolvent estate distributed among creditors",
@@ -18625,6 +18629,10 @@
     {
       "from": "Source editions - Ottoman and Islamic law",
       "to": "Tereke defterleri - the Ottoman estate inventory series"
+    },
+    {
+      "from": "Source editions - Ottoman and Islamic law",
+      "to": "The record of non-survivors survives where failure was administered"
     },
     {
       "from": "Source editions - Ottoman and Islamic law",

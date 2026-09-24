@@ -14,6 +14,8 @@ status: seed
 
 **Scope, stated once**: the grant names its core archives as Ottoman, Geniza, Edo-Japanese, VOC, Toulousain and Italian, with the New Julfa and *ortoq* seam; the EIC, the Low Countries and Hanse, the Iberian Atlantic, China and the maritime-law compilations are added because the census's coded rows rest on them.
 
+**In Zotero** (added 2026-09-24): collection *HistorEE — source editions*, 113 items, a curated subset of the notes below — the bibliographically secure items, not the ⚠️ leads. Every item carries the tag `HistorEE-source-editions` and one corpus tag (`se-geniza`, `se-ottoman-islamic-law`, `se-voc`, `se-eic`, `se-italian-mediterranean`, `se-maritime-law`, `se-julfa-ortoq`, `se-lowcountries-hanse`, `se-iberian-atlantic`, `se-edo-japan`, `se-china`). Five editions already in the library (Lopez & Raymond, *India Traders*, Ackerman-Lieberman 2014, Aslanian 2011, Pardessus) are tagged but not moved.
+
 ## By corpus
 
 - [[Source editions - Cairo Geniza]] — **Gil's *In the Kingdom of Ishmael* (846 documents, Hebrew translation) is the largest merchant-letter edition and is not digitised**; India Book V–VII coming open-access from Princeton; Ackerman-Lieberman 2014 prints 15 partnership deeds
@@ -37,7 +39,7 @@ status: seed
 
 **3. The language of the edition decides who can read the corpus.** The biggest Geniza merchant-letter edition is in Hebrew; the Silk Road and Chinese corpora are edited in Chinese and Japanese; the Ottoman in Turkish transliteration; the Julfan ledger is accessible only through a 1966 English and a 1967 French version. **This project's language profile is strongest exactly where the editions are least translated.**
 
-**4. Five core series have no edition at all**: the Heren XVII resolutions; the Santa Catarina papers; the Bazacle charters; the Kōnoike house documents; any *ortoq* contract. ⚠️ Plus the Genoese *notai in Oltremare* and the Venetian *Fonti* section III, which exist but were not reached.
+**4. Five core series have no edition at all**: the Heren XVII resolutions; the Santa Catarina papers; the Bazacle charters; the Kōnoike house documents; any *ortoq* contract. The Genoese *notai in Oltremare* and the Venetian *Fonti* section III, first not reached, **are now listed** in [[Source editions - Italian and Mediterranean commerce]]; the Casa de Contratación's *avería* series and the post-1850 Ottoman commercial code in the Iberian and Ottoman notes.
 
 ## Links
 

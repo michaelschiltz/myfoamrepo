@@ -1844,6 +1844,7 @@ digraph vault {
   "Gurema - the insolvent estate distributed among creditors" -> "Insolvente Boedelskamer - Antwerp";
   "Gurema - the insolvent estate distributed among creditors" -> "MOC - Ottoman archives";
   "Gurema - the insolvent estate distributed among creditors" -> "Muhallefat and musadere - confiscation as an archive";
+  "Gurema - the insolvent estate distributed among creditors" -> "Source editions - Ottoman and Islamic law";
   "Gurema - the insolvent estate distributed among creditors" -> "Tereke defterleri - the Ottoman estate inventory series";
   "Gurema - the insolvent estate distributed among creditors" -> "The coding commons must record stated rationale not only component presence";
   "Gurema - the insolvent estate distributed among creditors" -> "The creditor limb of entity shielding has no witness";
@@ -3987,6 +3988,7 @@ digraph vault {
   "Source editions - Ottoman and Islamic law" -> "MOC - Ottoman archives";
   "Source editions - Ottoman and Islamic law" -> "MOC - Source editions";
   "Source editions - Ottoman and Islamic law" -> "Tereke defterleri - the Ottoman estate inventory series";
+  "Source editions - Ottoman and Islamic law" -> "The record of non-survivors survives where failure was administered";
   "Source editions - Ottoman and Islamic law" -> "Vakiflar Genel Mudurlugu Arsivi - Ankara";
   "Source editions - VOC" -> "MOC - Dutch archives";
   "Source editions - VOC" -> "MOC - Source editions";
