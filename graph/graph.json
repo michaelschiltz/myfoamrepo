@@ -4289,7 +4289,16 @@
       "type": "reference",
       "group": "reference",
       "label": "VOC digital corpus - what is online and on what terms",
-      "value": 33,
+      "value": 34,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "VOCdata.nl - Pepping's finding list of VOC datasets and tools",
+      "type": "reference",
+      "group": "reference",
+      "label": "VOCdata.nl - Pepping's finding list of VOC datasets and tools",
+      "value": 3,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -4496,7 +4505,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Dutch archives",
-      "value": 36,
+      "value": 37,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -12416,6 +12425,10 @@
     {
       "from": "MOC - Dutch archives",
       "to": "VOC digital corpus - what is online and on what terms"
+    },
+    {
+      "from": "MOC - Dutch archives",
+      "to": "VOCdata.nl - Pepping's finding list of VOC datasets and tools"
     },
     {
       "from": "MOC - Dutch archives",
@@ -22824,6 +22837,10 @@
     {
       "from": "VOC digital corpus - what is online and on what terms",
       "to": "The VOC-EIC digital asymmetry is an access regime not a survival difference"
+    },
+    {
+      "from": "VOC digital corpus - what is online and on what terms",
+      "to": "VOCdata.nl - Pepping's finding list of VOC datasets and tools"
     },
     {
       "from": "VOC digital corpus - what is online and on what terms",

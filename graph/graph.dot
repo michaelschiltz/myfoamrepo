@@ -478,6 +478,7 @@ digraph vault {
   "Typology and character coding literature" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
   "Unilateral and bilateral commenda collapse on profit and separate on loss" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "VOC digital corpus - what is online and on what terms" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
+  "VOCdata.nl - Pepping's finding list of VOC datasets and tools" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
   "Vakiflar Genel Mudurlugu Arsivi - Ankara" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
   "Van Dam's Beschryvinge - the VOC described by its own advocaat" [fillcolor="#7570b3", fontcolor=white, shape=ellipse];
   "Visby and the Gotland sea law" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
@@ -2451,6 +2452,7 @@ digraph vault {
   "MOC - Dutch archives" -> "Stadsarchief Amsterdam - the notarial archive";
   "MOC - Dutch archives" -> "Stadsarchief Rotterdam - the notarial archive and scanning on demand";
   "MOC - Dutch archives" -> "VOC digital corpus - what is online and on what terms";
+  "MOC - Dutch archives" -> "VOCdata.nl - Pepping's finding list of VOC datasets and tools";
   "MOC - Dutch archives" -> "Westfries Archief - the Hoorn and Enkhuizen chambers";
   "MOC - Dutch archives" -> "Zeeuws Archief - the Zeeland chamber and the MCC";
   "MOC - ERC Synergy Grant" -> "A significant persistence coefficient is evidence against its own licensing condition";
@@ -5053,6 +5055,7 @@ digraph vault {
   "VOC digital corpus - what is online and on what terms" -> "Sri Lanka National Archives - the Dutch records and the thombos";
   "VOC digital corpus - what is online and on what terms" -> "Tamil Nadu Archives - the Madras records and the Dutch series";
   "VOC digital corpus - what is online and on what terms" -> "The VOC-EIC digital asymmetry is an access regime not a survival difference";
+  "VOC digital corpus - what is online and on what terms" -> "VOCdata.nl - Pepping's finding list of VOC datasets and tools";
   "VOC digital corpus - what is online and on what terms" -> "Van Dam's Beschryvinge - the VOC described by its own advocaat";
   "Vakiflar Genel Mudurlugu Arsivi - Ankara" -> "Handoff - the non-European archive survey";
   "Vakiflar Genel Mudurlugu Arsivi - Ankara" -> "Istanbul Muftulugu Seriyye Sicilleri Arsivi";

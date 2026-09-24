@@ -22,6 +22,7 @@ The caution travels with the convenience. This material will be easier to work t
 
 - [[Dutch archives online - the access layers]] — licence, harvesting, and what free scanning on demand does to the acquisitions calculus
 - [[Delpher - the full-text layer]] — 18M+ newspaper pages, 1618–1879 texts downloadable. The one Dutch source that could supply a denominator
+- [[VOCdata.nl - Pepping's finding list of VOC datasets and tools]] — 30 datasets with DOIs (DataverseNL `10.34894`) and 25 tools built on `1.04.02`; the machine-readable VOC series in one list
 
 ## Amsterdam
 

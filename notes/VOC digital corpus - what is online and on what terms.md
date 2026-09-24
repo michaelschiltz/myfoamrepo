@@ -54,6 +54,7 @@ The corporate-constitutional record is thinner online than the operational one. 
 - [[The VOC-EIC digital asymmetry is an access regime not a survival difference]]
 - [[GLOBALISE removes the HTR question for the VOC and leaves it standing for the EIC]]
 - [[Van Dam's Beschryvinge - the VOC described by its own advocaat]]
+- [[VOCdata.nl - Pepping's finding list of VOC datasets and tools]]
 - [[MOC - Digitisation and text recognition]]
 - [[MOC - Historiography and method]]
 - [[MOC - HistorEE]]
