@@ -734,7 +734,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Berlin - the Turfan collection",
-      "value": 9,
+      "value": 10,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -815,7 +815,7 @@
       "type": "reference",
       "group": "reference",
       "label": "British Library - the Stein collection",
-      "value": 12,
+      "value": 13,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1760,7 +1760,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Institute of Oriental Manuscripts - St Petersburg",
-      "value": 12,
+      "value": 13,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -2840,7 +2840,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Ryukoku University and the Otani collection",
-      "value": 11,
+      "value": 13,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -2939,7 +2939,16 @@
       "type": "reference",
       "group": "reference",
       "label": "Silk Road documents - one site's archive in twelve institutions",
-      "value": 18,
+      "value": 19,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "Silk Road in Rare Books - the thirty-three volumes behind the DSR essays",
+      "type": "reference",
+      "group": "reference",
+      "label": "Silk Road in Rare Books - the thirty-three volumes behind the DSR essays",
+      "value": 13,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -4208,7 +4217,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Toyo Bunko and the Digital Silk Road - the expedition library not the finds",
-      "value": 7,
+      "value": 10,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -4595,7 +4604,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Japanese archives",
-      "value": 89,
+      "value": 90,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -4640,7 +4649,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Silk Road archives",
-      "value": 51,
+      "value": 53,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -15282,6 +15291,10 @@
     },
     {
       "from": "MOC - Silk Road archives",
+      "to": "Silk Road in Rare Books - the thirty-three volumes behind the DSR essays"
+    },
+    {
+      "from": "MOC - Silk Road archives",
       "to": "Sogdian commercial documents - thin but not empty"
     },
     {
@@ -17919,6 +17932,38 @@
     {
       "from": "Silk Road documents - one site's archive in twelve institutions",
       "to": "The Otani dispersal - Kyoto, Tokyo, Lushun, Seoul"
+    },
+    {
+      "from": "Silk Road in Rare Books - the thirty-three volumes behind the DSR essays",
+      "to": "Berlin - the Turfan collection"
+    },
+    {
+      "from": "Silk Road in Rare Books - the thirty-three volumes behind the DSR essays",
+      "to": "British Library - the Stein collection"
+    },
+    {
+      "from": "Silk Road in Rare Books - the thirty-three volumes behind the DSR essays",
+      "to": "Institute of Oriental Manuscripts - St Petersburg"
+    },
+    {
+      "from": "Silk Road in Rare Books - the thirty-three volumes behind the DSR essays",
+      "to": "MOC - Japanese archives"
+    },
+    {
+      "from": "Silk Road in Rare Books - the thirty-three volumes behind the DSR essays",
+      "to": "MOC - Silk Road archives"
+    },
+    {
+      "from": "Silk Road in Rare Books - the thirty-three volumes behind the DSR essays",
+      "to": "Ryukoku University and the Otani collection"
+    },
+    {
+      "from": "Silk Road in Rare Books - the thirty-three volumes behind the DSR essays",
+      "to": "Silk Road documents - one site's archive in twelve institutions"
+    },
+    {
+      "from": "Silk Road in Rare Books - the thirty-three volumes behind the DSR essays",
+      "to": "Toyo Bunko and the Digital Silk Road - the expedition library not the finds"
     },
     {
       "from": "Simonsohn 2016 on East Syrian civil law and the Sasanian substrate",
@@ -22547,6 +22592,10 @@
     {
       "from": "Toyo Bunko and the Digital Silk Road - the expedition library not the finds",
       "to": "Silk Road documents - one site's archive in twelve institutions"
+    },
+    {
+      "from": "Toyo Bunko and the Digital Silk Road - the expedition library not the finds",
+      "to": "Silk Road in Rare Books - the thirty-three volumes behind the DSR essays"
     },
     {
       "from": "Toyonaka City - the Chokoji-mura documents",

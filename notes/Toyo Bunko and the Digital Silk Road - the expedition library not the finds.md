@@ -26,6 +26,7 @@ status: seed
 ## Links
 
 - [[MOC - Silk Road archives]]
+- [[Silk Road in Rare Books - the thirty-three volumes behind the DSR essays]]
 - [[Ryukoku University and the Otani collection]]
 - [[British Library - the Stein collection]]
 - [[MOC - Japanese archives]]

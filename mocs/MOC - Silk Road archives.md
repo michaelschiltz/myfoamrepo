@@ -37,6 +37,7 @@ Hub for the Inner Asian documentary material, linked from the country table of [
 - [[Ryukoku University and the Otani collection]] — **about 9,000 items in Kyoto**, an IDP founding partner, **8,465 manuscripts digitised** by its centre
 - [[The Otani dispersal - Kyoto, Tokyo, Lushun, Seoul]] — **16,035 fragments at Lüshun, 621 scrolls moved to the National Library of China, 373 objects given to the Governor-General of Korea in 1916 and now 1,500-plus at the National Museum of Korea, the remainder bought by the Tokyo National Museum in 1964**
 - [[Toyo Bunko and the Digital Silk Road - the expedition library not the finds]] — **yes, and it is a library**: 245 rare books, 72,591 pages, free, with NII; **the expedition reports, not the finds**
+  - [[Silk Road in Rare Books - the thirty-three volumes behind the DSR essays]] — **the 33 volumes behind the DSR essays**, with call numbers, DOIs and plates
 - **And the editorial layer**: [[Old Uyghur contracts - the documentary layer under the ortoq]] — **the standard edition of the Old Uyghur contracts was made at Osaka**, and the Tang contract corpus was put in order in Tokyo by Niida and Ikeda
 
 **In one line: Japan holds a substantial share of the originals (Kyoto, Tokyo, and — as a consequence of empire — Dalian and Seoul), publishes the standard editions of two contract corpora, and gives away the expedition library for free.**

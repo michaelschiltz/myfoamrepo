@@ -328,6 +328,7 @@ digraph vault {
   "Shiga University - the Omi merchant archives" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
   "Shiryo Net and the disaster survival rule" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
   "Silk Road documents - one site's archive in twelve institutions" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
+  "Silk Road in Rare Books - the thirty-three volumes behind the DSR essays" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
   "Simonsohn 2016 on East Syrian civil law and the Sasanian substrate" [fillcolor="#7570b3", fontcolor=white, shape=ellipse];
   "Skin in the game is asymmetric in the mudaraba" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Skin in the game" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
@@ -3168,6 +3169,7 @@ digraph vault {
   "MOC - Silk Road archives" -> "Old Uyghur contracts - the documentary layer under the ortoq";
   "MOC - Silk Road archives" -> "Ryukoku University and the Otani collection";
   "MOC - Silk Road archives" -> "Silk Road documents - one site's archive in twelve institutions";
+  "MOC - Silk Road archives" -> "Silk Road in Rare Books - the thirty-three volumes behind the DSR essays";
   "MOC - Silk Road archives" -> "Sogdian commercial documents - thin but not empty";
   "MOC - Silk Road archives" -> "The Khalili Bactrian documents - a private collection as the archive";
   "MOC - Silk Road archives" -> "The Otani dispersal - Kyoto, Tokyo, Lushun, Seoul";
@@ -3828,6 +3830,14 @@ digraph vault {
   "Silk Road documents - one site's archive in twelve institutions" -> "MOC - Silk Road archives";
   "Silk Road documents - one site's archive in twelve institutions" -> "National Library of China and the Dunhuang Academy";
   "Silk Road documents - one site's archive in twelve institutions" -> "The Otani dispersal - Kyoto, Tokyo, Lushun, Seoul";
+  "Silk Road in Rare Books - the thirty-three volumes behind the DSR essays" -> "Berlin - the Turfan collection";
+  "Silk Road in Rare Books - the thirty-three volumes behind the DSR essays" -> "British Library - the Stein collection";
+  "Silk Road in Rare Books - the thirty-three volumes behind the DSR essays" -> "Institute of Oriental Manuscripts - St Petersburg";
+  "Silk Road in Rare Books - the thirty-three volumes behind the DSR essays" -> "MOC - Japanese archives";
+  "Silk Road in Rare Books - the thirty-three volumes behind the DSR essays" -> "MOC - Silk Road archives";
+  "Silk Road in Rare Books - the thirty-three volumes behind the DSR essays" -> "Ryukoku University and the Otani collection";
+  "Silk Road in Rare Books - the thirty-three volumes behind the DSR essays" -> "Silk Road documents - one site's archive in twelve institutions";
+  "Silk Road in Rare Books - the thirty-three volumes behind the DSR essays" -> "Toyo Bunko and the Digital Silk Road - the expedition library not the finds";
   "Simonsohn 2016 on East Syrian civil law and the Sasanian substrate" -> "MOC - ERC Synergy Grant";
   "Simonsohn 2016 on East Syrian civil law and the Sasanian substrate" -> "MOC - HistorEE";
   "Simonsohn 2016 on East Syrian civil law and the Sasanian substrate" -> "MOC - Historiography and method";
@@ -4985,6 +4995,7 @@ digraph vault {
   "Toyo Bunko and the Digital Silk Road - the expedition library not the finds" -> "MOC - Silk Road archives";
   "Toyo Bunko and the Digital Silk Road - the expedition library not the finds" -> "Ryukoku University and the Otani collection";
   "Toyo Bunko and the Digital Silk Road - the expedition library not the finds" -> "Silk Road documents - one site's archive in twelve institutions";
+  "Toyo Bunko and the Digital Silk Road - the expedition library not the finds" -> "Silk Road in Rare Books - the thirty-three volumes behind the DSR essays";
   "Toyonaka City - the Chokoji-mura documents" -> "Forms are not independent observations when a village runs a portfolio";
   "Toyonaka City - the Chokoji-mura documents" -> "Japanese archives - custody follows the house";
   "Toyonaka City - the Chokoji-mura documents" -> "MOC - Japanese archives";
