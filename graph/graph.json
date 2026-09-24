@@ -122,7 +122,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "A shared compilation never licenses an inference to shared practice",
-      "value": 7,
+      "value": 9,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -239,7 +239,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Antwerp schepenregisters and the regesten",
-      "value": 11,
+      "value": 13,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -491,7 +491,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Archivio di Stato di Prato - the Datini archive",
-      "value": 12,
+      "value": 13,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -518,7 +518,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Archivo Foral de Bizkaia - the Consulado de Bilbao",
-      "value": 15,
+      "value": 17,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -527,7 +527,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Archivo General de Indias - Sevilla",
-      "value": 19,
+      "value": 21,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -662,7 +662,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Ba County archive - Sichuan Provincial Archives",
-      "value": 10,
+      "value": 11,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -806,7 +806,7 @@
       "type": "reference",
       "group": "reference",
       "label": "British Library - the India Office Records",
-      "value": 18,
+      "value": 20,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -887,7 +887,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Casa di San Giorgio - the Genoese public debt archive",
-      "value": 21,
+      "value": 22,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1220,7 +1220,7 @@
       "type": "reference",
       "group": "reference",
       "label": "EIC digital corpus - what is online and on what terms",
-      "value": 20,
+      "value": 22,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1499,7 +1499,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Geniza partnership documents - where the census's isqa and qirad evidence sits",
-      "value": 20,
+      "value": 21,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1535,7 +1535,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Guild stele inscriptions - the huiguan's surviving record",
-      "value": 16,
+      "value": 18,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1553,7 +1553,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Gurema - the insolvent estate distributed among creditors",
-      "value": 15,
+      "value": 16,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1571,7 +1571,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Handoff - the non-European archive survey",
-      "value": 52,
+      "value": 53,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1625,7 +1625,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Historiographical Institute - the Shiryo Hensanjo and the Dai Nihon series",
-      "value": 9,
+      "value": 10,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1670,7 +1670,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Huizhou documents - the largest private contract corpus",
-      "value": 15,
+      "value": 16,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1814,7 +1814,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Isqa reading list to acquire",
-      "value": 18,
+      "value": 19,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1823,7 +1823,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Istanbul Kadi Sicilleri - the published transliterations",
-      "value": 14,
+      "value": 16,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1895,7 +1895,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Jichitaishi - the municipal histories as Japan's print layer 3",
-      "value": 15,
+      "value": 16,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1940,7 +1940,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Kamer van Assurantie en Averij - Amsterdam",
-      "value": 14,
+      "value": 15,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -2003,7 +2003,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Kyu-bakufu hikitsugisho - the Edo town magistrate records",
-      "value": 17,
+      "value": 19,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -2174,7 +2174,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Mitsui Bunko - the Mitsui house archive",
-      "value": 16,
+      "value": 18,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -2435,7 +2435,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Old Uyghur contracts - the documentary layer under the ortoq",
-      "value": 15,
+      "value": 16,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -2471,7 +2471,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Osaka Museum of History - the Konoike family documents",
-      "value": 14,
+      "value": 15,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -2624,7 +2624,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Princeton Geniza Project - the documentary database",
-      "value": 14,
+      "value": 16,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -2998,6 +2998,105 @@
       "shape": "dot"
     },
     {
+      "id": "Source editions - Cairo Geniza",
+      "type": "reference",
+      "group": "reference",
+      "label": "Source editions - Cairo Geniza",
+      "value": 8,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "Source editions - EIC",
+      "type": "reference",
+      "group": "reference",
+      "label": "Source editions - EIC",
+      "value": 13,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "Source editions - Edo Japan",
+      "type": "reference",
+      "group": "reference",
+      "label": "Source editions - Edo Japan",
+      "value": 14,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "Source editions - Iberian Atlantic",
+      "type": "reference",
+      "group": "reference",
+      "label": "Source editions - Iberian Atlantic",
+      "value": 8,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "Source editions - Italian and Mediterranean commerce",
+      "type": "reference",
+      "group": "reference",
+      "label": "Source editions - Italian and Mediterranean commerce",
+      "value": 11,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "Source editions - Low Countries and the Hanse",
+      "type": "reference",
+      "group": "reference",
+      "label": "Source editions - Low Countries and the Hanse",
+      "value": 12,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "Source editions - New Julfa and the Mongol ortoq",
+      "type": "reference",
+      "group": "reference",
+      "label": "Source editions - New Julfa and the Mongol ortoq",
+      "value": 8,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "Source editions - Ottoman and Islamic law",
+      "type": "reference",
+      "group": "reference",
+      "label": "Source editions - Ottoman and Islamic law",
+      "value": 10,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "Source editions - VOC",
+      "type": "reference",
+      "group": "reference",
+      "label": "Source editions - VOC",
+      "value": 11,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "Source editions - late-imperial China",
+      "type": "reference",
+      "group": "reference",
+      "label": "Source editions - late-imperial China",
+      "value": 12,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "Source editions - maritime law compilations",
+      "type": "reference",
+      "group": "reference",
+      "label": "Source editions - maritime law compilations",
+      "value": 10,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
       "id": "South Asian archives - the colonial state kept the record and the merchants kept their own",
       "type": "reference",
       "group": "reference",
@@ -3047,7 +3146,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Stadsarchief Amsterdam - the notarial archive",
-      "value": 38,
+      "value": 39,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -3182,7 +3281,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Sumitomo Historical Archives - Kyoto",
-      "value": 9,
+      "value": 10,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -3209,7 +3308,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Taiwan Shiho - the colonial survey of Chinese associations and shares",
-      "value": 10,
+      "value": 12,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -3245,7 +3344,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Tereke defterleri - the Ottoman estate inventory series",
-      "value": 15,
+      "value": 17,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -3299,7 +3398,7 @@
       "type": "reference",
       "group": "reference",
       "label": "The Bazacle records - a custody problem",
-      "value": 22,
+      "value": 24,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -3443,7 +3542,7 @@
       "type": "reference",
       "group": "reference",
       "label": "The Prize Papers - HCA 32 and the German money",
-      "value": 19,
+      "value": 21,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -3479,7 +3578,7 @@
       "type": "reference",
       "group": "reference",
       "label": "The Silk Road layer 3 is a national editorial programme",
-      "value": 20,
+      "value": 23,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -3497,7 +3596,7 @@
       "type": "reference",
       "group": "reference",
       "label": "The Sound Toll Registers",
-      "value": 24,
+      "value": 25,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -3506,7 +3605,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The VOC-EIC digital asymmetry is an access regime not a survival difference",
-      "value": 56,
+      "value": 58,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -3938,7 +4037,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The ortoq is the discriminating instrument",
-      "value": 29,
+      "value": 30,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -3983,7 +4082,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The record of non-survivors survives where failure was administered",
-      "value": 34,
+      "value": 35,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -4208,7 +4307,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Tokyo Metropolitan Archives - the Edo town office and the shichibu tsumikin",
-      "value": 8,
+      "value": 10,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -4289,7 +4388,7 @@
       "type": "reference",
       "group": "reference",
       "label": "VOC digital corpus - what is online and on what terms",
-      "value": 34,
+      "value": 36,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -4307,7 +4406,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Vakiflar Genel Mudurlugu Arsivi - Ankara",
-      "value": 19,
+      "value": 20,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -4316,7 +4415,7 @@
       "type": "source",
       "group": "source",
       "label": "Van Dam's Beschryvinge - the VOC described by its own advocaat",
-      "value": 37,
+      "value": 39,
       "color": "#7570b3",
       "shape": "dot"
     },
@@ -4325,7 +4424,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Visby and the Gotland sea law",
-      "value": 8,
+      "value": 11,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -4397,7 +4496,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Zhang Chuanxi 1995 - the contract compilation behind the census's Chinese rows",
-      "value": 19,
+      "value": 21,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -4442,7 +4541,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Acquisitions and the antiquarian trade",
-      "value": 60,
+      "value": 63,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -4451,7 +4550,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Belgian archives",
-      "value": 38,
+      "value": 40,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -4460,7 +4559,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - British archives",
-      "value": 55,
+      "value": 57,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -4469,7 +4568,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Chinese archives",
-      "value": 79,
+      "value": 81,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -4505,7 +4604,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Dutch archives",
-      "value": 37,
+      "value": 40,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -4541,7 +4640,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - European archives and digital collections",
-      "value": 173,
+      "value": 178,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -4559,7 +4658,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Geniza archives",
-      "value": 50,
+      "value": 53,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -4577,7 +4676,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - HistorEE",
-      "value": 366,
+      "value": 367,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -4604,7 +4703,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Italian archives",
-      "value": 36,
+      "value": 38,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -4613,7 +4712,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Japanese archives",
-      "value": 90,
+      "value": 92,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -4631,7 +4730,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Ottoman archives",
-      "value": 86,
+      "value": 88,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -4658,7 +4757,16 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Silk Road archives",
-      "value": 53,
+      "value": 54,
+      "color": "#d95f02",
+      "shape": "dot"
+    },
+    {
+      "id": "MOC - Source editions",
+      "type": "moc",
+      "group": "moc",
+      "label": "MOC - Source editions",
+      "value": 47,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -4667,7 +4775,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - South Asian archives",
-      "value": 59,
+      "value": 60,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -4676,7 +4784,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Spanish archives",
-      "value": 28,
+      "value": 30,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -11684,6 +11792,10 @@
     },
     {
       "from": "MOC - Acquisitions and the antiquarian trade",
+      "to": "MOC - Source editions"
+    },
+    {
+      "from": "MOC - Acquisitions and the antiquarian trade",
       "to": "Preservation-grade overhead scanners - Zeutschel and i2S"
     },
     {
@@ -11765,6 +11877,10 @@
     {
       "from": "MOC - Belgian archives",
       "to": "MOC - Italian archives"
+    },
+    {
+      "from": "MOC - Belgian archives",
+      "to": "MOC - Source editions"
     },
     {
       "from": "MOC - Belgian archives",
@@ -11865,6 +11981,10 @@
     {
       "from": "MOC - British archives",
       "to": "MOC - Nordic archives"
+    },
+    {
+      "from": "MOC - British archives",
+      "to": "MOC - Source editions"
     },
     {
       "from": "MOC - British archives",
@@ -11985,6 +12105,10 @@
     {
       "from": "MOC - Chinese archives",
       "to": "MOC - Ottoman archives"
+    },
+    {
+      "from": "MOC - Chinese archives",
+      "to": "MOC - Source editions"
     },
     {
       "from": "MOC - Chinese archives",
@@ -12401,6 +12525,10 @@
     {
       "from": "MOC - Dutch archives",
       "to": "MOC - Italian archives"
+    },
+    {
+      "from": "MOC - Dutch archives",
+      "to": "MOC - Source editions"
     },
     {
       "from": "MOC - Dutch archives",
@@ -13156,6 +13284,10 @@
     },
     {
       "from": "MOC - European archives and digital collections",
+      "to": "MOC - Source editions"
+    },
+    {
+      "from": "MOC - European archives and digital collections",
       "to": "MOC - South Asian archives"
     },
     {
@@ -13193,6 +13325,10 @@
     {
       "from": "MOC - European archives and digital collections",
       "to": "SIAS SIUSA and SAN - the Italian access layers"
+    },
+    {
+      "from": "MOC - European archives and digital collections",
+      "to": "Source editions - EIC"
     },
     {
       "from": "MOC - European archives and digital collections",
@@ -13421,6 +13557,10 @@
     {
       "from": "MOC - Geniza archives",
       "to": "MOC - Ottoman archives"
+    },
+    {
+      "from": "MOC - Geniza archives",
+      "to": "MOC - Source editions"
     },
     {
       "from": "MOC - Geniza archives",
@@ -14576,6 +14716,10 @@
     },
     {
       "from": "MOC - Italian archives",
+      "to": "MOC - Source editions"
+    },
+    {
+      "from": "MOC - Italian archives",
       "to": "MOC - Spanish archives"
     },
     {
@@ -14657,6 +14801,10 @@
     {
       "from": "MOC - Japanese archives",
       "to": "MOC - Ottoman archives"
+    },
+    {
+      "from": "MOC - Japanese archives",
+      "to": "MOC - Source editions"
     },
     {
       "from": "MOC - Japanese archives",
@@ -14873,6 +15021,10 @@
     {
       "from": "MOC - Ottoman archives",
       "to": "MOC - Islamic contract doctrine"
+    },
+    {
+      "from": "MOC - Ottoman archives",
+      "to": "MOC - Source editions"
     },
     {
       "from": "MOC - Ottoman archives",
@@ -15284,6 +15436,10 @@
     },
     {
       "from": "MOC - Silk Road archives",
+      "to": "MOC - Source editions"
+    },
+    {
+      "from": "MOC - Silk Road archives",
       "to": "MOC - South Asian archives"
     },
     {
@@ -15329,6 +15485,78 @@
     {
       "from": "MOC - Silk Road archives",
       "to": "Toyo Bunko and the Digital Silk Road - the expedition library not the finds"
+    },
+    {
+      "from": "MOC - Source editions",
+      "to": "Handoff - the non-European archive survey"
+    },
+    {
+      "from": "MOC - Source editions",
+      "to": "Isqa reading list to acquire"
+    },
+    {
+      "from": "MOC - Source editions",
+      "to": "MOC - Acquisitions and the antiquarian trade"
+    },
+    {
+      "from": "MOC - Source editions",
+      "to": "MOC - European archives and digital collections"
+    },
+    {
+      "from": "MOC - Source editions",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "MOC - Source editions",
+      "to": "Source editions - Cairo Geniza"
+    },
+    {
+      "from": "MOC - Source editions",
+      "to": "Source editions - EIC"
+    },
+    {
+      "from": "MOC - Source editions",
+      "to": "Source editions - Edo Japan"
+    },
+    {
+      "from": "MOC - Source editions",
+      "to": "Source editions - Iberian Atlantic"
+    },
+    {
+      "from": "MOC - Source editions",
+      "to": "Source editions - Italian and Mediterranean commerce"
+    },
+    {
+      "from": "MOC - Source editions",
+      "to": "Source editions - Low Countries and the Hanse"
+    },
+    {
+      "from": "MOC - Source editions",
+      "to": "Source editions - New Julfa and the Mongol ortoq"
+    },
+    {
+      "from": "MOC - Source editions",
+      "to": "Source editions - Ottoman and Islamic law"
+    },
+    {
+      "from": "MOC - Source editions",
+      "to": "Source editions - VOC"
+    },
+    {
+      "from": "MOC - Source editions",
+      "to": "Source editions - late-imperial China"
+    },
+    {
+      "from": "MOC - Source editions",
+      "to": "Source editions - maritime law compilations"
+    },
+    {
+      "from": "MOC - Source editions",
+      "to": "The Silk Road layer 3 is a national editorial programme"
+    },
+    {
+      "from": "MOC - Source editions",
+      "to": "The VOC-EIC digital asymmetry is an access regime not a survival difference"
     },
     {
       "from": "MOC - South Asian archives",
@@ -15397,6 +15625,10 @@
     {
       "from": "MOC - South Asian archives",
       "to": "MOC - Ottoman archives"
+    },
+    {
+      "from": "MOC - South Asian archives",
+      "to": "MOC - Source editions"
     },
     {
       "from": "MOC - South Asian archives",
@@ -15505,6 +15737,10 @@
     {
       "from": "MOC - Spanish archives",
       "to": "MOC - Italian archives"
+    },
+    {
+      "from": "MOC - Spanish archives",
+      "to": "MOC - Source editions"
     },
     {
       "from": "MOC - Spanish archives",
@@ -18197,6 +18433,266 @@
     {
       "from": "Sort the persistence objections by what they cost the referee",
       "to": "Voigtlander and Voth measured the relaxation time and reported a mixture"
+    },
+    {
+      "from": "Source editions - Cairo Geniza",
+      "to": "Geniza partnership documents - where the census's isqa and qirad evidence sits"
+    },
+    {
+      "from": "Source editions - Cairo Geniza",
+      "to": "MOC - Geniza archives"
+    },
+    {
+      "from": "Source editions - Cairo Geniza",
+      "to": "MOC - Source editions"
+    },
+    {
+      "from": "Source editions - Cairo Geniza",
+      "to": "Princeton Geniza Project - the documentary database"
+    },
+    {
+      "from": "Source editions - EIC",
+      "to": "British Library - the India Office Records"
+    },
+    {
+      "from": "Source editions - EIC",
+      "to": "EIC digital corpus - what is online and on what terms"
+    },
+    {
+      "from": "Source editions - EIC",
+      "to": "MOC - British archives"
+    },
+    {
+      "from": "Source editions - EIC",
+      "to": "MOC - Source editions"
+    },
+    {
+      "from": "Source editions - EIC",
+      "to": "Source editions - VOC"
+    },
+    {
+      "from": "Source editions - EIC",
+      "to": "The VOC-EIC digital asymmetry is an access regime not a survival difference"
+    },
+    {
+      "from": "Source editions - Edo Japan",
+      "to": "Historiographical Institute - the Shiryo Hensanjo and the Dai Nihon series"
+    },
+    {
+      "from": "Source editions - Edo Japan",
+      "to": "Jichitaishi - the municipal histories as Japan's print layer 3"
+    },
+    {
+      "from": "Source editions - Edo Japan",
+      "to": "Kyu-bakufu hikitsugisho - the Edo town magistrate records"
+    },
+    {
+      "from": "Source editions - Edo Japan",
+      "to": "MOC - Japanese archives"
+    },
+    {
+      "from": "Source editions - Edo Japan",
+      "to": "MOC - Source editions"
+    },
+    {
+      "from": "Source editions - Edo Japan",
+      "to": "Mitsui Bunko - the Mitsui house archive"
+    },
+    {
+      "from": "Source editions - Edo Japan",
+      "to": "Osaka Museum of History - the Konoike family documents"
+    },
+    {
+      "from": "Source editions - Edo Japan",
+      "to": "Sumitomo Historical Archives - Kyoto"
+    },
+    {
+      "from": "Source editions - Edo Japan",
+      "to": "Tokyo Metropolitan Archives - the Edo town office and the shichibu tsumikin"
+    },
+    {
+      "from": "Source editions - Iberian Atlantic",
+      "to": "Archivo Foral de Bizkaia - the Consulado de Bilbao"
+    },
+    {
+      "from": "Source editions - Iberian Atlantic",
+      "to": "Archivo General de Indias - Sevilla"
+    },
+    {
+      "from": "Source editions - Iberian Atlantic",
+      "to": "MOC - Source editions"
+    },
+    {
+      "from": "Source editions - Iberian Atlantic",
+      "to": "MOC - Spanish archives"
+    },
+    {
+      "from": "Source editions - Italian and Mediterranean commerce",
+      "to": "Archivio di Stato di Prato - the Datini archive"
+    },
+    {
+      "from": "Source editions - Italian and Mediterranean commerce",
+      "to": "Casa di San Giorgio - the Genoese public debt archive"
+    },
+    {
+      "from": "Source editions - Italian and Mediterranean commerce",
+      "to": "MOC - Italian archives"
+    },
+    {
+      "from": "Source editions - Italian and Mediterranean commerce",
+      "to": "MOC - Source editions"
+    },
+    {
+      "from": "Source editions - Italian and Mediterranean commerce",
+      "to": "Source editions - maritime law compilations"
+    },
+    {
+      "from": "Source editions - Italian and Mediterranean commerce",
+      "to": "The Bazacle records - a custody problem"
+    },
+    {
+      "from": "Source editions - Low Countries and the Hanse",
+      "to": "Antwerp schepenregisters and the regesten"
+    },
+    {
+      "from": "Source editions - Low Countries and the Hanse",
+      "to": "Kamer van Assurantie en Averij - Amsterdam"
+    },
+    {
+      "from": "Source editions - Low Countries and the Hanse",
+      "to": "MOC - Belgian archives"
+    },
+    {
+      "from": "Source editions - Low Countries and the Hanse",
+      "to": "MOC - Dutch archives"
+    },
+    {
+      "from": "Source editions - Low Countries and the Hanse",
+      "to": "MOC - Source editions"
+    },
+    {
+      "from": "Source editions - Low Countries and the Hanse",
+      "to": "Stadsarchief Amsterdam - the notarial archive"
+    },
+    {
+      "from": "Source editions - Low Countries and the Hanse",
+      "to": "The Sound Toll Registers"
+    },
+    {
+      "from": "Source editions - Low Countries and the Hanse",
+      "to": "The record of non-survivors survives where failure was administered"
+    },
+    {
+      "from": "Source editions - Low Countries and the Hanse",
+      "to": "Visby and the Gotland sea law"
+    },
+    {
+      "from": "Source editions - New Julfa and the Mongol ortoq",
+      "to": "MOC - Source editions"
+    },
+    {
+      "from": "Source editions - New Julfa and the Mongol ortoq",
+      "to": "Old Uyghur contracts - the documentary layer under the ortoq"
+    },
+    {
+      "from": "Source editions - New Julfa and the Mongol ortoq",
+      "to": "The Prize Papers - HCA 32 and the German money"
+    },
+    {
+      "from": "Source editions - New Julfa and the Mongol ortoq",
+      "to": "The Silk Road layer 3 is a national editorial programme"
+    },
+    {
+      "from": "Source editions - New Julfa and the Mongol ortoq",
+      "to": "The ortoq is the discriminating instrument"
+    },
+    {
+      "from": "Source editions - Ottoman and Islamic law",
+      "to": "Gurema - the insolvent estate distributed among creditors"
+    },
+    {
+      "from": "Source editions - Ottoman and Islamic law",
+      "to": "Istanbul Kadi Sicilleri - the published transliterations"
+    },
+    {
+      "from": "Source editions - Ottoman and Islamic law",
+      "to": "MOC - Ottoman archives"
+    },
+    {
+      "from": "Source editions - Ottoman and Islamic law",
+      "to": "MOC - Source editions"
+    },
+    {
+      "from": "Source editions - Ottoman and Islamic law",
+      "to": "Tereke defterleri - the Ottoman estate inventory series"
+    },
+    {
+      "from": "Source editions - Ottoman and Islamic law",
+      "to": "Vakiflar Genel Mudurlugu Arsivi - Ankara"
+    },
+    {
+      "from": "Source editions - VOC",
+      "to": "MOC - Dutch archives"
+    },
+    {
+      "from": "Source editions - VOC",
+      "to": "MOC - Source editions"
+    },
+    {
+      "from": "Source editions - VOC",
+      "to": "Source editions - EIC"
+    },
+    {
+      "from": "Source editions - VOC",
+      "to": "VOC digital corpus - what is online and on what terms"
+    },
+    {
+      "from": "Source editions - VOC",
+      "to": "Van Dam's Beschryvinge - the VOC described by its own advocaat"
+    },
+    {
+      "from": "Source editions - late-imperial China",
+      "to": "Ba County archive - Sichuan Provincial Archives"
+    },
+    {
+      "from": "Source editions - late-imperial China",
+      "to": "Guild stele inscriptions - the huiguan's surviving record"
+    },
+    {
+      "from": "Source editions - late-imperial China",
+      "to": "Huizhou documents - the largest private contract corpus"
+    },
+    {
+      "from": "Source editions - late-imperial China",
+      "to": "MOC - Chinese archives"
+    },
+    {
+      "from": "Source editions - late-imperial China",
+      "to": "MOC - Source editions"
+    },
+    {
+      "from": "Source editions - late-imperial China",
+      "to": "Taiwan Shiho - the colonial survey of Chinese associations and shares"
+    },
+    {
+      "from": "Source editions - late-imperial China",
+      "to": "Zhang Chuanxi 1995 - the contract compilation behind the census's Chinese rows"
+    },
+    {
+      "from": "Source editions - maritime law compilations",
+      "to": "A shared compilation never licenses an inference to shared practice"
+    },
+    {
+      "from": "Source editions - maritime law compilations",
+      "to": "MOC - Source editions"
+    },
+    {
+      "from": "Source editions - maritime law compilations",
+      "to": "Source editions - Italian and Mediterranean commerce"
+    },
+    {
+      "from": "Source editions - maritime law compilations",
+      "to": "Visby and the Gotland sea law"
     },
     {
       "from": "South Asian archives - the colonial state kept the record and the merchants kept their own",

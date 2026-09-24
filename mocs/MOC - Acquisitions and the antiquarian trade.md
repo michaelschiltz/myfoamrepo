@@ -79,6 +79,7 @@ Provenance deserves the same discipline the project applies elsewhere. A chain o
 
 ## Links
 
+- [[MOC - Source editions]]
 - [[MOC - HistorEE]]
 - [[MOC - Digitisation and text recognition]]
 - [[MOC - Historiography and method]]

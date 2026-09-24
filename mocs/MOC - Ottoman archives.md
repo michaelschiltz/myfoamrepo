@@ -130,6 +130,7 @@ A follow-up pass, prompted by the general finding at [[The record of non-survivo
 
 ## Links
 
+- [[MOC - Source editions]]
 - [[MOC - European archives and digital collections]]
 - [[Handoff - the non-European archive survey]]
 - [[MOC - Croatian archives]]

@@ -91,7 +91,8 @@ Where a corpus is at layer 3 the entire calculus above collapses, which is the p
 - **Sound Toll Registers Online** — every passage of the Danish straits, 1497/1557–1857, transcribed into a database. See [[The Sound Toll Registers]]. **The only genuine denominator in the survey**, and an interpretation rather than a copy.
 - **Fondo Datini** — catalogued to item level; layer 1 at fine grain rather than layer 3.
 - **Medici Archive Project / BIA** — a scholar-annotated *selection*, not a transcribed series. See [[Medici Archive Project - the BIA platform]].
-- The English side has no member of this tier at all; see [[EIC digital corpus - what is online and on what terms]].
+- The English side has no member of this tier at all; see [[EIC digital corpus - what is online and on what terms]]. **Qualified 24 September 2026: it has no *digital* transcribed corpus, but its printed layer 3 is continuous and free** — the EIC court minutes transcribed or calendared from 1599 to 1679, with Noel Sainsbury's *Calendar of State Papers, East Indies* as keyed text on British History Online. See [[Source editions - EIC]].
+- **The printed layer 3 for every core corpus** — editions, calendars and transcription series, book and online: [[MOC - Source editions]].
 
 **Every transcribed *notarial* corpus in this tier is in the Low Countries.** The exception is the Sound Toll series, which is Danish, fiscal, and not a corpus of instruments at all. **That is not a fact about where early modern Europe wrote things down**, and a comparative corpus assembled from what is searchable will be a corpus about the Low Countries with illustrations from elsewhere.
 
@@ -144,6 +145,7 @@ First pass, to be corrected as the register is built. ⚠️ marks a placement t
 
 - [[MOC - Digitisation and text recognition]] — what to do about everything sitting at layer 2; [[Transkribus - managed HTR platform]] and the open stack are the two routes to layer 3
 - [[MOC - Acquisitions and the antiquarian trade]] — the commissioned archival scan is an acquisition decision executed against a repository in this hub
+- [[MOC - Source editions]] — the archive's layer 3 in print, corpus by corpus
 - [[MOC - Historiography and method]] — the funding-map argument belongs there as an argument, not here
 - [[MOC - ERC Synergy Grant]] — the travel and transcription budget lines are downstream of this register
 - [[Le Bris Goetzmann Pouget 2023 on convergent evolution toward the joint-stock company]] — the Bazacle case, whose source base needs pinning to an actual ADHG series

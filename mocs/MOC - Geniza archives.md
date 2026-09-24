@@ -87,6 +87,7 @@ Regional hub, the second non-European pass, linked from the country table of [[M
 
 ## Links
 
+- [[MOC - Source editions]]
 - [[MOC - European archives and digital collections]]
 - [[MOC - Ottoman archives]]
 - [[Handoff - the non-European archive survey]]

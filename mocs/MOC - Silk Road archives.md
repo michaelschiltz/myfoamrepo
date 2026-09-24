@@ -92,6 +92,7 @@ Hub for the Inner Asian documentary material, linked from the country table of [
 
 ## Links
 
+- [[MOC - Source editions]]
 - [[MOC - European archives and digital collections]]
 - [[MOC - Ottoman archives]]
 - [[MOC - Geniza archives]]
