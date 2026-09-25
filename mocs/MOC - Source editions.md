@@ -14,7 +14,7 @@ status: seed
 
 **Scope, stated once**: the grant names its core archives as Ottoman, Geniza, Edo-Japanese, VOC, Toulousain and Italian, with the New Julfa and *ortoq* seam; the EIC, the Low Countries and Hanse, the Iberian Atlantic, China and the maritime-law compilations are added because the census's coded rows rest on them.
 
-**In Zotero** (added 2026-09-24): collection *HistorEE — source editions*, 113 items, a curated subset of the notes below — the bibliographically secure items, not the ⚠️ leads. Every item carries the tag `HistorEE-source-editions` and one corpus tag (`se-geniza`, `se-ottoman-islamic-law`, `se-voc`, `se-eic`, `se-italian-mediterranean`, `se-maritime-law`, `se-julfa-ortoq`, `se-lowcountries-hanse`, `se-iberian-atlantic`, `se-edo-japan`, `se-china`). Five editions already in the library (Lopez & Raymond, *India Traders*, Ackerman-Lieberman 2014, Aslanian 2011, Pardessus) are tagged but not moved.
+**In Zotero** (added 2026-09-24): collection *HistorEE — source editions*, 118 items, a curated subset of the notes below — the bibliographically secure items, not the ⚠️ leads. Every item carries the tag `HistorEE-source-editions` and one corpus tag (`se-geniza`, `se-ottoman-islamic-law`, `se-voc`, `se-eic`, `se-italian-mediterranean`, `se-maritime-law`, `se-julfa-ortoq`, `se-lowcountries-hanse`, `se-iberian-atlantic`, `se-edo-japan`, `se-china`). Five editions already in the library (Lopez & Raymond, *India Traders*, Ackerman-Lieberman 2014, Aslanian 2011, Pardessus) are tagged but not moved. **The Dutch RGP items carry their Huygens retroboeken full-text URLs** (added 2026-09-25).
 
 ## By corpus
 

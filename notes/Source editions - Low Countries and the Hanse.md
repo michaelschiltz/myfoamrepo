@@ -23,6 +23,18 @@ status: seed
 - **Van Dillen (ed.), *Bronnen tot de geschiedenis van het bedrijfsleven en het gildewezen van Amsterdam*** (RGP GS 69, 1929; 78, 1933; 144, 1974), 1512–1672 — guild ordinances and **notarial acts on business life; the main Amsterdam printed source for guild funds and company contracts.** ⚠️ Act-level contents not checked.
 - **Posthumus (ed.), *Bronnen tot de geschiedenis van de Leidsche textielnijverheid, 1333–1795*** (RGP GS 8, 14, 18, 22, 39, 49) — guild keuren and welfare funds.
 
+### Full-text addresses (added 2026-09-25)
+
+**All of the series above are online as full text at Huygens retroboeken** — the pre-war volumes and the post-war RGP volumes alike. The Zotero items carry these URLs:
+
+- Poelman (GS 35–36) **and Winkelman (GS 133–186)**: <https://resources.huygens.knaw.nl/retroboeken/oostzeehandel/#page=0&accessor=toc&view=homePane> — vols 1–2 Poelman, vols 3–8 Winkelman. **Huygens lists both under Poelman's title**, which is the source of the `bodemerij_amsterdam` title slip (logbook 5, 2026-09-24).
+- Smit, England, Scotland and Ireland: <https://resources.huygens.knaw.nl/retroboeken/handel_engeland/#page=0&accessor=toc&view=homePane>
+- Sneller & Unger, France (GS 70 + supplement, 190, 211): <https://resources.huygens.knaw.nl/retroboeken/franse_handel/#page=0&accessor=toc&view=homePane>
+- Heeringa & Nanninga, Levant: <https://resources.huygens.knaw.nl/retroboeken/levantschehandel/#page=0&accessor=toc&view=homePane>
+- Van Dillen, wisselbanken: <https://resources.huygens.knaw.nl/retroboeken/wisselbanken/#page=0&accessor=toc&view=homePane>
+- Van Dillen, bedrijfsleven en gildewezen (GS 69, 78, 144): <https://resources.huygens.knaw.nl/retroboeken/gildewezen/#page=0&accessor=toc&view=homePane>
+- Posthumus, Leidsche textielnijverheid: <https://resources.huygens.knaw.nl/retroboeken/leidsetextiel/#page=0&accessor=toc&view=homePane>
+
 ## Antwerp and Bruges
 
 - **Renée Doehaerd (ed.), *Études anversoises: documents sur le commerce international à Anvers, 1488–1514***, 3 vols (Paris: SEVPEN, 1962–63; Ports – Routes – Trafics XIV) — **a French calendar of the aldermen's *certificats* and *lettres échevinales***: the printed layer of [[Antwerp schepenregisters and the regesten]] for the boom years. Print only.

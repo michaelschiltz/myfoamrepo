@@ -57,7 +57,7 @@ Van Dam gives the VOC something no East Asian case in the corpus has: internal d
 
 ## Verify
 
-- Not yet checked against the Zotero library — search both spellings, then add the RGP edition with the retroboeken URLs attached.
+- **Done 2026-09-25**: not previously in Zotero under either spelling; the RGP edition is now in the collection *HistorEE — source editions* with the retroboeken URL attached.
 - Dari-Mattiacci, Gelderblom, Jonker and Perotti, "The Emergence of the Corporate Form," *Journal of Law, Economics, and Organization* 33, no. 2 (2017) — **full citation and pagination unverified**; this is the reconstruction van Dam should be read against.
 - "Caveat from the Archive: Pieter van Dam's *Beschryvinge van de Oostindische Compagnie* and Crisis Management," *Journal for the History of Knowledge* (2020), <https://journalhistoryknowledge.org/article/view/11172> — **author, volume and pagination unverified**. On van Dam's compilation practice and the *Beschryvinge* read as a management document; likely the fastest route into the source's own historiography.
 - *Itinerario* review of the 1977 Nijhoff reprint — reviewer and issue unverified.
