@@ -122,3 +122,7 @@ Where the sources for the European companies are and are not machine-readable is
 - [[The mita boundary separates two components not two points on a trajectory]] — the WP3 demonstration case, and why the author's own mechanism settles it
 - [[The mita critiques establish five nulls and none is the estimand]] — the five published attacks, what each establishes, and what none of them reaches
 - [[A refutation that shares the estimand inherits the defect]] — the critique of the critics, and the guardrail against citing an ensemble null as support
+
+## Added 2026-09-27 — the blind re-coding procedure
+
+- [[Blind re-coding workflow - operator, coder, application]] — operator, coder and application as three chats; the priors commit as the hinge; how to verify a scrubbed bundle against the live tree

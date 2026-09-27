@@ -222,6 +222,9 @@ Project hub for the book. Atomic notes hang off both this project MOC and a them
 - [[Jensen gap]]
 - [[The ie as entity-shielding]]
 
+## Notes — blind re-coding procedure
+
+- [[Blind re-coding workflow - operator, coder, application]]
 
 [MOC - Ergodicity and the time-ensemble distinction]: <MOC - Ergodicity and the time-ensemble distinction.md> "MOC - Ergodicity and the time-ensemble distinction"
 [MOC - Entity-shielding and corporate forms]: <MOC - Entity-shielding and corporate forms.md> "MOC - Entity-shielding and corporate forms"

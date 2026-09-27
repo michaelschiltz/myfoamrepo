@@ -5,7 +5,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "A blind is a property of the channel not of the dataset",
-      "value": 13,
+      "value": 14,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -14,7 +14,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "A blind re-coding is only blind if the value sets are",
-      "value": 15,
+      "value": 16,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -77,7 +77,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "A prediction is evidence only if its priority is committed",
-      "value": 14,
+      "value": 16,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -739,6 +739,15 @@
       "shape": "dot"
     },
     {
+      "id": "Blind re-coding workflow - operator, coder, application",
+      "type": "reference",
+      "group": "reference",
+      "label": "Blind re-coding workflow - operator, coder, application",
+      "value": 12,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
       "id": "Bodleian Library - the Oxford Genizah fragments",
       "type": "reference",
       "group": "reference",
@@ -986,7 +995,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Count degrees of freedom not cells",
-      "value": 53,
+      "value": 54,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -3110,7 +3119,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Split provenance into priority and independence",
-      "value": 28,
+      "value": 29,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -4676,7 +4685,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - HistorEE",
-      "value": 367,
+      "value": 369,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -4685,7 +4694,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Historiography and method",
-      "value": 191,
+      "value": 193,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -4802,7 +4811,7 @@
       "type": "database",
       "group": "database",
       "label": "organizational_forms",
-      "value": 23,
+      "value": 24,
       "color": "#a6761d",
       "shape": "database"
     },
@@ -7213,6 +7222,38 @@
     {
       "from": "Berlin - the Turfan collection",
       "to": "Old Uyghur contracts - the documentary layer under the ortoq"
+    },
+    {
+      "from": "Blind re-coding workflow - operator, coder, application",
+      "to": "A blind is a property of the channel not of the dataset"
+    },
+    {
+      "from": "Blind re-coding workflow - operator, coder, application",
+      "to": "A blind re-coding is only blind if the value sets are"
+    },
+    {
+      "from": "Blind re-coding workflow - operator, coder, application",
+      "to": "A prediction is evidence only if its priority is committed"
+    },
+    {
+      "from": "Blind re-coding workflow - operator, coder, application",
+      "to": "Count degrees of freedom not cells"
+    },
+    {
+      "from": "Blind re-coding workflow - operator, coder, application",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Blind re-coding workflow - operator, coder, application",
+      "to": "MOC - Historiography and method"
+    },
+    {
+      "from": "Blind re-coding workflow - operator, coder, application",
+      "to": "Split provenance into priority and independence"
+    },
+    {
+      "from": "Blind re-coding workflow - operator, coder, application",
+      "to": "organizational_forms"
     },
     {
       "from": "Bodleian Library - the Oxford Genizah fragments",
@@ -13756,6 +13797,10 @@
     },
     {
       "from": "MOC - HistorEE",
+      "to": "Blind re-coding workflow - operator, coder, application"
+    },
+    {
+      "from": "MOC - HistorEE",
       "to": "Cooperation is an averaging puzzle and sovereign repayment is a barrier puzzle"
     },
     {
@@ -14289,6 +14334,10 @@
     {
       "from": "MOC - Historiography and method",
       "to": "Attractor selection bounds what a persistence design can resolve"
+    },
+    {
+      "from": "MOC - Historiography and method",
+      "to": "Blind re-coding workflow - operator, coder, application"
     },
     {
       "from": "MOC - Historiography and method",

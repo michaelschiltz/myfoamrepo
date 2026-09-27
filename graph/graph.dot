@@ -83,6 +83,7 @@ digraph vault {
   "BelgicaPress and KBR - the thin full-text layer" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
   "Bergen and the Hanseatic Kontor" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
   "Berlin - the Turfan collection" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
+  "Blind re-coding workflow - operator, coder, application" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
   "Bodleian Library - the Oxford Genizah fragments" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
   "Bodmerei - where the German bottomry records are" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
   "Books are imaged and documents are not - the Japanese digital split" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
@@ -1134,6 +1135,14 @@ digraph vault {
   "Berlin - the Turfan collection" -> "MOC - German archives";
   "Berlin - the Turfan collection" -> "MOC - Silk Road archives";
   "Berlin - the Turfan collection" -> "Old Uyghur contracts - the documentary layer under the ortoq";
+  "Blind re-coding workflow - operator, coder, application" -> "A blind is a property of the channel not of the dataset";
+  "Blind re-coding workflow - operator, coder, application" -> "A blind re-coding is only blind if the value sets are";
+  "Blind re-coding workflow - operator, coder, application" -> "A prediction is evidence only if its priority is committed";
+  "Blind re-coding workflow - operator, coder, application" -> "Count degrees of freedom not cells";
+  "Blind re-coding workflow - operator, coder, application" -> "MOC - HistorEE";
+  "Blind re-coding workflow - operator, coder, application" -> "MOC - Historiography and method";
+  "Blind re-coding workflow - operator, coder, application" -> "Split provenance into priority and independence";
+  "Blind re-coding workflow - operator, coder, application" -> "organizational_forms";
   "Bodleian Library - the Oxford Genizah fragments" -> "Cambridge University Library - the Taylor-Schechter Genizah Collection";
   "Bodleian Library - the Oxford Genizah fragments" -> "Geniza partnership documents - where the census's isqa and qirad evidence sits";
   "Bodleian Library - the Oxford Genizah fragments" -> "MOC - Geniza archives";
@@ -2769,6 +2778,7 @@ digraph vault {
   "MOC - HistorEE" -> "Arthur's lock-in and capital lock-in are different objects";
   "MOC - HistorEE" -> "Attractor selection bounds what a persistence design can resolve";
   "MOC - HistorEE" -> "Bad luck is what the ensemble average calls the modal trajectory";
+  "MOC - HistorEE" -> "Blind re-coding workflow - operator, coder, application";
   "MOC - HistorEE" -> "Cooperation is an averaging puzzle and sovereign repayment is a barrier puzzle";
   "MOC - HistorEE" -> "Count degrees of freedom not cells";
   "MOC - HistorEE" -> "Defending expected utility by axiomatics forfeits its normative claim";
@@ -2903,6 +2913,7 @@ digraph vault {
   "MOC - Historiography and method" -> "Amsterdam notaries drafted ship-pledged and goods-pledged bodemerij as one instrument";
   "MOC - Historiography and method" -> "Arrow-Debreu dissolves time rather than neglecting it";
   "MOC - Historiography and method" -> "Attractor selection bounds what a persistence design can resolve";
+  "MOC - Historiography and method" -> "Blind re-coding workflow - operator, coder, application";
   "MOC - Historiography and method" -> "Borrow the diagnostics not the tree";
   "MOC - Historiography and method" -> "Bottomry and respondentia are one institution named twice in English";
   "MOC - Historiography and method" -> "Brown tests equality where a risk reading predicts dispersion";
