@@ -126,3 +126,4 @@ Where the sources for the European companies are and are not machine-readable is
 ## Added 2026-09-27 — the blind re-coding procedure
 
 - [[Blind re-coding workflow - operator, coder, application]] — operator, coder and application as three chats; the priors commit as the hinge; how to verify a scrubbed bundle against the live tree
+- [[Hold the rater fixed and vary the evidence]] — why a fixed-evidence re-code measures the interpreter; blinding protects priority only; secondary and primary as two filters

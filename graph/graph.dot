@@ -185,6 +185,7 @@ digraph vault {
   "Historiographical Institute - the Shiryo Hensanjo and the Dai Nihon series" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
   "Historisches Archiv der Stadt Koln and the 2009 collapse" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
   "Hof van Holland - the civil litigation record" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
+  "Hold the rater fixed and vary the evidence" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Homoplasy is the finding not the noise" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Hrvatski drzavni arhiv - Zagreb" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
   "Huizhou documents - the largest private contract corpus" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
@@ -1934,6 +1935,20 @@ digraph vault {
   "Hof van Holland - the civil litigation record" -> "Nationaal Archief - The Hague";
   "Hof van Holland - the civil litigation record" -> "Stadsarchief Amsterdam - the notarial archive";
   "Hof van Holland - the civil litigation record" -> "The creditor limb of entity shielding has no witness";
+  "Hold the rater fixed and vary the evidence" -> "A blind is a property of the channel not of the dataset";
+  "Hold the rater fixed and vary the evidence" -> "A blind re-coding is only blind if the value sets are";
+  "Hold the rater fixed and vary the evidence" -> "A prediction is evidence only if its priority is committed";
+  "Hold the rater fixed and vary the evidence" -> "Blind re-coding workflow - operator, coder, application";
+  "Hold the rater fixed and vary the evidence" -> "Galton's problem applies to the apparatus not only to the institutions";
+  "Hold the rater fixed and vary the evidence" -> "Licensing the ensemble is a dynamical question not a metaphysical one";
+  "Hold the rater fixed and vary the evidence" -> "MOC - HistorEE";
+  "Hold the rater fixed and vary the evidence" -> "MOC - Historiography and method";
+  "Hold the rater fixed and vary the evidence" -> "Refusals are observations of the filter not inferences from survivors";
+  "Hold the rater fixed and vary the evidence" -> "Split provenance into priority and independence";
+  "Hold the rater fixed and vary the evidence" -> "The notarial security clause is boilerplate and cannot carry a typology";
+  "Hold the rater fixed and vary the evidence" -> "The record of non-survivors survives where failure was administered";
+  "Hold the rater fixed and vary the evidence" -> "loss_mitigation_forms";
+  "Hold the rater fixed and vary the evidence" -> "organizational_forms";
   "Homoplasy is the finding not the noise" -> "Borrow the diagnostics not the tree";
   "Homoplasy is the finding not the noise" -> "Deep-roots variables are symplesiomorphies";
   "Homoplasy is the finding not the noise" -> "Divergent arbitrary particulars are the independence diagnostic";
@@ -2802,6 +2817,7 @@ digraph vault {
   "MOC - HistorEE" -> "Gharar excludes designed-in unverifiability";
   "MOC - HistorEE" -> "Guard against reverse-teleology";
   "MOC - HistorEE" -> "Hierro Anibarro 2005 on the asiento de averia and the privileged company";
+  "MOC - HistorEE" -> "Hold the rater fixed and vary the evidence";
   "MOC - HistorEE" -> "Identity-wrapper and perpetual-monopoly are distinct shielding facets";
   "MOC - HistorEE" -> "Independence of apparatus is not independence of question";
   "MOC - HistorEE" -> "Institutions substitute state-verification for outcome-inference as ruin exposure rises";
@@ -2929,6 +2945,7 @@ digraph vault {
   "MOC - Historiography and method" -> "Galton's problem applies to the apparatus not only to the institutions";
   "MOC - Historiography and method" -> "Guard against reverse-teleology";
   "MOC - Historiography and method" -> "Harris 2020 on the late plurality of limited liability";
+  "MOC - Historiography and method" -> "Hold the rater fixed and vary the evidence";
   "MOC - Historiography and method" -> "Homoplasy is the finding not the noise";
   "MOC - Historiography and method" -> "Independence of apparatus is not independence of question";
   "MOC - Historiography and method" -> "Isqa qirad and commenda are a liability-variable triad";

@@ -5,7 +5,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "A blind is a property of the channel not of the dataset",
-      "value": 14,
+      "value": 15,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -14,7 +14,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "A blind re-coding is only blind if the value sets are",
-      "value": 16,
+      "value": 17,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -77,7 +77,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "A prediction is evidence only if its priority is committed",
-      "value": 16,
+      "value": 18,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -743,7 +743,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Blind re-coding workflow - operator, coder, application",
-      "value": 12,
+      "value": 13,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1445,7 +1445,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Galton's problem applies to the apparatus not only to the institutions",
-      "value": 19,
+      "value": 21,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1654,6 +1654,15 @@
       "label": "Hof van Holland - the civil litigation record",
       "value": 22,
       "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "Hold the rater fixed and vary the evidence",
+      "type": "permanent",
+      "group": "seed",
+      "label": "Hold the rater fixed and vary the evidence",
+      "value": 22,
+      "color": "#e6ab02",
       "shape": "dot"
     },
     {
@@ -2075,7 +2084,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Licensing the ensemble is a dynamical question not a metaphysical one",
-      "value": 13,
+      "value": 15,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -2723,7 +2732,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Refusals are observations of the filter not inferences from survivors",
-      "value": 115,
+      "value": 116,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -3119,7 +3128,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Split provenance into priority and independence",
-      "value": 29,
+      "value": 31,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -4028,7 +4037,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The notarial security clause is boilerplate and cannot carry a typology",
-      "value": 16,
+      "value": 18,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -4091,7 +4100,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The record of non-survivors survives where failure was administered",
-      "value": 37,
+      "value": 38,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -4685,7 +4694,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - HistorEE",
-      "value": 369,
+      "value": 371,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -4694,7 +4703,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Historiography and method",
-      "value": 193,
+      "value": 195,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -4811,7 +4820,7 @@
       "type": "database",
       "group": "database",
       "label": "organizational_forms",
-      "value": 24,
+      "value": 25,
       "color": "#a6761d",
       "shape": "database"
     },
@@ -4820,7 +4829,7 @@
       "type": "database",
       "group": "database",
       "label": "loss_mitigation_forms",
-      "value": 40,
+      "value": 41,
       "color": "#a6761d",
       "shape": "database"
     },
@@ -10420,6 +10429,62 @@
       "to": "The creditor limb of entity shielding has no witness"
     },
     {
+      "from": "Hold the rater fixed and vary the evidence",
+      "to": "A blind is a property of the channel not of the dataset"
+    },
+    {
+      "from": "Hold the rater fixed and vary the evidence",
+      "to": "A blind re-coding is only blind if the value sets are"
+    },
+    {
+      "from": "Hold the rater fixed and vary the evidence",
+      "to": "A prediction is evidence only if its priority is committed"
+    },
+    {
+      "from": "Hold the rater fixed and vary the evidence",
+      "to": "Blind re-coding workflow - operator, coder, application"
+    },
+    {
+      "from": "Hold the rater fixed and vary the evidence",
+      "to": "Galton's problem applies to the apparatus not only to the institutions"
+    },
+    {
+      "from": "Hold the rater fixed and vary the evidence",
+      "to": "Licensing the ensemble is a dynamical question not a metaphysical one"
+    },
+    {
+      "from": "Hold the rater fixed and vary the evidence",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Hold the rater fixed and vary the evidence",
+      "to": "MOC - Historiography and method"
+    },
+    {
+      "from": "Hold the rater fixed and vary the evidence",
+      "to": "Refusals are observations of the filter not inferences from survivors"
+    },
+    {
+      "from": "Hold the rater fixed and vary the evidence",
+      "to": "Split provenance into priority and independence"
+    },
+    {
+      "from": "Hold the rater fixed and vary the evidence",
+      "to": "The notarial security clause is boilerplate and cannot carry a typology"
+    },
+    {
+      "from": "Hold the rater fixed and vary the evidence",
+      "to": "The record of non-survivors survives where failure was administered"
+    },
+    {
+      "from": "Hold the rater fixed and vary the evidence",
+      "to": "loss_mitigation_forms"
+    },
+    {
+      "from": "Hold the rater fixed and vary the evidence",
+      "to": "organizational_forms"
+    },
+    {
       "from": "Homoplasy is the finding not the noise",
       "to": "Borrow the diagnostics not the tree"
     },
@@ -13893,6 +13958,10 @@
     },
     {
       "from": "MOC - HistorEE",
+      "to": "Hold the rater fixed and vary the evidence"
+    },
+    {
+      "from": "MOC - HistorEE",
       "to": "Identity-wrapper and perpetual-monopoly are distinct shielding facets"
     },
     {
@@ -14398,6 +14467,10 @@
     {
       "from": "MOC - Historiography and method",
       "to": "Harris 2020 on the late plurality of limited liability"
+    },
+    {
+      "from": "MOC - Historiography and method",
+      "to": "Hold the rater fixed and vary the evidence"
     },
     {
       "from": "MOC - Historiography and method",
