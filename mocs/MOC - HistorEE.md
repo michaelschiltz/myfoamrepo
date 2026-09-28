@@ -226,6 +226,7 @@ Project hub for the book. Atomic notes hang off both this project MOC and a them
 
 - [[Blind re-coding workflow - operator, coder, application]]
 - [[Hold the rater fixed and vary the evidence]]
+- [[Primary against secondary coding workflow - three arms, reveal, application]]
 
 [MOC - Ergodicity and the time-ensemble distinction]: <MOC - Ergodicity and the time-ensemble distinction.md> "MOC - Ergodicity and the time-ensemble distinction"
 [MOC - Entity-shielding and corporate forms]: <MOC - Entity-shielding and corporate forms.md> "MOC - Entity-shielding and corporate forms"

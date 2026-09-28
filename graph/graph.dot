@@ -294,6 +294,7 @@ digraph vault {
   "Preservation-grade overhead scanners - Zeutschel and i2S" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
   "Pricing is orthogonal to mitigation mechanism not a stage of it" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Pricing risk does not remove it" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
+  "Primary against secondary coding workflow - three arms, reveal, application" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
   "Princeton Geniza Project - the documentary database" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
   "Prospect theory's parameters are neither population constants nor individual traits" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Pure multiplicative dynamics are permutation-invariant" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
@@ -1142,6 +1143,7 @@ digraph vault {
   "Blind re-coding workflow - operator, coder, application" -> "Count degrees of freedom not cells";
   "Blind re-coding workflow - operator, coder, application" -> "MOC - HistorEE";
   "Blind re-coding workflow - operator, coder, application" -> "MOC - Historiography and method";
+  "Blind re-coding workflow - operator, coder, application" -> "Primary against secondary coding workflow - three arms, reveal, application";
   "Blind re-coding workflow - operator, coder, application" -> "Split provenance into priority and independence";
   "Blind re-coding workflow - operator, coder, application" -> "organizational_forms";
   "Bodleian Library - the Oxford Genizah fragments" -> "Cambridge University Library - the Taylor-Schechter Genizah Collection";
@@ -1943,6 +1945,7 @@ digraph vault {
   "Hold the rater fixed and vary the evidence" -> "Licensing the ensemble is a dynamical question not a metaphysical one";
   "Hold the rater fixed and vary the evidence" -> "MOC - HistorEE";
   "Hold the rater fixed and vary the evidence" -> "MOC - Historiography and method";
+  "Hold the rater fixed and vary the evidence" -> "Primary against secondary coding workflow - three arms, reveal, application";
   "Hold the rater fixed and vary the evidence" -> "Refusals are observations of the filter not inferences from survivors";
   "Hold the rater fixed and vary the evidence" -> "Split provenance into priority and independence";
   "Hold the rater fixed and vary the evidence" -> "The notarial security clause is boilerplate and cannot carry a typology";
@@ -2843,6 +2846,7 @@ digraph vault {
   "MOC - HistorEE" -> "Path dependence literature";
   "MOC - HistorEE" -> "Path dependence requires naming the non-commuting operation";
   "MOC - HistorEE" -> "Pricing risk does not remove it";
+  "MOC - HistorEE" -> "Primary against secondary coding workflow - three arms, reveal, application";
   "MOC - HistorEE" -> "Pure multiplicative dynamics are permutation-invariant";
   "MOC - HistorEE" -> "Ragusan collegantia is unilateral and Venetian collegantia is bilateral";
   "MOC - HistorEE" -> "Reinforcement selects an attractor the ensemble average never occupies";
@@ -2960,6 +2964,7 @@ digraph vault {
   "MOC - Historiography and method" -> "Path dependence literature";
   "MOC - Historiography and method" -> "Path dependence requires naming the non-commuting operation";
   "MOC - Historiography and method" -> "Persistence samples are conditioned on non-absorption";
+  "MOC - Historiography and method" -> "Primary against secondary coding workflow - three arms, reveal, application";
   "MOC - Historiography and method" -> "Ragusan collegantia is unilateral and Venetian collegantia is bilateral";
   "MOC - Historiography and method" -> "Refusals are observations of the filter not inferences from survivors";
   "MOC - Historiography and method" -> "Relief ko for a named person is claimed to be unattested outside Japan";
@@ -3666,6 +3671,17 @@ digraph vault {
   "Pricing risk does not remove it" -> "The four-step decoupling from participation to the veil";
   "Pricing risk does not remove it" -> "The sea loan is a contingent claim not a loan";
   "Pricing risk does not remove it" -> "Time-average";
+  "Primary against secondary coding workflow - three arms, reveal, application" -> "A blind is a property of the channel not of the dataset";
+  "Primary against secondary coding workflow - three arms, reveal, application" -> "A prediction is evidence only if its priority is committed";
+  "Primary against secondary coding workflow - three arms, reveal, application" -> "Blind re-coding workflow - operator, coder, application";
+  "Primary against secondary coding workflow - three arms, reveal, application" -> "Count degrees of freedom not cells";
+  "Primary against secondary coding workflow - three arms, reveal, application" -> "Hold the rater fixed and vary the evidence";
+  "Primary against secondary coding workflow - three arms, reveal, application" -> "MOC - HistorEE";
+  "Primary against secondary coding workflow - three arms, reveal, application" -> "MOC - Historiography and method";
+  "Primary against secondary coding workflow - three arms, reveal, application" -> "Split provenance into priority and independence";
+  "Primary against secondary coding workflow - three arms, reveal, application" -> "The notarial security clause is boilerplate and cannot carry a typology";
+  "Primary against secondary coding workflow - three arms, reveal, application" -> "loss_mitigation_forms";
+  "Primary against secondary coding workflow - three arms, reveal, application" -> "organizational_forms";
   "Princeton Geniza Project - the documentary database" -> "Cairo Geniza - the deposit and its survival rule";
   "Princeton Geniza Project - the documentary database" -> "Geniza partnership documents - where the census's isqa and qirad evidence sits";
   "Princeton Geniza Project - the documentary database" -> "JTS Library - the Elkan Nathan Adler Geniza collection";

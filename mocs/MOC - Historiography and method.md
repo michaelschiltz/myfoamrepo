@@ -127,3 +127,4 @@ Where the sources for the European companies are and are not machine-readable is
 
 - [[Blind re-coding workflow - operator, coder, application]] — operator, coder and application as three chats; the priors commit as the hinge; how to verify a scrubbed bundle against the live tree
 - [[Hold the rater fixed and vary the evidence]] — why a fixed-evidence re-code measures the interpreter; blinding protects priority only; secondary and primary as two filters
+- [[Primary against secondary coding workflow - three arms, reveal, application]] — the evidence-varying companion: secondary arm, primary arm with an instance layer, reveal and directed search; the four kinds of difference; anchoring and observability scoring
