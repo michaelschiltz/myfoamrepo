@@ -12,9 +12,14 @@ status: seed
 
 The printed notarial and business-record editions behind the census's *commenda*, *societas maris*, *collegantia*, *compagnia*, sea-loan and insurance rows. **Maritime-law compilations have their own note**: [[Source editions - maritime law compilations]].
 
-## The wanted item, and a page correction
+## Wanted items, and a page correction
 
 - **Robert S. Lopez & Irving W. Raymond (tr. and eds), *Medieval Trade in the Mediterranean World: Illustrative Documents Translated with Introductions and Notes*** (New York: Columbia UP, 1955; Records of Civilization 52), xi + 458 pp.; reprints 1961, 1990; Norton paperback; Columbia reissue 2001 with a foreword by O. R. Constable. **The pages the census wants: "The Sea Loan and the Sea Exchange" from p. 168; "The *Commenda* Contract" from p. 174; "Partnerships … in Land Trade" from p. 185.** So pp. 174–184 is the whole commenda chapter, and **the sea-loan chapter at pp. 168–173 should be taken too**. Online only via archive.org's print-disabled service or the ACLS Humanities E-Book on Fulcrum (subscription).
+
+- **Wanted 2026-09-28, to buy in hardcopy: Morozzo della Rocca & Lombardo, *Documenti del commercio veneziano nei secoli XI–XIII*, 2 vols (1940; repr. 1971), and Lombardo & Morozzo della Rocca, *Nuovi documenti del commercio veneto dei sec. XI–XIII* (1953).** Full entries under Venice below. **Buy both works, not the 1940 pair alone.** No open full text was found on 2026-09-28 (catalogue records only: WorldCat, BnF, Google Books). One copy of the 1953 volume was listed on Maremagnum that day. The 1971 reprint is a second route to the 1940 volumes.
+  - **What they should settle.** First, the Venetian half of the `societas_maris` row, which has had no primary test. Second, `commenda_alloc` `VF1` and `VF2` at their source: the live cells rest on the *clarefactum* formula that Held 2025 and González de Lara report as common in Venetian documents. Third, the effective n of a formulary comparison: the collection draws on many notaries, not one per corpus. Fourth, settlement and dispute documents, the likeliest route to proof of loss and to outside creditors. ⚠️ Confirm the contents on arrival.
+  - **Not an independent base.** González de Lara and Held both draw on this edition, so a Venetian pilot measures what the secondary literature did to these documents; it cannot corroborate it. See [[Primary against secondary coding workflow - three arms, reveal, application]].
+  - **On arrival:** collate within the warranty window. Scan at about 400 dpi greyscale and keep the page images, since quotes carrying minority states are checked against them. OCR the Latin. Read the editors' stated selection criteria and measure the selection before sampling, as was done for Blancard. Cut the introductions and apparatus out of any copy given to a coder.
 
 ## Genoa
 
@@ -106,3 +111,5 @@ Venice: Comitato per la pubblicazione delle fonti relative alla storia di Venezi
 ## Source
 
 Source-editions survey, 24 September 2026. Fulcrum table of contents (Lopez & Raymond); WorldCat, Sudoc, HathiTrust, Stanford SearchWorks, BnF records; review headings in *JEH* and *AHR*; Istituto Datini pages; Tognetti's survey of Tuscan account-book editions (*Anuario de Estudios Medievales*); Le Bris, Goetzmann & Pouget, NBER WP 21335. **Added the same day**: UW–Madison catalogue records, the Frankika (EFA) bibliography, Sudoc, Balard's CV, IBS, HathiTrust (Argenti), the Regione Veneto series list and Viella's series page. Read through catalogue pages; **no edition opened.**
+
+The Morozzo della Rocca and Lombardo want-list entry was added on 2026-09-28 (session `commenda-pilot-application`), from WorldCat, BnF, Google Books and Maremagnum catalogue pages; no volume opened.

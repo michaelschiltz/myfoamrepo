@@ -2309,6 +2309,7 @@ digraph vault {
   "MOC - Acquisitions and the antiquarian trade" -> "MOC - Source editions";
   "MOC - Acquisitions and the antiquarian trade" -> "Preservation-grade overhead scanners - Zeutschel and i2S";
   "MOC - Acquisitions and the antiquarian trade" -> "Refusals are observations of the filter not inferences from survivors";
+  "MOC - Acquisitions and the antiquarian trade" -> "Source editions - Italian and Mediterranean commerce";
   "MOC - Acquisitions and the antiquarian trade" -> "Split provenance into priority and independence";
   "MOC - Acquisitions and the antiquarian trade" -> "The Nakai ledger scores as losses what present value scores as gains";
   "MOC - Acquisitions and the antiquarian trade" -> "The QDL corpus is conditioned on its funder's geography";
@@ -4011,6 +4012,7 @@ digraph vault {
   "Source editions - Italian and Mediterranean commerce" -> "Casa di San Giorgio - the Genoese public debt archive";
   "Source editions - Italian and Mediterranean commerce" -> "MOC - Italian archives";
   "Source editions - Italian and Mediterranean commerce" -> "MOC - Source editions";
+  "Source editions - Italian and Mediterranean commerce" -> "Primary against secondary coding workflow - three arms, reveal, application";
   "Source editions - Italian and Mediterranean commerce" -> "Source editions - maritime law compilations";
   "Source editions - Italian and Mediterranean commerce" -> "The Bazacle records - a custody problem";
   "Source editions - Low Countries and the Hanse" -> "Antwerp schepenregisters and the regesten";

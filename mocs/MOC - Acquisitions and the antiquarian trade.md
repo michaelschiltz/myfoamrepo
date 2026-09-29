@@ -58,6 +58,7 @@ Provenance deserves the same discipline the project applies elsewhere. A chain o
 
 - [[Antiquarian booksellers - the top tier and where economic history sits]] — the dealers, the ILAB guarantee, and the economic-history specialists
 - [[Isqa reading list to acquire]] — the live want-list, and the search-failure post-mortem that generated the method rule above
+- [[Source editions - Italian and Mediterranean commerce]] — want-list for the commenda family: Lopez & Raymond, and Morozzo della Rocca & Lombardo (hardcopy, 2026-09-28)
 
 ## Where this hub meets the others
 

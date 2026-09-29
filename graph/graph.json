@@ -2642,7 +2642,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Primary against secondary coding workflow - three arms, reveal, application",
-      "value": 20,
+      "value": 21,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -3065,7 +3065,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Source editions - Italian and Mediterranean commerce",
-      "value": 12,
+      "value": 14,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -4568,7 +4568,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Acquisitions and the antiquarian trade",
-      "value": 63,
+      "value": 64,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -11931,6 +11931,10 @@
     },
     {
       "from": "MOC - Acquisitions and the antiquarian trade",
+      "to": "Source editions - Italian and Mediterranean commerce"
+    },
+    {
+      "from": "MOC - Acquisitions and the antiquarian trade",
       "to": "Split provenance into priority and independence"
     },
     {
@@ -18736,6 +18740,10 @@
     {
       "from": "Source editions - Italian and Mediterranean commerce",
       "to": "MOC - Source editions"
+    },
+    {
+      "from": "Source editions - Italian and Mediterranean commerce",
+      "to": "Primary against secondary coding workflow - three arms, reveal, application"
     },
     {
       "from": "Source editions - Italian and Mediterranean commerce",
