@@ -119,6 +119,7 @@ A child cell set against a parent-derived `.NA` is none of the four; mark it dep
   - `records/PROMPT-commenda-{secondary,primary,pilot-apply}-2026-09-28.txt`, both `PRIORS-…`, both `MANIFEST-…` and `REVEAL-commenda-2026-09-28.csv`.
   - The coders' record: `NOTES-commenda-secondary-coding-…`, `NOTES-commenda-primary-coding-…`, `NOTES-commenda-primary-reveal-…`, the six `PROPOSED-RECODINGS-…` files, and `INSTANCES-`, `INSTANCE-CHARS-` and `TYPE-CENSUS-commenda-primary-2026-09-28.csv`.
   - Logbook 4 and logbook 5, 2026-09-28; the CHANGELOG block of the same date. The adjudication worksheet is open work in `proposed-of/`.
+  - The coders' own logbook drafts and commit messages, and a hash-verified snapshot of each bundle without its PDF extracts (`records/BUNDLE-commenda-{secondary,primary}-2026-09-28/`, including the Amalric Latin extract arm P coded from). The bundles themselves were deleted; logbook 1, 2026-09-28, records the move.
 - **Rows**: OF-R0065–R0190 and LM-R0001–R0057 in the two `recodings.csv` files, all `pending`.
 
 ## Links
