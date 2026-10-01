@@ -27,6 +27,7 @@ Thematic hub for the fiqh apparatus bearing on finance: *gharar*, *maysir*, *rib
 - [[The commenda and the qirad do not separate on loss allocation]]
 - [[A route clause conditions the investor's peril in three traditions]]
 - [[A migrated institution collects local names not local forms]]
+- [[A fair wager lowers both trajectories which maysir forbids and skin in the game permits]]
 
 ## Comparative — Jewish contract doctrine
 
@@ -49,6 +50,7 @@ The *ribbit* material is filed here rather than in a separate hub, because its v
 - Harris on the *waqf* in ch. 12 as a candidate origin for the corporation — confirm he frames it as candidate rather than analogue
 - R. Mendel Avigdors of Cracow — dates (given as d. 1599) and the received *nusaḥ* of the *Shetar Heter ʿIsqa ke-Tikkun MaHaRaM*; the oath/witness clause varies between recensions and the comparison needs a specific text, not the modern bank form
 - Whether the *ʿisqa* sugya (BT *Bava Metzia* 104b) has already been read against Sasanian partnership law in the Irano-Talmudica literature — sweep before claiming the lead is novel
+- Taleb's praise of Mediterranean PLS finance, cited at [[Islamic doctrine refuses risk-commodification at step one]] — not in *Antifragile* (see [[Taleb 2012 on antifragility - loci for the time-ensemble distinction]]); locate in *Skin in the Game* or elsewhere
 
 ## Links
 

@@ -69,3 +69,7 @@ Thematic hub for the corporate-form apparatus: asset-partitioning, identity-wrap
 [MOC - Risk-sharing vs risk-pricing]: <MOC - Risk-sharing vs risk-pricing.md> "MOC - Risk-sharing vs risk-pricing"
 [MOC - Ergodicity and the time-ensemble distinction]: <MOC - Ergodicity and the time-ensemble distinction.md> "MOC - Ergodicity and the time-ensemble distinction"
 [MOC - HistorEE]: <MOC - HistorEE.md> "MOC - Clearing and Settling the Realm"
+
+## Added 2026-10-01 — Taleb's *Antifragile*
+
+- [[Taleb specifies the firewall in chapter 4 and condemns it in chapter 23]] — the contagion firewall and the free option are the same relocation of the barrier; what separates them is whether the new bearer is inside the contract

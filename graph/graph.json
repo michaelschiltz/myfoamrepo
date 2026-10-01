@@ -46,6 +46,15 @@
       "shape": "dot"
     },
     {
+      "id": "A fair wager lowers both trajectories which maysir forbids and skin in the game permits",
+      "type": "permanent",
+      "group": "seed",
+      "label": "A fair wager lowers both trajectories which maysir forbids and skin in the game permits",
+      "value": 23,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
       "id": "A migrated institution collects local names not local forms",
       "type": "permanent",
       "group": "seed",
@@ -158,7 +167,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Absorbing barrier",
-      "value": 57,
+      "value": 58,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -222,6 +231,15 @@
       "group": "seed",
       "label": "Answering EU's failures with more psychology instantiates the complaint",
       "value": 26,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "Antifragility is defined by an ensemble Jensen gap",
+      "type": "permanent",
+      "group": "seed",
+      "label": "Antifragility is defined by an ensemble Jensen gap",
+      "value": 19,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -986,7 +1004,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Cooperation is an averaging puzzle and sovereign repayment is a barrier puzzle",
-      "value": 28,
+      "value": 31,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1274,7 +1292,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Entitlement by liability versus entitlement by membership",
-      "value": 17,
+      "value": 18,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1283,7 +1301,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Entity shielding and owner shielding protect different trajectories",
-      "value": 40,
+      "value": 42,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1292,7 +1310,7 @@
       "type": "permanent",
       "group": "stub",
       "label": "Entity-shielding",
-      "value": 54,
+      "value": 55,
       "color": "#666666",
       "shape": "dot"
     },
@@ -1463,7 +1481,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Galton-Watson is the extinction branch Peters named and did not develop",
-      "value": 35,
+      "value": 38,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1526,7 +1544,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Gharar excludes designed-in unverifiability",
-      "value": 23,
+      "value": 25,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1598,7 +1616,7 @@
       "type": "source",
       "group": "source",
       "label": "Harris 2020 on the late plurality of limited liability",
-      "value": 33,
+      "value": 35,
       "color": "#7570b3",
       "shape": "dot"
     },
@@ -1814,7 +1832,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Islamic doctrine refuses risk-commodification at step one",
-      "value": 24,
+      "value": 31,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1895,7 +1913,7 @@
       "type": "permanent",
       "group": "stub",
       "label": "Jensen gap",
-      "value": 32,
+      "value": 33,
       "color": "#666666",
       "shape": "dot"
     },
@@ -1904,7 +1922,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Jensen supplies the gap but only the dynamic privileges the logarithm",
-      "value": 36,
+      "value": 38,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -2408,7 +2426,7 @@
       "type": "permanent",
       "group": "stub",
       "label": "Never let the units slide from instruments to populations",
-      "value": 57,
+      "value": 59,
       "color": "#666666",
       "shape": "dot"
     },
@@ -2444,7 +2462,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Nothing in the ergodic theorem fails in geometric Brownian motion",
-      "value": 41,
+      "value": 42,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -2579,7 +2597,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Persistence samples are conditioned on non-absorption",
-      "value": 61,
+      "value": 63,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -2597,7 +2615,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Pooling's sign is set by the correlation of its baskets",
-      "value": 47,
+      "value": 49,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -3002,7 +3020,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Skin in the game",
-      "value": 54,
+      "value": 61,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -3326,7 +3344,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Syndication and the misma moneda are pooling not prudence",
-      "value": 18,
+      "value": 19,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -3340,11 +3358,38 @@
       "shape": "dot"
     },
     {
+      "id": "Taleb 2012 on antifragility - loci for the time-ensemble distinction",
+      "type": "source",
+      "group": "source",
+      "label": "Taleb 2012 on antifragility - loci for the time-ensemble distinction",
+      "value": 31,
+      "color": "#7570b3",
+      "shape": "dot"
+    },
+    {
       "id": "Taleb reads survival as evidence about the survivor and we read it as evidence about the filter",
       "type": "permanent",
       "group": "seed",
       "label": "Taleb reads survival as evidence about the survivor and we read it as evidence about the filter",
-      "value": 31,
+      "value": 37,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "Taleb secures the collective by exit and has no theory of pooling",
+      "type": "permanent",
+      "group": "seed",
+      "label": "Taleb secures the collective by exit and has no theory of pooling",
+      "value": 23,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "Taleb specifies the firewall in chapter 4 and condemns it in chapter 23",
+      "type": "permanent",
+      "group": "seed",
+      "label": "Taleb specifies the firewall in chapter 4 and condemns it in chapter 23",
+      "value": 22,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -3695,7 +3740,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The ascent narrative is the Jensen error as historiography",
-      "value": 21,
+      "value": 22,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -3857,7 +3902,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The four-step decoupling from participation to the veil",
-      "value": 22,
+      "value": 23,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -4298,7 +4343,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Time-average",
-      "value": 43,
+      "value": 44,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -4559,7 +4604,7 @@
       "type": "permanent",
       "group": "stub",
       "label": "limited-liability",
-      "value": 16,
+      "value": 17,
       "color": "#666666",
       "shape": "dot"
     },
@@ -4613,7 +4658,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Defending the ergodicity claim",
-      "value": 102,
+      "value": 103,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -4649,7 +4694,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Entity-shielding and corporate forms",
-      "value": 120,
+      "value": 122,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -4658,7 +4703,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Ergodicity and the time-ensemble distinction",
-      "value": 159,
+      "value": 167,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -4703,7 +4748,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - HistorEE",
-      "value": 373,
+      "value": 383,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -4712,7 +4757,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Historiography and method",
-      "value": 197,
+      "value": 199,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -4721,7 +4766,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Islamic contract doctrine",
-      "value": 50,
+      "value": 54,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -4775,7 +4820,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Risk-sharing vs risk-pricing",
-      "value": 141,
+      "value": 145,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -5028,6 +5073,50 @@
     {
       "from": "A contingency clause priced at zero is evidence for a time-average criterion",
       "to": "loss_mitigation_forms"
+    },
+    {
+      "from": "A fair wager lowers both trajectories which maysir forbids and skin in the game permits",
+      "to": "Cooperation is an averaging puzzle and sovereign repayment is a barrier puzzle"
+    },
+    {
+      "from": "A fair wager lowers both trajectories which maysir forbids and skin in the game permits",
+      "to": "Entitlement by liability versus entitlement by membership"
+    },
+    {
+      "from": "A fair wager lowers both trajectories which maysir forbids and skin in the game permits",
+      "to": "Galton-Watson is the extinction branch Peters named and did not develop"
+    },
+    {
+      "from": "A fair wager lowers both trajectories which maysir forbids and skin in the game permits",
+      "to": "Gharar excludes designed-in unverifiability"
+    },
+    {
+      "from": "A fair wager lowers both trajectories which maysir forbids and skin in the game permits",
+      "to": "Islamic doctrine refuses risk-commodification at step one"
+    },
+    {
+      "from": "A fair wager lowers both trajectories which maysir forbids and skin in the game permits",
+      "to": "MOC - Ergodicity and the time-ensemble distinction"
+    },
+    {
+      "from": "A fair wager lowers both trajectories which maysir forbids and skin in the game permits",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "A fair wager lowers both trajectories which maysir forbids and skin in the game permits",
+      "to": "MOC - Islamic contract doctrine"
+    },
+    {
+      "from": "A fair wager lowers both trajectories which maysir forbids and skin in the game permits",
+      "to": "MOC - Risk-sharing vs risk-pricing"
+    },
+    {
+      "from": "A fair wager lowers both trajectories which maysir forbids and skin in the game permits",
+      "to": "Skin in the game"
+    },
+    {
+      "from": "A fair wager lowers both trajectories which maysir forbids and skin in the game permits",
+      "to": "Taleb 2012 on antifragility - loci for the time-ensemble distinction"
     },
     {
       "from": "A migrated institution collects local names not local forms",
@@ -5832,6 +5921,46 @@
     {
       "from": "Answering EU's failures with more psychology instantiates the complaint",
       "to": "The representative agent is the ergodicity assumption in costume"
+    },
+    {
+      "from": "Antifragility is defined by an ensemble Jensen gap",
+      "to": "Absorbing barrier"
+    },
+    {
+      "from": "Antifragility is defined by an ensemble Jensen gap",
+      "to": "Jensen gap"
+    },
+    {
+      "from": "Antifragility is defined by an ensemble Jensen gap",
+      "to": "Jensen supplies the gap but only the dynamic privileges the logarithm"
+    },
+    {
+      "from": "Antifragility is defined by an ensemble Jensen gap",
+      "to": "MOC - Defending the ergodicity claim"
+    },
+    {
+      "from": "Antifragility is defined by an ensemble Jensen gap",
+      "to": "MOC - Ergodicity and the time-ensemble distinction"
+    },
+    {
+      "from": "Antifragility is defined by an ensemble Jensen gap",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Antifragility is defined by an ensemble Jensen gap",
+      "to": "Nothing in the ergodic theorem fails in geometric Brownian motion"
+    },
+    {
+      "from": "Antifragility is defined by an ensemble Jensen gap",
+      "to": "Taleb 2012 on antifragility - loci for the time-ensemble distinction"
+    },
+    {
+      "from": "Antifragility is defined by an ensemble Jensen gap",
+      "to": "Taleb reads survival as evidence about the survivor and we read it as evidence about the filter"
+    },
+    {
+      "from": "Antifragility is defined by an ensemble Jensen gap",
+      "to": "Time-average"
     },
     {
       "from": "Antiquarian booksellers - the top tier and where economic history sits",
@@ -10979,6 +11108,10 @@
     },
     {
       "from": "Islamic doctrine refuses risk-commodification at step one",
+      "to": "A fair wager lowers both trajectories which maysir forbids and skin in the game permits"
+    },
+    {
+      "from": "Islamic doctrine refuses risk-commodification at step one",
       "to": "MOC - HistorEE"
     },
     {
@@ -10992,6 +11125,10 @@
     {
       "from": "Islamic doctrine refuses risk-commodification at step one",
       "to": "Scuttling rewards fraud in the sea loan"
+    },
+    {
+      "from": "Islamic doctrine refuses risk-commodification at step one",
+      "to": "Taleb 2012 on antifragility - loci for the time-ensemble distinction"
     },
     {
       "from": "Islamic doctrine refuses risk-commodification at step one",
@@ -12891,6 +13028,10 @@
     },
     {
       "from": "MOC - Entity-shielding and corporate forms",
+      "to": "Taleb specifies the firewall in chapter 4 and condemns it in chapter 23"
+    },
+    {
+      "from": "MOC - Entity-shielding and corporate forms",
       "to": "The Antwerp phases separate on two cells and the boundary is textual"
     },
     {
@@ -12975,6 +13116,10 @@
     },
     {
       "from": "MOC - Ergodicity and the time-ensemble distinction",
+      "to": "A fair wager lowers both trajectories which maysir forbids and skin in the game permits"
+    },
+    {
+      "from": "MOC - Ergodicity and the time-ensemble distinction",
       "to": "A persistence parameter stable across regime change indicts the measure"
     },
     {
@@ -13004,6 +13149,10 @@
     {
       "from": "MOC - Ergodicity and the time-ensemble distinction",
       "to": "Answering EU's failures with more psychology instantiates the complaint"
+    },
+    {
+      "from": "MOC - Ergodicity and the time-ensemble distinction",
+      "to": "Antifragility is defined by an ensemble Jensen gap"
     },
     {
       "from": "MOC - Ergodicity and the time-ensemble distinction",
@@ -13171,7 +13320,15 @@
     },
     {
       "from": "MOC - Ergodicity and the time-ensemble distinction",
+      "to": "Taleb 2012 on antifragility - loci for the time-ensemble distinction"
+    },
+    {
+      "from": "MOC - Ergodicity and the time-ensemble distinction",
       "to": "Taleb reads survival as evidence about the survivor and we read it as evidence about the filter"
+    },
+    {
+      "from": "MOC - Ergodicity and the time-ensemble distinction",
+      "to": "Taleb secures the collective by exit and has no theory of pooling"
     },
     {
       "from": "MOC - Ergodicity and the time-ensemble distinction",
@@ -13827,6 +13984,10 @@
     },
     {
       "from": "MOC - HistorEE",
+      "to": "A fair wager lowers both trajectories which maysir forbids and skin in the game permits"
+    },
+    {
+      "from": "MOC - HistorEE",
       "to": "A migrated institution collects local names not local forms"
     },
     {
@@ -13864,6 +14025,10 @@
     {
       "from": "MOC - HistorEE",
       "to": "Answering EU's failures with more psychology instantiates the complaint"
+    },
+    {
+      "from": "MOC - HistorEE",
+      "to": "Antifragility is defined by an ensemble Jensen gap"
     },
     {
       "from": "MOC - HistorEE",
@@ -14147,7 +14312,19 @@
     },
     {
       "from": "MOC - HistorEE",
+      "to": "Taleb 2012 on antifragility - loci for the time-ensemble distinction"
+    },
+    {
+      "from": "MOC - HistorEE",
       "to": "Taleb reads survival as evidence about the survivor and we read it as evidence about the filter"
+    },
+    {
+      "from": "MOC - HistorEE",
+      "to": "Taleb secures the collective by exit and has no theory of pooling"
+    },
+    {
+      "from": "MOC - HistorEE",
+      "to": "Taleb specifies the firewall in chapter 4 and condemns it in chapter 23"
     },
     {
       "from": "MOC - HistorEE",
@@ -14591,6 +14768,10 @@
     },
     {
       "from": "MOC - Historiography and method",
+      "to": "Taleb 2012 on antifragility - loci for the time-ensemble distinction"
+    },
+    {
+      "from": "MOC - Historiography and method",
       "to": "Taleb reads survival as evidence about the survivor and we read it as evidence about the filter"
     },
     {
@@ -14719,6 +14900,10 @@
     },
     {
       "from": "MOC - Islamic contract doctrine",
+      "to": "A fair wager lowers both trajectories which maysir forbids and skin in the game permits"
+    },
+    {
+      "from": "MOC - Islamic contract doctrine",
       "to": "A migrated institution collects local names not local forms"
     },
     {
@@ -14756,6 +14941,10 @@
     {
       "from": "MOC - Islamic contract doctrine",
       "to": "Skin in the game is asymmetric in the mudaraba"
+    },
+    {
+      "from": "MOC - Islamic contract doctrine",
+      "to": "Taleb 2012 on antifragility - loci for the time-ensemble distinction"
     },
     {
       "from": "MOC - Islamic contract doctrine",
@@ -15311,6 +15500,10 @@
     },
     {
       "from": "MOC - Risk-sharing vs risk-pricing",
+      "to": "A fair wager lowers both trajectories which maysir forbids and skin in the game permits"
+    },
+    {
+      "from": "MOC - Risk-sharing vs risk-pricing",
       "to": "A route clause conditions the investor's peril in three traditions"
     },
     {
@@ -15440,6 +15633,10 @@
     {
       "from": "MOC - Risk-sharing vs risk-pricing",
       "to": "Syndication and the misma moneda are pooling not prudence"
+    },
+    {
+      "from": "MOC - Risk-sharing vs risk-pricing",
+      "to": "Taleb secures the collective by exit and has no theory of pooling"
     },
     {
       "from": "MOC - Risk-sharing vs risk-pricing",
@@ -18451,6 +18648,10 @@
     },
     {
       "from": "Skin in the game",
+      "to": "A fair wager lowers both trajectories which maysir forbids and skin in the game permits"
+    },
+    {
+      "from": "Skin in the game",
       "to": "Absorbing barrier"
     },
     {
@@ -18504,6 +18705,10 @@
     {
       "from": "Skin in the game",
       "to": "Taleb reads survival as evidence about the survivor and we read it as evidence about the filter"
+    },
+    {
+      "from": "Skin in the game",
+      "to": "Taleb specifies the firewall in chapter 4 and condemns it in chapter 23"
     },
     {
       "from": "Skin in the game",
@@ -19518,6 +19723,58 @@
       "to": "Zhang Chuanxi 1995 - the contract compilation behind the census's Chinese rows"
     },
     {
+      "from": "Taleb 2012 on antifragility - loci for the time-ensemble distinction",
+      "to": "A fair wager lowers both trajectories which maysir forbids and skin in the game permits"
+    },
+    {
+      "from": "Taleb 2012 on antifragility - loci for the time-ensemble distinction",
+      "to": "Antifragility is defined by an ensemble Jensen gap"
+    },
+    {
+      "from": "Taleb 2012 on antifragility - loci for the time-ensemble distinction",
+      "to": "Islamic doctrine refuses risk-commodification at step one"
+    },
+    {
+      "from": "Taleb 2012 on antifragility - loci for the time-ensemble distinction",
+      "to": "MOC - Ergodicity and the time-ensemble distinction"
+    },
+    {
+      "from": "Taleb 2012 on antifragility - loci for the time-ensemble distinction",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Taleb 2012 on antifragility - loci for the time-ensemble distinction",
+      "to": "MOC - Historiography and method"
+    },
+    {
+      "from": "Taleb 2012 on antifragility - loci for the time-ensemble distinction",
+      "to": "Persistence samples are conditioned on non-absorption"
+    },
+    {
+      "from": "Taleb 2012 on antifragility - loci for the time-ensemble distinction",
+      "to": "Skin in the game"
+    },
+    {
+      "from": "Taleb 2012 on antifragility - loci for the time-ensemble distinction",
+      "to": "Taleb reads survival as evidence about the survivor and we read it as evidence about the filter"
+    },
+    {
+      "from": "Taleb 2012 on antifragility - loci for the time-ensemble distinction",
+      "to": "Taleb secures the collective by exit and has no theory of pooling"
+    },
+    {
+      "from": "Taleb 2012 on antifragility - loci for the time-ensemble distinction",
+      "to": "Taleb specifies the firewall in chapter 4 and condemns it in chapter 23"
+    },
+    {
+      "from": "Taleb 2012 on antifragility - loci for the time-ensemble distinction",
+      "to": "The ascent narrative is the Jensen error as historiography"
+    },
+    {
+      "from": "Taleb reads survival as evidence about the survivor and we read it as evidence about the filter",
+      "to": "Antifragility is defined by an ensemble Jensen gap"
+    },
+    {
       "from": "Taleb reads survival as evidence about the survivor and we read it as evidence about the filter",
       "to": "Galton-Watson is the extinction branch Peters named and did not develop"
     },
@@ -19559,6 +19816,10 @@
     },
     {
       "from": "Taleb reads survival as evidence about the survivor and we read it as evidence about the filter",
+      "to": "Taleb 2012 on antifragility - loci for the time-ensemble distinction"
+    },
+    {
+      "from": "Taleb reads survival as evidence about the survivor and we read it as evidence about the filter",
       "to": "The isqa is Lindy because captive not because robust"
     },
     {
@@ -19580,6 +19841,90 @@
     {
       "from": "Taleb reads survival as evidence about the survivor and we read it as evidence about the filter",
       "to": "Whiggish history of finance names the ascent narrative"
+    },
+    {
+      "from": "Taleb secures the collective by exit and has no theory of pooling",
+      "to": "Cooperation is an averaging puzzle and sovereign repayment is a barrier puzzle"
+    },
+    {
+      "from": "Taleb secures the collective by exit and has no theory of pooling",
+      "to": "Galton-Watson is the extinction branch Peters named and did not develop"
+    },
+    {
+      "from": "Taleb secures the collective by exit and has no theory of pooling",
+      "to": "MOC - Ergodicity and the time-ensemble distinction"
+    },
+    {
+      "from": "Taleb secures the collective by exit and has no theory of pooling",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Taleb secures the collective by exit and has no theory of pooling",
+      "to": "MOC - Risk-sharing vs risk-pricing"
+    },
+    {
+      "from": "Taleb secures the collective by exit and has no theory of pooling",
+      "to": "Never let the units slide from instruments to populations"
+    },
+    {
+      "from": "Taleb secures the collective by exit and has no theory of pooling",
+      "to": "Persistence samples are conditioned on non-absorption"
+    },
+    {
+      "from": "Taleb secures the collective by exit and has no theory of pooling",
+      "to": "Pooling's sign is set by the correlation of its baskets"
+    },
+    {
+      "from": "Taleb secures the collective by exit and has no theory of pooling",
+      "to": "Syndication and the misma moneda are pooling not prudence"
+    },
+    {
+      "from": "Taleb secures the collective by exit and has no theory of pooling",
+      "to": "Taleb 2012 on antifragility - loci for the time-ensemble distinction"
+    },
+    {
+      "from": "Taleb secures the collective by exit and has no theory of pooling",
+      "to": "Taleb specifies the firewall in chapter 4 and condemns it in chapter 23"
+    },
+    {
+      "from": "Taleb specifies the firewall in chapter 4 and condemns it in chapter 23",
+      "to": "Entity shielding and owner shielding protect different trajectories"
+    },
+    {
+      "from": "Taleb specifies the firewall in chapter 4 and condemns it in chapter 23",
+      "to": "Entity-shielding"
+    },
+    {
+      "from": "Taleb specifies the firewall in chapter 4 and condemns it in chapter 23",
+      "to": "Harris 2020 on the late plurality of limited liability"
+    },
+    {
+      "from": "Taleb specifies the firewall in chapter 4 and condemns it in chapter 23",
+      "to": "MOC - Entity-shielding and corporate forms"
+    },
+    {
+      "from": "Taleb specifies the firewall in chapter 4 and condemns it in chapter 23",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Taleb specifies the firewall in chapter 4 and condemns it in chapter 23",
+      "to": "Skin in the game"
+    },
+    {
+      "from": "Taleb specifies the firewall in chapter 4 and condemns it in chapter 23",
+      "to": "Taleb 2012 on antifragility - loci for the time-ensemble distinction"
+    },
+    {
+      "from": "Taleb specifies the firewall in chapter 4 and condemns it in chapter 23",
+      "to": "Taleb secures the collective by exit and has no theory of pooling"
+    },
+    {
+      "from": "Taleb specifies the firewall in chapter 4 and condemns it in chapter 23",
+      "to": "The four-step decoupling from participation to the veil"
+    },
+    {
+      "from": "Taleb specifies the firewall in chapter 4 and condemns it in chapter 23",
+      "to": "limited-liability"
     },
     {
       "from": "Tamil Nadu Archives - the Madras records and the Dutch series",

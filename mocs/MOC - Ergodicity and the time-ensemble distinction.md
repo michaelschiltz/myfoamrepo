@@ -123,3 +123,10 @@ Hubbed at [[MOC - Defending the ergodicity claim]]; listed here because the sour
 
 - [[Taleb reads survival as evidence about the survivor and we read it as evidence about the filter]] — the position the vault had corrected twice without naming; Lindy is a licensed forecast and an unlicensed explanation
 - [[Skin in the game]] — developed from stub. The rigorous content is barrier-location, and the term splits into barrier-exposure and outcome-coupling, which the *muḍāraba* separates
+
+## Added 2026-10-01 — Taleb's *Antifragile*
+
+- [[Taleb 2012 on antifragility - loci for the time-ensemble distinction]] — source note; the book has the time-average ethic (ch. 11) and an ensemble formalism (the convexity bias), never reconciled; "ergodic" occurs zero times
+- [[Antifragility is defined by an ensemble Jensen gap]] — positive payoff convexity can coexist with a negative log Jensen gap; only Kelly sizing makes the barbell sound in time
+- [[Taleb secures the collective by exit and has no theory of pooling]] — ch. 4 gets collective survival from independent exits; pooling is absent, and the independence condition is the same ρ
+- [[A fair wager lowers both trajectories which maysir forbids and skin in the game permits]] — zero-sum in expectation, negative-sum in time average for both sides; the time-average criterion agrees with the jurists and not with Taleb

@@ -96,3 +96,8 @@ Thematic hub for the instrument axis: risk-*sharing* forms that keep every party
 
 - [[Restate the cost puzzle as a question about a trajectory]] — the schema behind the moratorium and Armada readings, stated as a general move rather than rediscovered per case
 - [[Cooperation is an averaging puzzle and sovereign repayment is a barrier puzzle]] — and the Genoese case is filed under the first without needing the second, which is its strength
+
+## Added 2026-10-01 — Taleb's *Antifragile*
+
+- [[Taleb secures the collective by exit and has no theory of pooling]] — exit and pooling are distinct mechanisms of collective survival; the project's forms belong to the second
+- [[A fair wager lowers both trajectories which maysir forbids and skin in the game permits]] — symmetry of exposure, time-average growth and the object of the contract give three different verdicts

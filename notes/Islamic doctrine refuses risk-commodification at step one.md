@@ -24,6 +24,8 @@ Two cautions so a referee cannot knock it over. State it as the law's *revealed 
 - [[The sea loan is a contingent claim not a loan]]
 - [[Naviganti - Latin Christendom rejected the sea loan too]]
 - [[Scuttling rewards fraud in the sea loan]]
+- [[A fair wager lowers both trajectories which maysir forbids and skin in the game permits]]
+- [[Taleb 2012 on antifragility - loci for the time-ensemble distinction]]
 - [[MOC - Islamic contract doctrine]]
 - [[MOC - HistorEE]]
 

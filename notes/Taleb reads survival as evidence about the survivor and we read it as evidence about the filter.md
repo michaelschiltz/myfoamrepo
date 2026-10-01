@@ -64,6 +64,8 @@ Use *Lindy* to describe a duration and its associated conditional forecast. Neve
 - [[Whiggish history of finance names the ascent narrative]]
 - [[The naties are a six-century Lindy institution]]
 - [[Skin in the game]]
+- [[Taleb 2012 on antifragility - loci for the time-ensemble distinction]]
+- [[Antifragility is defined by an ensemble Jensen gap]]
 - [[The split is over whether the explanandum is a state or a trajectory]]
 - [[MOC - Historiography and method]]
 - [[MOC - Ergodicity and the time-ensemble distinction]]
