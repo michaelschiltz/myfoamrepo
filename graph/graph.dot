@@ -253,6 +253,7 @@ digraph vault {
   "NDL transmission service for individuals - the residency wall" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
   "NIJL Archives - the Shiryokan village and merchant fonds" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
   "NIJL Kokusho Database - the classical books union layer" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
+  "NIYA TOCHARIAN - an FP7 fellowship testing Burrow's Tocharian substrate in Niya Prakrit" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
   "Natie and kabu-nakama are a convergence pair" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Natie archives - where the Antwerp nations records are" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
   "Natie is a false cognate" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
@@ -3271,6 +3272,7 @@ digraph vault {
   "MOC - Silk Road archives" -> "MOC - Ottoman archives";
   "MOC - Silk Road archives" -> "MOC - Source editions";
   "MOC - Silk Road archives" -> "MOC - South Asian archives";
+  "MOC - Silk Road archives" -> "NIYA TOCHARIAN - an FP7 fellowship testing Burrow's Tocharian substrate in Niya Prakrit";
   "MOC - Silk Road archives" -> "National Library of China and the Dunhuang Academy";
   "MOC - Silk Road archives" -> "Old Uyghur contracts - the documentary layer under the ortoq";
   "MOC - Silk Road archives" -> "Ryukoku University and the Otani collection";
@@ -3423,6 +3425,11 @@ digraph vault {
   "NIJL Kokusho Database - the classical books union layer" -> "MOC - Japanese archives";
   "NIJL Kokusho Database - the classical books union layer" -> "NIJL Archives - the Shiryokan village and merchant fonds";
   "NIJL Kokusho Database - the classical books union layer" -> "The notarial security clause is boilerplate and cannot carry a typology";
+  "NIYA TOCHARIAN - an FP7 fellowship testing Burrow's Tocharian substrate in Niya Prakrit" -> "Berlin - the Turfan collection";
+  "NIYA TOCHARIAN - an FP7 fellowship testing Burrow's Tocharian substrate in Niya Prakrit" -> "British Library - the Stein collection";
+  "NIYA TOCHARIAN - an FP7 fellowship testing Burrow's Tocharian substrate in Niya Prakrit" -> "IDP - the digital reunification of a dispersed archive";
+  "NIYA TOCHARIAN - an FP7 fellowship testing Burrow's Tocharian substrate in Niya Prakrit" -> "MOC - Silk Road archives";
+  "NIYA TOCHARIAN - an FP7 fellowship testing Burrow's Tocharian substrate in Niya Prakrit" -> "SilkRoadLanguageWeb - Leiden ERC dating the Indo-European entries into the Tarim Basin";
   "Natie and kabu-nakama are a convergence pair" -> "MOC - Entity-shielding and corporate forms";
   "Natie and kabu-nakama are a convergence pair" -> "MOC - HistorEE";
   "Natie and kabu-nakama are a convergence pair" -> "The alleenrecht is monopoly held as tradable property";
@@ -3976,9 +3983,13 @@ digraph vault {
   "Silk Road in Rare Books - the thirty-three volumes behind the DSR essays" -> "Ryukoku University and the Otani collection";
   "Silk Road in Rare Books - the thirty-three volumes behind the DSR essays" -> "Silk Road documents - one site's archive in twelve institutions";
   "Silk Road in Rare Books - the thirty-three volumes behind the DSR essays" -> "Toyo Bunko and the Digital Silk Road - the expedition library not the finds";
+  "SilkRoadLanguageWeb - Leiden ERC dating the Indo-European entries into the Tarim Basin" -> "Berlin - the Turfan collection";
   "SilkRoadLanguageWeb - Leiden ERC dating the Indo-European entries into the Tarim Basin" -> "British Library - the Stein collection";
-  "SilkRoadLanguageWeb - Leiden ERC dating the Indo-European entries into the Tarim Basin" -> "Silk Road in Rare Books - the thirty-three volumes behind the DSR essays";
-  "SilkRoadLanguageWeb - Leiden ERC dating the Indo-European entries into the Tarim Basin" -> "Toyo Bunko and the Digital Silk Road - the expedition library not the finds";
+  "SilkRoadLanguageWeb - Leiden ERC dating the Indo-European entries into the Tarim Basin" -> "IDP - the digital reunification of a dispersed archive";
+  "SilkRoadLanguageWeb - Leiden ERC dating the Indo-European entries into the Tarim Basin" -> "Invisible East - an open corpus for the eastern Islamicate documents";
+  "SilkRoadLanguageWeb - Leiden ERC dating the Indo-European entries into the Tarim Basin" -> "MOC - ERC Synergy Grant";
+  "SilkRoadLanguageWeb - Leiden ERC dating the Indo-European entries into the Tarim Basin" -> "MOC - Silk Road archives";
+  "SilkRoadLanguageWeb - Leiden ERC dating the Indo-European entries into the Tarim Basin" -> "NIYA TOCHARIAN - an FP7 fellowship testing Burrow's Tocharian substrate in Niya Prakrit";
   "Simonsohn 2016 on East Syrian civil law and the Sasanian substrate" -> "MOC - ERC Synergy Grant";
   "Simonsohn 2016 on East Syrian civil law and the Sasanian substrate" -> "MOC - HistorEE";
   "Simonsohn 2016 on East Syrian civil law and the Sasanian substrate" -> "MOC - Historiography and method";

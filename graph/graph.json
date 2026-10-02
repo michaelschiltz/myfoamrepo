@@ -752,7 +752,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Berlin - the Turfan collection",
-      "value": 11,
+      "value": 13,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -842,7 +842,7 @@
       "type": "reference",
       "group": "reference",
       "label": "British Library - the Stein collection",
-      "value": 14,
+      "value": 15,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1715,7 +1715,7 @@
       "type": "reference",
       "group": "reference",
       "label": "IDP - the digital reunification of a dispersed archive",
-      "value": 17,
+      "value": 19,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1823,7 +1823,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Invisible East - an open corpus for the eastern Islamicate documents",
-      "value": 12,
+      "value": 13,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -2265,6 +2265,15 @@
       "group": "reference",
       "label": "NIJL Kokusho Database - the classical books union layer",
       "value": 11,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "NIYA TOCHARIAN - an FP7 fellowship testing Burrow's Tocharian substrate in Niya Prakrit",
+      "type": "reference",
+      "group": "reference",
+      "label": "NIYA TOCHARIAN - an FP7 fellowship testing Burrow's Tocharian substrate in Niya Prakrit",
+      "value": 9,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -2993,7 +3002,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Silk Road in Rare Books - the thirty-three volumes behind the DSR essays",
-      "value": 14,
+      "value": 13,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -3002,7 +3011,7 @@
       "type": "reference",
       "group": "reference",
       "label": "SilkRoadLanguageWeb - Leiden ERC dating the Indo-European entries into the Tarim Basin",
-      "value": 6,
+      "value": 11,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -4397,7 +4406,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Toyo Bunko and the Digital Silk Road - the expedition library not the finds",
-      "value": 11,
+      "value": 10,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -4694,7 +4703,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - ERC Synergy Grant",
-      "value": 74,
+      "value": 75,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -4838,7 +4847,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Silk Road archives",
-      "value": 55,
+      "value": 59,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -15809,6 +15818,10 @@
     },
     {
       "from": "MOC - Silk Road archives",
+      "to": "NIYA TOCHARIAN - an FP7 fellowship testing Burrow's Tocharian substrate in Niya Prakrit"
+    },
+    {
+      "from": "MOC - Silk Road archives",
       "to": "National Library of China and the Dunhuang Academy"
     },
     {
@@ -16414,6 +16427,26 @@
     {
       "from": "NIJL Kokusho Database - the classical books union layer",
       "to": "The notarial security clause is boilerplate and cannot carry a typology"
+    },
+    {
+      "from": "NIYA TOCHARIAN - an FP7 fellowship testing Burrow's Tocharian substrate in Niya Prakrit",
+      "to": "Berlin - the Turfan collection"
+    },
+    {
+      "from": "NIYA TOCHARIAN - an FP7 fellowship testing Burrow's Tocharian substrate in Niya Prakrit",
+      "to": "British Library - the Stein collection"
+    },
+    {
+      "from": "NIYA TOCHARIAN - an FP7 fellowship testing Burrow's Tocharian substrate in Niya Prakrit",
+      "to": "IDP - the digital reunification of a dispersed archive"
+    },
+    {
+      "from": "NIYA TOCHARIAN - an FP7 fellowship testing Burrow's Tocharian substrate in Niya Prakrit",
+      "to": "MOC - Silk Road archives"
+    },
+    {
+      "from": "NIYA TOCHARIAN - an FP7 fellowship testing Burrow's Tocharian substrate in Niya Prakrit",
+      "to": "SilkRoadLanguageWeb - Leiden ERC dating the Indo-European entries into the Tarim Basin"
     },
     {
       "from": "Natie and kabu-nakama are a convergence pair",
@@ -18629,15 +18662,31 @@
     },
     {
       "from": "SilkRoadLanguageWeb - Leiden ERC dating the Indo-European entries into the Tarim Basin",
+      "to": "Berlin - the Turfan collection"
+    },
+    {
+      "from": "SilkRoadLanguageWeb - Leiden ERC dating the Indo-European entries into the Tarim Basin",
       "to": "British Library - the Stein collection"
     },
     {
       "from": "SilkRoadLanguageWeb - Leiden ERC dating the Indo-European entries into the Tarim Basin",
-      "to": "Silk Road in Rare Books - the thirty-three volumes behind the DSR essays"
+      "to": "IDP - the digital reunification of a dispersed archive"
     },
     {
       "from": "SilkRoadLanguageWeb - Leiden ERC dating the Indo-European entries into the Tarim Basin",
-      "to": "Toyo Bunko and the Digital Silk Road - the expedition library not the finds"
+      "to": "Invisible East - an open corpus for the eastern Islamicate documents"
+    },
+    {
+      "from": "SilkRoadLanguageWeb - Leiden ERC dating the Indo-European entries into the Tarim Basin",
+      "to": "MOC - ERC Synergy Grant"
+    },
+    {
+      "from": "SilkRoadLanguageWeb - Leiden ERC dating the Indo-European entries into the Tarim Basin",
+      "to": "MOC - Silk Road archives"
+    },
+    {
+      "from": "SilkRoadLanguageWeb - Leiden ERC dating the Indo-European entries into the Tarim Basin",
+      "to": "NIYA TOCHARIAN - an FP7 fellowship testing Burrow's Tocharian substrate in Niya Prakrit"
     },
     {
       "from": "Simonsohn 2016 on East Syrian civil law and the Sasanian substrate",

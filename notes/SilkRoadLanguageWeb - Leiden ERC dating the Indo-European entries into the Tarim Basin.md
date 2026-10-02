@@ -3,9 +3,9 @@ title: SilkRoadLanguageWeb - Leiden ERC dating the Indo-European entries into th
 type: reference
 tags: [archives]
 project: infrastructure
-status: seed
+source-session: cordis-silkroadlanguageweb
 created: 2026-10-03
-source-session: 2026-10-03-cordis-silkroadlanguageweb
+status: seed
 ---
 
 # SilkRoadLanguageWeb — Leiden ERC dating the Indo-European entries into the Tarim Basin
@@ -62,9 +62,13 @@ URL patterns: fact sheet `cordis.europa.eu/project/id/101088902`; outputs `…/1
 
 ## Links
 
-- [[Toyo Bunko and the Digital Silk Road - the expedition library not the finds]]
+- [[MOC - Silk Road archives]]
+- [[MOC - ERC Synergy Grant]]
+- [[Berlin - the Turfan collection]]
 - [[British Library - the Stein collection]]
-- [[Silk Road in Rare Books - the thirty-three volumes behind the DSR essays]]
+- [[IDP - the digital reunification of a dispersed archive]]
+- [[Invisible East - an open corpus for the eastern Islamicate documents]]
+- [[NIYA TOCHARIAN - an FP7 fellowship testing Burrow's Tocharian substrate in Niya Prakrit]]
 
 ## Source
 

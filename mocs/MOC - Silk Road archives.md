@@ -90,6 +90,7 @@ Hub for the Inner Asian documentary material, linked from the country table of [
 - **What is IDP's licence**, and what survived the British Library's systems disruption?
 - **Berlin's wartime losses and the Soviet removals** — before any completeness claim.
 - **The Kharoṣṭhī tablets from Niya** — a third-century legal corpus, unexamined here.
+  - linguistic orientation: [[NIYA TOCHARIAN - an FP7 fellowship testing Burrow's Tocharian substrate in Niya Prakrit]] (FP7 fellowship 626656, BBAW, 2014–16) — Tocharian elements present but thin, Iranian element larger
 
 ## Links
 
