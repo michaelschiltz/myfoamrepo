@@ -80,6 +80,7 @@ Hub for the Inner Asian documentary material, linked from the country table of [
 - **A7, travel.** **This is a desk region** — after the Geniza, the best-imaged material in the survey. **The one exception is the Japanese material, which is in Kyoto**, where the project's East Asian PI already is.
 - **A5.** The editions are the cost: SUK, the 释录 series, Sims-Williams's three volumes. **The Tōyō Bunko expedition library and IDP's images are free.**
 - **Two live ERC comparators** for Part 2: [[Invisible East - an open corpus for the eastern Islamicate documents]] (ERC 851607) and [[DHARMA - an ERC Synergy project that produced a TEI corpus of inscriptions]] (ERC Synergy 809994).
+- **A live ERC project on the languages, not a comparator**: [[SilkRoadLanguageWeb - Leiden ERC dating the Indo-European entries into the Tarim Basin]] (ERC CoG 101088902, Leiden, 2024–28) — **the dating of Khotanese, Tumšuqese and Tocharian entry into the Tarim Basin**; editions of Archaic Tocharian B and Late Khotanese in preparation; Schoubben 2025 on Niya Prakrit bears on the open Niya question below
 
 ## Open questions
 

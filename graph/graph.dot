@@ -334,6 +334,7 @@ digraph vault {
   "Shiryo Net and the disaster survival rule" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
   "Silk Road documents - one site's archive in twelve institutions" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
   "Silk Road in Rare Books - the thirty-three volumes behind the DSR essays" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
+  "SilkRoadLanguageWeb - Leiden ERC dating the Indo-European entries into the Tarim Basin" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
   "Simonsohn 2016 on East Syrian civil law and the Sasanian substrate" [fillcolor="#7570b3", fontcolor=white, shape=ellipse];
   "Skin in the game is asymmetric in the mudaraba" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Skin in the game" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
@@ -1163,6 +1164,7 @@ digraph vault {
   "Berlin - the Turfan collection" -> "MOC - German archives";
   "Berlin - the Turfan collection" -> "MOC - Silk Road archives";
   "Berlin - the Turfan collection" -> "Old Uyghur contracts - the documentary layer under the ortoq";
+  "Berlin - the Turfan collection" -> "SilkRoadLanguageWeb - Leiden ERC dating the Indo-European entries into the Tarim Basin";
   "Blind re-coding workflow - operator, coder, application" -> "A blind is a property of the channel not of the dataset";
   "Blind re-coding workflow - operator, coder, application" -> "A blind re-coding is only blind if the value sets are";
   "Blind re-coding workflow - operator, coder, application" -> "A prediction is evidence only if its priority is committed";
@@ -3274,6 +3276,7 @@ digraph vault {
   "MOC - Silk Road archives" -> "Ryukoku University and the Otani collection";
   "MOC - Silk Road archives" -> "Silk Road documents - one site's archive in twelve institutions";
   "MOC - Silk Road archives" -> "Silk Road in Rare Books - the thirty-three volumes behind the DSR essays";
+  "MOC - Silk Road archives" -> "SilkRoadLanguageWeb - Leiden ERC dating the Indo-European entries into the Tarim Basin";
   "MOC - Silk Road archives" -> "Sogdian commercial documents - thin but not empty";
   "MOC - Silk Road archives" -> "The Khalili Bactrian documents - a private collection as the archive";
   "MOC - Silk Road archives" -> "The Otani dispersal - Kyoto, Tokyo, Lushun, Seoul";
@@ -3973,6 +3976,9 @@ digraph vault {
   "Silk Road in Rare Books - the thirty-three volumes behind the DSR essays" -> "Ryukoku University and the Otani collection";
   "Silk Road in Rare Books - the thirty-three volumes behind the DSR essays" -> "Silk Road documents - one site's archive in twelve institutions";
   "Silk Road in Rare Books - the thirty-three volumes behind the DSR essays" -> "Toyo Bunko and the Digital Silk Road - the expedition library not the finds";
+  "SilkRoadLanguageWeb - Leiden ERC dating the Indo-European entries into the Tarim Basin" -> "British Library - the Stein collection";
+  "SilkRoadLanguageWeb - Leiden ERC dating the Indo-European entries into the Tarim Basin" -> "Silk Road in Rare Books - the thirty-three volumes behind the DSR essays";
+  "SilkRoadLanguageWeb - Leiden ERC dating the Indo-European entries into the Tarim Basin" -> "Toyo Bunko and the Digital Silk Road - the expedition library not the finds";
   "Simonsohn 2016 on East Syrian civil law and the Sasanian substrate" -> "MOC - ERC Synergy Grant";
   "Simonsohn 2016 on East Syrian civil law and the Sasanian substrate" -> "MOC - HistorEE";
   "Simonsohn 2016 on East Syrian civil law and the Sasanian substrate" -> "MOC - Historiography and method";

@@ -752,7 +752,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Berlin - the Turfan collection",
-      "value": 10,
+      "value": 11,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -842,7 +842,7 @@
       "type": "reference",
       "group": "reference",
       "label": "British Library - the Stein collection",
-      "value": 13,
+      "value": 14,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -2993,7 +2993,16 @@
       "type": "reference",
       "group": "reference",
       "label": "Silk Road in Rare Books - the thirty-three volumes behind the DSR essays",
-      "value": 13,
+      "value": 14,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "SilkRoadLanguageWeb - Leiden ERC dating the Indo-European entries into the Tarim Basin",
+      "type": "reference",
+      "group": "reference",
+      "label": "SilkRoadLanguageWeb - Leiden ERC dating the Indo-European entries into the Tarim Basin",
+      "value": 6,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -4388,7 +4397,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Toyo Bunko and the Digital Silk Road - the expedition library not the finds",
-      "value": 10,
+      "value": 11,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -4829,7 +4838,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Silk Road archives",
-      "value": 54,
+      "value": 55,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -7369,6 +7378,10 @@
     {
       "from": "Berlin - the Turfan collection",
       "to": "Old Uyghur contracts - the documentary layer under the ortoq"
+    },
+    {
+      "from": "Berlin - the Turfan collection",
+      "to": "SilkRoadLanguageWeb - Leiden ERC dating the Indo-European entries into the Tarim Basin"
     },
     {
       "from": "Blind re-coding workflow - operator, coder, application",
@@ -15816,6 +15829,10 @@
     },
     {
       "from": "MOC - Silk Road archives",
+      "to": "SilkRoadLanguageWeb - Leiden ERC dating the Indo-European entries into the Tarim Basin"
+    },
+    {
+      "from": "MOC - Silk Road archives",
       "to": "Sogdian commercial documents - thin but not empty"
     },
     {
@@ -18608,6 +18625,18 @@
     },
     {
       "from": "Silk Road in Rare Books - the thirty-three volumes behind the DSR essays",
+      "to": "Toyo Bunko and the Digital Silk Road - the expedition library not the finds"
+    },
+    {
+      "from": "SilkRoadLanguageWeb - Leiden ERC dating the Indo-European entries into the Tarim Basin",
+      "to": "British Library - the Stein collection"
+    },
+    {
+      "from": "SilkRoadLanguageWeb - Leiden ERC dating the Indo-European entries into the Tarim Basin",
+      "to": "Silk Road in Rare Books - the thirty-three volumes behind the DSR essays"
+    },
+    {
+      "from": "SilkRoadLanguageWeb - Leiden ERC dating the Indo-European entries into the Tarim Basin",
       "to": "Toyo Bunko and the Digital Silk Road - the expedition library not the finds"
     },
     {
