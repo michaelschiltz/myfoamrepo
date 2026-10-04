@@ -50,4 +50,4 @@ Jared Rubin, "Social Insurance, Commitment, and the Origin of Law: Interest Bans
 
 ## Source
 
-Zotero `X548A27H`; PDF linked (`ZoteroFiles`), 17 pp., read 4 October 2026 with page references above. The 2011, 2010 and 2008 companions are `JZWDPHET`, `WUPEXH35` and `W7KTRS64`; PDFs not yet held.
+Zotero `X548A27H`; PDF linked (`ZoteroFiles`), 17 pp., read 4 October 2026 with page references above. The 2011, 2010 and 2008 companions are `JZWDPHET`, `WUPEXH35` and `W7KTRS64`; PDFs held, not yet read.

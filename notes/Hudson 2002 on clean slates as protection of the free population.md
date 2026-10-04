@@ -59,4 +59,4 @@ Michael Hudson, "Reconstructing the Origins of Interest-Bearing Debt and the Log
 
 ## Source
 
-Zotero `RXRDU4ZN` (chapter) and `ZNDRJAHM` (volume); the volume PDF is linked (`ZoteroFiles`), read 4 October 2026. Rosenberg–Weiss `2C7G28Z5`, Schaefer–Noell `3CPDC4FZ`; no PDFs for those.
+Zotero `RXRDU4ZN` (chapter) and `ZNDRJAHM` (volume); the volume PDF is linked (`ZoteroFiles`), read 4 October 2026. Rosenberg–Weiss `2C7G28Z5`, Schaefer–Noell `3CPDC4FZ`; PDFs held, not yet read.
