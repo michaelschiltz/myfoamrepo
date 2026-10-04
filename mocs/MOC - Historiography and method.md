@@ -132,3 +132,9 @@ Where the sources for the European companies are and are not machine-readable is
 ## Added 2026-10-01 — Taleb's *Antifragile*
 
 - [[Taleb 2012 on antifragility - loci for the time-ensemble distinction]] — loci; the teleological fallacy (Book IV preface) and "History Written by the Losers" (ch. 15, misattribution) are two arguments, not one
+
+## Added 2026-10-04 — doctrine as survival technology
+
+- [[Doctrine has been read as insurance and never as ruin avoidance]] — functionalism is not the novelty; survival outcomes are, and origin function must be kept apart from persistence filter
+- [[Rubin 2009 on interest bans as in-group insurance in early Christianity]] — one author, two stories: origin by function, persistence by rulers' legitimacy
+- [[Doctrine as survival technology literature]] — bibliographic companion

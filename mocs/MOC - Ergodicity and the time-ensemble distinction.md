@@ -130,3 +130,9 @@ Hubbed at [[MOC - Defending the ergodicity claim]]; listed here because the sour
 - [[Antifragility is defined by an ensemble Jensen gap]] — positive payoff convexity can coexist with a negative log Jensen gap; only Kelly sizing makes the barbell sound in time
 - [[Taleb secures the collective by exit and has no theory of pooling]] — ch. 4 gets collective survival from independent exits; pooling is absent, and the independence condition is the same ρ
 - [[A fair wager lowers both trajectories which maysir forbids and skin in the game permits]] — zero-sum in expectation, negative-sum in time average for both sides; the time-average criterion agrees with the jurists and not with Taleb
+
+## Added 2026-10-04 — doctrine as survival technology
+
+- [[Doctrine has been read as insurance and never as ruin avoidance]] — the move from ensemble to trajectory, with survival as the dependent variable, is the open ground
+- [[Hudson 2002 on clean slates as protection of the free population]] — debt bondage as the household's absorbing state; the clean slate as reset after absorption
+- [[Aktipis and Cronk on need-based transfers and herd survival]] — an ethical rule conditioned on the giver's own barrier, evaluated by herd survival

@@ -64,3 +64,8 @@ The *ribbit* material is filed here rather than in a separate hub, because its v
 [Scuttling rewards fraud in the sea loan]: <../notes/Scuttling rewards fraud in the sea loan.md> "Scuttling rewards fraud in the sea loan"
 [MOC - Risk-sharing vs risk-pricing]: <MOC - Risk-sharing vs risk-pricing.md> "MOC - Risk-sharing vs risk-pricing"
 [MOC - HistorEE]: <MOC - HistorEE.md> "MOC - Clearing and Settling the Realm"
+
+## Added 2026-10-04 — functional readings of the doctrine
+
+- [[El-Gamal 2001 on gharar as a ban on trading risk that could be shared]] — the efficiency reading of *gharar*; nearest neighbour, in expected utility
+- [[Doctrine has been read as insurance and never as ruin avoidance]] — where the Islamic literature sits in the cross-tradition picture

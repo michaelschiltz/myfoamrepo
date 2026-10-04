@@ -101,3 +101,9 @@ Thematic hub for the instrument axis: risk-*sharing* forms that keep every party
 
 - [[Taleb secures the collective by exit and has no theory of pooling]] — exit and pooling are distinct mechanisms of collective survival; the project's forms belong to the second
 - [[A fair wager lowers both trajectories which maysir forbids and skin in the game permits]] — symmetry of exposure, time-average growth and the object of the contract give three different verdicts
+
+## Added 2026-10-04 — doctrine as survival technology
+
+- [[Glaeser and Scheinkman 1998 on interest restrictions as social insurance]] — interest caps as ex-ante insurance; the template to depart from
+- [[Scott 1976 on the subsistence ethic as safety-first]] — share rents tolerated, fixed claims refused: outcome-coupling as a moral distinction
+- [[Aktipis and Cronk on need-based transfers and herd survival]] — need-based transfers beat account-keeping on survival, within the ρ limit

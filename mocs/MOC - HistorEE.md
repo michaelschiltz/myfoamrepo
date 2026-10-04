@@ -247,3 +247,14 @@ Project hub for the book. Atomic notes hang off both this project MOC and a them
 [Islamic doctrine refuses risk-commodification at step one]: <../notes/Islamic doctrine refuses risk-commodification at step one.md> "Islamic doctrine refuses risk-commodification at step one"
 [Naviganti - Latin Christendom rejected the sea loan too]: <../notes/Naviganti - Latin Christendom rejected the sea loan too.md> "Naviganti - Latin Christendom rejected the sea loan too"
 [Scuttling rewards fraud in the sea loan]: <../notes/Scuttling rewards fraud in the sea loan.md> "Scuttling rewards fraud in the sea loan"
+
+## Notes — survival-doctrine sweep
+
+- [[Doctrine has been read as insurance and never as ruin avoidance]] — the functionalist literature reads doctrine as insurance in expected utility; nobody measures survival, and nobody has carried the time-average result from sentiment to law
+- [[Doctrine as survival technology literature]] — Zotero `84KIIRXV`, five subcollections, 82 items
+- [[Glaeser and Scheinkman 1998 on interest restrictions as social insurance]]
+- [[Rubin 2009 on interest bans as in-group insurance in early Christianity]]
+- [[El-Gamal 2001 on gharar as a ban on trading risk that could be shared]]
+- [[Hudson 2002 on clean slates as protection of the free population]]
+- [[Scott 1976 on the subsistence ethic as safety-first]]
+- [[Aktipis and Cronk on need-based transfers and herd survival]]

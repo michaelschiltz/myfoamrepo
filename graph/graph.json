@@ -50,7 +50,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "A fair wager lowers both trajectories which maysir forbids and skin in the game permits",
-      "value": 23,
+      "value": 26,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -167,7 +167,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Absorbing barrier",
-      "value": 58,
+      "value": 59,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -205,6 +205,15 @@
       "label": "Acta Turcarum - the Ottoman series at Dubrovnik",
       "value": 20,
       "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "Aktipis and Cronk on need-based transfers and herd survival",
+      "type": "source",
+      "group": "source",
+      "label": "Aktipis and Cronk on need-based transfers and herd survival",
+      "value": 17,
+      "color": "#7570b3",
       "shape": "dot"
     },
     {
@@ -1004,7 +1013,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Cooperation is an averaging puzzle and sovereign repayment is a barrier puzzle",
-      "value": 31,
+      "value": 34,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1171,6 +1180,24 @@
       "shape": "dot"
     },
     {
+      "id": "Doctrine as survival technology literature",
+      "type": "reference",
+      "group": "reference",
+      "label": "Doctrine as survival technology literature",
+      "value": 24,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "Doctrine has been read as insurance and never as ruin avoidance",
+      "type": "permanent",
+      "group": "seed",
+      "label": "Doctrine has been read as insurance and never as ruin avoidance",
+      "value": 39,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
       "id": "Drelichman and Voth 2014 on the debts and defaults of Philip II",
       "type": "source",
       "group": "source",
@@ -1265,8 +1292,17 @@
       "type": "permanent",
       "group": "seed",
       "label": "Economics had its ensemble moment in 1738 and psychologized it",
-      "value": 19,
+      "value": 22,
       "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "El-Gamal 2001 on gharar as a ban on trading risk that could be shared",
+      "type": "source",
+      "group": "source",
+      "label": "El-Gamal 2001 on gharar as a ban on trading risk that could be shared",
+      "value": 14,
+      "color": "#7570b3",
       "shape": "dot"
     },
     {
@@ -1472,7 +1508,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Galton's problem",
-      "value": 45,
+      "value": 46,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1544,8 +1580,17 @@
       "type": "permanent",
       "group": "seed",
       "label": "Gharar excludes designed-in unverifiability",
-      "value": 25,
+      "value": 29,
       "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "Glaeser and Scheinkman 1998 on interest restrictions as social insurance",
+      "type": "source",
+      "group": "source",
+      "label": "Glaeser and Scheinkman 1998 on interest restrictions as social insurance",
+      "value": 14,
+      "color": "#7570b3",
       "shape": "dot"
     },
     {
@@ -1553,7 +1598,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Guard against reverse-teleology",
-      "value": 40,
+      "value": 41,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1702,6 +1747,15 @@
       "shape": "dot"
     },
     {
+      "id": "Hudson 2002 on clean slates as protection of the free population",
+      "type": "source",
+      "group": "source",
+      "label": "Hudson 2002 on clean slates as protection of the free population",
+      "value": 14,
+      "color": "#7570b3",
+      "shape": "dot"
+    },
+    {
       "id": "Huizhou documents - the largest private contract corpus",
       "type": "reference",
       "group": "reference",
@@ -1832,7 +1886,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Islamic doctrine refuses risk-commodification at step one",
-      "value": 31,
+      "value": 35,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -2129,7 +2183,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Lock-in and outcome-coupling are distinct bindings",
-      "value": 35,
+      "value": 37,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -2417,7 +2471,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Naviganti - Latin Christendom rejected the sea loan too",
-      "value": 27,
+      "value": 28,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -2543,7 +2597,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Outcome-coupling is the condition of legibility",
-      "value": 23,
+      "value": 24,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -2579,7 +2633,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Path dependence literature",
-      "value": 28,
+      "value": 29,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -2606,7 +2660,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Persistence samples are conditioned on non-absorption",
-      "value": 63,
+      "value": 64,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -2624,7 +2678,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Pooling's sign is set by the correlation of its baskets",
-      "value": 49,
+      "value": 51,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -2822,7 +2876,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Ribbit mandates exposure rather than forbidding gain",
-      "value": 24,
+      "value": 27,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -2890,6 +2944,15 @@
       "shape": "dot"
     },
     {
+      "id": "Rubin 2009 on interest bans as in-group insurance in early Christianity",
+      "type": "source",
+      "group": "source",
+      "label": "Rubin 2009 on interest bans as in-group insurance in early Christianity",
+      "value": 15,
+      "color": "#7570b3",
+      "shape": "dot"
+    },
+    {
       "id": "Ryukoku University and the Otani collection",
       "type": "reference",
       "group": "reference",
@@ -2923,6 +2986,15 @@
       "label": "Scots partnership has legal personality and English partnership does not",
       "value": 15,
       "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "Scott 1976 on the subsistence ethic as safety-first",
+      "type": "source",
+      "group": "source",
+      "label": "Scott 1976 on the subsistence ethic as safety-first",
+      "value": 17,
+      "color": "#7570b3",
       "shape": "dot"
     },
     {
@@ -3389,7 +3461,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Taleb reads survival as evidence about the survivor and we read it as evidence about the filter",
-      "value": 37,
+      "value": 40,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -3398,7 +3470,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Taleb secures the collective by exit and has no theory of pooling",
-      "value": 23,
+      "value": 25,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -4037,7 +4109,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The market selection literature is the project's nearest formal neighbour",
-      "value": 30,
+      "value": 31,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -4217,7 +4289,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The split is over whether the explanandum is a state or a trajectory",
-      "value": 29,
+      "value": 31,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -4361,7 +4433,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Time-average",
-      "value": 44,
+      "value": 45,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -4541,7 +4613,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Warichi re-randomises after absorption rather than diversifying",
-      "value": 22,
+      "value": 24,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -4721,7 +4793,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Ergodicity and the time-ensemble distinction",
-      "value": 167,
+      "value": 173,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -4766,7 +4838,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - HistorEE",
-      "value": 383,
+      "value": 399,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -4775,7 +4847,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Historiography and method",
-      "value": 199,
+      "value": 205,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -4784,7 +4856,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Islamic contract doctrine",
-      "value": 54,
+      "value": 58,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -4838,7 +4910,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Risk-sharing vs risk-pricing",
-      "value": 145,
+      "value": 151,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -5827,6 +5899,42 @@
     {
       "from": "Acta Turcarum - the Ottoman series at Dubrovnik",
       "to": "The Ragusan chancery and notarial series"
+    },
+    {
+      "from": "Aktipis and Cronk on need-based transfers and herd survival",
+      "to": "Absorbing barrier"
+    },
+    {
+      "from": "Aktipis and Cronk on need-based transfers and herd survival",
+      "to": "Cooperation is an averaging puzzle and sovereign repayment is a barrier puzzle"
+    },
+    {
+      "from": "Aktipis and Cronk on need-based transfers and herd survival",
+      "to": "Doctrine as survival technology literature"
+    },
+    {
+      "from": "Aktipis and Cronk on need-based transfers and herd survival",
+      "to": "Doctrine has been read as insurance and never as ruin avoidance"
+    },
+    {
+      "from": "Aktipis and Cronk on need-based transfers and herd survival",
+      "to": "Gharar excludes designed-in unverifiability"
+    },
+    {
+      "from": "Aktipis and Cronk on need-based transfers and herd survival",
+      "to": "MOC - Ergodicity and the time-ensemble distinction"
+    },
+    {
+      "from": "Aktipis and Cronk on need-based transfers and herd survival",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Aktipis and Cronk on need-based transfers and herd survival",
+      "to": "MOC - Risk-sharing vs risk-pricing"
+    },
+    {
+      "from": "Aktipis and Cronk on need-based transfers and herd survival",
+      "to": "Pooling's sign is set by the correlation of its baskets"
     },
     {
       "from": "Amsterdam notaries drafted ship-pledged and goods-pledged bodemerij as one instrument",
@@ -8821,6 +8929,134 @@
       "to": "Toda 2023 on ergodicity economics as pseudoscience"
     },
     {
+      "from": "Doctrine as survival technology literature",
+      "to": "Aktipis and Cronk on need-based transfers and herd survival"
+    },
+    {
+      "from": "Doctrine as survival technology literature",
+      "to": "Doctrine has been read as insurance and never as ruin avoidance"
+    },
+    {
+      "from": "Doctrine as survival technology literature",
+      "to": "El-Gamal 2001 on gharar as a ban on trading risk that could be shared"
+    },
+    {
+      "from": "Doctrine as survival technology literature",
+      "to": "Galton's problem"
+    },
+    {
+      "from": "Doctrine as survival technology literature",
+      "to": "Glaeser and Scheinkman 1998 on interest restrictions as social insurance"
+    },
+    {
+      "from": "Doctrine as survival technology literature",
+      "to": "Hudson 2002 on clean slates as protection of the free population"
+    },
+    {
+      "from": "Doctrine as survival technology literature",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Doctrine as survival technology literature",
+      "to": "MOC - Historiography and method"
+    },
+    {
+      "from": "Doctrine as survival technology literature",
+      "to": "Path dependence literature"
+    },
+    {
+      "from": "Doctrine as survival technology literature",
+      "to": "Rubin 2009 on interest bans as in-group insurance in early Christianity"
+    },
+    {
+      "from": "Doctrine as survival technology literature",
+      "to": "Scott 1976 on the subsistence ethic as safety-first"
+    },
+    {
+      "from": "Doctrine as survival technology literature",
+      "to": "The market selection literature is the project's nearest formal neighbour"
+    },
+    {
+      "from": "Doctrine has been read as insurance and never as ruin avoidance",
+      "to": "A fair wager lowers both trajectories which maysir forbids and skin in the game permits"
+    },
+    {
+      "from": "Doctrine has been read as insurance and never as ruin avoidance",
+      "to": "Aktipis and Cronk on need-based transfers and herd survival"
+    },
+    {
+      "from": "Doctrine has been read as insurance and never as ruin avoidance",
+      "to": "Cooperation is an averaging puzzle and sovereign repayment is a barrier puzzle"
+    },
+    {
+      "from": "Doctrine has been read as insurance and never as ruin avoidance",
+      "to": "Doctrine as survival technology literature"
+    },
+    {
+      "from": "Doctrine has been read as insurance and never as ruin avoidance",
+      "to": "Economics had its ensemble moment in 1738 and psychologized it"
+    },
+    {
+      "from": "Doctrine has been read as insurance and never as ruin avoidance",
+      "to": "El-Gamal 2001 on gharar as a ban on trading risk that could be shared"
+    },
+    {
+      "from": "Doctrine has been read as insurance and never as ruin avoidance",
+      "to": "Glaeser and Scheinkman 1998 on interest restrictions as social insurance"
+    },
+    {
+      "from": "Doctrine has been read as insurance and never as ruin avoidance",
+      "to": "Guard against reverse-teleology"
+    },
+    {
+      "from": "Doctrine has been read as insurance and never as ruin avoidance",
+      "to": "Hudson 2002 on clean slates as protection of the free population"
+    },
+    {
+      "from": "Doctrine has been read as insurance and never as ruin avoidance",
+      "to": "Islamic doctrine refuses risk-commodification at step one"
+    },
+    {
+      "from": "Doctrine has been read as insurance and never as ruin avoidance",
+      "to": "MOC - Ergodicity and the time-ensemble distinction"
+    },
+    {
+      "from": "Doctrine has been read as insurance and never as ruin avoidance",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Doctrine has been read as insurance and never as ruin avoidance",
+      "to": "MOC - Historiography and method"
+    },
+    {
+      "from": "Doctrine has been read as insurance and never as ruin avoidance",
+      "to": "MOC - Islamic contract doctrine"
+    },
+    {
+      "from": "Doctrine has been read as insurance and never as ruin avoidance",
+      "to": "Persistence samples are conditioned on non-absorption"
+    },
+    {
+      "from": "Doctrine has been read as insurance and never as ruin avoidance",
+      "to": "Ribbit mandates exposure rather than forbidding gain"
+    },
+    {
+      "from": "Doctrine has been read as insurance and never as ruin avoidance",
+      "to": "Rubin 2009 on interest bans as in-group insurance in early Christianity"
+    },
+    {
+      "from": "Doctrine has been read as insurance and never as ruin avoidance",
+      "to": "Scott 1976 on the subsistence ethic as safety-first"
+    },
+    {
+      "from": "Doctrine has been read as insurance and never as ruin avoidance",
+      "to": "Taleb reads survival as evidence about the survivor and we read it as evidence about the filter"
+    },
+    {
+      "from": "Doctrine has been read as insurance and never as ruin avoidance",
+      "to": "The split is over whether the explanandum is a state or a trajectory"
+    },
+    {
       "from": "Drelichman and Voth 2014 on the debts and defaults of Philip II",
       "to": "MOC - HistorEE"
     },
@@ -9099,6 +9335,34 @@
     {
       "from": "Economics had its ensemble moment in 1738 and psychologized it",
       "to": "Time-average"
+    },
+    {
+      "from": "El-Gamal 2001 on gharar as a ban on trading risk that could be shared",
+      "to": "A fair wager lowers both trajectories which maysir forbids and skin in the game permits"
+    },
+    {
+      "from": "El-Gamal 2001 on gharar as a ban on trading risk that could be shared",
+      "to": "Doctrine as survival technology literature"
+    },
+    {
+      "from": "El-Gamal 2001 on gharar as a ban on trading risk that could be shared",
+      "to": "Doctrine has been read as insurance and never as ruin avoidance"
+    },
+    {
+      "from": "El-Gamal 2001 on gharar as a ban on trading risk that could be shared",
+      "to": "Gharar excludes designed-in unverifiability"
+    },
+    {
+      "from": "El-Gamal 2001 on gharar as a ban on trading risk that could be shared",
+      "to": "Islamic doctrine refuses risk-commodification at step one"
+    },
+    {
+      "from": "El-Gamal 2001 on gharar as a ban on trading risk that could be shared",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "El-Gamal 2001 on gharar as a ban on trading risk that could be shared",
+      "to": "MOC - Islamic contract doctrine"
     },
     {
       "from": "Endogenised absorption has a sign",
@@ -10185,6 +10449,30 @@
       "to": "The qirad envelops the sea loan"
     },
     {
+      "from": "Glaeser and Scheinkman 1998 on interest restrictions as social insurance",
+      "to": "Doctrine as survival technology literature"
+    },
+    {
+      "from": "Glaeser and Scheinkman 1998 on interest restrictions as social insurance",
+      "to": "Doctrine has been read as insurance and never as ruin avoidance"
+    },
+    {
+      "from": "Glaeser and Scheinkman 1998 on interest restrictions as social insurance",
+      "to": "Economics had its ensemble moment in 1738 and psychologized it"
+    },
+    {
+      "from": "Glaeser and Scheinkman 1998 on interest restrictions as social insurance",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Glaeser and Scheinkman 1998 on interest restrictions as social insurance",
+      "to": "MOC - Risk-sharing vs risk-pricing"
+    },
+    {
+      "from": "Glaeser and Scheinkman 1998 on interest restrictions as social insurance",
+      "to": "Rubin 2009 on interest bans as in-group insurance in early Christianity"
+    },
+    {
       "from": "Guard against reverse-teleology",
       "to": "Discipline the Whig epithet by pinning it to teleology and survivorship"
     },
@@ -10763,6 +11051,34 @@
     {
       "from": "Hrvatski drzavni arhiv - Zagreb",
       "to": "MOC - Croatian archives"
+    },
+    {
+      "from": "Hudson 2002 on clean slates as protection of the free population",
+      "to": "Cooperation is an averaging puzzle and sovereign repayment is a barrier puzzle"
+    },
+    {
+      "from": "Hudson 2002 on clean slates as protection of the free population",
+      "to": "Doctrine as survival technology literature"
+    },
+    {
+      "from": "Hudson 2002 on clean slates as protection of the free population",
+      "to": "Doctrine has been read as insurance and never as ruin avoidance"
+    },
+    {
+      "from": "Hudson 2002 on clean slates as protection of the free population",
+      "to": "MOC - Ergodicity and the time-ensemble distinction"
+    },
+    {
+      "from": "Hudson 2002 on clean slates as protection of the free population",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Hudson 2002 on clean slates as protection of the free population",
+      "to": "Taleb secures the collective by exit and has no theory of pooling"
+    },
+    {
+      "from": "Hudson 2002 on clean slates as protection of the free population",
+      "to": "Warichi re-randomises after absorption rather than diversifying"
     },
     {
       "from": "Huizhou documents - the largest private contract corpus",
@@ -13166,6 +13482,10 @@
     },
     {
       "from": "MOC - Ergodicity and the time-ensemble distinction",
+      "to": "Aktipis and Cronk on need-based transfers and herd survival"
+    },
+    {
+      "from": "MOC - Ergodicity and the time-ensemble distinction",
       "to": "An absorbing barrier breaks ergodicity by construction"
     },
     {
@@ -13214,6 +13534,10 @@
     },
     {
       "from": "MOC - Ergodicity and the time-ensemble distinction",
+      "to": "Doctrine has been read as insurance and never as ruin avoidance"
+    },
+    {
+      "from": "MOC - Ergodicity and the time-ensemble distinction",
       "to": "EE cannot rank across dynamics and the comparative project must not need it to"
     },
     {
@@ -13247,6 +13571,10 @@
     {
       "from": "MOC - Ergodicity and the time-ensemble distinction",
       "to": "Galton-Watson is the extinction branch Peters named and did not develop"
+    },
+    {
+      "from": "MOC - Ergodicity and the time-ensemble distinction",
+      "to": "Hudson 2002 on clean slates as protection of the free population"
     },
     {
       "from": "MOC - Ergodicity and the time-ensemble distinction",
@@ -14046,6 +14374,10 @@
     },
     {
       "from": "MOC - HistorEE",
+      "to": "Aktipis and Cronk on need-based transfers and herd survival"
+    },
+    {
+      "from": "MOC - HistorEE",
       "to": "Answering EU's failures with more psychology instantiates the complaint"
     },
     {
@@ -14102,6 +14434,14 @@
     },
     {
       "from": "MOC - HistorEE",
+      "to": "Doctrine as survival technology literature"
+    },
+    {
+      "from": "MOC - HistorEE",
+      "to": "Doctrine has been read as insurance and never as ruin avoidance"
+    },
+    {
+      "from": "MOC - HistorEE",
       "to": "Drelichman and Voth 2014 on the debts and defaults of Philip II"
     },
     {
@@ -14111,6 +14451,10 @@
     {
       "from": "MOC - HistorEE",
       "to": "Economics had its ensemble moment in 1738 and psychologized it"
+    },
+    {
+      "from": "MOC - HistorEE",
+      "to": "El-Gamal 2001 on gharar as a ban on trading risk that could be shared"
     },
     {
       "from": "MOC - HistorEE",
@@ -14158,6 +14502,10 @@
     },
     {
       "from": "MOC - HistorEE",
+      "to": "Glaeser and Scheinkman 1998 on interest restrictions as social insurance"
+    },
+    {
+      "from": "MOC - HistorEE",
       "to": "Guard against reverse-teleology"
     },
     {
@@ -14167,6 +14515,10 @@
     {
       "from": "MOC - HistorEE",
       "to": "Hold the rater fixed and vary the evidence"
+    },
+    {
+      "from": "MOC - HistorEE",
+      "to": "Hudson 2002 on clean slates as protection of the free population"
     },
     {
       "from": "MOC - HistorEE",
@@ -14302,7 +14654,15 @@
     },
     {
       "from": "MOC - HistorEE",
+      "to": "Rubin 2009 on interest bans as in-group insurance in early Christianity"
+    },
+    {
+      "from": "MOC - HistorEE",
       "to": "Scots partnership has legal personality and English partnership does not"
+    },
+    {
+      "from": "MOC - HistorEE",
+      "to": "Scott 1976 on the subsistence ethic as safety-first"
     },
     {
       "from": "MOC - HistorEE",
@@ -14666,6 +15026,14 @@
     },
     {
       "from": "MOC - Historiography and method",
+      "to": "Doctrine as survival technology literature"
+    },
+    {
+      "from": "MOC - Historiography and method",
+      "to": "Doctrine has been read as insurance and never as ruin avoidance"
+    },
+    {
+      "from": "MOC - Historiography and method",
       "to": "EIC digital corpus - what is online and on what terms"
     },
     {
@@ -14775,6 +15143,10 @@
     {
       "from": "MOC - Historiography and method",
       "to": "Retrodiction fails on non-invertibility not on induction"
+    },
+    {
+      "from": "MOC - Historiography and method",
+      "to": "Rubin 2009 on interest bans as in-group insurance in early Christianity"
     },
     {
       "from": "MOC - Historiography and method",
@@ -14931,6 +15303,14 @@
     {
       "from": "MOC - Islamic contract doctrine",
       "to": "A route clause conditions the investor's peril in three traditions"
+    },
+    {
+      "from": "MOC - Islamic contract doctrine",
+      "to": "Doctrine has been read as insurance and never as ruin avoidance"
+    },
+    {
+      "from": "MOC - Islamic contract doctrine",
+      "to": "El-Gamal 2001 on gharar as a ban on trading risk that could be shared"
     },
     {
       "from": "MOC - Islamic contract doctrine",
@@ -15530,6 +15910,10 @@
     },
     {
       "from": "MOC - Risk-sharing vs risk-pricing",
+      "to": "Aktipis and Cronk on need-based transfers and herd survival"
+    },
+    {
+      "from": "MOC - Risk-sharing vs risk-pricing",
       "to": "Amsterdam notaries drafted ship-pledged and goods-pledged bodemerij as one instrument"
     },
     {
@@ -15575,6 +15959,10 @@
     {
       "from": "MOC - Risk-sharing vs risk-pricing",
       "to": "General average shares decisions where warichi shares hazards"
+    },
+    {
+      "from": "MOC - Risk-sharing vs risk-pricing",
+      "to": "Glaeser and Scheinkman 1998 on interest restrictions as social insurance"
     },
     {
       "from": "MOC - Risk-sharing vs risk-pricing",
@@ -15639,6 +16027,10 @@
     {
       "from": "MOC - Risk-sharing vs risk-pricing",
       "to": "Ribbit mandates exposure rather than forbidding gain"
+    },
+    {
+      "from": "MOC - Risk-sharing vs risk-pricing",
+      "to": "Scott 1976 on the subsistence ethic as safety-first"
     },
     {
       "from": "MOC - Risk-sharing vs risk-pricing",
@@ -18341,6 +18733,34 @@
       "to": "Time-average"
     },
     {
+      "from": "Rubin 2009 on interest bans as in-group insurance in early Christianity",
+      "to": "Doctrine as survival technology literature"
+    },
+    {
+      "from": "Rubin 2009 on interest bans as in-group insurance in early Christianity",
+      "to": "Doctrine has been read as insurance and never as ruin avoidance"
+    },
+    {
+      "from": "Rubin 2009 on interest bans as in-group insurance in early Christianity",
+      "to": "Glaeser and Scheinkman 1998 on interest restrictions as social insurance"
+    },
+    {
+      "from": "Rubin 2009 on interest bans as in-group insurance in early Christianity",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Rubin 2009 on interest bans as in-group insurance in early Christianity",
+      "to": "MOC - Historiography and method"
+    },
+    {
+      "from": "Rubin 2009 on interest bans as in-group insurance in early Christianity",
+      "to": "Naviganti - Latin Christendom rejected the sea loan too"
+    },
+    {
+      "from": "Rubin 2009 on interest bans as in-group insurance in early Christianity",
+      "to": "Taleb reads survival as evidence about the survivor and we read it as evidence about the filter"
+    },
+    {
       "from": "Ryukoku University and the Otani collection",
       "to": "IDP - the digital reunification of a dispersed archive"
     },
@@ -18431,6 +18851,42 @@
     {
       "from": "Scots partnership has legal personality and English partnership does not",
       "to": "The talha and the Zubusse are the same mechanism with opposite liability rules"
+    },
+    {
+      "from": "Scott 1976 on the subsistence ethic as safety-first",
+      "to": "Doctrine as survival technology literature"
+    },
+    {
+      "from": "Scott 1976 on the subsistence ethic as safety-first",
+      "to": "Doctrine has been read as insurance and never as ruin avoidance"
+    },
+    {
+      "from": "Scott 1976 on the subsistence ethic as safety-first",
+      "to": "Islamic doctrine refuses risk-commodification at step one"
+    },
+    {
+      "from": "Scott 1976 on the subsistence ethic as safety-first",
+      "to": "Lock-in and outcome-coupling are distinct bindings"
+    },
+    {
+      "from": "Scott 1976 on the subsistence ethic as safety-first",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Scott 1976 on the subsistence ethic as safety-first",
+      "to": "MOC - Risk-sharing vs risk-pricing"
+    },
+    {
+      "from": "Scott 1976 on the subsistence ethic as safety-first",
+      "to": "Outcome-coupling is the condition of legibility"
+    },
+    {
+      "from": "Scott 1976 on the subsistence ethic as safety-first",
+      "to": "Ribbit mandates exposure rather than forbidding gain"
+    },
+    {
+      "from": "Scott 1976 on the subsistence ethic as safety-first",
+      "to": "Time-average"
     },
     {
       "from": "Scuttling rewards fraud in the sea loan",
