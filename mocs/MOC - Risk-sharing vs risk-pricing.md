@@ -105,5 +105,6 @@ Thematic hub for the instrument axis: risk-*sharing* forms that keep every party
 ## Added 2026-10-04 — doctrine as survival technology
 
 - [[Glaeser and Scheinkman 1998 on interest restrictions as social insurance]] — interest caps as ex-ante insurance; the template to depart from
+- [[Temin and Voth 2008 test predictions Glaeser and Scheinkman did not make]] — the standard counter-citation; a lender's loan book read as borrower welfare
 - [[Scott 1976 on the subsistence ethic as safety-first]] — share rents tolerated, fixed claims refused: outcome-coupling as a moral distinction
 - [[Aktipis and Cronk on need-based transfers and herd survival]] — need-based transfers beat account-keeping on survival, within the ρ limit

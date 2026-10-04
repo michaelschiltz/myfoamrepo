@@ -54,7 +54,7 @@ Bibliographic companion to [[Doctrine has been read as insurance and never as ru
 
 ## 5 — Rival functions and counter-evidence (`2XFR4MJJ`)
 
-- **Against the insurance reading:** Temin and Voth 2008 (natural experiment, 1714 rate-cap change).
+- **Against the insurance reading:** [[Temin and Voth 2008 test predictions Glaeser and Scheinkman did not make]] (`W937GWGK`). It shows the 1714 ceiling bound. As a refutation of Glaeser–Scheinkman it is weak: it tests predictions they did not make, on a population they did not model.
 - **Rival functions:** Schein 2003 (creditor power); Ekelund, Hébert and Tollison 1989 (rent-seeking); Seror 2018 (clerical control); Hendrickson 2024 (usury enforcement as a substitute for taxing capital); Berg and Kim 2014 (signalling and screening).
 - **Big Gods tests:** Whitehouse et al. 2022; Turchin et al. 2022.
 

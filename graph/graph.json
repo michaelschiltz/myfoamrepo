@@ -1184,7 +1184,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Doctrine as survival technology literature",
-      "value": 24,
+      "value": 26,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1193,7 +1193,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Doctrine has been read as insurance and never as ruin avoidance",
-      "value": 39,
+      "value": 42,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1589,7 +1589,7 @@
       "type": "source",
       "group": "source",
       "label": "Glaeser and Scheinkman 1998 on interest restrictions as social insurance",
-      "value": 18,
+      "value": 21,
       "color": "#7570b3",
       "shape": "dot"
     },
@@ -1751,7 +1751,7 @@
       "type": "source",
       "group": "source",
       "label": "Hudson 2002 on clean slates as protection of the free population",
-      "value": 24,
+      "value": 26,
       "color": "#7570b3",
       "shape": "dot"
     },
@@ -2660,7 +2660,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Persistence samples are conditioned on non-absorption",
-      "value": 64,
+      "value": 66,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -2948,7 +2948,7 @@
       "type": "source",
       "group": "source",
       "label": "Rubin 2009 on interest bans as in-group insurance in early Christianity",
-      "value": 19,
+      "value": 21,
       "color": "#7570b3",
       "shape": "dot"
     },
@@ -3499,6 +3499,15 @@
       "label": "Tata Central Archives and the scarcity of Indian business archives",
       "value": 7,
       "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "Temin and Voth 2008 test predictions Glaeser and Scheinkman did not make",
+      "type": "source",
+      "group": "source",
+      "label": "Temin and Voth 2008 test predictions Glaeser and Scheinkman did not make",
+      "value": 23,
+      "color": "#7570b3",
       "shape": "dot"
     },
     {
@@ -4289,7 +4298,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The split is over whether the explanandum is a state or a trajectory",
-      "value": 33,
+      "value": 35,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -4838,7 +4847,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - HistorEE",
-      "value": 399,
+      "value": 401,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -4847,7 +4856,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Historiography and method",
-      "value": 205,
+      "value": 207,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -4910,7 +4919,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Risk-sharing vs risk-pricing",
-      "value": 151,
+      "value": 153,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -8974,6 +8983,10 @@
     },
     {
       "from": "Doctrine as survival technology literature",
+      "to": "Temin and Voth 2008 test predictions Glaeser and Scheinkman did not make"
+    },
+    {
+      "from": "Doctrine as survival technology literature",
       "to": "The market selection literature is the project's nearest formal neighbour"
     },
     {
@@ -9055,6 +9068,10 @@
     {
       "from": "Doctrine has been read as insurance and never as ruin avoidance",
       "to": "Taleb reads survival as evidence about the survivor and we read it as evidence about the filter"
+    },
+    {
+      "from": "Doctrine has been read as insurance and never as ruin avoidance",
+      "to": "Temin and Voth 2008 test predictions Glaeser and Scheinkman did not make"
     },
     {
       "from": "Doctrine has been read as insurance and never as ruin avoidance",
@@ -10491,6 +10508,10 @@
     {
       "from": "Glaeser and Scheinkman 1998 on interest restrictions as social insurance",
       "to": "Rubin 2009 on interest bans as in-group insurance in early Christianity"
+    },
+    {
+      "from": "Glaeser and Scheinkman 1998 on interest restrictions as social insurance",
+      "to": "Temin and Voth 2008 test predictions Glaeser and Scheinkman did not make"
     },
     {
       "from": "Guard against reverse-teleology",
@@ -14742,6 +14763,10 @@
     },
     {
       "from": "MOC - HistorEE",
+      "to": "Temin and Voth 2008 test predictions Glaeser and Scheinkman did not make"
+    },
+    {
+      "from": "MOC - HistorEE",
       "to": "Terminal wealth is permutation-invariant but survival is not"
     },
     {
@@ -15199,6 +15224,10 @@
     {
       "from": "MOC - Historiography and method",
       "to": "Taleb reads survival as evidence about the survivor and we read it as evidence about the filter"
+    },
+    {
+      "from": "MOC - Historiography and method",
+      "to": "Temin and Voth 2008 test predictions Glaeser and Scheinkman did not make"
     },
     {
       "from": "MOC - Historiography and method",
@@ -16083,6 +16112,10 @@
     {
       "from": "MOC - Risk-sharing vs risk-pricing",
       "to": "Taleb secures the collective by exit and has no theory of pooling"
+    },
+    {
+      "from": "MOC - Risk-sharing vs risk-pricing",
+      "to": "Temin and Voth 2008 test predictions Glaeser and Scheinkman did not make"
     },
     {
       "from": "MOC - Risk-sharing vs risk-pricing",
@@ -20535,6 +20568,46 @@
     {
       "from": "Tata Central Archives and the scarcity of Indian business archives",
       "to": "Mitsui Bunko - the Mitsui house archive"
+    },
+    {
+      "from": "Temin and Voth 2008 test predictions Glaeser and Scheinkman did not make",
+      "to": "Doctrine as survival technology literature"
+    },
+    {
+      "from": "Temin and Voth 2008 test predictions Glaeser and Scheinkman did not make",
+      "to": "Doctrine has been read as insurance and never as ruin avoidance"
+    },
+    {
+      "from": "Temin and Voth 2008 test predictions Glaeser and Scheinkman did not make",
+      "to": "Glaeser and Scheinkman 1998 on interest restrictions as social insurance"
+    },
+    {
+      "from": "Temin and Voth 2008 test predictions Glaeser and Scheinkman did not make",
+      "to": "Hudson 2002 on clean slates as protection of the free population"
+    },
+    {
+      "from": "Temin and Voth 2008 test predictions Glaeser and Scheinkman did not make",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Temin and Voth 2008 test predictions Glaeser and Scheinkman did not make",
+      "to": "MOC - Historiography and method"
+    },
+    {
+      "from": "Temin and Voth 2008 test predictions Glaeser and Scheinkman did not make",
+      "to": "MOC - Risk-sharing vs risk-pricing"
+    },
+    {
+      "from": "Temin and Voth 2008 test predictions Glaeser and Scheinkman did not make",
+      "to": "Persistence samples are conditioned on non-absorption"
+    },
+    {
+      "from": "Temin and Voth 2008 test predictions Glaeser and Scheinkman did not make",
+      "to": "Rubin 2009 on interest bans as in-group insurance in early Christianity"
+    },
+    {
+      "from": "Temin and Voth 2008 test predictions Glaeser and Scheinkman did not make",
+      "to": "The split is over whether the explanandum is a state or a trajectory"
     },
     {
       "from": "Tereke defterleri - the Ottoman estate inventory series",

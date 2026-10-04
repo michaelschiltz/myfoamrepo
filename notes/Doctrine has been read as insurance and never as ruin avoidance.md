@@ -25,7 +25,10 @@ The sweep that established this ran in October 2026: six Undermind deep searches
 
 **Christian usury: three readings, two with an explicit barrier.**
 
-- **Glaeser and Scheinkman 1998.** Their model is expected utility with strictly concave U: the ban transfers income to states with high marginal utility. In prose, though, they read the biblical rules as keeping people from becoming "burdens on the community", and debt slavery as removing them from their obligations (pp. 20–21, nn. 37–39). See [[Glaeser and Scheinkman 1998 on interest restrictions as social insurance]].
+- **Glaeser and Scheinkman 1998.** Their model is expected utility with strictly concave U: the ban transfers income to states with high marginal utility. Their text, though, reaches the barrier twice.
+  - An extension gives the ceiling "a second function of stopping the occurrence of high-risk loans" when "bankrupt individuals become wards of the state" (p. 12).
+  - In prose, they read the biblical rules as keeping people from becoming "burdens on the community", and debt slavery as removing them from their obligations (pp. 20–21, nn. 37–39).
+  - See [[Glaeser and Scheinkman 1998 on interest restrictions as social insurance]].
 - **Reed and Bekar 2003** (*Explorations in Economic History* 40, 347–368) is the closest neighbour, and the first version of this note misdescribed it as a welfare argument.
   - Their agents are **risk neutral**. An agent whose income falls below subsistence m starves (p. 357).
   - The Church has lexicographic preferences, and its "foremost goal is to keep all members of the population alive" (p. 357).
@@ -76,7 +79,7 @@ The sweep that established this ran in October 2026: six Undermind deep searches
 
 The readings predict different quantities:
 
-- **Insurance (G&S)** predicts welfare gains. Temin and Voth 2008 test this for the 1714 cut in England's legal interest-rate ceiling and do not find them.
+- **Insurance (G&S)** predicts ex-ante welfare gains. Its standard test is Temin and Voth 2008 on the 1714 cut in England's legal interest-rate ceiling, which uses a lender's loan book. That test misattributes predictions to G&S, and its main findings are G&S's own second function (p. 12). See [[Temin and Voth 2008 test predictions Glaeser and Scheinkman did not make]].
 - **Additive barrier (Reed–Bekar, Rubin)** predicts fewer starvations or exits in bad years. That is a cross-section of a single year.
 - **Multiplicative trajectory (the project)** predicts fewer absorptions accumulated over time, concentrated among households holding fixed claims, and a gap between fixed- and contingent-claim households that widens with volatility. Kunreuther and Wright's result belongs here: farmers near the barrier are "forced to gamble". The project predicts risk-taking at the margin, not uniform caution.
 
@@ -105,6 +108,7 @@ The readings predict different quantities:
 - [[Islamic doctrine refuses risk-commodification at step one]]
 - [[A fair wager lowers both trajectories which maysir forbids and skin in the game permits]]
 - [[Persistence samples are conditioned on non-absorption]]
+- [[Temin and Voth 2008 test predictions Glaeser and Scheinkman did not make]]
 - [[Taleb reads survival as evidence about the survivor and we read it as evidence about the filter]]
 
 ## Source

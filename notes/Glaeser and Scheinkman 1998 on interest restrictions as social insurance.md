@@ -31,7 +31,15 @@ The insurance is therefore exactly the concave-utility, behind-the-veil kind the
 - **n. 39** extends the argument to "the Judaic dislike for gambling".
 - **n. 37** notes that Hammurabi's laws limit the pledging of assets and let debtors hit by "an act of nature" delay repayment.
 
-That is the absorbing-state intuition — debt slavery as exit from the community's obligations — stated and then left out of the model.
+That is the absorbing-state intuition — debt slavery as exit from the community's obligations — stated and then left out of the main model.
+
+**It also appears in the model's extensions (p. 12, nn. 24–25).**
+
+- Restrictions "may play a second function of stopping the occurrence of high-risk loans," where default has social costs because "bankrupt individuals become wards of the state."
+- Note 25 adds that it is enough if indebted agents "perform fewer unpaid services for the community."
+- This is the ceiling as a screen on fixed-claim credit, keeping people off the barrier, and it is in G&S's own text.
+
+**Rationing is built in (p. 6).** The ceiling sits below the market rate, so the quantity of loans "is determined by the willingness of the rich to lend". Note 16 concedes that if "a particular class of poorer agents received all of the loans," usury laws become "much more costly."
 
 **The consumption/production split (pp. 4, 23).** It is their best historical evidence against pure rent-seeking. The examples are Kautilya's rate schedule, *mutuum* against *stipulatio* in Roman law, Aquinas, and the Talmud's licensing of equity participation (*Bava Metzia* 5:4). It sorts debts by the same line as Hudson's agrarian/commercial split ([[Hudson 2002 on clean slates as protection of the free population]]). The rule bites where default destroys a household and spares lending where the creditor shares the venture.
 
@@ -39,13 +47,20 @@ That is the absorbing-state intuition — debt slavery as exit from the communit
 
 The paper evaluates the rule across an ensemble of agents behind a veil. The project evaluates it on the borrower's trajectory and its barrier. G&S's own pp. 20–21 are the bridge: the barrier argument they make in words is the one the project formalises. Rubin 2009 ([[Rubin 2009 on interest bans as in-group insurance in early Christianity]]) contests their insurance reading on timing.
 
-**What tells against it.** Temin and Voth's natural experiment on the 1714 cut in England's legal interest-rate ceiling (*Economic Journal* 2008, DOI 10.1111/j.1468-0297.2008.02140.x) finds credit access worse for borrowers with little social capital and no insurance gain. That tests the welfare claim, not a barrier claim.
+**The standard counter-citation is weaker than it looks.** The usual evidence against G&S is Temin and Voth's natural experiment on the 1714 cut in England's legal interest-rate ceiling.
+
+- **It tests predictions G&S did not make:** wider access to credit and smaller minimum loans.
+- **Its main findings are G&S's second function (p. 12):** the bank shed marginal borrowers and defaults went to zero.
+- **Only one finding damages G&S:** the concentration of credit on the well-connected. That is the costly case of n. 16.
+
+See [[Temin and Voth 2008 test predictions Glaeser and Scheinkman did not make]].
 
 ## Links
 
 - [[Doctrine has been read as insurance and never as ruin avoidance]]
 - [[Rubin 2009 on interest bans as in-group insurance in early Christianity]]
 - [[Hudson 2002 on clean slates as protection of the free population]]
+- [[Temin and Voth 2008 test predictions Glaeser and Scheinkman did not make]]
 - [[A fair wager lowers both trajectories which maysir forbids and skin in the game permits]]
 - [[Doctrine as survival technology literature]]
 - [[MOC - Risk-sharing vs risk-pricing]]

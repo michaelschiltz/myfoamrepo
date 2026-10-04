@@ -133,6 +133,6 @@ Hubbed at [[MOC - Defending the ergodicity claim]]; listed here because the sour
 
 ## Added 2026-10-04 — doctrine as survival technology
 
-- [[Doctrine has been read as insurance and never as ruin avoidance]] — the move from ensemble to trajectory, with survival as the dependent variable, is the open ground
+- [[Doctrine has been read as insurance and never as ruin avoidance]] — subsistence-exit models exist with additive dynamics; the multiplicative trajectory, with survival as the dependent variable, is the open ground
 - [[Hudson 2002 on clean slates as protection of the free population]] — debt bondage as the household's absorbing state; the clean slate as reset after absorption
 - [[Aktipis and Cronk on need-based transfers and herd survival]] — an ethical rule conditioned on the giver's own barrier, evaluated by herd survival

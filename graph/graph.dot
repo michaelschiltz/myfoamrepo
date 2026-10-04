@@ -390,6 +390,7 @@ digraph vault {
   "Taleb specifies the firewall in chapter 4 and condemns it in chapter 23" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Tamil Nadu Archives - the Madras records and the Dutch series" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
   "Tata Central Archives and the scarcity of Indian business archives" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
+  "Temin and Voth 2008 test predictions Glaeser and Scheinkman did not make" [fillcolor="#7570b3", fontcolor=white, shape=ellipse];
   "Tereke defterleri - the Ottoman estate inventory series" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
   "Terminal wealth is permutation-invariant but survival is not" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "The Adriatic scope edge - Kotor and the modern borders" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
@@ -1551,6 +1552,7 @@ digraph vault {
   "Doctrine as survival technology literature" -> "Path dependence literature";
   "Doctrine as survival technology literature" -> "Rubin 2009 on interest bans as in-group insurance in early Christianity";
   "Doctrine as survival technology literature" -> "Scott 1976 on the subsistence ethic as safety-first";
+  "Doctrine as survival technology literature" -> "Temin and Voth 2008 test predictions Glaeser and Scheinkman did not make";
   "Doctrine as survival technology literature" -> "The market selection literature is the project's nearest formal neighbour";
   "Doctrine has been read as insurance and never as ruin avoidance" -> "A fair wager lowers both trajectories which maysir forbids and skin in the game permits";
   "Doctrine has been read as insurance and never as ruin avoidance" -> "Aktipis and Cronk on need-based transfers and herd survival";
@@ -1572,6 +1574,7 @@ digraph vault {
   "Doctrine has been read as insurance and never as ruin avoidance" -> "Rubin 2009 on interest bans as in-group insurance in early Christianity";
   "Doctrine has been read as insurance and never as ruin avoidance" -> "Scott 1976 on the subsistence ethic as safety-first";
   "Doctrine has been read as insurance and never as ruin avoidance" -> "Taleb reads survival as evidence about the survivor and we read it as evidence about the filter";
+  "Doctrine has been read as insurance and never as ruin avoidance" -> "Temin and Voth 2008 test predictions Glaeser and Scheinkman did not make";
   "Doctrine has been read as insurance and never as ruin avoidance" -> "The split is over whether the explanandum is a state or a trajectory";
   "Drelichman and Voth 2014 on the debts and defaults of Philip II" -> "MOC - HistorEE";
   "Drelichman and Voth 2014 on the debts and defaults of Philip II" -> "MOC - Risk-sharing vs risk-pricing";
@@ -1931,6 +1934,7 @@ digraph vault {
   "Glaeser and Scheinkman 1998 on interest restrictions as social insurance" -> "MOC - HistorEE";
   "Glaeser and Scheinkman 1998 on interest restrictions as social insurance" -> "MOC - Risk-sharing vs risk-pricing";
   "Glaeser and Scheinkman 1998 on interest restrictions as social insurance" -> "Rubin 2009 on interest bans as in-group insurance in early Christianity";
+  "Glaeser and Scheinkman 1998 on interest restrictions as social insurance" -> "Temin and Voth 2008 test predictions Glaeser and Scheinkman did not make";
   "Guard against reverse-teleology" -> "Discipline the Whig epithet by pinning it to teleology and survivorship";
   "Guard against reverse-teleology" -> "MOC - HistorEE";
   "Guard against reverse-teleology" -> "MOC - Historiography and method";
@@ -2993,6 +2997,7 @@ digraph vault {
   "MOC - HistorEE" -> "Taleb reads survival as evidence about the survivor and we read it as evidence about the filter";
   "MOC - HistorEE" -> "Taleb secures the collective by exit and has no theory of pooling";
   "MOC - HistorEE" -> "Taleb specifies the firewall in chapter 4 and condemns it in chapter 23";
+  "MOC - HistorEE" -> "Temin and Voth 2008 test predictions Glaeser and Scheinkman did not make";
   "MOC - HistorEE" -> "Terminal wealth is permutation-invariant but survival is not";
   "MOC - HistorEE" -> "The Antwerp phases separate on two cells and the boundary is textual";
   "MOC - HistorEE" -> "The Kux carries transferability with unlimited liability";
@@ -3108,6 +3113,7 @@ digraph vault {
   "MOC - Historiography and method" -> "Split provenance into priority and independence";
   "MOC - Historiography and method" -> "Taleb 2012 on antifragility - loci for the time-ensemble distinction";
   "MOC - Historiography and method" -> "Taleb reads survival as evidence about the survivor and we read it as evidence about the filter";
+  "MOC - Historiography and method" -> "Temin and Voth 2008 test predictions Glaeser and Scheinkman did not make";
   "MOC - Historiography and method" -> "The Antwerp phases separate on two cells and the boundary is textual";
   "MOC - Historiography and method" -> "The QDL corpus is conditioned on its funder's geography";
   "MOC - Historiography and method" -> "The Roman universitas makes the JSC case parallelism not convergence";
@@ -3329,6 +3335,7 @@ digraph vault {
   "MOC - Risk-sharing vs risk-pricing" -> "Stoic loci on cooperation - only two argue from interdependence";
   "MOC - Risk-sharing vs risk-pricing" -> "Syndication and the misma moneda are pooling not prudence";
   "MOC - Risk-sharing vs risk-pricing" -> "Taleb secures the collective by exit and has no theory of pooling";
+  "MOC - Risk-sharing vs risk-pricing" -> "Temin and Voth 2008 test predictions Glaeser and Scheinkman did not make";
   "MOC - Risk-sharing vs risk-pricing" -> "The Bodmerei shield was a default rule and Amsterdam contracted out of it";
   "MOC - Risk-sharing vs risk-pricing" -> "The Fugger diversified activity while concentrating the barrier";
   "MOC - Risk-sharing vs risk-pricing" -> "The bidding ko transfers from the liquidity-constrained to the liquid";
@@ -4442,6 +4449,16 @@ digraph vault {
   "Tata Central Archives and the scarcity of Indian business archives" -> "Indian merchant account books - bahi khata and kadai kanakku";
   "Tata Central Archives and the scarcity of Indian business archives" -> "MOC - South Asian archives";
   "Tata Central Archives and the scarcity of Indian business archives" -> "Mitsui Bunko - the Mitsui house archive";
+  "Temin and Voth 2008 test predictions Glaeser and Scheinkman did not make" -> "Doctrine as survival technology literature";
+  "Temin and Voth 2008 test predictions Glaeser and Scheinkman did not make" -> "Doctrine has been read as insurance and never as ruin avoidance";
+  "Temin and Voth 2008 test predictions Glaeser and Scheinkman did not make" -> "Glaeser and Scheinkman 1998 on interest restrictions as social insurance";
+  "Temin and Voth 2008 test predictions Glaeser and Scheinkman did not make" -> "Hudson 2002 on clean slates as protection of the free population";
+  "Temin and Voth 2008 test predictions Glaeser and Scheinkman did not make" -> "MOC - HistorEE";
+  "Temin and Voth 2008 test predictions Glaeser and Scheinkman did not make" -> "MOC - Historiography and method";
+  "Temin and Voth 2008 test predictions Glaeser and Scheinkman did not make" -> "MOC - Risk-sharing vs risk-pricing";
+  "Temin and Voth 2008 test predictions Glaeser and Scheinkman did not make" -> "Persistence samples are conditioned on non-absorption";
+  "Temin and Voth 2008 test predictions Glaeser and Scheinkman did not make" -> "Rubin 2009 on interest bans as in-group insurance in early Christianity";
+  "Temin and Voth 2008 test predictions Glaeser and Scheinkman did not make" -> "The split is over whether the explanandum is a state or a trajectory";
   "Tereke defterleri - the Ottoman estate inventory series" -> "Gurema - the insolvent estate distributed among creditors";
   "Tereke defterleri - the Ottoman estate inventory series" -> "ISAM Library Archive - the court register image collection";
   "Tereke defterleri - the Ottoman estate inventory series" -> "Istanbul Muftulugu Seriyye Sicilleri Arsivi";
