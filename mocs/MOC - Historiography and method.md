@@ -135,7 +135,7 @@ Where the sources for the European companies are and are not machine-readable is
 
 ## Added 2026-10-04 — doctrine as survival technology
 
-- [[Doctrine has been read as insurance and never as ruin avoidance]] — functionalism is not the novelty; survival outcomes are, and origin function must be kept apart from persistence filter
-- [[Rubin 2009 on interest bans as in-group insurance in early Christianity]] — one author, two stories: origin by function, persistence by rulers' legitimacy
+- [[Doctrine has been read as subsistence protection but never through the time average]] — functionalism is not the novelty; survival outcomes are, and origin function must be kept apart from persistence filter
+- [[Rubin 2009 on the interest ban as a curb on overborrowing under Church insurance]] — one author, two stories: origin by function, persistence by rulers' legitimacy
 - [[Temin and Voth 2008 test predictions Glaeser and Scheinkman did not make]] — a one-bank archive selected on the response it measures
 - [[Doctrine as survival technology literature]] — bibliographic companion

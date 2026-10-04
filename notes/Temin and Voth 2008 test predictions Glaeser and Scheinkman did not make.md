@@ -43,7 +43,7 @@ Peter Temin and Hans-Joachim Voth, "Interest Rate Restrictions in a Natural Expe
 ## The ensemble reasoning
 
 - **The unit is the lender's loan book.** Borrowers dropped after 1714 vanish from the data. Whether they borrowed elsewhere, defaulted elsewhere, or did fine without credit is unobserved. A conclusion about borrower welfare is drawn from the lender's cross-section.
-- **"Access to credit" counts as a good in itself.** This is the deepest ensemble premise in the paper: more fixed-claim credit is better for the marginal borrower. Under the barrier reading, keeping a fragile household out of fixed-claim debt can be the protective function. That is the line through [[Hudson 2002 on clean slates as protection of the free population]], [[Rubin 2009 on interest bans as in-group insurance in early Christianity]] and G&S p. 12. The paper cannot consider it, because it never follows a borrower's path.
+- **"Access to credit" counts as a good in itself.** This is the deepest ensemble premise in the paper: more fixed-claim credit is better for the marginal borrower. Under the barrier reading, keeping a fragile household out of fixed-claim debt can be the protective function. That is the line through [[Hudson 2002 on clean slates as protection of the free population]], [[Rubin 2009 on the interest ban as a curb on overborrowing under Church insurance]] and G&S p. 12. The paper cannot consider it, because it never follows a borrower's path.
 - **The subsidy is valued per loan in expectation:** £4.3 at the median, £21.9 at the mean (p. 752).
 - **The debate is ensemble against ensemble.** G&S defend the cap with ex-ante expected utility behind a veil (their eq. 1). Temin and Voth attack it with loan-book averages. Neither looks at a trajectory. The project's contribution is not to take a side but to change the outcome variable ([[The split is over whether the explanandum is a state or a trajectory]]).
 
@@ -73,8 +73,8 @@ The population at risk, not a lender's book: absorptions among borrowers before 
 ## Links
 
 - [[Glaeser and Scheinkman 1998 on interest restrictions as social insurance]]
-- [[Doctrine has been read as insurance and never as ruin avoidance]]
-- [[Rubin 2009 on interest bans as in-group insurance in early Christianity]]
+- [[Doctrine has been read as subsistence protection but never through the time average]]
+- [[Rubin 2009 on the interest ban as a curb on overborrowing under Church insurance]]
 - [[Hudson 2002 on clean slates as protection of the free population]]
 - [[Persistence samples are conditioned on non-absorption]]
 - [[The split is over whether the explanandum is a state or a trajectory]]

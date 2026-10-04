@@ -250,11 +250,11 @@ Project hub for the book. Atomic notes hang off both this project MOC and a them
 
 ## Notes — survival-doctrine sweep
 
-- [[Doctrine has been read as insurance and never as ruin avoidance]] — the barrier is in the literature (Reed–Bekar, Rubin, G&S's prose); the multiplicative dynamic and a measured survival outcome are not
+- [[Doctrine has been read as subsistence protection but never through the time average]] — the barrier is in the literature (Reed–Bekar, Rubin, G&S's prose); the multiplicative dynamic and a measured survival outcome are not
 - [[Doctrine as survival technology literature]] — Zotero `84KIIRXV`, five subcollections, 82 items
 - [[Glaeser and Scheinkman 1998 on interest restrictions as social insurance]]
 - [[Temin and Voth 2008 test predictions Glaeser and Scheinkman did not make]]
-- [[Rubin 2009 on interest bans as in-group insurance in early Christianity]]
+- [[Rubin 2009 on the interest ban as a curb on overborrowing under Church insurance]]
 - [[El-Gamal 2001 on gharar as a ban on trading risk that could be shared]]
 - [[Hudson 2002 on clean slates as protection of the free population]]
 - [[Scott 1976 on the subsistence ethic as safety-first]]

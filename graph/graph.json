@@ -1189,10 +1189,10 @@
       "shape": "dot"
     },
     {
-      "id": "Doctrine has been read as insurance and never as ruin avoidance",
+      "id": "Doctrine has been read as subsistence protection but never through the time average",
       "type": "permanent",
       "group": "seed",
-      "label": "Doctrine has been read as insurance and never as ruin avoidance",
+      "label": "Doctrine has been read as subsistence protection but never through the time average",
       "value": 42,
       "color": "#e6ab02",
       "shape": "dot"
@@ -2944,10 +2944,10 @@
       "shape": "dot"
     },
     {
-      "id": "Rubin 2009 on interest bans as in-group insurance in early Christianity",
+      "id": "Rubin 2009 on the interest ban as a curb on overborrowing under Church insurance",
       "type": "source",
       "group": "source",
-      "label": "Rubin 2009 on interest bans as in-group insurance in early Christianity",
+      "label": "Rubin 2009 on the interest ban as a curb on overborrowing under Church insurance",
       "value": 21,
       "color": "#7570b3",
       "shape": "dot"
@@ -5923,7 +5923,7 @@
     },
     {
       "from": "Aktipis and Cronk on need-based transfers and herd survival",
-      "to": "Doctrine has been read as insurance and never as ruin avoidance"
+      "to": "Doctrine has been read as subsistence protection but never through the time average"
     },
     {
       "from": "Aktipis and Cronk on need-based transfers and herd survival",
@@ -8943,7 +8943,7 @@
     },
     {
       "from": "Doctrine as survival technology literature",
-      "to": "Doctrine has been read as insurance and never as ruin avoidance"
+      "to": "Doctrine has been read as subsistence protection but never through the time average"
     },
     {
       "from": "Doctrine as survival technology literature",
@@ -8975,7 +8975,7 @@
     },
     {
       "from": "Doctrine as survival technology literature",
-      "to": "Rubin 2009 on interest bans as in-group insurance in early Christianity"
+      "to": "Rubin 2009 on the interest ban as a curb on overborrowing under Church insurance"
     },
     {
       "from": "Doctrine as survival technology literature",
@@ -8990,91 +8990,91 @@
       "to": "The market selection literature is the project's nearest formal neighbour"
     },
     {
-      "from": "Doctrine has been read as insurance and never as ruin avoidance",
+      "from": "Doctrine has been read as subsistence protection but never through the time average",
       "to": "A fair wager lowers both trajectories which maysir forbids and skin in the game permits"
     },
     {
-      "from": "Doctrine has been read as insurance and never as ruin avoidance",
+      "from": "Doctrine has been read as subsistence protection but never through the time average",
       "to": "Aktipis and Cronk on need-based transfers and herd survival"
     },
     {
-      "from": "Doctrine has been read as insurance and never as ruin avoidance",
+      "from": "Doctrine has been read as subsistence protection but never through the time average",
       "to": "Cooperation is an averaging puzzle and sovereign repayment is a barrier puzzle"
     },
     {
-      "from": "Doctrine has been read as insurance and never as ruin avoidance",
+      "from": "Doctrine has been read as subsistence protection but never through the time average",
       "to": "Doctrine as survival technology literature"
     },
     {
-      "from": "Doctrine has been read as insurance and never as ruin avoidance",
+      "from": "Doctrine has been read as subsistence protection but never through the time average",
       "to": "Economics had its ensemble moment in 1738 and psychologized it"
     },
     {
-      "from": "Doctrine has been read as insurance and never as ruin avoidance",
+      "from": "Doctrine has been read as subsistence protection but never through the time average",
       "to": "El-Gamal 2001 on gharar as a ban on trading risk that could be shared"
     },
     {
-      "from": "Doctrine has been read as insurance and never as ruin avoidance",
+      "from": "Doctrine has been read as subsistence protection but never through the time average",
       "to": "Glaeser and Scheinkman 1998 on interest restrictions as social insurance"
     },
     {
-      "from": "Doctrine has been read as insurance and never as ruin avoidance",
+      "from": "Doctrine has been read as subsistence protection but never through the time average",
       "to": "Guard against reverse-teleology"
     },
     {
-      "from": "Doctrine has been read as insurance and never as ruin avoidance",
+      "from": "Doctrine has been read as subsistence protection but never through the time average",
       "to": "Hudson 2002 on clean slates as protection of the free population"
     },
     {
-      "from": "Doctrine has been read as insurance and never as ruin avoidance",
+      "from": "Doctrine has been read as subsistence protection but never through the time average",
       "to": "Islamic doctrine refuses risk-commodification at step one"
     },
     {
-      "from": "Doctrine has been read as insurance and never as ruin avoidance",
+      "from": "Doctrine has been read as subsistence protection but never through the time average",
       "to": "Lock-in and outcome-coupling are distinct bindings"
     },
     {
-      "from": "Doctrine has been read as insurance and never as ruin avoidance",
+      "from": "Doctrine has been read as subsistence protection but never through the time average",
       "to": "MOC - Ergodicity and the time-ensemble distinction"
     },
     {
-      "from": "Doctrine has been read as insurance and never as ruin avoidance",
+      "from": "Doctrine has been read as subsistence protection but never through the time average",
       "to": "MOC - HistorEE"
     },
     {
-      "from": "Doctrine has been read as insurance and never as ruin avoidance",
+      "from": "Doctrine has been read as subsistence protection but never through the time average",
       "to": "MOC - Historiography and method"
     },
     {
-      "from": "Doctrine has been read as insurance and never as ruin avoidance",
+      "from": "Doctrine has been read as subsistence protection but never through the time average",
       "to": "MOC - Islamic contract doctrine"
     },
     {
-      "from": "Doctrine has been read as insurance and never as ruin avoidance",
+      "from": "Doctrine has been read as subsistence protection but never through the time average",
       "to": "Persistence samples are conditioned on non-absorption"
     },
     {
-      "from": "Doctrine has been read as insurance and never as ruin avoidance",
+      "from": "Doctrine has been read as subsistence protection but never through the time average",
       "to": "Ribbit mandates exposure rather than forbidding gain"
     },
     {
-      "from": "Doctrine has been read as insurance and never as ruin avoidance",
-      "to": "Rubin 2009 on interest bans as in-group insurance in early Christianity"
+      "from": "Doctrine has been read as subsistence protection but never through the time average",
+      "to": "Rubin 2009 on the interest ban as a curb on overborrowing under Church insurance"
     },
     {
-      "from": "Doctrine has been read as insurance and never as ruin avoidance",
+      "from": "Doctrine has been read as subsistence protection but never through the time average",
       "to": "Scott 1976 on the subsistence ethic as safety-first"
     },
     {
-      "from": "Doctrine has been read as insurance and never as ruin avoidance",
+      "from": "Doctrine has been read as subsistence protection but never through the time average",
       "to": "Taleb reads survival as evidence about the survivor and we read it as evidence about the filter"
     },
     {
-      "from": "Doctrine has been read as insurance and never as ruin avoidance",
+      "from": "Doctrine has been read as subsistence protection but never through the time average",
       "to": "Temin and Voth 2008 test predictions Glaeser and Scheinkman did not make"
     },
     {
-      "from": "Doctrine has been read as insurance and never as ruin avoidance",
+      "from": "Doctrine has been read as subsistence protection but never through the time average",
       "to": "The split is over whether the explanandum is a state or a trajectory"
     },
     {
@@ -9371,7 +9371,7 @@
     },
     {
       "from": "El-Gamal 2001 on gharar as a ban on trading risk that could be shared",
-      "to": "Doctrine has been read as insurance and never as ruin avoidance"
+      "to": "Doctrine has been read as subsistence protection but never through the time average"
     },
     {
       "from": "El-Gamal 2001 on gharar as a ban on trading risk that could be shared",
@@ -10487,7 +10487,7 @@
     },
     {
       "from": "Glaeser and Scheinkman 1998 on interest restrictions as social insurance",
-      "to": "Doctrine has been read as insurance and never as ruin avoidance"
+      "to": "Doctrine has been read as subsistence protection but never through the time average"
     },
     {
       "from": "Glaeser and Scheinkman 1998 on interest restrictions as social insurance",
@@ -10507,7 +10507,7 @@
     },
     {
       "from": "Glaeser and Scheinkman 1998 on interest restrictions as social insurance",
-      "to": "Rubin 2009 on interest bans as in-group insurance in early Christianity"
+      "to": "Rubin 2009 on the interest ban as a curb on overborrowing under Church insurance"
     },
     {
       "from": "Glaeser and Scheinkman 1998 on interest restrictions as social insurance",
@@ -11103,7 +11103,7 @@
     },
     {
       "from": "Hudson 2002 on clean slates as protection of the free population",
-      "to": "Doctrine has been read as insurance and never as ruin avoidance"
+      "to": "Doctrine has been read as subsistence protection but never through the time average"
     },
     {
       "from": "Hudson 2002 on clean slates as protection of the free population",
@@ -13587,7 +13587,7 @@
     },
     {
       "from": "MOC - Ergodicity and the time-ensemble distinction",
-      "to": "Doctrine has been read as insurance and never as ruin avoidance"
+      "to": "Doctrine has been read as subsistence protection but never through the time average"
     },
     {
       "from": "MOC - Ergodicity and the time-ensemble distinction",
@@ -14491,7 +14491,7 @@
     },
     {
       "from": "MOC - HistorEE",
-      "to": "Doctrine has been read as insurance and never as ruin avoidance"
+      "to": "Doctrine has been read as subsistence protection but never through the time average"
     },
     {
       "from": "MOC - HistorEE",
@@ -14707,7 +14707,7 @@
     },
     {
       "from": "MOC - HistorEE",
-      "to": "Rubin 2009 on interest bans as in-group insurance in early Christianity"
+      "to": "Rubin 2009 on the interest ban as a curb on overborrowing under Church insurance"
     },
     {
       "from": "MOC - HistorEE",
@@ -15087,7 +15087,7 @@
     },
     {
       "from": "MOC - Historiography and method",
-      "to": "Doctrine has been read as insurance and never as ruin avoidance"
+      "to": "Doctrine has been read as subsistence protection but never through the time average"
     },
     {
       "from": "MOC - Historiography and method",
@@ -15203,7 +15203,7 @@
     },
     {
       "from": "MOC - Historiography and method",
-      "to": "Rubin 2009 on interest bans as in-group insurance in early Christianity"
+      "to": "Rubin 2009 on the interest ban as a curb on overborrowing under Church insurance"
     },
     {
       "from": "MOC - Historiography and method",
@@ -15367,7 +15367,7 @@
     },
     {
       "from": "MOC - Islamic contract doctrine",
-      "to": "Doctrine has been read as insurance and never as ruin avoidance"
+      "to": "Doctrine has been read as subsistence protection but never through the time average"
     },
     {
       "from": "MOC - Islamic contract doctrine",
@@ -18798,39 +18798,39 @@
       "to": "Time-average"
     },
     {
-      "from": "Rubin 2009 on interest bans as in-group insurance in early Christianity",
+      "from": "Rubin 2009 on the interest ban as a curb on overborrowing under Church insurance",
       "to": "Doctrine as survival technology literature"
     },
     {
-      "from": "Rubin 2009 on interest bans as in-group insurance in early Christianity",
-      "to": "Doctrine has been read as insurance and never as ruin avoidance"
+      "from": "Rubin 2009 on the interest ban as a curb on overborrowing under Church insurance",
+      "to": "Doctrine has been read as subsistence protection but never through the time average"
     },
     {
-      "from": "Rubin 2009 on interest bans as in-group insurance in early Christianity",
+      "from": "Rubin 2009 on the interest ban as a curb on overborrowing under Church insurance",
       "to": "Entity shielding and owner shielding protect different trajectories"
     },
     {
-      "from": "Rubin 2009 on interest bans as in-group insurance in early Christianity",
+      "from": "Rubin 2009 on the interest ban as a curb on overborrowing under Church insurance",
       "to": "Glaeser and Scheinkman 1998 on interest restrictions as social insurance"
     },
     {
-      "from": "Rubin 2009 on interest bans as in-group insurance in early Christianity",
+      "from": "Rubin 2009 on the interest ban as a curb on overborrowing under Church insurance",
       "to": "MOC - HistorEE"
     },
     {
-      "from": "Rubin 2009 on interest bans as in-group insurance in early Christianity",
+      "from": "Rubin 2009 on the interest ban as a curb on overborrowing under Church insurance",
       "to": "MOC - Historiography and method"
     },
     {
-      "from": "Rubin 2009 on interest bans as in-group insurance in early Christianity",
+      "from": "Rubin 2009 on the interest ban as a curb on overborrowing under Church insurance",
       "to": "Naviganti - Latin Christendom rejected the sea loan too"
     },
     {
-      "from": "Rubin 2009 on interest bans as in-group insurance in early Christianity",
+      "from": "Rubin 2009 on the interest ban as a curb on overborrowing under Church insurance",
       "to": "Skin in the game"
     },
     {
-      "from": "Rubin 2009 on interest bans as in-group insurance in early Christianity",
+      "from": "Rubin 2009 on the interest ban as a curb on overborrowing under Church insurance",
       "to": "Taleb reads survival as evidence about the survivor and we read it as evidence about the filter"
     },
     {
@@ -18931,7 +18931,7 @@
     },
     {
       "from": "Scott 1976 on the subsistence ethic as safety-first",
-      "to": "Doctrine has been read as insurance and never as ruin avoidance"
+      "to": "Doctrine has been read as subsistence protection but never through the time average"
     },
     {
       "from": "Scott 1976 on the subsistence ethic as safety-first",
@@ -20575,7 +20575,7 @@
     },
     {
       "from": "Temin and Voth 2008 test predictions Glaeser and Scheinkman did not make",
-      "to": "Doctrine has been read as insurance and never as ruin avoidance"
+      "to": "Doctrine has been read as subsistence protection but never through the time average"
     },
     {
       "from": "Temin and Voth 2008 test predictions Glaeser and Scheinkman did not make",
@@ -20603,7 +20603,7 @@
     },
     {
       "from": "Temin and Voth 2008 test predictions Glaeser and Scheinkman did not make",
-      "to": "Rubin 2009 on interest bans as in-group insurance in early Christianity"
+      "to": "Rubin 2009 on the interest ban as a curb on overborrowing under Church insurance"
     },
     {
       "from": "Temin and Voth 2008 test predictions Glaeser and Scheinkman did not make",

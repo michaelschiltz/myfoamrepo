@@ -61,7 +61,7 @@ James C. Scott, *The Moral Economy of the Peasant: Rebellion and Subsistence in 
 - [[Ribbit mandates exposure rather than forbidding gain]]
 - [[Islamic doctrine refuses risk-commodification at step one]]
 - [[Hudson 2002 on clean slates as protection of the free population]]
-- [[Doctrine has been read as insurance and never as ruin avoidance]]
+- [[Doctrine has been read as subsistence protection but never through the time average]]
 - [[Doctrine as survival technology literature]]
 - [[MOC - Risk-sharing vs risk-pricing]]
 - [[MOC - HistorEE]]

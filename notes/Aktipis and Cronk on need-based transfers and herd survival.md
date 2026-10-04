@@ -44,7 +44,7 @@ This is an agent-based model calibrated on ethnography, not historical evidence 
 - [[Cooperation is an averaging puzzle and sovereign repayment is a barrier puzzle]]
 - [[Gharar excludes designed-in unverifiability]]
 - [[Absorbing barrier]]
-- [[Doctrine has been read as insurance and never as ruin avoidance]]
+- [[Doctrine has been read as subsistence protection but never through the time average]]
 - [[Doctrine as survival technology literature]]
 - [[MOC - Risk-sharing vs risk-pricing]]
 - [[MOC - Ergodicity and the time-ensemble distinction]]

@@ -10,13 +10,13 @@ status: seed
 
 # Doctrine as survival technology literature
 
-Bibliographic companion to [[Doctrine has been read as insurance and never as ruin avoidance]]. Zotero collection "HistorEE — doctrine as survival technology" (`84KIIRXV`), with five subcollections mirroring the Undermind workspace of the same name (six deep searches, 4 October 2026). Every item imported in the sweep carries the tag `survival-doctrine-sweep-2026-10-04`. Items built from BibTeX rather than resolved by DOI also carry `metadata-unverified`; confirm them before they reach a footnote.
+Bibliographic companion to [[Doctrine has been read as subsistence protection but never through the time average]]. Zotero collection "HistorEE — doctrine as survival technology" (`84KIIRXV`), with five subcollections mirroring the Undermind workspace of the same name (six deep searches, 4 October 2026). Every item imported in the sweep carries the tag `survival-doctrine-sweep-2026-10-04`. Items built from BibTeX rather than resolved by DOI also carry `metadata-unverified`; confirm them before they reach a footnote.
 
 ## 1 — Doctrine read as insurance or survival (`6S36GPTF`)
 
 - **Christian usury:**
   - [[Glaeser and Scheinkman 1998 on interest restrictions as social insurance]] (`10.1086/467383`). Expected utility in the model; a barrier argument in the prose (pp. 20–21).
-  - [[Rubin 2009 on interest bans as in-group insurance in early Christianity]] (`10.1086/595796`). Exit at subsistence; the ban curbs overborrowing under Church insurance.
+  - [[Rubin 2009 on the interest ban as a curb on overborrowing under Church insurance]] (`10.1086/595796`). Exit at subsistence; the ban curbs overborrowing under Church insurance.
   - Reed and Bekar, "Religious Prohibitions against Usury," *Explorations in Economic History* 40 (2003), 347–368 (`10.1016/S0014-4983(03)00039-1`). Risk-neutral agents who starve below subsistence; a Church whose first goal is to keep everyone alive; the ban protects pooling and charity from the capital market (pp. 353–358). The closest neighbour in the set.
   - Bekar 2001, "Income Sharing Amongst Medieval Peasants," Lewis and Clark College working paper; precursor of the above.
   - Lapidus 1991 on information and risk in thirteenth-century usury doctrine (unverified).
@@ -67,7 +67,7 @@ Bibliographic companion to [[Doctrine has been read as insurance and never as ru
 
 ## Links
 
-- [[Doctrine has been read as insurance and never as ruin avoidance]]
+- [[Doctrine has been read as subsistence protection but never through the time average]]
 - [[Path dependence literature]]
 - [[The market selection literature is the project's nearest formal neighbour]]
 - [[MOC - HistorEE]]

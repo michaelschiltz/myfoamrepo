@@ -68,4 +68,4 @@ The *ribbit* material is filed here rather than in a separate hub, because its v
 ## Added 2026-10-04 — functional readings of the doctrine
 
 - [[El-Gamal 2001 on gharar as a ban on trading risk that could be shared]] — *gharar* as a ban on dominated risk-trading by prospect-theoretic agents; nearest neighbour, behavioural not expected utility
-- [[Doctrine has been read as insurance and never as ruin avoidance]] — where the Islamic literature sits in the cross-tradition picture
+- [[Doctrine has been read as subsistence protection but never through the time average]] — where the Islamic literature sits in the cross-tradition picture

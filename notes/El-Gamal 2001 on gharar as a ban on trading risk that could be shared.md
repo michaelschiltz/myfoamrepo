@@ -39,7 +39,7 @@ Mahmoud A. El-Gamal, "An Economic Explication of the Prohibition of Gharar in Cl
 - [[A fair wager lowers both trajectories which maysir forbids and skin in the game permits]]
 - [[Answering EU's failures with more psychology instantiates the complaint]]
 - [[Prospect theory's parameters are neither population constants nor individual traits]]
-- [[Doctrine has been read as insurance and never as ruin avoidance]]
+- [[Doctrine has been read as subsistence protection but never through the time average]]
 - [[Doctrine as survival technology literature]]
 - [[MOC - Islamic contract doctrine]]
 - [[MOC - HistorEE]]

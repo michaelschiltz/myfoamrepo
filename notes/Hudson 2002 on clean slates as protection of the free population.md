@@ -52,7 +52,7 @@ Michael Hudson, "Reconstructing the Origins of Interest-Bearing Debt and the Log
 - [[Cooperation is an averaging puzzle and sovereign repayment is a barrier puzzle]]
 - [[Scott 1976 on the subsistence ethic as safety-first]]
 - [[Glaeser and Scheinkman 1998 on interest restrictions as social insurance]]
-- [[Doctrine has been read as insurance and never as ruin avoidance]]
+- [[Doctrine has been read as subsistence protection but never through the time average]]
 - [[Doctrine as survival technology literature]]
 - [[MOC - Ergodicity and the time-ensemble distinction]]
 - [[MOC - HistorEE]]

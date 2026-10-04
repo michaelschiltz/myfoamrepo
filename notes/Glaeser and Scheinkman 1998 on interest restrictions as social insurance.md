@@ -45,7 +45,7 @@ That is the absorbing-state intuition — debt slavery as exit from the communit
 
 ## Where the project departs
 
-The paper evaluates the rule across an ensemble of agents behind a veil. The project evaluates it on the borrower's trajectory and its barrier. G&S's own pp. 20–21 are the bridge: the barrier argument they make in words is the one the project formalises. Rubin 2009 ([[Rubin 2009 on interest bans as in-group insurance in early Christianity]]) contests their insurance reading on timing.
+The paper evaluates the rule across an ensemble of agents behind a veil. The project evaluates it on the borrower's trajectory and its barrier. G&S's own pp. 20–21 are the bridge: the barrier argument they make in words is the one the project formalises. Rubin 2009 ([[Rubin 2009 on the interest ban as a curb on overborrowing under Church insurance]]) contests their insurance reading on timing.
 
 **The standard counter-citation is weaker than it looks.** The usual evidence against G&S is Temin and Voth's natural experiment on the 1714 cut in England's legal interest-rate ceiling.
 
@@ -57,8 +57,8 @@ See [[Temin and Voth 2008 test predictions Glaeser and Scheinkman did not make]]
 
 ## Links
 
-- [[Doctrine has been read as insurance and never as ruin avoidance]]
-- [[Rubin 2009 on interest bans as in-group insurance in early Christianity]]
+- [[Doctrine has been read as subsistence protection but never through the time average]]
+- [[Rubin 2009 on the interest ban as a curb on overborrowing under Church insurance]]
 - [[Hudson 2002 on clean slates as protection of the free population]]
 - [[Temin and Voth 2008 test predictions Glaeser and Scheinkman did not make]]
 - [[A fair wager lowers both trajectories which maysir forbids and skin in the game permits]]

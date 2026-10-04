@@ -1,5 +1,5 @@
 ---
-title: Doctrine has been read as insurance and never as ruin avoidance
+title: Doctrine has been read as subsistence protection but never through the time average
 type: permanent
 tags: [expected-utility, time-average, multiplicative-dynamics, absorbing-barrier, risk-sharing, selection, survivorship-bias, riba, ribbit, canon-law]
 project: HistorEE
@@ -8,9 +8,9 @@ created: 2026-10-04
 status: seed
 ---
 
-# Doctrine has been read as insurance and never as ruin avoidance
+# Doctrine has been read as subsistence protection but never through the time average
 
-> **CORRECTED 2026-10-04, same day, after reading the full texts.** The title and the first version of this note said that every functional reading of credit doctrine is an expected-utility insurance argument and that none protects a trajectory against an absorbing state. That is false. Reed and Bekar 2003 and Rubin 2009 both put an explicit subsistence exit into their models, and Glaeser and Scheinkman make the barrier argument in prose. The title is kept until a rename is confirmed. The gap is narrower than first claimed, and better defined.
+> **CORRECTED 2026-10-04, same day, after reading the full texts.** The first version of this note, under the title "Doctrine has been read as insurance and never as ruin avoidance" (renamed the same day), said that every functional reading of credit doctrine is an expected-utility insurance argument and that none protects a trajectory against an absorbing state. That is false. Reed and Bekar 2003 and Rubin 2009 both put an explicit subsistence exit into their models, and Glaeser and Scheinkman make the barrier argument in prose. The gap is narrower than first claimed, and better defined.
 
 **The barrier is in the literature. What is missing is the dynamic and the evidence.**
 
@@ -35,7 +35,7 @@ The sweep that established this ran in October 2026: six Undermind deep searches
   - Pooling works "in increasing community survivability by transferring income from those above subsistence to those below" (p. 353, n. 27).
   - The ban stops the rich from defecting from the pool to the capital market, a defection that "threatens the survivability of those remaining in the pool" (p. 356).
   - With risk-neutral agents, all the insurance value comes from the absorbing state and none from concavity. Bekar 2001 (Lewis and Clark College working paper) is the precursor.
-- **Rubin 2009** models exit at subsistence and a Church that maximises the number of agents. In his model the ban curbs the overborrowing that the Church's own insurance invites, and the timing argues against the insurance reading. See [[Rubin 2009 on interest bans as in-group insurance in early Christianity]].
+- **Rubin 2009** models exit at subsistence and a Church that maximises the number of agents. In his model the ban curbs the overborrowing that the Church's own insurance invites, and the timing argues against the insurance reading. See [[Rubin 2009 on the interest ban as a curb on overborrowing under Church insurance]].
 
 **Islamic doctrine.**
 
