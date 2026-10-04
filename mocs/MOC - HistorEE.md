@@ -253,6 +253,7 @@ Project hub for the book. Atomic notes hang off both this project MOC and a them
 - [[Doctrine has been read as subsistence protection but never through the time average]] — the barrier is in the literature (Reed–Bekar, Rubin, G&S's prose); the multiplicative dynamic and a measured survival outcome are not
 - [[Doctrine as survival technology literature]] — Zotero `84KIIRXV`, five subcollections, 82 items
 - [[Glaeser and Scheinkman 1998 on interest restrictions as social insurance]]
+- [[Reed and Bekar 2003 on the usury ban as protection of the survival pool]]
 - [[Temin and Voth 2008 test predictions Glaeser and Scheinkman did not make]]
 - [[Rubin 2009 on the interest ban as a curb on overborrowing under Church insurance]]
 - [[El-Gamal 2001 on gharar as a ban on trading risk that could be shared]]

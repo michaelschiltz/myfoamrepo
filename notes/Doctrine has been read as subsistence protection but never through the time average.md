@@ -29,7 +29,7 @@ The sweep that established this ran in October 2026: six Undermind deep searches
   - An extension gives the ceiling "a second function of stopping the occurrence of high-risk loans" when "bankrupt individuals become wards of the state" (p. 12).
   - In prose, they read the biblical rules as keeping people from becoming "burdens on the community", and debt slavery as removing them from their obligations (pp. 20–21, nn. 37–39).
   - See [[Glaeser and Scheinkman 1998 on interest restrictions as social insurance]].
-- **Reed and Bekar 2003** (*Explorations in Economic History* 40, 347–368) is the closest neighbour, and the first version of this note misdescribed it as a welfare argument.
+- **Reed and Bekar 2003** (*Explorations in Economic History* 40, 347–368) is the closest neighbour, and the first version of this note misdescribed it as a welfare argument. See [[Reed and Bekar 2003 on the usury ban as protection of the survival pool]].
   - Their agents are **risk neutral**. An agent whose income falls below subsistence m starves (p. 357).
   - The Church has lexicographic preferences, and its "foremost goal is to keep all members of the population alive" (p. 357).
   - Pooling works "in increasing community survivability by transferring income from those above subsistence to those below" (p. 353, n. 27).
@@ -107,6 +107,7 @@ The readings predict different quantities:
 - [[Islamic doctrine refuses risk-commodification at step one]]
 - [[A fair wager lowers both trajectories which maysir forbids and skin in the game permits]]
 - [[Persistence samples are conditioned on non-absorption]]
+- [[Reed and Bekar 2003 on the usury ban as protection of the survival pool]]
 - [[Temin and Voth 2008 test predictions Glaeser and Scheinkman did not make]]
 - [[Taleb reads survival as evidence about the survivor and we read it as evidence about the filter]]
 

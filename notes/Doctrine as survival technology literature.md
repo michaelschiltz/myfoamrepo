@@ -17,7 +17,7 @@ Bibliographic companion to [[Doctrine has been read as subsistence protection bu
 - **Christian usury:**
   - [[Glaeser and Scheinkman 1998 on interest restrictions as social insurance]] (`10.1086/467383`). Expected utility in the model; a barrier argument in the prose (pp. 20–21).
   - [[Rubin 2009 on the interest ban as a curb on overborrowing under Church insurance]] (`10.1086/595796`). Exit at subsistence; the ban curbs overborrowing under Church insurance.
-  - Reed and Bekar, "Religious Prohibitions against Usury," *Explorations in Economic History* 40 (2003), 347–368 (`10.1016/S0014-4983(03)00039-1`). Risk-neutral agents who starve below subsistence; a Church whose first goal is to keep everyone alive; the ban protects pooling and charity from the capital market (pp. 353–358). The closest neighbour in the set.
+  - [[Reed and Bekar 2003 on the usury ban as protection of the survival pool]]: Reed and Bekar, "Religious Prohibitions against Usury," *Explorations in Economic History* 40 (2003), 347–368 (`10.1016/S0014-4983(03)00039-1`). Risk-neutral agents who starve below subsistence; a Church whose first goal is to keep everyone alive; the ban protects pooling and charity from the capital market (pp. 353–358). The closest neighbour in the set.
   - Bekar 2001, "Income Sharing Amongst Medieval Peasants," Lewis and Clark College working paper; precursor of the above.
   - Lapidus 1991 on information and risk in thirteenth-century usury doctrine (unverified).
   - Ceccarelli, "Risky Business," *Journal of Medieval and Early Modern Studies* 2001 (`10.1215/10829636-31-3-607`), on theological and canonical thought on insurance.

@@ -134,5 +134,6 @@ Hubbed at [[MOC - Defending the ergodicity claim]]; listed here because the sour
 ## Added 2026-10-04 — doctrine as survival technology
 
 - [[Doctrine has been read as subsistence protection but never through the time average]] — subsistence-exit models exist with additive dynamics; the multiplicative trajectory, with survival as the dependent variable, is the open ground
+- [[Reed and Bekar 2003 on the usury ban as protection of the survival pool]] — the closest neighbour: survival compounds in the value function and the ban tracks output variance, but debt never reaches the barrier
 - [[Hudson 2002 on clean slates as protection of the free population]] — debt bondage as the household's absorbing state; the clean slate as reset after absorption
 - [[Aktipis and Cronk on need-based transfers and herd survival]] — an ethical rule conditioned on the giver's own barrier, evaluated by herd survival

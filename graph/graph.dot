@@ -314,6 +314,7 @@ digraph vault {
   "Rajasthan State Archives - Bikaner and the princely bahis" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
   "Read the Nakai anomaly against the ie's horizon not the transaction's" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Real Chancilleria de Valladolid" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
+  "Reed and Bekar 2003 on the usury ban as protection of the survival pool" [fillcolor="#7570b3", fontcolor=white, shape=ellipse];
   "Refusals are observations of the filter not inferences from survivors" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Reinforcement selects an attractor the ensemble average never occupies" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Rekihaku - the National Museum of Japanese History and khirin" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
@@ -1550,6 +1551,7 @@ digraph vault {
   "Doctrine as survival technology literature" -> "MOC - HistorEE";
   "Doctrine as survival technology literature" -> "MOC - Historiography and method";
   "Doctrine as survival technology literature" -> "Path dependence literature";
+  "Doctrine as survival technology literature" -> "Reed and Bekar 2003 on the usury ban as protection of the survival pool";
   "Doctrine as survival technology literature" -> "Rubin 2009 on the interest ban as a curb on overborrowing under Church insurance";
   "Doctrine as survival technology literature" -> "Scott 1976 on the subsistence ethic as safety-first";
   "Doctrine as survival technology literature" -> "Temin and Voth 2008 test predictions Glaeser and Scheinkman did not make";
@@ -1570,6 +1572,7 @@ digraph vault {
   "Doctrine has been read as subsistence protection but never through the time average" -> "MOC - Historiography and method";
   "Doctrine has been read as subsistence protection but never through the time average" -> "MOC - Islamic contract doctrine";
   "Doctrine has been read as subsistence protection but never through the time average" -> "Persistence samples are conditioned on non-absorption";
+  "Doctrine has been read as subsistence protection but never through the time average" -> "Reed and Bekar 2003 on the usury ban as protection of the survival pool";
   "Doctrine has been read as subsistence protection but never through the time average" -> "Ribbit mandates exposure rather than forbidding gain";
   "Doctrine has been read as subsistence protection but never through the time average" -> "Rubin 2009 on the interest ban as a curb on overborrowing under Church insurance";
   "Doctrine has been read as subsistence protection but never through the time average" -> "Scott 1976 on the subsistence ethic as safety-first";
@@ -2728,6 +2731,7 @@ digraph vault {
   "MOC - Ergodicity and the time-ensemble distinction" -> "Pricing risk does not remove it";
   "MOC - Ergodicity and the time-ensemble distinction" -> "Pure multiplicative dynamics are permutation-invariant";
   "MOC - Ergodicity and the time-ensemble distinction" -> "Read the Nakai anomaly against the ie's horizon not the transaction's";
+  "MOC - Ergodicity and the time-ensemble distinction" -> "Reed and Bekar 2003 on the usury ban as protection of the survival pool";
   "MOC - Ergodicity and the time-ensemble distinction" -> "Reinforcement selects an attractor the ensemble average never occupies";
   "MOC - Ergodicity and the time-ensemble distinction" -> "Restate the cost puzzle as a question about a trajectory";
   "MOC - Ergodicity and the time-ensemble distinction" -> "Retrodiction fails on non-invertibility not on induction";
@@ -2978,6 +2982,7 @@ digraph vault {
   "MOC - HistorEE" -> "Primary against secondary coding workflow - three arms, reveal, application";
   "MOC - HistorEE" -> "Pure multiplicative dynamics are permutation-invariant";
   "MOC - HistorEE" -> "Ragusan collegantia is unilateral and Venetian collegantia is bilateral";
+  "MOC - HistorEE" -> "Reed and Bekar 2003 on the usury ban as protection of the survival pool";
   "MOC - HistorEE" -> "Reinforcement selects an attractor the ensemble average never occupies";
   "MOC - HistorEE" -> "Restate the cost puzzle as a question about a trajectory";
   "MOC - HistorEE" -> "Retrodiction fails on non-invertibility not on induction";
@@ -3326,6 +3331,7 @@ digraph vault {
   "MOC - Risk-sharing vs risk-pricing" -> "Pricing is orthogonal to mitigation mechanism not a stage of it";
   "MOC - Risk-sharing vs risk-pricing" -> "Pricing risk does not remove it";
   "MOC - Risk-sharing vs risk-pricing" -> "Ragusan collegantia is unilateral and Venetian collegantia is bilateral";
+  "MOC - Risk-sharing vs risk-pricing" -> "Reed and Bekar 2003 on the usury ban as protection of the survival pool";
   "MOC - Risk-sharing vs risk-pricing" -> "Refusals are observations of the filter not inferences from survivors";
   "MOC - Risk-sharing vs risk-pricing" -> "Restate the cost puzzle as a question about a trajectory";
   "MOC - Risk-sharing vs risk-pricing" -> "Ribbit mandates exposure rather than forbidding gain";
@@ -3909,6 +3915,19 @@ digraph vault {
   "Real Chancilleria de Valladolid" -> "MOC - Spanish archives";
   "Real Chancilleria de Valladolid" -> "PARES - the access layer for the Spanish state archives";
   "Real Chancilleria de Valladolid" -> "The coding commons must record stated rationale not only component presence";
+  "Reed and Bekar 2003 on the usury ban as protection of the survival pool" -> "Absorbing barrier";
+  "Reed and Bekar 2003 on the usury ban as protection of the survival pool" -> "Doctrine as survival technology literature";
+  "Reed and Bekar 2003 on the usury ban as protection of the survival pool" -> "Doctrine has been read as subsistence protection but never through the time average";
+  "Reed and Bekar 2003 on the usury ban as protection of the survival pool" -> "Glaeser and Scheinkman 1998 on interest restrictions as social insurance";
+  "Reed and Bekar 2003 on the usury ban as protection of the survival pool" -> "Hudson 2002 on clean slates as protection of the free population";
+  "Reed and Bekar 2003 on the usury ban as protection of the survival pool" -> "MOC - Ergodicity and the time-ensemble distinction";
+  "Reed and Bekar 2003 on the usury ban as protection of the survival pool" -> "MOC - HistorEE";
+  "Reed and Bekar 2003 on the usury ban as protection of the survival pool" -> "MOC - Risk-sharing vs risk-pricing";
+  "Reed and Bekar 2003 on the usury ban as protection of the survival pool" -> "Pooling's sign is set by the correlation of its baskets";
+  "Reed and Bekar 2003 on the usury ban as protection of the survival pool" -> "Rubin 2009 on the interest ban as a curb on overborrowing under Church insurance";
+  "Reed and Bekar 2003 on the usury ban as protection of the survival pool" -> "Scott 1976 on the subsistence ethic as safety-first";
+  "Reed and Bekar 2003 on the usury ban as protection of the survival pool" -> "Taleb secures the collective by exit and has no theory of pooling";
+  "Reed and Bekar 2003 on the usury ban as protection of the survival pool" -> "Time-average";
   "Refusals are observations of the filter not inferences from survivors" -> "MOC - HistorEE";
   "Refusals are observations of the filter not inferences from survivors" -> "MOC - Historiography and method";
   "Refusals are observations of the filter not inferences from survivors" -> "MOC - Risk-sharing vs risk-pricing";
@@ -4013,6 +4032,7 @@ digraph vault {
   "Rubin 2009 on the interest ban as a curb on overborrowing under Church insurance" -> "MOC - HistorEE";
   "Rubin 2009 on the interest ban as a curb on overborrowing under Church insurance" -> "MOC - Historiography and method";
   "Rubin 2009 on the interest ban as a curb on overborrowing under Church insurance" -> "Naviganti - Latin Christendom rejected the sea loan too";
+  "Rubin 2009 on the interest ban as a curb on overborrowing under Church insurance" -> "Reed and Bekar 2003 on the usury ban as protection of the survival pool";
   "Rubin 2009 on the interest ban as a curb on overborrowing under Church insurance" -> "Skin in the game";
   "Rubin 2009 on the interest ban as a curb on overborrowing under Church insurance" -> "Taleb reads survival as evidence about the survivor and we read it as evidence about the filter";
   "Ryukoku University and the Otani collection" -> "IDP - the digital reunification of a dispersed archive";

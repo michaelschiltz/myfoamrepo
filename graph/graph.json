@@ -167,7 +167,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Absorbing barrier",
-      "value": 59,
+      "value": 60,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1184,7 +1184,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Doctrine as survival technology literature",
-      "value": 26,
+      "value": 28,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1193,7 +1193,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Doctrine has been read as subsistence protection but never through the time average",
-      "value": 42,
+      "value": 45,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1589,7 +1589,7 @@
       "type": "source",
       "group": "source",
       "label": "Glaeser and Scheinkman 1998 on interest restrictions as social insurance",
-      "value": 21,
+      "value": 23,
       "color": "#7570b3",
       "shape": "dot"
     },
@@ -1751,7 +1751,7 @@
       "type": "source",
       "group": "source",
       "label": "Hudson 2002 on clean slates as protection of the free population",
-      "value": 26,
+      "value": 28,
       "color": "#7570b3",
       "shape": "dot"
     },
@@ -2678,7 +2678,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Pooling's sign is set by the correlation of its baskets",
-      "value": 51,
+      "value": 53,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -2818,6 +2818,15 @@
       "shape": "dot"
     },
     {
+      "id": "Reed and Bekar 2003 on the usury ban as protection of the survival pool",
+      "type": "source",
+      "group": "source",
+      "label": "Reed and Bekar 2003 on the usury ban as protection of the survival pool",
+      "value": 28,
+      "color": "#7570b3",
+      "shape": "dot"
+    },
+    {
       "id": "Refusals are observations of the filter not inferences from survivors",
       "type": "permanent",
       "group": "seed",
@@ -2948,7 +2957,7 @@
       "type": "source",
       "group": "source",
       "label": "Rubin 2009 on the interest ban as a curb on overborrowing under Church insurance",
-      "value": 21,
+      "value": 25,
       "color": "#7570b3",
       "shape": "dot"
     },
@@ -2993,7 +3002,7 @@
       "type": "source",
       "group": "source",
       "label": "Scott 1976 on the subsistence ethic as safety-first",
-      "value": 22,
+      "value": 24,
       "color": "#7570b3",
       "shape": "dot"
     },
@@ -3470,7 +3479,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Taleb secures the collective by exit and has no theory of pooling",
-      "value": 25,
+      "value": 27,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -4442,7 +4451,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Time-average",
-      "value": 44,
+      "value": 45,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -4802,7 +4811,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Ergodicity and the time-ensemble distinction",
-      "value": 173,
+      "value": 175,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -4847,7 +4856,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - HistorEE",
-      "value": 401,
+      "value": 403,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -4919,7 +4928,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Risk-sharing vs risk-pricing",
-      "value": 153,
+      "value": 155,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -8975,6 +8984,10 @@
     },
     {
       "from": "Doctrine as survival technology literature",
+      "to": "Reed and Bekar 2003 on the usury ban as protection of the survival pool"
+    },
+    {
+      "from": "Doctrine as survival technology literature",
       "to": "Rubin 2009 on the interest ban as a curb on overborrowing under Church insurance"
     },
     {
@@ -9052,6 +9065,10 @@
     {
       "from": "Doctrine has been read as subsistence protection but never through the time average",
       "to": "Persistence samples are conditioned on non-absorption"
+    },
+    {
+      "from": "Doctrine has been read as subsistence protection but never through the time average",
+      "to": "Reed and Bekar 2003 on the usury ban as protection of the survival pool"
     },
     {
       "from": "Doctrine has been read as subsistence protection but never through the time average",
@@ -13687,6 +13704,10 @@
     },
     {
       "from": "MOC - Ergodicity and the time-ensemble distinction",
+      "to": "Reed and Bekar 2003 on the usury ban as protection of the survival pool"
+    },
+    {
+      "from": "MOC - Ergodicity and the time-ensemble distinction",
       "to": "Reinforcement selects an attractor the ensemble average never occupies"
     },
     {
@@ -14684,6 +14705,10 @@
     {
       "from": "MOC - HistorEE",
       "to": "Ragusan collegantia is unilateral and Venetian collegantia is bilateral"
+    },
+    {
+      "from": "MOC - HistorEE",
+      "to": "Reed and Bekar 2003 on the usury ban as protection of the survival pool"
     },
     {
       "from": "MOC - HistorEE",
@@ -16076,6 +16101,10 @@
     {
       "from": "MOC - Risk-sharing vs risk-pricing",
       "to": "Ragusan collegantia is unilateral and Venetian collegantia is bilateral"
+    },
+    {
+      "from": "MOC - Risk-sharing vs risk-pricing",
+      "to": "Reed and Bekar 2003 on the usury ban as protection of the survival pool"
     },
     {
       "from": "MOC - Risk-sharing vs risk-pricing",
@@ -18410,6 +18439,58 @@
       "to": "The coding commons must record stated rationale not only component presence"
     },
     {
+      "from": "Reed and Bekar 2003 on the usury ban as protection of the survival pool",
+      "to": "Absorbing barrier"
+    },
+    {
+      "from": "Reed and Bekar 2003 on the usury ban as protection of the survival pool",
+      "to": "Doctrine as survival technology literature"
+    },
+    {
+      "from": "Reed and Bekar 2003 on the usury ban as protection of the survival pool",
+      "to": "Doctrine has been read as subsistence protection but never through the time average"
+    },
+    {
+      "from": "Reed and Bekar 2003 on the usury ban as protection of the survival pool",
+      "to": "Glaeser and Scheinkman 1998 on interest restrictions as social insurance"
+    },
+    {
+      "from": "Reed and Bekar 2003 on the usury ban as protection of the survival pool",
+      "to": "Hudson 2002 on clean slates as protection of the free population"
+    },
+    {
+      "from": "Reed and Bekar 2003 on the usury ban as protection of the survival pool",
+      "to": "MOC - Ergodicity and the time-ensemble distinction"
+    },
+    {
+      "from": "Reed and Bekar 2003 on the usury ban as protection of the survival pool",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Reed and Bekar 2003 on the usury ban as protection of the survival pool",
+      "to": "MOC - Risk-sharing vs risk-pricing"
+    },
+    {
+      "from": "Reed and Bekar 2003 on the usury ban as protection of the survival pool",
+      "to": "Pooling's sign is set by the correlation of its baskets"
+    },
+    {
+      "from": "Reed and Bekar 2003 on the usury ban as protection of the survival pool",
+      "to": "Rubin 2009 on the interest ban as a curb on overborrowing under Church insurance"
+    },
+    {
+      "from": "Reed and Bekar 2003 on the usury ban as protection of the survival pool",
+      "to": "Scott 1976 on the subsistence ethic as safety-first"
+    },
+    {
+      "from": "Reed and Bekar 2003 on the usury ban as protection of the survival pool",
+      "to": "Taleb secures the collective by exit and has no theory of pooling"
+    },
+    {
+      "from": "Reed and Bekar 2003 on the usury ban as protection of the survival pool",
+      "to": "Time-average"
+    },
+    {
       "from": "Refusals are observations of the filter not inferences from survivors",
       "to": "MOC - HistorEE"
     },
@@ -18824,6 +18905,10 @@
     {
       "from": "Rubin 2009 on the interest ban as a curb on overborrowing under Church insurance",
       "to": "Naviganti - Latin Christendom rejected the sea loan too"
+    },
+    {
+      "from": "Rubin 2009 on the interest ban as a curb on overborrowing under Church insurance",
+      "to": "Reed and Bekar 2003 on the usury ban as protection of the survival pool"
     },
     {
       "from": "Rubin 2009 on the interest ban as a curb on overborrowing under Church insurance",

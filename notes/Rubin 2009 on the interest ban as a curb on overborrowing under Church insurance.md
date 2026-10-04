@@ -28,6 +28,7 @@ Jared Rubin, "Social Insurance, Commitment, and the Origin of Law: Interest Bans
 - A poor Church can ration its transfers and so punish overborrowing. A rich one cannot, and turns to the ban. "The ban is effective because it limits (over-)borrowing, not because it helps smooth consumption (as in Glaeser and Scheinkman 1998)."
 - **History (pp. 770–772).** The fourth-century wealth shock, Nicaea (325) and the Cappadocian Fathers on lending to those "on the edge of subsistence".
 - **Conclusion (p. 774).** Insurance "encourages overborrowing because agents do not suffer the full consequences of default."
+- **Pedigree (n. 4).** Rubin acknowledges that the mechanism resembles Posner 1995, in which a welfare floor tempts the poor into excessive credit risk. Reed and Bekar had rejected Posner for the Middle Ages: poverty came from shocks, not risky borrowing (p. 349). The disagreement between the two papers turns on whether insurance's moral hazard matters; see [[Reed and Bekar 2003 on the usury ban as protection of the survival pool]].
 
 ## Why it matters — more than the first version allowed
 
@@ -39,6 +40,7 @@ Jared Rubin, "Social Insurance, Commitment, and the Origin of Law: Interest Bans
 
 ## Links
 
+- [[Reed and Bekar 2003 on the usury ban as protection of the survival pool]]
 - [[Glaeser and Scheinkman 1998 on interest restrictions as social insurance]]
 - [[Doctrine has been read as subsistence protection but never through the time average]]
 - [[Skin in the game]]
