@@ -14,10 +14,16 @@ Bibliographic companion to [[Doctrine has been read as insurance and never as ru
 
 ## 1 — Doctrine read as insurance or survival (`6S36GPTF`)
 
-- **Christian usury:** [[Glaeser and Scheinkman 1998 on interest restrictions as social insurance]] (`10.1086/467383`); [[Rubin 2009 on interest bans as in-group insurance in early Christianity]] (`10.1086/595796`); Bekar 2001 (working paper, unverified); Reed and Bekar, *Explorations in Economic History* 2003 (`10.1016/S0014-4983(03)00039-1`); Lapidus 1991 on information and risk in thirteenth-century usury doctrine (unverified); Ceccarelli, "Risky Business," *Journal of Medieval and Early Modern Studies* 2001 (`10.1215/10829636-31-3-607`), on theological and canonical thought on insurance.
-- **Islamic:** [[El-Gamal 2001 on gharar as a ban on trading risk that could be shared]]; Al-Suwailem 2000; Fadel 2008, *Wisconsin International Law Journal* (unverified); Rafi, Mirakhor and Askari 2016, *PSL Quarterly Review* — Taleb's antifragility mapped onto Islamic risk-sharing finance, normative; Çizakça 2014 on risk sharing and risk shifting (already held).
+- **Christian usury:**
+  - [[Glaeser and Scheinkman 1998 on interest restrictions as social insurance]] (`10.1086/467383`). Expected utility in the model; a barrier argument in the prose (pp. 20–21).
+  - [[Rubin 2009 on interest bans as in-group insurance in early Christianity]] (`10.1086/595796`). Exit at subsistence; the ban curbs overborrowing under Church insurance.
+  - Reed and Bekar, "Religious Prohibitions against Usury," *Explorations in Economic History* 40 (2003), 347–368 (`10.1016/S0014-4983(03)00039-1`). Risk-neutral agents who starve below subsistence; a Church whose first goal is to keep everyone alive; the ban protects pooling and charity from the capital market (pp. 353–358). The closest neighbour in the set.
+  - Bekar 2001, "Income Sharing Amongst Medieval Peasants," Lewis and Clark College working paper; precursor of the above.
+  - Lapidus 1991 on information and risk in thirteenth-century usury doctrine (unverified).
+  - Ceccarelli, "Risky Business," *Journal of Medieval and Early Modern Studies* 2001 (`10.1215/10829636-31-3-607`), on theological and canonical thought on insurance.
+- **Islamic:** [[El-Gamal 2001 on gharar as a ban on trading risk that could be shared]] — prospect theory and paternalism, with a *ribā* companion on precommitment and discounting anomalies (working-paper PDFs held); Al-Suwailem 2000; Fadel 2008, *Wisconsin International Law Journal* (unverified); Rafi, Mirakhor and Askari 2016, *PSL Quarterly Review* — Taleb's antifragility mapped onto Islamic risk-sharing finance, normative; Çizakça 2014 on risk sharing and risk shifting (already held).
 - **Jewish and Near Eastern:** Callen 2010 on the *ʿisqa* (Oxford Handbook); Viswanath 1998 and 2000 on Mishnaic tenancy rules; Schaefer and Noell 2005 on the sabbatical year; Rosenberg and Weiss 2000 on the Jubilee; [[Hudson 2002 on clean slates as protection of the free population]].
-- **Peasant risk:** [[Scott 1976 on the subsistence ethic as safety-first]]; Kunreuther and Wright 1974; Fafchamps 1992 (`10.1086/452001`); Richardson, "The Prudent Village," *Journal of Economic History* 2005 (`10.1017/S0022050705000136`).
+- **Peasant risk:** [[Scott 1976 on the subsistence ethic as safety-first]]; Kunreuther and Wright, "Safety-First, Gambling, and the Subsistence Farmer," University of Pennsylvania working paper, July 1974 — lexicographic safety-first, with farmers below a minimum acreage "forced to gamble"; Fafchamps 1992 (`10.1086/452001`); Richardson, "The Prudent Village," *Journal of Economic History* 2005 (`10.1017/S0022050705000136`).
 
 ## 2 — Survival mechanics: ergodicity, bet-hedging, ruin (`EIG93TP7`)
 
@@ -56,7 +62,8 @@ Bibliographic companion to [[Doctrine has been read as insurance and never as ru
 
 - **Not in the library:** Roy 1952, "Safety First and the Holding of Assets"; Popkin 1979, *The Rational Peasant*; Noonan 1957, *The Scholastic Analysis of Usury*; Langholm on scholastic economics; Kamali on *maqāṣid*.
 - **Not found at all:** a functional study of Hillel's prosbul.
-- **Duplicate to resolve:** a copy of Kuran 2005 created by the import (`QHITR9XG`) sits outside the collections; merge or trash it.
+- **PDFs.** Read in full so far: Glaeser–Scheinkman, Reed–Bekar, Bekar 2001, Rubin 2009, El-Gamal (both), Hudson, Scott (introduction and chapter 1), Kunreuther–Wright, Aktipis et al. 2016. About forty paywalled items still lack PDFs.
+- **Resolved.** The duplicate Kuran 2005 (`QHITR9XG`) was trashed on 4 October 2026.
 
 ## Links
 

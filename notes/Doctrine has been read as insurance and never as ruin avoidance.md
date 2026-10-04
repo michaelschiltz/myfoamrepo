@@ -1,7 +1,7 @@
 ---
 title: Doctrine has been read as insurance and never as ruin avoidance
 type: permanent
-tags: [expected-utility, time-average, absorbing-barrier, risk-sharing, selection, survivorship-bias, riba, ribbit, canon-law]
+tags: [expected-utility, time-average, multiplicative-dynamics, absorbing-barrier, risk-sharing, selection, survivorship-bias, riba, ribbit, canon-law]
 project: HistorEE
 source-session: survival-doctrine-sweep
 created: 2026-10-04
@@ -10,39 +10,85 @@ status: seed
 
 # Doctrine has been read as insurance and never as ruin avoidance
 
-**Functional readings of religious credit doctrine exist, but every one of them is an expected-utility argument. The rule is defended as insurance, meaning welfare gained from smoothing consumption under concave utility. None defends it as protecting a trajectory against an absorbing state, and none measures whether the communities that adopted it survived. The novelty open to HistorEE is therefore not functionalism. It is the move from the ensemble to the trajectory, with survival as the dependent variable.**
+> **CORRECTED 2026-10-04, same day, after reading the full texts.** The title and the first version of this note said that every functional reading of credit doctrine is an expected-utility insurance argument and that none protects a trajectory against an absorbing state. That is false. Reed and Bekar 2003 and Rubin 2009 both put an explicit subsistence exit into their models, and Glaeser and Scheinkman make the barrier argument in prose. The title is kept until a rename is confirmed. The gap is narrower than first claimed, and better defined.
+
+**The barrier is in the literature. What is missing is the dynamic and the evidence.**
+
+- **The barrier is there.** Three of the main functional readings of the usury ban treat falling below subsistence as exit, and two of them model it.
+- **The dynamic is missing.** In every model income is a fresh additive draw around subsistence each period. Nothing compounds, so nobody shows that a fixed claim lowers a household's growth rate when its income is multiplicative and volatile.
+- **The evidence is missing.** No study measures whether communities that adopted a rule outlasted those that did not.
+- **What is open to HistorEE** is therefore not functionalism, and not the barrier. It is the multiplicative trajectory, the fixed-against-contingent claim compared on that trajectory, and survival as the dependent variable.
 
 The sweep that established this ran in October 2026: six Undermind deep searches, roughly 970 ranked papers, with 82 shortlisted into Zotero (see [[Doctrine as survival technology literature]]).
 
 ## What the literature has
 
-- **Christian usury.** [[Glaeser and Scheinkman 1998 on interest restrictions as social insurance]] is the anchor. [[Rubin 2009 on interest bans as in-group insurance in early Christianity]] supplies the origin story. Bekar 2001 and Reed and Bekar 2003 read the ban as protecting informal peasant income-pooling from competition by credit markets. In all of these "insurance" is a welfare claim under risk aversion.
-- **Islamic doctrine.** [[El-Gamal 2001 on gharar as a ban on trading risk that could be shared]] is the nearest neighbour, and it too is an efficiency argument. Fadel 2008 reads *riba* as prudential regulation. Kuran moves the question from doctrinal efficiency to institutional consequence. Rafi, Mirakhor and Askari 2016 map Islamic risk-sharing onto Taleb's antifragility, but the argument is normative and makes no historical claim.
-- **Jewish law.** This is the thinnest of the three. Viswanath 1998 and 2000 treat Mishnaic tenancy rules as sharing aggregate shocks. Callen 2010 treats risk and incentives in the *ʿisqa*. Gamoran 2008 documents halakhic adaptation descriptively, not functionally. Schaefer and Noell 2005 apply contract theory to the sabbatical year. Nothing analytical on the prosbul turned up.
-- **Ancient Near East.** [[Hudson 2002 on clean slates as protection of the free population]] gives the one survival-of-the-polity argument in the set. It is a barrier argument in everything but name, and it is not formalised.
+**Christian usury: three readings, two with an explicit barrier.**
+
+- **Glaeser and Scheinkman 1998.** Their model is expected utility with strictly concave U: the ban transfers income to states with high marginal utility. In prose, though, they read the biblical rules as keeping people from becoming "burdens on the community", and debt slavery as removing them from their obligations (pp. 20–21, nn. 37–39). See [[Glaeser and Scheinkman 1998 on interest restrictions as social insurance]].
+- **Reed and Bekar 2003** (*Explorations in Economic History* 40, 347–368) is the closest neighbour, and the first version of this note misdescribed it as a welfare argument.
+  - Their agents are **risk neutral**. An agent whose income falls below subsistence m starves (p. 357).
+  - The Church has lexicographic preferences, and its "foremost goal is to keep all members of the population alive" (p. 357).
+  - Pooling works "in increasing community survivability by transferring income from those above subsistence to those below" (p. 353, n. 27).
+  - The ban stops the rich from defecting from the pool to the capital market, a defection that "threatens the survivability of those remaining in the pool" (p. 356).
+  - With risk-neutral agents, all the insurance value comes from the absorbing state and none from concavity. Bekar 2001 (Lewis and Clark College working paper) is the precursor.
+- **Rubin 2009** models exit at subsistence and a Church that maximises the number of agents. In his model the ban curbs the overborrowing that the Church's own insurance invites, and the timing argues against the insurance reading. See [[Rubin 2009 on interest bans as in-group insurance in early Christianity]].
+
+**Islamic doctrine.**
+
+- [[El-Gamal 2001 on gharar as a ban on trading risk that could be shared]] is behavioural: prospect-theoretic agents accept dominated risk-trading, and the ban is paternalism.
+- Fadel 2008 reads *riba* as prudential regulation.
+- Kuran moves the question from doctrinal efficiency to institutional consequence.
+- Rafi, Mirakhor and Askari 2016 map Islamic risk-sharing onto Taleb's antifragility; the argument is normative and makes no historical claim.
+
+**Jewish law.** This is the thinnest of the three.
+
+- Viswanath 1998 and 2000 treat Mishnaic tenancy rules as sharing aggregate shocks.
+- Callen 2010 treats risk and incentives in the *ʿisqa*.
+- Gamoran 2008 documents halakhic adaptation descriptively, not functionally.
+- Schaefer and Noell 2005 apply contract theory to the sabbatical year.
+- Nothing analytical on the prosbul turned up.
+
+**Ancient Near East and peasant economies.** These two give the barrier verbally, and they add the comparison the models lack: a fixed claim against a claim that moves with the outcome.
+
+- [[Hudson 2002 on clean slates as protection of the free population]]: rulers cancelled barley debts and spared commercial debts, which were already voided when the cargo was lost (p. 28). The aim was to keep the "fighting force" from expropriation (p. 29).
+- [[Scott 1976 on the subsistence ethic as safety-first]]: the variable claim that "would qualify as the most exploitative" by average take is the one peasants resent least (p. 31).
 
 ## What the literature lacks
 
-**A survival outcome.** The deep-search synthesis states the gap flatly: there is no direct evidence that communities adopting interest bans survived better, and the support offered is theoretical or institutional. The designs that *do* measure survival sit outside religious law altogether:
+**A multiplicative dynamic.** Reed–Bekar and Rubin have the barrier but not the compounding. Their households draw an income each period, and survival is a one-period constraint, y ≥ m. The vault's mechanism concerns compounding. A fixed claim against volatile multiplicative income lowers the household's time-average growth rate and raises its probability of absorption at an unchanged mean. That is what turns Scott's p. 31 and Hudson's p. 28 from sentiment into a result. Hudson sees compound interest outrunning the ability to pay (p. 41), but draws no trajectory consequence. Peters and Adamou supply the mechanism and stop at sentiment: "our natural tendency to cooperate—expressed in our gut feeling and moral sentiment—is in harmony with a careful formal analysis" (*Phil. Trans. R. Soc. A* 380, 2022, 20200425, p. 12). They mention land scattering, insurance, pensions and taxation, and nothing doctrinal.
+
+**A trajectory criterion.**
+
+- Even where the barrier is modelled, the evaluation stays with the ensemble. Reed–Bekar's agents maximise expected discounted value. Rubin's Church counts surviving agents in a cross-section.
+- Neither asks what a rule does to the long-run growth of a single household that is exposed to the rule repeatedly.
+- That is the shift set out in [[The split is over whether the explanandum is a state or a trajectory]].
+
+**A survival outcome.** The deep-search synthesis states this gap flatly: there is no direct evidence that communities adopting interest bans survived better, and the support offered is theoretical or institutional. The designs that *do* measure survival sit outside religious law altogether:
 
 - Sosis and Bressler 2003 on how long nineteenth-century communes lasted;
 - Richardson and McBride 2009 on guild longevity;
-- [[Aktipis and Cronk on need-based transfers and herd survival]], where herd survival is literally the outcome variable.
+- [[Aktipis and Cronk on need-based transfers and herd survival]], where herd survival is the outcome variable.
 
-**A dynamic.** Peters and Adamou supply the mechanism and stop at sentiment. Their paper ends: "our natural tendency to cooperate—expressed in our gut feeling and moral sentiment—is in harmony with a careful formal analysis" (*Phil. Trans. R. Soc. A* 380, 2022, 20200425, p. 12). They mention land scattering, insurance, pensions and taxation, and nothing doctrinal. Nobody has carried the result from sentiment to law.
+## How the project's reading differs, and what it predicts
 
-The closest statement of "ethics as the gateway to survival" anywhere in the literature is [[Scott 1976 on the subsistence ethic as safety-first]]. Its central comparison — tolerable share rents against intolerable fixed claims — is the vault's outcome-coupling, recognised by peasants as a moral distinction.
+**Glaeser–Scheinkman** is the reading the project departs from most. It keeps the expectation and bends the utility function ([[Economics had its ensemble moment in 1738 and psychologized it]]). **Reed–Bekar and Rubin** are not that: they are barrier models with additive dynamics, and the project extends them rather than replacing them.
 
-## Why the expected-utility framing cannot be borrowed
+The readings predict different quantities:
 
-The insurance reading inherits the 1738 manoeuvre: keep the expectation and bend the utility function ([[Economics had its ensemble moment in 1738 and psychologized it]]). It explains the rule as serving an ensemble of agents behind a veil. The project's claim is about a single household's trajectory and its barrier. The same rule then gets a different explanandum, and the shift is the one set out in [[The split is over whether the explanandum is a state or a trajectory]]. The difference also matters for evidence:
-
-- The insurance reading predicts welfare gains, which is what Temin and Voth 2008 test and fail to find for the 1714 cut in England's legal interest-rate ceiling.
-- The barrier reading predicts **fewer absorptions**: fewer foreclosures into debt bondage, and fewer households that disappear from the record. That is a different quantity, and in principle an archival one.
+- **Insurance (G&S)** predicts welfare gains. Temin and Voth 2008 test this for the 1714 cut in England's legal interest-rate ceiling and do not find them.
+- **Additive barrier (Reed–Bekar, Rubin)** predicts fewer starvations or exits in bad years. That is a cross-section of a single year.
+- **Multiplicative trajectory (the project)** predicts fewer absorptions accumulated over time, concentrated among households holding fixed claims, and a gap between fixed- and contingent-claim households that widens with volatility. Kunreuther and Wright's result belongs here: farmers near the barrier are "forced to gamble". The project predicts risk-taking at the margin, not uniform caution.
 
 ## The trap on the other side
 
-A functionalist reading of an origin is not a reading of persistence. Rubin's own later work explains why the bans persisted through rulers' need for religious legitimacy, not through survival value (Rubin 2011, *Economic Journal*). That is [[Taleb reads survival as evidence about the survivor and we read it as evidence about the filter]] demonstrated in the sources. The rival functions — creditor power (Schein 2003), rent-seeking by the Church (Ekelund, Hébert and Tollison 1989), clerical control (Seror 2018), usury enforcement as a substitute for taxing capital (Hendrickson 2024) — must be beaten, not ignored. And the Big Gods tests (Whitehouse et al. 2022; Turchin et al. 2022), which find social complexity often preceding moralizing gods, are a standing warning against reading a norm's function back into its origin. See [[Guard against reverse-teleology]].
+- **Origin is not persistence.** Rubin's own later work explains why the bans persisted through rulers' need for religious legitimacy, not through survival value (Rubin 2011, *Economic Journal*). That is [[Taleb reads survival as evidence about the survivor and we read it as evidence about the filter]] demonstrated in the sources.
+- **The rival functions must be beaten, not ignored:**
+  - creditor power (Schein 2003);
+  - rent-seeking by the Church (Ekelund, Hébert and Tollison 1989);
+  - clerical control (Seror 2018);
+  - usury enforcement as a substitute for taxing capital (Hendrickson 2024).
+- **Function read back into origin.** The Big Gods tests (Whitehouse et al. 2022; Turchin et al. 2022) find social complexity often preceding moralizing gods. They are a standing warning against reading a norm's function back into its origin; see [[Guard against reverse-teleology]].
 
 ## Links
 
@@ -53,6 +99,7 @@ A functionalist reading of an origin is not a reading of persistence. Rubin's ow
 - [[Doctrine as survival technology literature]]
 - [[Economics had its ensemble moment in 1738 and psychologized it]]
 - [[The split is over whether the explanandum is a state or a trajectory]]
+- [[Lock-in and outcome-coupling are distinct bindings]]
 - [[Cooperation is an averaging puzzle and sovereign repayment is a barrier puzzle]]
 - [[Ribbit mandates exposure rather than forbidding gain]]
 - [[Islamic doctrine refuses risk-commodification at step one]]
@@ -62,4 +109,4 @@ A functionalist reading of an origin is not a reading of persistence. Rubin's ow
 
 ## Source
 
-Survival-doctrine sweep, 4 October 2026. MS asked how common functionalist and evolutionary readings of doctrinal principles are, across Islam, Judaism and Christianity, with the stress on the survival of legal arrangements. Undermind workspace "HistorEE — doctrine as survival technology"; Zotero collection `84KIIRXV`. The claims about Glaeser–Scheinkman, Rubin, Bekar and El-Gamal rest on abstracts and secondary summaries; their PDFs are not yet read [verify].
+Survival-doctrine sweep, 4 October 2026. MS asked how common functionalist and evolutionary readings of doctrinal principles are, across Islam, Judaism and Christianity, with the stress on the survival of legal arrangements. Undermind workspace "HistorEE — doctrine as survival technology"; Zotero collection `84KIIRXV`. Corrected the same day against the full texts of Glaeser–Scheinkman, Reed–Bekar, Bekar 2001, Rubin, El-Gamal (both papers), Hudson, Scott (introduction and chapter 1) and Kunreuther–Wright.

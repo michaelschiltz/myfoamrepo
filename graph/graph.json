@@ -50,7 +50,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "A fair wager lowers both trajectories which maysir forbids and skin in the game permits",
-      "value": 26,
+      "value": 27,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -239,7 +239,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Answering EU's failures with more psychology instantiates the complaint",
-      "value": 26,
+      "value": 28,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1301,7 +1301,7 @@
       "type": "source",
       "group": "source",
       "label": "El-Gamal 2001 on gharar as a ban on trading risk that could be shared",
-      "value": 14,
+      "value": 17,
       "color": "#7570b3",
       "shape": "dot"
     },
@@ -1337,7 +1337,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Entity shielding and owner shielding protect different trajectories",
-      "value": 42,
+      "value": 44,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1589,7 +1589,7 @@
       "type": "source",
       "group": "source",
       "label": "Glaeser and Scheinkman 1998 on interest restrictions as social insurance",
-      "value": 14,
+      "value": 18,
       "color": "#7570b3",
       "shape": "dot"
     },
@@ -1751,7 +1751,7 @@
       "type": "source",
       "group": "source",
       "label": "Hudson 2002 on clean slates as protection of the free population",
-      "value": 14,
+      "value": 24,
       "color": "#7570b3",
       "shape": "dot"
     },
@@ -2183,7 +2183,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Lock-in and outcome-coupling are distinct bindings",
-      "value": 37,
+      "value": 40,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -2741,7 +2741,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Prospect theory's parameters are neither population constants nor individual traits",
-      "value": 18,
+      "value": 19,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -2948,7 +2948,7 @@
       "type": "source",
       "group": "source",
       "label": "Rubin 2009 on interest bans as in-group insurance in early Christianity",
-      "value": 15,
+      "value": 19,
       "color": "#7570b3",
       "shape": "dot"
     },
@@ -2993,7 +2993,7 @@
       "type": "source",
       "group": "source",
       "label": "Scott 1976 on the subsistence ethic as safety-first",
-      "value": 17,
+      "value": 22,
       "color": "#7570b3",
       "shape": "dot"
     },
@@ -3110,7 +3110,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Skin in the game",
-      "value": 61,
+      "value": 63,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -4289,7 +4289,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The split is over whether the explanandum is a state or a trajectory",
-      "value": 31,
+      "value": 33,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -4433,7 +4433,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Time-average",
-      "value": 45,
+      "value": 44,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -9018,6 +9018,10 @@
     },
     {
       "from": "Doctrine has been read as insurance and never as ruin avoidance",
+      "to": "Lock-in and outcome-coupling are distinct bindings"
+    },
+    {
+      "from": "Doctrine has been read as insurance and never as ruin avoidance",
       "to": "MOC - Ergodicity and the time-ensemble distinction"
     },
     {
@@ -9342,6 +9346,10 @@
     },
     {
       "from": "El-Gamal 2001 on gharar as a ban on trading risk that could be shared",
+      "to": "Answering EU's failures with more psychology instantiates the complaint"
+    },
+    {
+      "from": "El-Gamal 2001 on gharar as a ban on trading risk that could be shared",
       "to": "Doctrine as survival technology literature"
     },
     {
@@ -9363,6 +9371,10 @@
     {
       "from": "El-Gamal 2001 on gharar as a ban on trading risk that could be shared",
       "to": "MOC - Islamic contract doctrine"
+    },
+    {
+      "from": "El-Gamal 2001 on gharar as a ban on trading risk that could be shared",
+      "to": "Prospect theory's parameters are neither population constants nor individual traits"
     },
     {
       "from": "Endogenised absorption has a sign",
@@ -10450,6 +10462,10 @@
     },
     {
       "from": "Glaeser and Scheinkman 1998 on interest restrictions as social insurance",
+      "to": "A fair wager lowers both trajectories which maysir forbids and skin in the game permits"
+    },
+    {
+      "from": "Glaeser and Scheinkman 1998 on interest restrictions as social insurance",
       "to": "Doctrine as survival technology literature"
     },
     {
@@ -10459,6 +10475,10 @@
     {
       "from": "Glaeser and Scheinkman 1998 on interest restrictions as social insurance",
       "to": "Economics had its ensemble moment in 1738 and psychologized it"
+    },
+    {
+      "from": "Glaeser and Scheinkman 1998 on interest restrictions as social insurance",
+      "to": "Hudson 2002 on clean slates as protection of the free population"
     },
     {
       "from": "Glaeser and Scheinkman 1998 on interest restrictions as social insurance",
@@ -11066,11 +11086,23 @@
     },
     {
       "from": "Hudson 2002 on clean slates as protection of the free population",
+      "to": "Glaeser and Scheinkman 1998 on interest restrictions as social insurance"
+    },
+    {
+      "from": "Hudson 2002 on clean slates as protection of the free population",
+      "to": "Lock-in and outcome-coupling are distinct bindings"
+    },
+    {
+      "from": "Hudson 2002 on clean slates as protection of the free population",
       "to": "MOC - Ergodicity and the time-ensemble distinction"
     },
     {
       "from": "Hudson 2002 on clean slates as protection of the free population",
       "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Hudson 2002 on clean slates as protection of the free population",
+      "to": "Scott 1976 on the subsistence ethic as safety-first"
     },
     {
       "from": "Hudson 2002 on clean slates as protection of the free population",
@@ -18742,6 +18774,10 @@
     },
     {
       "from": "Rubin 2009 on interest bans as in-group insurance in early Christianity",
+      "to": "Entity shielding and owner shielding protect different trajectories"
+    },
+    {
+      "from": "Rubin 2009 on interest bans as in-group insurance in early Christianity",
       "to": "Glaeser and Scheinkman 1998 on interest restrictions as social insurance"
     },
     {
@@ -18755,6 +18791,10 @@
     {
       "from": "Rubin 2009 on interest bans as in-group insurance in early Christianity",
       "to": "Naviganti - Latin Christendom rejected the sea loan too"
+    },
+    {
+      "from": "Rubin 2009 on interest bans as in-group insurance in early Christianity",
+      "to": "Skin in the game"
     },
     {
       "from": "Rubin 2009 on interest bans as in-group insurance in early Christianity",
@@ -18862,6 +18902,10 @@
     },
     {
       "from": "Scott 1976 on the subsistence ethic as safety-first",
+      "to": "Hudson 2002 on clean slates as protection of the free population"
+    },
+    {
+      "from": "Scott 1976 on the subsistence ethic as safety-first",
       "to": "Islamic doctrine refuses risk-commodification at step one"
     },
     {
@@ -18886,7 +18930,7 @@
     },
     {
       "from": "Scott 1976 on the subsistence ethic as safety-first",
-      "to": "Time-average"
+      "to": "The split is over whether the explanandum is a state or a trajectory"
     },
     {
       "from": "Scuttling rewards fraud in the sea loan",
