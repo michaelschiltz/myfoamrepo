@@ -45,7 +45,7 @@ Bibliographic companion to [[Doctrine has been read as subsistence protection bu
 ## 4 — Persistence and adaptation of religious commercial law (`HAK8ITG8`)
 
 - **Rubin:** 2008, 2010, 2011.
-- **Kuran:** 2001 on the waqf (held), 2004, 2005 on the absence of the corporation (held: `77QJ52K5`), and *The Long Divergence* (2010).
+- **Kuran:** 2001 on the waqf (held), 2004, 2005 on the absence of the corporation (`77QJ52K5`; HTML snapshot only, no PDF), and *The Long Divergence* (2010).
 - **Christian adaptation:** Munro 2003 on rentes; Koyama on evading the taint of usury; Decock 2012 on Lessius and the triple contract (unverified).
 - **Jewish adaptation:** Gamoran 1999 and 2008; Soloveitchik 1970 on pawnbroking; Cohen 2013 on the Geniza partnership (held).
 - **Ottoman:** Mandaville 1979 on the cash waqf (held); Orbay 2019 on how royal waqfs survived crises; Çizakça 1996.
@@ -62,7 +62,7 @@ Bibliographic companion to [[Doctrine has been read as subsistence protection bu
 
 - **Not in the library:** Roy 1952, "Safety First and the Holding of Assets"; Popkin 1979, *The Rational Peasant*; Noonan 1957, *The Scholastic Analysis of Usury*; Langholm on scholastic economics; Kamali on *maqāṣid*.
 - **Not found at all:** a functional study of Hillel's prosbul.
-- **PDFs.** Read in full so far: Glaeser–Scheinkman, Reed–Bekar, Bekar 2001, Rubin 2009, El-Gamal (both), Hudson, Scott (introduction and chapter 1), Kunreuther–Wright, Aktipis et al. 2016. About forty paywalled items still lack PDFs.
+- **PDFs.** Read in full so far: Glaeser–Scheinkman, Reed–Bekar, Bekar 2001, Rubin 2009, El-Gamal (both), Hudson, Scott (introduction and chapter 1), Kunreuther–Wright, Aktipis et al. 2016, Temin–Voth. As of 4 October 2026, 74 of the 82 items have a PDF. Of the rest, Hudson's chapter is covered by the volume PDF and Harris 2009 by the 2007 version. Three have only a web link: Deakin 2015 and Koyama 2011 (SSRN), and Orbay 2019 (no open copy; the METU record has no file). Three have nothing: Kuran 2005, Steele 1987 and Çizakça 1996.
 - **Resolved.** The duplicate Kuran 2005 (`QHITR9XG`) was trashed on 4 October 2026.
 
 ## Links
