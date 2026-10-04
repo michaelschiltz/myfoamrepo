@@ -67,10 +67,9 @@ The sweep that established this ran in October 2026: six Undermind deep searches
 - Neither asks what a rule does to the long-run growth of a single household that is exposed to the rule repeatedly.
 - That is the shift set out in [[The split is over whether the explanandum is a state or a trajectory]].
 
-**A survival outcome.** The deep-search synthesis states this gap flatly: there is no direct evidence that communities adopting interest bans survived better, and the support offered is theoretical or institutional. The designs that *do* measure survival sit outside religious law altogether:
+**A survival outcome.** The deep-search synthesis states this gap flatly: there is no direct evidence that communities adopting interest bans survived better, and the support offered is theoretical or institutional. The designs that *do* measure survival sit outside religious law altogether. (Richardson and McBride 2009, listed here at first, does not: its "longevity" is the life expectancy of guild members, and the paper is a model of how mortality and purgatory sustained cooperation in religious guilds.)
 
 - Sosis and Bressler 2003 on how long nineteenth-century communes lasted;
-- Richardson and McBride 2009 on guild longevity;
 - [[Aktipis and Cronk on need-based transfers and herd survival]], where herd survival is the outcome variable.
 
 ## How the project's reading differs, and what it predicts

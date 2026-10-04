@@ -37,14 +37,14 @@ Bibliographic companion to [[Doctrine has been read as subsistence protection bu
 ## 3 — Selection of norms and law (`FQAFJA7T`)
 
 - **Religion as adaptation:** Wilson, *Darwin's Cathedral* (2002); Henrich 2004; Henrich et al., *Science* 2010; Norenzayan and Shariff, *Science* 2008.
-- **Survival-outcome designs, the template to imitate:** Sosis and Bressler 2003, *Cross-Cultural Research*, on commune longevity; Richardson and McBride 2009, *Journal of Economic Behavior and Organization*, on guild longevity (unverified).
+- **Survival-outcome designs, the template to imitate:** Sosis and Bressler 2003, *Cross-Cultural Research*, on commune longevity. Not Richardson and McBride 2009, *Journal of Economic Behavior and Organization* 71, 172–186, whose "longevity" is members' life expectancy: a model of how high mortality and the doctrine of purgatory sustained cooperation in religious guilds.
 - **Evolution of law:** Priest 1977 and Rubin 1977 on the efficiency of the common law; Kraus 1997 on commercial norms; Deakin 2015.
 - **Group selection, reviewed and contested:** Steele 1987 on Hayek's cultural group selection (unverified); Smith 2020, *Evolutionary Human Sciences*.
 - **Resilience to shocks:** Tverskoi et al. 2024, *PNAS*, on cultural tightness.
 
 ## 4 — Persistence and adaptation of religious commercial law (`HAK8ITG8`)
 
-- **Rubin:** 2008, 2010, 2011.
+- **Rubin:** 2008 (the *Journal of Economic History* item is a two-page dissertation summary), 2010, 2011.
 - **Kuran:** 2001 on the waqf (held), 2004, 2005 on the absence of the corporation (`77QJ52K5`; PDF held), and *The Long Divergence* (2010).
 - **Christian adaptation:** Munro 2003 on rentes; Koyama on evading the taint of usury; Decock 2012 on Lessius and the triple contract (unverified).
 - **Jewish adaptation:** Gamoran 1999 and 2008; Soloveitchik 1970 on pawnbroking; Cohen 2013 on the Geniza partnership (held).
