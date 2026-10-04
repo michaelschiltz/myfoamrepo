@@ -59,11 +59,11 @@ The sweep that established this ran in October 2026: six Undermind deep searches
 
 ## What the literature lacks
 
-**A multiplicative dynamic.** Reed–Bekar and Rubin have the barrier but not the compounding. Their households draw an income each period, and survival is a one-period constraint, y ≥ m. The vault's mechanism concerns compounding. A fixed claim against volatile multiplicative income lowers the household's time-average growth rate and raises its probability of absorption at an unchanged mean. That is what turns Scott's p. 31 and Hudson's p. 28 from sentiment into a result. Hudson sees compound interest outrunning the ability to pay (p. 41), but draws no trajectory consequence. Peters and Adamou supply the mechanism and stop at sentiment: "our natural tendency to cooperate—expressed in our gut feeling and moral sentiment—is in harmony with a careful formal analysis" (*Phil. Trans. R. Soc. A* 380, 2022, 20200425, p. 12). They mention land scattering, insurance, pensions and taxation, and nothing doctrinal.
+**A multiplicative dynamic.** Reed–Bekar and Rubin have the barrier but not the compounding. Their households draw an independent additive income each period, with no wealth that grows or shrinks. In Reed–Bekar, survival does compound — the per-period probability of staying alive multiplies across periods in the value function (p. 357) — but debt is harmless: risk-neutral lenders keep a rich borrower alive up to the present value of his income (p. 359), so credit never carries anyone to the barrier. The persistent shocks that would make debt absorbing are documented in their p. 355 and left out of the model. The vault's mechanism concerns compounding. A fixed claim against volatile multiplicative income lowers the household's time-average growth rate and raises its probability of absorption at an unchanged mean. That is what turns Scott's p. 31 and Hudson's p. 28 from sentiment into a result. Hudson sees compound interest outrunning the ability to pay (p. 41), but draws no trajectory consequence. Peters and Adamou supply the mechanism and stop at sentiment: "our natural tendency to cooperate—expressed in our gut feeling and moral sentiment—is in harmony with a careful formal analysis" (*Phil. Trans. R. Soc. A* 380, 2022, 20200425, p. 12). They mention land scattering, insurance, pensions and taxation, and nothing doctrinal.
 
 **A trajectory criterion.**
 
-- Even where the barrier is modelled, the evaluation stays with the ensemble. Reed–Bekar's agents maximise expected discounted value. Rubin's Church counts surviving agents in a cross-section.
+- Even where the barrier is modelled, the agent's evaluation stays with an expectation. Reed–Bekar's agents maximise expected discounted value over a path truncated by absorption, which is close to the trajectory view but not identical to it. Their Church is lexicographic, with survival first (p. 357): safety-first at the level of the institution. Rubin's Church counts surviving agents.
 - Neither asks what a rule does to the long-run growth of a single household that is exposed to the rule repeatedly.
 - That is the shift set out in [[The split is over whether the explanandum is a state or a trajectory]].
 
@@ -79,7 +79,7 @@ The sweep that established this ran in October 2026: six Undermind deep searches
 The readings predict different quantities:
 
 - **Insurance (G&S)** predicts ex-ante welfare gains. Its standard test is Temin and Voth 2008 on the 1714 cut in England's legal interest-rate ceiling, which uses a lender's loan book. That test misattributes predictions to G&S, and its main findings are G&S's own second function (p. 12). See [[Temin and Voth 2008 test predictions Glaeser and Scheinkman did not make]].
-- **Additive barrier (Reed–Bekar, Rubin)** predicts fewer starvations or exits in bad years. That is a cross-section of a single year.
+- **Additive barrier (Reed–Bekar, Rubin)** predicts fewer starvations or exits in bad years, with no role for accumulated debt.
 - **Multiplicative trajectory (the project)** predicts fewer absorptions accumulated over time, concentrated among households holding fixed claims, and a gap between fixed- and contingent-claim households that widens with volatility. Kunreuther and Wright's result belongs here: farmers near the barrier are "forced to gamble". The project predicts risk-taking at the margin, not uniform caution.
 
 ## The trap on the other side
