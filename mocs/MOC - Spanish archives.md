@@ -36,6 +36,8 @@ Country hub under [[MOC - European archives and digital collections]], which car
 - [[Arxiu Historic de Protocols de Barcelona]] — the *comandes*; corporation-held, outside every state catalogue, images only under a research-and-teaching licence
 - [[Arxiu del Regne de Mallorca]] — fifteenth-century marine insurance in volume
 - [[Arxiu del Regne de Valencia]] — the third royal archive; note the municipal split over the *Taula de Canvis*
+- [[Garcia Sanz on the Vic commendas of the thirteenth century]] — the Curia Fumada of Vic: comanda acts from 1230, and a one-notary typology of 1271–1274
+- [[Polonio on the Barcelona maritime comandas 1349-1450]] — more than three thousand AHPB maritime comandas; prosopography, not clauses
 
 ## The consulado towns
 

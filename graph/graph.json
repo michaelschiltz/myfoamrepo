@@ -626,7 +626,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Arxiu Historic de Protocols de Barcelona",
-      "value": 21,
+      "value": 23,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -997,6 +997,24 @@
       "label": "Chit funds and kuri - a living rotating association with no historical archive",
       "value": 10,
       "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "Comanda capital was kept apart unless the contract said otherwise",
+      "type": "permanent",
+      "group": "seed",
+      "label": "Comanda capital was kept apart unless the contract said otherwise",
+      "value": 7,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "Comanda names several contracts in the Catalan sources",
+      "type": "permanent",
+      "group": "seed",
+      "label": "Comanda names several contracts in the Catalan sources",
+      "value": 14,
+      "color": "#e6ab02",
       "shape": "dot"
     },
     {
@@ -1477,6 +1495,15 @@
       "shape": "dot"
     },
     {
+      "id": "Fynn-Paul 2017 on the land commenda of Manresa",
+      "type": "source",
+      "group": "source",
+      "label": "Fynn-Paul 2017 on the land commenda of Manresa",
+      "value": 10,
+      "color": "#7570b3",
+      "shape": "dot"
+    },
+    {
       "id": "GLOBALISE removes the HTR question for the VOC and leaves it standing for the EIC",
       "type": "permanent",
       "group": "seed",
@@ -1519,6 +1546,15 @@
       "label": "Galton-Watson is the extinction branch Peters named and did not develop",
       "value": 38,
       "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "Garcia Sanz on the Vic commendas of the thirteenth century",
+      "type": "source",
+      "group": "source",
+      "label": "Garcia Sanz on the Vic commendas of the thirteenth century",
+      "value": 11,
+      "color": "#7570b3",
       "shape": "dot"
     },
     {
@@ -1636,6 +1672,15 @@
       "label": "HCA - the High Court of Admiralty",
       "value": 16,
       "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "Hancock 2025 on trust in Barcelona and Mallorca contracts",
+      "type": "source",
+      "group": "source",
+      "label": "Hancock 2025 on trust in Barcelona and Mallorca contracts",
+      "value": 9,
+      "color": "#7570b3",
       "shape": "dot"
     },
     {
@@ -2215,6 +2260,15 @@
       "shape": "dot"
     },
     {
+      "id": "Martinez Gijon on the comenda in Spanish law",
+      "type": "source",
+      "group": "source",
+      "label": "Martinez Gijon on the comenda in Spanish law",
+      "value": 10,
+      "color": "#7570b3",
+      "shape": "dot"
+    },
+    {
       "id": "Medici Archive Project - the BIA platform",
       "type": "reference",
       "group": "reference",
@@ -2671,6 +2725,15 @@
       "label": "Persona ficta made the corporation a-moral ab initio",
       "value": 14,
       "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "Polonio on the Barcelona maritime comandas 1349-1450",
+      "type": "source",
+      "group": "source",
+      "label": "Polonio on the Barcelona maritime comandas 1349-1450",
+      "value": 7,
+      "color": "#7570b3",
       "shape": "dot"
     },
     {
@@ -3610,6 +3673,24 @@
       "shape": "dot"
     },
     {
+      "id": "The Catalan maritime comanda puts the whole capital loss on the investor",
+      "type": "permanent",
+      "group": "seed",
+      "label": "The Catalan maritime comanda puts the whole capital loss on the investor",
+      "value": 15,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "The Consolat de Mar comanda chapters",
+      "type": "source",
+      "group": "source",
+      "label": "The Consolat de Mar comanda chapters",
+      "value": 14,
+      "color": "#7570b3",
+      "shape": "dot"
+    },
+    {
       "id": "The Dubrovnik Ottoman documents in three scripts",
       "type": "reference",
       "group": "reference",
@@ -3898,11 +3979,20 @@
       "shape": "dot"
     },
     {
+      "id": "The comanda ad societatem shares losses in the proportion of profits",
+      "type": "permanent",
+      "group": "seed",
+      "label": "The comanda ad societatem shares losses in the proportion of profits",
+      "value": 14,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
       "id": "The commenda and the qirad do not separate on loss allocation",
       "type": "permanent",
       "group": "seed",
       "label": "The commenda and the qirad do not separate on loss allocation",
-      "value": 30,
+      "value": 31,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -4102,6 +4192,15 @@
       "label": "The joint Hindu family is a law-report institution",
       "value": 7,
       "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "The land comanda gave way to the censal after 1348",
+      "type": "permanent",
+      "group": "seed",
+      "label": "The land comanda gave way to the censal after 1348",
+      "value": 8,
+      "color": "#e6ab02",
       "shape": "dot"
     },
     {
@@ -4559,7 +4658,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Unilateral and bilateral commenda collapse on profit and separate on loss",
-      "value": 21,
+      "value": 22,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -4802,7 +4901,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Entity-shielding and corporate forms",
-      "value": 122,
+      "value": 123,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -4856,7 +4955,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - HistorEE",
-      "value": 403,
+      "value": 414,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -4928,7 +5027,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Risk-sharing vs risk-pricing",
-      "value": 155,
+      "value": 175,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -4946,7 +5045,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Source editions",
-      "value": 48,
+      "value": 50,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -4964,7 +5063,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Spanish archives",
-      "value": 30,
+      "value": 34,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -8259,6 +8358,46 @@
       "to": "The colonial enquiry as South Asia's layer 3"
     },
     {
+      "from": "Comanda capital was kept apart unless the contract said otherwise",
+      "to": "Hancock 2025 on trust in Barcelona and Mallorca contracts"
+    },
+    {
+      "from": "Comanda capital was kept apart unless the contract said otherwise",
+      "to": "MOC - Entity-shielding and corporate forms"
+    },
+    {
+      "from": "Comanda capital was kept apart unless the contract said otherwise",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Comanda capital was kept apart unless the contract said otherwise",
+      "to": "The Consolat de Mar comanda chapters"
+    },
+    {
+      "from": "Comanda names several contracts in the Catalan sources",
+      "to": "Fynn-Paul 2017 on the land commenda of Manresa"
+    },
+    {
+      "from": "Comanda names several contracts in the Catalan sources",
+      "to": "Garcia Sanz on the Vic commendas of the thirteenth century"
+    },
+    {
+      "from": "Comanda names several contracts in the Catalan sources",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Comanda names several contracts in the Catalan sources",
+      "to": "MOC - Risk-sharing vs risk-pricing"
+    },
+    {
+      "from": "Comanda names several contracts in the Catalan sources",
+      "to": "The Catalan maritime comanda puts the whole capital loss on the investor"
+    },
+    {
+      "from": "Comanda names several contracts in the Catalan sources",
+      "to": "The Consolat de Mar comanda chapters"
+    },
+    {
       "from": "Consulado de Burgos - the universidad de mercaderes",
       "to": "Archivo Foral de Bizkaia - the Consulado de Bilbao"
     },
@@ -10071,6 +10210,26 @@
       "to": "The Bazacle records - a custody problem"
     },
     {
+      "from": "Fynn-Paul 2017 on the land commenda of Manresa",
+      "to": "Comanda names several contracts in the Catalan sources"
+    },
+    {
+      "from": "Fynn-Paul 2017 on the land commenda of Manresa",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Fynn-Paul 2017 on the land commenda of Manresa",
+      "to": "MOC - Risk-sharing vs risk-pricing"
+    },
+    {
+      "from": "Fynn-Paul 2017 on the land commenda of Manresa",
+      "to": "The comanda ad societatem shares losses in the proportion of profits"
+    },
+    {
+      "from": "Fynn-Paul 2017 on the land commenda of Manresa",
+      "to": "The land comanda gave way to the censal after 1348"
+    },
+    {
       "from": "GLOBALISE removes the HTR question for the VOC and leaves it standing for the EIC",
       "to": "EIC digital corpus - what is online and on what terms"
     },
@@ -10281,6 +10440,26 @@
     {
       "from": "Galton-Watson is the extinction branch Peters named and did not develop",
       "to": "Time-average optimization is a survivorship property not an intention"
+    },
+    {
+      "from": "Garcia Sanz on the Vic commendas of the thirteenth century",
+      "to": "Comanda names several contracts in the Catalan sources"
+    },
+    {
+      "from": "Garcia Sanz on the Vic commendas of the thirteenth century",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Garcia Sanz on the Vic commendas of the thirteenth century",
+      "to": "MOC - Risk-sharing vs risk-pricing"
+    },
+    {
+      "from": "Garcia Sanz on the Vic commendas of the thirteenth century",
+      "to": "MOC - Spanish archives"
+    },
+    {
+      "from": "Garcia Sanz on the Vic commendas of the thirteenth century",
+      "to": "The comanda ad societatem shares losses in the proportion of profits"
     },
     {
       "from": "Geheimes Staatsarchiv Preussischer Kulturbesitz - Berlin",
@@ -10661,6 +10840,26 @@
     {
       "from": "HCA - the High Court of Admiralty",
       "to": "The amirautes - a series across the coastal departments"
+    },
+    {
+      "from": "Hancock 2025 on trust in Barcelona and Mallorca contracts",
+      "to": "Arxiu Historic de Protocols de Barcelona"
+    },
+    {
+      "from": "Hancock 2025 on trust in Barcelona and Mallorca contracts",
+      "to": "Comanda capital was kept apart unless the contract said otherwise"
+    },
+    {
+      "from": "Hancock 2025 on trust in Barcelona and Mallorca contracts",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Hancock 2025 on trust in Barcelona and Mallorca contracts",
+      "to": "MOC - Risk-sharing vs risk-pricing"
+    },
+    {
+      "from": "Hancock 2025 on trust in Barcelona and Mallorca contracts",
+      "to": "The Catalan maritime comanda puts the whole capital loss on the investor"
     },
     {
       "from": "Handoff - the non-European archive survey",
@@ -16016,6 +16215,14 @@
     },
     {
       "from": "MOC - Risk-sharing vs risk-pricing",
+      "to": "Comanda capital was kept apart unless the contract said otherwise"
+    },
+    {
+      "from": "MOC - Risk-sharing vs risk-pricing",
+      "to": "Comanda names several contracts in the Catalan sources"
+    },
+    {
+      "from": "MOC - Risk-sharing vs risk-pricing",
       "to": "Cooperation is an averaging puzzle and sovereign repayment is a barrier puzzle"
     },
     {
@@ -16044,11 +16251,23 @@
     },
     {
       "from": "MOC - Risk-sharing vs risk-pricing",
+      "to": "Fynn-Paul 2017 on the land commenda of Manresa"
+    },
+    {
+      "from": "MOC - Risk-sharing vs risk-pricing",
+      "to": "Garcia Sanz on the Vic commendas of the thirteenth century"
+    },
+    {
+      "from": "MOC - Risk-sharing vs risk-pricing",
       "to": "General average shares decisions where warichi shares hazards"
     },
     {
       "from": "MOC - Risk-sharing vs risk-pricing",
       "to": "Glaeser and Scheinkman 1998 on interest restrictions as social insurance"
+    },
+    {
+      "from": "MOC - Risk-sharing vs risk-pricing",
+      "to": "Hancock 2025 on trust in Barcelona and Mallorca contracts"
     },
     {
       "from": "MOC - Risk-sharing vs risk-pricing",
@@ -16076,6 +16295,10 @@
     },
     {
       "from": "MOC - Risk-sharing vs risk-pricing",
+      "to": "Martinez Gijon on the comenda in Spanish law"
+    },
+    {
+      "from": "MOC - Risk-sharing vs risk-pricing",
       "to": "Naviganti - Latin Christendom rejected the sea loan too"
     },
     {
@@ -16085,6 +16308,10 @@
     {
       "from": "MOC - Risk-sharing vs risk-pricing",
       "to": "Outcome-coupling is the condition of legibility"
+    },
+    {
+      "from": "MOC - Risk-sharing vs risk-pricing",
+      "to": "Polonio on the Barcelona maritime comandas 1349-1450"
     },
     {
       "from": "MOC - Risk-sharing vs risk-pricing",
@@ -16152,11 +16379,23 @@
     },
     {
       "from": "MOC - Risk-sharing vs risk-pricing",
+      "to": "The Catalan maritime comanda puts the whole capital loss on the investor"
+    },
+    {
+      "from": "MOC - Risk-sharing vs risk-pricing",
+      "to": "The Consolat de Mar comanda chapters"
+    },
+    {
+      "from": "MOC - Risk-sharing vs risk-pricing",
       "to": "The Fugger diversified activity while concentrating the barrier"
     },
     {
       "from": "MOC - Risk-sharing vs risk-pricing",
       "to": "The bidding ko transfers from the liquidity-constrained to the liquid"
+    },
+    {
+      "from": "MOC - Risk-sharing vs risk-pricing",
+      "to": "The comanda ad societatem shares losses in the proportion of profits"
     },
     {
       "from": "MOC - Risk-sharing vs risk-pricing",
@@ -16181,6 +16420,10 @@
     {
       "from": "MOC - Risk-sharing vs risk-pricing",
       "to": "The isqa refuses the agent's shield"
+    },
+    {
+      "from": "MOC - Risk-sharing vs risk-pricing",
+      "to": "The land comanda gave way to the censal after 1348"
     },
     {
       "from": "MOC - Risk-sharing vs risk-pricing",
@@ -16420,6 +16663,10 @@
     },
     {
       "from": "MOC - Source editions",
+      "to": "The Consolat de Mar comanda chapters"
+    },
+    {
+      "from": "MOC - Source editions",
       "to": "The Silk Road layer 3 is a national editorial programme"
     },
     {
@@ -16592,6 +16839,10 @@
     },
     {
       "from": "MOC - Spanish archives",
+      "to": "Garcia Sanz on the Vic commendas of the thirteenth century"
+    },
+    {
+      "from": "MOC - Spanish archives",
       "to": "MOC - Belgian archives"
     },
     {
@@ -16613,6 +16864,10 @@
     {
       "from": "MOC - Spanish archives",
       "to": "PARES - the access layer for the Spanish state archives"
+    },
+    {
+      "from": "MOC - Spanish archives",
+      "to": "Polonio on the Barcelona maritime comandas 1349-1450"
     },
     {
       "from": "MOC - Spanish archives",
@@ -16653,6 +16908,30 @@
     {
       "from": "Mare Liberum was a corporate legal weapon",
       "to": "The four-step decoupling from participation to the veil"
+    },
+    {
+      "from": "Martinez Gijon on the comenda in Spanish law",
+      "to": "Comanda names several contracts in the Catalan sources"
+    },
+    {
+      "from": "Martinez Gijon on the comenda in Spanish law",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Martinez Gijon on the comenda in Spanish law",
+      "to": "MOC - Risk-sharing vs risk-pricing"
+    },
+    {
+      "from": "Martinez Gijon on the comenda in Spanish law",
+      "to": "The Catalan maritime comanda puts the whole capital loss on the investor"
+    },
+    {
+      "from": "Martinez Gijon on the comenda in Spanish law",
+      "to": "The Consolat de Mar comanda chapters"
+    },
+    {
+      "from": "Martinez Gijon on the comenda in Spanish law",
+      "to": "The comanda ad societatem shares losses in the proportion of profits"
     },
     {
       "from": "Medici Archive Project - the BIA platform",
@@ -17961,6 +18240,22 @@
     {
       "from": "Persona ficta made the corporation a-moral ab initio",
       "to": "The waqf partition converts absence into refusal"
+    },
+    {
+      "from": "Polonio on the Barcelona maritime comandas 1349-1450",
+      "to": "Arxiu Historic de Protocols de Barcelona"
+    },
+    {
+      "from": "Polonio on the Barcelona maritime comandas 1349-1450",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Polonio on the Barcelona maritime comandas 1349-1450",
+      "to": "MOC - Spanish archives"
+    },
+    {
+      "from": "Polonio on the Barcelona maritime comandas 1349-1450",
+      "to": "The Catalan maritime comanda puts the whole capital loss on the investor"
     },
     {
       "from": "Pooling's sign is set by the correlation of its baskets",
@@ -20963,6 +21258,62 @@
       "to": "The VOC-EIC digital asymmetry is an access regime not a survival difference"
     },
     {
+      "from": "The Catalan maritime comanda puts the whole capital loss on the investor",
+      "to": "Hancock 2025 on trust in Barcelona and Mallorca contracts"
+    },
+    {
+      "from": "The Catalan maritime comanda puts the whole capital loss on the investor",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "The Catalan maritime comanda puts the whole capital loss on the investor",
+      "to": "MOC - Risk-sharing vs risk-pricing"
+    },
+    {
+      "from": "The Catalan maritime comanda puts the whole capital loss on the investor",
+      "to": "Martinez Gijon on the comenda in Spanish law"
+    },
+    {
+      "from": "The Catalan maritime comanda puts the whole capital loss on the investor",
+      "to": "The Consolat de Mar comanda chapters"
+    },
+    {
+      "from": "The Catalan maritime comanda puts the whole capital loss on the investor",
+      "to": "The comanda ad societatem shares losses in the proportion of profits"
+    },
+    {
+      "from": "The Catalan maritime comanda puts the whole capital loss on the investor",
+      "to": "The commenda and the qirad do not separate on loss allocation"
+    },
+    {
+      "from": "The Consolat de Mar comanda chapters",
+      "to": "Comanda names several contracts in the Catalan sources"
+    },
+    {
+      "from": "The Consolat de Mar comanda chapters",
+      "to": "Fynn-Paul 2017 on the land commenda of Manresa"
+    },
+    {
+      "from": "The Consolat de Mar comanda chapters",
+      "to": "Garcia Sanz on the Vic commendas of the thirteenth century"
+    },
+    {
+      "from": "The Consolat de Mar comanda chapters",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "The Consolat de Mar comanda chapters",
+      "to": "MOC - Risk-sharing vs risk-pricing"
+    },
+    {
+      "from": "The Consolat de Mar comanda chapters",
+      "to": "MOC - Source editions"
+    },
+    {
+      "from": "The Consolat de Mar comanda chapters",
+      "to": "The Catalan maritime comanda puts the whole capital loss on the investor"
+    },
+    {
       "from": "The Dubrovnik Ottoman documents in three scripts",
       "to": "Acta Turcarum - the Ottoman series at Dubrovnik"
     },
@@ -21959,6 +22310,34 @@
       "to": "Taiwan Shiho - the colonial survey of Chinese associations and shares"
     },
     {
+      "from": "The comanda ad societatem shares losses in the proportion of profits",
+      "to": "Comanda names several contracts in the Catalan sources"
+    },
+    {
+      "from": "The comanda ad societatem shares losses in the proportion of profits",
+      "to": "Garcia Sanz on the Vic commendas of the thirteenth century"
+    },
+    {
+      "from": "The comanda ad societatem shares losses in the proportion of profits",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "The comanda ad societatem shares losses in the proportion of profits",
+      "to": "MOC - Risk-sharing vs risk-pricing"
+    },
+    {
+      "from": "The comanda ad societatem shares losses in the proportion of profits",
+      "to": "Martinez Gijon on the comenda in Spanish law"
+    },
+    {
+      "from": "The comanda ad societatem shares losses in the proportion of profits",
+      "to": "The Catalan maritime comanda puts the whole capital loss on the investor"
+    },
+    {
+      "from": "The comanda ad societatem shares losses in the proportion of profits",
+      "to": "Unilateral and bilateral commenda collapse on profit and separate on loss"
+    },
+    {
       "from": "The commenda and the qirad do not separate on loss allocation",
       "to": "A route clause conditions the investor's peril in three traditions"
     },
@@ -22773,6 +23152,26 @@
     {
       "from": "The joint Hindu family is a law-report institution",
       "to": "The colonial enquiry as South Asia's layer 3"
+    },
+    {
+      "from": "The land comanda gave way to the censal after 1348",
+      "to": "Comanda names several contracts in the Catalan sources"
+    },
+    {
+      "from": "The land comanda gave way to the censal after 1348",
+      "to": "Fynn-Paul 2017 on the land commenda of Manresa"
+    },
+    {
+      "from": "The land comanda gave way to the censal after 1348",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "The land comanda gave way to the censal after 1348",
+      "to": "MOC - Risk-sharing vs risk-pricing"
+    },
+    {
+      "from": "The land comanda gave way to the censal after 1348",
+      "to": "The comanda ad societatem shares losses in the proportion of profits"
     },
     {
       "from": "The liability characteristics cannot express what Harris found",

@@ -24,6 +24,7 @@ status: seed
 - [[Source editions - EIC]] — **the court minutes in print and free from 1599 to 1679 without a break**; the charters (Shaw 1887)
 - [[Source editions - Italian and Mediterranean commerce]] — the *Notai liguri*, Morozzo della Rocca and Lombardo, Blancard, Pryor, Melis's insurance *Fonti*; **Lopez and Raymond's page range corrected**; no printed Bazacle charters
 - [[Source editions - maritime law compilations]] — **Pardessus, Twiss, Ashburner: the comparative collections proper, all free**
+- [[The Consolat de Mar comanda chapters]] — Capmany 209–220, 254, 279 with the Pardessus concordance; **Pardessus t. II is misfiled as a second Capmany PDF in Zotero**
 - [[Source editions - New Julfa and the Mongol ortoq]] — **no contract corpus at either end**: one Julfan ledger opening with a 1682 commenda, a law code, 2,000 unedited Santa Catarina papers; Yuan legal compilations and no published *ortoq* instrument
 - [[Source editions - Low Countries and the Hanse]] — **the whole RGP trade series free at Huygens; Winkelman is six volumes, not one**; Doehaerd; the Antwerp *Compilatae*; HUB and Hanserecesse
 - [[Source editions - Iberian Atlantic]] — the *Recopilación* Book IX on the *avería*; Veitia Linage; the Seville and Bilbao *ordenanzas*; least verified
