@@ -1112,7 +1112,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Desktop and portable capture - CZUR and ScanTent",
-      "value": 14,
+      "value": 15,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -2759,7 +2759,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Preservation-grade overhead scanners - Zeutschel and i2S",
-      "value": 9,
+      "value": 13,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -3002,7 +3002,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Robotic V-cradle book scanners - Treventus and Qidenus",
-      "value": 8,
+      "value": 9,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -4771,6 +4771,15 @@
       "shape": "dot"
     },
     {
+      "id": "Zeutschel book-scanning range - the cradle decides not the camera",
+      "type": "reference",
+      "group": "reference",
+      "label": "Zeutschel book-scanning range - the cradle decides not the camera",
+      "value": 9,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
       "id": "Zhang Chuanxi 1995 - the contract compilation behind the census's Chinese rows",
       "type": "reference",
       "group": "reference",
@@ -4874,7 +4883,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Digitisation and text recognition",
-      "value": 53,
+      "value": 55,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -13350,6 +13359,10 @@
       "to": "VOC digital corpus - what is online and on what terms"
     },
     {
+      "from": "MOC - Digitisation and text recognition",
+      "to": "Zeutschel book-scanning range - the cradle decides not the camera"
+    },
+    {
       "from": "MOC - Dutch archives",
       "to": "Averijgrossen - the general average adjudications"
     },
@@ -18328,6 +18341,10 @@
     {
       "from": "Preservation-grade overhead scanners - Zeutschel and i2S",
       "to": "Robotic V-cradle book scanners - Treventus and Qidenus"
+    },
+    {
+      "from": "Preservation-grade overhead scanners - Zeutschel and i2S",
+      "to": "Zeutschel book-scanning range - the cradle decides not the camera"
     },
     {
       "from": "Pricing is orthogonal to mitigation mechanism not a stage of it",
@@ -25376,6 +25393,22 @@
     {
       "from": "Zeeuws Archief - the Zeeland chamber and the MCC",
       "to": "Westfries Archief - the Hoorn and Enkhuizen chambers"
+    },
+    {
+      "from": "Zeutschel book-scanning range - the cradle decides not the camera",
+      "to": "Desktop and portable capture - CZUR and ScanTent"
+    },
+    {
+      "from": "Zeutschel book-scanning range - the cradle decides not the camera",
+      "to": "MOC - Digitisation and text recognition"
+    },
+    {
+      "from": "Zeutschel book-scanning range - the cradle decides not the camera",
+      "to": "Preservation-grade overhead scanners - Zeutschel and i2S"
+    },
+    {
+      "from": "Zeutschel book-scanning range - the cradle decides not the camera",
+      "to": "Robotic V-cradle book scanners - Treventus and Qidenus"
     },
     {
       "from": "Zhang Chuanxi 1995 - the contract compilation behind the census's Chinese rows",

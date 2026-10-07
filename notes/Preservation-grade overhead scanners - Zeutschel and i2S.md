@@ -55,3 +55,4 @@ Not resolution — a modern desktop scanner has adequate pixels. The differences
 - [[MOC - Digitisation and text recognition]]
 - [[Robotic V-cradle book scanners - Treventus and Qidenus]]
 - [[Desktop and portable capture - CZUR and ScanTent]]
+- [[Zeutschel book-scanning range - the cradle decides not the camera]]

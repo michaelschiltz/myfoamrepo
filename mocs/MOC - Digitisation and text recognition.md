@@ -42,6 +42,7 @@ Capture at the highest quality you can afford *once*, in an open format, because
 - [[Kuzushiji OCR - the NDL and CODH stack]]
 - [[Robotic V-cradle book scanners - Treventus and Qidenus]]
 - [[Preservation-grade overhead scanners - Zeutschel and i2S]]
+- [[Zeutschel book-scanning range - the cradle decides not the camera]]
 - [[Desktop and portable capture - CZUR and ScanTent]]
 
 ## Corpora that already exist

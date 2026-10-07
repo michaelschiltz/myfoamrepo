@@ -531,6 +531,7 @@ digraph vault {
   "Which peril gets a clause is set by the tradition's doctrinal problem" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Whiggish history of finance names the ascent narrative" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Zeeuws Archief - the Zeeland chamber and the MCC" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
+  "Zeutschel book-scanning range - the cradle decides not the camera" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
   "Zhang Chuanxi 1995 - the contract compilation behind the census's Chinese rows" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
   "Zigong salt contracts - shareholding in the wells" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
   "commenda" [fillcolor="#666666", fontcolor=white, shape=ellipse];
@@ -2629,6 +2630,7 @@ digraph vault {
   "MOC - Digitisation and text recognition" -> "Robotic V-cradle book scanners - Treventus and Qidenus";
   "MOC - Digitisation and text recognition" -> "Transkribus - managed HTR platform";
   "MOC - Digitisation and text recognition" -> "VOC digital corpus - what is online and on what terms";
+  "MOC - Digitisation and text recognition" -> "Zeutschel book-scanning range - the cradle decides not the camera";
   "MOC - Dutch archives" -> "Averijgrossen - the general average adjudications";
   "MOC - Dutch archives" -> "Delpher - the full-text layer";
   "MOC - Dutch archives" -> "Desolate Boedelkamer - Amsterdam";
@@ -3874,6 +3876,7 @@ digraph vault {
   "Preservation-grade overhead scanners - Zeutschel and i2S" -> "Desktop and portable capture - CZUR and ScanTent";
   "Preservation-grade overhead scanners - Zeutschel and i2S" -> "MOC - Digitisation and text recognition";
   "Preservation-grade overhead scanners - Zeutschel and i2S" -> "Robotic V-cradle book scanners - Treventus and Qidenus";
+  "Preservation-grade overhead scanners - Zeutschel and i2S" -> "Zeutschel book-scanning range - the cradle decides not the camera";
   "Pricing is orthogonal to mitigation mechanism not a stage of it" -> "A concealed premium is evidence about the notary not about the price";
   "Pricing is orthogonal to mitigation mechanism not a stage of it" -> "Count degrees of freedom not cells";
   "Pricing is orthogonal to mitigation mechanism not a stage of it" -> "Insurance is a split-off from the sea loan not a coordinate mechanism";
@@ -5636,6 +5639,10 @@ digraph vault {
   "Zeeuws Archief - the Zeeland chamber and the MCC" -> "Nationaal Archief - The Hague";
   "Zeeuws Archief - the Zeeland chamber and the MCC" -> "VOC digital corpus - what is online and on what terms";
   "Zeeuws Archief - the Zeeland chamber and the MCC" -> "Westfries Archief - the Hoorn and Enkhuizen chambers";
+  "Zeutschel book-scanning range - the cradle decides not the camera" -> "Desktop and portable capture - CZUR and ScanTent";
+  "Zeutschel book-scanning range - the cradle decides not the camera" -> "MOC - Digitisation and text recognition";
+  "Zeutschel book-scanning range - the cradle decides not the camera" -> "Preservation-grade overhead scanners - Zeutschel and i2S";
+  "Zeutschel book-scanning range - the cradle decides not the camera" -> "Robotic V-cradle book scanners - Treventus and Qidenus";
   "Zhang Chuanxi 1995 - the contract compilation behind the census's Chinese rows" -> "Chinese contracts - the private document boom and the market that feeds it";
   "Zhang Chuanxi 1995 - the contract compilation behind the census's Chinese rows" -> "Count degrees of freedom not cells";
   "Zhang Chuanxi 1995 - the contract compilation behind the census's Chinese rows" -> "Huizhou documents - the largest private contract corpus";
