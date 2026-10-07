@@ -20,7 +20,7 @@ In thirteenth- and fourteenth-century Catalan acts *comanda* is a word, not a co
 
 **False friend.** *Comanda* is also a commandery of the Temple or the Hospital (Pagarolas, *La comanda del Temple de Tortosa*, 1984).
 
-**For the census.** Only the commercial comanda belongs in the commenda family. The deposit is excluded on structure, not on name: it reverses the agent's exposure to capital loss. Its exclusion is a scope decision recorded on the type rows, not a coding.
+**For the census.** Only the commercial comanda belongs in the commenda family. The deposit is excluded on structure, not on name. The deposit of money reverses the agent's exposure to capital loss, because the depositary answers even for mischance. The regular deposit of goods, where a loss without the depositary's fault falls on the depositor (Martínez Gijón 1964, 75), has no working party at all, so the question of exposure does not arise. The deposit is not a clean exclusion, though: Martínez Gijón (1964, 76–78) reports Barcelona deposits of 1215 and 1248 in which the depositary trades with the money and the depositor takes a share of profit while full restitution stays owed, which is the *ʿisqa*'s allocation under the deposit's name. Two acts, printed in Sayous 1931, which is not held; a scope question, not a coding. Its exclusion is a scope decision recorded on the type rows, not a coding.
 
 ## Links
 
