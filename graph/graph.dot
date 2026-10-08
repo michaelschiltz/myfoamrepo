@@ -402,6 +402,8 @@ digraph vault {
   "Tereke defterleri - the Ottoman estate inventory series" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
   "Terminal wealth is permutation-invariant but survival is not" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "The Adriatic scope edge - Kotor and the modern borders" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
+  "The Afghan corpora offer loss allocation in tenancy not commenda" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
+  "The Afghan corpora show partnership as traces because their archives are a landlord's and a granary's" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "The Anatolian court registers - museum to National Library to State Archives" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
   "The Antwerp phases separate on two cells and the boundary is textual" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "The Bank of England Archive" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
@@ -2220,6 +2222,7 @@ digraph vault {
   "Invisible East - an open corpus for the eastern Islamicate documents" -> "MOC - ERC Synergy Grant";
   "Invisible East - an open corpus for the eastern Islamicate documents" -> "MOC - Silk Road archives";
   "Invisible East - an open corpus for the eastern Islamicate documents" -> "Sogdian commercial documents - thin but not empty";
+  "Invisible East - an open corpus for the eastern Islamicate documents" -> "The Afghan corpora show partnership as traces because their archives are a landlord's and a granary's";
   "Invisible East - an open corpus for the eastern Islamicate documents" -> "The Khalili Bactrian documents - a private collection as the archive";
   "Islamic doctrine refuses risk-commodification at step one" -> "A fair wager lowers both trajectories which maysir forbids and skin in the game permits";
   "Islamic doctrine refuses risk-commodification at step one" -> "MOC - HistorEE";
@@ -3042,6 +3045,8 @@ digraph vault {
   "MOC - HistorEE" -> "Taleb specifies the firewall in chapter 4 and condemns it in chapter 23";
   "MOC - HistorEE" -> "Temin and Voth 2008 test predictions Glaeser and Scheinkman did not make";
   "MOC - HistorEE" -> "Terminal wealth is permutation-invariant but survival is not";
+  "MOC - HistorEE" -> "The Afghan corpora offer loss allocation in tenancy not commenda";
+  "MOC - HistorEE" -> "The Afghan corpora show partnership as traces because their archives are a landlord's and a granary's";
   "MOC - HistorEE" -> "The Antwerp phases separate on two cells and the boundary is textual";
   "MOC - HistorEE" -> "The Kux carries transferability with unlimited liability";
   "MOC - HistorEE" -> "The Roman universitas makes the JSC case parallelism not convergence";
@@ -3157,6 +3162,7 @@ digraph vault {
   "MOC - Historiography and method" -> "Taleb 2012 on antifragility - loci for the time-ensemble distinction";
   "MOC - Historiography and method" -> "Taleb reads survival as evidence about the survivor and we read it as evidence about the filter";
   "MOC - Historiography and method" -> "Temin and Voth 2008 test predictions Glaeser and Scheinkman did not make";
+  "MOC - Historiography and method" -> "The Afghan corpora show partnership as traces because their archives are a landlord's and a granary's";
   "MOC - Historiography and method" -> "The Antwerp phases separate on two cells and the boundary is textual";
   "MOC - Historiography and method" -> "The QDL corpus is conditioned on its funder's geography";
   "MOC - Historiography and method" -> "The Roman universitas makes the JSC case parallelism not convergence";
@@ -3387,6 +3393,7 @@ digraph vault {
   "MOC - Risk-sharing vs risk-pricing" -> "Syndication and the misma moneda are pooling not prudence";
   "MOC - Risk-sharing vs risk-pricing" -> "Taleb secures the collective by exit and has no theory of pooling";
   "MOC - Risk-sharing vs risk-pricing" -> "Temin and Voth 2008 test predictions Glaeser and Scheinkman did not make";
+  "MOC - Risk-sharing vs risk-pricing" -> "The Afghan corpora offer loss allocation in tenancy not commenda";
   "MOC - Risk-sharing vs risk-pricing" -> "The Bodmerei shield was a default rule and Amsterdam contracted out of it";
   "MOC - Risk-sharing vs risk-pricing" -> "The Catalan maritime comanda puts the whole capital loss on the investor";
   "MOC - Risk-sharing vs risk-pricing" -> "The Consolat de Mar comanda chapters";
@@ -3739,6 +3746,7 @@ digraph vault {
   "Old Uyghur contracts - the documentary layer under the ortoq" -> "Berlin - the Turfan collection";
   "Old Uyghur contracts - the documentary layer under the ortoq" -> "MOC - Silk Road archives";
   "Old Uyghur contracts - the documentary layer under the ortoq" -> "Ryukoku University and the Otani collection";
+  "Old Uyghur contracts - the documentary layer under the ortoq" -> "The Afghan corpora show partnership as traces because their archives are a landlord's and a granary's";
   "Old Uyghur contracts - the documentary layer under the ortoq" -> "The Silk Road layer 3 is a national editorial programme";
   "Old Uyghur contracts - the documentary layer under the ortoq" -> "The Silk Road record is documents and the census codes chronicles";
   "Old Uyghur contracts - the documentary layer under the ortoq" -> "The ortoq is the discriminating instrument";
@@ -4563,6 +4571,25 @@ digraph vault {
   "The Adriatic scope edge - Kotor and the modern borders" -> "MOC - Croatian archives";
   "The Adriatic scope edge - Kotor and the modern borders" -> "Refusals are observations of the filter not inferences from survivors";
   "The Adriatic scope edge - Kotor and the modern borders" -> "Rijksarchief te Luik en Namen - the Walloon repositories";
+  "The Afghan corpora offer loss allocation in tenancy not commenda" -> "Dunhuang she associations - bylaws for a funeral fund";
+  "The Afghan corpora offer loss allocation in tenancy not commenda" -> "Invisible East - an open corpus for the eastern Islamicate documents";
+  "The Afghan corpora offer loss allocation in tenancy not commenda" -> "MOC - HistorEE";
+  "The Afghan corpora offer loss allocation in tenancy not commenda" -> "MOC - Risk-sharing vs risk-pricing";
+  "The Afghan corpora offer loss allocation in tenancy not commenda" -> "Scott 1976 on the subsistence ethic as safety-first";
+  "The Afghan corpora offer loss allocation in tenancy not commenda" -> "The Afghan corpora show partnership as traces because their archives are a landlord's and a granary's";
+  "The Afghan corpora offer loss allocation in tenancy not commenda" -> "The amana-daman structure refuses to infer fault from loss";
+  "The Afghan corpora show partnership as traces because their archives are a landlord's and a granary's" -> "Cairo Geniza - the deposit and its survival rule";
+  "The Afghan corpora show partnership as traces because their archives are a landlord's and a granary's" -> "Invisible East - an open corpus for the eastern Islamicate documents";
+  "The Afghan corpora show partnership as traces because their archives are a landlord's and a granary's" -> "MOC - HistorEE";
+  "The Afghan corpora show partnership as traces because their archives are a landlord's and a granary's" -> "MOC - Historiography and method";
+  "The Afghan corpora show partnership as traces because their archives are a landlord's and a granary's" -> "Old Uyghur contracts - the documentary layer under the ortoq";
+  "The Afghan corpora show partnership as traces because their archives are a landlord's and a granary's" -> "Refusals are observations of the filter not inferences from survivors";
+  "The Afghan corpora show partnership as traces because their archives are a landlord's and a granary's" -> "The Afghan corpora offer loss allocation in tenancy not commenda";
+  "The Afghan corpora show partnership as traces because their archives are a landlord's and a granary's" -> "The Khalili Bactrian documents - a private collection as the archive";
+  "The Afghan corpora show partnership as traces because their archives are a landlord's and a granary's" -> "The Silk Road record is documents and the census codes chronicles";
+  "The Afghan corpora show partnership as traces because their archives are a landlord's and a granary's" -> "The deficit reading of absence is the scalar ranking in evidentiary form";
+  "The Afghan corpora show partnership as traces because their archives are a landlord's and a granary's" -> "The ortoq is the discriminating instrument";
+  "The Afghan corpora show partnership as traces because their archives are a landlord's and a granary's" -> "The record of non-survivors survives where failure was administered";
   "The Anatolian court registers - museum to National Library to State Archives" -> "ISAM Library Archive - the court register image collection";
   "The Anatolian court registers - museum to National Library to State Archives" -> "Istanbul Muftulugu Seriyye Sicilleri Arsivi";
   "The Anatolian court registers - museum to National Library to State Archives" -> "MOC - Ottoman archives";

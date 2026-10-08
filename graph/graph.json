@@ -905,7 +905,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Cairo Geniza - the deposit and its survival rule",
-      "value": 23,
+      "value": 24,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1256,7 +1256,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Dunhuang she associations - bylaws for a funeral fund",
-      "value": 12,
+      "value": 13,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1922,7 +1922,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Invisible East - an open corpus for the eastern Islamicate documents",
-      "value": 13,
+      "value": 16,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -2588,7 +2588,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Old Uyghur contracts - the documentary layer under the ortoq",
-      "value": 16,
+      "value": 18,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -2894,7 +2894,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Refusals are observations of the filter not inferences from survivors",
-      "value": 116,
+      "value": 117,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -3065,7 +3065,7 @@
       "type": "source",
       "group": "source",
       "label": "Scott 1976 on the subsistence ethic as safety-first",
-      "value": 24,
+      "value": 26,
       "color": "#7570b3",
       "shape": "dot"
     },
@@ -3610,6 +3610,24 @@
       "shape": "dot"
     },
     {
+      "id": "The Afghan corpora offer loss allocation in tenancy not commenda",
+      "type": "permanent",
+      "group": "seed",
+      "label": "The Afghan corpora offer loss allocation in tenancy not commenda",
+      "value": 14,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "The Afghan corpora show partnership as traces because their archives are a landlord's and a granary's",
+      "type": "permanent",
+      "group": "seed",
+      "label": "The Afghan corpora show partnership as traces because their archives are a landlord's and a granary's",
+      "value": 19,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
       "id": "The Anatolian court registers - museum to National Library to State Archives",
       "type": "reference",
       "group": "reference",
@@ -3731,7 +3749,7 @@
       "type": "reference",
       "group": "reference",
       "label": "The Khalili Bactrian documents - a private collection as the archive",
-      "value": 9,
+      "value": 10,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -3848,7 +3866,7 @@
       "type": "reference",
       "group": "reference",
       "label": "The Silk Road record is documents and the census codes chronicles",
-      "value": 16,
+      "value": 17,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -3902,7 +3920,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The amana-daman structure refuses to infer fault from loss",
-      "value": 24,
+      "value": 26,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -4028,7 +4046,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The deficit reading of absence is the scalar ranking in evidentiary form",
-      "value": 47,
+      "value": 48,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -4316,7 +4334,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The ortoq is the discriminating instrument",
-      "value": 30,
+      "value": 31,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -4361,7 +4379,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The record of non-survivors survives where failure was administered",
-      "value": 38,
+      "value": 39,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -4964,7 +4982,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - HistorEE",
-      "value": 414,
+      "value": 418,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -4973,7 +4991,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Historiography and method",
-      "value": 207,
+      "value": 209,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -5036,7 +5054,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Risk-sharing vs risk-pricing",
-      "value": 175,
+      "value": 177,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -11720,6 +11738,10 @@
     },
     {
       "from": "Invisible East - an open corpus for the eastern Islamicate documents",
+      "to": "The Afghan corpora show partnership as traces because their archives are a landlord's and a granary's"
+    },
+    {
+      "from": "Invisible East - an open corpus for the eastern Islamicate documents",
       "to": "The Khalili Bactrian documents - a private collection as the archive"
     },
     {
@@ -15008,6 +15030,14 @@
     },
     {
       "from": "MOC - HistorEE",
+      "to": "The Afghan corpora offer loss allocation in tenancy not commenda"
+    },
+    {
+      "from": "MOC - HistorEE",
+      "to": "The Afghan corpora show partnership as traces because their archives are a landlord's and a granary's"
+    },
+    {
+      "from": "MOC - HistorEE",
       "to": "The Antwerp phases separate on two cells and the boundary is textual"
     },
     {
@@ -15465,6 +15495,10 @@
     {
       "from": "MOC - Historiography and method",
       "to": "Temin and Voth 2008 test predictions Glaeser and Scheinkman did not make"
+    },
+    {
+      "from": "MOC - Historiography and method",
+      "to": "The Afghan corpora show partnership as traces because their archives are a landlord's and a granary's"
     },
     {
       "from": "MOC - Historiography and method",
@@ -16385,6 +16419,10 @@
     {
       "from": "MOC - Risk-sharing vs risk-pricing",
       "to": "Temin and Voth 2008 test predictions Glaeser and Scheinkman did not make"
+    },
+    {
+      "from": "MOC - Risk-sharing vs risk-pricing",
+      "to": "The Afghan corpora offer loss allocation in tenancy not commenda"
     },
     {
       "from": "MOC - Risk-sharing vs risk-pricing",
@@ -17793,6 +17831,10 @@
     {
       "from": "Old Uyghur contracts - the documentary layer under the ortoq",
       "to": "Ryukoku University and the Otani collection"
+    },
+    {
+      "from": "Old Uyghur contracts - the documentary layer under the ortoq",
+      "to": "The Afghan corpora show partnership as traces because their archives are a landlord's and a granary's"
     },
     {
       "from": "Old Uyghur contracts - the documentary layer under the ortoq",
@@ -21089,6 +21131,82 @@
     {
       "from": "The Adriatic scope edge - Kotor and the modern borders",
       "to": "Rijksarchief te Luik en Namen - the Walloon repositories"
+    },
+    {
+      "from": "The Afghan corpora offer loss allocation in tenancy not commenda",
+      "to": "Dunhuang she associations - bylaws for a funeral fund"
+    },
+    {
+      "from": "The Afghan corpora offer loss allocation in tenancy not commenda",
+      "to": "Invisible East - an open corpus for the eastern Islamicate documents"
+    },
+    {
+      "from": "The Afghan corpora offer loss allocation in tenancy not commenda",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "The Afghan corpora offer loss allocation in tenancy not commenda",
+      "to": "MOC - Risk-sharing vs risk-pricing"
+    },
+    {
+      "from": "The Afghan corpora offer loss allocation in tenancy not commenda",
+      "to": "Scott 1976 on the subsistence ethic as safety-first"
+    },
+    {
+      "from": "The Afghan corpora offer loss allocation in tenancy not commenda",
+      "to": "The Afghan corpora show partnership as traces because their archives are a landlord's and a granary's"
+    },
+    {
+      "from": "The Afghan corpora offer loss allocation in tenancy not commenda",
+      "to": "The amana-daman structure refuses to infer fault from loss"
+    },
+    {
+      "from": "The Afghan corpora show partnership as traces because their archives are a landlord's and a granary's",
+      "to": "Cairo Geniza - the deposit and its survival rule"
+    },
+    {
+      "from": "The Afghan corpora show partnership as traces because their archives are a landlord's and a granary's",
+      "to": "Invisible East - an open corpus for the eastern Islamicate documents"
+    },
+    {
+      "from": "The Afghan corpora show partnership as traces because their archives are a landlord's and a granary's",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "The Afghan corpora show partnership as traces because their archives are a landlord's and a granary's",
+      "to": "MOC - Historiography and method"
+    },
+    {
+      "from": "The Afghan corpora show partnership as traces because their archives are a landlord's and a granary's",
+      "to": "Old Uyghur contracts - the documentary layer under the ortoq"
+    },
+    {
+      "from": "The Afghan corpora show partnership as traces because their archives are a landlord's and a granary's",
+      "to": "Refusals are observations of the filter not inferences from survivors"
+    },
+    {
+      "from": "The Afghan corpora show partnership as traces because their archives are a landlord's and a granary's",
+      "to": "The Afghan corpora offer loss allocation in tenancy not commenda"
+    },
+    {
+      "from": "The Afghan corpora show partnership as traces because their archives are a landlord's and a granary's",
+      "to": "The Khalili Bactrian documents - a private collection as the archive"
+    },
+    {
+      "from": "The Afghan corpora show partnership as traces because their archives are a landlord's and a granary's",
+      "to": "The Silk Road record is documents and the census codes chronicles"
+    },
+    {
+      "from": "The Afghan corpora show partnership as traces because their archives are a landlord's and a granary's",
+      "to": "The deficit reading of absence is the scalar ranking in evidentiary form"
+    },
+    {
+      "from": "The Afghan corpora show partnership as traces because their archives are a landlord's and a granary's",
+      "to": "The ortoq is the discriminating instrument"
+    },
+    {
+      "from": "The Afghan corpora show partnership as traces because their archives are a landlord's and a granary's",
+      "to": "The record of non-survivors survives where failure was administered"
     },
     {
       "from": "The Anatolian court registers - museum to National Library to State Archives",

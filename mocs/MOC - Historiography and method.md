@@ -139,3 +139,7 @@ Where the sources for the European companies are and are not machine-readable is
 - [[Rubin 2009 on the interest ban as a curb on overborrowing under Church insurance]] — one author, two stories: origin by function, persistence by rulers' legitimacy
 - [[Temin and Voth 2008 test predictions Glaeser and Scheinkman did not make]] — a one-bank archive selected on the response it measures
 - [[Doctrine as survival technology literature]] — bibliographic companion
+
+## Added 2026-10-08 — the Islamic-East partnership check
+
+- [[The Afghan corpora show partnership as traces because their archives are a landlord's and a granary's]] — no partnership instrument in the Bamiyan, Firuzkuh or Bactrian corpora; a creditor's file and a granary's file predict the missing genres

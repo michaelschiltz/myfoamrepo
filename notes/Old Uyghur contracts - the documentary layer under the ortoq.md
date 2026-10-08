@@ -33,6 +33,7 @@ status: seed
 - [[The ortoq is the discriminating instrument]]
 - [[Berlin - the Turfan collection]]
 - [[Ryukoku University and the Otani collection]]
+- [[The Afghan corpora show partnership as traces because their archives are a landlord's and a granary's]]
 
 ## Source
 

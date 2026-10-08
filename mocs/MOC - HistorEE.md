@@ -260,3 +260,8 @@ Project hub for the book. Atomic notes hang off both this project MOC and a them
 - [[Hudson 2002 on clean slates as protection of the free population]]
 - [[Scott 1976 on the subsistence ethic as safety-first]]
 - [[Aktipis and Cronk on need-based transfers and herd survival]]
+
+## Notes — Islamic-East partnership check
+
+- [[The Afghan corpora show partnership as traces because their archives are a landlord's and a granary's]]
+- [[The Afghan corpora offer loss allocation in tenancy not commenda]]

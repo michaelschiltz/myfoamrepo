@@ -18,6 +18,13 @@ University of Oxford, **funded by the European Research Council under Horizon 20
 
 **And it is a second live ERC comparator**, beside [[DHARMA - an ERC Synergy project that produced a TEI corpus of inscriptions]]: a European grant producing an open documentary corpus in exactly the register HistorEE's digitisation strand describes.
 
+## Corpus and search — added 2026-10-08
+
+- **Size**: 1,298 texts at `invisible-east.org/corpus/`, about 515 with transcription or translation. ⚠️ Counts read through a summary.
+- **Typology**: Legal, Letter, List/table, Administrative, Literary, Paraliterary, Unknown; Legal has subtypes including sale, rent-hire, loan, debt, guarantee and **Partnership**. Transcribed New Persian Legal: Debt 24, Sale 20, Loan 5, Rent-hire 3, Partnership 1.
+- **Search by URL**: `invisible-east.org/corpus/?search=["term"]` (a JSON list), with `search_type` (general, exact, regex) and `search_operator` (or, and); subtype filter `filter_fk_document_subtype=N`, Partnership = 10. Searches metadata, summaries, transcriptions, translations and tags. Parameters read from the site's code at `github.com/invisibleeast/invisible-east-website` (`django/corpus/views.py`).
+- **Rate-limited** (HTTP 429): space the queries.
+
 ## Links
 
 - [[MOC - Silk Road archives]]
@@ -25,6 +32,7 @@ University of Oxford, **funded by the European Research Council under Horizon 20
 - [[The Khalili Bactrian documents - a private collection as the archive]]
 - [[DHARMA - an ERC Synergy project that produced a TEI corpus of inscriptions]]
 - [[MOC - ERC Synergy Grant]]
+- [[The Afghan corpora show partnership as traces because their archives are a landlord's and a granary's]]
 
 ## Source
 
