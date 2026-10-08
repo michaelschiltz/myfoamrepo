@@ -60,6 +60,7 @@ The differential prediction follows within a tradition rather than across them: 
 - [[Scuttling rewards fraud in the sea loan]]
 - [[The mudaraba is revocable not locked in]]
 - [[Outcome-coupling is the condition of legibility]]
+- [[The Bamiyan granary wrote the liability rule into the grain transfer]] — the *amānī*/*ḍamānī* pair as a clause in a Bamiyan grain note of 1219
 - [[MOC - Islamic contract doctrine]]
 - [[MOC - Risk-sharing vs risk-pricing]]
 - [[MOC - HistorEE]]

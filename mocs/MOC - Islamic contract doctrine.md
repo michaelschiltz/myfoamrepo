@@ -69,3 +69,7 @@ The *ribbit* material is filed here rather than in a separate hub, because its v
 
 - [[El-Gamal 2001 on gharar as a ban on trading risk that could be shared]] — *gharar* as a ban on dominated risk-trading by prospect-theoretic agents; nearest neighbour, behavioural not expected utility
 - [[Doctrine has been read as subsistence protection but never through the time average]] — where the Islamic literature sits in the cross-tradition picture
+
+## Added 2026-10-08 — the doctrine in the documents
+
+- [[The Bamiyan granary wrote the liability rule into the grain transfer]] — a Bamiyan grain note of 1219 taken *bi ḥukm-i ḍamānī*; tax officials liable for arrears; a tenant liable for any loss to the grain owed

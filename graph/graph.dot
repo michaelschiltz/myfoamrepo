@@ -406,6 +406,7 @@ digraph vault {
   "The Afghan corpora show partnership as traces because their archives are a landlord's and a granary's" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "The Anatolian court registers - museum to National Library to State Archives" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
   "The Antwerp phases separate on two cells and the boundary is textual" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
+  "The Bamiyan granary wrote the liability rule into the grain transfer" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "The Bank of England Archive" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
   "The Bazacle records - a custody problem" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
   "The Bodmerei shield was a default rule and Amsterdam contracted out of it" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
@@ -3049,6 +3050,7 @@ digraph vault {
   "MOC - HistorEE" -> "The Afghan corpora offer loss allocation in tenancy not commenda";
   "MOC - HistorEE" -> "The Afghan corpora show partnership as traces because their archives are a landlord's and a granary's";
   "MOC - HistorEE" -> "The Antwerp phases separate on two cells and the boundary is textual";
+  "MOC - HistorEE" -> "The Bamiyan granary wrote the liability rule into the grain transfer";
   "MOC - HistorEE" -> "The Kux carries transferability with unlimited liability";
   "MOC - HistorEE" -> "The Roman universitas makes the JSC case parallelism not convergence";
   "MOC - HistorEE" -> "The Wakker counterexample refutes expected log utility too";
@@ -3210,6 +3212,7 @@ digraph vault {
   "MOC - Islamic contract doctrine" -> "Scuttling rewards fraud in the sea loan";
   "MOC - Islamic contract doctrine" -> "Skin in the game is asymmetric in the mudaraba";
   "MOC - Islamic contract doctrine" -> "Taleb 2012 on antifragility - loci for the time-ensemble distinction";
+  "MOC - Islamic contract doctrine" -> "The Bamiyan granary wrote the liability rule into the grain transfer";
   "MOC - Islamic contract doctrine" -> "The commenda and the qirad do not separate on loss allocation";
   "MOC - Islamic contract doctrine" -> "The determinate-contingent typology carries the richness";
   "MOC - Islamic contract doctrine" -> "The heter iska restores the fixed return by evidentiary barrier";
@@ -4581,6 +4584,7 @@ digraph vault {
   "The Afghan corpora offer loss allocation in tenancy not commenda" -> "MOC - Risk-sharing vs risk-pricing";
   "The Afghan corpora offer loss allocation in tenancy not commenda" -> "Scott 1976 on the subsistence ethic as safety-first";
   "The Afghan corpora offer loss allocation in tenancy not commenda" -> "The Afghan corpora show partnership as traces because their archives are a landlord's and a granary's";
+  "The Afghan corpora offer loss allocation in tenancy not commenda" -> "The Bamiyan granary wrote the liability rule into the grain transfer";
   "The Afghan corpora offer loss allocation in tenancy not commenda" -> "The amana-daman structure refuses to infer fault from loss";
   "The Afghan corpora offer loss allocation in tenancy not commenda" -> "Uyghur leases were written either as a fixed rent or as a crop share";
   "The Afghan corpora show partnership as traces because their archives are a landlord's and a granary's" -> "Cairo Geniza - the deposit and its survival rule";
@@ -4611,6 +4615,12 @@ digraph vault {
   "The Antwerp phases separate on two cells and the boundary is textual" -> "The corporation is not the omega - the naties are an undisplaced niche";
   "The Antwerp phases separate on two cells and the boundary is textual" -> "The waqf and the nación flamenca diverge only at legal personality";
   "The Antwerp phases separate on two cells and the boundary is textual" -> "organizational_forms";
+  "The Bamiyan granary wrote the liability rule into the grain transfer" -> "Institutions substitute state-verification for outcome-inference as ruin exposure rises";
+  "The Bamiyan granary wrote the liability rule into the grain transfer" -> "MOC - HistorEE";
+  "The Bamiyan granary wrote the liability rule into the grain transfer" -> "MOC - Islamic contract doctrine";
+  "The Bamiyan granary wrote the liability rule into the grain transfer" -> "The Afghan corpora offer loss allocation in tenancy not commenda";
+  "The Bamiyan granary wrote the liability rule into the grain transfer" -> "The Afghan corpora show partnership as traces because their archives are a landlord's and a granary's";
+  "The Bamiyan granary wrote the liability rule into the grain transfer" -> "The amana-daman structure refuses to infer fault from loss";
   "The Bank of England Archive" -> "Casa di San Giorgio - the Genoese public debt archive";
   "The Bank of England Archive" -> "Fuggerarchiv - Dillingen";
   "The Bank of England Archive" -> "Le Bris Goetzmann Pouget 2023 on convergent evolution toward the joint-stock company";
@@ -4838,6 +4848,7 @@ digraph vault {
   "The amana-daman structure refuses to infer fault from loss" -> "Outcome-coupling is the condition of legibility";
   "The amana-daman structure refuses to infer fault from loss" -> "Scuttling rewards fraud in the sea loan";
   "The amana-daman structure refuses to infer fault from loss" -> "Skin in the game is asymmetric in the mudaraba";
+  "The amana-daman structure refuses to infer fault from loss" -> "The Bamiyan granary wrote the liability rule into the grain transfer";
   "The amana-daman structure refuses to infer fault from loss" -> "The mudaraba is revocable not locked in";
   "The amirautes - a series across the coastal departments" -> "Archives nationales - Paris and Pierrefitte";
   "The amirautes - a series across the coastal departments" -> "Averijgrossen - the general average adjudications";

@@ -266,3 +266,4 @@ Project hub for the book. Atomic notes hang off both this project MOC and a them
 - [[The Afghan corpora show partnership as traces because their archives are a landlord's and a granary's]]
 - [[The Afghan corpora offer loss allocation in tenancy not commenda]]
 - [[Uyghur leases were written either as a fixed rent or as a crop share]]
+- [[The Bamiyan granary wrote the liability rule into the grain transfer]]
