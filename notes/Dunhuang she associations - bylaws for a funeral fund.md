@@ -42,7 +42,31 @@ Manuscripts at the British Library, the BnF, the National Library of China and t
 
 **The Japanese edition with plates**: Yamamoto Tatsurō, Dohi Yoshikazu and Ishida [given name to confirm] (eds), *Tun-huang and Turfan Documents concerning Social and Economic History*, IV: *She Associations and Related Documents*, (A) Introduction & Texts (1989), (B) Plates (1988) (Tokyo: Toyo Bunko). CiNii BA00735066. ⚠️ Not held; on the acquisitions list with vol. III, *Contracts* (added 2026-10-08).
 
-**Corpus size, established 12 September 2026**: Teiser puts the essential data at **422 manuscripts from Dunhuang and Turfan** containing documents on the workings of lay associations; **Ning and Hao's compilation collects 345**, and a 2019 update adds a further 77. ⚠️ From Teiser's footnote, read through a summary; the compilation itself has not been seen. English-language treatments: Teiser 2020 on the women's bylaws, Hao Chunwen 2021 in *Hualin International Journal of Buddhist Studies* 4.2.
+**Corpus size, established 12 September 2026**: Teiser puts the essential data at **422 manuscripts from Dunhuang and Turfan** containing documents on the workings of lay associations; **Ning and Hao's compilation collects 345**, and a 2019 update adds a further 77. Teiser's figure is confirmed by the compilation's own preface: see the next section. English-language treatments: Teiser 2020 on the women's bylaws, Hao Chunwen 2021 in *Hualin International Journal of Buddhist Studies* 4.2.
+
+## The corpus as edited — Ning and Hao 1997, read 2026-10-08
+
+**The PDF is held** (Zotero attachment `V5XHQ7EY`; 960 pp., image-only, no text layer). Counts from the editors' preface (前言, pp. 7–21), read from the page images; the five category totals sum to the stated 343 and the duplicates to the stated 53.
+
+- **Found 396 Dunhuang documents, of which 53 are duplicates or identical in content and serve only for collation; 343 transcribed, plus 2 Turfan bylaws appended = 345** (p. 7). ⚠️ St Petersburg holdings only partly covered: four circulars included, the rest deferred.
+- **Two registers throughout**: practical documents (實用文書) against models (文樣), drafts (稿) and copies (抄), including students' exercises (學郎). The count of a type is not the count of associations that used it.
+- **社條 bylaws**: 20 found, 18 transcribed, + 2 Turfan. **Only 10 are practical documents**; 6 are models, 1 a copy, 1 a student's imitation (p. 9).
+- **社司轉帖 circulars**: 218 found, 193 transcribed, **only some sixty practical**, many unfinished copies (p. 12). By occasion (pp. 13–14):
+  - **身亡轉帖, death circulars: 31** — the editors call funerary mutual aid "the most important activity" of the late-Tang to early-Song associations;
+  - **春座 / 秋座 / 座社 banquet circulars: 61** — the largest group;
+  - 建福 / 設齋 / 設供 Buddhist-service circulars: 23;
+  - 少事商量 meetings: 15 found; 再限納物 second demands for contributions: 6 found;
+  - **渠社 / 渠人 irrigation-association circulars: 35** — corvée on dykes and channels, two of them unrelated to any *she*;
+  - occasion unclear: 22.
+- **社曆 registers: 43, nearly all practical** (pp. 15–16):
+  - **身故納贈曆, contribution registers at a death: 29** — what each member actually brought, in cakes, millet, oil, firewood, cloth;
+  - 社司納贈曆 (e.g. S. 3978): contributions levied by official order, not by the association's own rule, and kept apart by the editors;
+  - **社司便物曆, loan registers of the association's office: 9, of which 6 are members borrowing flour, oil, millet, wheat and hemp from the common stock called 義聚**;
+  - a fines register (社司罰物曆), two expenditure registers (破曆), one members' contributions list.
+- **社文 liturgical texts: 93 found, 68 transcribed**, eight kinds (社日相迎書, 社齋文, 印沙佛文, 燃燈文, 功德記, 祭文 …).
+- **社狀牒 petitions and notices: 22 found, 21 transcribed** — joining and leaving, and other business with the office.
+
+**For the census, stated and not applied.** The pooling evidence is a minority of the corpus by count: 31 death circulars and 29 contribution registers against 61 banquet and 23 Buddhist-service circulars and 68 liturgical texts. **The contribution registers record realised transfers per death, not promised ones**, and the loan registers show **a common stock lent to members** — a reserve, not only a pay-as-you-go levy. Coding has to be by document and by bylaw, never by the label 社.
 
 ## Links
 
@@ -53,4 +77,4 @@ Manuscripts at the British Library, the BnF, the National Library of China and t
 
 ## Source
 
-Silk Road archives survey, 12 September 2026. Stephen F. Teiser, "Terms of Friendship: Bylaws for Associations of Buddhist Laywomen in Medieval China", *Dunhuang Studies* (2020), 154–172, read through a summary of the PDF; the EFEO "Local Primary Sources from Late Imperial China" page on Dunhuang *she* documents (Galambos); Hao Chunwen 2021 (DOI 10.15239/hijbs.04.02.02), read through a summary. **No manuscript and no edition consulted.**
+Silk Road archives survey, 12 September 2026. Stephen F. Teiser, "Terms of Friendship: Bylaws for Associations of Buddhist Laywomen in Medieval China", *Dunhuang Studies* (2020), 154–172, read through a summary of the PDF; the EFEO "Local Primary Sources from Late Imperial China" page on Dunhuang *she* documents (Galambos); Hao Chunwen 2021 (DOI 10.15239/hijbs.04.02.02), read through a summary. **No manuscript consulted.** Added 8 October 2026: Ning and Hao 1997, preface pp. 7–21, read from page images.
