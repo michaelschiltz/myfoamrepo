@@ -521,6 +521,7 @@ digraph vault {
   "Tung Wah Coffin Home Archives - Hong Kong" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
   "Typology and character coding literature" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
   "Unilateral and bilateral commenda collapse on profit and separate on loss" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
+  "Uyghur leases were written either as a fixed rent or as a crop share" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "VOC digital corpus - what is online and on what terms" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
   "VOCdata.nl - Pepping's finding list of VOC datasets and tools" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
   "Vakiflar Genel Mudurlugu Arsivi - Ankara" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
@@ -3100,6 +3101,7 @@ digraph vault {
   "MOC - HistorEE" -> "Transmission versus independent recurrence is the load-bearing test";
   "MOC - HistorEE" -> "Typology and character coding literature";
   "MOC - HistorEE" -> "Unilateral and bilateral commenda collapse on profit and separate on loss";
+  "MOC - HistorEE" -> "Uyghur leases were written either as a fixed rent or as a crop share";
   "MOC - HistorEE" -> "Van Dam's Beschryvinge - the VOC described by its own advocaat";
   "MOC - HistorEE" -> "Which peril gets a clause is set by the tradition's doctrinal problem";
   "MOC - HistorEE" -> "Whiggish history of finance names the ascent narrative";
@@ -3415,6 +3417,7 @@ digraph vault {
   "MOC - Risk-sharing vs risk-pricing" -> "The tontine is pooling in form and dispersal in function";
   "MOC - Risk-sharing vs risk-pricing" -> "The tontine's chronology defeats the hazard-to-pricing staging";
   "MOC - Risk-sharing vs risk-pricing" -> "Unilateral and bilateral commenda collapse on profit and separate on loss";
+  "MOC - Risk-sharing vs risk-pricing" -> "Uyghur leases were written either as a fixed rent or as a crop share";
   "MOC - Risk-sharing vs risk-pricing" -> "Warichi and general average spread the incidence of an irreversible loss";
   "MOC - Risk-sharing vs risk-pricing" -> "Warichi re-randomises after absorption rather than diversifying";
   "MOC - Risk-sharing vs risk-pricing" -> "Which peril gets a clause is set by the tradition's doctrinal problem";
@@ -3750,6 +3753,7 @@ digraph vault {
   "Old Uyghur contracts - the documentary layer under the ortoq" -> "The Silk Road layer 3 is a national editorial programme";
   "Old Uyghur contracts - the documentary layer under the ortoq" -> "The Silk Road record is documents and the census codes chronicles";
   "Old Uyghur contracts - the documentary layer under the ortoq" -> "The ortoq is the discriminating instrument";
+  "Old Uyghur contracts - the documentary layer under the ortoq" -> "Uyghur leases were written either as a fixed rent or as a crop share";
   "Olivares's junta coded the asiento as a privileged company" -> "Guard against reverse-teleology";
   "Olivares's junta coded the asiento as a privileged company" -> "Hierro Anibarro 2005 on the asiento de averia and the privileged company";
   "Olivares's junta coded the asiento as a privileged company" -> "MOC - ERC Synergy Grant";
@@ -4578,6 +4582,7 @@ digraph vault {
   "The Afghan corpora offer loss allocation in tenancy not commenda" -> "Scott 1976 on the subsistence ethic as safety-first";
   "The Afghan corpora offer loss allocation in tenancy not commenda" -> "The Afghan corpora show partnership as traces because their archives are a landlord's and a granary's";
   "The Afghan corpora offer loss allocation in tenancy not commenda" -> "The amana-daman structure refuses to infer fault from loss";
+  "The Afghan corpora offer loss allocation in tenancy not commenda" -> "Uyghur leases were written either as a fixed rent or as a crop share";
   "The Afghan corpora show partnership as traces because their archives are a landlord's and a granary's" -> "Cairo Geniza - the deposit and its survival rule";
   "The Afghan corpora show partnership as traces because their archives are a landlord's and a granary's" -> "Invisible East - an open corpus for the eastern Islamicate documents";
   "The Afghan corpora show partnership as traces because their archives are a landlord's and a granary's" -> "MOC - HistorEE";
@@ -5568,6 +5573,14 @@ digraph vault {
   "Unilateral and bilateral commenda collapse on profit and separate on loss" -> "Which peril gets a clause is set by the tradition's doctrinal problem";
   "Unilateral and bilateral commenda collapse on profit and separate on loss" -> "commenda";
   "Unilateral and bilateral commenda collapse on profit and separate on loss" -> "loss_mitigation_forms";
+  "Uyghur leases were written either as a fixed rent or as a crop share" -> "Berlin - the Turfan collection";
+  "Uyghur leases were written either as a fixed rent or as a crop share" -> "Count degrees of freedom not cells";
+  "Uyghur leases were written either as a fixed rent or as a crop share" -> "MOC - HistorEE";
+  "Uyghur leases were written either as a fixed rent or as a crop share" -> "MOC - Risk-sharing vs risk-pricing";
+  "Uyghur leases were written either as a fixed rent or as a crop share" -> "Old Uyghur contracts - the documentary layer under the ortoq";
+  "Uyghur leases were written either as a fixed rent or as a crop share" -> "Scott 1976 on the subsistence ethic as safety-first";
+  "Uyghur leases were written either as a fixed rent or as a crop share" -> "The Afghan corpora offer loss allocation in tenancy not commenda";
+  "Uyghur leases were written either as a fixed rent or as a crop share" -> "The Afghan corpora show partnership as traces because their archives are a landlord's and a granary's";
   "VOC digital corpus - what is online and on what terms" -> "EIC digital corpus - what is online and on what terms";
   "VOC digital corpus - what is online and on what terms" -> "GLOBALISE removes the HTR question for the VOC and leaves it standing for the EIC";
   "VOC digital corpus - what is online and on what terms" -> "MOC - Digitisation and text recognition";

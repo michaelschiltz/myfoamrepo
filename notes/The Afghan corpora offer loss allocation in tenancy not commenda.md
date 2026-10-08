@@ -32,7 +32,7 @@ status: seed
 ## Parallels already in hand
 
 - **Tang Turfan loan contracts** carry a standard clause putting repayment on wife, children and guarantors if the borrower dies or absconds — a written default rule. ⚠️ Uyghur parallels to be checked in SUK.
-- **Old Uyghur leases**: P. Zieme, "Uigurische Pachtdokumente", *Altorientalische Forschungen* 7 (1980): 197–245. ⚠️ Not in Zotero; not read.
+- **Old Uyghur leases**: Zieme 1980 edits thirteen Turfan leases of the fourteenth century, written either as a fixed rent (*yaqa*) or as a 1:1 crop share (*anuq*), with tax incidence in a separate clause — [[Uyghur leases were written either as a fixed rent or as a crop share]].
 - **The mutual pole**: [[Dunhuang she associations - bylaws for a funeral fund]].
 
 ## For the grant, stated and not applied
@@ -49,6 +49,7 @@ status: seed
 - [[The amana-daman structure refuses to infer fault from loss]]
 - [[Scott 1976 on the subsistence ethic as safety-first]]
 - [[Invisible East - an open corpus for the eastern Islamicate documents]]
+- [[Uyghur leases were written either as a fixed rent or as a crop share]]
 
 ## Source
 

@@ -34,6 +34,7 @@ status: seed
 - [[Berlin - the Turfan collection]]
 - [[Ryukoku University and the Otani collection]]
 - [[The Afghan corpora show partnership as traces because their archives are a landlord's and a granary's]]
+- [[Uyghur leases were written either as a fixed rent or as a crop share]]
 
 ## Source
 

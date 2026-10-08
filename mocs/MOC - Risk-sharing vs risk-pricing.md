@@ -122,3 +122,4 @@ Thematic hub for the instrument axis: risk-*sharing* forms that keep every party
 ## Added 2026-10-08 — the Islamic-East partnership check
 
 - [[The Afghan corpora offer loss allocation in tenancy not commenda]] — crop-share tenancy, an agent's transport loss and a tax shortfall: the incidence of loss, not a *commenda*
+- [[Uyghur leases were written either as a fixed rent or as a crop share]] — Zieme's thirteen Turfan leases: *yaqa* fixes the rent, *anuq* divides the harvest; tax incidence written separately
