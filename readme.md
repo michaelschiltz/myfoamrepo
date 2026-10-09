@@ -32,7 +32,7 @@ One knowledge base that behaves like the rest of the project: versioned, attribu
 
 ## Organisation and conventions
 
-`notes/` holds atomic notes, one claim each; `mocs/` holds the hub notes; `tags.md` is the controlled vocabulary; `glossary.md` explains the abbreviations and the frontmatter schema; `scripts/` holds the validator and the graph exporter; `graph/` holds generated output. The full house rules — the note model, the frontmatter schema, the tagging discipline, the voice — live in `CLAUDE.md` and govern any writing in this repository. Read that before adding notes.
+`notes/` holds atomic notes, one claim each; `mocs/` holds the hub notes; `tags.md` is the controlled vocabulary; `glossary.md` explains the abbreviations and the frontmatter schema; `scripts/` holds the validator and the graph exporter; `graph/` holds generated output. The full house rules — the note model, the frontmatter schema, the tagging discipline, the voice — live in `CLAUDE.md` and govern any writing in this repository. Read that before adding notes. A newcomer's manual covering both this vault and the codebooks, and how coding sessions bind them, lives in the sibling repository as [`ONBOARDING.md`](https://github.com/michaelschiltz/HistorEE_codebooks/blob/main/ONBOARDING.md).
 
 ## The knowledge graph
 
