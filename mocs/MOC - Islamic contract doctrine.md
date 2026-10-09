@@ -73,3 +73,8 @@ The *ribbit* material is filed here rather than in a separate hub, because its v
 ## Added 2026-10-08 — the doctrine in the documents
 
 - [[The Bamiyan granary wrote the liability rule into the grain transfer]] — a Bamiyan grain note of 1219 taken *bi ḥukm-i ḍamānī*; tax officials liable for arrears; a tenant liable for any loss to the grain owed
+
+## Added 2026-10-09 — the commenda family read against fiqh and halakha
+
+- [[The commenda family fixes the allocation of loss and varies its proof]] — the *Consolat*'s sworn account beside *laysa ʿalā al-amīn illā al-yamīn*; a candidate `VF1` value for `qirad_alloc`
+- [[The comanda ad societatem shares the isqa's allocation but not its construction]] — the agent-exposed regime gains a western instance

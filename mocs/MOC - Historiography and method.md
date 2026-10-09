@@ -143,3 +143,9 @@ Where the sources for the European companies are and are not machine-readable is
 ## Added 2026-10-08 — the Islamic-East partnership check
 
 - [[The Afghan corpora show partnership as traces because their archives are a landlord's and a granary's]] — no partnership instrument in the Bamiyan, Firuzkuh or Bactrian corpora; a creditor's file and a granary's file predict the missing genres
+
+## Added 2026-10-09 — reading the record back
+
+- [[A difference between coded forms is a difference of evidence, vocabulary or form]] — sort every cross-form contrast before reporting it; state the footing (source layer, rater, non-independence) first
+- [[Retrieval report workflow - reading the codebooks and the vault back as evidence]] — the exercise, its procedure, and its first run on the comanda
+- [[Genoese notaries drafted the commenda as equity and Catalan notaries as credit]] — a drafting boundary as a transmission question

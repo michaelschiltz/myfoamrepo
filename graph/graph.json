@@ -46,6 +46,15 @@
       "shape": "dot"
     },
     {
+      "id": "A difference between coded forms is a difference of evidence, vocabulary or form",
+      "type": "permanent",
+      "group": "seed",
+      "label": "A difference between coded forms is a difference of evidence, vocabulary or form",
+      "value": 18,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
       "id": "A fair wager lowers both trajectories which maysir forbids and skin in the game permits",
       "type": "permanent",
       "group": "seed",
@@ -167,7 +176,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Absorbing barrier",
-      "value": 60,
+      "value": 61,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -205,6 +214,15 @@
       "label": "Acta Turcarum - the Ottoman series at Dubrovnik",
       "value": 20,
       "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "Agent-borne capital loss clusters in local contracts",
+      "type": "permanent",
+      "group": "seed",
+      "label": "Agent-borne capital loss clusters in local contracts",
+      "value": 15,
+      "color": "#e6ab02",
       "shape": "dot"
     },
     {
@@ -766,11 +784,20 @@
       "shape": "dot"
     },
     {
+      "id": "Bilateral names two different loss rules in Genoa and Catalonia",
+      "type": "permanent",
+      "group": "seed",
+      "label": "Bilateral names two different loss rules in Genoa and Catalonia",
+      "value": 19,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
       "id": "Blind re-coding workflow - operator, coder, application",
       "type": "reference",
       "group": "reference",
       "label": "Blind re-coding workflow - operator, coder, application",
-      "value": 16,
+      "value": 17,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1004,7 +1031,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Comanda capital was kept apart unless the contract said otherwise",
-      "value": 7,
+      "value": 8,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1013,7 +1040,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Comanda names several contracts in the Catalan sources",
-      "value": 14,
+      "value": 16,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1040,7 +1067,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Count degrees of freedom not cells",
-      "value": 56,
+      "value": 58,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1175,7 +1202,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Divergent arbitrary particulars are the independence diagnostic",
-      "value": 58,
+      "value": 60,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1603,6 +1630,15 @@
       "shape": "dot"
     },
     {
+      "id": "Genoese notaries drafted the commenda as equity and Catalan notaries as credit",
+      "type": "permanent",
+      "group": "seed",
+      "label": "Genoese notaries drafted the commenda as equity and Catalan notaries as credit",
+      "value": 16,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
       "id": "German archives online - the federal access layers",
       "type": "reference",
       "group": "reference",
@@ -1769,7 +1805,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Hold the rater fixed and vary the evidence",
-      "value": 25,
+      "value": 26,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1778,7 +1814,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Homoplasy is the finding not the noise",
-      "value": 68,
+      "value": 69,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1904,7 +1940,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Institutions substitute state-verification for outcome-inference as ruin exposure rises",
-      "value": 25,
+      "value": 27,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1940,7 +1976,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Isqa qirad and commenda are a liability-variable triad",
-      "value": 33,
+      "value": 34,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -2408,7 +2444,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Natie is a false cognate",
-      "value": 24,
+      "value": 25,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -2786,7 +2822,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Primary against secondary coding workflow - three arms, reveal, application",
-      "value": 21,
+      "value": 24,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -2840,7 +2876,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Ragusan collegantia is unilateral and Venetian collegantia is bilateral",
-      "value": 26,
+      "value": 28,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -2932,6 +2968,15 @@
       "label": "Restate the cost puzzle as a question about a trajectory",
       "value": 29,
       "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "Retrieval report workflow - reading the codebooks and the vault back as evidence",
+      "type": "reference",
+      "group": "reference",
+      "label": "Retrieval report workflow - reading the codebooks and the vault back as evidence",
+      "value": 16,
+      "color": "#66a61e",
       "shape": "dot"
     },
     {
@@ -3173,7 +3218,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Skin in the game is asymmetric in the mudaraba",
-      "value": 33,
+      "value": 34,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -3704,7 +3749,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The Catalan maritime comanda puts the whole capital loss on the investor",
-      "value": 15,
+      "value": 16,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -3929,7 +3974,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The amana-daman structure refuses to infer fault from loss",
-      "value": 29,
+      "value": 31,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -4010,7 +4055,16 @@
       "type": "permanent",
       "group": "seed",
       "label": "The comanda ad societatem shares losses in the proportion of profits",
-      "value": 14,
+      "value": 17,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "The comanda ad societatem shares the isqa's allocation but not its construction",
+      "type": "permanent",
+      "group": "seed",
+      "label": "The comanda ad societatem shares the isqa's allocation but not its construction",
+      "value": 20,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -4019,7 +4073,16 @@
       "type": "permanent",
       "group": "seed",
       "label": "The commenda and the qirad do not separate on loss allocation",
-      "value": 31,
+      "value": 32,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "The commenda family fixes the allocation of loss and varies its proof",
+      "type": "permanent",
+      "group": "seed",
+      "label": "The commenda family fixes the allocation of loss and varies its proof",
+      "value": 19,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -4163,7 +4226,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The heter iska restores the fixed return by evidentiary barrier",
-      "value": 24,
+      "value": 25,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -4190,7 +4253,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The isqa refuses the agent's shield",
-      "value": 36,
+      "value": 37,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -4226,7 +4289,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The land comanda gave way to the censal after 1348",
-      "value": 8,
+      "value": 9,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -4658,7 +4721,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Transmission versus independent recurrence is the load-bearing test",
-      "value": 51,
+      "value": 52,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -4676,7 +4739,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Typology and character coding literature",
-      "value": 24,
+      "value": 25,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -4685,7 +4748,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Unilateral and bilateral commenda collapse on profit and separate on loss",
-      "value": 22,
+      "value": 24,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -4784,7 +4847,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Which peril gets a clause is set by the tradition's doctrinal problem",
-      "value": 22,
+      "value": 23,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -4838,7 +4901,7 @@
       "type": "permanent",
       "group": "stub",
       "label": "commenda",
-      "value": 18,
+      "value": 23,
       "color": "#666666",
       "shape": "dot"
     },
@@ -4847,7 +4910,7 @@
       "type": "permanent",
       "group": "stub",
       "label": "isqa",
-      "value": 26,
+      "value": 27,
       "color": "#666666",
       "shape": "dot"
     },
@@ -5000,7 +5063,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - HistorEE",
-      "value": 422,
+      "value": 436,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -5009,7 +5072,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Historiography and method",
-      "value": 209,
+      "value": 215,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -5018,7 +5081,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Islamic contract doctrine",
-      "value": 60,
+      "value": 64,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -5072,7 +5135,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Risk-sharing vs risk-pricing",
-      "value": 179,
+      "value": 189,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -5126,7 +5189,7 @@
       "type": "database",
       "group": "database",
       "label": "organizational_forms",
-      "value": 26,
+      "value": 31,
       "color": "#a6761d",
       "shape": "database"
     },
@@ -5135,7 +5198,7 @@
       "type": "database",
       "group": "database",
       "label": "loss_mitigation_forms",
-      "value": 42,
+      "value": 49,
       "color": "#a6761d",
       "shape": "database"
     },
@@ -5325,6 +5388,54 @@
     {
       "from": "A contingency clause priced at zero is evidence for a time-average criterion",
       "to": "loss_mitigation_forms"
+    },
+    {
+      "from": "A difference between coded forms is a difference of evidence, vocabulary or form",
+      "to": "Comanda capital was kept apart unless the contract said otherwise"
+    },
+    {
+      "from": "A difference between coded forms is a difference of evidence, vocabulary or form",
+      "to": "Count degrees of freedom not cells"
+    },
+    {
+      "from": "A difference between coded forms is a difference of evidence, vocabulary or form",
+      "to": "Genoese notaries drafted the commenda as equity and Catalan notaries as credit"
+    },
+    {
+      "from": "A difference between coded forms is a difference of evidence, vocabulary or form",
+      "to": "Hold the rater fixed and vary the evidence"
+    },
+    {
+      "from": "A difference between coded forms is a difference of evidence, vocabulary or form",
+      "to": "Homoplasy is the finding not the noise"
+    },
+    {
+      "from": "A difference between coded forms is a difference of evidence, vocabulary or form",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "A difference between coded forms is a difference of evidence, vocabulary or form",
+      "to": "MOC - Historiography and method"
+    },
+    {
+      "from": "A difference between coded forms is a difference of evidence, vocabulary or form",
+      "to": "Retrieval report workflow - reading the codebooks and the vault back as evidence"
+    },
+    {
+      "from": "A difference between coded forms is a difference of evidence, vocabulary or form",
+      "to": "Typology and character coding literature"
+    },
+    {
+      "from": "A difference between coded forms is a difference of evidence, vocabulary or form",
+      "to": "Unilateral and bilateral commenda collapse on profit and separate on loss"
+    },
+    {
+      "from": "A difference between coded forms is a difference of evidence, vocabulary or form",
+      "to": "loss_mitigation_forms"
+    },
+    {
+      "from": "A difference between coded forms is a difference of evidence, vocabulary or form",
+      "to": "organizational_forms"
     },
     {
       "from": "A fair wager lowers both trajectories which maysir forbids and skin in the game permits",
@@ -6061,6 +6172,50 @@
     {
       "from": "Acta Turcarum - the Ottoman series at Dubrovnik",
       "to": "The Ragusan chancery and notarial series"
+    },
+    {
+      "from": "Agent-borne capital loss clusters in local contracts",
+      "to": "Absorbing barrier"
+    },
+    {
+      "from": "Agent-borne capital loss clusters in local contracts",
+      "to": "Bilateral names two different loss rules in Genoa and Catalonia"
+    },
+    {
+      "from": "Agent-borne capital loss clusters in local contracts",
+      "to": "Institutions substitute state-verification for outcome-inference as ruin exposure rises"
+    },
+    {
+      "from": "Agent-borne capital loss clusters in local contracts",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Agent-borne capital loss clusters in local contracts",
+      "to": "MOC - Risk-sharing vs risk-pricing"
+    },
+    {
+      "from": "Agent-borne capital loss clusters in local contracts",
+      "to": "The amana-daman structure refuses to infer fault from loss"
+    },
+    {
+      "from": "Agent-borne capital loss clusters in local contracts",
+      "to": "The comanda ad societatem shares losses in the proportion of profits"
+    },
+    {
+      "from": "Agent-borne capital loss clusters in local contracts",
+      "to": "The land comanda gave way to the censal after 1348"
+    },
+    {
+      "from": "Agent-borne capital loss clusters in local contracts",
+      "to": "commenda"
+    },
+    {
+      "from": "Agent-borne capital loss clusters in local contracts",
+      "to": "loss_mitigation_forms"
+    },
+    {
+      "from": "Agent-borne capital loss clusters in local contracts",
+      "to": "organizational_forms"
     },
     {
       "from": "Aktipis and Cronk on need-based transfers and herd survival",
@@ -7661,6 +7816,58 @@
     {
       "from": "Berlin - the Turfan collection",
       "to": "SilkRoadLanguageWeb - Leiden ERC dating the Indo-European entries into the Tarim Basin"
+    },
+    {
+      "from": "Bilateral names two different loss rules in Genoa and Catalonia",
+      "to": "A difference between coded forms is a difference of evidence, vocabulary or form"
+    },
+    {
+      "from": "Bilateral names two different loss rules in Genoa and Catalonia",
+      "to": "Comanda names several contracts in the Catalan sources"
+    },
+    {
+      "from": "Bilateral names two different loss rules in Genoa and Catalonia",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Bilateral names two different loss rules in Genoa and Catalonia",
+      "to": "MOC - Risk-sharing vs risk-pricing"
+    },
+    {
+      "from": "Bilateral names two different loss rules in Genoa and Catalonia",
+      "to": "Natie is a false cognate"
+    },
+    {
+      "from": "Bilateral names two different loss rules in Genoa and Catalonia",
+      "to": "Primary against secondary coding workflow - three arms, reveal, application"
+    },
+    {
+      "from": "Bilateral names two different loss rules in Genoa and Catalonia",
+      "to": "Ragusan collegantia is unilateral and Venetian collegantia is bilateral"
+    },
+    {
+      "from": "Bilateral names two different loss rules in Genoa and Catalonia",
+      "to": "The comanda ad societatem shares losses in the proportion of profits"
+    },
+    {
+      "from": "Bilateral names two different loss rules in Genoa and Catalonia",
+      "to": "The comanda ad societatem shares the isqa's allocation but not its construction"
+    },
+    {
+      "from": "Bilateral names two different loss rules in Genoa and Catalonia",
+      "to": "Unilateral and bilateral commenda collapse on profit and separate on loss"
+    },
+    {
+      "from": "Bilateral names two different loss rules in Genoa and Catalonia",
+      "to": "commenda"
+    },
+    {
+      "from": "Bilateral names two different loss rules in Genoa and Catalonia",
+      "to": "loss_mitigation_forms"
+    },
+    {
+      "from": "Bilateral names two different loss rules in Genoa and Catalonia",
+      "to": "organizational_forms"
     },
     {
       "from": "Blind re-coding workflow - operator, coder, application",
@@ -10653,6 +10860,46 @@
     {
       "from": "Geniza partnership documents - where the census's isqa and qirad evidence sits",
       "to": "The isqa refuses the agent's shield"
+    },
+    {
+      "from": "Genoese notaries drafted the commenda as equity and Catalan notaries as credit",
+      "to": "A difference between coded forms is a difference of evidence, vocabulary or form"
+    },
+    {
+      "from": "Genoese notaries drafted the commenda as equity and Catalan notaries as credit",
+      "to": "Comanda names several contracts in the Catalan sources"
+    },
+    {
+      "from": "Genoese notaries drafted the commenda as equity and Catalan notaries as credit",
+      "to": "Divergent arbitrary particulars are the independence diagnostic"
+    },
+    {
+      "from": "Genoese notaries drafted the commenda as equity and Catalan notaries as credit",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Genoese notaries drafted the commenda as equity and Catalan notaries as credit",
+      "to": "MOC - Historiography and method"
+    },
+    {
+      "from": "Genoese notaries drafted the commenda as equity and Catalan notaries as credit",
+      "to": "MOC - Risk-sharing vs risk-pricing"
+    },
+    {
+      "from": "Genoese notaries drafted the commenda as equity and Catalan notaries as credit",
+      "to": "Primary against secondary coding workflow - three arms, reveal, application"
+    },
+    {
+      "from": "Genoese notaries drafted the commenda as equity and Catalan notaries as credit",
+      "to": "The commenda family fixes the allocation of loss and varies its proof"
+    },
+    {
+      "from": "Genoese notaries drafted the commenda as equity and Catalan notaries as credit",
+      "to": "commenda"
+    },
+    {
+      "from": "Genoese notaries drafted the commenda as equity and Catalan notaries as credit",
+      "to": "loss_mitigation_forms"
     },
     {
       "from": "German archives online - the federal access layers",
@@ -14660,6 +14907,10 @@
     },
     {
       "from": "MOC - HistorEE",
+      "to": "A difference between coded forms is a difference of evidence, vocabulary or form"
+    },
+    {
+      "from": "MOC - HistorEE",
       "to": "A fair wager lowers both trajectories which maysir forbids and skin in the game permits"
     },
     {
@@ -14700,6 +14951,10 @@
     },
     {
       "from": "MOC - HistorEE",
+      "to": "Agent-borne capital loss clusters in local contracts"
+    },
+    {
+      "from": "MOC - HistorEE",
       "to": "Aktipis and Cronk on need-based transfers and herd survival"
     },
     {
@@ -14725,6 +14980,10 @@
     {
       "from": "MOC - HistorEE",
       "to": "Bad luck is what the ensemble average calls the modal trajectory"
+    },
+    {
+      "from": "MOC - HistorEE",
+      "to": "Bilateral names two different loss rules in Genoa and Catalonia"
     },
     {
       "from": "MOC - HistorEE",
@@ -14821,6 +15080,10 @@
     {
       "from": "MOC - HistorEE",
       "to": "Galton-Watson is the extinction branch Peters named and did not develop"
+    },
+    {
+      "from": "MOC - HistorEE",
+      "to": "Genoese notaries drafted the commenda as equity and Catalan notaries as credit"
     },
     {
       "from": "MOC - HistorEE",
@@ -14972,6 +15235,10 @@
     },
     {
       "from": "MOC - HistorEE",
+      "to": "Retrieval report workflow - reading the codebooks and the vault back as evidence"
+    },
+    {
+      "from": "MOC - HistorEE",
       "to": "Retrodiction fails on non-invertibility not on induction"
     },
     {
@@ -15096,7 +15363,15 @@
     },
     {
       "from": "MOC - HistorEE",
+      "to": "The comanda ad societatem shares the isqa's allocation but not its construction"
+    },
+    {
+      "from": "MOC - HistorEE",
       "to": "The commenda and the qirad do not separate on loss allocation"
+    },
+    {
+      "from": "MOC - HistorEE",
+      "to": "The commenda family fixes the allocation of loss and varies its proof"
     },
     {
       "from": "MOC - HistorEE",
@@ -15304,6 +15579,10 @@
     },
     {
       "from": "MOC - Historiography and method",
+      "to": "A difference between coded forms is a difference of evidence, vocabulary or form"
+    },
+    {
+      "from": "MOC - Historiography and method",
       "to": "A migrated institution collects local names not local forms"
     },
     {
@@ -15404,6 +15683,10 @@
     },
     {
       "from": "MOC - Historiography and method",
+      "to": "Genoese notaries drafted the commenda as equity and Catalan notaries as credit"
+    },
+    {
+      "from": "MOC - Historiography and method",
       "to": "Guard against reverse-teleology"
     },
     {
@@ -15489,6 +15772,10 @@
     {
       "from": "MOC - Historiography and method",
       "to": "Restate the cost puzzle as a question about a trajectory"
+    },
+    {
+      "from": "MOC - Historiography and method",
+      "to": "Retrieval report workflow - reading the codebooks and the vault back as evidence"
     },
     {
       "from": "MOC - Historiography and method",
@@ -15712,7 +15999,15 @@
     },
     {
       "from": "MOC - Islamic contract doctrine",
+      "to": "The comanda ad societatem shares the isqa's allocation but not its construction"
+    },
+    {
+      "from": "MOC - Islamic contract doctrine",
       "to": "The commenda and the qirad do not separate on loss allocation"
+    },
+    {
+      "from": "MOC - Islamic contract doctrine",
+      "to": "The commenda family fixes the allocation of loss and varies its proof"
     },
     {
       "from": "MOC - Islamic contract doctrine",
@@ -16272,11 +16567,19 @@
     },
     {
       "from": "MOC - Risk-sharing vs risk-pricing",
+      "to": "Agent-borne capital loss clusters in local contracts"
+    },
+    {
+      "from": "MOC - Risk-sharing vs risk-pricing",
       "to": "Aktipis and Cronk on need-based transfers and herd survival"
     },
     {
       "from": "MOC - Risk-sharing vs risk-pricing",
       "to": "Amsterdam notaries drafted ship-pledged and goods-pledged bodemerij as one instrument"
+    },
+    {
+      "from": "MOC - Risk-sharing vs risk-pricing",
+      "to": "Bilateral names two different loss rules in Genoa and Catalonia"
     },
     {
       "from": "MOC - Risk-sharing vs risk-pricing",
@@ -16337,6 +16640,10 @@
     {
       "from": "MOC - Risk-sharing vs risk-pricing",
       "to": "General average shares decisions where warichi shares hazards"
+    },
+    {
+      "from": "MOC - Risk-sharing vs risk-pricing",
+      "to": "Genoese notaries drafted the commenda as equity and Catalan notaries as credit"
     },
     {
       "from": "MOC - Risk-sharing vs risk-pricing",
@@ -16480,7 +16787,15 @@
     },
     {
       "from": "MOC - Risk-sharing vs risk-pricing",
+      "to": "The comanda ad societatem shares the isqa's allocation but not its construction"
+    },
+    {
+      "from": "MOC - Risk-sharing vs risk-pricing",
       "to": "The commenda and the qirad do not separate on loss allocation"
+    },
+    {
+      "from": "MOC - Risk-sharing vs risk-pricing",
+      "to": "The commenda family fixes the allocation of loss and varies its proof"
     },
     {
       "from": "MOC - Risk-sharing vs risk-pricing",
@@ -19037,6 +19352,54 @@
     {
       "from": "Restate the cost puzzle as a question about a trajectory",
       "to": "Time-average optimization is a survivorship property not an intention"
+    },
+    {
+      "from": "Retrieval report workflow - reading the codebooks and the vault back as evidence",
+      "to": "A difference between coded forms is a difference of evidence, vocabulary or form"
+    },
+    {
+      "from": "Retrieval report workflow - reading the codebooks and the vault back as evidence",
+      "to": "Agent-borne capital loss clusters in local contracts"
+    },
+    {
+      "from": "Retrieval report workflow - reading the codebooks and the vault back as evidence",
+      "to": "Bilateral names two different loss rules in Genoa and Catalonia"
+    },
+    {
+      "from": "Retrieval report workflow - reading the codebooks and the vault back as evidence",
+      "to": "Blind re-coding workflow - operator, coder, application"
+    },
+    {
+      "from": "Retrieval report workflow - reading the codebooks and the vault back as evidence",
+      "to": "Genoese notaries drafted the commenda as equity and Catalan notaries as credit"
+    },
+    {
+      "from": "Retrieval report workflow - reading the codebooks and the vault back as evidence",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Retrieval report workflow - reading the codebooks and the vault back as evidence",
+      "to": "MOC - Historiography and method"
+    },
+    {
+      "from": "Retrieval report workflow - reading the codebooks and the vault back as evidence",
+      "to": "Primary against secondary coding workflow - three arms, reveal, application"
+    },
+    {
+      "from": "Retrieval report workflow - reading the codebooks and the vault back as evidence",
+      "to": "The comanda ad societatem shares the isqa's allocation but not its construction"
+    },
+    {
+      "from": "Retrieval report workflow - reading the codebooks and the vault back as evidence",
+      "to": "The commenda family fixes the allocation of loss and varies its proof"
+    },
+    {
+      "from": "Retrieval report workflow - reading the codebooks and the vault back as evidence",
+      "to": "loss_mitigation_forms"
+    },
+    {
+      "from": "Retrieval report workflow - reading the codebooks and the vault back as evidence",
+      "to": "organizational_forms"
     },
     {
       "from": "Retrodiction fails on non-invertibility not on induction",
@@ -22547,6 +22910,62 @@
       "to": "Unilateral and bilateral commenda collapse on profit and separate on loss"
     },
     {
+      "from": "The comanda ad societatem shares the isqa's allocation but not its construction",
+      "to": "Bilateral names two different loss rules in Genoa and Catalonia"
+    },
+    {
+      "from": "The comanda ad societatem shares the isqa's allocation but not its construction",
+      "to": "Count degrees of freedom not cells"
+    },
+    {
+      "from": "The comanda ad societatem shares the isqa's allocation but not its construction",
+      "to": "Divergent arbitrary particulars are the independence diagnostic"
+    },
+    {
+      "from": "The comanda ad societatem shares the isqa's allocation but not its construction",
+      "to": "Isqa qirad and commenda are a liability-variable triad"
+    },
+    {
+      "from": "The comanda ad societatem shares the isqa's allocation but not its construction",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "The comanda ad societatem shares the isqa's allocation but not its construction",
+      "to": "MOC - Islamic contract doctrine"
+    },
+    {
+      "from": "The comanda ad societatem shares the isqa's allocation but not its construction",
+      "to": "MOC - Risk-sharing vs risk-pricing"
+    },
+    {
+      "from": "The comanda ad societatem shares the isqa's allocation but not its construction",
+      "to": "The comanda ad societatem shares losses in the proportion of profits"
+    },
+    {
+      "from": "The comanda ad societatem shares the isqa's allocation but not its construction",
+      "to": "The isqa refuses the agent's shield"
+    },
+    {
+      "from": "The comanda ad societatem shares the isqa's allocation but not its construction",
+      "to": "Transmission versus independent recurrence is the load-bearing test"
+    },
+    {
+      "from": "The comanda ad societatem shares the isqa's allocation but not its construction",
+      "to": "commenda"
+    },
+    {
+      "from": "The comanda ad societatem shares the isqa's allocation but not its construction",
+      "to": "isqa"
+    },
+    {
+      "from": "The comanda ad societatem shares the isqa's allocation but not its construction",
+      "to": "loss_mitigation_forms"
+    },
+    {
+      "from": "The comanda ad societatem shares the isqa's allocation but not its construction",
+      "to": "organizational_forms"
+    },
+    {
       "from": "The commenda and the qirad do not separate on loss allocation",
       "to": "A route clause conditions the investor's peril in three traditions"
     },
@@ -22600,6 +23019,58 @@
     },
     {
       "from": "The commenda and the qirad do not separate on loss allocation",
+      "to": "loss_mitigation_forms"
+    },
+    {
+      "from": "The commenda family fixes the allocation of loss and varies its proof",
+      "to": "Institutions substitute state-verification for outcome-inference as ruin exposure rises"
+    },
+    {
+      "from": "The commenda family fixes the allocation of loss and varies its proof",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "The commenda family fixes the allocation of loss and varies its proof",
+      "to": "MOC - Islamic contract doctrine"
+    },
+    {
+      "from": "The commenda family fixes the allocation of loss and varies its proof",
+      "to": "MOC - Risk-sharing vs risk-pricing"
+    },
+    {
+      "from": "The commenda family fixes the allocation of loss and varies its proof",
+      "to": "Ragusan collegantia is unilateral and Venetian collegantia is bilateral"
+    },
+    {
+      "from": "The commenda family fixes the allocation of loss and varies its proof",
+      "to": "Skin in the game is asymmetric in the mudaraba"
+    },
+    {
+      "from": "The commenda family fixes the allocation of loss and varies its proof",
+      "to": "The Catalan maritime comanda puts the whole capital loss on the investor"
+    },
+    {
+      "from": "The commenda family fixes the allocation of loss and varies its proof",
+      "to": "The amana-daman structure refuses to infer fault from loss"
+    },
+    {
+      "from": "The commenda family fixes the allocation of loss and varies its proof",
+      "to": "The commenda and the qirad do not separate on loss allocation"
+    },
+    {
+      "from": "The commenda family fixes the allocation of loss and varies its proof",
+      "to": "The heter iska restores the fixed return by evidentiary barrier"
+    },
+    {
+      "from": "The commenda family fixes the allocation of loss and varies its proof",
+      "to": "Which peril gets a clause is set by the tradition's doctrinal problem"
+    },
+    {
+      "from": "The commenda family fixes the allocation of loss and varies its proof",
+      "to": "commenda"
+    },
+    {
+      "from": "The commenda family fixes the allocation of loss and varies its proof",
       "to": "loss_mitigation_forms"
     },
     {

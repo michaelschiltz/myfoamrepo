@@ -267,3 +267,13 @@ Project hub for the book. Atomic notes hang off both this project MOC and a them
 - [[The Afghan corpora offer loss allocation in tenancy not commenda]]
 - [[Uyghur leases were written either as a fixed rent or as a crop share]]
 - [[The Bamiyan granary wrote the liability rule into the grain transfer]]
+
+## Notes — comanda–commenda retrieval report
+
+- [[Bilateral names two different loss rules in Genoa and Catalonia]]
+- [[The commenda family fixes the allocation of loss and varies its proof]]
+- [[Genoese notaries drafted the commenda as equity and Catalan notaries as credit]]
+- [[The comanda ad societatem shares the isqa's allocation but not its construction]]
+- [[Agent-borne capital loss clusters in local contracts]]
+- [[A difference between coded forms is a difference of evidence, vocabulary or form]]
+- [[Retrieval report workflow - reading the codebooks and the vault back as evidence]]
