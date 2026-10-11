@@ -4001,7 +4001,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The amana-daman structure refuses to infer fault from loss",
-      "value": 31,
+      "value": 32,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -4109,7 +4109,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The commenda family fixes the allocation of loss and varies its proof",
-      "value": 20,
+      "value": 21,
       "color": "#e6ab02",
       "shape": "dot"
     },
