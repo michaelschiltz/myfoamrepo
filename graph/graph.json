@@ -50,7 +50,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "A difference between coded forms is a difference of evidence, vocabulary or form",
-      "value": 18,
+      "value": 19,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -788,7 +788,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Bilateral names two different loss rules in Genoa and Catalonia",
-      "value": 19,
+      "value": 21,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -851,7 +851,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Bottomry separates from the sea loan on recourse not on collateral",
-      "value": 13,
+      "value": 14,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1031,7 +1031,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Comanda capital was kept apart unless the contract said otherwise",
-      "value": 8,
+      "value": 9,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1526,7 +1526,7 @@
       "type": "source",
       "group": "source",
       "label": "Fynn-Paul 2017 on the land commenda of Manresa",
-      "value": 10,
+      "value": 12,
       "color": "#7570b3",
       "shape": "dot"
     },
@@ -1634,7 +1634,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Genoese notaries drafted the commenda as equity and Catalan notaries as credit",
-      "value": 16,
+      "value": 19,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1715,7 +1715,7 @@
       "type": "source",
       "group": "source",
       "label": "Hancock 2025 on trust in Barcelona and Mallorca contracts",
-      "value": 9,
+      "value": 10,
       "color": "#7570b3",
       "shape": "dot"
     },
@@ -2581,6 +2581,15 @@
       "label": "Never let the units slide from instruments to populations",
       "value": 59,
       "color": "#666666",
+      "shape": "dot"
+    },
+    {
+      "id": "No security secures against the peril",
+      "type": "permanent",
+      "group": "seed",
+      "label": "No security secures against the peril",
+      "value": 10,
+      "color": "#e6ab02",
       "shape": "dot"
     },
     {
@@ -3907,6 +3916,15 @@
       "shape": "dot"
     },
     {
+      "id": "The Sarta company held no common fund",
+      "type": "permanent",
+      "group": "seed",
+      "label": "The Sarta company held no common fund",
+      "value": 8,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
       "id": "The Silk Road layer 3 is a national editorial programme",
       "type": "reference",
       "group": "reference",
@@ -4064,7 +4082,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The comanda ad societatem shares the isqa's allocation but not its construction",
-      "value": 20,
+      "value": 21,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -4082,7 +4100,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The commenda family fixes the allocation of loss and varies its proof",
-      "value": 19,
+      "value": 20,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -4289,7 +4307,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The land comanda gave way to the censal after 1348",
-      "value": 9,
+      "value": 11,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -5009,7 +5027,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Entity-shielding and corporate forms",
-      "value": 123,
+      "value": 125,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -5063,7 +5081,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - HistorEE",
-      "value": 436,
+      "value": 438,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -5135,7 +5153,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Risk-sharing vs risk-pricing",
-      "value": 189,
+      "value": 196,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -5189,7 +5207,7 @@
       "type": "database",
       "group": "database",
       "label": "organizational_forms",
-      "value": 31,
+      "value": 32,
       "color": "#a6761d",
       "shape": "database"
     },
@@ -5198,7 +5216,7 @@
       "type": "database",
       "group": "database",
       "label": "loss_mitigation_forms",
-      "value": 49,
+      "value": 50,
       "color": "#a6761d",
       "shape": "database"
     },
@@ -10887,6 +10905,10 @@
     },
     {
       "from": "Genoese notaries drafted the commenda as equity and Catalan notaries as credit",
+      "to": "No security secures against the peril"
+    },
+    {
+      "from": "Genoese notaries drafted the commenda as equity and Catalan notaries as credit",
       "to": "Primary against secondary coding workflow - three arms, reveal, application"
     },
     {
@@ -11136,6 +11158,10 @@
     {
       "from": "Hancock 2025 on trust in Barcelona and Mallorca contracts",
       "to": "Arxiu Historic de Protocols de Barcelona"
+    },
+    {
+      "from": "Hancock 2025 on trust in Barcelona and Mallorca contracts",
+      "to": "Bilateral names two different loss rules in Genoa and Catalonia"
     },
     {
       "from": "Hancock 2025 on trust in Barcelona and Mallorca contracts",
@@ -13951,6 +13977,10 @@
     },
     {
       "from": "MOC - Entity-shielding and corporate forms",
+      "to": "The Sarta company held no common fund"
+    },
+    {
+      "from": "MOC - Entity-shielding and corporate forms",
       "to": "The alleenrecht is monopoly held as tradable property"
     },
     {
@@ -16691,6 +16721,10 @@
     },
     {
       "from": "MOC - Risk-sharing vs risk-pricing",
+      "to": "No security secures against the peril"
+    },
+    {
+      "from": "MOC - Risk-sharing vs risk-pricing",
       "to": "Outcome-coupling is the condition of legibility"
     },
     {
@@ -18028,6 +18062,30 @@
     {
       "from": "Never let the units slide from instruments to populations",
       "to": "The western family needs only plausible common descent not proven genealogy"
+    },
+    {
+      "from": "No security secures against the peril",
+      "to": "A difference between coded forms is a difference of evidence, vocabulary or form"
+    },
+    {
+      "from": "No security secures against the peril",
+      "to": "Bottomry separates from the sea loan on recourse not on collateral"
+    },
+    {
+      "from": "No security secures against the peril",
+      "to": "Genoese notaries drafted the commenda as equity and Catalan notaries as credit"
+    },
+    {
+      "from": "No security secures against the peril",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "No security secures against the peril",
+      "to": "MOC - Risk-sharing vs risk-pricing"
+    },
+    {
+      "from": "No security secures against the peril",
+      "to": "loss_mitigation_forms"
     },
     {
       "from": "Non-ergodicity collapses the likelihood ratio on outcomes",
@@ -22344,6 +22402,30 @@
     {
       "from": "The Roman universitas makes the JSC case parallelism not convergence",
       "to": "Transmission versus independent recurrence is the load-bearing test"
+    },
+    {
+      "from": "The Sarta company held no common fund",
+      "to": "Comanda capital was kept apart unless the contract said otherwise"
+    },
+    {
+      "from": "The Sarta company held no common fund",
+      "to": "Fynn-Paul 2017 on the land commenda of Manresa"
+    },
+    {
+      "from": "The Sarta company held no common fund",
+      "to": "MOC - Entity-shielding and corporate forms"
+    },
+    {
+      "from": "The Sarta company held no common fund",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "The Sarta company held no common fund",
+      "to": "The land comanda gave way to the censal after 1348"
+    },
+    {
+      "from": "The Sarta company held no common fund",
+      "to": "organizational_forms"
     },
     {
       "from": "The Silk Road layer 3 is a national editorial programme",

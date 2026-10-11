@@ -17,7 +17,7 @@ Across the unilateral forms of the western family the allocation of loss is inva
 
 - **Dubrovnik: documentary.** The periculum clause carries its own standard, *maris et gentis clarefactum*: the loss must be made clear (Held 2025, 20–21). Live `commenda_alloc VF1 = documentary`, imported from a neighbouring jurisdiction's statute and disputed (pilot worksheet entry 16).
 - **Venice: adjudication.** The pilot's arm S read González de Lara (2002, 258–259) as the state generating verifiable information to adjudicate disputes and proposed `official-adjudication`. Unadjudicated.
-- **Catalonia: a sworn self-account, rebuttable.** The commendatary's account is received and, on suspicion, sworn, and he is then believed unless the investor proves otherwise (*Consolat de Mar*, cap. 279). A loss he cannot explain with *iustes raons* sends him to prison (cap. 220); a failed purchase is proved by witnesses on the spot (cap. 216). None of `communal-attestation`, `official-adjudication` or `documentary` fits, so `comanda_alloc VF1` is `.NR` as a **value-set misfit**, not as silence. See [[The Catalan maritime comanda puts the whole capital loss on the investor]].
+- **Catalonia: a sworn self-account, rebuttable.** The commendatary's account is received and, on suspicion, sworn, and he is then believed unless the investor proves otherwise (*Consolat de Mar*, cap. 279). A loss he cannot explain with *iustes raons* sends him to prison (cap. 220); a failed purchase is proved by witnesses on the spot (cap. 216). None of `communal-attestation`, `official-adjudication` or `documentary` fits, so `comanda_alloc VF1` was `.NR` as a **value-set misfit**, not as silence *(until 2026-10-11: see below)*. See [[The Catalan maritime comanda puts the whole capital loss on the investor]].
 
 **The missing value may have a second instance.** The Catalan rule is close to the trustee's position in fiqh: *laysa ʿalā al-amīn illā al-yamīn*, nothing is due from the trustee but the oath, with the owner alleging transgression bearing the proof ([[The amana-daman structure refuses to infer fault from loss]]). If that holds for the *muḍārib*, `qirad_alloc VF1`, now `.NR`, would take the same value, and the rule against adding a value before a form instantiates it (the `AP4` lesson) would be met twice. The amana note's caveat binds here too: the attestations traced are Imāmī and Ḥanbalī, not Ḥanafī or Mālikī.
 
@@ -27,7 +27,11 @@ Across the unilateral forms of the western family the allocation of loss is inva
 
 ## Where this is soft
 
-The three Latin modes come from three layers: a statute, an economist's reading of state institutions, and a customary compilation. They are not yet comparable as practice. Whether to add a `VF1` value is a theory decision and has not been proposed.
+The three Latin modes come from three layers: a statute, an economist's reading of state institutions, and a customary compilation. They are not yet comparable as practice. Whether to add a `VF1` value was a theory decision; MS took it on 2026-10-11 (below).
+
+## Ruled 2026-10-11
+
+`VF1` gained `claimant-oath` (`records/RULINGS-comanda-adjudications-2026-10-11.md` in HistorEE_codebooks, ruling 2): the loss is established by the claimant's own account, on oath or subject to oath on demand, with no third-party verifier unless the counterparty contests. **Defined by mode only**: whether the oath is decisive (the bailee's oath of Exodus 22:10–11) or rebuttable (the *Consolat*, cap. 279; the *amīn*'s oath yielding to *bayyina*) is a burden-of-proof question kept in the notes. `comanda_alloc VF1 = claimant-oath` is the first instance. `qirad_alloc` and `isqa_alloc` stay `.NR` until Udovitch 1970, "Theory and Practice of Islamic Law", and Mishnah *Shevuʿot* 7:8 are read [verify both]. The *heter ʿisqa* point above is unaffected: it is the same value-question at the opposite bar.
 
 ## Links
 

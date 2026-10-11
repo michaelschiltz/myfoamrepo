@@ -28,6 +28,15 @@ Source note for Jeff Fynn-Paul, "The Land Commenda in the Late Medieval Crown of
 
 His Example 1 (1318) is drafted "in commanda pura seu deposito … reddere quo velitis" (94 n. 30): a deposit returnable on demand, not a trading comanda. His Example 2 (1323) is a skinner and his wife taking 100 s. "in facto mercaterie ad terciam partem lucre et amissiones" (95 n. 31): **profit and loss** at a third. His translation gives only the profit. The 91 therefore mix at least two of the contracts the word names, and the sample cannot be read as one form without a split; see [[Comanda names several contracts in the Catalan sources]].
 
+## The monograph, read 2026-10-11
+
+Fynn-Paul, *Family, Work, and Household in Late Medieval Iberia* (Routledge, first published 2018; Zotero 32CK6XPU, dated 2020 there — correct to 2018 unless a later edition is held), ch. 4, notes 31–35. Read from a calibre conversion; cite chapter and note, not the PDF's pages.
+
+- **The profit-share clause is in "some of the acts"** (n. 34: SF 1324 4i12; SF 1332 10k3; SF 1332 12k3), not regularly, as the 2017 article's p. 102 implies.
+- **By the 1340s the usual formula is the deposit**: *in comanda sive puro deposito … reddere quo velitis* (n. 35: SF 1332 1k12; SF 1342 6i6), the profit share being, on his reading, understood.
+- **He reads the rural commenda as credit**: rural people "obliging their goods to him in return for an agricultural loan"; "a means to get round the discomfort of open usury" (n. 32: FT1 1326 17k12).
+- **Consequence for the census** (`records/RULINGS-comanda-adjudications-2026-10-11.md` in HistorEE_codebooks, ruling 9): the series is a series of a word, mostly a credit instrument; it may be cited for the history of the word and its users, never as a frequency or chronology of a coded row. Whether the *lucri* acts carry *et amissionis* is known only for 1323. The shelfmarks above are the archival tags for the archival phase.
+
 ## Links
 
 - [[The comanda ad societatem shares losses in the proportion of profits]]

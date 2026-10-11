@@ -26,6 +26,10 @@ Source note for Annabel Laura Hancock, *Trust in Trade in Barcelona and Mallorca
 - **Security.** A general pledge of all goods appears in 788 agreements (54.9 % of the set), *obligare* in 835 (58 %); specific collateral in only 43, named guarantors in 34 (2.4 %) (91–101). **The thesis does not break the general pledge down by contract type**, so its frequency in comanda acts alone is not given.
 - **Oath and belief.** Oaths are rarer in comanda acts than in partnerships; one comanda states that the investing partner was to be believed (ch. 5).
 
+## Checked 2026-10-11: a ceiling, not a count
+
+Hancock gives no count of the shared-risk minority among the 352 risk-clause acts: "Most of these stated that the investing party accepted the risk alone" (190–191). Acts sharing loss in either way are therefore under about 12 per cent of the 1,432. Her one quoted shared-risk act, the Civaderii partnership with Jacobus Marqueti's £800 (*Societats mercantils* doc. 27), shares "risk and fortune" *per solidum atque libram*, by capital — the `societas_maris` rule, not the comanda *ad societatem*'s. See [[Bilateral names two different loss rules in Genoa and Catalonia]].
+
 ## Links
 
 - [[The Catalan maritime comanda puts the whole capital loss on the investor]]

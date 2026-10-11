@@ -15,7 +15,7 @@ The line between the "unilateral" and the "bilateral" commenda is drawn on diffe
 
 **Genoa couples loss to capital.** The bilateral form is the unilateral form with the traveller's own capital added, conventionally a third against the investor's two, and "the liability for loss was proportional to the respective initial investments" (van Doosselaere 2009, 65). The traveller bears the loss on his third and none of the investor's two thirds. In the codebooks: `societas_maris CF1 = P` (capital on both sides, labour on one) with `CF2 = 0`. See [[Unilateral and bilateral commenda collapse on profit and separate on loss]].
 
-**Catalonia couples loss to the profit share.** In the *comanda ad societatem* a diminution of the investor's capital is borne by both parties in the proportion in which they share profit, until his capital is made whole (*quousque tuum dictum capitale tibi penitus reintegretur*, Vic 1273). The agents need contribute no money at all: `comanda_ad_societatem CF1 = 1` with `CF2 = P`, the opposite pairing to the Genoese. The 1239 *comanda sive societas* states the decoupling in a single act: the agent puts in 60 *s.* against the investor's 260 *s.*, and profit and risk are nonetheless halved (Martínez Gijón 1966, 386, 388). See [[The comanda ad societatem shares losses in the proportion of profits]].
+**Catalonia couples loss to the profit share.** In the *comanda ad societatem* a diminution of the investor's capital is borne by both parties in the proportion in which they share profit, until his capital is made whole (*quousque tuum dictum capitalem tibi penitus reintegretur*, Vic 1273, read from the page images on 2026-10-11). The agents need contribute no money at all: `comanda_ad_societatem CF1 = 1` with `CF2 = P`, the opposite pairing to the Genoese. The 1239 *comanda sive societas* states the decoupling in a single act: the agent puts in 60 *s.* against the investor's 260 *s.*, and profit and risk are nonetheless halved (Martínez Gijón 1966, 386, 388). See [[The comanda ad societatem shares losses in the proportion of profits]].
 
 **Consequence for individuation.** A census that inherited either tradition's label would code the other tradition's forms on the wrong axis. Genoa individuates by who contributes capital, Catalonia by who bears the principal's loss. The Catalan rows were split on the loss rule (`CF2`) after Martínez Gijón's acts showed that terrain, the first-choice split, does not carry the distinction: loss-sharing comandas go by sea (Vic 1230, 1231, 1239) and unilateral ones without travel (Vic 1230). This is [[Natie is a false cognate]] and [[Ragusan collegantia is unilateral and Venetian collegantia is bilateral]] again: the unit is the clause structure, never the name.
 
@@ -23,7 +23,11 @@ The line between the "unilateral" and the "bilateral" commenda is drawn on diffe
 
 ## Where this is soft
 
-The Catalan loss-sharing evidence is about six quoted acts, mostly thirteenth-century, through two secondary authors who share an upstream (Carreras y Candi, Sayous, García Sanz's editions); Martínez Gijón calls bilateral documents *escasos* (1966, 386). Figures were read from OCR and await checking against page images. All cells are `unreviewed`.
+The Catalan loss-sharing evidence is about six quoted acts, mostly thirteenth-century, through two secondary authors who share an upstream (Carreras y Candi, Sayous, García Sanz's editions); Martínez Gijón calls bilateral documents *escasos* (1966, 386). Figures were read from OCR and await checking against page images; the Vic 1273 act was checked on 2026-10-11. All cells are `unreviewed`.
+
+## A second Catalan bilateral rule, 2026-10-11
+
+Hancock's one quoted shared-risk act (*Societats mercantils*, doc. 27: Marqueti's £800 into a partnership's common fund) divides risk and fortune *per solidum atque libram*, by capital, which is the Genoese rule. So Catalonia has both bilateral loss rules, and the loss-sharing comanda is a minority within a minority: of Hancock's 352 risk-clause acts, most put the risk on the investor alone (190–191), so acts sharing loss in either way are under about 12 per cent of her 1,432. The capital-proportional Catalan rule is not coded; it needs *Societats mercantils* 1986.
 
 ## Links
 

@@ -128,6 +128,11 @@ Thematic hub for the instrument axis: risk-*sharing* forms that keep every party
 
 - [[Bilateral names two different loss rules in Genoa and Catalonia]] — Genoa couples the agent's loss to his capital, Catalonia to his profit share; three regimes for the working party, not two
 - [[The commenda family fixes the allocation of loss and varies its proof]] — documentary at Dubrovnik, adjudication in Venice, a rebuttable sworn account in Catalonia; the *heter ʿisqa* runs the same variable the other way
-- [[Genoese notaries drafted the commenda as equity and Catalan notaries as credit]] — the `RB3` gradient is a drafting formulary, and the characteristic conflates security for capital with security for performance
+- [[Genoese notaries drafted the commenda as equity and Catalan notaries as credit]] — the `RB3` gradient is a drafting formulary, and the characteristic conflates security for capital with security for performance *(the characteristic-defect claim was withdrawn on 2026-10-11: [[No security secures against the peril]])*
 - [[The comanda ad societatem shares the isqa's allocation but not its construction]] — exposure by a loss clause against exposure by vesting; do not count the matching cells
 - [[Agent-borne capital loss clusters in local contracts]] — hypothesis, with its test
+
+## Added 2026-10-11 — the comanda adjudications
+
+- [[No security secures against the peril]] — why `RB3` was not split, and the line between a security clause and a liability rule
+- Ruled updates appended to [[Genoese notaries drafted the commenda as equity and Catalan notaries as credit]], [[The comanda ad societatem shares the isqa's allocation but not its construction]], [[The commenda family fixes the allocation of loss and varies its proof]] and [[Bilateral names two different loss rules in Genoa and Catalonia]]

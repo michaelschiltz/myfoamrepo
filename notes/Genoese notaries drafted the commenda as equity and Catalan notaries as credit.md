@@ -23,12 +23,16 @@ The security clauses in the commenda acts form a gradient from Genoa through Mar
 
 **Two consequences.**
 
-- **A characteristic defect.** `RB3` asks what secures "the advance" and does not distinguish security for the capital against the peril from security for the agent's performance. The Catalan value is correct under the present definition and misleading in comparison, since it puts a performance guarantee in the column that holds the *bodemerij*'s hypothecation of the ship. The pilot already reported `RB3` as a misfit ("secures what, against what"); this is the case that shows it.
+- ~~**A characteristic defect.** `RB3` asks what secures "the advance" and does not distinguish security for the capital against the peril from security for the agent's performance. The Catalan value is correct under the present definition and misleading in comparison, since it puts a performance guarantee in the column that holds the *bodemerij*'s hypothecation of the ship. The pilot already reported `RB3` as a misfit ("secures what, against what"); this is the case that shows it.~~ **Withdrawn 2026-10-11.** No security secures against the peril, the bodemerij's included: see [[No security secures against the peril]]. The Catalan value records the object of the security correctly, and the contrast with Genoa is a contrast of drafting, which is this note's claim.
 - **A transmission question.** If Amalric's unprinted acts carry a general obligation behind *obligans etc.*, the gradient is a Ligurian–Occitan–Catalan boundary in drafting practice. Drafting boundaries are where transmission leaves arbitrary particulars ([[Divergent arbitrary particulars are the independence diagnostic]]), so this is testable on the documents and bears on how the formulary reached Barcelona.
 
 ## Where this is soft
 
 The Catalan figures were read from OCR and await the page images. Hancock's 54.9 % general-pledge figure is for all contract types, not comandas alone. The Genoese counts come from an unadjudicated stage-5 recoding by one model. Pilot entries 19 and 21 and comanda adjudication 1 must be ruled together before this is cited.
+
+## Ruled 2026-10-11
+
+Comanda adjudication 1 and pilot entries 19 and 21 were ruled together (`records/RULINGS-comanda-adjudications-2026-10-11.md` in HistorEE_codebooks, ruling 1). `comanda_alloc RB3 = general-estate` stands. `commenda_alloc` and `societas_maris` keep `RB3 = none`, now on the formulary evidence above at medium and analyst-imposed instead of at high on Harris's "equity, not debt". `RB3` was not split; its definition gained the sentence that the security attaches to whatever obligation survives the allocation of the peril. The general-hypothec reading of the Catalan *obligatio omnium bonorum* is still [to confirm].
 
 ## Links
 

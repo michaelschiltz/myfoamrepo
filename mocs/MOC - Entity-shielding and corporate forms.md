@@ -73,3 +73,7 @@ Thematic hub for the corporate-form apparatus: asset-partitioning, identity-wrap
 ## Added 2026-10-01 — Taleb's *Antifragile*
 
 - [[Taleb specifies the firewall in chapter 4 and condemns it in chapter 23]] — the contagion firewall and the free option are the same relocation of the barrier; what separates them is whether the new bearer is inside the contract
+
+## Added 2026-10-11
+
+- [[The Sarta company held no common fund]] — a Catalan *societas* run through interpersonal commendas, with no company capital in the records; a candidate, not a coding

@@ -288,6 +288,7 @@ digraph vault {
   "Naviganti - Latin Christendom rejected the sea loan too" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Naviganti delayed the priced premium it is credited with dating" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Never let the units slide from instruments to populations" [fillcolor="#666666", fontcolor=white, shape=ellipse];
+  "No security secures against the peril" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Non-ergodicity collapses the likelihood ratio on outcomes" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Noord-Hollands Archief - Haarlem" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
   "Nordic archives online - the access layers" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
@@ -435,6 +436,7 @@ digraph vault {
   "The QDL corpus is conditioned on its funder's geography" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "The Ragusan chancery and notarial series" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
   "The Roman universitas makes the JSC case parallelism not convergence" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
+  "The Sarta company held no common fund" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "The Silk Road layer 3 is a national editorial programme" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
   "The Silk Road record is documents and the census codes chronicles" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
   "The Sound Toll Registers" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
@@ -1998,6 +2000,7 @@ digraph vault {
   "Genoese notaries drafted the commenda as equity and Catalan notaries as credit" -> "MOC - HistorEE";
   "Genoese notaries drafted the commenda as equity and Catalan notaries as credit" -> "MOC - Historiography and method";
   "Genoese notaries drafted the commenda as equity and Catalan notaries as credit" -> "MOC - Risk-sharing vs risk-pricing";
+  "Genoese notaries drafted the commenda as equity and Catalan notaries as credit" -> "No security secures against the peril";
   "Genoese notaries drafted the commenda as equity and Catalan notaries as credit" -> "Primary against secondary coding workflow - three arms, reveal, application";
   "Genoese notaries drafted the commenda as equity and Catalan notaries as credit" -> "The commenda family fixes the allocation of loss and varies its proof";
   "Genoese notaries drafted the commenda as equity and Catalan notaries as credit" -> "commenda";
@@ -2061,6 +2064,7 @@ digraph vault {
   "HCA - the High Court of Admiralty" -> "The Prize Papers - HCA 32 and the German money";
   "HCA - the High Court of Admiralty" -> "The amirautes - a series across the coastal departments";
   "Hancock 2025 on trust in Barcelona and Mallorca contracts" -> "Arxiu Historic de Protocols de Barcelona";
+  "Hancock 2025 on trust in Barcelona and Mallorca contracts" -> "Bilateral names two different loss rules in Genoa and Catalonia";
   "Hancock 2025 on trust in Barcelona and Mallorca contracts" -> "Comanda capital was kept apart unless the contract said otherwise";
   "Hancock 2025 on trust in Barcelona and Mallorca contracts" -> "MOC - HistorEE";
   "Hancock 2025 on trust in Barcelona and Mallorca contracts" -> "MOC - Risk-sharing vs risk-pricing";
@@ -2764,6 +2768,7 @@ digraph vault {
   "MOC - Entity-shielding and corporate forms" -> "The Antwerp phases separate on two cells and the boundary is textual";
   "MOC - Entity-shielding and corporate forms" -> "The Bodmerei shield was a default rule and Amsterdam contracted out of it";
   "MOC - Entity-shielding and corporate forms" -> "The Roman universitas makes the JSC case parallelism not convergence";
+  "MOC - Entity-shielding and corporate forms" -> "The Sarta company held no common fund";
   "MOC - Entity-shielding and corporate forms" -> "The alleenrecht is monopoly held as tradable property";
   "MOC - Entity-shielding and corporate forms" -> "The corporation is not the omega - the naties are an undisplaced niche";
   "MOC - Entity-shielding and corporate forms" -> "The creditor limb of entity shielding has no witness";
@@ -3449,6 +3454,7 @@ digraph vault {
   "MOC - Risk-sharing vs risk-pricing" -> "Martinez Gijon on the comenda in Spanish law";
   "MOC - Risk-sharing vs risk-pricing" -> "Naviganti - Latin Christendom rejected the sea loan too";
   "MOC - Risk-sharing vs risk-pricing" -> "Naviganti delayed the priced premium it is credited with dating";
+  "MOC - Risk-sharing vs risk-pricing" -> "No security secures against the peril";
   "MOC - Risk-sharing vs risk-pricing" -> "Outcome-coupling is the condition of legibility";
   "MOC - Risk-sharing vs risk-pricing" -> "Polonio on the Barcelona maritime comandas 1349-1450";
   "MOC - Risk-sharing vs risk-pricing" -> "Pooling's sign is set by the correlation of its baskets";
@@ -3784,6 +3790,12 @@ digraph vault {
   "Never let the units slide from instruments to populations" -> "The qirad's antecedents are Sasanian not Sogdian";
   "Never let the units slide from instruments to populations" -> "The theory predicts recurrence not independent origins";
   "Never let the units slide from instruments to populations" -> "The western family needs only plausible common descent not proven genealogy";
+  "No security secures against the peril" -> "A difference between coded forms is a difference of evidence, vocabulary or form";
+  "No security secures against the peril" -> "Bottomry separates from the sea loan on recourse not on collateral";
+  "No security secures against the peril" -> "Genoese notaries drafted the commenda as equity and Catalan notaries as credit";
+  "No security secures against the peril" -> "MOC - HistorEE";
+  "No security secures against the peril" -> "MOC - Risk-sharing vs risk-pricing";
+  "No security secures against the peril" -> "loss_mitigation_forms";
   "Non-ergodicity collapses the likelihood ratio on outcomes" -> "Absorbing barrier";
   "Non-ergodicity collapses the likelihood ratio on outcomes" -> "Decoupling substitutes proxy legibility for outcome legibility";
   "Non-ergodicity collapses the likelihood ratio on outcomes" -> "Ensemble benchmarking of agents is biased against the honest";
@@ -4863,6 +4875,12 @@ digraph vault {
   "The Roman universitas makes the JSC case parallelism not convergence" -> "The theory predicts recurrence not independent origins";
   "The Roman universitas makes the JSC case parallelism not convergence" -> "The western family needs only plausible common descent not proven genealogy";
   "The Roman universitas makes the JSC case parallelism not convergence" -> "Transmission versus independent recurrence is the load-bearing test";
+  "The Sarta company held no common fund" -> "Comanda capital was kept apart unless the contract said otherwise";
+  "The Sarta company held no common fund" -> "Fynn-Paul 2017 on the land commenda of Manresa";
+  "The Sarta company held no common fund" -> "MOC - Entity-shielding and corporate forms";
+  "The Sarta company held no common fund" -> "MOC - HistorEE";
+  "The Sarta company held no common fund" -> "The land comanda gave way to the censal after 1348";
+  "The Sarta company held no common fund" -> "organizational_forms";
   "The Silk Road layer 3 is a national editorial programme" -> "IDP - the digital reunification of a dispersed archive";
   "The Silk Road layer 3 is a national editorial programme" -> "Invisible East - an open corpus for the eastern Islamicate documents";
   "The Silk Road layer 3 is a national editorial programme" -> "Jichitaishi - the municipal histories as Japan's print layer 3";
