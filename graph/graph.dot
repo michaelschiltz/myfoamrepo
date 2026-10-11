@@ -82,6 +82,7 @@ digraph vault {
   "Ba County archive - Sichuan Provincial Archives" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
   "Bad luck is what the ensemble average calls the modal trajectory" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Bank of Japan Currency Museum - the Senpeikan documents" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
+  "Barcelona law kept the commendatary's creditors off the comanda goods" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Bayerisches Hauptstaatsarchiv - Munchen" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
   "Begijnhof archives - where the beguinages records are" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
   "Belgian archives online - the access layers" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
@@ -1193,6 +1194,13 @@ digraph vault {
   "Bank of Japan Currency Museum - the Senpeikan documents" -> "MOC - Japanese archives";
   "Bank of Japan Currency Museum - the Senpeikan documents" -> "Mitsui Bunko - the Mitsui house archive";
   "Bank of Japan Currency Museum - the Senpeikan documents" -> "The clearing records dataset has no archive yet";
+  "Barcelona law kept the commendatary's creditors off the comanda goods" -> "A difference between coded forms is a difference of evidence, vocabulary or form";
+  "Barcelona law kept the commendatary's creditors off the comanda goods" -> "Comanda capital was kept apart unless the contract said otherwise";
+  "Barcelona law kept the commendatary's creditors off the comanda goods" -> "MOC - Entity-shielding and corporate forms";
+  "Barcelona law kept the commendatary's creditors off the comanda goods" -> "MOC - HistorEE";
+  "Barcelona law kept the commendatary's creditors off the comanda goods" -> "Martinez Gijon on the comenda in Spanish law";
+  "Barcelona law kept the commendatary's creditors off the comanda goods" -> "The Consolat de Mar comanda chapters";
+  "Barcelona law kept the commendatary's creditors off the comanda goods" -> "organizational_forms";
   "Bayerisches Hauptstaatsarchiv - Munchen" -> "Begijnhof archives - where the beguinages records are";
   "Bayerisches Hauptstaatsarchiv - Munchen" -> "German archives online - the federal access layers";
   "Bayerisches Hauptstaatsarchiv - Munchen" -> "Landesarchiv Baden-Wurttemberg";
@@ -2743,6 +2751,7 @@ digraph vault {
   "MOC - Entity-shielding and corporate forms" -> "A scheme for extending the entity census";
   "MOC - Entity-shielding and corporate forms" -> "Absorption is a path-dependence mechanism distinct from reinforcement";
   "MOC - Entity-shielding and corporate forms" -> "Arthur's lock-in and capital lock-in are different objects";
+  "MOC - Entity-shielding and corporate forms" -> "Barcelona law kept the commendatary's creditors off the comanda goods";
   "MOC - Entity-shielding and corporate forms" -> "Decoupling substitutes proxy legibility for outcome legibility";
   "MOC - Entity-shielding and corporate forms" -> "Entitlement by liability versus entitlement by membership";
   "MOC - Entity-shielding and corporate forms" -> "Entity shielding and owner shielding protect different trajectories";

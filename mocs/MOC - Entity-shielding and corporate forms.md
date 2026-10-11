@@ -77,3 +77,4 @@ Thematic hub for the corporate-form apparatus: asset-partitioning, identity-wrap
 ## Added 2026-10-11
 
 - [[The Sarta company held no common fund]] — a Catalan *societas* run through interpersonal commendas, with no company capital in the records; a candidate, not a coding
+- [[Barcelona law kept the commendatary's creditors off the comanda goods]] — *Recognoverunt proceres* 69 (1284): the agent's creditors and wife barred from the comanda goods until the investors are paid; `comanda AP1 = P`

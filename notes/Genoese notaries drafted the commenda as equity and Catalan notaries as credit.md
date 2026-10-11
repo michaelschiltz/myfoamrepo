@@ -32,7 +32,7 @@ The Catalan figures were read from OCR and await the page images. Hancock's 54.9
 
 ## Ruled 2026-10-11
 
-Comanda adjudication 1 and pilot entries 19 and 21 were ruled together (`records/RULINGS-comanda-adjudications-2026-10-11.md` in HistorEE_codebooks, ruling 1). `comanda_alloc RB3 = general-estate` stands. `commenda_alloc` and `societas_maris` keep `RB3 = none`, now on the formulary evidence above at medium and analyst-imposed instead of at high on Harris's "equity, not debt". `RB3` was not split; its definition gained the sentence that the security attaches to whatever obligation survives the allocation of the peril. The general-hypothec reading of the Catalan *obligatio omnium bonorum* is still [to confirm].
+Comanda adjudication 1 and pilot entries 19 and 21 were ruled together (`records/RULINGS-comanda-adjudications-2026-10-11.md` in HistorEE_codebooks, ruling 1). `comanda_alloc RB3 = general-estate` stands. `commenda_alloc` and `societas_maris` keep `RB3 = none`, now on the formulary evidence above at medium and analyst-imposed instead of at high on Harris's "equity, not debt". `RB3` was not split; its definition gained the sentence that the security attaches to whatever obligation survives the allocation of the peril. The general-hypothec reading of the Catalan *obligatio omnium bonorum* was confirmed the same evening: "personales y reales a la vez" (Martínez Gijón 1966, 401).
 
 ## Links
 

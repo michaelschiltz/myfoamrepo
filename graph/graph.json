@@ -50,7 +50,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "A difference between coded forms is a difference of evidence, vocabulary or form",
-      "value": 19,
+      "value": 20,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -730,6 +730,15 @@
       "shape": "dot"
     },
     {
+      "id": "Barcelona law kept the commendatary's creditors off the comanda goods",
+      "type": "permanent",
+      "group": "seed",
+      "label": "Barcelona law kept the commendatary's creditors off the comanda goods",
+      "value": 9,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
       "id": "Bayerisches Hauptstaatsarchiv - Munchen",
       "type": "reference",
       "group": "reference",
@@ -1031,7 +1040,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Comanda capital was kept apart unless the contract said otherwise",
-      "value": 9,
+      "value": 10,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -2300,7 +2309,7 @@
       "type": "source",
       "group": "source",
       "label": "Martinez Gijon on the comenda in Spanish law",
-      "value": 10,
+      "value": 11,
       "color": "#7570b3",
       "shape": "dot"
     },
@@ -3767,7 +3776,7 @@
       "type": "source",
       "group": "source",
       "label": "The Consolat de Mar comanda chapters",
-      "value": 14,
+      "value": 15,
       "color": "#7570b3",
       "shape": "dot"
     },
@@ -5027,7 +5036,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Entity-shielding and corporate forms",
-      "value": 125,
+      "value": 127,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -5081,7 +5090,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - HistorEE",
-      "value": 438,
+      "value": 439,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -5207,7 +5216,7 @@
       "type": "database",
       "group": "database",
       "label": "organizational_forms",
-      "value": 32,
+      "value": 33,
       "color": "#a6761d",
       "shape": "database"
     },
@@ -7674,6 +7683,34 @@
     {
       "from": "Bank of Japan Currency Museum - the Senpeikan documents",
       "to": "The clearing records dataset has no archive yet"
+    },
+    {
+      "from": "Barcelona law kept the commendatary's creditors off the comanda goods",
+      "to": "A difference between coded forms is a difference of evidence, vocabulary or form"
+    },
+    {
+      "from": "Barcelona law kept the commendatary's creditors off the comanda goods",
+      "to": "Comanda capital was kept apart unless the contract said otherwise"
+    },
+    {
+      "from": "Barcelona law kept the commendatary's creditors off the comanda goods",
+      "to": "MOC - Entity-shielding and corporate forms"
+    },
+    {
+      "from": "Barcelona law kept the commendatary's creditors off the comanda goods",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Barcelona law kept the commendatary's creditors off the comanda goods",
+      "to": "Martinez Gijon on the comenda in Spanish law"
+    },
+    {
+      "from": "Barcelona law kept the commendatary's creditors off the comanda goods",
+      "to": "The Consolat de Mar comanda chapters"
+    },
+    {
+      "from": "Barcelona law kept the commendatary's creditors off the comanda goods",
+      "to": "organizational_forms"
     },
     {
       "from": "Bayerisches Hauptstaatsarchiv - Munchen",
@@ -13874,6 +13911,10 @@
     {
       "from": "MOC - Entity-shielding and corporate forms",
       "to": "Arthur's lock-in and capital lock-in are different objects"
+    },
+    {
+      "from": "MOC - Entity-shielding and corporate forms",
+      "to": "Barcelona law kept the commendatary's creditors off the comanda goods"
     },
     {
       "from": "MOC - Entity-shielding and corporate forms",
