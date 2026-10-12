@@ -5046,6 +5046,7 @@ digraph vault {
   "The comanda ad societatem shares the isqa's allocation but not its construction" -> "loss_mitigation_forms";
   "The comanda ad societatem shares the isqa's allocation but not its construction" -> "organizational_forms";
   "The commenda and the qirad do not separate on loss allocation" -> "A route clause conditions the investor's peril in three traditions";
+  "The commenda and the qirad do not separate on loss allocation" -> "Barcelona law kept the commendatary's creditors off the comanda goods";
   "The commenda and the qirad do not separate on loss allocation" -> "Isqa qirad and commenda are a liability-variable triad";
   "The commenda and the qirad do not separate on loss allocation" -> "MOC - HistorEE";
   "The commenda and the qirad do not separate on loss allocation" -> "MOC - Islamic contract doctrine";

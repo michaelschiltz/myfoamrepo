@@ -734,7 +734,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Barcelona law kept the commendatary's creditors off the comanda goods",
-      "value": 9,
+      "value": 10,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -4100,7 +4100,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The commenda and the qirad do not separate on loss allocation",
-      "value": 32,
+      "value": 33,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -23091,6 +23091,10 @@
     {
       "from": "The commenda and the qirad do not separate on loss allocation",
       "to": "A route clause conditions the investor's peril in three traditions"
+    },
+    {
+      "from": "The commenda and the qirad do not separate on loss allocation",
+      "to": "Barcelona law kept the commendatary's creditors off the comanda goods"
     },
     {
       "from": "The commenda and the qirad do not separate on loss allocation",
