@@ -1040,7 +1040,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Comanda capital was kept apart unless the contract said otherwise",
-      "value": 10,
+      "value": 11,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -2215,6 +2215,15 @@
       "shape": "dot"
     },
     {
+      "id": "Latin law lets the agent mix commended capital and Hanafi law does not",
+      "type": "permanent",
+      "group": "seed",
+      "label": "Latin law lets the agent mix commended capital and Hanafi law does not",
+      "value": 11,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
       "id": "Le Bris Goetzmann Pouget 2023 on convergent evolution toward the joint-stock company",
       "type": "source",
       "group": "source",
@@ -3236,7 +3245,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Skin in the game is asymmetric in the mudaraba",
-      "value": 34,
+      "value": 35,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -4001,7 +4010,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The amana-daman structure refuses to infer fault from loss",
-      "value": 32,
+      "value": 33,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -4100,7 +4109,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The commenda and the qirad do not separate on loss allocation",
-      "value": 33,
+      "value": 34,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -4109,7 +4118,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The commenda family fixes the allocation of loss and proves it by the agent's oath",
-      "value": 21,
+      "value": 22,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -5090,7 +5099,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - HistorEE",
-      "value": 439,
+      "value": 440,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -5108,7 +5117,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Islamic contract doctrine",
-      "value": 64,
+      "value": 66,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -5162,7 +5171,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Risk-sharing vs risk-pricing",
-      "value": 196,
+      "value": 198,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -12769,6 +12778,38 @@
       "to": "The German Wirtschaftsarchive - a distributed business archive"
     },
     {
+      "from": "Latin law lets the agent mix commended capital and Hanafi law does not",
+      "to": "Comanda capital was kept apart unless the contract said otherwise"
+    },
+    {
+      "from": "Latin law lets the agent mix commended capital and Hanafi law does not",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Latin law lets the agent mix commended capital and Hanafi law does not",
+      "to": "MOC - Islamic contract doctrine"
+    },
+    {
+      "from": "Latin law lets the agent mix commended capital and Hanafi law does not",
+      "to": "MOC - Risk-sharing vs risk-pricing"
+    },
+    {
+      "from": "Latin law lets the agent mix commended capital and Hanafi law does not",
+      "to": "Skin in the game is asymmetric in the mudaraba"
+    },
+    {
+      "from": "Latin law lets the agent mix commended capital and Hanafi law does not",
+      "to": "The amana-daman structure refuses to infer fault from loss"
+    },
+    {
+      "from": "Latin law lets the agent mix commended capital and Hanafi law does not",
+      "to": "The commenda and the qirad do not separate on loss allocation"
+    },
+    {
+      "from": "Latin law lets the agent mix commended capital and Hanafi law does not",
+      "to": "The commenda family fixes the allocation of loss and proves it by the agent's oath"
+    },
+    {
       "from": "Le Bris Goetzmann Pouget 2023 on convergent evolution toward the joint-stock company",
       "to": "Count degrees of freedom not cells"
     },
@@ -16038,6 +16079,10 @@
     },
     {
       "from": "MOC - Islamic contract doctrine",
+      "to": "Latin law lets the agent mix commended capital and Hanafi law does not"
+    },
+    {
+      "from": "MOC - Islamic contract doctrine",
       "to": "MOC - HistorEE"
     },
     {
@@ -16731,6 +16776,10 @@
     {
       "from": "MOC - Risk-sharing vs risk-pricing",
       "to": "Labour exchange is the pooling type the census cannot see"
+    },
+    {
+      "from": "MOC - Risk-sharing vs risk-pricing",
+      "to": "Latin law lets the agent mix commended capital and Hanafi law does not"
     },
     {
       "from": "MOC - Risk-sharing vs risk-pricing",

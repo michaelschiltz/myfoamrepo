@@ -25,6 +25,7 @@ Thematic hub for the fiqh apparatus bearing on finance: *gharar*, *maysir*, *rib
 - [[The qirad's antecedents are Sasanian not Sogdian]]
 - [[The determinate-contingent typology carries the richness]]
 - [[The commenda and the qirad do not separate on loss allocation]]
+- [[Latin law lets the agent mix commended capital and Hanafi law does not]]
 - [[A route clause conditions the investor's peril in three traditions]]
 - [[A migrated institution collects local names not local forms]]
 - [[A fair wager lowers both trajectories which maysir forbids and skin in the game permits]]

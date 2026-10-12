@@ -247,6 +247,7 @@ digraph vault {
   "Labour exchange is the pooling type the census cannot see" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Landesarchiv Baden-Wurttemberg" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
   "Landesarchiv NRW and the Rhineland" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
+  "Latin law lets the agent mix commended capital and Hanafi law does not" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Le Bris Goetzmann Pouget 2023 on convergent evolution toward the joint-stock company" [fillcolor="#7570b3", fontcolor=white, shape=ellipse];
   "Legal violence is the weapon of the militarily insufficient" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Leiden University Library - the Kong Koan archive of Batavia" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
@@ -2465,6 +2466,14 @@ digraph vault {
   "Landesarchiv NRW and the Rhineland" -> "MOC - Belgian archives";
   "Landesarchiv NRW and the Rhineland" -> "MOC - German archives";
   "Landesarchiv NRW and the Rhineland" -> "The German Wirtschaftsarchive - a distributed business archive";
+  "Latin law lets the agent mix commended capital and Hanafi law does not" -> "Comanda capital was kept apart unless the contract said otherwise";
+  "Latin law lets the agent mix commended capital and Hanafi law does not" -> "MOC - HistorEE";
+  "Latin law lets the agent mix commended capital and Hanafi law does not" -> "MOC - Islamic contract doctrine";
+  "Latin law lets the agent mix commended capital and Hanafi law does not" -> "MOC - Risk-sharing vs risk-pricing";
+  "Latin law lets the agent mix commended capital and Hanafi law does not" -> "Skin in the game is asymmetric in the mudaraba";
+  "Latin law lets the agent mix commended capital and Hanafi law does not" -> "The amana-daman structure refuses to infer fault from loss";
+  "Latin law lets the agent mix commended capital and Hanafi law does not" -> "The commenda and the qirad do not separate on loss allocation";
+  "Latin law lets the agent mix commended capital and Hanafi law does not" -> "The commenda family fixes the allocation of loss and proves it by the agent's oath";
   "Le Bris Goetzmann Pouget 2023 on convergent evolution toward the joint-stock company" -> "Count degrees of freedom not cells";
   "Le Bris Goetzmann Pouget 2023 on convergent evolution toward the joint-stock company" -> "Harris 2020 on the late plurality of limited liability";
   "Le Bris Goetzmann Pouget 2023 on convergent evolution toward the joint-stock company" -> "Homoplasy is the finding not the noise";
@@ -3282,6 +3291,7 @@ digraph vault {
   "MOC - Islamic contract doctrine" -> "El-Gamal 2001 on gharar as a ban on trading risk that could be shared";
   "MOC - Islamic contract doctrine" -> "Entitlement by liability versus entitlement by membership";
   "MOC - Islamic contract doctrine" -> "Islamic doctrine refuses risk-commodification at step one";
+  "MOC - Islamic contract doctrine" -> "Latin law lets the agent mix commended capital and Hanafi law does not";
   "MOC - Islamic contract doctrine" -> "MOC - HistorEE";
   "MOC - Islamic contract doctrine" -> "MOC - Risk-sharing vs risk-pricing";
   "MOC - Islamic contract doctrine" -> "Naviganti - Latin Christendom rejected the sea loan too";
@@ -3456,6 +3466,7 @@ digraph vault {
   "MOC - Risk-sharing vs risk-pricing" -> "Hancock 2025 on trust in Barcelona and Mallorca contracts";
   "MOC - Risk-sharing vs risk-pricing" -> "Insurance is a split-off from the sea loan not a coordinate mechanism";
   "MOC - Risk-sharing vs risk-pricing" -> "Labour exchange is the pooling type the census cannot see";
+  "MOC - Risk-sharing vs risk-pricing" -> "Latin law lets the agent mix commended capital and Hanafi law does not";
   "MOC - Risk-sharing vs risk-pricing" -> "Lock-in and outcome-coupling are distinct bindings";
   "MOC - Risk-sharing vs risk-pricing" -> "MOC - Ergodicity and the time-ensemble distinction";
   "MOC - Risk-sharing vs risk-pricing" -> "MOC - HistorEE";
