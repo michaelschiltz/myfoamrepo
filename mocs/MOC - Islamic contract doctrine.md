@@ -76,5 +76,5 @@ The *ribbit* material is filed here rather than in a separate hub, because its v
 
 ## Added 2026-10-09 — the commenda family read against fiqh and halakha
 
-- [[The commenda family fixes the allocation of loss and varies its proof]] — the *Consolat*'s sworn account beside *laysa ʿalā al-amīn illā al-yamīn*; a candidate `VF1` value for `qirad_alloc`
+- [[The commenda family fixes the allocation of loss and proves it by the agent's oath]] — the *Consolat*'s sworn account beside *laysa ʿalā al-amīn illā al-yamīn*; a candidate `VF1` value for `qirad_alloc`
 - [[The comanda ad societatem shares the isqa's allocation but not its construction]] — the agent-exposed regime gains a western instance

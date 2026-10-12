@@ -37,7 +37,7 @@ status: seed
 ## Links
 
 - [[Bilateral names two different loss rules in Genoa and Catalonia]]
-- [[The commenda family fixes the allocation of loss and varies its proof]]
+- [[The commenda family fixes the allocation of loss and proves it by the agent's oath]]
 - [[Genoese notaries drafted the commenda as equity and Catalan notaries as credit]]
 - [[The comanda ad societatem shares the isqa's allocation but not its construction]]
 - [[Agent-borne capital loss clusters in local contracts]]

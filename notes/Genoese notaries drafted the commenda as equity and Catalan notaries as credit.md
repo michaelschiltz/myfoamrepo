@@ -36,7 +36,7 @@ Comanda adjudication 1 and pilot entries 19 and 21 were ruled together (`records
 
 ## Links
 
-- [[The commenda family fixes the allocation of loss and varies its proof]]
+- [[The commenda family fixes the allocation of loss and proves it by the agent's oath]]
 - [[A difference between coded forms is a difference of evidence, vocabulary or form]]
 - [[Primary against secondary coding workflow - three arms, reveal, application]]
 - [[commenda]]

@@ -1,5 +1,5 @@
 ---
-title: The commenda family fixes the allocation of loss and varies its proof
+title: The commenda family fixes the allocation of loss and proves it by the agent's oath
 type: permanent
 tags: [commenda, verification, amana, moral-hazard, comparative]
 project: HistorEE
@@ -9,9 +9,9 @@ created: 2026-10-09
 status: seed
 ---
 
-# The commenda family fixes the allocation of loss and varies its proof
+# The commenda family fixes the allocation of loss and proves it by the agent's oath
 
-Across the unilateral forms of the western family the allocation of loss is invariant and the machinery for establishing a loss is not. The Italian `commenda_alloc`, the Catalan `comanda_alloc` and `qirad_alloc` agree that peril and market loss fall on the capital provider, that the agent is discharged on total loss, and that he answers only for fault. They disagree on **how** a claimed loss is shown, and that is where each jurisdiction's legal apparatus becomes visible.
+*[RENAMED 2026-10-12, by MS's decision, from "The commenda family fixes the allocation of loss and varies its proof". The first sentence below no longer holds in its second half: read from Pisa as well as Venice, the Italian row proves loss by the agent's oath too, and the four branches agree on the mode; see "Ruled later on 2026-10-12" at the end.]* Across the unilateral forms of the western family the allocation of loss is invariant and the machinery for establishing a loss is not. The Italian `commenda_alloc`, the Catalan `comanda_alloc` and `qirad_alloc` agree that peril and market loss fall on the capital provider, that the agent is discharged on total loss, and that he answers only for fault. They disagree on **how** a claimed loss is shown, and that is where each jurisdiction's legal apparatus becomes visible.
 
 **Three modes for one rule.**
 
@@ -52,6 +52,12 @@ MS scoped `commenda_alloc` to the Italian maritime cities (Venice, Genoa, Pisa);
 So `commenda_alloc VF1 = official-adjudication` (medium, articulated), and `VF2 = mixed` is now occurrence plus compliance with the *textus cartule* (cc. 30–31).
 
 **The doubt.** Venice's account rule is Catalonia's: the account is sworn on demand. The Catalan cell rests on *Consolat* cap. 279, which is an accounting rule, together with cap. 220. If the *Consolat* has a separate rule for proving a peril loss, the family's split on `VF1` compares Venice's peril rule with Catalonia's account rule, and the "three modes for one rule" above is partly an artefact. Caps. 209–210 and 220 need reading for that before this note's headline is used. The *qirāḍ* and *ʿisqa* oaths are oaths on the loss itself (*Mabsūṭ* 22, 108; the paid bailee's oath), so they are not exposed to the same doubt.
+
+## Ruled later on 2026-10-12: the family agrees on the oath
+
+The doubt above was too narrow. Pisa's *Constitutum usus*, acquired the same day (Bonaini II, 895–896), frees a traveller who reports less than his fellow venturers on his own sworn account if he was of good repute on that venture, *suo iuramento … liberetur*; the investor keeps his witnesses *de sua culpa*, and only a traveller of bad repute must bring proof, failing which he pays what the others on the voyage generally made. Venice itself discharges on the oath for goods lost or stolen (Dandolo c. 32, first sentence) and takes the account on oath; its witness clause for shipwreck, capture and fire stands only in two of three manuscripts, and Besta summarises the third as an oath for *rapina* and *naufragio*. MS reopened the cell: `commenda_alloc VF1 = claimant-oath` (ruling 26 of `records/RULINGS-commenda-italian-recode-2026-10-12.md`).
+
+So the family holds allocation fixed **and** the mode of proof: the agent's oath, rebuttable on proof of fault, across Pisa, Venice, Catalonia, the *qirāḍ* and the *ʿisqa*. What varies is the guard on the oath — repute and a comparison with fellow venturers in Pisa, ex-ante witnesses for named catastrophes in one Venetian redaction, prison for an unexplained loss in the *Consolat* (cap. 220), an unmeetable bar in the *heter ʿisqa*. That variation is real but sits in the burden of proof, which `VF1` deliberately does not record. For the substitution thesis the finding cuts the other way from this note's title: across the family, the outcome-refusing pole — believe the agent's sworn account rather than read fault off the loss — is the norm, not the Catalan exception. Parallelism on a shared Mediterranean substrate, not independent convergence.
 
 ## Links
 
