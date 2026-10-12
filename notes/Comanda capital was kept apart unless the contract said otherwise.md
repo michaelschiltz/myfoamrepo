@@ -26,6 +26,13 @@ See [[Hancock 2025 on trust in Barcelona and Mallorca contracts]], 17.
 
 `CI1` was answering two questions: how the contributions of several parties are held within an arrangement, and whether the arrangement's capital is kept apart from the agent's own. The *Consolat*'s default answers the second. MS split the characteristic (`records/RULINGS-comanda-adjudications-2026-10-11.md` in HistorEE_codebooks, ruling 4): `CI1` keeps the first question, and **`CI5`, segregation from the holder's capital** (`segregated | commingled`), takes the second. `comanda CI5 = segregated`, low, on cap. 219; `comanda CI1 = .NR`, because single-investor comandas (`none`) and Hancock's community of investments in shares (`common`) are both attested and neither is counted. The gap logged on 2026-10-07 closes with the split: one investor's capital in one agent's hands is `CI1 = none`. Arm P's Genoese acts are the evidence that the two questions come apart: Scriba and Amalric commingle *per libram cum aliis*, Cassinese keeps capital *separatim*. `CI5` is not shielding; who could reach the segregated account remains `AP1`–`AP4`'s question.
 
+
+## Genoa and Pisa ran the other default (2026-10-12)
+
+The Italian re-code coded the same question, now `CI5`, for the commenda and the *qirāḍ*, and the family splits on it. In Genoa the commended goods were traded and charged together with the traveller's other capital unless the act said otherwise: Scriba's acts commingle; Cassinese writes *et debet implicare separatim* into eight of the fifteen acts that speak, which is a clause one drafts only against a commingling default. Pisa's *Constitutum usus* joins a valued contribution to the traveller's common stock at once, *cum hentica statim communicet* (Bonaini II, 885). Ḥanafī law sides with Catalonia: mixing the capital with his own property without *iʿmal fīhi bi-raʾyika* makes the *muḍārib* liable and voids the *muḍāraba* for that sum (al-Sarakhsī, *al-Mabsūṭ* 22, 48). So `comanda` and `qirad` read `segregated`, `commenda` `commingled` (low).
+
+What travels with the default is how a loss is divided. A mixed stock divides gain and loss *per libram* everywhere it is regulated (Pisa; Cassinese; *Consolat* caps. 215–216; *Mabsūṭ* 22, 48); a segregated or traceable one leaves the loss with the owner (Genoa's own Breve prefers the investor who can trace his goods). Mixing is a way of mutualising an owner's particular loss. Whether the census should read that as `LR4` is open: it has so far coded *per libram* sharing of one venture's outcome as not mutualisation.
+
 ## Links
 
 - [[MOC - Entity-shielding and corporate forms]]
