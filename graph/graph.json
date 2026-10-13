@@ -1040,7 +1040,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Comanda capital was mixed with the agent's own unless the contract said otherwise",
-      "value": 11,
+      "value": 12,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -2219,7 +2219,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Latin law lets the agent mix commended capital and Hanafi law does not",
-      "value": 11,
+      "value": 12,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -8676,6 +8676,10 @@
     {
       "from": "Comanda capital was mixed with the agent's own unless the contract said otherwise",
       "to": "Hancock 2025 on trust in Barcelona and Mallorca contracts"
+    },
+    {
+      "from": "Comanda capital was mixed with the agent's own unless the contract said otherwise",
+      "to": "Latin law lets the agent mix commended capital and Hanafi law does not"
     },
     {
       "from": "Comanda capital was mixed with the agent's own unless the contract said otherwise",
