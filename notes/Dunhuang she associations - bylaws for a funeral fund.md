@@ -68,6 +68,18 @@ Manuscripts at the British Library, the BnF, the National Library of China and t
 
 **For the census, stated and not applied.** The pooling evidence is a minority of the corpus by count: 31 death circulars and 29 contribution registers against 61 banquet and 23 Buddhist-service circulars and 68 liturgical texts. **The contribution registers record realised transfers per death, not promised ones**, and the loan registers show **a common stock lent to members** — a reserve, not only a pay-as-you-go levy. Coding has to be by document and by bylaw, never by the label 社.
 
+## Coded — `she_death_aid`, 14 October 2026
+
+**Coded into `loss_mitigation_forms` as `she_death_aid`** (HistorEE_codebooks, `LM-0763`–`LM-0785`), pass `she-associations-2026-10-13`, open; rulings in `records/RULINGS-she-associations-2026-10-13.md`. Read on the page images of Ning and Hao 1997: the 10 practical bylaws, 20 in-scope death circulars, 27 in-scope contribution registers, 9 loan registers, 7 petitions to join and leave, and three enforcement documents.
+
+- **A levy at each death, not a fund**: 20 of 20 in-scope circulars fix 人各… per member at the death (`CN1 = ex-post-assessment`, the census's second after general average). **The 義聚 is a reserve lent to members at interest, and no document shows it paying a funeral**, so the paragraph above ("a reserve, not only a pay-as-you-go levy") is qualified: the reserve exists beside the levy and is not shown to fund the death aid.
+- **Capped twice**: a fixed schedule whatever the funeral costs, and three bylaws (S. 2041, S. 8160, S. 6005) cap draws at three per household per cycle, reset by a banquet.
+- **Paid to the bereaved household** whether the dead is the member (4 of 20 circulars) or a relative (15).
+- **Rules made by the members** (six documents); entry by petition to the officers; exit penalised but possible, once by the association's leave (S. 5698).
+- **What the census cannot express**: gender (the women's bylaws S. 527 and P. 3489 take the same values as the rest), and several grounds of membership at once (`MB1` coded as no fitting value).
+- **Correction to the record section above** [2026-10-14, from the page image of S. 527, Ning and Hao p. 24]: the women's schedule is 人各油壹合，白麵壹斤，粟壹㪷 — one *ge* of oil per member, a small measure, not "one vat".
+- **Still open here**: ⚠️ the attachment key `V5XHQ7EY` above is no longer among `HTDVN55W`'s children (now `VJ3VSQZJ`, the Acrobat copy, and `UE9ZV5MT`, the re-OCR'd copy); flagged, not changed. Whether the *she* relates to the *huiguan* stays unanswered: the census records resemblance only, never descent.
+
 ## Links
 
 - [[MOC - Silk Road archives]]
@@ -77,4 +89,4 @@ Manuscripts at the British Library, the BnF, the National Library of China and t
 
 ## Source
 
-Silk Road archives survey, 12 September 2026. Stephen F. Teiser, "Terms of Friendship: Bylaws for Associations of Buddhist Laywomen in Medieval China", *Dunhuang Studies* (2020), 154–172, read through a summary of the PDF; the EFEO "Local Primary Sources from Late Imperial China" page on Dunhuang *she* documents (Galambos); Hao Chunwen 2021 (DOI 10.15239/hijbs.04.02.02), read through a summary. **No manuscript consulted.** Added 8 October 2026: Ning and Hao 1997, preface pp. 7–21, read from page images.
+Silk Road archives survey, 12 September 2026. Stephen F. Teiser, "Terms of Friendship: Bylaws for Associations of Buddhist Laywomen in Medieval China", *Dunhuang Studies* (2020), 154–172, read through a summary of the PDF; the EFEO "Local Primary Sources from Late Imperial China" page on Dunhuang *she* documents (Galambos); Hao Chunwen 2021 (DOI 10.15239/hijbs.04.02.02), read through a summary. **No manuscript consulted.** Added 8 October 2026: Ning and Hao 1997, preface pp. 7–21, read from page images. Added 14 October 2026: the coding pass, on page images.
