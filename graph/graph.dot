@@ -116,7 +116,7 @@ digraph vault {
   "Chinese contracts - the private document boom and the market that feeds it" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
   "Chinese genealogies - Shanghai Library and FamilySearch" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
   "Chit funds and kuri - a living rotating association with no historical archive" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
-  "Comanda capital was kept apart unless the contract said otherwise" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
+  "Comanda capital was mixed with the agent's own unless the contract said otherwise" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Comanda names several contracts in the Catalan sources" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Consulado de Burgos - the universidad de mercaderes" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
   "Cooperation is an averaging puzzle and sovereign repayment is a barrier puzzle" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
@@ -628,7 +628,7 @@ digraph vault {
   "A contingency clause priced at zero is evidence for a time-average criterion" -> "The determinate-contingent typology carries the richness";
   "A contingency clause priced at zero is evidence for a time-average criterion" -> "The sea loan is a contingent claim not a loan";
   "A contingency clause priced at zero is evidence for a time-average criterion" -> "loss_mitigation_forms";
-  "A difference between coded forms is a difference of evidence, vocabulary or form" -> "Comanda capital was kept apart unless the contract said otherwise";
+  "A difference between coded forms is a difference of evidence, vocabulary or form" -> "Comanda capital was mixed with the agent's own unless the contract said otherwise";
   "A difference between coded forms is a difference of evidence, vocabulary or form" -> "Count degrees of freedom not cells";
   "A difference between coded forms is a difference of evidence, vocabulary or form" -> "Genoese notaries drafted the commenda as equity and Catalan notaries as credit";
   "A difference between coded forms is a difference of evidence, vocabulary or form" -> "Hold the rater fixed and vary the evidence";
@@ -1196,7 +1196,7 @@ digraph vault {
   "Bank of Japan Currency Museum - the Senpeikan documents" -> "Mitsui Bunko - the Mitsui house archive";
   "Bank of Japan Currency Museum - the Senpeikan documents" -> "The clearing records dataset has no archive yet";
   "Barcelona law kept the commendatary's creditors off the comanda goods" -> "A difference between coded forms is a difference of evidence, vocabulary or form";
-  "Barcelona law kept the commendatary's creditors off the comanda goods" -> "Comanda capital was kept apart unless the contract said otherwise";
+  "Barcelona law kept the commendatary's creditors off the comanda goods" -> "Comanda capital was mixed with the agent's own unless the contract said otherwise";
   "Barcelona law kept the commendatary's creditors off the comanda goods" -> "MOC - Entity-shielding and corporate forms";
   "Barcelona law kept the commendatary's creditors off the comanda goods" -> "MOC - HistorEE";
   "Barcelona law kept the commendatary's creditors off the comanda goods" -> "Martinez Gijon on the comenda in Spanish law";
@@ -1440,10 +1440,10 @@ digraph vault {
   "Chit funds and kuri - a living rotating association with no historical archive" -> "Kye is not a ROSCA and the equation is an artefact of comparison with mujin";
   "Chit funds and kuri - a living rotating association with no historical archive" -> "MOC - South Asian archives";
   "Chit funds and kuri - a living rotating association with no historical archive" -> "The colonial enquiry as South Asia's layer 3";
-  "Comanda capital was kept apart unless the contract said otherwise" -> "Hancock 2025 on trust in Barcelona and Mallorca contracts";
-  "Comanda capital was kept apart unless the contract said otherwise" -> "MOC - Entity-shielding and corporate forms";
-  "Comanda capital was kept apart unless the contract said otherwise" -> "MOC - HistorEE";
-  "Comanda capital was kept apart unless the contract said otherwise" -> "The Consolat de Mar comanda chapters";
+  "Comanda capital was mixed with the agent's own unless the contract said otherwise" -> "Hancock 2025 on trust in Barcelona and Mallorca contracts";
+  "Comanda capital was mixed with the agent's own unless the contract said otherwise" -> "MOC - Entity-shielding and corporate forms";
+  "Comanda capital was mixed with the agent's own unless the contract said otherwise" -> "MOC - HistorEE";
+  "Comanda capital was mixed with the agent's own unless the contract said otherwise" -> "The Consolat de Mar comanda chapters";
   "Comanda names several contracts in the Catalan sources" -> "Fynn-Paul 2017 on the land commenda of Manresa";
   "Comanda names several contracts in the Catalan sources" -> "Garcia Sanz on the Vic commendas of the thirteenth century";
   "Comanda names several contracts in the Catalan sources" -> "MOC - HistorEE";
@@ -2074,7 +2074,7 @@ digraph vault {
   "HCA - the High Court of Admiralty" -> "The amirautes - a series across the coastal departments";
   "Hancock 2025 on trust in Barcelona and Mallorca contracts" -> "Arxiu Historic de Protocols de Barcelona";
   "Hancock 2025 on trust in Barcelona and Mallorca contracts" -> "Bilateral names two different loss rules in Genoa and Catalonia";
-  "Hancock 2025 on trust in Barcelona and Mallorca contracts" -> "Comanda capital was kept apart unless the contract said otherwise";
+  "Hancock 2025 on trust in Barcelona and Mallorca contracts" -> "Comanda capital was mixed with the agent's own unless the contract said otherwise";
   "Hancock 2025 on trust in Barcelona and Mallorca contracts" -> "MOC - HistorEE";
   "Hancock 2025 on trust in Barcelona and Mallorca contracts" -> "MOC - Risk-sharing vs risk-pricing";
   "Hancock 2025 on trust in Barcelona and Mallorca contracts" -> "The Catalan maritime comanda puts the whole capital loss on the investor";
@@ -2466,7 +2466,7 @@ digraph vault {
   "Landesarchiv NRW and the Rhineland" -> "MOC - Belgian archives";
   "Landesarchiv NRW and the Rhineland" -> "MOC - German archives";
   "Landesarchiv NRW and the Rhineland" -> "The German Wirtschaftsarchive - a distributed business archive";
-  "Latin law lets the agent mix commended capital and Hanafi law does not" -> "Comanda capital was kept apart unless the contract said otherwise";
+  "Latin law lets the agent mix commended capital and Hanafi law does not" -> "Comanda capital was mixed with the agent's own unless the contract said otherwise";
   "Latin law lets the agent mix commended capital and Hanafi law does not" -> "MOC - HistorEE";
   "Latin law lets the agent mix commended capital and Hanafi law does not" -> "MOC - Islamic contract doctrine";
   "Latin law lets the agent mix commended capital and Hanafi law does not" -> "MOC - Risk-sharing vs risk-pricing";
@@ -3449,7 +3449,7 @@ digraph vault {
   "MOC - Risk-sharing vs risk-pricing" -> "Bottomry and respondentia are one institution named twice in English";
   "MOC - Risk-sharing vs risk-pricing" -> "Bottomry separates from the sea loan on recourse not on collateral";
   "MOC - Risk-sharing vs risk-pricing" -> "Brown tests equality where a risk reading predicts dispersion";
-  "MOC - Risk-sharing vs risk-pricing" -> "Comanda capital was kept apart unless the contract said otherwise";
+  "MOC - Risk-sharing vs risk-pricing" -> "Comanda capital was mixed with the agent's own unless the contract said otherwise";
   "MOC - Risk-sharing vs risk-pricing" -> "Comanda names several contracts in the Catalan sources";
   "MOC - Risk-sharing vs risk-pricing" -> "Cooperation is an averaging puzzle and sovereign repayment is a barrier puzzle";
   "MOC - Risk-sharing vs risk-pricing" -> "Decoupling substitutes proxy legibility for outcome legibility";
@@ -4895,7 +4895,7 @@ digraph vault {
   "The Roman universitas makes the JSC case parallelism not convergence" -> "The theory predicts recurrence not independent origins";
   "The Roman universitas makes the JSC case parallelism not convergence" -> "The western family needs only plausible common descent not proven genealogy";
   "The Roman universitas makes the JSC case parallelism not convergence" -> "Transmission versus independent recurrence is the load-bearing test";
-  "The Sarta company held no common fund" -> "Comanda capital was kept apart unless the contract said otherwise";
+  "The Sarta company held no common fund" -> "Comanda capital was mixed with the agent's own unless the contract said otherwise";
   "The Sarta company held no common fund" -> "Fynn-Paul 2017 on the land commenda of Manresa";
   "The Sarta company held no common fund" -> "MOC - Entity-shielding and corporate forms";
   "The Sarta company held no common fund" -> "MOC - HistorEE";

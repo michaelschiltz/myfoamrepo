@@ -13,7 +13,7 @@ status: seed
 
 In the Crown of Aragon the goods a commendatary brought back from a voyage were closed to his own creditors and to his wife's dower claims until the investors had been paid. *Recognoverunt proceres* cap. 69 (Barcelona, 1284) declares void the claims of the commendatary's wife for her *sponsalicium* and of "any creditor of the commendatary" against those goods, and admits them only once those who gave the comandas "recuperaverint illas commandas, vel merces emptas de illa pecunia"; it extends a pragmatic of Jaime I of 1271 against widows seizing comandas *ratione sponsalitiorum* when the commendatary died on the voyage (Martínez Gijón 1966, 421). Martínez Gijón reads the rule as presupposing "una separación tajante entre los bienes recibidos en comenda y el patrimonio del comendatario" (422).
 
-**What it is, in the census's terms.** Weak entity shielding of the venture pool against one member's creditors — the investors, the pool's claimants, rank ahead of the agent's personal creditors in the pool's assets. `comanda AP1 = P`: the investor's own creditors and the rank of third parties who dealt with the venture are not addressed.
+**What it is, in the census's terms.** *[CORRECTED 2026-10-13: not entity shielding under `AP1` as clarified (ruling 7 of `records/RULINGS-commenda-followups-2026-10-13.md` in HistorEE_codebooks). The investors are members of the arrangement, and `AP1` counts only third parties who dealt with it as entity creditors. `comanda AP1` is now `.NR` and `commenda AP1` `0`: Genoa ranks the investor first and every other creditor of the traveller alike, so the venture's creditors are not set before his personal ones. The Barcelona rule stands, as a partition of the goods in the investors' favour.]* Weak entity shielding of the venture pool against one member's creditors — the investors, the pool's claimants, rank ahead of the agent's personal creditors in the pool's assets. `comanda AP1 = P`: the investor's own creditors and the rank of third parties who dealt with the venture are not addressed.
 
 **Why it matters against the Italian account.** Harris 2007 describes the commenda pool as reachable by "creditors of the traveling party", and the live `commenda AP1 = P` rests on that. Barcelona barred them by statute in 1284. The Genoese statute Martínez Gijón quotes — commended goods preferred "quibuscumque creditoribus, quantumcumque anterioribus … etiam comprehensis dotibus" — reaches the same solution, but in its 1490/1588 printing, so it cannot date the Italian rule. Whether the twelfth- and thirteenth-century commenda had the protection is open, and it is the cell on which the Italian re-code should look first. *[Superseded 2026-10-12: Genoa had the rule by 1207–1217. See below.]* The wife's dower is the telling detail: the claim most likely to compete with the investors when a traveller died abroad is the one the rule names.
 
@@ -30,7 +30,7 @@ Pisa went further for the *societas maris* in its 1248 revision of the *Constitu
 
 ## Links
 
-- [[Comanda capital was kept apart unless the contract said otherwise]]
+- [[Comanda capital was mixed with the agent's own unless the contract said otherwise]]
 - [[The Consolat de Mar comanda chapters]]
 - [[Martinez Gijon on the comenda in Spanish law]]
 - [[A difference between coded forms is a difference of evidence, vocabulary or form]]

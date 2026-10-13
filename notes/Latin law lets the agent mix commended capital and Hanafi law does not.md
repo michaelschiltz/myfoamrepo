@@ -19,7 +19,7 @@ status: seed
 - **Catalonia lets the commendatary mix the comanda with his own money unless the investor restricted him.** Gain and loss are then divided *per sou e per liura* (*Consolat*, cap. 215).
 - **Ḥanafī law makes the *muḍārib* liable and voids the *muḍāraba* for the mixed sum** if he mixes without the investor's authority, *iʿmal fīhi bi-raʾyika* (al-Sarakhsī, *al-Mabsūṭ* 22, 48).
 
-See [[Comanda capital was kept apart unless the contract said otherwise]] for the Catalan reading and its correction.
+See [[Comanda capital was mixed with the agent's own unless the contract said otherwise]] for the Catalan reading and its correction.
 
 **The hypothesis.** Both traditions legitimate the investor's profit through his continued ownership of the capital. They differ in what their law of mixtures does to that ownership.
 

@@ -116,7 +116,7 @@ Thematic hub for the instrument axis: risk-*sharing* forms that keep every party
 - [[The Catalan maritime comanda puts the whole capital loss on the investor]] — the *Consolat de Mar* in the tradition's words, 352 of 1,432 acts with an explicit risk clause; fault and proof fall on the agent
 - [[The comanda ad societatem shares losses in the proportion of profits]] — a loss rule that cuts across sea and land; the Catalan counterpart of the bilateral form
 - [[The land comanda gave way to the censal after 1348]] — Fynn-Paul's substitution case, with the selection caveats
-- [[Comanda capital was kept apart unless the contract said otherwise]] — the *Consolat*'s default and the `CI1` vocabulary question
+- [[Comanda capital was mixed with the agent's own unless the contract said otherwise]] — the *Consolat*'s default and the `CI1` vocabulary question
 - [[Latin law lets the agent mix commended capital and Hanafi law does not]] — hypothesis (2026-10-12): the `CI5` split follows the law of mixtures, Roman co-ownership against the Ḥanafī trustee's consumption
 - Sources: [[Martinez Gijon on the comenda in Spanish law]] · [[The Consolat de Mar comanda chapters]] · [[Garcia Sanz on the Vic commendas of the thirteenth century]] · [[Hancock 2025 on trust in Barcelona and Mallorca contracts]] · [[Fynn-Paul 2017 on the land commenda of Manresa]] · [[Polonio on the Barcelona maritime comandas 1349-1450]]
 

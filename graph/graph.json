@@ -1036,10 +1036,10 @@
       "shape": "dot"
     },
     {
-      "id": "Comanda capital was kept apart unless the contract said otherwise",
+      "id": "Comanda capital was mixed with the agent's own unless the contract said otherwise",
       "type": "permanent",
       "group": "seed",
-      "label": "Comanda capital was kept apart unless the contract said otherwise",
+      "label": "Comanda capital was mixed with the agent's own unless the contract said otherwise",
       "value": 11,
       "color": "#e6ab02",
       "shape": "dot"
@@ -5427,7 +5427,7 @@
     },
     {
       "from": "A difference between coded forms is a difference of evidence, vocabulary or form",
-      "to": "Comanda capital was kept apart unless the contract said otherwise"
+      "to": "Comanda capital was mixed with the agent's own unless the contract said otherwise"
     },
     {
       "from": "A difference between coded forms is a difference of evidence, vocabulary or form",
@@ -7699,7 +7699,7 @@
     },
     {
       "from": "Barcelona law kept the commendatary's creditors off the comanda goods",
-      "to": "Comanda capital was kept apart unless the contract said otherwise"
+      "to": "Comanda capital was mixed with the agent's own unless the contract said otherwise"
     },
     {
       "from": "Barcelona law kept the commendatary's creditors off the comanda goods",
@@ -8674,19 +8674,19 @@
       "to": "The colonial enquiry as South Asia's layer 3"
     },
     {
-      "from": "Comanda capital was kept apart unless the contract said otherwise",
+      "from": "Comanda capital was mixed with the agent's own unless the contract said otherwise",
       "to": "Hancock 2025 on trust in Barcelona and Mallorca contracts"
     },
     {
-      "from": "Comanda capital was kept apart unless the contract said otherwise",
+      "from": "Comanda capital was mixed with the agent's own unless the contract said otherwise",
       "to": "MOC - Entity-shielding and corporate forms"
     },
     {
-      "from": "Comanda capital was kept apart unless the contract said otherwise",
+      "from": "Comanda capital was mixed with the agent's own unless the contract said otherwise",
       "to": "MOC - HistorEE"
     },
     {
-      "from": "Comanda capital was kept apart unless the contract said otherwise",
+      "from": "Comanda capital was mixed with the agent's own unless the contract said otherwise",
       "to": "The Consolat de Mar comanda chapters"
     },
     {
@@ -11211,7 +11211,7 @@
     },
     {
       "from": "Hancock 2025 on trust in Barcelona and Mallorca contracts",
-      "to": "Comanda capital was kept apart unless the contract said otherwise"
+      "to": "Comanda capital was mixed with the agent's own unless the contract said otherwise"
     },
     {
       "from": "Hancock 2025 on trust in Barcelona and Mallorca contracts",
@@ -12779,7 +12779,7 @@
     },
     {
       "from": "Latin law lets the agent mix commended capital and Hanafi law does not",
-      "to": "Comanda capital was kept apart unless the contract said otherwise"
+      "to": "Comanda capital was mixed with the agent's own unless the contract said otherwise"
     },
     {
       "from": "Latin law lets the agent mix commended capital and Hanafi law does not",
@@ -16711,7 +16711,7 @@
     },
     {
       "from": "MOC - Risk-sharing vs risk-pricing",
-      "to": "Comanda capital was kept apart unless the contract said otherwise"
+      "to": "Comanda capital was mixed with the agent's own unless the contract said otherwise"
     },
     {
       "from": "MOC - Risk-sharing vs risk-pricing",
@@ -22495,7 +22495,7 @@
     },
     {
       "from": "The Sarta company held no common fund",
-      "to": "Comanda capital was kept apart unless the contract said otherwise"
+      "to": "Comanda capital was mixed with the agent's own unless the contract said otherwise"
     },
     {
       "from": "The Sarta company held no common fund",

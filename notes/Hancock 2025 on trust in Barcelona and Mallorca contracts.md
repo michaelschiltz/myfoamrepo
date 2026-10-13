@@ -33,7 +33,7 @@ Hancock gives no count of the shared-risk minority among the 352 risk-clause act
 ## Links
 
 - [[The Catalan maritime comanda puts the whole capital loss on the investor]]
-- [[Comanda capital was kept apart unless the contract said otherwise]]
+- [[Comanda capital was mixed with the agent's own unless the contract said otherwise]]
 - [[Arxiu Historic de Protocols de Barcelona]]
 - [[MOC - Risk-sharing vs risk-pricing]]
 - [[MOC - HistorEE]]

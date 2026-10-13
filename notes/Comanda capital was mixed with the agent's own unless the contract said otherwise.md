@@ -1,5 +1,5 @@
 ---
-title: Comanda capital was kept apart unless the contract said otherwise
+title: Comanda capital was mixed with the agent's own unless the contract said otherwise
 type: permanent
 tags: [commenda, coding-ontology]
 project: HistorEE
@@ -8,9 +8,9 @@ created: 2026-10-07
 status: seed
 ---
 
-# Comanda capital was kept apart unless the contract said otherwise
+# Comanda capital was mixed with the agent's own unless the contract said otherwise
 
-*[Corrected 2026-10-12, late: true only for a comanda carried alongside a company's common stock (cap. 219). Mixed with the agent's own money, the default is commingling with gain and loss divided per sou e per liura (cap. 215); `comanda CI5` is now `commingled`. See the last section. The title is now misleading; renaming waits on MS.]* The *Consolat de Mar* makes separate accounting the default for a comanda carried alongside other goods. A comanda taken *sparsa* by someone who also carries the goods of a company is accounted for separately, and is not mixed into the common stock unless the contract says so. Commingling without consent lets the investor claim the highest price obtained (cap. 219; [[The Consolat de Mar comanda chapters]]). Where the agent invests the comanda together with his own money, gain and loss are divided "per sou e per liura" (215).
+*[RENAMED 2026-10-13, by MS's decision, from "Comanda capital was kept apart unless the contract said otherwise": cap. 215, not cap. 219, is the default (ruling 29).]* *[Corrected 2026-10-12, late: true only for a comanda carried alongside a company's common stock (cap. 219). Mixed with the agent's own money, the default is commingling with gain and loss divided per sou e per liura (cap. 215); `comanda CI5` is now `commingled`. See the last section. The title is now misleading; renaming waits on MS.]* The *Consolat de Mar* makes separate accounting the default for a comanda carried alongside other goods. A comanda taken *sparsa* by someone who also carries the goods of a company is accounted for separately, and is not mixed into the common stock unless the contract says so. Commingling without consent lets the investor claim the highest price obtained (cap. 219; [[The Consolat de Mar comanda chapters]]). Where the agent invests the comanda together with his own money, gain and loss are divided "per sou e per liura" (215).
 
 The notarial acts show three ways of holding the capital, which Hancock takes from Madurell & García Sanz (I, 94–96):
 

@@ -20,6 +20,6 @@ The Manresan *societas* of Jaume Sarta, Berenguer Amargós and Des Valls, formed
 ## Links
 
 - [[Fynn-Paul 2017 on the land commenda of Manresa]]
-- [[Comanda capital was kept apart unless the contract said otherwise]]
+- [[Comanda capital was mixed with the agent's own unless the contract said otherwise]]
 - [[MOC - Entity-shielding and corporate forms]]
 - [[MOC - HistorEE]]
