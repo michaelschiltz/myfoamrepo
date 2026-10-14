@@ -78,3 +78,8 @@ Thematic hub for the corporate-form apparatus: asset-partitioning, identity-wrap
 
 - [[The Sarta company held no common fund]] — a Catalan *societas* run through interpersonal commendas, with no company capital in the records; a candidate, not a coding
 - [[Barcelona law kept the commendatary's creditors off the comanda goods]] — *Recognoverunt proceres* 69 (1284): the agent's creditors and wife barred from the comanda goods until the investors are paid; a partition in the investors' favour, not entity shielding (`comanda AP1` `.NR` since 2026-10-13)
+
+## Added 2026-10-14
+
+- [[The Hanafi investor answers beyond his capital for the agent's purchases and the Maliki does not]] — the capital provider's owner shielding parts the two schools, and `AP3`/`LR1` are located on the labour party
+- [[Hanafi and Maliki law part on who may force the liquidation of a mudaraba]] — capital lock-in (`CI2`) and revocability (`TS3`) part the Ḥanafī and Mālikī rows

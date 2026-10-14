@@ -44,7 +44,7 @@ The *ribbit* material is filed here rather than in a separate hub, because its v
 - *Naviganti* — Liber Extra X 5.19.19, 1234 (confirm numbering)
 - ḥadd/taʿzīr hadith wording on betrayal of trust (*khiyāna* vs *sariqa*)
 - Sasanian genealogy of the *qirad* (*hambāyīh*; Morony 2017; cf. Udovitch 1962) — pending Part 2 WP1 note
-- *ʿaqd jāʾiz* classification of the *mudaraba*, and the Maliki restriction on revocation once the agent has commenced work — schools diverge; confirm before the revocability claim carries weight
+- *ʿaqd jāʾiz* classification of the *mudaraba*, and the Maliki restriction on revocation once the agent has commenced work — schools diverge; confirm before the revocability claim carries weight *[resolved 2026-10-14: both schools restrict; they part on who may force the liquidation — [[Hanafi and Maliki law part on who may force the liquidation of a mudaraba]]]*
 - Harris's engagement with Kuran in chapter 12 — confirm he treats non-perpetuity directly rather than in passing
 - *al-kharāj bi-l-ḍamān* and *al-ghunm bi-l-ghurm* — hadith attribution and standard *qāʿida fiqhiyya* formulations
 - Q 59:7 circulation norm — confirm the *fayʾ* context before generalising it to an anti-concentration principle
@@ -79,3 +79,8 @@ The *ribbit* material is filed here rather than in a separate hub, because its v
 
 - [[The commenda family fixes the allocation of loss and proves it by the agent's oath]] — the *Consolat*'s sworn account beside *laysa ʿalā al-amīn illā al-yamīn*; a candidate `VF1` value for `qirad_alloc`
 - [[The comanda ad societatem shares the isqa's allocation but not its construction]] — the agent-exposed regime gains a western instance
+
+## Added 2026-10-14 — the Ḥanafī and Mālikī rows coded apart
+
+- [[Hanafi and Maliki law part on who may force the liquidation of a mudaraba]] — both schools bar recall once goods are bought; the Ḥanafī investor can compel the sale, the Mālikī cannot; the pre-named `TS3` test of 2026-08-18 separates the rows
+- [[The Hanafi investor answers beyond his capital for the agent's purchases and the Maliki does not]] — capital lost before the price is paid: the Ḥanafī agent recovers the price from the investor, repeatedly; the Mālikī investor may walk away; no column carries it

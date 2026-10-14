@@ -31,6 +31,8 @@ See [[Comanda capital was mixed with the agent's own unless the contract said ot
 
 **Why it matters for the census.** `CI5` was added as description and kept out of the asset-partitioning set. *[2026-10-13: after ruling 3 the census shows no `CI5` split in the commenda family; the paragraph below now concerns a Ḥanafī divergence the census does not code.]* If the hypothesis holds, the Latin–Islamic split on `CI5` is not a difference in commercial practice. It is a difference in property law, which the census would otherwise read as a difference in how the forms operate. That bears on the substitution thesis: in the *qirāḍ* the investor's protection is title, and in the Latin forms it is a pro-rata share plus a priority over the traveller's estate.
 
+*[2026-10-14: the Ḥanafī divergence is now coded. `mudaraba` entered `organizational_forms` with `CI5 = segregated` (pass `mudaraba-qirad-2026-10-14`), the reason the row was opened and carrying no weight as a result; the schools also part on `TS3`, `CI2` and `TS1`: [[Hanafi and Maliki law part on who may force the liquidation of a mudaraba]].]*
+
 ## Where this is soft
 
 - **Two traditions, not many cases.** Genoa, Pisa and Catalonia share a Roman-law substrate and count as one datum against the Ḥanafī one: parallelism, not convergence. *[2026-10-13: the Mālikī *qirāḍ* sides with the Latin datum (test 2), so the split is Latin and Mālikī against Ḥanafī, one datum each, with al-Shāfiʿī silent in what was read.]*

@@ -192,6 +192,7 @@ digraph vault {
   "Guildhall Library and the City livery companies" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
   "Gurema - the insolvent estate distributed among creditors" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
   "HCA - the High Court of Admiralty" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
+  "Hanafi and Maliki law part on who may force the liquidation of a mudaraba" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Hancock 2025 on trust in Barcelona and Mallorca contracts" [fillcolor="#7570b3", fontcolor=white, shape=ellipse];
   "Handoff - the non-European archive survey" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
   "Hanse documents on the Memory of the World register" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
@@ -426,6 +427,7 @@ digraph vault {
   "The Dubrovnik quarantine of 1377" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
   "The Fugger diversified activity while concentrating the barrier" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "The German Wirtschaftsarchive - a distributed business archive" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
+  "The Hanafi investor answers beyond his capital for the agent's purchases and the Maliki does not" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "The Khalili Bactrian documents - a private collection as the archive" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
   "The Kux carries transferability with unlimited liability" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "The London Archives" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
@@ -2073,6 +2075,14 @@ digraph vault {
   "HCA - the High Court of Admiralty" -> "The National Archives - Kew";
   "HCA - the High Court of Admiralty" -> "The Prize Papers - HCA 32 and the German money";
   "HCA - the High Court of Admiralty" -> "The amirautes - a series across the coastal departments";
+  "Hanafi and Maliki law part on who may force the liquidation of a mudaraba" -> "Latin law lets the agent mix commended capital and Hanafi law does not";
+  "Hanafi and Maliki law part on who may force the liquidation of a mudaraba" -> "Lock-in and outcome-coupling are distinct bindings";
+  "Hanafi and Maliki law part on who may force the liquidation of a mudaraba" -> "MOC - Entity-shielding and corporate forms";
+  "Hanafi and Maliki law part on who may force the liquidation of a mudaraba" -> "MOC - HistorEE";
+  "Hanafi and Maliki law part on who may force the liquidation of a mudaraba" -> "MOC - Islamic contract doctrine";
+  "Hanafi and Maliki law part on who may force the liquidation of a mudaraba" -> "The Hanafi investor answers beyond his capital for the agent's purchases and the Maliki does not";
+  "Hanafi and Maliki law part on who may force the liquidation of a mudaraba" -> "The mudaraba is revocable not locked in";
+  "Hanafi and Maliki law part on who may force the liquidation of a mudaraba" -> "organizational_forms";
   "Hancock 2025 on trust in Barcelona and Mallorca contracts" -> "Arxiu Historic de Protocols de Barcelona";
   "Hancock 2025 on trust in Barcelona and Mallorca contracts" -> "Bilateral names two different loss rules in Genoa and Catalonia";
   "Hancock 2025 on trust in Barcelona and Mallorca contracts" -> "Comanda capital was mixed with the agent's own unless the contract said otherwise";
@@ -2468,6 +2478,7 @@ digraph vault {
   "Landesarchiv NRW and the Rhineland" -> "MOC - German archives";
   "Landesarchiv NRW and the Rhineland" -> "The German Wirtschaftsarchive - a distributed business archive";
   "Latin law lets the agent mix commended capital and Hanafi law does not" -> "Comanda capital was mixed with the agent's own unless the contract said otherwise";
+  "Latin law lets the agent mix commended capital and Hanafi law does not" -> "Hanafi and Maliki law part on who may force the liquidation of a mudaraba";
   "Latin law lets the agent mix commended capital and Hanafi law does not" -> "MOC - HistorEE";
   "Latin law lets the agent mix commended capital and Hanafi law does not" -> "MOC - Islamic contract doctrine";
   "Latin law lets the agent mix commended capital and Hanafi law does not" -> "MOC - Risk-sharing vs risk-pricing";
@@ -2766,6 +2777,7 @@ digraph vault {
   "MOC - Entity-shielding and corporate forms" -> "Entitlement by liability versus entitlement by membership";
   "MOC - Entity-shielding and corporate forms" -> "Entity shielding and owner shielding protect different trajectories";
   "MOC - Entity-shielding and corporate forms" -> "Entity-shielding";
+  "MOC - Entity-shielding and corporate forms" -> "Hanafi and Maliki law part on who may force the liquidation of a mudaraba";
   "MOC - Entity-shielding and corporate forms" -> "Harris 2020 on the late plurality of limited liability";
   "MOC - Entity-shielding and corporate forms" -> "Identity-wrapper and perpetual-monopoly are distinct shielding facets";
   "MOC - Entity-shielding and corporate forms" -> "Independence of apparatus is not independence of question";
@@ -2786,6 +2798,7 @@ digraph vault {
   "MOC - Entity-shielding and corporate forms" -> "Taleb specifies the firewall in chapter 4 and condemns it in chapter 23";
   "MOC - Entity-shielding and corporate forms" -> "The Antwerp phases separate on two cells and the boundary is textual";
   "MOC - Entity-shielding and corporate forms" -> "The Bodmerei shield was a default rule and Amsterdam contracted out of it";
+  "MOC - Entity-shielding and corporate forms" -> "The Hanafi investor answers beyond his capital for the agent's purchases and the Maliki does not";
   "MOC - Entity-shielding and corporate forms" -> "The Roman universitas makes the JSC case parallelism not convergence";
   "MOC - Entity-shielding and corporate forms" -> "The Sarta company held no common fund";
   "MOC - Entity-shielding and corporate forms" -> "The alleenrecht is monopoly held as tradable property";
@@ -3291,6 +3304,7 @@ digraph vault {
   "MOC - Islamic contract doctrine" -> "Doctrine has been read as subsistence protection but never through the time average";
   "MOC - Islamic contract doctrine" -> "El-Gamal 2001 on gharar as a ban on trading risk that could be shared";
   "MOC - Islamic contract doctrine" -> "Entitlement by liability versus entitlement by membership";
+  "MOC - Islamic contract doctrine" -> "Hanafi and Maliki law part on who may force the liquidation of a mudaraba";
   "MOC - Islamic contract doctrine" -> "Islamic doctrine refuses risk-commodification at step one";
   "MOC - Islamic contract doctrine" -> "Latin law lets the agent mix commended capital and Hanafi law does not";
   "MOC - Islamic contract doctrine" -> "MOC - HistorEE";
@@ -3301,6 +3315,7 @@ digraph vault {
   "MOC - Islamic contract doctrine" -> "Skin in the game is asymmetric in the mudaraba";
   "MOC - Islamic contract doctrine" -> "Taleb 2012 on antifragility - loci for the time-ensemble distinction";
   "MOC - Islamic contract doctrine" -> "The Bamiyan granary wrote the liability rule into the grain transfer";
+  "MOC - Islamic contract doctrine" -> "The Hanafi investor answers beyond his capital for the agent's purchases and the Maliki does not";
   "MOC - Islamic contract doctrine" -> "The comanda ad societatem shares the isqa's allocation but not its construction";
   "MOC - Islamic contract doctrine" -> "The commenda and the qirad do not separate on loss allocation";
   "MOC - Islamic contract doctrine" -> "The commenda family fixes the allocation of loss and proves it by the agent's oath";
@@ -4804,6 +4819,13 @@ digraph vault {
   "The German Wirtschaftsarchive - a distributed business archive" -> "IISG and NEHA - Amsterdam";
   "The German Wirtschaftsarchive - a distributed business archive" -> "MOC - German archives";
   "The German Wirtschaftsarchive - a distributed business archive" -> "Stiftung Hanseatisches Wirtschaftsarchiv - Hamburg";
+  "The Hanafi investor answers beyond his capital for the agent's purchases and the Maliki does not" -> "Hanafi and Maliki law part on who may force the liquidation of a mudaraba";
+  "The Hanafi investor answers beyond his capital for the agent's purchases and the Maliki does not" -> "Isqa qirad and commenda are a liability-variable triad";
+  "The Hanafi investor answers beyond his capital for the agent's purchases and the Maliki does not" -> "MOC - Entity-shielding and corporate forms";
+  "The Hanafi investor answers beyond his capital for the agent's purchases and the Maliki does not" -> "MOC - HistorEE";
+  "The Hanafi investor answers beyond his capital for the agent's purchases and the Maliki does not" -> "MOC - Islamic contract doctrine";
+  "The Hanafi investor answers beyond his capital for the agent's purchases and the Maliki does not" -> "Skin in the game is asymmetric in the mudaraba";
+  "The Hanafi investor answers beyond his capital for the agent's purchases and the Maliki does not" -> "organizational_forms";
   "The Khalili Bactrian documents - a private collection as the archive" -> "Count degrees of freedom not cells";
   "The Khalili Bactrian documents - a private collection as the archive" -> "Invisible East - an open corpus for the eastern Islamicate documents";
   "The Khalili Bactrian documents - a private collection as the archive" -> "MOC - Acquisitions and the antiquarian trade";
@@ -5360,6 +5382,7 @@ digraph vault {
   "The morphological matrix is dictated by the shape of the feature space" -> "The determinate-contingent typology carries the richness";
   "The morphological matrix is dictated by the shape of the feature space" -> "The durable-and-coupled cell is the underexplored one";
   "The morphological matrix is dictated by the shape of the feature space" -> "organizational_forms";
+  "The mudaraba is revocable not locked in" -> "Hanafi and Maliki law part on who may force the liquidation of a mudaraba";
   "The mudaraba is revocable not locked in" -> "Islamic doctrine refuses risk-commodification at step one";
   "The mudaraba is revocable not locked in" -> "Kuran's brake is a refusal of immortal entities";
   "The mudaraba is revocable not locked in" -> "Lock-in and outcome-coupling are distinct bindings";

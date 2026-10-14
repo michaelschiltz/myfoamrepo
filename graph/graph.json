@@ -1720,6 +1720,15 @@
       "shape": "dot"
     },
     {
+      "id": "Hanafi and Maliki law part on who may force the liquidation of a mudaraba",
+      "type": "permanent",
+      "group": "seed",
+      "label": "Hanafi and Maliki law part on who may force the liquidation of a mudaraba",
+      "value": 18,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
       "id": "Hancock 2025 on trust in Barcelona and Mallorca contracts",
       "type": "source",
       "group": "source",
@@ -1985,7 +1994,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Isqa qirad and commenda are a liability-variable triad",
-      "value": 34,
+      "value": 35,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -2219,7 +2228,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Latin law lets the agent mix commended capital and Hanafi law does not",
-      "value": 12,
+      "value": 14,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -2282,7 +2291,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Lock-in and outcome-coupling are distinct bindings",
-      "value": 40,
+      "value": 41,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -3245,7 +3254,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Skin in the game is asymmetric in the mudaraba",
-      "value": 35,
+      "value": 36,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -3826,6 +3835,15 @@
       "shape": "dot"
     },
     {
+      "id": "The Hanafi investor answers beyond his capital for the agent's purchases and the Maliki does not",
+      "type": "permanent",
+      "group": "seed",
+      "label": "The Hanafi investor answers beyond his capital for the agent's purchases and the Maliki does not",
+      "value": 11,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
       "id": "The Khalili Bactrian documents - a private collection as the archive",
       "type": "reference",
       "group": "reference",
@@ -4397,7 +4415,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The mudaraba is revocable not locked in",
-      "value": 16,
+      "value": 21,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -5045,7 +5063,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Entity-shielding and corporate forms",
-      "value": 127,
+      "value": 131,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -5099,7 +5117,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - HistorEE",
-      "value": 440,
+      "value": 442,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -5117,7 +5135,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Islamic contract doctrine",
-      "value": 66,
+      "value": 71,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -5225,7 +5243,7 @@
       "type": "database",
       "group": "database",
       "label": "organizational_forms",
-      "value": 33,
+      "value": 35,
       "color": "#a6761d",
       "shape": "database"
     },
@@ -11206,6 +11224,38 @@
       "to": "The amirautes - a series across the coastal departments"
     },
     {
+      "from": "Hanafi and Maliki law part on who may force the liquidation of a mudaraba",
+      "to": "Latin law lets the agent mix commended capital and Hanafi law does not"
+    },
+    {
+      "from": "Hanafi and Maliki law part on who may force the liquidation of a mudaraba",
+      "to": "Lock-in and outcome-coupling are distinct bindings"
+    },
+    {
+      "from": "Hanafi and Maliki law part on who may force the liquidation of a mudaraba",
+      "to": "MOC - Entity-shielding and corporate forms"
+    },
+    {
+      "from": "Hanafi and Maliki law part on who may force the liquidation of a mudaraba",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Hanafi and Maliki law part on who may force the liquidation of a mudaraba",
+      "to": "MOC - Islamic contract doctrine"
+    },
+    {
+      "from": "Hanafi and Maliki law part on who may force the liquidation of a mudaraba",
+      "to": "The Hanafi investor answers beyond his capital for the agent's purchases and the Maliki does not"
+    },
+    {
+      "from": "Hanafi and Maliki law part on who may force the liquidation of a mudaraba",
+      "to": "The mudaraba is revocable not locked in"
+    },
+    {
+      "from": "Hanafi and Maliki law part on who may force the liquidation of a mudaraba",
+      "to": "organizational_forms"
+    },
+    {
       "from": "Hancock 2025 on trust in Barcelona and Mallorca contracts",
       "to": "Arxiu Historic de Protocols de Barcelona"
     },
@@ -12787,6 +12837,10 @@
     },
     {
       "from": "Latin law lets the agent mix commended capital and Hanafi law does not",
+      "to": "Hanafi and Maliki law part on who may force the liquidation of a mudaraba"
+    },
+    {
+      "from": "Latin law lets the agent mix commended capital and Hanafi law does not",
       "to": "MOC - HistorEE"
     },
     {
@@ -13979,6 +14033,10 @@
     },
     {
       "from": "MOC - Entity-shielding and corporate forms",
+      "to": "Hanafi and Maliki law part on who may force the liquidation of a mudaraba"
+    },
+    {
+      "from": "MOC - Entity-shielding and corporate forms",
       "to": "Harris 2020 on the late plurality of limited liability"
     },
     {
@@ -14056,6 +14114,10 @@
     {
       "from": "MOC - Entity-shielding and corporate forms",
       "to": "The Bodmerei shield was a default rule and Amsterdam contracted out of it"
+    },
+    {
+      "from": "MOC - Entity-shielding and corporate forms",
+      "to": "The Hanafi investor answers beyond his capital for the agent's purchases and the Maliki does not"
     },
     {
       "from": "MOC - Entity-shielding and corporate forms",
@@ -16079,6 +16141,10 @@
     },
     {
       "from": "MOC - Islamic contract doctrine",
+      "to": "Hanafi and Maliki law part on who may force the liquidation of a mudaraba"
+    },
+    {
+      "from": "MOC - Islamic contract doctrine",
       "to": "Islamic doctrine refuses risk-commodification at step one"
     },
     {
@@ -16116,6 +16182,10 @@
     {
       "from": "MOC - Islamic contract doctrine",
       "to": "The Bamiyan granary wrote the liability rule into the grain transfer"
+    },
+    {
+      "from": "MOC - Islamic contract doctrine",
+      "to": "The Hanafi investor answers beyond his capital for the agent's purchases and the Maliki does not"
     },
     {
       "from": "MOC - Islamic contract doctrine",
@@ -22130,6 +22200,34 @@
       "to": "Stiftung Hanseatisches Wirtschaftsarchiv - Hamburg"
     },
     {
+      "from": "The Hanafi investor answers beyond his capital for the agent's purchases and the Maliki does not",
+      "to": "Hanafi and Maliki law part on who may force the liquidation of a mudaraba"
+    },
+    {
+      "from": "The Hanafi investor answers beyond his capital for the agent's purchases and the Maliki does not",
+      "to": "Isqa qirad and commenda are a liability-variable triad"
+    },
+    {
+      "from": "The Hanafi investor answers beyond his capital for the agent's purchases and the Maliki does not",
+      "to": "MOC - Entity-shielding and corporate forms"
+    },
+    {
+      "from": "The Hanafi investor answers beyond his capital for the agent's purchases and the Maliki does not",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "The Hanafi investor answers beyond his capital for the agent's purchases and the Maliki does not",
+      "to": "MOC - Islamic contract doctrine"
+    },
+    {
+      "from": "The Hanafi investor answers beyond his capital for the agent's purchases and the Maliki does not",
+      "to": "Skin in the game is asymmetric in the mudaraba"
+    },
+    {
+      "from": "The Hanafi investor answers beyond his capital for the agent's purchases and the Maliki does not",
+      "to": "organizational_forms"
+    },
+    {
       "from": "The Khalili Bactrian documents - a private collection as the archive",
       "to": "Count degrees of freedom not cells"
     },
@@ -24352,6 +24450,10 @@
     {
       "from": "The morphological matrix is dictated by the shape of the feature space",
       "to": "organizational_forms"
+    },
+    {
+      "from": "The mudaraba is revocable not locked in",
+      "to": "Hanafi and Maliki law part on who may force the liquidation of a mudaraba"
     },
     {
       "from": "The mudaraba is revocable not locked in",
