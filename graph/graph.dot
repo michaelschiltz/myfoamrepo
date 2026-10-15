@@ -187,6 +187,7 @@ digraph vault {
   "German archives online - the federal access layers" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
   "Gharar excludes designed-in unverifiability" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Glaeser and Scheinkman 1998 on interest restrictions as social insurance" [fillcolor="#7570b3", fontcolor=white, shape=ellipse];
+  "Google Deep Review - checks the derivation not the archive" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
   "Guard against reverse-teleology" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Guild stele inscriptions - the huiguan's surviving record" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
   "Guildhall Library and the City livery companies" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
@@ -2043,6 +2044,9 @@ digraph vault {
   "Glaeser and Scheinkman 1998 on interest restrictions as social insurance" -> "MOC - Risk-sharing vs risk-pricing";
   "Glaeser and Scheinkman 1998 on interest restrictions as social insurance" -> "Rubin 2009 on the interest ban as a curb on overborrowing under Church insurance";
   "Glaeser and Scheinkman 1998 on interest restrictions as social insurance" -> "Temin and Voth 2008 test predictions Glaeser and Scheinkman did not make";
+  "Google Deep Review - checks the derivation not the archive" -> "Blind re-coding workflow - operator, coder, application";
+  "Google Deep Review - checks the derivation not the archive" -> "MOC - Digitisation and text recognition";
+  "Google Deep Review - checks the derivation not the archive" -> "Transkribus - managed HTR platform";
   "Guard against reverse-teleology" -> "Discipline the Whig epithet by pinning it to teleology and survivorship";
   "Guard against reverse-teleology" -> "MOC - HistorEE";
   "Guard against reverse-teleology" -> "MOC - Historiography and method";
