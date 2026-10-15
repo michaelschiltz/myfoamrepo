@@ -267,6 +267,7 @@ digraph vault {
   "Minutier central des notaires de Paris" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
   "Mitsui Bunko - the Mitsui house archive" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
   "Modi script and the forty million documents" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
+  "Monte delle doti coding session 2026-10-15" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
   "Muhallefat and musadere - confiscation as an archive" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
   "Multiplicative amplification is indifferent to what it amplifies" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "NDL transmission service for individuals - the residency wall" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
@@ -3108,6 +3109,7 @@ digraph vault {
   "MOC - HistorEE" -> "MOC - Path dependence and sequence";
   "MOC - HistorEE" -> "MOC - Risk-sharing vs risk-pricing";
   "MOC - HistorEE" -> "Mare Liberum was a corporate legal weapon";
+  "MOC - HistorEE" -> "Monte delle doti coding session 2026-10-15";
   "MOC - HistorEE" -> "Natie and kabu-nakama are a convergence pair";
   "MOC - HistorEE" -> "Natie is a false cognate";
   "MOC - HistorEE" -> "Naviganti - Latin Christendom rejected the sea loan too";
@@ -3488,6 +3490,7 @@ digraph vault {
   "MOC - Risk-sharing vs risk-pricing" -> "MOC - HistorEE";
   "MOC - Risk-sharing vs risk-pricing" -> "MOC - Islamic contract doctrine";
   "MOC - Risk-sharing vs risk-pricing" -> "Martinez Gijon on the comenda in Spanish law";
+  "MOC - Risk-sharing vs risk-pricing" -> "Monte delle doti coding session 2026-10-15";
   "MOC - Risk-sharing vs risk-pricing" -> "Naviganti - Latin Christendom rejected the sea loan too";
   "MOC - Risk-sharing vs risk-pricing" -> "Naviganti delayed the priced premium it is credited with dating";
   "MOC - Risk-sharing vs risk-pricing" -> "No security secures against the peril";
@@ -3687,6 +3690,21 @@ digraph vault {
   "Modi script and the forty million documents" -> "MOC - South Asian archives";
   "Modi script and the forty million documents" -> "Maharashtra State Archives - the Peshwa Daftar";
   "Modi script and the forty million documents" -> "Open-source HTR stack - eScriptorium Kraken Loghi";
+  "Monte delle doti coding session 2026-10-15" -> "A blind is a property of the channel not of the dataset";
+  "Monte delle doti coding session 2026-10-15" -> "Archivio di Stato di Firenze";
+  "Monte delle doti coding session 2026-10-15" -> "Blind re-coding workflow - operator, coder, application";
+  "Monte delle doti coding session 2026-10-15" -> "Count degrees of freedom not cells";
+  "Monte delle doti coding session 2026-10-15" -> "Institutions substitute state-verification for outcome-inference as ruin exposure rises";
+  "Monte delle doti coding session 2026-10-15" -> "Insurance is a split-off from the sea loan not a coordinate mechanism";
+  "Monte delle doti coding session 2026-10-15" -> "MOC - HistorEE";
+  "Monte delle doti coding session 2026-10-15" -> "MOC - Risk-sharing vs risk-pricing";
+  "Monte delle doti coding session 2026-10-15" -> "Pooling's sign is set by the correlation of its baskets";
+  "Monte delle doti coding session 2026-10-15" -> "Pricing is orthogonal to mitigation mechanism not a stage of it";
+  "Monte delle doti coding session 2026-10-15" -> "Split provenance into priority and independence";
+  "Monte delle doti coding session 2026-10-15" -> "The tontine is pooling in form and dispersal in function";
+  "Monte delle doti coding session 2026-10-15" -> "The tontine's chronology defeats the hazard-to-pricing staging";
+  "Monte delle doti coding session 2026-10-15" -> "loss_mitigation_forms";
+  "Monte delle doti coding session 2026-10-15" -> "organizational_forms";
   "Muhallefat and musadere - confiscation as an archive" -> "Gurema - the insolvent estate distributed among creditors";
   "Muhallefat and musadere - confiscation as an archive" -> "MOC - Ottoman archives";
   "Muhallefat and musadere - confiscation as an archive" -> "Orta sandigi records - the guild and Janissary chests";

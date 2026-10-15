@@ -277,3 +277,7 @@ Project hub for the book. Atomic notes hang off both this project MOC and a them
 - [[Agent-borne capital loss clusters in local contracts]]
 - [[A difference between coded forms is a difference of evidence, vocabulary or form]]
 - [[Retrieval report workflow - reading the codebooks and the vault back as evidence]]
+
+## Notes — Florentine dowry fund
+
+- [[Monte delle doti coding session 2026-10-15]]

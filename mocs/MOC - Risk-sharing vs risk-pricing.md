@@ -137,3 +137,7 @@ Thematic hub for the instrument axis: risk-*sharing* forms that keep every party
 
 - [[No security secures against the peril]] — why `RB3` was not split, and the line between a security clause and a liability rule
 - Ruled updates appended to [[Genoese notaries drafted the commenda as equity and Catalan notaries as credit]], [[The comanda ad societatem shares the isqa's allocation but not its construction]], [[The commenda family fixes the allocation of loss and proves it by the agent's oath]] and [[Bilateral names two different loss rules in Genoa and Catalonia]]
+
+## Added 2026-10-15 — the Florentine monte delle doti
+
+- [[Monte delle doti coding session 2026-10-15]] — the dowry fund coded blind as `monte_doti_florence`: a contingent claim sold by the commune (`MC1 = spreading`), priced by term "per cagione della morte" but never on the girl (`PR1 = P`); 1433 a variant, one dated change (`RB2`), no split

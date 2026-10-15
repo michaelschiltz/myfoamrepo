@@ -5,7 +5,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "A blind is a property of the channel not of the dataset",
-      "value": 16,
+      "value": 17,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -473,7 +473,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Archivio di Stato di Firenze",
-      "value": 16,
+      "value": 18,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -806,7 +806,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Blind re-coding workflow - operator, coder, application",
-      "value": 17,
+      "value": 19,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1076,7 +1076,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Count degrees of freedom not cells",
-      "value": 58,
+      "value": 60,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1958,7 +1958,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Institutions substitute state-verification for outcome-inference as ruin exposure rises",
-      "value": 27,
+      "value": 29,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1967,7 +1967,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Insurance is a split-off from the sea loan not a coordinate mechanism",
-      "value": 15,
+      "value": 16,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -2395,6 +2395,15 @@
       "shape": "dot"
     },
     {
+      "id": "Monte delle doti coding session 2026-10-15",
+      "type": "reference",
+      "group": "reference",
+      "label": "Monte delle doti coding session 2026-10-15",
+      "value": 26,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
       "id": "Muhallefat and musadere - confiscation as an archive",
       "type": "reference",
       "group": "reference",
@@ -2813,7 +2822,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Pooling's sign is set by the correlation of its baskets",
-      "value": 53,
+      "value": 55,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -2840,7 +2849,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Pricing is orthogonal to mitigation mechanism not a stage of it",
-      "value": 27,
+      "value": 29,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -3398,7 +3407,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Split provenance into priority and independence",
-      "value": 33,
+      "value": 35,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -4613,7 +4622,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The tontine is pooling in form and dispersal in function",
-      "value": 27,
+      "value": 29,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -4622,7 +4631,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The tontine's chronology defeats the hazard-to-pricing staging",
-      "value": 27,
+      "value": 28,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -5117,7 +5126,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - HistorEE",
-      "value": 442,
+      "value": 444,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -5189,7 +5198,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Risk-sharing vs risk-pricing",
-      "value": 198,
+      "value": 200,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -5243,7 +5252,7 @@
       "type": "database",
       "group": "database",
       "label": "organizational_forms",
-      "value": 35,
+      "value": 36,
       "color": "#a6761d",
       "shape": "database"
     },
@@ -5252,7 +5261,7 @@
       "type": "database",
       "group": "database",
       "label": "loss_mitigation_forms",
-      "value": 50,
+      "value": 51,
       "color": "#a6761d",
       "shape": "database"
     },
@@ -15357,6 +15366,10 @@
     },
     {
       "from": "MOC - HistorEE",
+      "to": "Monte delle doti coding session 2026-10-15"
+    },
+    {
+      "from": "MOC - HistorEE",
       "to": "Natie and kabu-nakama are a convergence pair"
     },
     {
@@ -16877,6 +16890,10 @@
     },
     {
       "from": "MOC - Risk-sharing vs risk-pricing",
+      "to": "Monte delle doti coding session 2026-10-15"
+    },
+    {
+      "from": "MOC - Risk-sharing vs risk-pricing",
       "to": "Naviganti - Latin Christendom rejected the sea loan too"
     },
     {
@@ -17670,6 +17687,66 @@
     {
       "from": "Modi script and the forty million documents",
       "to": "Open-source HTR stack - eScriptorium Kraken Loghi"
+    },
+    {
+      "from": "Monte delle doti coding session 2026-10-15",
+      "to": "A blind is a property of the channel not of the dataset"
+    },
+    {
+      "from": "Monte delle doti coding session 2026-10-15",
+      "to": "Archivio di Stato di Firenze"
+    },
+    {
+      "from": "Monte delle doti coding session 2026-10-15",
+      "to": "Blind re-coding workflow - operator, coder, application"
+    },
+    {
+      "from": "Monte delle doti coding session 2026-10-15",
+      "to": "Count degrees of freedom not cells"
+    },
+    {
+      "from": "Monte delle doti coding session 2026-10-15",
+      "to": "Institutions substitute state-verification for outcome-inference as ruin exposure rises"
+    },
+    {
+      "from": "Monte delle doti coding session 2026-10-15",
+      "to": "Insurance is a split-off from the sea loan not a coordinate mechanism"
+    },
+    {
+      "from": "Monte delle doti coding session 2026-10-15",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Monte delle doti coding session 2026-10-15",
+      "to": "MOC - Risk-sharing vs risk-pricing"
+    },
+    {
+      "from": "Monte delle doti coding session 2026-10-15",
+      "to": "Pooling's sign is set by the correlation of its baskets"
+    },
+    {
+      "from": "Monte delle doti coding session 2026-10-15",
+      "to": "Pricing is orthogonal to mitigation mechanism not a stage of it"
+    },
+    {
+      "from": "Monte delle doti coding session 2026-10-15",
+      "to": "Split provenance into priority and independence"
+    },
+    {
+      "from": "Monte delle doti coding session 2026-10-15",
+      "to": "The tontine is pooling in form and dispersal in function"
+    },
+    {
+      "from": "Monte delle doti coding session 2026-10-15",
+      "to": "The tontine's chronology defeats the hazard-to-pricing staging"
+    },
+    {
+      "from": "Monte delle doti coding session 2026-10-15",
+      "to": "loss_mitigation_forms"
+    },
+    {
+      "from": "Monte delle doti coding session 2026-10-15",
+      "to": "organizational_forms"
     },
     {
       "from": "Muhallefat and musadere - confiscation as an archive",
