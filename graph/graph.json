@@ -1211,7 +1211,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Divergent arbitrary particulars are the independence diagnostic",
-      "value": 60,
+      "value": 62,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1292,7 +1292,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Dunhuang she associations - bylaws for a funeral fund",
-      "value": 13,
+      "value": 15,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1571,7 +1571,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Galton's problem",
-      "value": 46,
+      "value": 47,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1841,7 +1841,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Homoplasy is the finding not the noise",
-      "value": 69,
+      "value": 71,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -2183,7 +2183,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Kye is not a ROSCA and the equation is an artefact of comparison with mujin",
-      "value": 22,
+      "value": 24,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -4438,6 +4438,15 @@
       "shape": "dot"
     },
     {
+      "id": "The mujin's Buddhist name is not the rotating association's Buddhist descent",
+      "type": "permanent",
+      "group": "seed",
+      "label": "The mujin's Buddhist name is not the rotating association's Buddhist descent",
+      "value": 15,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
       "id": "The mutual pole entered the library through the wrong census",
       "type": "permanent",
       "group": "seed",
@@ -4793,7 +4802,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Transmission versus independent recurrence is the load-bearing test",
-      "value": 52,
+      "value": 53,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -5135,7 +5144,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - HistorEE",
-      "value": 444,
+      "value": 445,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -5144,7 +5153,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Historiography and method",
-      "value": 215,
+      "value": 217,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -5207,7 +5216,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Risk-sharing vs risk-pricing",
-      "value": 200,
+      "value": 201,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -16087,6 +16096,10 @@
     },
     {
       "from": "MOC - Historiography and method",
+      "to": "The mujin's Buddhist name is not the rotating association's Buddhist descent"
+    },
+    {
+      "from": "MOC - Historiography and method",
       "to": "The notarial security clause is boilerplate and cannot carry a typology"
     },
     {
@@ -24576,6 +24589,42 @@
     {
       "from": "The mudaraba is revocable not locked in",
       "to": "The qirad envelops the sea loan"
+    },
+    {
+      "from": "The mujin's Buddhist name is not the rotating association's Buddhist descent",
+      "to": "Divergent arbitrary particulars are the independence diagnostic"
+    },
+    {
+      "from": "The mujin's Buddhist name is not the rotating association's Buddhist descent",
+      "to": "Dunhuang she associations - bylaws for a funeral fund"
+    },
+    {
+      "from": "The mujin's Buddhist name is not the rotating association's Buddhist descent",
+      "to": "Galton's problem"
+    },
+    {
+      "from": "The mujin's Buddhist name is not the rotating association's Buddhist descent",
+      "to": "Homoplasy is the finding not the noise"
+    },
+    {
+      "from": "The mujin's Buddhist name is not the rotating association's Buddhist descent",
+      "to": "Kye is not a ROSCA and the equation is an artefact of comparison with mujin"
+    },
+    {
+      "from": "The mujin's Buddhist name is not the rotating association's Buddhist descent",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "The mujin's Buddhist name is not the rotating association's Buddhist descent",
+      "to": "MOC - Historiography and method"
+    },
+    {
+      "from": "The mujin's Buddhist name is not the rotating association's Buddhist descent",
+      "to": "MOC - Risk-sharing vs risk-pricing"
+    },
+    {
+      "from": "The mujin's Buddhist name is not the rotating association's Buddhist descent",
+      "to": "Transmission versus independent recurrence is the load-bearing test"
     },
     {
       "from": "The mutual pole entered the library through the wrong census",

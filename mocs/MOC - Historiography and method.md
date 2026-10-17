@@ -149,3 +149,7 @@ Where the sources for the European companies are and are not machine-readable is
 - [[A difference between coded forms is a difference of evidence, vocabulary or form]] — sort every cross-form contrast before reporting it; state the footing (source layer, rater, non-independence) first
 - [[Retrieval report workflow - reading the codebooks and the vault back as evidence]] — the exercise, its procedure, and its first run on the comanda
 - [[Genoese notaries drafted the commenda as equity and Catalan notaries as credit]] — a drafting boundary as a transmission question
+
+## Added 2026-10-17 — the mujin etymology
+
+- [[The mujin's Buddhist name is not the rotating association's Buddhist descent]] — the word travelled with temple lending; the rotating association predates the name, so the name is reticulation, not origination

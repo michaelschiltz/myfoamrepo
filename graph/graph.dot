@@ -494,6 +494,7 @@ digraph vault {
   "The moratorium held because leaving the pool is not a one-period cost" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "The morphological matrix is dictated by the shape of the feature space" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "The mudaraba is revocable not locked in" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
+  "The mujin's Buddhist name is not the rotating association's Buddhist descent" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "The mutual pole entered the library through the wrong census" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "The naties are a six-century Lindy institution" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "The notarial security clause is boilerplate and cannot carry a typology" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
@@ -3288,6 +3289,7 @@ digraph vault {
   "MOC - Historiography and method" -> "The mita boundary separates two components not two points on a trajectory";
   "MOC - Historiography and method" -> "The mita critiques establish five nulls and none is the estimand";
   "MOC - Historiography and method" -> "The morphological matrix is dictated by the shape of the feature space";
+  "MOC - Historiography and method" -> "The mujin's Buddhist name is not the rotating association's Buddhist descent";
   "MOC - Historiography and method" -> "The notarial security clause is boilerplate and cannot carry a typology";
   "MOC - Historiography and method" -> "The ortoq is the discriminating instrument";
   "MOC - Historiography and method" -> "The qirad's antecedents are Sasanian not Sogdian";
@@ -5411,6 +5413,15 @@ digraph vault {
   "The mudaraba is revocable not locked in" -> "MOC - HistorEE";
   "The mudaraba is revocable not locked in" -> "MOC - Islamic contract doctrine";
   "The mudaraba is revocable not locked in" -> "The qirad envelops the sea loan";
+  "The mujin's Buddhist name is not the rotating association's Buddhist descent" -> "Divergent arbitrary particulars are the independence diagnostic";
+  "The mujin's Buddhist name is not the rotating association's Buddhist descent" -> "Dunhuang she associations - bylaws for a funeral fund";
+  "The mujin's Buddhist name is not the rotating association's Buddhist descent" -> "Galton's problem";
+  "The mujin's Buddhist name is not the rotating association's Buddhist descent" -> "Homoplasy is the finding not the noise";
+  "The mujin's Buddhist name is not the rotating association's Buddhist descent" -> "Kye is not a ROSCA and the equation is an artefact of comparison with mujin";
+  "The mujin's Buddhist name is not the rotating association's Buddhist descent" -> "MOC - HistorEE";
+  "The mujin's Buddhist name is not the rotating association's Buddhist descent" -> "MOC - Historiography and method";
+  "The mujin's Buddhist name is not the rotating association's Buddhist descent" -> "MOC - Risk-sharing vs risk-pricing";
+  "The mujin's Buddhist name is not the rotating association's Buddhist descent" -> "Transmission versus independent recurrence is the load-bearing test";
   "The mutual pole entered the library through the wrong census" -> "A scheme for extending the entity census";
   "The mutual pole entered the library through the wrong census" -> "Entitlement by liability versus entitlement by membership";
   "The mutual pole entered the library through the wrong census" -> "Entity-shielding";
