@@ -10,7 +10,7 @@ All note content is licensed under the Creative Commons Attribution 4.0 Internat
 **Code — [MIT](./LICENSE).**
 All executable material is licensed under the MIT licence: everything in `scripts/`, the git hooks in `.githooks/`, and the GitHub Actions workflows in `.github/`.
 
-Bundled third-party material keeps its own licence: the Foam documentation under `_foam-docs/` and the template scaffolding (`_layouts/`, `assets/`) are the work of the Foam project and are governed by [Foam's own MIT licence](https://github.com/foambubble/foam/blob/main/LICENSE), not by this repository's terms.
+The repository was generated from the [Foam template](https://github.com/foambubble/foam-template), whose bundled documentation and scaffolding (MIT-licensed by the Foam project) were removed on 18 October 2026; they remain in the git history under [Foam's own licence](https://github.com/foambubble/foam/blob/main/LICENSE). The one Foam asset still shipped, `attachments/foam-icon.png`, is the Foam project's work under that licence.
 
 ## Per-file override
 

@@ -14,3 +14,9 @@ Thumbs.db
 # it (graph.html is the shareable graph). Render on demand:
 #   dot -Tsvg graph/graph.dot -o /tmp/graph.svg
 graph/graph.svg
+
+# Quarto preview renders (quarto preview readme.md, CLAUDE.md). Local reading
+# copies only: the Markdown is canonical and GitHub renders it. graph/graph.html
+# is NOT matched and stays tracked.
+/*.html
+/*_files/

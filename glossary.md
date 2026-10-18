@@ -35,7 +35,7 @@ No wikilinks below: plain backticks are used for note and file names so that not
 - `mocs/` — hub notes.
 - `graph/` — generated output; do not hand-edit.
 - `scripts/` — `validate_vault.py` (run by the pre-commit hook and by CI), `export_graph.py`, `new_note.py`, `normalize_headings.py`.
-- `_foam-docs/`, `_layouts/`, `assets/` — Foam template scaffolding, excluded from the workspace.
+- `briefings/` — partner-facing reading paths and briefings; prose documents, not atomic notes, and outside the validator's scope.
 
 ## Conventions worth remembering cold
 
