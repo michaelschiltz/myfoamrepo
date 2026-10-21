@@ -2669,7 +2669,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Norinsho 1938 - forty-three ko rulebooks in print",
-      "value": 19,
+      "value": 22,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -2993,7 +2993,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Refusals are observations of the filter not inferences from survivors",
-      "value": 119,
+      "value": 120,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -3020,7 +3020,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Relief ko for a named person is claimed to be unattested outside Japan",
-      "value": 21,
+      "value": 22,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -3236,7 +3236,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Shiho kenkyu 1928 - who answers for a ko and how it was defrauded",
-      "value": 15,
+      "value": 16,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -4960,11 +4960,20 @@
       "shape": "dot"
     },
     {
+      "id": "Who answers for a ko member's default was drafted not given",
+      "type": "permanent",
+      "group": "seed",
+      "label": "Who answers for a ko member's default was drafted not given",
+      "value": 14,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
       "id": "Yui 1934 - the law of ko and who bears a member's default",
       "type": "reference",
       "group": "reference",
       "label": "Yui 1934 - the law of ko and who bears a member's default",
-      "value": 12,
+      "value": 15,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -5117,7 +5126,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Entity-shielding and corporate forms",
-      "value": 133,
+      "value": 136,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -5171,7 +5180,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - HistorEE",
-      "value": 448,
+      "value": 449,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -5243,7 +5252,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Risk-sharing vs risk-pricing",
-      "value": 201,
+      "value": 202,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -5306,7 +5315,7 @@
       "type": "database",
       "group": "database",
       "label": "loss_mitigation_forms",
-      "value": 54,
+      "value": 55,
       "color": "#a6761d",
       "shape": "database"
     },
@@ -14270,6 +14279,14 @@
       "to": "Van Dam's Beschryvinge - the VOC described by its own advocaat"
     },
     {
+      "from": "MOC - Entity-shielding and corporate forms",
+      "to": "Who answers for a ko member's default was drafted not given"
+    },
+    {
+      "from": "MOC - Entity-shielding and corporate forms",
+      "to": "Yui 1934 - the law of ko and who bears a member's default"
+    },
+    {
       "from": "MOC - Ergodicity and the time-ensemble distinction",
       "to": "A contingency clause priced at zero is evidence for a time-average criterion"
     },
@@ -18536,6 +18553,10 @@
     {
       "from": "Norinsho 1938 - forty-three ko rulebooks in print",
       "to": "The bidding ko transfers from the liquidity-constrained to the liquid"
+    },
+    {
+      "from": "Norinsho 1938 - forty-three ko rulebooks in print",
+      "to": "Who answers for a ko member's default was drafted not given"
     },
     {
       "from": "Norinsho 1938 - forty-three ko rulebooks in print",
@@ -26632,6 +26653,42 @@
     {
       "from": "Whiggish history of finance names the ascent narrative",
       "to": "The tontine's chronology defeats the hazard-to-pricing staging"
+    },
+    {
+      "from": "Who answers for a ko member's default was drafted not given",
+      "to": "MOC - Entity-shielding and corporate forms"
+    },
+    {
+      "from": "Who answers for a ko member's default was drafted not given",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Who answers for a ko member's default was drafted not given",
+      "to": "MOC - Risk-sharing vs risk-pricing"
+    },
+    {
+      "from": "Who answers for a ko member's default was drafted not given",
+      "to": "Norinsho 1938 - forty-three ko rulebooks in print"
+    },
+    {
+      "from": "Who answers for a ko member's default was drafted not given",
+      "to": "Refusals are observations of the filter not inferences from survivors"
+    },
+    {
+      "from": "Who answers for a ko member's default was drafted not given",
+      "to": "Relief ko for a named person is claimed to be unattested outside Japan"
+    },
+    {
+      "from": "Who answers for a ko member's default was drafted not given",
+      "to": "Shiho kenkyu 1928 - who answers for a ko and how it was defrauded"
+    },
+    {
+      "from": "Who answers for a ko member's default was drafted not given",
+      "to": "Yui 1934 - the law of ko and who bears a member's default"
+    },
+    {
+      "from": "Who answers for a ko member's default was drafted not given",
+      "to": "loss_mitigation_forms"
     },
     {
       "from": "Yui 1934 - the law of ko and who bears a member's default",

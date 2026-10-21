@@ -79,6 +79,11 @@ Thematic hub for the corporate-form apparatus: asset-partitioning, identity-wrap
 - [[The Sarta company held no common fund]] — a Catalan *societas* run through interpersonal commendas, with no company capital in the records; a candidate, not a coding
 - [[Barcelona law kept the commendatary's creditors off the comanda goods]] — *Recognoverunt proceres* 69 (1284): the agent's creditors and wife barred from the comanda goods until the investors are paid; a partition in the investors' favour, not entity shielding (`comanda AP1` `.NR` since 2026-10-13)
 
+## Added 2026-10-22
+
+- [[Who answers for a ko member's default was drafted not given]] — twenty-one 1930s kō rulebooks: the residual bearer of a winner's default is all members, his small group, or the officers, and two of these meet in one ministry class
+- [[Yui 1934 - the law of ko and who bears a member's default]] — the case law behind it: in the mutual kō the members hold the claims
+
 ## Added 2026-10-14
 
 - [[The Hanafi investor answers beyond his capital for the agent's purchases and the Maliki does not]] — the capital provider's owner shielding parts the two schools, and `AP3`/`LR1` are located on the labour party
