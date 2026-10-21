@@ -4333,6 +4333,7 @@ digraph vault {
   "Shiga University - the Omi merchant archives" -> "Independence of apparatus is not independence of question";
   "Shiga University - the Omi merchant archives" -> "Japanese archives - custody follows the house";
   "Shiga University - the Omi merchant archives" -> "MOC - Japanese archives";
+  "Shiga University - the Omi merchant archives" -> "The Nakai ledger scores as losses what present value scores as gains";
   "Shiga University - the Omi merchant archives" -> "The ie as entity-shielding";
   "Shiryo Net and the disaster survival rule" -> "Genchi hozon - keeping documents where they are";
   "Shiryo Net and the disaster survival rule" -> "Handoff - the non-European archive survey";
@@ -4873,6 +4874,7 @@ digraph vault {
   "The Nakai ledger scores as losses what present value scores as gains" -> "MOC - Risk-sharing vs risk-pricing";
   "The Nakai ledger scores as losses what present value scores as gains" -> "Pricing is orthogonal to mitigation mechanism not a stage of it";
   "The Nakai ledger scores as losses what present value scores as gains" -> "Read the Nakai anomaly against the ie's horizon not the transaction's";
+  "The Nakai ledger scores as losses what present value scores as gains" -> "Shiga University - the Omi merchant archives";
   "The Nakai ledger scores as losses what present value scores as gains" -> "The ensemble average is the local descriptor of a barrier-shielded agent";
   "The Nakai ledger scores as losses what present value scores as gains" -> "Time-average optimization is a survivorship property not an intention";
   "The Nakai ledger scores as losses what present value scores as gains" -> "loss_mitigation_forms";

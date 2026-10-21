@@ -20,7 +20,7 @@ status: seed
 
 ## The honest assessment
 
-**Marginal for the census on present knowledge.** No coded row draws on it. Its manor records carry medieval credit, levies and the *tokusei* debt cancellations that `ko_horyuji_50kan`'s clause guards against. ⚠️ Whether any *tanomoshi* material is in it was not searched. **A search here is the cheapest way to test whether the census's two fifteenth-century *kō* rows are typical.**
+**Marginal for the census on present knowledge.** No coded row draws on it. Its manor records carry medieval credit, levies and the *tokusei* debt cancellations that `ko_horyuji_50kan`'s clause guards against. ⚠️ Whether any *tanomoshi* material is in it was not searched. *[Corrected 2026-10-21: the question has a literature, and the library holds it unread — 川戸貴史 2003, 「戦国期東寺の頼母子講」 (three duplicate Zotero records: 6T6LEDXQ, J48GNT3U, WRPJ3XIN). Read it before searching the boxes. Two more unread items bear on typicality: 清水克行 2006, 「中世日本の互助金融—室町幕府の訴訟記録にみえる頼母子」 (KSAX4HWH), and 小泉義博 1990, 「戦国期丹波・紀伊の頼母子経営」 (SRF7KHBX). ⚠️ Journal details not checked.]* **A search here is the cheapest way to test whether the census's two fifteenth-century *kō* rows are typical.**
 
 ## Links
 

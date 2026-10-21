@@ -68,12 +68,12 @@ Web checks of 2026-10-16, made during the ERC mock-review session; **none of the
 
 - 『改訂新版 世界大百科事典』(平凡社), s.v. 頼母子講 and 頼母子, via Kotobank, `kotobank.jp/word/頼母子講-94021` and `kotobank.jp/word/頼母子` — the 1275 attestation, the 講 matrix, 信貴頼母子, the 無尽銭 derivation and the Muromachi name transfer. ⚠️ Entry authors not recorded.
 - 「頼母子と無尽の起源」, 『流通経済大学論叢』27(2), `rku.repo.nii.ac.jp/record/6829` — the word/mechanism distinction. ⚠️ Author and year to confirm.
-- 三浦〔圭一 ⚠️ given name to confirm〕「中世の頼母子について」『史林』42(6), 1959 — already in the census coding (三浦 1959), `repository.kulib.kyoto-u.ac.jp/dspace/bitstream/2433/249451/1/shirin_042_6_773.pdf`.
+- 三浦圭一「中世の頼母子について」『史林』42(6), 1959 *[given name verified 2026-10-21 against the library's records Z6ZK698Y and 7PYW5TGE]* — already in the census coding (三浦 1959), `repository.kulib.kyoto-u.ac.jp/dspace/bitstream/2433/249451/1/shirin_042_6_773.pdf`.
 - Schopen, Gregory. 1994. "Doing Business for the Lord: Lending on Interest and Written Loan Contracts in the Mūlasarvāstivāda-vinaya." *Journal of the American Oriental Society* 114 (4): 527–554.
-- Schopen, Gregory. "The Business Model of a Buddhist Monasticism: Acquiring Productive Assets." *Hualin International Journal of Buddhist Studies* 2 (2), `doi.org/10.15239/hijbs.02.02.08`. ⚠️ Year to confirm.
+- Schopen, Gregory. 2019. "The Business Model of a Buddhist Monasticism: Acquiring Productive Assets." *Hualin International Journal of Buddhist Studies* 2 (2): 217–249, `doi.org/10.15239/hijbs.02.02.08`. *[Year and pages verified 2026-10-21 against the journal's article page.]*
 - Gernet, Jacques. 1995. *Buddhism in Chinese Society: An Economic History from the Fifth to the Tenth Centuries.* Translated by Franciscus Verellen. New York: Columbia University Press — ch. 3, "The Indian Heritage".
 - Martini, Kelsey. 2022. "The Origin of Akṣayanīvī and the Historical Context of the Arthaśāstra." *Indo-Iranian Journal* 65 (2): 144–169.
 - 楊學勇「三階教化度寺無盡藏機構的管理與運轉」『敦煌學輯刊』2017 (3): 70–76.
 - The doctrinal derivation of the Sanjiejiao 無盡藏法 from the bodhisattva stores: abstract only, via the NTU Buddhist Studies database, `buddhism.lib.ntu.edu.tw` record 219214. ⚠️ Author and article not identified.
 - 無盡 = *akṣaya*, 無盡藏 = *akṣayakara*: Buddhist Chinese glossaries (BCSD, Soothill–Hodous) via `ntireader.org`.
-- Not yet consulted, and the obvious next reading: 森嘉兵衛『無尽金融史論』(1982) ⚠️ title and date to confirm.
+- Not yet consulted, and the obvious next reading: 森嘉兵衛『森嘉兵衛著作集 第二巻 無尽金融史論』(法政大学出版局, 1982), first published in 『興産相互銀行二十年史』上巻 (興産相互銀行, 1962). *[Verified 2026-10-21: cited in these terms by both 米谷 2026, n. 2 and 小林 1986, n. 3.]*

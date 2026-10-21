@@ -18,7 +18,7 @@ status: seed
 
 ## The honest assessment
 
-**No single note can cover these, and at seed depth none should try.** The rule is the one [[Rijksarchief in Belgie - the state archives network]] and the French *départementales* already taught: **find the fonds through the census row's source, then find the archive**, never the reverse. The survey found one negative case worth recording: **no Mitarai collection appears in the Hiroshima Prefectural Archives' list**, so the documents behind the three Mitarai *kō* rows are somewhere else. ⚠️ Where is not established.
+**No single note can cover these, and at seed depth none should try.** The rule is the one [[Rijksarchief in Belgie - the state archives network]] and the French *départementales* already taught: **find the fonds through the census row's source, then find the archive**, never the reverse. The survey found one negative case worth recording: **no Mitarai collection appears in the Hiroshima Prefectural Archives' list**, so the documents behind the three Mitarai *kō* rows are somewhere else. ⚠️ Where is not established. *[Corrected 2026-10-21: placed. Katō read them at the 広島県豊田郡豊町教育委員会 (Katō 1998, 132–133: 本稿において利用した史料は、ことわりのないかぎり、広島県豊田郡豊町教育委員会所蔵のもの). Toyo was absorbed into Kure on 20 March 2005, so the custodian is presumably now Kure's board of education ⚠️. The negative case keeps its lesson in sharper form: a town board of education, not the prefectural archive, held a port town's merchant papers, and only the row's source could have said so.]*
 
 ## Links
 

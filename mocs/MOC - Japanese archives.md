@@ -74,19 +74,19 @@ Regional hub, the third non-European pass, linked from the country table of [[MO
 | `ko_horyuji_50kan` | Hōryūji *kishiki* via Miura 1959 | Hōryūji ⚠️ | 3 in print | ⚠️ |
 | `ko_meio_1498` | Nihōji shrine *okitegaki*, 『旧高野領内文書』 | ⚠️ | 3 in print | ⚠️ |
 | `ko_yamakuni_1555` | Imoto house papers, 『丹波国山国庄史料』 | ⚠️ | 3 in print | ⚠️ |
-| `ko_daikokuya_1848`, `ko_gotensama_1843`, `ko_choko_1854` | *ginshūchō* via Kobayashi 1986 | [[Toyonaka City - the Chokoji-mura documents]] ⚠️ | 1 at best | ⚠️ |
+| `ko_daikokuya_1848`, `ko_gotensama_1843`, `ko_choko_1854` | *ginshūchō* via Kobayashi 1986 | [[Toyonaka City - the Chokoji-mura documents]], at the 岡町図書館 ⚠️ — Kobayashi names no custodian; the fonds catalogue has a 殿様頼母子 document (図-2-266), the *ginshūchō* not yet found in it | 1; catalogue online | listed items may be withheld ⚠️ |
 | `ko_hokinosawa_1820`, `ko_kosaburo_1802` | Matsunaga 1999 | NIJL or Jōetsu local ⚠️ — [[Echigo - the NIJL fonds behind the census's Echigo rows]] | 1 | reservation |
 | `warichi_iwade` | Brown 2006, 2011 | Iwade Satō papers at NIJL ⚠️ | 1, searchable | reservation |
-| `ko_mitarai_mujin_1773`, `ko_mitarai_gin_1805`, `ko_mitarai_hanei_1840` | Katō 1998 | **not in Hiroshima Prefectural Archives' list**; unplaced | — | — |
-| `ko_usui_bango_1822`, `ko_shijunin_1829`, `ko_daimanin_1828` | Yoneya 2026 | Kawachi, unplaced | — | — |
-| `ko_hokoin_1832` | Tanaka 2011, Hōkōin documents | Yamagata, unplaced | — | — |
-| `ko_mochiyori_yutsu_1876` | Ikeda 2022, primary-source edition | unplaced | 3 in print | — |
+| `ko_mitarai_mujin_1773`, `ko_mitarai_gin_1805`, `ko_mitarai_hanei_1840` | Katō 1998 | **豊田郡豊町教育委員会** when Katō read them (Katō 1998, 132–133); Toyo has been part of Kure since 20 March 2005, present custodian ⚠️ | 1; related material printed in 『豊町史』資料編 (1993) | ⚠️ |
+| `ko_usui_bango_1822`, `ko_shijunin_1829`, `ko_daimanin_1828` | Yoneya 2026 | **誉田村文書** of the 矢野弥三右衛門 house, Osaka City University's 1963 purchase, now 大阪公立大学杉本図書館: B-79, A-2 and B-109 respectively (Yoneya 2026, nn. 8, 19, 21, 23, 27) | 1 | ⚠️ |
+| `ko_hokoin_1832` | Tanaka 2011, Hōkōin documents | **宝光院文書**, 948 items, kept at the temple ⚠️; catalogued in the 山形大学附属図書館 宝光院文書 database; the kō document is 宝479号 (Tanaka 2011, 13 and n. 6) | 1; catalogue online ⚠️ | by the temple's leave ⚠️ |
+| `ko_mochiyori_yutsu_1876` | Ikeda 2022, primary-source edition | **[[Osaka University of Commerce - the Museum of Commercial History]]**, bought 2020, 55 items (Ikeda 2022, 110) | 3 in print | read, not photograph |
 | `torinoke_mujin` | Namimatsu 2022; Nakagawa et al. 2013 (Tsuji *mujin shihōchō*) | unplaced | 3 in print | — |
-| `nakai_fictive_household` | D'Amico 2026; Egashira | [[Shiga University - the Omi merchant archives]] | 1 | ⚠️ |
+| `nakai_fictive_household` | D'Amico 2026; Egashira | [[Shiga University - the Omi merchant archives]]; the 頼母子出入差引名寄帳 too (Katō 1998, 201 n. 8) | 1 | ⚠️ |
 | `kabu_local`, `kabu_edo_export`; `kabu_nakama` (uncoded) | Nagata 2008 | the regulator's record at [[Kyu-bakufu hikitsugisho - the Edo town magistrate records]] would be the primary base | 2 and 3 | NDL, tier not checked ⚠️ |
 | `clearing_records` | **synthetic** | — | — | [[The clearing records dataset has no archive yet]] |
 
-**Read the table for its shape.** Of the Japanese rows, **one is checkable against an image from a desk** (`ko_furuichi_sengan`), a handful rest on printed editions, and **the largest group — Mitarai, Kawachi, Yamagata, Settsu — cannot yet be placed in any repository.** The *kō* acquisition rule already recorded — no *kō* moves a cell without a *shihōsho* — **now has an archive-side corollary: no *shihōsho* can be looked for until the row is placed.**
+**Read the table for its shape.** Of the Japanese rows, **one is checkable against an image from a desk** (`ko_furuichi_sengan`), a handful rest on printed editions, and **the largest group — Mitarai, Kawachi, Yamagata, Settsu — cannot yet be placed in any repository.** The *kō* acquisition rule already recorded — no *kō* moves a cell without a *shihōsho* — **now has an archive-side corollary: no *shihōsho* can be looked for until the row is placed.** *[Corrected 2026-10-21: the group is placed from its authors' apparatus — Mitarai at the Toyo board of education, Kawachi at Osaka Metropolitan University, Yamagata at Hōkōin — and so is the 持寄融通社 row, at Osaka University of Commerce. Chōkōji is half-placed. The corollary now cuts the other way: Katō's 表5-4 lists thirteen Mitarai associations whose operating rules are known (Katō 1998, 141–142, n. 25), the census codes three, and the other ten sit in the same fonds. They are `same-community` with the coded three, so they buy separations within one town rather than independent cases — which is exactly where the 2026-08-20 batch found the block's only lot-against-bid contrast.]*
 
 ## What this pass adds to the seven patterns
 
@@ -114,12 +114,12 @@ Regional hub, the third non-European pass, linked from the country table of [[MO
 
 ## Open questions
 
-- **Place the unplaced rows** — Mitarai, Kawachi, Yamagata, Chōkōji — from the authors' apparatus.
+- ~~**Place the unplaced rows** — Mitarai, Kawachi, Yamagata, Chōkōji — from the authors' apparatus.~~ *[Done 2026-10-21 except Chōkōji, where Kobayashi names no custodian; read the rest of the 長興寺村文書 catalogue for the *ginshūchō*.]*
 - **Confirm Brown's Iwade** against the Satō papers.
 - **Run a Japan Search term count** for 頼母子 and 無尽 by hand.
 - **Mitsui Bunko access terms**, and the postwar custody detour.
 - **The *fudasashi* material** in the *hikitsugisho* and elsewhere.
-- **Tōji Hyakugō and the Daijōin diary** searched for *tanomoshi*, to test whether the medieval rows are typical.
+- **Tōji Hyakugō and the Daijōin diary** searched for *tanomoshi*, to test whether the medieval rows are typical. *[2026-10-21: read 川戸貴史 2003, 「戦国期東寺の頼母子講」, already in the library, before searching the boxes.]*
 
 ## Links
 

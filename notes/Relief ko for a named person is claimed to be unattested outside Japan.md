@@ -37,4 +37,4 @@ Until checked, cite it as Arimoto and colleagues' claim, with their qualifier, a
 
 ## Source
 
-有本寛・藤栄剛・仙田徹志「1930年代日本の農家負債―『農家負債に関する調査』のミクロデータ分析―」『経済研究』(2013年1月25日). The claim is in their §2.3 discussion of 無尽・講の位置づけと役割. Zero-interest 救済講 attributed by them to 小島庸平 (2011); 小島's fuller treatment is 『大恐慌期における日本農村社会の再編成』(ナカニシヤ出版, 2020) [verify pagination]. Comparison set from 並松信久「近代日本の無尽講と相互扶助」『京都産業大学日本文化研究所紀要』第27号 (2022) — **note the Drive copy is dated 2021; the article gives 令和4年3月, verify**. **Not yet checked against the ROSCA literature.**
+有本寛・藤栄剛・仙田徹志「1930年代日本の農家負債―『農家負債に関する調査』のミクロデータ分析―」『経済研究』(2013年1月25日). The claim is in their §2.3 discussion of 無尽・講の位置づけと役割. Zero-interest 救済講 attributed by them to 小島庸平 (2011); 小島's fuller treatment is 『大恐慌期における日本農村社会の再編成』(ナカニシヤ出版, 2020) [verify pagination]. Comparison set from 並松信久「近代日本の無尽講と相互扶助」『京都産業大学日本文化研究所紀要』第27号 (2022) — **note the Drive copy is dated 2021; the article gives 令和4年3月, verify**. *[Verified 2026-10-21: 2022, vol. 27, pp. 260–298, per the Kyoto Sangyo University repository record.]* **Not yet checked against the ROSCA literature.**

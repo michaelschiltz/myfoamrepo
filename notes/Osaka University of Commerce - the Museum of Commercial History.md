@@ -16,7 +16,7 @@ status: seed
 
 ## The honest assessment
 
-**Marginal on present knowledge, and noted for one reason: the no-photography rule.** A collection where a researcher can read but not photograph is a collection that costs days on site per document. **For a project planning Japanese reading from abroad this is the access regime to budget against**, and it is not unusual. ⚠️ Holdings — including any Dōjima rice-exchange material — not established.
+**Marginal on present knowledge, and noted for one reason: the no-photography rule.** A collection where a researcher can read but not photograph is a collection that costs days on site per document. **For a project planning Japanese reading from abroad this is the access regime to budget against**, and it is not unusual. ⚠️ Holdings — including any Dōjima rice-exchange material — not established. *[Corrected 2026-10-21: not marginal. The museum holds the 持寄融通社 papers behind `ko_mochiyori_yutsu_1876` — 55 items, bought in 2020 — and published them in its own *kiyō*: この資料は、令和二年に購入した当館の所蔵資料であり、その資料群は合計五五点に及ぶ (Ikeda 2022, 110). The census's only Meiji *kō* sits under the read-but-not-photograph rule.]*
 
 ## Links
 

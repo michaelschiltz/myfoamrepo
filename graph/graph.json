@@ -2723,7 +2723,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Osaka University of Commerce - the Museum of Commercial History",
-      "value": 5,
+      "value": 6,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -2957,7 +2957,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Read the Nakai anomaly against the ie's horizon not the transaction's",
-      "value": 20,
+      "value": 21,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -3218,7 +3218,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Shiga University - the Omi merchant archives",
-      "value": 8,
+      "value": 10,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -3893,7 +3893,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The Nakai ledger scores as losses what present value scores as gains",
-      "value": 17,
+      "value": 20,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -5180,7 +5180,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Japanese archives",
-      "value": 92,
+      "value": 93,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -20272,6 +20272,10 @@
     },
     {
       "from": "Shiga University - the Omi merchant archives",
+      "to": "The Nakai ledger scores as losses what present value scores as gains"
+    },
+    {
+      "from": "Shiga University - the Omi merchant archives",
       "to": "The ie as entity-shielding"
     },
     {
@@ -22429,6 +22433,10 @@
     {
       "from": "The Nakai ledger scores as losses what present value scores as gains",
       "to": "Read the Nakai anomaly against the ie's horizon not the transaction's"
+    },
+    {
+      "from": "The Nakai ledger scores as losses what present value scores as gains",
+      "to": "Shiga University - the Omi merchant archives"
     },
     {
       "from": "The Nakai ledger scores as losses what present value scores as gains",

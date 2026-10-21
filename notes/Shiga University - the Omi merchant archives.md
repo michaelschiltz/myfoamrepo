@@ -16,7 +16,7 @@ status: seed
 
 ## What it holds for the census
 
-**The Nakai Genzaemon house papers — 20,383 items.** `nakai_fictive_household`, the census's first Japanese *entity* row, is coded from D'Amico 2026 working "the Nakai Genzaemon archive" with Egashira's classic study of the house. **This is that archive.** Also the Nishikawa Den'emon house (2,865) and the Ōhama village headman house (7,319).
+**The Nakai Genzaemon house papers — 20,383 items.** `nakai_fictive_household`, the census's first Japanese *entity* row, is coded from D'Amico 2026 working "the Nakai Genzaemon archive" with Egashira's classic study of the house. **This is that archive.** Also the Nishikawa Den'emon house (2,865) and the Ōhama village headman house (7,319). *[Added 2026-10-21: the house's 「頼母子出入差引名寄帳」, the ledger behind [[The Nakai ledger scores as losses what present value scores as gains]], is here too: 本論文で利用した史料は、すべて滋賀大学付属史料館の所蔵するものである (Katō 1998, 201 n. 8).]*
 
 **John D'Amico is confirmed on the grant's advisory board** (Decision_log B1). **The census's one coded Japanese entity form rests on an archive a named HistorEE adviser has worked.** That is a strength for verification and a caution for independence: a coding and its review should not both run through one reader of one archive.
 

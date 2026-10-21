@@ -38,4 +38,4 @@ Against the temptation to read this as decline: Namimatsu explicitly refuses the
 
 ## Source
 
-並松信久「近代日本の無尽講と相互扶助」『京都産業大学日本文化研究所紀要』第27号 (令和4年/2022年3月). **Date caution**: the file is dated 2021 in Drive; the article itself gives 第27号・令和4年3月. Verify before citing. Namimatsu also gives 無尽業法 as 1914 in one passage and 1915 in another. Prefectural bid floors and duration caps from his §5, drawing on 澁谷隆一『庶民金融の展開と政策対応』(2001). Zero-interest 救済講 from 有本ほか (2013), citing 小島 (2011).
+並松信久「近代日本の無尽講と相互扶助」『京都産業大学日本文化研究所紀要』第27号 (令和4年/2022年3月). **Date caution**: the file is dated 2021 in Drive; the article itself gives 第27号・令和4年3月. Verify before citing. Namimatsu also gives 無尽業法 as 1914 in one passage and 1915 in another. *[Verified 2026-10-21: 2022 — 『京都産業大学日本文化研究所紀要』27, 31 March 2022, pp. 260–298, per the Kyoto Sangyo University repository record; the Drive file's 2021 is wrong. The 無尽業法 is 1915, re-enacted in 1931, on a secondary reference; the statute itself was not checked ⚠️, so Namimatsu's 1914 is presumably a slip.]* Prefectural bid floors and duration caps from his §5, drawing on 澁谷隆一『庶民金融の展開と政策対応』(2001). Zero-interest 救済講 from 有本ほか (2013), citing 小島 (2011).
