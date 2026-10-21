@@ -74,7 +74,7 @@ Regional hub, the third non-European pass, linked from the country table of [[MO
 | `ko_horyuji_50kan` | Hōryūji *kishiki* via Miura 1959 | Hōryūji ⚠️ | 3 in print | ⚠️ |
 | `ko_meio_1498` | Nihōji shrine *okitegaki*, 『旧高野領内文書』 | ⚠️ | 3 in print | ⚠️ |
 | `ko_yamakuni_1555` | Imoto house papers, 『丹波国山国庄史料』 | ⚠️ | 3 in print | ⚠️ |
-| `ko_daikokuya_1848`, `ko_gotensama_1843`, `ko_choko_1854` | *ginshūchō* via Kobayashi 1986 | [[Toyonaka City - the Chokoji-mura documents]], at the 岡町図書館: the series L金融-頼母子-1 to 23 (図-2-3285 to 3307), 御殿様 and 大黒屋 ledgers 天保14 to 安政2, two summary accounts and a 安政4 kō book | 1; catalogue online | listed items may be withheld ⚠️ |
+| `ko_daikokuya_1848`, `ko_gotensama_1843`, `ko_choko_1854` | *ginshūchō* via Kobayashi 1986 | [[Toyonaka City - the Chokoji-mura documents]], at the 岡町図書館: the series L金融-頼母子-1 to 23 (図-2-3285 to 3307), 御殿様 and 大黒屋 ledgers 天保14 to 安政2, two summary accounts and a 安政4 kō book | 1 (microfilm); catalogue online | **originals not shown; microfilm booklets, on application in person** |
 | `ko_hokinosawa_1820`, `ko_kosaburo_1802` | Matsunaga 1999 | NIJL or Jōetsu local ⚠️ — [[Echigo - the NIJL fonds behind the census's Echigo rows]] | 1 | reservation |
 | `warichi_iwade` | Brown 2006, 2011 | Iwade Satō papers at NIJL ⚠️ | 1, searchable | reservation |
 | `ko_mitarai_mujin_1773`, `ko_mitarai_gin_1805`, `ko_mitarai_hanei_1840` | Katō 1998 | **豊田郡豊町教育委員会** when Katō read them (Katō 1998, 132–133); Toyo has been part of Kure since 20 March 2005, present custodian ⚠️ | 1; related material printed in 『豊町史』資料編 (1993) | ⚠️ |
