@@ -360,6 +360,7 @@ digraph vault {
   "Service historique de la Defense - Lorient and the Compagnie des Indes" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
   "Shanxi piaohao records - letters, house rules and a collector's compilation" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
   "Shiga University - the Omi merchant archives" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
+  "Shiho kenkyu 1928 - who answers for a ko and how it was defrauded" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
   "Shiryo Net and the disaster survival rule" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
   "Silk Road documents - one site's archive in twelve institutions" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
   "Silk Road in Rare Books - the thirty-three volumes behind the DSR essays" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
@@ -3393,6 +3394,7 @@ digraph vault {
   "MOC - Japanese archives" -> "Prefectural and municipal archives - the monjokan network";
   "MOC - Japanese archives" -> "Rekihaku - the National Museum of Japanese History and khirin";
   "MOC - Japanese archives" -> "Shiga University - the Omi merchant archives";
+  "MOC - Japanese archives" -> "Shiho kenkyu 1928 - who answers for a ko and how it was defrauded";
   "MOC - Japanese archives" -> "Shiryo Net and the disaster survival rule";
   "MOC - Japanese archives" -> "Sumitomo Historical Archives - Kyoto";
   "MOC - Japanese archives" -> "The clearing records dataset has no archive yet";
@@ -4349,6 +4351,13 @@ digraph vault {
   "Shiga University - the Omi merchant archives" -> "MOC - Japanese archives";
   "Shiga University - the Omi merchant archives" -> "The Nakai ledger scores as losses what present value scores as gains";
   "Shiga University - the Omi merchant archives" -> "The ie as entity-shielding";
+  "Shiho kenkyu 1928 - who answers for a ko and how it was defrauded" -> "MOC - Entity-shielding and corporate forms";
+  "Shiho kenkyu 1928 - who answers for a ko and how it was defrauded" -> "MOC - HistorEE";
+  "Shiho kenkyu 1928 - who answers for a ko and how it was defrauded" -> "MOC - Japanese archives";
+  "Shiho kenkyu 1928 - who answers for a ko and how it was defrauded" -> "Norinsho 1938 - forty-three ko rulebooks in print";
+  "Shiho kenkyu 1928 - who answers for a ko and how it was defrauded" -> "Relief ko for a named person is claimed to be unattested outside Japan";
+  "Shiho kenkyu 1928 - who answers for a ko and how it was defrauded" -> "The bidding ko transfers from the liquidity-constrained to the liquid";
+  "Shiho kenkyu 1928 - who answers for a ko and how it was defrauded" -> "loss_mitigation_forms";
   "Shiryo Net and the disaster survival rule" -> "Genchi hozon - keeping documents where they are";
   "Shiryo Net and the disaster survival rule" -> "Handoff - the non-European archive survey";
   "Shiryo Net and the disaster survival rule" -> "Japanese archives - custody follows the house";

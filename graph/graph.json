@@ -2669,7 +2669,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Norinsho 1938 - forty-three ko rulebooks in print",
-      "value": 15,
+      "value": 17,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -3020,7 +3020,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Relief ko for a named person is claimed to be unattested outside Japan",
-      "value": 20,
+      "value": 21,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -3228,6 +3228,15 @@
       "group": "reference",
       "label": "Shiga University - the Omi merchant archives",
       "value": 10,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "Shiho kenkyu 1928 - who answers for a ko and how it was defrauded",
+      "type": "reference",
+      "group": "reference",
+      "label": "Shiho kenkyu 1928 - who answers for a ko and how it was defrauded",
+      "value": 11,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -4100,7 +4109,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The bidding ko transfers from the liquidity-constrained to the liquid",
-      "value": 22,
+      "value": 24,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -5099,7 +5108,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Entity-shielding and corporate forms",
-      "value": 131,
+      "value": 132,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -5153,7 +5162,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - HistorEE",
-      "value": 446,
+      "value": 447,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -5189,7 +5198,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Japanese archives",
-      "value": 98,
+      "value": 100,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -5288,7 +5297,7 @@
       "type": "database",
       "group": "database",
       "label": "loss_mitigation_forms",
-      "value": 52,
+      "value": 53,
       "color": "#a6761d",
       "shape": "database"
     },
@@ -16517,6 +16526,10 @@
     },
     {
       "from": "MOC - Japanese archives",
+      "to": "Shiho kenkyu 1928 - who answers for a ko and how it was defrauded"
+    },
+    {
+      "from": "MOC - Japanese archives",
       "to": "Shiryo Net and the disaster survival rule"
     },
     {
@@ -20338,6 +20351,34 @@
     {
       "from": "Shiga University - the Omi merchant archives",
       "to": "The ie as entity-shielding"
+    },
+    {
+      "from": "Shiho kenkyu 1928 - who answers for a ko and how it was defrauded",
+      "to": "MOC - Entity-shielding and corporate forms"
+    },
+    {
+      "from": "Shiho kenkyu 1928 - who answers for a ko and how it was defrauded",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Shiho kenkyu 1928 - who answers for a ko and how it was defrauded",
+      "to": "MOC - Japanese archives"
+    },
+    {
+      "from": "Shiho kenkyu 1928 - who answers for a ko and how it was defrauded",
+      "to": "Norinsho 1938 - forty-three ko rulebooks in print"
+    },
+    {
+      "from": "Shiho kenkyu 1928 - who answers for a ko and how it was defrauded",
+      "to": "Relief ko for a named person is claimed to be unattested outside Japan"
+    },
+    {
+      "from": "Shiho kenkyu 1928 - who answers for a ko and how it was defrauded",
+      "to": "The bidding ko transfers from the liquidity-constrained to the liquid"
+    },
+    {
+      "from": "Shiho kenkyu 1928 - who answers for a ko and how it was defrauded",
+      "to": "loss_mitigation_forms"
     },
     {
       "from": "Shiryo Net and the disaster survival rule",

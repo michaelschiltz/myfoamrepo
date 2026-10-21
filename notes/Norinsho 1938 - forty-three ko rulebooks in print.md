@@ -51,6 +51,15 @@ By prefecture: Akita 10, Shizuoka 10, Yamaguchi 11, Fukuoka 12.
 
 **And it holds the contrasts the coded block lacks.** It has kō with and without a 親, money and rice side by side in one prefecture, and kō run through an organisation (a 實行組合, a 信用貯金講會). These are where the 2026-08-20 batch found its only separations: governance, allocation, security.
 
+## Read so far, 21 October 2026
+
+Two relief rulebooks, read to test the zero-interest reading, and **therefore excluded from any blind bundle**; code them openly or leave them out.
+
+- **第一講 甲野乙造企無盡 (秋田縣鹿角郡曙村).** Fifty members at 10円 a round. The 親 took the first pot, 500円, in March 1933 to clear old debts. From then on he repays and acts as agent, and 第七條 pays him 金拾圓 a round as remuneration, a cost 第十六條 lays on each round's winner. **His repayment is offset round by round by a fee the other members pay**: if his 返掛 is the 10円 掛金, as the editor implies but the rules do not state, he owes nothing net, and the relief is close to a grant, not a zero-interest loan. The members' rounds are auctioned to the highest bid (第五條). Three guarantors stand surety for the 親 (第八條). The members contract 相互不可分連帯, jointly and indivisibly bound.
+- **第五講 丸山角之進取建頼母子 (山口縣吉敷郡仁保村).** Begun 大正4 (1915), one meeting a year, ending 昭和26: thirty-six members at 30円. The 親, a tenant of one 町 with about 1,000円 of debt, draws first. Drawers repay with a 掛増金, 利子ノ儀ハ子方壹割、親半利付ノ事: **ten per cent for members, half for the 親**, which the editor glosses as 救済の意味から. From the second round the pot goes by bid. Security is strict: land at a stated multiple of 地價, or bonds at seven-tenths, plus a guarantor.
+
+**On two rules, the relief is real and it is not zero interest.** One subsidy is a fee offset that probably leaves the 親 owing nothing net; the other is a half rate. Both run the members' rounds by auction. Two of twenty-one relief rulebooks settle nothing about frequency; they do show that "zero interest" is too coarse a description of how relief was delivered.
+
 ## Cautions, before any of it is coded
 
 - **One compiler, one filter.** The ministry chose what it judged 適當, so this is a selection by a regulator of rural credit in the years of prefectural 取締規則, not a sample. Kō that broke the rules, or were wound up, are the ones least likely to be here. The note [[Refusals are observations of the filter not inferences from survivors]] applies directly.
