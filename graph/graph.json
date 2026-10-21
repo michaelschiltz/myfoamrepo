@@ -2057,7 +2057,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Japan Search - the national metadata aggregator",
-      "value": 12,
+      "value": 13,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -3011,7 +3011,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Relief ko for a named person is claimed to be unattested outside Japan",
-      "value": 16,
+      "value": 17,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -12397,6 +12397,10 @@
     {
       "from": "Japan Search - the national metadata aggregator",
       "to": "Rekihaku - the National Museum of Japanese History and khirin"
+    },
+    {
+      "from": "Japan Search - the national metadata aggregator",
+      "to": "Relief ko for a named person is claimed to be unattested outside Japan"
     },
     {
       "from": "Japanese archives - custody follows the house",

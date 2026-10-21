@@ -11,7 +11,7 @@ status: seed
 
 # Labour exchange is the pooling type the census cannot see
 
-`loss_mitigation_forms` holds nineteen forms and not one of them pools labour. Every coded arrangement moves money, goods or land: contributions to a fund, an ex-post assessment, a survivorship draw, a reallocation of arable. Reciprocal labour is a pooling institution with the same functional profile and it has no representation at all.
+*[Added 2026-10-21: the census of kō is not as labour-blind as the matrix. The 1934 survey counts kō by what members contribute: 金銭 279,523, 穀物 18,970, **勞役 94**, 茅 188, 藁縄莚 84 and 其他 235 (農林省経済更生部 1935, 3; labour kō commonest in 島根, 廣島, 長崎, 岡山, 新潟 and 熊本). A kō in which members contribute labour sits inside the rotating form, so the facet this note asks for has a few hundred instances in the one tradition the census codes most. None is read; the survey gives counts only.]* `loss_mitigation_forms` holds nineteen forms and not one of them pools labour. Every coded arrangement moves money, goods or land: contributions to a fund, an ex-post assessment, a survivorship draw, a reallocation of arable. Reciprocal labour is a pooling institution with the same functional profile and it has no representation at all.
 
 The pair is named in the literature already. Suzuki Eitarō's 1963 article sets 契 against Japanese 講 for financial cooperation and Korean **품앗이 (*pumasi*)** against Japanese **結 (*yui*)** for labour cooperation — treating the two halves as parallel, and both as instances of the same underlying principle. Whatever one makes of the financial half ([[Kye is not a ROSCA and the equation is an artefact of comparison with mujin]]), the labour half names two institutions that are simply missing from the matrix.
 
