@@ -116,10 +116,17 @@ Regional hub, the third non-European pass, linked from the country table of [[MO
 
 - ~~**Place the unplaced rows** — Mitarai, Kawachi, Yamagata, Chōkōji — from the authors' apparatus.~~ *[Done 2026-10-21. Open: Mitarai's custodian after the Kure merger, which needs a letter to Kure's board of education.]*
 - **Confirm Brown's Iwade** against the Satō papers.
-- **Run a Japan Search term count** for 頼母子 and 無尽 by hand.
+- ~~**Run a Japan Search term count** for 頼母子 and 無尽 by hand.~~ *[Done 2026-10-21: [[Japan Search - the national metadata aggregator]].]*
 - **Mitsui Bunko access terms**, and the postwar custody detour.
 - **The *fudasashi* material** in the *hikitsugisho* and elsewhere.
 - **Tōji Hyakugō and the Daijōin diary** searched for *tanomoshi*, to test whether the medieval rows are typical. *[2026-10-21: first read 川戸貴史 2003, 「戦国期東寺の頼母子講」 (『年報中世史研究』28, 211–227), reprinted as ch. 1 of 川戸『戦国期の貨幣と経済』 (吉川弘文館, 2008). The library holds a catalogue record only; acquire the book.]*
+
+## Added 2026-10-21 — rulebooks a desk can reach
+
+The Japan Search count found what the placement pass could not: **kō rulebooks already imaged and online**, 26 of them, in Edo (Edo-Tokyo Museum, 1827–1842), Sagamihara, Owari and Mino (the Tōkai national universities' archive). Rekihaku has a seventy-year run of one community's rulebooks, 1820–1888, not imaged. **The binding constraint on the *kō* rows was never the existence of rulebooks but their imaging, and for these regions it is lifted.** The caution travels with it: these are where institutions imaged, not where *kō* were, and the census's Kansai and Setouchi rows have no imaged counterpart yet.
+
+- [[Japan Search - the national metadata aggregator]] — the count, by database, and the imaged rulebooks
+- [[Rekihaku - the National Museum of Japanese History and khirin]] — the 1820–1888 run
 
 ## Links
 

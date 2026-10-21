@@ -2364,6 +2364,7 @@ digraph vault {
   "Japan Search - the national metadata aggregator" -> "MOC - European archives and digital collections";
   "Japan Search - the national metadata aggregator" -> "MOC - Japanese archives";
   "Japan Search - the national metadata aggregator" -> "NIJL Kokusho Database - the classical books union layer";
+  "Japan Search - the national metadata aggregator" -> "Rekihaku - the National Museum of Japanese History and khirin";
   "Japanese archives - custody follows the house" -> "Genchi hozon - keeping documents where they are";
   "Japanese archives - custody follows the house" -> "Handoff - the non-European archive survey";
   "Japanese archives - custody follows the house" -> "Kyu-bakufu hikitsugisho - the Edo town magistrate records";

@@ -16,7 +16,7 @@ status: seed
 
 ## The honest assessment
 
-**Marginal for the census on present knowledge.** No coded row draws on a Rekihaku fonds. **Its value is structural**: khirin is the model of a national museum acting as the digital publisher for **house documents held by others** — the one route by which *komonjo* in university and municipal custody reach layer 2 without each holder building a system. ⚠️ Record and image counts, licences, and whether any merchant or village fonds with *kō* material is carried, not established.
+**Marginal for the census on present knowledge.** No coded row draws on a Rekihaku fonds. **Its value is structural**: khirin is the model of a national museum acting as the digital publisher for **house documents held by others** — the one route by which *komonjo* in university and municipal custody reach layer 2 without each holder building a system. ⚠️ Record and image counts, licences, and whether any merchant or village fonds with *kō* material is carried, not established. *[Corrected 2026-10-21 from a Japan Search harvest: not marginal. Rekihaku's own catalogue has 124 records on 頼母子, and one fonds, H-657, holds a serial run of rulebooks with their rolls — 頼母子定書人数名前帳 of 1820, 1829, 1847 (a draft), 1849 (福光下村 丸屋藤四郎) and 1854 (増田屋甚四郎), a 頼母子義定書 of 1858 (楞厳寺), a 頼母子議定書下書き, and a 定約証書 頼母子約定書 of 1888; H-469-34 is a 頼母子講仕法帳 of 1837. **Seventy years of one community's kō rules in one fonds** is the shape the census has never had: the acquisition rule asks for rulebooks, and here the rulebooks come with the change over time. Not imaged online. ⚠️ Which 福光 — presumably 越中国砺波郡 — and the fonds's name are not established.]*
 
 ## Links
 
