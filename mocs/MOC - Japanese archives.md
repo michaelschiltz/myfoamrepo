@@ -128,6 +128,7 @@ The Japan Search count found what the placement pass could not: **kō rulebooks 
 - [[Japan Search - the national metadata aggregator]] — the count, by database, and the imaged rulebooks
 - [[Rekihaku - the National Museum of Japanese History and khirin]] — the 1820–1888 run
 - [[Shiho kenkyu 1928 - who answers for a ko and how it was defrauded]] — a Ministry of Justice study, restricted; mutual kō and business told apart by who answers for a member's default
+- [[Yui 1934 - the law of ko and who bears a member's default]] — the ministry's 1934 law of kō, open online: in the mutual kō the members hold the claims, and the 世話人 guarantees only if the rules say so
 - [[Norinsho 1938 - forty-three ko rulebooks in print]] — the ministry's 1936 selection of rulebooks from Akita, Shizuoka, Yamaguchi and Fukuoka, open online; selected by a regulator, anonymised
 
 ## Links

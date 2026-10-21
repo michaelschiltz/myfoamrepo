@@ -2669,7 +2669,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Norinsho 1938 - forty-three ko rulebooks in print",
-      "value": 17,
+      "value": 19,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -3236,7 +3236,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Shiho kenkyu 1928 - who answers for a ko and how it was defrauded",
-      "value": 11,
+      "value": 15,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -4960,6 +4960,15 @@
       "shape": "dot"
     },
     {
+      "id": "Yui 1934 - the law of ko and who bears a member's default",
+      "type": "reference",
+      "group": "reference",
+      "label": "Yui 1934 - the law of ko and who bears a member's default",
+      "value": 12,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
       "id": "Zeeuws Archief - the Zeeland chamber and the MCC",
       "type": "reference",
       "group": "reference",
@@ -5108,7 +5117,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Entity-shielding and corporate forms",
-      "value": 132,
+      "value": 133,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -5162,7 +5171,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - HistorEE",
-      "value": 447,
+      "value": 448,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -5198,7 +5207,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Japanese archives",
-      "value": 100,
+      "value": 102,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -5297,7 +5306,7 @@
       "type": "database",
       "group": "database",
       "label": "loss_mitigation_forms",
-      "value": 53,
+      "value": 54,
       "color": "#a6761d",
       "shape": "database"
     },
@@ -16549,6 +16558,10 @@
       "to": "Toyonaka City - the Chokoji-mura documents"
     },
     {
+      "from": "MOC - Japanese archives",
+      "to": "Yui 1934 - the law of ko and who bears a member's default"
+    },
+    {
       "from": "MOC - Nordic archives",
       "to": "Asiatisk Kompagni and the Danish trading companies"
     },
@@ -18526,6 +18539,10 @@
     },
     {
       "from": "Norinsho 1938 - forty-three ko rulebooks in print",
+      "to": "Yui 1934 - the law of ko and who bears a member's default"
+    },
+    {
+      "from": "Norinsho 1938 - forty-three ko rulebooks in print",
       "to": "loss_mitigation_forms"
     },
     {
@@ -20375,6 +20392,10 @@
     {
       "from": "Shiho kenkyu 1928 - who answers for a ko and how it was defrauded",
       "to": "The bidding ko transfers from the liquidity-constrained to the liquid"
+    },
+    {
+      "from": "Shiho kenkyu 1928 - who answers for a ko and how it was defrauded",
+      "to": "Yui 1934 - the law of ko and who bears a member's default"
     },
     {
       "from": "Shiho kenkyu 1928 - who answers for a ko and how it was defrauded",
@@ -26611,6 +26632,30 @@
     {
       "from": "Whiggish history of finance names the ascent narrative",
       "to": "The tontine's chronology defeats the hazard-to-pricing staging"
+    },
+    {
+      "from": "Yui 1934 - the law of ko and who bears a member's default",
+      "to": "MOC - Entity-shielding and corporate forms"
+    },
+    {
+      "from": "Yui 1934 - the law of ko and who bears a member's default",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Yui 1934 - the law of ko and who bears a member's default",
+      "to": "MOC - Japanese archives"
+    },
+    {
+      "from": "Yui 1934 - the law of ko and who bears a member's default",
+      "to": "Norinsho 1938 - forty-three ko rulebooks in print"
+    },
+    {
+      "from": "Yui 1934 - the law of ko and who bears a member's default",
+      "to": "Shiho kenkyu 1928 - who answers for a ko and how it was defrauded"
+    },
+    {
+      "from": "Yui 1934 - the law of ko and who bears a member's default",
+      "to": "loss_mitigation_forms"
     },
     {
       "from": "Zeeuws Archief - the Zeeland chamber and the MCC",

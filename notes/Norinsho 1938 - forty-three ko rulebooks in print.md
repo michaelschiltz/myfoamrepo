@@ -70,7 +70,7 @@ Two relief rulebooks, read to test the zero-interest reading, and **therefore ex
 ## Companion items at NDL Digital, open online
 
 - 池田竜蔵『稿本無尽の実際と学説』 (全国無尽集会所, 1930), pid 1444166. The 池田 1930, 29–30 that 恩田 2017 relies on for "not imported from abroad". Two cautions: the publisher is the licensed mujin industry's own association, and the book periodises the institution as 共濟組合時代 → 射倖團體時代 → 金融機關時代, the stage account 並松 refuses ([[The bidding ko transfers from the liquidity-constrained to the liquid]]). The 1918 edition (pid 956756) is restricted to individual transmission.
-- 『頼母子講の法律関係』 (1934, pid 1445784) and 『頼母子講と其の法律関係』 (1935, pid 1280052), on the law of kō.
+- 『頼母子講の法律関係』 (1934, pid 1445784) and 『頼母子講と其の法律関係』 (1935, pid 1280052), on the law of kō; the 1934 edition is read in part in [[Yui 1934 - the law of ko and who bears a member's default]].
 - 『営業無尽ト頼母子講』 (1918, pid 986238).
 - 『頼母子利分引早法独案内』 (1888, pid 900848), a reckoner for kō interest.
 - The four-part 1928 judicial study 民事裁判より観たる無尽講頼母子講 (pids 1907420–1907434), restricted. Presumably the source of the litigation counts the vault cites second-hand ⚠️ not checked.

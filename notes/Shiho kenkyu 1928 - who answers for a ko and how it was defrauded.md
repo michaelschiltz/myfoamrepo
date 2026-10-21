@@ -35,7 +35,7 @@ status: seed
 
 ## Why it matters
 
-- **It names a fact no characteristic holds: who answers for a member's default.** The answer can be the members jointly, the 世話人 alone, or the operator, and the 1928 authors use it to tell a mutual kō from a business. The 1936 rulebooks state it outright: the Akita 甲野乙造企無盡 binds its members 相互不可分連帯 ([[Norinsho 1938 - forty-three ko rulebooks in print]]). The census records security (`RB3`) and who bears a peril, not who bears a co-member's failure. This is the second hazard to the *fund* the vocabulary cannot record, after the 徳政 cancellation in `ko_horyuji_50kan`.
+- **It names a fact no characteristic holds: who answers for a member's default.** The answer can be the members jointly, the 世話人 alone, or the operator, and the 1928 authors use it to tell a mutual kō from a business. The 1936 rulebooks state it outright: the Akita 甲野乙造企無盡 binds its members 相互不可分連帯 ([[Norinsho 1938 - forty-three ko rulebooks in print]]). The census records security (`RB3`) and who bears a peril, not who bears a co-member's failure. This is the second hazard to the *fund* the vocabulary cannot record, after the 徳政 cancellation in `ko_horyuji_50kan`. [[Yui 1934 - the law of ko and who bears a member's default]] gives the case law: in the mutual kō the fund is co-owned and the members hold the claims, the 世話人 guarantees the payout only where the rules or a proved custom say so, and the 1915 statute makes the licensed operator guarantee it.
 - **The religious-name test is 三浦's 徳政 argument seen from the prosecutor's side.** A sacred purpose was a cover that changed who the kō answered to, in 1928 as in the fifteenth century.
 - **The checklist corroborates the bidding-kō mechanism from enforcement.** A minimum payout is a floor on the winning bid, and undistributed 入札差金 is the transfer of [[The bidding ko transfers from the liquidity-constrained to the liquid]] taken by the organiser instead of the late drawers.
 
@@ -44,6 +44,7 @@ status: seed
 - [[Norinsho 1938 - forty-three ko rulebooks in print]]
 - [[The bidding ko transfers from the liquidity-constrained to the liquid]]
 - [[Relief ko for a named person is claimed to be unattested outside Japan]]
+- [[Yui 1934 - the law of ko and who bears a member's default]]
 - [[MOC - Japanese archives]]
 - [[MOC - Entity-shielding and corporate forms]]
 - [[MOC - HistorEE]]
