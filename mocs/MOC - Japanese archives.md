@@ -127,6 +127,7 @@ The Japan Search count found what the placement pass could not: **kō rulebooks 
 
 - [[Japan Search - the national metadata aggregator]] — the count, by database, and the imaged rulebooks
 - [[Rekihaku - the National Museum of Japanese History and khirin]] — the 1820–1888 run
+- [[Norinsho 1938 - forty-three ko rulebooks in print]] — the ministry's 1936 selection of rulebooks from Akita, Shizuoka, Yamaguchi and Fukuoka, open online; selected by a regulator, anonymised
 
 ## Links
 

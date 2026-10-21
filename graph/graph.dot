@@ -297,6 +297,7 @@ digraph vault {
   "Non-ergodicity collapses the likelihood ratio on outcomes" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Noord-Hollands Archief - Haarlem" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
   "Nordic archives online - the access layers" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
+  "Norinsho 1938 - forty-three ko rulebooks in print" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
   "Nothing in the ergodic theorem fails in geometric Brownian motion" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Old Uyghur contracts - the documentary layer under the ortoq" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
   "Olivares's junta coded the asiento as a privileged company" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
@@ -3386,6 +3387,7 @@ digraph vault {
   "MOC - Japanese archives" -> "NIJL Kokusho Database - the classical books union layer";
   "MOC - Japanese archives" -> "National Archives of Japan - the Naikaku Bunko and the digital archive";
   "MOC - Japanese archives" -> "National Diet Library - Digital Collections and the kotenseki OCR layer";
+  "MOC - Japanese archives" -> "Norinsho 1938 - forty-three ko rulebooks in print";
   "MOC - Japanese archives" -> "Osaka Museum of History - the Konoike family documents";
   "MOC - Japanese archives" -> "Osaka University of Commerce - the Museum of Commercial History";
   "MOC - Japanese archives" -> "Prefectural and municipal archives - the monjokan network";
@@ -3584,6 +3586,7 @@ digraph vault {
   "MOC - Source editions" -> "MOC - Acquisitions and the antiquarian trade";
   "MOC - Source editions" -> "MOC - European archives and digital collections";
   "MOC - Source editions" -> "MOC - HistorEE";
+  "MOC - Source editions" -> "Norinsho 1938 - forty-three ko rulebooks in print";
   "MOC - Source editions" -> "Source editions - Cairo Geniza";
   "MOC - Source editions" -> "Source editions - EIC";
   "MOC - Source editions" -> "Source editions - Edo Japan";
@@ -3882,6 +3885,14 @@ digraph vault {
   "Nordic archives online - the access layers" -> "Riksarkivet Sweden - the national archives and the AI lab";
   "Nordic archives online - the access layers" -> "The Nordic thinness - what is actually missing";
   "Nordic archives online - the access layers" -> "The Sound Toll Registers";
+  "Norinsho 1938 - forty-three ko rulebooks in print" -> "Japan Search - the national metadata aggregator";
+  "Norinsho 1938 - forty-three ko rulebooks in print" -> "MOC - HistorEE";
+  "Norinsho 1938 - forty-three ko rulebooks in print" -> "MOC - Japanese archives";
+  "Norinsho 1938 - forty-three ko rulebooks in print" -> "MOC - Source editions";
+  "Norinsho 1938 - forty-three ko rulebooks in print" -> "Refusals are observations of the filter not inferences from survivors";
+  "Norinsho 1938 - forty-three ko rulebooks in print" -> "Relief ko for a named person is claimed to be unattested outside Japan";
+  "Norinsho 1938 - forty-three ko rulebooks in print" -> "The bidding ko transfers from the liquidity-constrained to the liquid";
+  "Norinsho 1938 - forty-three ko rulebooks in print" -> "loss_mitigation_forms";
   "Nothing in the ergodic theorem fails in geometric Brownian motion" -> "An absorbing barrier breaks ergodicity by construction";
   "Nothing in the ergodic theorem fails in geometric Brownian motion" -> "Doctor Wakker and Wang 2020 on the ergodicity problem";
   "Nothing in the ergodic theorem fails in geometric Brownian motion" -> "Jensen gap";
@@ -4173,6 +4184,7 @@ digraph vault {
   "Relief ko for a named person is claimed to be unattested outside Japan" -> "MOC - HistorEE";
   "Relief ko for a named person is claimed to be unattested outside Japan" -> "MOC - Historiography and method";
   "Relief ko for a named person is claimed to be unattested outside Japan" -> "MOC - Risk-sharing vs risk-pricing";
+  "Relief ko for a named person is claimed to be unattested outside Japan" -> "Norinsho 1938 - forty-three ko rulebooks in print";
   "Relief ko for a named person is claimed to be unattested outside Japan" -> "Refusals are observations of the filter not inferences from survivors";
   "Relief ko for a named person is claimed to be unattested outside Japan" -> "The bidding ko transfers from the liquidity-constrained to the liquid";
   "Relief ko for a named person is claimed to be unattested outside Japan" -> "The theory predicts recurrence not independent origins";
@@ -5425,6 +5437,7 @@ digraph vault {
   "The mujin's Buddhist name is not the rotating association's Buddhist descent" -> "MOC - HistorEE";
   "The mujin's Buddhist name is not the rotating association's Buddhist descent" -> "MOC - Historiography and method";
   "The mujin's Buddhist name is not the rotating association's Buddhist descent" -> "MOC - Risk-sharing vs risk-pricing";
+  "The mujin's Buddhist name is not the rotating association's Buddhist descent" -> "Norinsho 1938 - forty-three ko rulebooks in print";
   "The mujin's Buddhist name is not the rotating association's Buddhist descent" -> "Transmission versus independent recurrence is the load-bearing test";
   "The mutual pole entered the library through the wrong census" -> "A scheme for extending the entity census";
   "The mutual pole entered the library through the wrong census" -> "Entitlement by liability versus entitlement by membership";

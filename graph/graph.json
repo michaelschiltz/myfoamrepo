@@ -2057,7 +2057,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Japan Search - the national metadata aggregator",
-      "value": 13,
+      "value": 14,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -2665,6 +2665,15 @@
       "shape": "dot"
     },
     {
+      "id": "Norinsho 1938 - forty-three ko rulebooks in print",
+      "type": "reference",
+      "group": "reference",
+      "label": "Norinsho 1938 - forty-three ko rulebooks in print",
+      "value": 15,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
       "id": "Nothing in the ergodic theorem fails in geometric Brownian motion",
       "type": "permanent",
       "group": "seed",
@@ -2984,7 +2993,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Refusals are observations of the filter not inferences from survivors",
-      "value": 117,
+      "value": 119,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -3011,7 +3020,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Relief ko for a named person is claimed to be unattested outside Japan",
-      "value": 17,
+      "value": 20,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -4091,7 +4100,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The bidding ko transfers from the liquidity-constrained to the liquid",
-      "value": 21,
+      "value": 22,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -4442,7 +4451,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The mujin's Buddhist name is not the rotating association's Buddhist descent",
-      "value": 15,
+      "value": 16,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -5144,7 +5153,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - HistorEE",
-      "value": 445,
+      "value": 446,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -5180,7 +5189,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Japanese archives",
-      "value": 96,
+      "value": 98,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -5234,7 +5243,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Source editions",
-      "value": 50,
+      "value": 52,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -5279,7 +5288,7 @@
       "type": "database",
       "group": "database",
       "label": "loss_mitigation_forms",
-      "value": 51,
+      "value": 52,
       "color": "#a6761d",
       "shape": "database"
     },
@@ -16484,6 +16493,10 @@
     },
     {
       "from": "MOC - Japanese archives",
+      "to": "Norinsho 1938 - forty-three ko rulebooks in print"
+    },
+    {
+      "from": "MOC - Japanese archives",
       "to": "Osaka Museum of History - the Konoike family documents"
     },
     {
@@ -17273,6 +17286,10 @@
     {
       "from": "MOC - Source editions",
       "to": "MOC - HistorEE"
+    },
+    {
+      "from": "MOC - Source editions",
+      "to": "Norinsho 1938 - forty-three ko rulebooks in print"
     },
     {
       "from": "MOC - Source editions",
@@ -18467,6 +18484,38 @@
       "to": "The Sound Toll Registers"
     },
     {
+      "from": "Norinsho 1938 - forty-three ko rulebooks in print",
+      "to": "Japan Search - the national metadata aggregator"
+    },
+    {
+      "from": "Norinsho 1938 - forty-three ko rulebooks in print",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Norinsho 1938 - forty-three ko rulebooks in print",
+      "to": "MOC - Japanese archives"
+    },
+    {
+      "from": "Norinsho 1938 - forty-three ko rulebooks in print",
+      "to": "MOC - Source editions"
+    },
+    {
+      "from": "Norinsho 1938 - forty-three ko rulebooks in print",
+      "to": "Refusals are observations of the filter not inferences from survivors"
+    },
+    {
+      "from": "Norinsho 1938 - forty-three ko rulebooks in print",
+      "to": "Relief ko for a named person is claimed to be unattested outside Japan"
+    },
+    {
+      "from": "Norinsho 1938 - forty-three ko rulebooks in print",
+      "to": "The bidding ko transfers from the liquidity-constrained to the liquid"
+    },
+    {
+      "from": "Norinsho 1938 - forty-three ko rulebooks in print",
+      "to": "loss_mitigation_forms"
+    },
+    {
       "from": "Nothing in the ergodic theorem fails in geometric Brownian motion",
       "to": "An absorbing barrier breaks ergodicity by construction"
     },
@@ -19629,6 +19678,10 @@
     {
       "from": "Relief ko for a named person is claimed to be unattested outside Japan",
       "to": "MOC - Risk-sharing vs risk-pricing"
+    },
+    {
+      "from": "Relief ko for a named person is claimed to be unattested outside Japan",
+      "to": "Norinsho 1938 - forty-three ko rulebooks in print"
     },
     {
       "from": "Relief ko for a named person is claimed to be unattested outside Japan",
@@ -24637,6 +24690,10 @@
     {
       "from": "The mujin's Buddhist name is not the rotating association's Buddhist descent",
       "to": "MOC - Risk-sharing vs risk-pricing"
+    },
+    {
+      "from": "The mujin's Buddhist name is not the rotating association's Buddhist descent",
+      "to": "Norinsho 1938 - forty-three ko rulebooks in print"
     },
     {
       "from": "The mujin's Buddhist name is not the rotating association's Buddhist descent",
