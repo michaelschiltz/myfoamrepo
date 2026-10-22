@@ -5,7 +5,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "A blind is a property of the channel not of the dataset",
-      "value": 18,
+      "value": 19,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -241,6 +241,15 @@
       "label": "Agent-borne capital loss clusters in local contracts",
       "value": 15,
       "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "Agentic research set-ups - the public landscape against the HistorEE protocol",
+      "type": "reference",
+      "group": "reference",
+      "label": "Agentic research set-ups - the public landscape against the HistorEE protocol",
+      "value": 12,
+      "color": "#66a61e",
       "shape": "dot"
     },
     {
@@ -824,7 +833,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Blind re-coding workflow - operator, coder, application",
-      "value": 22,
+      "value": 23,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -2912,7 +2921,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Primary against secondary coding workflow - three arms, reveal, application",
-      "value": 24,
+      "value": 25,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -3074,7 +3083,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Retrieval report workflow - reading the codebooks and the vault back as evidence",
-      "value": 16,
+      "value": 17,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -3479,7 +3488,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Split provenance into priority and independence",
-      "value": 36,
+      "value": 37,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -5234,7 +5243,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - HistorEE",
-      "value": 461,
+      "value": 463,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -5243,7 +5252,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Historiography and method",
-      "value": 219,
+      "value": 221,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -5360,7 +5369,7 @@
       "type": "database",
       "group": "database",
       "label": "organizational_forms",
-      "value": 36,
+      "value": 37,
       "color": "#a6761d",
       "shape": "database"
     },
@@ -5369,7 +5378,7 @@
       "type": "database",
       "group": "database",
       "label": "loss_mitigation_forms",
-      "value": 61,
+      "value": 62,
       "color": "#a6761d",
       "shape": "database"
     },
@@ -6442,6 +6451,42 @@
     },
     {
       "from": "Agent-borne capital loss clusters in local contracts",
+      "to": "organizational_forms"
+    },
+    {
+      "from": "Agentic research set-ups - the public landscape against the HistorEE protocol",
+      "to": "A blind is a property of the channel not of the dataset"
+    },
+    {
+      "from": "Agentic research set-ups - the public landscape against the HistorEE protocol",
+      "to": "Blind re-coding workflow - operator, coder, application"
+    },
+    {
+      "from": "Agentic research set-ups - the public landscape against the HistorEE protocol",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Agentic research set-ups - the public landscape against the HistorEE protocol",
+      "to": "MOC - Historiography and method"
+    },
+    {
+      "from": "Agentic research set-ups - the public landscape against the HistorEE protocol",
+      "to": "Primary against secondary coding workflow - three arms, reveal, application"
+    },
+    {
+      "from": "Agentic research set-ups - the public landscape against the HistorEE protocol",
+      "to": "Retrieval report workflow - reading the codebooks and the vault back as evidence"
+    },
+    {
+      "from": "Agentic research set-ups - the public landscape against the HistorEE protocol",
+      "to": "Split provenance into priority and independence"
+    },
+    {
+      "from": "Agentic research set-ups - the public landscape against the HistorEE protocol",
+      "to": "loss_mitigation_forms"
+    },
+    {
+      "from": "Agentic research set-ups - the public landscape against the HistorEE protocol",
       "to": "organizational_forms"
     },
     {
@@ -15350,6 +15395,10 @@
     },
     {
       "from": "MOC - HistorEE",
+      "to": "Agentic research set-ups - the public landscape against the HistorEE protocol"
+    },
+    {
+      "from": "MOC - HistorEE",
       "to": "Aktipis and Cronk on need-based transfers and herd survival"
     },
     {
@@ -16023,6 +16072,10 @@
     {
       "from": "MOC - Historiography and method",
       "to": "A significant persistence coefficient is evidence against its own licensing condition"
+    },
+    {
+      "from": "MOC - Historiography and method",
+      "to": "Agentic research set-ups - the public landscape against the HistorEE protocol"
     },
     {
       "from": "MOC - Historiography and method",

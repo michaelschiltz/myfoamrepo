@@ -157,3 +157,7 @@ Where the sources for the European companies are and are not machine-readable is
 ## Added 2026-10-22 — a characteristic the evidence could not test
 
 - [[A residual-bearer characteristic failed two blind tests for want of cases not for redundancy]] — two blind tests failed on the second limb: no comparable pairs, so neither collinearity nor independence was shown; selection for a third test must be on a property knowable before reading
+
+## Added 2026-10-22 — the public landscape of agentic set-ups
+
+- [[Agentic research set-ups - the public landscape against the HistorEE protocol]] — every component in wide use, the configuration in none; the nearest repositories give the agent the commit the protocol withholds

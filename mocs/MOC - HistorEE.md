@@ -290,3 +290,7 @@ Project hub for the book. Atomic notes hang off both this project MOC and a them
 - [[A pledge secures an obligation and does not enlarge it]]
 - [[Okurasho 1915 - a Finance Ministry survey of mujin with eleven rulebooks]]
 - [[Seitai chosa shiryo 36 - court-district reports on ko from Aomori, Tokushima and Okinawa]]
+
+## Notes — agentic set-up landscape
+
+- [[Agentic research set-ups - the public landscape against the HistorEE protocol]]

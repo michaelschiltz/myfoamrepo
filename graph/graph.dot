@@ -28,6 +28,7 @@ digraph vault {
   "Academia Sinica IHP - the Grand Secretariat archives in Taipei" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
   "Acta Turcarum - the Ottoman series at Dubrovnik" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
   "Agent-borne capital loss clusters in local contracts" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
+  "Agentic research set-ups - the public landscape against the HistorEE protocol" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
   "Aktipis and Cronk on need-based transfers and herd survival" [fillcolor="#7570b3", fontcolor=white, shape=ellipse];
   "Amsterdam notaries drafted ship-pledged and goods-pledged bodemerij as one instrument" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "An absorbing barrier breaks ergodicity by construction" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
@@ -864,6 +865,15 @@ digraph vault {
   "Agent-borne capital loss clusters in local contracts" -> "commenda";
   "Agent-borne capital loss clusters in local contracts" -> "loss_mitigation_forms";
   "Agent-borne capital loss clusters in local contracts" -> "organizational_forms";
+  "Agentic research set-ups - the public landscape against the HistorEE protocol" -> "A blind is a property of the channel not of the dataset";
+  "Agentic research set-ups - the public landscape against the HistorEE protocol" -> "Blind re-coding workflow - operator, coder, application";
+  "Agentic research set-ups - the public landscape against the HistorEE protocol" -> "MOC - HistorEE";
+  "Agentic research set-ups - the public landscape against the HistorEE protocol" -> "MOC - Historiography and method";
+  "Agentic research set-ups - the public landscape against the HistorEE protocol" -> "Primary against secondary coding workflow - three arms, reveal, application";
+  "Agentic research set-ups - the public landscape against the HistorEE protocol" -> "Retrieval report workflow - reading the codebooks and the vault back as evidence";
+  "Agentic research set-ups - the public landscape against the HistorEE protocol" -> "Split provenance into priority and independence";
+  "Agentic research set-ups - the public landscape against the HistorEE protocol" -> "loss_mitigation_forms";
+  "Agentic research set-ups - the public landscape against the HistorEE protocol" -> "organizational_forms";
   "Aktipis and Cronk on need-based transfers and herd survival" -> "Absorbing barrier";
   "Aktipis and Cronk on need-based transfers and herd survival" -> "Cooperation is an averaging puzzle and sovereign repayment is a barrier puzzle";
   "Aktipis and Cronk on need-based transfers and herd survival" -> "Doctrine as survival technology literature";
@@ -3090,6 +3100,7 @@ digraph vault {
   "MOC - HistorEE" -> "Absorption is a path-dependence mechanism distinct from reinforcement";
   "MOC - HistorEE" -> "Absorption without ergodicity economics is just ruin theory";
   "MOC - HistorEE" -> "Agent-borne capital loss clusters in local contracts";
+  "MOC - HistorEE" -> "Agentic research set-ups - the public landscape against the HistorEE protocol";
   "MOC - HistorEE" -> "Aktipis and Cronk on need-based transfers and herd survival";
   "MOC - HistorEE" -> "Answering EU's failures with more psychology instantiates the complaint";
   "MOC - HistorEE" -> "Antifragility is defined by an ensemble Jensen gap";
@@ -3259,6 +3270,7 @@ digraph vault {
   "MOC - Historiography and method" -> "A residual-bearer characteristic failed two blind tests for want of cases not for redundancy";
   "MOC - Historiography and method" -> "A shared compilation never licenses an inference to shared practice";
   "MOC - Historiography and method" -> "A significant persistence coefficient is evidence against its own licensing condition";
+  "MOC - Historiography and method" -> "Agentic research set-ups - the public landscape against the HistorEE protocol";
   "MOC - Historiography and method" -> "Amsterdam notaries drafted ship-pledged and goods-pledged bodemerij as one instrument";
   "MOC - Historiography and method" -> "Arrow-Debreu dissolves time rather than neglecting it";
   "MOC - Historiography and method" -> "Attractor selection bounds what a persistence design can resolve";
