@@ -281,3 +281,12 @@ Project hub for the book. Atomic notes hang off both this project MOC and a them
 ## Notes — Florentine dowry fund
 
 - [[Monte delle doti coding session 2026-10-15]]
+
+## Notes — RD-test blind tests
+
+- [[RD-test coding and re-test session 2026-10-22]]
+- [[A residual-bearer characteristic failed two blind tests for want of cases not for redundancy]]
+- [[Where ko rules name a bearer beyond the drawer's security it follows the drafting regime]]
+- [[A pledge secures an obligation and does not enlarge it]]
+- [[Okurasho 1915 - a Finance Ministry survey of mujin with eleven rulebooks]]
+- [[Seitai chosa shiryo 36 - court-district reports on ko from Aomori, Tokushima and Okinawa]]

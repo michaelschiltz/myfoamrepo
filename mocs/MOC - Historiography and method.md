@@ -153,3 +153,7 @@ Where the sources for the European companies are and are not machine-readable is
 ## Added 2026-10-17 — the mujin etymology
 
 - [[The mujin's Buddhist name is not the rotating association's Buddhist descent]] — the word travelled with temple lending; the rotating association predates the name, so the name is reticulation, not origination
+
+## Added 2026-10-22 — a characteristic the evidence could not test
+
+- [[A residual-bearer characteristic failed two blind tests for want of cases not for redundancy]] — two blind tests failed on the second limb: no comparable pairs, so neither collinearity nor independence was shown; selection for a third test must be on a property knowable before reading

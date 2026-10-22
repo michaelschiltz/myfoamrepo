@@ -83,6 +83,8 @@ Thematic hub for the corporate-form apparatus: asset-partitioning, identity-wrap
 
 - [[Who answers for a ko member's default was drafted not given]] — twenty-one 1930s kō rulebooks: the residual bearer of a winner's default is all members, his small group, or the officers, and two of these meet in one ministry class
 - [[Yui 1934 - the law of ko and who bears a member's default]] — the case law behind it: in the mutual kō the members hold the claims
+- [[A pledge secures an obligation and does not enlarge it]] — `LS3` ruled: a member's own pledge is `.NR`; exposure comes by answering for others or by liability beyond the pledge, as in the sea loan
+- [[Where ko rules name a bearer beyond the drawer's security it follows the drafting regime]] — the licensing template that made kō managers personally liable without limit: the fund shielded by making its officers ruinable
 
 ## Added 2026-10-14
 

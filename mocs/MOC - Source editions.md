@@ -29,6 +29,8 @@ status: seed
 - [[Source editions - Low Countries and the Hanse]] — **the whole RGP trade series free at Huygens; Winkelman is six volumes, not one**; Doehaerd; the Antwerp *Compilatae*; HUB and Hanserecesse
 - [[Source editions - Iberian Atlantic]] — the *Recopilación* Book IX on the *avería*; Veitia Linage; the Seville and Bilbao *ordenanzas*; least verified
 - [[Norinsho 1938 - forty-three ko rulebooks in print]] — **forty-three 1936 kō rulebooks from four prefectures, open online**; the census's acquisition rule met in print
+- [[Okurasho 1915 - a Finance Ministry survey of mujin with eleven rulebooks]] — **eleven 1915 kō and 模合 rulebooks in a Finance Ministry survey, open online**; a second selector
+- [[Seitai chosa shiryo 36 - court-district reports on ko from Aomori, Tokushima and Okinawa]] — court-district reports with rulebooks and a prefectural regulation; transmission service only
 - [[Source editions - Edo Japan]] — the edict collections and their 2002 index are the route to mujin; Sumitomo's *fudasashi* bonds; Mitsui's free digital series; no Kōnoike edition
 - [[Source editions - late-imperial China]] — **the *huiguan* published accounts (征信录) in print**; Zhang 2014 supersedes Zhang 1995; the 40-volume Huizhou facsimile; Taiwan Shihō's appended contracts
 - Silk Road — [[The Silk Road layer 3 is a national editorial programme]] and the notes it links

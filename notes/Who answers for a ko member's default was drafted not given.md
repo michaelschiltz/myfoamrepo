@@ -15,7 +15,7 @@ In twenty-one Shōwa rulebooks, the party who bears a winner's default once his 
 
 ## The evidence
 
-The read half of the 1936 volume ([[Norinsho 1938 - forty-three ko rulebooks in print]]). The half was fixed by a seeded draw before any rulebook was opened (logbook 2, 2026-10-21 (ii)); the other half is held back blind. Clause numbers are the rules' own.
+The read half of the 1936 volume ([[Norinsho 1938 - forty-three ko rulebooks in print]]). The half was fixed by a seeded draw before any rulebook was opened (logbook 2, 2026-10-21 (ii)); the other half is held back blind. *[2026-10-22: the reserve has since been coded blind and is spent; see the section below.]* Clause numbers are the rules' own.
 
 | Kō | Prefecture, class        | Winner's own security                                  | Residual bearer, where stated                              | Unwon member's default                       |
 |----|--------------------------|--------------------------------------------------------|------------------------------------------------------------|----------------------------------------------|
@@ -54,6 +54,10 @@ The read half of the 1936 volume ([[Norinsho 1938 - forty-three ko rulebooks in 
 - **Silence is not the default.** Ten rules state no residual bearer. Under the 1934 case law their members would answer as co-owners, but that is post-1898 doctrine, and a silent rule codes `.NR`.
 - **The read half is open, not blind.** These are the cases the question was found on. A characteristic fixed from them must be tested on the reserve, which is the reason the reserve exists.
 - **It is Shōwa practice under regulation**, chosen by a regulator. It says nothing directly about a Tokugawa 仕法書.
+
+## Tested blind, 22 October 2026
+
+The residual layer was fixed as a test characteristic, `RD-test`, before the reserve was read, and tested twice for discriminant validity: on the seventeen reserved kō of this volume, and on nineteen rulebooks chosen by other ministries ([[Okurasho 1915 - a Finance Ministry survey of mujin with eleven rulebooks]]; [[Seitai chosa shiryo 36 - court-district reports on ko from Aomori, Tokushima and Okinawa]]). **Both tests failed for want of comparable cases**, and the characteristic was not adopted ([[A residual-bearer characteristic failed two blind tests for want of cases not for redundancy]]). In the reserve the residual bearer was stated in five of seventeen, each in a different form; kō 7 confirmed the クビリ. Across both sets the stated bearers cluster by drafting regime ([[Where ko rules name a bearer beyond the drawer's security it follows the drafting regime]]). Full record: [[RD-test coding and re-test session 2026-10-22]].
 
 ## Links
 

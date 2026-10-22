@@ -130,6 +130,8 @@ The Japan Search count found what the placement pass could not: **kō rulebooks 
 - [[Shiho kenkyu 1928 - who answers for a ko and how it was defrauded]] — a Ministry of Justice study, restricted; mutual kō and business told apart by who answers for a member's default
 - [[Yui 1934 - the law of ko and who bears a member's default]] — the ministry's 1934 law of kō, open online: in the mutual kō the members hold the claims, and the 世話人 guarantees only if the rules say so
 - [[Norinsho 1938 - forty-three ko rulebooks in print]] — the ministry's 1936 selection of rulebooks from Akita, Shizuoka, Yamaguchi and Fukuoka, open online; selected by a regulator, anonymised
+- [[Okurasho 1915 - a Finance Ministry survey of mujin with eleven rulebooks]] — the Finance Ministry's 1915 survey, open online, with eleven rulebooks from Okinawa, Saitama, Tottori, Shimane and Kōchi, two of them model texts; spent by the 2026-10-22 re-test
+- [[Seitai chosa shiryo 36 - court-district reports on ko from Aomori, Tokushima and Okinawa]] — Ministry of Justice court-district reports, transmission service only; rulebooks from Aomori and Tokushima, a Tokushima 取締規則 and the only 模合 report found, the last two unread
 
 ## Links
 

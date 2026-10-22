@@ -141,3 +141,8 @@ Thematic hub for the instrument axis: risk-*sharing* forms that keep every party
 ## Added 2026-10-15 — the Florentine monte delle doti
 
 - [[Monte delle doti coding session 2026-10-15]] — the dowry fund coded blind as `monte_doti_florence`: a contingent claim sold by the commune (`MC1 = spreading`), priced by term "per cagione della morte" but never on the girl (`PR1 = P`); 1433 a variant, one dated change (`RB2`), no split
+
+## Added 2026-10-22 — the residual bearer of a kō member's default
+
+- [[RD-test coding and re-test session 2026-10-22]] — a residual-bearer characteristic tested blind twice, on thirty-six rulebooks, and not adopted
+- [[Where ko rules name a bearer beyond the drawer's security it follows the drafting regime]] — group liability in Fukuoka, unlimited managers under a Tottori and Shimane template, silence elsewhere

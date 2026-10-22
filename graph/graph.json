@@ -5,7 +5,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "A blind is a property of the channel not of the dataset",
-      "value": 17,
+      "value": 18,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -50,7 +50,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "A difference between coded forms is a difference of evidence, vocabulary or form",
-      "value": 20,
+      "value": 21,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -91,6 +91,15 @@
       "shape": "dot"
     },
     {
+      "id": "A pledge secures an obligation and does not enlarge it",
+      "type": "permanent",
+      "group": "seed",
+      "label": "A pledge secures an obligation and does not enlarge it",
+      "value": 11,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
       "id": "A prediction is evidence only if its priority is committed",
       "type": "permanent",
       "group": "seed",
@@ -105,6 +114,15 @@
       "group": "seed",
       "label": "A refutation that shares the estimand inherits the defect",
       "value": 32,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "A residual-bearer characteristic failed two blind tests for want of cases not for redundancy",
+      "type": "permanent",
+      "group": "seed",
+      "label": "A residual-bearer characteristic failed two blind tests for want of cases not for redundancy",
+      "value": 15,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -806,7 +824,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Blind re-coding workflow - operator, coder, application",
-      "value": 21,
+      "value": 22,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1076,7 +1094,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Count degrees of freedom not cells",
-      "value": 60,
+      "value": 63,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -2669,7 +2687,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Norinsho 1938 - forty-three ko rulebooks in print",
-      "value": 22,
+      "value": 28,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -2680,6 +2698,15 @@
       "label": "Nothing in the ergodic theorem fails in geometric Brownian motion",
       "value": 42,
       "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "Okurasho 1915 - a Finance Ministry survey of mujin with eleven rulebooks",
+      "type": "reference",
+      "group": "reference",
+      "label": "Okurasho 1915 - a Finance Ministry survey of mujin with eleven rulebooks",
+      "value": 19,
+      "color": "#66a61e",
       "shape": "dot"
     },
     {
@@ -2935,6 +2962,15 @@
       "shape": "dot"
     },
     {
+      "id": "RD-test coding and re-test session 2026-10-22",
+      "type": "reference",
+      "group": "reference",
+      "label": "RD-test coding and re-test session 2026-10-22",
+      "value": 25,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
       "id": "Ragusan collegantia is unilateral and Venetian collegantia is bilateral",
       "type": "permanent",
       "group": "seed",
@@ -2993,7 +3029,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Refusals are observations of the filter not inferences from survivors",
-      "value": 120,
+      "value": 121,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -3187,6 +3223,15 @@
       "shape": "dot"
     },
     {
+      "id": "Seitai chosa shiryo 36 - court-district reports on ko from Aomori, Tokushima and Okinawa",
+      "type": "reference",
+      "group": "reference",
+      "label": "Seitai chosa shiryo 36 - court-district reports on ko from Aomori, Tokushima and Okinawa",
+      "value": 18,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
       "id": "Selection frequency trades against organizational memory",
       "type": "permanent",
       "group": "seed",
@@ -3236,7 +3281,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Shiho kenkyu 1928 - who answers for a ko and how it was defrauded",
-      "value": 16,
+      "value": 17,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -3434,7 +3479,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Split provenance into priority and independence",
-      "value": 35,
+      "value": 36,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -3794,7 +3839,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The Bodmerei shield was a default rule and Amsterdam contracted out of it",
-      "value": 7,
+      "value": 9,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -4942,6 +4987,15 @@
       "shape": "dot"
     },
     {
+      "id": "Where ko rules name a bearer beyond the drawer's security it follows the drafting regime",
+      "type": "permanent",
+      "group": "seed",
+      "label": "Where ko rules name a bearer beyond the drawer's security it follows the drafting regime",
+      "value": 21,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
       "id": "Which peril gets a clause is set by the tradition's doctrinal problem",
       "type": "permanent",
       "group": "seed",
@@ -4964,7 +5018,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Who answers for a ko member's default was drafted not given",
-      "value": 14,
+      "value": 24,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -4973,7 +5027,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Yui 1934 - the law of ko and who bears a member's default",
-      "value": 15,
+      "value": 17,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -5126,7 +5180,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Entity-shielding and corporate forms",
-      "value": 136,
+      "value": 140,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -5180,7 +5234,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - HistorEE",
-      "value": 449,
+      "value": 461,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -5189,7 +5243,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Historiography and method",
-      "value": 217,
+      "value": 219,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -5216,7 +5270,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Japanese archives",
-      "value": 102,
+      "value": 106,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -5252,7 +5306,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Risk-sharing vs risk-pricing",
-      "value": 202,
+      "value": 206,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -5270,7 +5324,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Source editions",
-      "value": 52,
+      "value": 56,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -5315,7 +5369,7 @@
       "type": "database",
       "group": "database",
       "label": "loss_mitigation_forms",
-      "value": 55,
+      "value": 61,
       "color": "#a6761d",
       "shape": "database"
     },
@@ -5727,6 +5781,30 @@
       "to": "Voigtlander and Voth measured the relaxation time and reported a mixture"
     },
     {
+      "from": "A pledge secures an obligation and does not enlarge it",
+      "to": "MOC - Entity-shielding and corporate forms"
+    },
+    {
+      "from": "A pledge secures an obligation and does not enlarge it",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "A pledge secures an obligation and does not enlarge it",
+      "to": "RD-test coding and re-test session 2026-10-22"
+    },
+    {
+      "from": "A pledge secures an obligation and does not enlarge it",
+      "to": "The Bodmerei shield was a default rule and Amsterdam contracted out of it"
+    },
+    {
+      "from": "A pledge secures an obligation and does not enlarge it",
+      "to": "Yui 1934 - the law of ko and who bears a member's default"
+    },
+    {
+      "from": "A pledge secures an obligation and does not enlarge it",
+      "to": "loss_mitigation_forms"
+    },
+    {
       "from": "A prediction is evidence only if its priority is committed",
       "to": "A blind is a property of the channel not of the dataset"
     },
@@ -5821,6 +5899,38 @@
     {
       "from": "A refutation that shares the estimand inherits the defect",
       "to": "Voigtlander and Voth measured the relaxation time and reported a mixture"
+    },
+    {
+      "from": "A residual-bearer characteristic failed two blind tests for want of cases not for redundancy",
+      "to": "A difference between coded forms is a difference of evidence, vocabulary or form"
+    },
+    {
+      "from": "A residual-bearer characteristic failed two blind tests for want of cases not for redundancy",
+      "to": "Count degrees of freedom not cells"
+    },
+    {
+      "from": "A residual-bearer characteristic failed two blind tests for want of cases not for redundancy",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "A residual-bearer characteristic failed two blind tests for want of cases not for redundancy",
+      "to": "MOC - Historiography and method"
+    },
+    {
+      "from": "A residual-bearer characteristic failed two blind tests for want of cases not for redundancy",
+      "to": "RD-test coding and re-test session 2026-10-22"
+    },
+    {
+      "from": "A residual-bearer characteristic failed two blind tests for want of cases not for redundancy",
+      "to": "Where ko rules name a bearer beyond the drawer's security it follows the drafting regime"
+    },
+    {
+      "from": "A residual-bearer characteristic failed two blind tests for want of cases not for redundancy",
+      "to": "Who answers for a ko member's default was drafted not given"
+    },
+    {
+      "from": "A residual-bearer characteristic failed two blind tests for want of cases not for redundancy",
+      "to": "loss_mitigation_forms"
     },
     {
       "from": "A route clause conditions the investor's peril in three traditions",
@@ -14084,6 +14194,10 @@
     },
     {
       "from": "MOC - Entity-shielding and corporate forms",
+      "to": "A pledge secures an obligation and does not enlarge it"
+    },
+    {
+      "from": "MOC - Entity-shielding and corporate forms",
       "to": "A scheme for extending the entity census"
     },
     {
@@ -14277,6 +14391,10 @@
     {
       "from": "MOC - Entity-shielding and corporate forms",
       "to": "Van Dam's Beschryvinge - the VOC described by its own advocaat"
+    },
+    {
+      "from": "MOC - Entity-shielding and corporate forms",
+      "to": "Where ko rules name a bearer beyond the drawer's security it follows the drafting regime"
     },
     {
       "from": "MOC - Entity-shielding and corporate forms",
@@ -15188,11 +15306,19 @@
     },
     {
       "from": "MOC - HistorEE",
+      "to": "A pledge secures an obligation and does not enlarge it"
+    },
+    {
+      "from": "MOC - HistorEE",
       "to": "A prediction is evidence only if its priority is committed"
     },
     {
       "from": "MOC - HistorEE",
       "to": "A refutation that shares the estimand inherits the defect"
+    },
+    {
+      "from": "MOC - HistorEE",
+      "to": "A residual-bearer characteristic failed two blind tests for want of cases not for redundancy"
     },
     {
       "from": "MOC - HistorEE",
@@ -15468,6 +15594,10 @@
     },
     {
       "from": "MOC - HistorEE",
+      "to": "Okurasho 1915 - a Finance Ministry survey of mujin with eleven rulebooks"
+    },
+    {
+      "from": "MOC - HistorEE",
       "to": "Olivares's junta coded the asiento as a privileged company"
     },
     {
@@ -15489,6 +15619,10 @@
     {
       "from": "MOC - HistorEE",
       "to": "Pure multiplicative dynamics are permutation-invariant"
+    },
+    {
+      "from": "MOC - HistorEE",
+      "to": "RD-test coding and re-test session 2026-10-22"
     },
     {
       "from": "MOC - HistorEE",
@@ -15537,6 +15671,10 @@
     {
       "from": "MOC - HistorEE",
       "to": "Scuttling rewards fraud in the sea loan"
+    },
+    {
+      "from": "MOC - HistorEE",
+      "to": "Seitai chosa shiryo 36 - court-district reports on ko from Aomori, Tokushima and Okinawa"
     },
     {
       "from": "MOC - HistorEE",
@@ -15828,6 +15966,10 @@
     },
     {
       "from": "MOC - HistorEE",
+      "to": "Where ko rules name a bearer beyond the drawer's security it follows the drafting regime"
+    },
+    {
+      "from": "MOC - HistorEE",
       "to": "Which peril gets a clause is set by the tradition's doctrinal problem"
     },
     {
@@ -15869,6 +16011,10 @@
     {
       "from": "MOC - Historiography and method",
       "to": "A refutation that shares the estimand inherits the defect"
+    },
+    {
+      "from": "MOC - Historiography and method",
+      "to": "A residual-bearer characteristic failed two blind tests for want of cases not for redundancy"
     },
     {
       "from": "MOC - Historiography and method",
@@ -16532,6 +16678,10 @@
     },
     {
       "from": "MOC - Japanese archives",
+      "to": "Okurasho 1915 - a Finance Ministry survey of mujin with eleven rulebooks"
+    },
+    {
+      "from": "MOC - Japanese archives",
       "to": "Osaka Museum of History - the Konoike family documents"
     },
     {
@@ -16545,6 +16695,10 @@
     {
       "from": "MOC - Japanese archives",
       "to": "Rekihaku - the National Museum of Japanese History and khirin"
+    },
+    {
+      "from": "MOC - Japanese archives",
+      "to": "Seitai chosa shiryo 36 - court-district reports on ko from Aomori, Tokushima and Okinawa"
     },
     {
       "from": "MOC - Japanese archives",
@@ -17024,6 +17178,10 @@
     },
     {
       "from": "MOC - Risk-sharing vs risk-pricing",
+      "to": "RD-test coding and re-test session 2026-10-22"
+    },
+    {
+      "from": "MOC - Risk-sharing vs risk-pricing",
       "to": "Ragusan collegantia is unilateral and Venetian collegantia is bilateral"
     },
     {
@@ -17180,6 +17338,10 @@
     },
     {
       "from": "MOC - Risk-sharing vs risk-pricing",
+      "to": "Where ko rules name a bearer beyond the drawer's security it follows the drafting regime"
+    },
+    {
+      "from": "MOC - Risk-sharing vs risk-pricing",
       "to": "Which peril gets a clause is set by the tradition's doctrinal problem"
     },
     {
@@ -17333,6 +17495,14 @@
     {
       "from": "MOC - Source editions",
       "to": "Norinsho 1938 - forty-three ko rulebooks in print"
+    },
+    {
+      "from": "MOC - Source editions",
+      "to": "Okurasho 1915 - a Finance Ministry survey of mujin with eleven rulebooks"
+    },
+    {
+      "from": "MOC - Source editions",
+      "to": "Seitai chosa shiryo 36 - court-district reports on ko from Aomori, Tokushima and Okinawa"
     },
     {
       "from": "MOC - Source editions",
@@ -18544,6 +18714,10 @@
     },
     {
       "from": "Norinsho 1938 - forty-three ko rulebooks in print",
+      "to": "RD-test coding and re-test session 2026-10-22"
+    },
+    {
+      "from": "Norinsho 1938 - forty-three ko rulebooks in print",
       "to": "Refusals are observations of the filter not inferences from survivors"
     },
     {
@@ -18609,6 +18783,38 @@
     {
       "from": "Nothing in the ergodic theorem fails in geometric Brownian motion",
       "to": "Time-average optimization is a survivorship property not an intention"
+    },
+    {
+      "from": "Okurasho 1915 - a Finance Ministry survey of mujin with eleven rulebooks",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Okurasho 1915 - a Finance Ministry survey of mujin with eleven rulebooks",
+      "to": "MOC - Japanese archives"
+    },
+    {
+      "from": "Okurasho 1915 - a Finance Ministry survey of mujin with eleven rulebooks",
+      "to": "MOC - Source editions"
+    },
+    {
+      "from": "Okurasho 1915 - a Finance Ministry survey of mujin with eleven rulebooks",
+      "to": "Norinsho 1938 - forty-three ko rulebooks in print"
+    },
+    {
+      "from": "Okurasho 1915 - a Finance Ministry survey of mujin with eleven rulebooks",
+      "to": "RD-test coding and re-test session 2026-10-22"
+    },
+    {
+      "from": "Okurasho 1915 - a Finance Ministry survey of mujin with eleven rulebooks",
+      "to": "Seitai chosa shiryo 36 - court-district reports on ko from Aomori, Tokushima and Okinawa"
+    },
+    {
+      "from": "Okurasho 1915 - a Finance Ministry survey of mujin with eleven rulebooks",
+      "to": "Where ko rules name a bearer beyond the drawer's security it follows the drafting regime"
+    },
+    {
+      "from": "Okurasho 1915 - a Finance Ministry survey of mujin with eleven rulebooks",
+      "to": "loss_mitigation_forms"
     },
     {
       "from": "Old Uyghur contracts - the documentary layer under the ortoq",
@@ -19443,6 +19649,62 @@
       "to": "MOC - Chinese archives"
     },
     {
+      "from": "RD-test coding and re-test session 2026-10-22",
+      "to": "A blind is a property of the channel not of the dataset"
+    },
+    {
+      "from": "RD-test coding and re-test session 2026-10-22",
+      "to": "A pledge secures an obligation and does not enlarge it"
+    },
+    {
+      "from": "RD-test coding and re-test session 2026-10-22",
+      "to": "A residual-bearer characteristic failed two blind tests for want of cases not for redundancy"
+    },
+    {
+      "from": "RD-test coding and re-test session 2026-10-22",
+      "to": "Blind re-coding workflow - operator, coder, application"
+    },
+    {
+      "from": "RD-test coding and re-test session 2026-10-22",
+      "to": "Count degrees of freedom not cells"
+    },
+    {
+      "from": "RD-test coding and re-test session 2026-10-22",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "RD-test coding and re-test session 2026-10-22",
+      "to": "MOC - Risk-sharing vs risk-pricing"
+    },
+    {
+      "from": "RD-test coding and re-test session 2026-10-22",
+      "to": "Norinsho 1938 - forty-three ko rulebooks in print"
+    },
+    {
+      "from": "RD-test coding and re-test session 2026-10-22",
+      "to": "Okurasho 1915 - a Finance Ministry survey of mujin with eleven rulebooks"
+    },
+    {
+      "from": "RD-test coding and re-test session 2026-10-22",
+      "to": "Seitai chosa shiryo 36 - court-district reports on ko from Aomori, Tokushima and Okinawa"
+    },
+    {
+      "from": "RD-test coding and re-test session 2026-10-22",
+      "to": "Split provenance into priority and independence"
+    },
+    {
+      "from": "RD-test coding and re-test session 2026-10-22",
+      "to": "Where ko rules name a bearer beyond the drawer's security it follows the drafting regime"
+    },
+    {
+      "from": "RD-test coding and re-test session 2026-10-22",
+      "to": "Who answers for a ko member's default was drafted not given"
+    },
+    {
+      "from": "RD-test coding and re-test session 2026-10-22",
+      "to": "loss_mitigation_forms"
+    },
+    {
       "from": "Ragusan collegantia is unilateral and Venetian collegantia is bilateral",
       "to": "A migrated institution collects local names not local forms"
     },
@@ -20273,6 +20535,42 @@
     {
       "from": "Scuttling rewards fraud in the sea loan",
       "to": "The sea loan is a contingent claim not a loan"
+    },
+    {
+      "from": "Seitai chosa shiryo 36 - court-district reports on ko from Aomori, Tokushima and Okinawa",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Seitai chosa shiryo 36 - court-district reports on ko from Aomori, Tokushima and Okinawa",
+      "to": "MOC - Japanese archives"
+    },
+    {
+      "from": "Seitai chosa shiryo 36 - court-district reports on ko from Aomori, Tokushima and Okinawa",
+      "to": "MOC - Source editions"
+    },
+    {
+      "from": "Seitai chosa shiryo 36 - court-district reports on ko from Aomori, Tokushima and Okinawa",
+      "to": "Norinsho 1938 - forty-three ko rulebooks in print"
+    },
+    {
+      "from": "Seitai chosa shiryo 36 - court-district reports on ko from Aomori, Tokushima and Okinawa",
+      "to": "Okurasho 1915 - a Finance Ministry survey of mujin with eleven rulebooks"
+    },
+    {
+      "from": "Seitai chosa shiryo 36 - court-district reports on ko from Aomori, Tokushima and Okinawa",
+      "to": "RD-test coding and re-test session 2026-10-22"
+    },
+    {
+      "from": "Seitai chosa shiryo 36 - court-district reports on ko from Aomori, Tokushima and Okinawa",
+      "to": "Shiho kenkyu 1928 - who answers for a ko and how it was defrauded"
+    },
+    {
+      "from": "Seitai chosa shiryo 36 - court-district reports on ko from Aomori, Tokushima and Okinawa",
+      "to": "Where ko rules name a bearer beyond the drawer's security it follows the drafting regime"
+    },
+    {
+      "from": "Seitai chosa shiryo 36 - court-district reports on ko from Aomori, Tokushima and Okinawa",
+      "to": "loss_mitigation_forms"
     },
     {
       "from": "Selection frequency trades against organizational memory",
@@ -26591,6 +26889,46 @@
       "to": "Zeeuws Archief - the Zeeland chamber and the MCC"
     },
     {
+      "from": "Where ko rules name a bearer beyond the drawer's security it follows the drafting regime",
+      "to": "A residual-bearer characteristic failed two blind tests for want of cases not for redundancy"
+    },
+    {
+      "from": "Where ko rules name a bearer beyond the drawer's security it follows the drafting regime",
+      "to": "MOC - Entity-shielding and corporate forms"
+    },
+    {
+      "from": "Where ko rules name a bearer beyond the drawer's security it follows the drafting regime",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Where ko rules name a bearer beyond the drawer's security it follows the drafting regime",
+      "to": "MOC - Risk-sharing vs risk-pricing"
+    },
+    {
+      "from": "Where ko rules name a bearer beyond the drawer's security it follows the drafting regime",
+      "to": "Okurasho 1915 - a Finance Ministry survey of mujin with eleven rulebooks"
+    },
+    {
+      "from": "Where ko rules name a bearer beyond the drawer's security it follows the drafting regime",
+      "to": "RD-test coding and re-test session 2026-10-22"
+    },
+    {
+      "from": "Where ko rules name a bearer beyond the drawer's security it follows the drafting regime",
+      "to": "Refusals are observations of the filter not inferences from survivors"
+    },
+    {
+      "from": "Where ko rules name a bearer beyond the drawer's security it follows the drafting regime",
+      "to": "Who answers for a ko member's default was drafted not given"
+    },
+    {
+      "from": "Where ko rules name a bearer beyond the drawer's security it follows the drafting regime",
+      "to": "Yui 1934 - the law of ko and who bears a member's default"
+    },
+    {
+      "from": "Where ko rules name a bearer beyond the drawer's security it follows the drafting regime",
+      "to": "loss_mitigation_forms"
+    },
+    {
       "from": "Which peril gets a clause is set by the tradition's doctrinal problem",
       "to": "A route clause conditions the investor's peril in three traditions"
     },
@@ -26656,6 +26994,10 @@
     },
     {
       "from": "Who answers for a ko member's default was drafted not given",
+      "to": "A residual-bearer characteristic failed two blind tests for want of cases not for redundancy"
+    },
+    {
+      "from": "Who answers for a ko member's default was drafted not given",
       "to": "MOC - Entity-shielding and corporate forms"
     },
     {
@@ -26672,6 +27014,14 @@
     },
     {
       "from": "Who answers for a ko member's default was drafted not given",
+      "to": "Okurasho 1915 - a Finance Ministry survey of mujin with eleven rulebooks"
+    },
+    {
+      "from": "Who answers for a ko member's default was drafted not given",
+      "to": "RD-test coding and re-test session 2026-10-22"
+    },
+    {
+      "from": "Who answers for a ko member's default was drafted not given",
       "to": "Refusals are observations of the filter not inferences from survivors"
     },
     {
@@ -26680,7 +27030,15 @@
     },
     {
       "from": "Who answers for a ko member's default was drafted not given",
+      "to": "Seitai chosa shiryo 36 - court-district reports on ko from Aomori, Tokushima and Okinawa"
+    },
+    {
+      "from": "Who answers for a ko member's default was drafted not given",
       "to": "Shiho kenkyu 1928 - who answers for a ko and how it was defrauded"
+    },
+    {
+      "from": "Who answers for a ko member's default was drafted not given",
+      "to": "Where ko rules name a bearer beyond the drawer's security it follows the drafting regime"
     },
     {
       "from": "Who answers for a ko member's default was drafted not given",

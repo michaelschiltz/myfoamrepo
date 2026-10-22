@@ -62,7 +62,7 @@ Two relief rulebooks, read to test the zero-interest reading, and **therefore ex
 
 ## Read for default clauses, 21–22 October 2026
 
-A seeded, stratified draw split the forty-one unread rulebooks before any was opened (logbook 2, 2026-10-21 (ii)). **Read and now open:** 3, 4, 8, 10, 11, 13, 16, 17, 19, 20, 22, 24, 28, 29, 30, 32, 34, 36, 38, 41, 42. **Spent by exposure while reading:** 2, 9 and 40, whose closing clauses share pages with read kō. **Held back blind, seventeen:** 6, 7, 12, 14, 15, 18, 21, 23, 25, 26, 27, 31, 33, 35, 37, 39, 43. Kō 7 is known from the ministry's glosses to use a クビリ, a joint-liability group. The findings on default are in [[Who answers for a ko member's default was drafted not given]].
+A seeded, stratified draw split the forty-one unread rulebooks before any was opened (logbook 2, 2026-10-21 (ii)). **Read and now open:** 3, 4, 8, 10, 11, 13, 16, 17, 19, 20, 22, 24, 28, 29, 30, 32, 34, 36, 38, 41, 42. **Spent by exposure while reading:** 2, 9 and 40, whose closing clauses share pages with read kō. **Held back blind, seventeen:** 6, 7, 12, 14, 15, 18, 21, 23, 25, 26, 27, 31, 33, 35, 37, 39, 43. Kō 7 is known from the ministry's glosses to use a クビリ, a joint-liability group. *[2026-10-22: the seventeen were coded blind as the `RD-test` test and are now spent, so no kō of this volume remains blind; see [[RD-test coding and re-test session 2026-10-22]].]* The findings on default are in [[Who answers for a ko member's default was drafted not given]].
 
 **Not independent cases.** The read set holds same-village clusters: 3, 4 and 32 (富士町); 8 and 28 (東吉富村); 10 and 36 (雷山村); 11, 24 and 42 (千屋村); 16, 17 and 41 (神玉村); 29 and 30 (櫻井村). Twenty-one rulebooks come from twelve villages at most.
 
