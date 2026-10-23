@@ -48,6 +48,7 @@ Forensic, precise, argument-led. No hedging, throat-clearing, or excessive signp
 
 - Do not delete or rename files without explicit confirmation.
 - Git commits/pushes are done by the user in VSCode (the sandbox cannot write to `.git`).
+- Every push is anchored in the public ledger `michaelschiltz/research-ledger` by a `pre-push` hook (commit id and an OpenTimestamps proof; no content). Never force-push or rewrite pushed history: an anchored commit missing from the history reads as tampering.
 
 [Never let the units slide from instruments to populations]: <notes/Never let the units slide from instruments to populations.md> "Never let the units slide from instruments to populations"
 [Homoplasy is the finding not the noise]: <notes/Homoplasy is the finding not the noise.md> "Homoplasy is the finding not the noise"
