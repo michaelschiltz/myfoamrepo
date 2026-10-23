@@ -87,7 +87,7 @@ Material: quantitative data, Stata/R/Python pipelines. No Zotero-held secondary 
 
 ## Flags
 
-- ⚠️ The code search ran signed in as MS, so his own private repositories appear in results (`HistorEE_codebooks` did) and other people's private repositories do not. Every claim of absence is bounded to public default branches.
+- ⚠️ The code search ran signed in as MS. Other people's private repositories do not appear, so every claim of absence is bounded to public default branches. `HistorEE_codebooks` appeared because it is public: it is the one public instance of the configuration this note describes, and it is excluded from the comparison. (Corrected 2026-10-23: this flag first called it private.)
 - ⚠️ The search is keyword-bound. A project whose agent file does not name Zotero, or keeps its instructions outside `CLAUDE.md`/`AGENTS.md`, is invisible to it. The ChatGPT/Codex side is covered only through `AGENTS.md` queries and is thin.
 - ⚠️ Counts are files, not repositories; forks and copies inflate several of them.
 - ⚠️ Attributions rest on what the repositories state. Handles were not resolved to persons where the repository does not name its author.
