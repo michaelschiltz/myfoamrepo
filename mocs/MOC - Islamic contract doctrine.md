@@ -84,3 +84,7 @@ The *ribbit* material is filed here rather than in a separate hub, because its v
 
 - [[Hanafi and Maliki law part on who may force the liquidation of a mudaraba]] — both schools bar recall once goods are bought; the Ḥanafī investor can compel the sale, the Mālikī cannot; the pre-named `TS3` test of 2026-08-18 separates the rows
 - [[The Hanafi investor answers beyond his capital for the agent's purchases and the Maliki does not]] — capital lost before the price is paid: the Ḥanafī agent recovers the price from the investor, repeatedly; the Mālikī investor may walk away; no column carries it
+
+## Added 2026-10-25 — doctrine against deed and conduct
+
+- [[Doctrine, deed and conduct are three layers and the time-average test needs all three]] — what the jurists forbade, what parties drafted, and where loss fell are three claims with three falsifiers

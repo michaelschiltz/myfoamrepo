@@ -103,6 +103,14 @@ The leading published critique, answered here. The source note carries what they
 - [[Answering EU's failures with more psychology instantiates the complaint]] — §5 demonstrates the movement it is offered against
 - [[Prospect theory's parameters are neither population constants nor individual traits]] — the elicitation evidence behind §5's replacement: the parameters are fitted quantities of the design, so they cannot adjudicate taste against dynamic
 
+## The experimental evidence
+
+Two experiments, routinely run together, that differ in group, manipulated variable and claim. Both meet the same objection — log utility conditioned on the dynamic — and the reply is a change of scale, not a better experiment.
+
+- [[The Copenhagen experiment - Meder et al 2021 and its pre-registered successor]] — Hulme's group; the dynamic varied within subject; consequential wealth; and the pre-registered 2026 successor with Connaughton and Peters
+- [[The Brussels experiment - Vanhoyweghen et al 2022 and its sequels]] — Vanhoyweghen's group; time pressure crossed with the dynamic; stated choice; sequels on ruin (2023) and redistribution (2025)
+- [[The laboratory tests the choice and the archive tests the pool]] — the escape from the log-utility objection lies at the pool, which only the archive observes; with its three limits stated alongside
+
 ## Adjacent, not absorbed
 
 The persistence-design critique is *offensive* — it attacks a design class — while this hub is defensive. The two share the ordering principle and nothing else, and running them together would blur which arguments cost the framework and which do not.

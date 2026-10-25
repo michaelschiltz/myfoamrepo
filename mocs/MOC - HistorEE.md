@@ -294,3 +294,10 @@ Project hub for the book. Atomic notes hang off both this project MOC and a them
 ## Notes — agentic set-up landscape
 
 - [[Agentic research set-ups - the public landscape against the HistorEE protocol]]
+
+## Notes — swarm epigraph and laboratory evidence
+
+- [[The Copenhagen experiment - Meder et al 2021 and its pre-registered successor]]
+- [[The Brussels experiment - Vanhoyweghen et al 2022 and its sequels]]
+- [[The laboratory tests the choice and the archive tests the pool]]
+- [[Doctrine, deed and conduct are three layers and the time-average test needs all three]]

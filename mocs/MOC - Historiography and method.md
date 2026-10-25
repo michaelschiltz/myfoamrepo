@@ -161,3 +161,8 @@ Where the sources for the European companies are and are not machine-readable is
 ## Added 2026-10-22 — the public landscape of agentic set-ups
 
 - [[Agentic research set-ups - the public landscape against the HistorEE protocol]] — every component in wide use, the configuration in none; the nearest repositories give the agent the commit the protocol withholds
+
+## Added 2026-10-25 — laboratory, archive and the layers of the record
+
+- [[The laboratory tests the choice and the archive tests the pool]] — experiments observe a choice, the archive a pool; the log-utility objection reaches only the first
+- [[Doctrine, deed and conduct are three layers and the time-average test needs all three]] — a rule of validity is not a record of practice, nor a deed a record of what happened; the Geniza carries all three layers, and Ackerman-Lieberman's method is the one to adopt
