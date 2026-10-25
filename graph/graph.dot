@@ -4583,10 +4583,12 @@ digraph vault {
   "Source editions - Iberian Atlantic" -> "MOC - Spanish archives";
   "Source editions - Italian and Mediterranean commerce" -> "Archivio di Stato di Prato - the Datini archive";
   "Source editions - Italian and Mediterranean commerce" -> "Casa di San Giorgio - the Genoese public debt archive";
+  "Source editions - Italian and Mediterranean commerce" -> "MOC - Acquisitions and the antiquarian trade";
   "Source editions - Italian and Mediterranean commerce" -> "MOC - Italian archives";
   "Source editions - Italian and Mediterranean commerce" -> "MOC - Source editions";
   "Source editions - Italian and Mediterranean commerce" -> "Primary against secondary coding workflow - three arms, reveal, application";
   "Source editions - Italian and Mediterranean commerce" -> "Source editions - maritime law compilations";
+  "Source editions - Italian and Mediterranean commerce" -> "The Afghan corpora show partnership as traces because their archives are a landlord's and a granary's";
   "Source editions - Italian and Mediterranean commerce" -> "The Bazacle records - a custody problem";
   "Source editions - Low Countries and the Hanse" -> "Antwerp schepenregisters and the regesten";
   "Source editions - Low Countries and the Hanse" -> "Kamer van Assurantie en Averij - Amsterdam";

@@ -3425,7 +3425,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Source editions - Italian and Mediterranean commerce",
-      "value": 14,
+      "value": 16,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -3803,7 +3803,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The Afghan corpora show partnership as traces because their archives are a landlord's and a granary's",
-      "value": 22,
+      "value": 23,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -5144,7 +5144,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Acquisitions and the antiquarian trade",
-      "value": 64,
+      "value": 65,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -21347,6 +21347,10 @@
     },
     {
       "from": "Source editions - Italian and Mediterranean commerce",
+      "to": "MOC - Acquisitions and the antiquarian trade"
+    },
+    {
+      "from": "Source editions - Italian and Mediterranean commerce",
       "to": "MOC - Italian archives"
     },
     {
@@ -21360,6 +21364,10 @@
     {
       "from": "Source editions - Italian and Mediterranean commerce",
       "to": "Source editions - maritime law compilations"
+    },
+    {
+      "from": "Source editions - Italian and Mediterranean commerce",
+      "to": "The Afghan corpora show partnership as traces because their archives are a landlord's and a granary's"
     },
     {
       "from": "Source editions - Italian and Mediterranean commerce",
