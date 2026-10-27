@@ -5,7 +5,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "A blind is a property of the channel not of the dataset",
-      "value": 19,
+      "value": 21,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -761,7 +761,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Barcelona law kept the commendatary's creditors off the comanda goods",
-      "value": 10,
+      "value": 11,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -833,7 +833,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Blind re-coding workflow - operator, coder, application",
-      "value": 23,
+      "value": 25,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1067,7 +1067,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Comanda capital was mixed with the agent's own unless the contract said otherwise",
-      "value": 12,
+      "value": 14,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1076,8 +1076,17 @@
       "type": "permanent",
       "group": "seed",
       "label": "Comanda names several contracts in the Catalan sources",
-      "value": 16,
+      "value": 18,
       "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "Comanda primary pass coding and adjudication 2026-10-27",
+      "type": "reference",
+      "group": "reference",
+      "label": "Comanda primary pass coding and adjudication 2026-10-27",
+      "value": 26,
+      "color": "#66a61e",
       "shape": "dot"
     },
     {
@@ -1103,7 +1112,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Count degrees of freedom not cells",
-      "value": 63,
+      "value": 65,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1679,7 +1688,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Genoese notaries drafted the commenda as equity and Catalan notaries as credit",
-      "value": 19,
+      "value": 20,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1778,7 +1787,7 @@
       "type": "source",
       "group": "source",
       "label": "Hancock 2025 on trust in Barcelona and Mallorca contracts",
-      "value": 10,
+      "value": 11,
       "color": "#7570b3",
       "shape": "dot"
     },
@@ -2876,7 +2885,7 @@
       "type": "source",
       "group": "source",
       "label": "Polonio on the Barcelona maritime comandas 1349-1450",
-      "value": 7,
+      "value": 8,
       "color": "#7570b3",
       "shape": "dot"
     },
@@ -3497,7 +3506,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Split provenance into priority and independence",
-      "value": 37,
+      "value": 38,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -3893,7 +3902,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The Catalan maritime comanda puts the whole capital loss on the investor",
-      "value": 16,
+      "value": 17,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -3902,7 +3911,7 @@
       "type": "source",
       "group": "source",
       "label": "The Consolat de Mar comanda chapters",
-      "value": 15,
+      "value": 16,
       "color": "#7570b3",
       "shape": "dot"
     },
@@ -4253,7 +4262,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The commenda family fixes the allocation of loss and proves it by the agent's oath",
-      "value": 22,
+      "value": 24,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -5225,7 +5234,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Entity-shielding and corporate forms",
-      "value": 140,
+      "value": 142,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -5279,7 +5288,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - HistorEE",
-      "value": 471,
+      "value": 473,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -5405,7 +5414,7 @@
       "type": "database",
       "group": "database",
       "label": "organizational_forms",
-      "value": 37,
+      "value": 38,
       "color": "#a6761d",
       "shape": "database"
     },
@@ -5414,7 +5423,7 @@
       "type": "database",
       "group": "database",
       "label": "loss_mitigation_forms",
-      "value": 62,
+      "value": 63,
       "color": "#a6761d",
       "shape": "database"
     },
@@ -8988,6 +8997,74 @@
     {
       "from": "Comanda names several contracts in the Catalan sources",
       "to": "The Consolat de Mar comanda chapters"
+    },
+    {
+      "from": "Comanda primary pass coding and adjudication 2026-10-27",
+      "to": "A blind is a property of the channel not of the dataset"
+    },
+    {
+      "from": "Comanda primary pass coding and adjudication 2026-10-27",
+      "to": "Barcelona law kept the commendatary's creditors off the comanda goods"
+    },
+    {
+      "from": "Comanda primary pass coding and adjudication 2026-10-27",
+      "to": "Blind re-coding workflow - operator, coder, application"
+    },
+    {
+      "from": "Comanda primary pass coding and adjudication 2026-10-27",
+      "to": "Comanda capital was mixed with the agent's own unless the contract said otherwise"
+    },
+    {
+      "from": "Comanda primary pass coding and adjudication 2026-10-27",
+      "to": "Comanda names several contracts in the Catalan sources"
+    },
+    {
+      "from": "Comanda primary pass coding and adjudication 2026-10-27",
+      "to": "Count degrees of freedom not cells"
+    },
+    {
+      "from": "Comanda primary pass coding and adjudication 2026-10-27",
+      "to": "Genoese notaries drafted the commenda as equity and Catalan notaries as credit"
+    },
+    {
+      "from": "Comanda primary pass coding and adjudication 2026-10-27",
+      "to": "Hancock 2025 on trust in Barcelona and Mallorca contracts"
+    },
+    {
+      "from": "Comanda primary pass coding and adjudication 2026-10-27",
+      "to": "MOC - Entity-shielding and corporate forms"
+    },
+    {
+      "from": "Comanda primary pass coding and adjudication 2026-10-27",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Comanda primary pass coding and adjudication 2026-10-27",
+      "to": "Polonio on the Barcelona maritime comandas 1349-1450"
+    },
+    {
+      "from": "Comanda primary pass coding and adjudication 2026-10-27",
+      "to": "Split provenance into priority and independence"
+    },
+    {
+      "from": "Comanda primary pass coding and adjudication 2026-10-27",
+      "to": "The Catalan maritime comanda puts the whole capital loss on the investor"
+    },
+    {
+      "from": "Comanda primary pass coding and adjudication 2026-10-27",
+      "to": "The Consolat de Mar comanda chapters"
+    },
+    {
+      "from": "Comanda primary pass coding and adjudication 2026-10-27",
+      "to": "The commenda family fixes the allocation of loss and proves it by the agent's oath"
+    },
+    {
+      "from": "Comanda primary pass coding and adjudication 2026-10-27",
+      "to": "loss_mitigation_forms"
+    },
+    {
+      "from": "Comanda primary pass coding and adjudication 2026-10-27",
+      "to": "organizational_forms"
     },
     {
       "from": "Consulado de Burgos - the universidad de mercaderes",
@@ -14355,6 +14432,10 @@
     },
     {
       "from": "MOC - Entity-shielding and corporate forms",
+      "to": "Comanda primary pass coding and adjudication 2026-10-27"
+    },
+    {
+      "from": "MOC - Entity-shielding and corporate forms",
       "to": "Decoupling substitutes proxy legibility for outcome legibility"
     },
     {
@@ -15528,6 +15609,10 @@
     {
       "from": "MOC - HistorEE",
       "to": "Blind re-coding workflow - operator, coder, application"
+    },
+    {
+      "from": "MOC - HistorEE",
+      "to": "Comanda primary pass coding and adjudication 2026-10-27"
     },
     {
       "from": "MOC - HistorEE",

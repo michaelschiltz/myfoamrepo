@@ -90,3 +90,7 @@ Thematic hub for the corporate-form apparatus: asset-partitioning, identity-wrap
 
 - [[The Hanafi investor answers beyond his capital for the agent's purchases and the Maliki does not]] — the capital provider's owner shielding parts the two schools, and `AP3`/`LR1` are located on the labour party
 - [[Hanafi and Maliki law part on who may force the liquidation of a mudaraba]] — capital lock-in (`CI2`) and revocability (`TS3`) part the Ḥanafī and Mālikī rows
+
+## Added 2026-10-27
+
+- [[Comanda primary pass coding and adjudication 2026-10-27]] — 43 comanda cells coded blind from the Barcelona acts and adjudicated: `LP2` and `LR4` brought into line with the commenda family, `CI1` none, `CI3` P (the investor's rights pass by cession, the agent's not without consent); verification still rests on the Consolat alone
