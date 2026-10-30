@@ -137,3 +137,10 @@ Hubbed at [[MOC - Defending the ergodicity claim]]; listed here because the sour
 - [[Reed and Bekar 2003 on the usury ban as protection of the survival pool]] — the closest neighbour: survival compounds in the value function and the ban tracks output variance, but debt never reaches the barrier
 - [[Hudson 2002 on clean slates as protection of the free population]] — debt bondage as the household's absorbing state; the clean slate as reset after absorption
 - [[Aktipis and Cronk on need-based transfers and herd survival]] — an ethical rule conditioned on the giver's own barrier, evaluated by herd survival
+
+## Added 2026-10-30 — the ethics of antifragility: process, heuristic, ritual
+
+- [[Taleb 2018 on skin in the game - loci for rationality, belief and ritual]] — source note for Books 7–8; ergodicity is announced in ch. 18 and explained in ch. 19, which resolves the chapter flag in the *Antifragile* loci
+- [[Rationality is a property of the policy not of the belief that produces it]] — the primacy of process over correctness is the primacy of the objective over the estimate, licensed only where the payoff has a barrier; "rational is what survives" is a criterion forward and a fallacy backward
+- [[A heuristic is defended by its error distribution not by its accuracy]] — bias against variance under a lexicographic loss; the error asymmetry holds only for additive false alarms; teachability is a property of the rule as transmitted
+- [[Harmless irrationality and costly ritual are licensed on opposite grounds]] — ch. 16 sorts by cost, ch. 17 by barrier-relevance; the 2×2 places decoration, heuristic, ritual and convergence

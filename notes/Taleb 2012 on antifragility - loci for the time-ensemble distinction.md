@@ -12,7 +12,7 @@ status: seed
 
 Nassim Nicholas Taleb, *Antifragile: Things That Gain from Disorder* (New York: Random House; London: Allen Lane, 2012). Read in full from the Random House ebook (ISBN 978-0-679-64527-6). MS works from the Penguin hardback. **Loci below are given by chapter and section heading. Penguin page numbers have not been mapped yet** [verify].
 
-**The book has the time-average ethic and an ensemble formalism, and does not reconcile them.** "Ergodic" occurs zero times. "Ensemble" occurs once, non-technically (the Swiss cantons, ch. 5). "Time average" never occurs. Taleb adopts the ergodicity vocabulary explicitly only in *Skin in the Game* (2018), in the chapter "The Logic of Risk Taking", after Peters and Gell-Mann 2016 [verify chapter number and citation]. The argument is at [[Antifragility is defined by an ensemble Jensen gap]].
+**The book has the time-average ethic and an ensemble formalism, and does not reconcile them.** "Ergodic" occurs zero times. "Ensemble" occurs once, non-technically (the Swiss cantons, ch. 5). "Time average" never occurs. Taleb adopts the ergodicity vocabulary explicitly only in *Skin in the Game* (2018), announced in ch. 18 ("Ergodicity First") and explained in ch. 19, "The Logic of Risk Taking", where Peters and Gell-Mann are named without a dated reference in the passage [verify citation in the notes; chapter resolved 2026-10-30, see [[Taleb 2018 on skin in the game - loci for rationality, belief and ritual]]]. The argument is at [[Antifragility is defined by an ensemble Jensen gap]].
 
 ## Time-average loci
 
@@ -65,6 +65,8 @@ Nassim Nicholas Taleb, *Antifragile: Things That Gain from Disorder* (New York: 
 - [[Taleb secures the collective by exit and has no theory of pooling]]
 - [[Taleb specifies the firewall in chapter 4 and condemns it in chapter 23]]
 - [[A fair wager lowers both trajectories which maysir forbids and skin in the game permits]]
+- [[Taleb 2018 on skin in the game - loci for rationality, belief and ritual]]
+- [[Rationality is a property of the policy not of the belief that produces it]]
 
 ## Source
 

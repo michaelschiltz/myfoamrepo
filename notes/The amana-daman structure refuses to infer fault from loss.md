@@ -56,6 +56,7 @@ The differential prediction follows within a tradition rather than across them: 
 
 - [[Gharar excludes designed-in unverifiability]]
 - [[Institutions substitute state-verification for outcome-inference as ruin exposure rises]]
+- [[Formalism refuses evidence of results and of reasons because neither discriminates]]
 - [[Non-ergodicity collapses the likelihood ratio on outcomes]]
 - [[Ensemble benchmarking of agents is biased against the honest]]
 - [[Skin in the game is asymmetric in the mudaraba]]

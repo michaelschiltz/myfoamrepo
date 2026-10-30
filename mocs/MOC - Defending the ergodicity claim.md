@@ -135,3 +135,8 @@ The persistence-design critique is *offensive* — it attacks a design class —
 [MOC - Historiography and method]: <MOC - Historiography and method.md> "MOC - Historiography and method"
 [MOC - ERC Synergy Grant]: <MOC - ERC Synergy Grant.md> "MOC - ERC Synergy Grant"
 [MOC - HistorEE]: <MOC - HistorEE.md> "MOC - Clearing and Settling the Realm"
+
+## Added 2026-10-30 — process over correctness
+
+- [[Rationality is a property of the policy not of the belief that produces it]] — the forward criterion the vault can use, and the backward reading it must not
+- [[A heuristic is defended by its error distribution not by its accuracy]] — the defence is forward, from error structure under a stated dynamic, never from the survival of those who held the rule

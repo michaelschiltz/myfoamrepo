@@ -88,3 +88,8 @@ The *ribbit* material is filed here rather than in a separate hub, because its v
 ## Added 2026-10-25 — doctrine against deed and conduct
 
 - [[Doctrine, deed and conduct are three layers and the time-average test needs all three]] — what the jurists forbade, what parties drafted, and where loss fell are three claims with three falsifiers
+
+## Added 2026-10-30 — formalism as a refusal of evidence
+
+- [[Formalism refuses evidence of results and of reasons because neither discriminates]] — the *amāna* refusal of outcome-inference joined to Taleb's refusal of stated reasons; the claimant's oath, general average, and the bill of exchange's abstraction (flagged); the *ḥiyal* as the cost
+- [[Ritual carries its function in its form and its circularity not in its content]] — the *heter ʿisqa* and the *ḥiyal* as the price of a self-grounding form

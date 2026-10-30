@@ -61,6 +61,7 @@ Do not inherit the ethical framing. Taleb treats the absence of skin in the game
 - [[Taleb reads survival as evidence about the survivor and we read it as evidence about the filter]]
 - [[Taleb specifies the firewall in chapter 4 and condemns it in chapter 23]]
 - [[A fair wager lowers both trajectories which maysir forbids and skin in the game permits]]
+- [[Formalism refuses evidence of results and of reasons because neither discriminates]]
 - [[MOC - Risk-sharing vs risk-pricing]]
 - [[MOC - Entity-shielding and corporate forms]]
 - [[MOC - Ergodicity and the time-ensemble distinction]]

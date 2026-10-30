@@ -166,3 +166,10 @@ Where the sources for the European companies are and are not machine-readable is
 
 - [[The laboratory tests the choice and the archive tests the pool]] — experiments observe a choice, the archive a pool; the log-utility objection reaches only the first
 - [[Doctrine, deed and conduct are three layers and the time-average test needs all three]] — a rule of validity is not a record of practice, nor a deed a record of what happened; the Geniza carries all three layers, and Ackerman-Lieberman's method is the one to adopt
+
+## Added 2026-10-30 — ritual, formalism and functional explanation
+
+- [[Taleb 2018 on skin in the game - loci for rationality, belief and ritual]] — loci for belief, ritual and the minority rule
+- [[Ritual carries its function in its form and its circularity not in its content]] — the circle buys robustness to theory change and closes the casuist's option; content must be arbitrary for compliance to inform; the price is exposure to drafting and to a changed world
+- [[Of Taleb's accounts of dietary law only the minority rule is a mechanism]] — five functions, one genealogy, one mechanism; prevalence without endorsement; fasting is the one Jensen gap along a trajectory
+- [[Harmless irrationality and costly ritual are licensed on opposite grounds]] — place a practice in the cost-by-barrier grid before arguing for it

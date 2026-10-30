@@ -146,3 +146,7 @@ Thematic hub for the instrument axis: risk-*sharing* forms that keep every party
 
 - [[RD-test coding and re-test session 2026-10-22]] — a residual-bearer characteristic tested blind twice, on thirty-six rulebooks, and not adopted
 - [[Where ko rules name a bearer beyond the drawer's security it follows the drafting regime]] — group liability in Fukuoka, unlimited managers under a Tottori and Shimane template, silence elsewhere
+
+## Added 2026-10-30 — formalism
+
+- [[Formalism refuses evidence of results and of reasons because neither discriminates]] — what "deeds, not words" becomes when the deed's result is noise

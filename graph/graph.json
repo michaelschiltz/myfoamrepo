@@ -64,6 +64,15 @@
       "shape": "dot"
     },
     {
+      "id": "A heuristic is defended by its error distribution not by its accuracy",
+      "type": "permanent",
+      "group": "seed",
+      "label": "A heuristic is defended by its error distribution not by its accuracy",
+      "value": 28,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
       "id": "A migrated institution collects local names not local forms",
       "type": "permanent",
       "group": "seed",
@@ -275,7 +284,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "An absorbing barrier breaks ergodicity by construction",
-      "value": 59,
+      "value": 61,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -293,7 +302,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Antifragility is defined by an ensemble Jensen gap",
-      "value": 19,
+      "value": 23,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1247,7 +1256,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Divergent arbitrary particulars are the independence diagnostic",
-      "value": 62,
+      "value": 66,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1540,6 +1549,15 @@
       "shape": "dot"
     },
     {
+      "id": "Formalism refuses evidence of results and of reasons because neither discriminates",
+      "type": "permanent",
+      "group": "seed",
+      "label": "Formalism refuses evidence of results and of reasons because neither discriminates",
+      "value": 35,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
       "id": "Forms are not independent observations when a village runs a portfolio",
       "type": "permanent",
       "group": "seed",
@@ -1810,6 +1828,15 @@
       "shape": "dot"
     },
     {
+      "id": "Harmless irrationality and costly ritual are licensed on opposite grounds",
+      "type": "permanent",
+      "group": "seed",
+      "label": "Harmless irrationality and costly ritual are licensed on opposite grounds",
+      "value": 19,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
       "id": "Harris 2020 on the late plurality of limited liability",
       "type": "source",
       "group": "source",
@@ -2012,7 +2039,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Institutions substitute state-verification for outcome-inference as ruin exposure rises",
-      "value": 29,
+      "value": 31,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -2039,7 +2066,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Islamic doctrine refuses risk-commodification at step one",
-      "value": 35,
+      "value": 36,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -2669,7 +2696,7 @@
       "type": "permanent",
       "group": "stub",
       "label": "Never let the units slide from instruments to populations",
-      "value": 59,
+      "value": 64,
       "color": "#666666",
       "shape": "dot"
     },
@@ -2687,7 +2714,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Non-ergodicity collapses the likelihood ratio on outcomes",
-      "value": 32,
+      "value": 34,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -2724,6 +2751,15 @@
       "group": "seed",
       "label": "Nothing in the ergodic theorem fails in geometric Brownian motion",
       "value": 42,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "Of Taleb's accounts of dietary law only the minority rule is a mechanism",
+      "type": "permanent",
+      "group": "seed",
+      "label": "Of Taleb's accounts of dietary law only the minority rule is a mechanism",
+      "value": 24,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -2858,7 +2894,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Perpetuity splits into adaptation and petrification",
-      "value": 21,
+      "value": 23,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -3025,6 +3061,15 @@
       "shape": "dot"
     },
     {
+      "id": "Rationality is a property of the policy not of the belief that produces it",
+      "type": "permanent",
+      "group": "seed",
+      "label": "Rationality is a property of the policy not of the belief that produces it",
+      "value": 34,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
       "id": "Read the Nakai anomaly against the ie's horizon not the transaction's",
       "type": "permanent",
       "group": "seed",
@@ -3056,7 +3101,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Refusals are observations of the filter not inferences from survivors",
-      "value": 121,
+      "value": 122,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -3166,6 +3211,15 @@
       "label": "Riksarkivet Sweden - the national archives and the AI lab",
       "value": 16,
       "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "Ritual carries its function in its form and its circularity not in its content",
+      "type": "permanent",
+      "group": "seed",
+      "label": "Ritual carries its function in its form and its circularity not in its content",
+      "value": 38,
+      "color": "#e6ab02",
       "shape": "dot"
     },
     {
@@ -3371,7 +3425,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Skin in the game",
-      "value": 63,
+      "value": 68,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -3713,7 +3767,16 @@
       "type": "source",
       "group": "source",
       "label": "Taleb 2012 on antifragility - loci for the time-ensemble distinction",
-      "value": 31,
+      "value": 39,
+      "color": "#7570b3",
+      "shape": "dot"
+    },
+    {
+      "id": "Taleb 2018 on skin in the game - loci for rationality, belief and ritual",
+      "type": "source",
+      "group": "source",
+      "label": "Taleb 2018 on skin in the game - loci for rationality, belief and ritual",
+      "value": 27,
       "color": "#7570b3",
       "shape": "dot"
     },
@@ -3722,7 +3785,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Taleb reads survival as evidence about the survivor and we read it as evidence about the filter",
-      "value": 40,
+      "value": 50,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -3731,7 +3794,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Taleb secures the collective by exit and has no theory of pooling",
-      "value": 27,
+      "value": 29,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -3884,7 +3947,7 @@
       "type": "source",
       "group": "source",
       "label": "The Brussels experiment - Vanhoyweghen et al 2022 and its sequels",
-      "value": 18,
+      "value": 19,
       "color": "#7570b3",
       "shape": "dot"
     },
@@ -4154,7 +4217,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The amana-daman structure refuses to infer fault from loss",
-      "value": 33,
+      "value": 36,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -4217,7 +4280,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The coding commons must record stated rationale not only component presence",
-      "value": 53,
+      "value": 55,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -4262,7 +4325,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The commenda family fixes the allocation of loss and proves it by the agent's oath",
-      "value": 24,
+      "value": 26,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -4406,7 +4469,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The heter iska restores the fixed return by evidentiary barrier",
-      "value": 27,
+      "value": 31,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -4424,7 +4487,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The isqa is Lindy because captive not because robust",
-      "value": 25,
+      "value": 29,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -4469,7 +4532,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The laboratory tests the choice and the archive tests the pool",
-      "value": 29,
+      "value": 31,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -4829,7 +4892,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Time-average optimization is a survivorship property not an intention",
-      "value": 54,
+      "value": 58,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -4838,7 +4901,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Time-average",
-      "value": 45,
+      "value": 47,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -5198,7 +5261,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Defending the ergodicity claim",
-      "value": 109,
+      "value": 113,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -5234,7 +5297,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Entity-shielding and corporate forms",
-      "value": 142,
+      "value": 143,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -5243,7 +5306,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Ergodicity and the time-ensemble distinction",
-      "value": 175,
+      "value": 183,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -5288,7 +5351,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - HistorEE",
-      "value": 473,
+      "value": 487,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -5297,7 +5360,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Historiography and method",
-      "value": 225,
+      "value": 233,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -5306,7 +5369,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Islamic contract doctrine",
-      "value": 73,
+      "value": 77,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -5360,7 +5423,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Risk-sharing vs risk-pricing",
-      "value": 206,
+      "value": 208,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -5405,7 +5468,7 @@
       "type": "reference",
       "group": "reference",
       "label": "tags",
-      "value": 12,
+      "value": 15,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -5705,6 +5768,54 @@
     {
       "from": "A fair wager lowers both trajectories which maysir forbids and skin in the game permits",
       "to": "Taleb 2012 on antifragility - loci for the time-ensemble distinction"
+    },
+    {
+      "from": "A heuristic is defended by its error distribution not by its accuracy",
+      "to": "Antifragility is defined by an ensemble Jensen gap"
+    },
+    {
+      "from": "A heuristic is defended by its error distribution not by its accuracy",
+      "to": "Harmless irrationality and costly ritual are licensed on opposite grounds"
+    },
+    {
+      "from": "A heuristic is defended by its error distribution not by its accuracy",
+      "to": "MOC - Defending the ergodicity claim"
+    },
+    {
+      "from": "A heuristic is defended by its error distribution not by its accuracy",
+      "to": "MOC - Ergodicity and the time-ensemble distinction"
+    },
+    {
+      "from": "A heuristic is defended by its error distribution not by its accuracy",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "A heuristic is defended by its error distribution not by its accuracy",
+      "to": "Never let the units slide from instruments to populations"
+    },
+    {
+      "from": "A heuristic is defended by its error distribution not by its accuracy",
+      "to": "Rationality is a property of the policy not of the belief that produces it"
+    },
+    {
+      "from": "A heuristic is defended by its error distribution not by its accuracy",
+      "to": "Taleb 2018 on skin in the game - loci for rationality, belief and ritual"
+    },
+    {
+      "from": "A heuristic is defended by its error distribution not by its accuracy",
+      "to": "Taleb reads survival as evidence about the survivor and we read it as evidence about the filter"
+    },
+    {
+      "from": "A heuristic is defended by its error distribution not by its accuracy",
+      "to": "The Brussels experiment - Vanhoyweghen et al 2022 and its sequels"
+    },
+    {
+      "from": "A heuristic is defended by its error distribution not by its accuracy",
+      "to": "The laboratory tests the choice and the archive tests the pool"
+    },
+    {
+      "from": "A heuristic is defended by its error distribution not by its accuracy",
+      "to": "Time-average optimization is a survivorship property not an intention"
     },
     {
       "from": "A migrated institution collects local names not local forms",
@@ -10819,6 +10930,62 @@
       "to": "Time-average optimization is a survivorship property not an intention"
     },
     {
+      "from": "Formalism refuses evidence of results and of reasons because neither discriminates",
+      "to": "Institutions substitute state-verification for outcome-inference as ruin exposure rises"
+    },
+    {
+      "from": "Formalism refuses evidence of results and of reasons because neither discriminates",
+      "to": "MOC - Entity-shielding and corporate forms"
+    },
+    {
+      "from": "Formalism refuses evidence of results and of reasons because neither discriminates",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Formalism refuses evidence of results and of reasons because neither discriminates",
+      "to": "MOC - Islamic contract doctrine"
+    },
+    {
+      "from": "Formalism refuses evidence of results and of reasons because neither discriminates",
+      "to": "MOC - Risk-sharing vs risk-pricing"
+    },
+    {
+      "from": "Formalism refuses evidence of results and of reasons because neither discriminates",
+      "to": "Non-ergodicity collapses the likelihood ratio on outcomes"
+    },
+    {
+      "from": "Formalism refuses evidence of results and of reasons because neither discriminates",
+      "to": "Rationality is a property of the policy not of the belief that produces it"
+    },
+    {
+      "from": "Formalism refuses evidence of results and of reasons because neither discriminates",
+      "to": "Ritual carries its function in its form and its circularity not in its content"
+    },
+    {
+      "from": "Formalism refuses evidence of results and of reasons because neither discriminates",
+      "to": "Skin in the game"
+    },
+    {
+      "from": "Formalism refuses evidence of results and of reasons because neither discriminates",
+      "to": "Taleb 2012 on antifragility - loci for the time-ensemble distinction"
+    },
+    {
+      "from": "Formalism refuses evidence of results and of reasons because neither discriminates",
+      "to": "Taleb 2018 on skin in the game - loci for rationality, belief and ritual"
+    },
+    {
+      "from": "Formalism refuses evidence of results and of reasons because neither discriminates",
+      "to": "The amana-daman structure refuses to infer fault from loss"
+    },
+    {
+      "from": "Formalism refuses evidence of results and of reasons because neither discriminates",
+      "to": "The commenda family fixes the allocation of loss and proves it by the agent's oath"
+    },
+    {
+      "from": "Formalism refuses evidence of results and of reasons because neither discriminates",
+      "to": "The heter iska restores the fixed return by evidentiary barrier"
+    },
+    {
       "from": "Forms are not independent observations when a village runs a portfolio",
       "to": "Count degrees of freedom not cells"
     },
@@ -11757,6 +11924,42 @@
     {
       "from": "Hanse documents on the Memory of the World register",
       "to": "The VOC-EIC digital asymmetry is an access regime not a survival difference"
+    },
+    {
+      "from": "Harmless irrationality and costly ritual are licensed on opposite grounds",
+      "to": "A heuristic is defended by its error distribution not by its accuracy"
+    },
+    {
+      "from": "Harmless irrationality and costly ritual are licensed on opposite grounds",
+      "to": "MOC - Ergodicity and the time-ensemble distinction"
+    },
+    {
+      "from": "Harmless irrationality and costly ritual are licensed on opposite grounds",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Harmless irrationality and costly ritual are licensed on opposite grounds",
+      "to": "MOC - Historiography and method"
+    },
+    {
+      "from": "Harmless irrationality and costly ritual are licensed on opposite grounds",
+      "to": "Of Taleb's accounts of dietary law only the minority rule is a mechanism"
+    },
+    {
+      "from": "Harmless irrationality and costly ritual are licensed on opposite grounds",
+      "to": "Rationality is a property of the policy not of the belief that produces it"
+    },
+    {
+      "from": "Harmless irrationality and costly ritual are licensed on opposite grounds",
+      "to": "Ritual carries its function in its form and its circularity not in its content"
+    },
+    {
+      "from": "Harmless irrationality and costly ritual are licensed on opposite grounds",
+      "to": "Skin in the game"
+    },
+    {
+      "from": "Harmless irrationality and costly ritual are licensed on opposite grounds",
+      "to": "Taleb 2018 on skin in the game - loci for rationality, belief and ritual"
     },
     {
       "from": "Harris 2020 on the late plurality of limited liability",
@@ -13976,6 +14179,10 @@
     },
     {
       "from": "MOC - Defending the ergodicity claim",
+      "to": "A heuristic is defended by its error distribution not by its accuracy"
+    },
+    {
+      "from": "MOC - Defending the ergodicity claim",
       "to": "A refutation that shares the estimand inherits the defect"
     },
     {
@@ -14069,6 +14276,10 @@
     {
       "from": "MOC - Defending the ergodicity claim",
       "to": "Prospect theory's parameters are neither population constants nor individual traits"
+    },
+    {
+      "from": "MOC - Defending the ergodicity claim",
+      "to": "Rationality is a property of the policy not of the belief that produces it"
     },
     {
       "from": "MOC - Defending the ergodicity claim",
@@ -14636,6 +14847,10 @@
     },
     {
       "from": "MOC - Ergodicity and the time-ensemble distinction",
+      "to": "A heuristic is defended by its error distribution not by its accuracy"
+    },
+    {
+      "from": "MOC - Ergodicity and the time-ensemble distinction",
       "to": "A persistence parameter stable across regime change indicts the measure"
     },
     {
@@ -14752,6 +14967,10 @@
     },
     {
       "from": "MOC - Ergodicity and the time-ensemble distinction",
+      "to": "Harmless irrationality and costly ritual are licensed on opposite grounds"
+    },
+    {
+      "from": "MOC - Ergodicity and the time-ensemble distinction",
       "to": "Hudson 2002 on clean slates as protection of the free population"
     },
     {
@@ -14808,6 +15027,10 @@
     },
     {
       "from": "MOC - Ergodicity and the time-ensemble distinction",
+      "to": "Rationality is a property of the policy not of the belief that produces it"
+    },
+    {
+      "from": "MOC - Ergodicity and the time-ensemble distinction",
       "to": "Read the Nakai anomaly against the ie's horizon not the transaction's"
     },
     {
@@ -14853,6 +15076,10 @@
     {
       "from": "MOC - Ergodicity and the time-ensemble distinction",
       "to": "Taleb 2012 on antifragility - loci for the time-ensemble distinction"
+    },
+    {
+      "from": "MOC - Ergodicity and the time-ensemble distinction",
+      "to": "Taleb 2018 on skin in the game - loci for rationality, belief and ritual"
     },
     {
       "from": "MOC - Ergodicity and the time-ensemble distinction",
@@ -15524,6 +15751,10 @@
     },
     {
       "from": "MOC - HistorEE",
+      "to": "A heuristic is defended by its error distribution not by its accuracy"
+    },
+    {
+      "from": "MOC - HistorEE",
       "to": "A migrated institution collects local names not local forms"
     },
     {
@@ -15700,6 +15931,10 @@
     },
     {
       "from": "MOC - HistorEE",
+      "to": "Formalism refuses evidence of results and of reasons because neither discriminates"
+    },
+    {
+      "from": "MOC - HistorEE",
       "to": "Galton's problem"
     },
     {
@@ -15725,6 +15960,10 @@
     {
       "from": "MOC - HistorEE",
       "to": "Guard against reverse-teleology"
+    },
+    {
+      "from": "MOC - HistorEE",
+      "to": "Harmless irrationality and costly ritual are licensed on opposite grounds"
     },
     {
       "from": "MOC - HistorEE",
@@ -15828,6 +16067,10 @@
     },
     {
       "from": "MOC - HistorEE",
+      "to": "Of Taleb's accounts of dietary law only the minority rule is a mechanism"
+    },
+    {
+      "from": "MOC - HistorEE",
       "to": "Okurasho 1915 - a Finance Ministry survey of mujin with eleven rulebooks"
     },
     {
@@ -15864,6 +16107,10 @@
     },
     {
       "from": "MOC - HistorEE",
+      "to": "Rationality is a property of the policy not of the belief that produces it"
+    },
+    {
+      "from": "MOC - HistorEE",
       "to": "Reed and Bekar 2003 on the usury ban as protection of the survival pool"
     },
     {
@@ -15885,6 +16132,10 @@
     {
       "from": "MOC - HistorEE",
       "to": "Ribbit mandates exposure rather than forbidding gain"
+    },
+    {
+      "from": "MOC - HistorEE",
+      "to": "Ritual carries its function in its form and its circularity not in its content"
     },
     {
       "from": "MOC - HistorEE",
@@ -15937,6 +16188,10 @@
     {
       "from": "MOC - HistorEE",
       "to": "Taleb 2012 on antifragility - loci for the time-ensemble distinction"
+    },
+    {
+      "from": "MOC - HistorEE",
+      "to": "Taleb 2018 on skin in the game - loci for rationality, belief and ritual"
     },
     {
       "from": "MOC - HistorEE",
@@ -16364,6 +16619,10 @@
     },
     {
       "from": "MOC - Historiography and method",
+      "to": "Harmless irrationality and costly ritual are licensed on opposite grounds"
+    },
+    {
+      "from": "MOC - Historiography and method",
       "to": "Harris 2020 on the late plurality of limited liability"
     },
     {
@@ -16416,6 +16675,10 @@
     },
     {
       "from": "MOC - Historiography and method",
+      "to": "Of Taleb's accounts of dietary law only the minority rule is a mechanism"
+    },
+    {
+      "from": "MOC - Historiography and method",
       "to": "Path dependence literature"
     },
     {
@@ -16456,6 +16719,10 @@
     },
     {
       "from": "MOC - Historiography and method",
+      "to": "Ritual carries its function in its form and its circularity not in its content"
+    },
+    {
+      "from": "MOC - Historiography and method",
       "to": "Rubin 2009 on the interest ban as a curb on overborrowing under Church insurance"
     },
     {
@@ -16473,6 +16740,10 @@
     {
       "from": "MOC - Historiography and method",
       "to": "Taleb 2012 on antifragility - loci for the time-ensemble distinction"
+    },
+    {
+      "from": "MOC - Historiography and method",
+      "to": "Taleb 2018 on skin in the game - loci for rationality, belief and ritual"
     },
     {
       "from": "MOC - Historiography and method",
@@ -16648,6 +16919,10 @@
     },
     {
       "from": "MOC - Islamic contract doctrine",
+      "to": "Formalism refuses evidence of results and of reasons because neither discriminates"
+    },
+    {
+      "from": "MOC - Islamic contract doctrine",
       "to": "Hanafi and Maliki law part on who may force the liquidation of a mudaraba"
     },
     {
@@ -16673,6 +16948,10 @@
     {
       "from": "MOC - Islamic contract doctrine",
       "to": "Ribbit mandates exposure rather than forbidding gain"
+    },
+    {
+      "from": "MOC - Islamic contract doctrine",
+      "to": "Ritual carries its function in its form and its circularity not in its content"
     },
     {
       "from": "MOC - Islamic contract doctrine",
@@ -17341,6 +17620,10 @@
     {
       "from": "MOC - Risk-sharing vs risk-pricing",
       "to": "Extending a pool along kin proximity buys N without buying decorrelation"
+    },
+    {
+      "from": "MOC - Risk-sharing vs risk-pricing",
+      "to": "Formalism refuses evidence of results and of reasons because neither discriminates"
     },
     {
       "from": "MOC - Risk-sharing vs risk-pricing",
@@ -19047,6 +19330,54 @@
       "to": "Time-average optimization is a survivorship property not an intention"
     },
     {
+      "from": "Of Taleb's accounts of dietary law only the minority rule is a mechanism",
+      "to": "Antifragility is defined by an ensemble Jensen gap"
+    },
+    {
+      "from": "Of Taleb's accounts of dietary law only the minority rule is a mechanism",
+      "to": "Divergent arbitrary particulars are the independence diagnostic"
+    },
+    {
+      "from": "Of Taleb's accounts of dietary law only the minority rule is a mechanism",
+      "to": "Harmless irrationality and costly ritual are licensed on opposite grounds"
+    },
+    {
+      "from": "Of Taleb's accounts of dietary law only the minority rule is a mechanism",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Of Taleb's accounts of dietary law only the minority rule is a mechanism",
+      "to": "MOC - Historiography and method"
+    },
+    {
+      "from": "Of Taleb's accounts of dietary law only the minority rule is a mechanism",
+      "to": "Never let the units slide from instruments to populations"
+    },
+    {
+      "from": "Of Taleb's accounts of dietary law only the minority rule is a mechanism",
+      "to": "Refusals are observations of the filter not inferences from survivors"
+    },
+    {
+      "from": "Of Taleb's accounts of dietary law only the minority rule is a mechanism",
+      "to": "Ritual carries its function in its form and its circularity not in its content"
+    },
+    {
+      "from": "Of Taleb's accounts of dietary law only the minority rule is a mechanism",
+      "to": "Taleb 2018 on skin in the game - loci for rationality, belief and ritual"
+    },
+    {
+      "from": "Of Taleb's accounts of dietary law only the minority rule is a mechanism",
+      "to": "Taleb reads survival as evidence about the survivor and we read it as evidence about the filter"
+    },
+    {
+      "from": "Of Taleb's accounts of dietary law only the minority rule is a mechanism",
+      "to": "The coding commons must record stated rationale not only component presence"
+    },
+    {
+      "from": "Of Taleb's accounts of dietary law only the minority rule is a mechanism",
+      "to": "The isqa is Lindy because captive not because robust"
+    },
+    {
       "from": "Okurasho 1915 - a Finance Ministry survey of mujin with eleven rulebooks",
       "to": "MOC - HistorEE"
     },
@@ -20039,6 +20370,54 @@
       "to": "Maharashtra State Archives - the Peshwa Daftar"
     },
     {
+      "from": "Rationality is a property of the policy not of the belief that produces it",
+      "to": "A heuristic is defended by its error distribution not by its accuracy"
+    },
+    {
+      "from": "Rationality is a property of the policy not of the belief that produces it",
+      "to": "An absorbing barrier breaks ergodicity by construction"
+    },
+    {
+      "from": "Rationality is a property of the policy not of the belief that produces it",
+      "to": "Formalism refuses evidence of results and of reasons because neither discriminates"
+    },
+    {
+      "from": "Rationality is a property of the policy not of the belief that produces it",
+      "to": "MOC - Defending the ergodicity claim"
+    },
+    {
+      "from": "Rationality is a property of the policy not of the belief that produces it",
+      "to": "MOC - Ergodicity and the time-ensemble distinction"
+    },
+    {
+      "from": "Rationality is a property of the policy not of the belief that produces it",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Rationality is a property of the policy not of the belief that produces it",
+      "to": "Ritual carries its function in its form and its circularity not in its content"
+    },
+    {
+      "from": "Rationality is a property of the policy not of the belief that produces it",
+      "to": "Taleb 2018 on skin in the game - loci for rationality, belief and ritual"
+    },
+    {
+      "from": "Rationality is a property of the policy not of the belief that produces it",
+      "to": "Taleb reads survival as evidence about the survivor and we read it as evidence about the filter"
+    },
+    {
+      "from": "Rationality is a property of the policy not of the belief that produces it",
+      "to": "Taleb secures the collective by exit and has no theory of pooling"
+    },
+    {
+      "from": "Rationality is a property of the policy not of the belief that produces it",
+      "to": "Time-average"
+    },
+    {
+      "from": "Rationality is a property of the policy not of the belief that produces it",
+      "to": "Time-average optimization is a survivorship property not an intention"
+    },
+    {
       "from": "Read the Nakai anomaly against the ie's horizon not the transaction's",
       "to": "MOC - Entity-shielding and corporate forms"
     },
@@ -20565,6 +20944,70 @@
     {
       "from": "Riksarkivet Sweden - the national archives and the AI lab",
       "to": "Svenska Ostindiska Companiet - the Gothenburg archive"
+    },
+    {
+      "from": "Ritual carries its function in its form and its circularity not in its content",
+      "to": "A heuristic is defended by its error distribution not by its accuracy"
+    },
+    {
+      "from": "Ritual carries its function in its form and its circularity not in its content",
+      "to": "Divergent arbitrary particulars are the independence diagnostic"
+    },
+    {
+      "from": "Ritual carries its function in its form and its circularity not in its content",
+      "to": "Formalism refuses evidence of results and of reasons because neither discriminates"
+    },
+    {
+      "from": "Ritual carries its function in its form and its circularity not in its content",
+      "to": "Harmless irrationality and costly ritual are licensed on opposite grounds"
+    },
+    {
+      "from": "Ritual carries its function in its form and its circularity not in its content",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Ritual carries its function in its form and its circularity not in its content",
+      "to": "MOC - Historiography and method"
+    },
+    {
+      "from": "Ritual carries its function in its form and its circularity not in its content",
+      "to": "MOC - Islamic contract doctrine"
+    },
+    {
+      "from": "Ritual carries its function in its form and its circularity not in its content",
+      "to": "Never let the units slide from instruments to populations"
+    },
+    {
+      "from": "Ritual carries its function in its form and its circularity not in its content",
+      "to": "Of Taleb's accounts of dietary law only the minority rule is a mechanism"
+    },
+    {
+      "from": "Ritual carries its function in its form and its circularity not in its content",
+      "to": "Perpetuity splits into adaptation and petrification"
+    },
+    {
+      "from": "Ritual carries its function in its form and its circularity not in its content",
+      "to": "Rationality is a property of the policy not of the belief that produces it"
+    },
+    {
+      "from": "Ritual carries its function in its form and its circularity not in its content",
+      "to": "Taleb 2012 on antifragility - loci for the time-ensemble distinction"
+    },
+    {
+      "from": "Ritual carries its function in its form and its circularity not in its content",
+      "to": "Taleb 2018 on skin in the game - loci for rationality, belief and ritual"
+    },
+    {
+      "from": "Ritual carries its function in its form and its circularity not in its content",
+      "to": "Taleb reads survival as evidence about the survivor and we read it as evidence about the filter"
+    },
+    {
+      "from": "Ritual carries its function in its form and its circularity not in its content",
+      "to": "The heter iska restores the fixed return by evidentiary barrier"
+    },
+    {
+      "from": "Ritual carries its function in its form and its circularity not in its content",
+      "to": "The isqa is Lindy because captive not because robust"
     },
     {
       "from": "Robotic V-cradle book scanners - Treventus and Qidenus",
@@ -21153,6 +21596,10 @@
     {
       "from": "Skin in the game",
       "to": "Entity-shielding"
+    },
+    {
+      "from": "Skin in the game",
+      "to": "Formalism refuses evidence of results and of reasons because neither discriminates"
     },
     {
       "from": "Skin in the game",
@@ -22252,7 +22699,15 @@
     },
     {
       "from": "Taleb 2012 on antifragility - loci for the time-ensemble distinction",
+      "to": "Rationality is a property of the policy not of the belief that produces it"
+    },
+    {
+      "from": "Taleb 2012 on antifragility - loci for the time-ensemble distinction",
       "to": "Skin in the game"
+    },
+    {
+      "from": "Taleb 2012 on antifragility - loci for the time-ensemble distinction",
+      "to": "Taleb 2018 on skin in the game - loci for rationality, belief and ritual"
     },
     {
       "from": "Taleb 2012 on antifragility - loci for the time-ensemble distinction",
@@ -22269,6 +22724,58 @@
     {
       "from": "Taleb 2012 on antifragility - loci for the time-ensemble distinction",
       "to": "The ascent narrative is the Jensen error as historiography"
+    },
+    {
+      "from": "Taleb 2018 on skin in the game - loci for rationality, belief and ritual",
+      "to": "A heuristic is defended by its error distribution not by its accuracy"
+    },
+    {
+      "from": "Taleb 2018 on skin in the game - loci for rationality, belief and ritual",
+      "to": "Formalism refuses evidence of results and of reasons because neither discriminates"
+    },
+    {
+      "from": "Taleb 2018 on skin in the game - loci for rationality, belief and ritual",
+      "to": "Harmless irrationality and costly ritual are licensed on opposite grounds"
+    },
+    {
+      "from": "Taleb 2018 on skin in the game - loci for rationality, belief and ritual",
+      "to": "Islamic doctrine refuses risk-commodification at step one"
+    },
+    {
+      "from": "Taleb 2018 on skin in the game - loci for rationality, belief and ritual",
+      "to": "MOC - Ergodicity and the time-ensemble distinction"
+    },
+    {
+      "from": "Taleb 2018 on skin in the game - loci for rationality, belief and ritual",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Taleb 2018 on skin in the game - loci for rationality, belief and ritual",
+      "to": "MOC - Historiography and method"
+    },
+    {
+      "from": "Taleb 2018 on skin in the game - loci for rationality, belief and ritual",
+      "to": "Of Taleb's accounts of dietary law only the minority rule is a mechanism"
+    },
+    {
+      "from": "Taleb 2018 on skin in the game - loci for rationality, belief and ritual",
+      "to": "Rationality is a property of the policy not of the belief that produces it"
+    },
+    {
+      "from": "Taleb 2018 on skin in the game - loci for rationality, belief and ritual",
+      "to": "Ritual carries its function in its form and its circularity not in its content"
+    },
+    {
+      "from": "Taleb 2018 on skin in the game - loci for rationality, belief and ritual",
+      "to": "Skin in the game"
+    },
+    {
+      "from": "Taleb 2018 on skin in the game - loci for rationality, belief and ritual",
+      "to": "Taleb 2012 on antifragility - loci for the time-ensemble distinction"
+    },
+    {
+      "from": "Taleb 2018 on skin in the game - loci for rationality, belief and ritual",
+      "to": "Taleb reads survival as evidence about the survivor and we read it as evidence about the filter"
     },
     {
       "from": "Taleb reads survival as evidence about the survivor and we read it as evidence about the filter",
@@ -22304,7 +22811,15 @@
     },
     {
       "from": "Taleb reads survival as evidence about the survivor and we read it as evidence about the filter",
+      "to": "Of Taleb's accounts of dietary law only the minority rule is a mechanism"
+    },
+    {
+      "from": "Taleb reads survival as evidence about the survivor and we read it as evidence about the filter",
       "to": "Persistence samples are conditioned on non-absorption"
+    },
+    {
+      "from": "Taleb reads survival as evidence about the survivor and we read it as evidence about the filter",
+      "to": "Rationality is a property of the policy not of the belief that produces it"
     },
     {
       "from": "Taleb reads survival as evidence about the survivor and we read it as evidence about the filter",
@@ -23737,6 +24252,10 @@
     {
       "from": "The amana-daman structure refuses to infer fault from loss",
       "to": "Ensemble benchmarking of agents is biased against the honest"
+    },
+    {
+      "from": "The amana-daman structure refuses to infer fault from loss",
+      "to": "Formalism refuses evidence of results and of reasons because neither discriminates"
     },
     {
       "from": "The amana-daman structure refuses to infer fault from loss",
@@ -27604,6 +28123,10 @@
     },
     {
       "from": "tags",
+      "to": "Formalism refuses evidence of results and of reasons because neither discriminates"
+    },
+    {
+      "from": "tags",
       "to": "Homoplasy is the finding not the noise"
     },
     {
@@ -27624,11 +28147,19 @@
     },
     {
       "from": "tags",
+      "to": "Rationality is a property of the policy not of the belief that produces it"
+    },
+    {
+      "from": "tags",
       "to": "Retrodiction fails on non-invertibility not on induction"
     },
     {
       "from": "tags",
       "to": "Ribbit mandates exposure rather than forbidding gain"
+    },
+    {
+      "from": "tags",
+      "to": "Ritual carries its function in its form and its circularity not in its content"
     },
     {
       "from": "tags",

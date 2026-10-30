@@ -62,6 +62,14 @@ Keep tags lowercase, hyphenated, singular. Before coining a new tag, check this 
 
 **Note on `convergence-pair`.** The tag asserts convergence in the strict cladistic sense — independent arrival from *different* ancestral conditions — and is therefore stronger than it looks. Where a shared ancestral substrate is plausible, the correct term is `parallelism`. See [[Homoplasy is the finding not the noise]]; existing `convergence-pair` notes need auditing against the distinction.
 
+## Rationality and practice
+
+`procedural-rationality` · `heuristic` · `ritual` · `formalism`
+
+**Note on `procedural-rationality`.** The tag asserts that a decision is judged by the policy, not by the belief behind it, and that claim is licensed only where the payoff carries an absorbing barrier. Under additive dynamics with symmetric loss the accurate belief is what the optimal policy needs, and the tag has no content. Never put it on an argument that reads a practice's rationality off its survival: that is the backward inference, and it takes `survivorship-bias`. See [[Rationality is a property of the policy not of the belief that produces it]].
+
+**Note on `ritual` against `formalism`.** `ritual` marks a practice whose warrant is its own performance: worship, fasting, dietary law, ornament. `formalism` marks the validity of a legal act by its form, refusing evidence of results and of reasons. They share a structure, and the vocabulary keeps them apart so that the legal material stays findable as law. See [[Ritual carries its function in its form and its circularity not in its content]] and [[Formalism refuses evidence of results and of reasons because neither discriminates]].
+
 ## Structural
 
 `moc` · `meta`

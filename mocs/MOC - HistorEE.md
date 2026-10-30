@@ -305,3 +305,13 @@ Project hub for the book. Atomic notes hang off both this project MOC and a them
 - [[The Brussels experiment - Vanhoyweghen et al 2022 and its sequels]]
 - [[The laboratory tests the choice and the archive tests the pool]]
 - [[Doctrine, deed and conduct are three layers and the time-average test needs all three]]
+
+## Notes — Taleb ethics session
+
+- [[Taleb 2018 on skin in the game - loci for rationality, belief and ritual]]
+- [[Rationality is a property of the policy not of the belief that produces it]]
+- [[Formalism refuses evidence of results and of reasons because neither discriminates]]
+- [[A heuristic is defended by its error distribution not by its accuracy]]
+- [[Harmless irrationality and costly ritual are licensed on opposite grounds]]
+- [[Ritual carries its function in its form and its circularity not in its content]]
+- [[Of Taleb's accounts of dietary law only the minority rule is a mechanism]]
