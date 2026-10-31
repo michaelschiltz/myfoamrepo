@@ -140,3 +140,7 @@ The persistence-design critique is *offensive* — it attacks a design class —
 
 - [[Rationality is a property of the policy not of the belief that produces it]] — the forward criterion the vault can use, and the backward reading it must not
 - [[A heuristic is defended by its error distribution not by its accuracy]] — the defence is forward, from error structure under a stated dynamic, never from the survival of those who held the rule
+
+## Added 2026-10-31 — practice and proof
+
+- [[Practice answers the problem as posed and the proof says which problem that was]] — the honeycomb's 3D case: formalism convicted the bees under a thin-wall idealisation and a better formalisation acquitted them; expected value is the thin-wall model. Supplies the usable sentence and names the unusable one

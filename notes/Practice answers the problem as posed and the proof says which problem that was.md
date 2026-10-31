@@ -1,0 +1,53 @@
+---
+title: Practice answers the problem as posed and the proof says which problem that was
+type: permanent
+tags: [ensemble-average, time-average, expected-utility, procedural-rationality, survivorship-bias, ergodicity]
+project: HistorEE
+source-session: honeycomb-theorem
+created: 2026-10-31
+status: seed
+---
+
+# Practice answers the problem as posed and the proof says which problem that was
+
+**The honeycomb is the standard image of practice preceding proof: bees built hexagons for millions of years, Varro reported a geometers' proof that did not exist, and Hales supplied one in 1999. The priority is real and historical. It is not epistemic, and the comb itself shows why. Where formalism has convicted the bees of error, the formalism had posed the wrong problem; the conviction was reversed by a better formalisation, not by deference to practice. That is the exact shape of the ergodicity argument, and it is the form in which the lesson may enter the proposal.**
+
+## The three-dimensional case
+
+In 1964 Fejes Tóth showed that the bees' cell base — three rhombi — is not the least-area closure: a base of two hexagons and two rhombi saves a fraction of a per cent. On the idealisation in which walls have no thickness, the bees are wrong. In 1994 Weaire and Phelan built the comb's two-layer interface out of liquid foam. With thin films the interface took Fejes Tóth's structure; as the films thickened it switched abruptly to the bees' three-rhombus base. The bees' structure is optimal for walls of real thickness. Details and citations at [[Hales 2001 - the honeycomb theorem and the architecture of its proof]].
+
+Three lessons follow, and none of them is that process is more fundamental than proof.
+
+- **Practice can be right where the formalism says it is wrong**, because practice answers the problem actually posed by the material and the formalism answered an idealisation of it.
+- **The vindication was itself formal.** It took a model with wall thickness to show what the bees were solving. Deferring to practice would not have distinguished the three-rhombus base from a mistake.
+- **Practice is not therefore always right.** Natural combs carry a minority of Fejes Tóth cells; MacLaurin and Kelvin, reasoning from nature's apparent choices, were each wrong. Survival of a form is not proof of its optimality ([[Taleb reads survival as evidence about the survivor and we read it as evidence about the filter]]).
+
+## The transfer, which is exact
+
+Expected-value economics is the thin-wall model. It evaluates a gamble over an ensemble of parallel copies no one inhabits, and on that idealisation it has, since 1738, convicted the refusal of fair gambles, the purchase of insurance and the pooling of ventures of irrationality or of a taste for safety ([[Economics had its ensemble moment in 1738 and psychologized it]]). The practices were not ahead of mathematics. They were ahead of a mis-posed mathematics, and what corrects it is not a celebration of practice but a formalisation with the right constraint in it: one trajectory, multiplicative dynamics, an absorbing barrier. **The time average is the wall thickness.**
+
+The lag has the same anatomy too. Fejes Tóth could prove the planar case in 1943 only by assuming convex cells, which excluded the curved-walled candidates isoperimetry marks as dangerous; Hales's proof is the removal of that assumption. Economics could analyse risk tractably by assuming ergodicity, which excluded the trajectories that end at the barrier. In both cases the convenient assumption removed precisely the cases that carried the content, and the long interval between practice and proof measures the difficulty of dropping it — not the superiority of practice.
+
+## The sentence the proposal can use, and the one it cannot
+
+**Usable:** a practice that persisted across many environments is evidence about which problem was being solved, and a formalism that convicts it of irrationality must first be checked for a mis-specified constraint. This is forward, falsifiable, and cognate with [[Rationality is a property of the policy not of the belief that produces it]], whose conclusion it shares: the primacy of practice is a consequence of the dynamic, not an epistemology.
+
+**Not usable:** that action, process and evolution are prior to and more fundamental than proof. A panel will read it as anti-formalism in a project whose instrument is a formalisation and two of whose PIs are mathematicians; and it is the backward inference — from persistence to warrant — that [[Time-average optimization is a survivorship property not an intention]] and [[Refusals are observations of the filter not inferences from survivors]] exist to refuse.
+
+## Links
+
+- [[Hales 2001 - the honeycomb theorem and the architecture of its proof]]
+- [[The hexagon is optimal only among neighbours]]
+- [[The optimum does not identify the route that reached it]]
+- [[Economics had its ensemble moment in 1738 and psychologized it]]
+- [[Rationality is a property of the policy not of the belief that produces it]]
+- [[Time-average optimization is a survivorship property not an intention]]
+- [[Taleb reads survival as evidence about the survivor and we read it as evidence about the filter]]
+- [[An absorbing barrier breaks ergodicity by construction]]
+- [[MOC - Ergodicity and the time-ensemble distinction]]
+- [[MOC - Defending the ergodicity claim]]
+- [[MOC - HistorEE]]
+
+## Source
+
+Honeycomb-theorem session, 31 October 2026. MS proposed the lesson that action, process and evolution are prior to and more fundamental than proof, the time average having been formalised only after centuries of cooperative practice. The note keeps the priority and recasts its warrant.

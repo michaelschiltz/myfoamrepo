@@ -284,7 +284,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "An absorbing barrier breaks ergodicity by construction",
-      "value": 61,
+      "value": 62,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1301,7 +1301,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Doctrine, deed and conduct are three layers and the time-average test needs all three",
-      "value": 21,
+      "value": 23,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1400,7 +1400,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Economics had its ensemble moment in 1738 and psychologized it",
-      "value": 22,
+      "value": 24,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1789,6 +1789,15 @@
       "label": "HCA - the High Court of Admiralty",
       "value": 16,
       "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "Hales 2001 - the honeycomb theorem and the architecture of its proof",
+      "type": "source",
+      "group": "source",
+      "label": "Hales 2001 - the honeycomb theorem and the architecture of its proof",
+      "value": 17,
+      "color": "#7570b3",
       "shape": "dot"
     },
     {
@@ -2930,7 +2939,16 @@
       "type": "permanent",
       "group": "seed",
       "label": "Pooling's sign is set by the correlation of its baskets",
-      "value": 55,
+      "value": 57,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "Practice answers the problem as posed and the proof says which problem that was",
+      "type": "permanent",
+      "group": "seed",
+      "label": "Practice answers the problem as posed and the proof says which problem that was",
+      "value": 24,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -3065,7 +3083,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Rationality is a property of the policy not of the belief that produces it",
-      "value": 34,
+      "value": 36,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -3101,7 +3119,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Refusals are observations of the filter not inferences from survivors",
-      "value": 122,
+      "value": 125,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -3704,7 +3722,7 @@
       "type": "source",
       "group": "source",
       "label": "Stoic loci on cooperation - only two argue from interdependence",
-      "value": 12,
+      "value": 16,
       "color": "#7570b3",
       "shape": "dot"
     },
@@ -3785,7 +3803,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Taleb reads survival as evidence about the survivor and we read it as evidence about the filter",
-      "value": 50,
+      "value": 53,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -4474,6 +4492,15 @@
       "shape": "dot"
     },
     {
+      "id": "The hexagon is optimal only among neighbours",
+      "type": "permanent",
+      "group": "seed",
+      "label": "The hexagon is optimal only among neighbours",
+      "value": 20,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
       "id": "The ie as entity-shielding",
       "type": "permanent",
       "group": "stub",
@@ -4663,6 +4690,15 @@
       "shape": "dot"
     },
     {
+      "id": "The optimum does not identify the route that reached it",
+      "type": "permanent",
+      "group": "seed",
+      "label": "The optimum does not identify the route that reached it",
+      "value": 22,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
       "id": "The ortoq is the discriminating instrument",
       "type": "permanent",
       "group": "seed",
@@ -4712,7 +4748,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The record of non-survivors survives where failure was administered",
-      "value": 39,
+      "value": 41,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -4793,7 +4829,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The theory predicts recurrence not independent origins",
-      "value": 31,
+      "value": 33,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -4892,7 +4928,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Time-average optimization is a survivorship property not an intention",
-      "value": 58,
+      "value": 64,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -5261,7 +5297,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Defending the ergodicity claim",
-      "value": 113,
+      "value": 115,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -5288,7 +5324,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - ERC Synergy Grant",
-      "value": 75,
+      "value": 77,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -5306,7 +5342,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Ergodicity and the time-ensemble distinction",
-      "value": 183,
+      "value": 185,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -5351,7 +5387,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - HistorEE",
-      "value": 487,
+      "value": 495,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -5360,7 +5396,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Historiography and method",
-      "value": 233,
+      "value": 237,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -5423,7 +5459,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Risk-sharing vs risk-pricing",
-      "value": 208,
+      "value": 210,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -11782,6 +11818,30 @@
       "to": "The amirautes - a series across the coastal departments"
     },
     {
+      "from": "Hales 2001 - the honeycomb theorem and the architecture of its proof",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Hales 2001 - the honeycomb theorem and the architecture of its proof",
+      "to": "MOC - Historiography and method"
+    },
+    {
+      "from": "Hales 2001 - the honeycomb theorem and the architecture of its proof",
+      "to": "Practice answers the problem as posed and the proof says which problem that was"
+    },
+    {
+      "from": "Hales 2001 - the honeycomb theorem and the architecture of its proof",
+      "to": "Stoic loci on cooperation - only two argue from interdependence"
+    },
+    {
+      "from": "Hales 2001 - the honeycomb theorem and the architecture of its proof",
+      "to": "The hexagon is optimal only among neighbours"
+    },
+    {
+      "from": "Hales 2001 - the honeycomb theorem and the architecture of its proof",
+      "to": "The optimum does not identify the route that reached it"
+    },
+    {
       "from": "Hanafi and Maliki law part on who may force the liquidation of a mudaraba",
       "to": "Latin law lets the agent mix commended capital and Hanafi law does not"
     },
@@ -14275,6 +14335,10 @@
     },
     {
       "from": "MOC - Defending the ergodicity claim",
+      "to": "Practice answers the problem as posed and the proof says which problem that was"
+    },
+    {
+      "from": "MOC - Defending the ergodicity claim",
       "to": "Prospect theory's parameters are neither population constants nor individual traits"
     },
     {
@@ -14592,6 +14656,10 @@
     {
       "from": "MOC - ERC Synergy Grant",
       "to": "The determinate-contingent typology carries the richness"
+    },
+    {
+      "from": "MOC - ERC Synergy Grant",
+      "to": "The hexagon is optimal only among neighbours"
     },
     {
       "from": "MOC - ERC Synergy Grant",
@@ -15016,6 +15084,10 @@
     {
       "from": "MOC - Ergodicity and the time-ensemble distinction",
       "to": "Persistence samples are conditioned on non-absorption"
+    },
+    {
+      "from": "MOC - Ergodicity and the time-ensemble distinction",
+      "to": "Practice answers the problem as posed and the proof says which problem that was"
     },
     {
       "from": "MOC - Ergodicity and the time-ensemble distinction",
@@ -15963,6 +16035,10 @@
     },
     {
       "from": "MOC - HistorEE",
+      "to": "Hales 2001 - the honeycomb theorem and the architecture of its proof"
+    },
+    {
+      "from": "MOC - HistorEE",
       "to": "Harmless irrationality and costly ritual are licensed on opposite grounds"
     },
     {
@@ -16084,6 +16160,10 @@
     {
       "from": "MOC - HistorEE",
       "to": "Path dependence requires naming the non-commuting operation"
+    },
+    {
+      "from": "MOC - HistorEE",
+      "to": "Practice answers the problem as posed and the proof says which problem that was"
     },
     {
       "from": "MOC - HistorEE",
@@ -16319,6 +16399,10 @@
     },
     {
       "from": "MOC - HistorEE",
+      "to": "The hexagon is optimal only among neighbours"
+    },
+    {
+      "from": "MOC - HistorEE",
       "to": "The ie as entity-shielding"
     },
     {
@@ -16360,6 +16444,10 @@
     {
       "from": "MOC - HistorEE",
       "to": "The naties are a six-century Lindy institution"
+    },
+    {
+      "from": "MOC - HistorEE",
+      "to": "The optimum does not identify the route that reached it"
     },
     {
       "from": "MOC - HistorEE",
@@ -16619,6 +16707,10 @@
     },
     {
       "from": "MOC - Historiography and method",
+      "to": "Hales 2001 - the honeycomb theorem and the architecture of its proof"
+    },
+    {
+      "from": "MOC - Historiography and method",
       "to": "Harmless irrationality and costly ritual are licensed on opposite grounds"
     },
     {
@@ -16828,6 +16920,10 @@
     {
       "from": "MOC - Historiography and method",
       "to": "The notarial security clause is boilerplate and cannot carry a typology"
+    },
+    {
+      "from": "MOC - Historiography and method",
+      "to": "The optimum does not identify the route that reached it"
     },
     {
       "from": "MOC - Historiography and method",
@@ -17828,6 +17924,10 @@
     {
       "from": "MOC - Risk-sharing vs risk-pricing",
       "to": "The heter iska restores the fixed return by evidentiary barrier"
+    },
+    {
+      "from": "MOC - Risk-sharing vs risk-pricing",
+      "to": "The hexagon is optimal only among neighbours"
     },
     {
       "from": "MOC - Risk-sharing vs risk-pricing",
@@ -19944,6 +20044,54 @@
     {
       "from": "Pooling's sign is set by the correlation of its baskets",
       "to": "Time-average"
+    },
+    {
+      "from": "Practice answers the problem as posed and the proof says which problem that was",
+      "to": "An absorbing barrier breaks ergodicity by construction"
+    },
+    {
+      "from": "Practice answers the problem as posed and the proof says which problem that was",
+      "to": "Economics had its ensemble moment in 1738 and psychologized it"
+    },
+    {
+      "from": "Practice answers the problem as posed and the proof says which problem that was",
+      "to": "Hales 2001 - the honeycomb theorem and the architecture of its proof"
+    },
+    {
+      "from": "Practice answers the problem as posed and the proof says which problem that was",
+      "to": "MOC - Defending the ergodicity claim"
+    },
+    {
+      "from": "Practice answers the problem as posed and the proof says which problem that was",
+      "to": "MOC - Ergodicity and the time-ensemble distinction"
+    },
+    {
+      "from": "Practice answers the problem as posed and the proof says which problem that was",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Practice answers the problem as posed and the proof says which problem that was",
+      "to": "Rationality is a property of the policy not of the belief that produces it"
+    },
+    {
+      "from": "Practice answers the problem as posed and the proof says which problem that was",
+      "to": "Refusals are observations of the filter not inferences from survivors"
+    },
+    {
+      "from": "Practice answers the problem as posed and the proof says which problem that was",
+      "to": "Taleb reads survival as evidence about the survivor and we read it as evidence about the filter"
+    },
+    {
+      "from": "Practice answers the problem as posed and the proof says which problem that was",
+      "to": "The hexagon is optimal only among neighbours"
+    },
+    {
+      "from": "Practice answers the problem as posed and the proof says which problem that was",
+      "to": "The optimum does not identify the route that reached it"
+    },
+    {
+      "from": "Practice answers the problem as posed and the proof says which problem that was",
+      "to": "Time-average optimization is a survivorship property not an intention"
     },
     {
       "from": "Prefectural and municipal archives - the monjokan network",
@@ -22491,6 +22639,10 @@
     },
     {
       "from": "Stoic loci on cooperation - only two argue from interdependence",
+      "to": "The hexagon is optimal only among neighbours"
+    },
+    {
+      "from": "Stoic loci on cooperation - only two argue from interdependence",
       "to": "The theory predicts recurrence not independent origins"
     },
     {
@@ -25342,6 +25494,38 @@
       "to": "isqa"
     },
     {
+      "from": "The hexagon is optimal only among neighbours",
+      "to": "Hales 2001 - the honeycomb theorem and the architecture of its proof"
+    },
+    {
+      "from": "The hexagon is optimal only among neighbours",
+      "to": "MOC - ERC Synergy Grant"
+    },
+    {
+      "from": "The hexagon is optimal only among neighbours",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "The hexagon is optimal only among neighbours",
+      "to": "MOC - Risk-sharing vs risk-pricing"
+    },
+    {
+      "from": "The hexagon is optimal only among neighbours",
+      "to": "Pooling's sign is set by the correlation of its baskets"
+    },
+    {
+      "from": "The hexagon is optimal only among neighbours",
+      "to": "Practice answers the problem as posed and the proof says which problem that was"
+    },
+    {
+      "from": "The hexagon is optimal only among neighbours",
+      "to": "Stoic loci on cooperation - only two argue from interdependence"
+    },
+    {
+      "from": "The hexagon is optimal only among neighbours",
+      "to": "Time-average optimization is a survivorship property not an intention"
+    },
+    {
       "from": "The ie as entity-shielding",
       "to": "Entity-shielding"
     },
@@ -26076,6 +26260,46 @@
     {
       "from": "The opgeld prices the peril without separating it from interest",
       "to": "loss_mitigation_forms"
+    },
+    {
+      "from": "The optimum does not identify the route that reached it",
+      "to": "Doctrine, deed and conduct are three layers and the time-average test needs all three"
+    },
+    {
+      "from": "The optimum does not identify the route that reached it",
+      "to": "Hales 2001 - the honeycomb theorem and the architecture of its proof"
+    },
+    {
+      "from": "The optimum does not identify the route that reached it",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "The optimum does not identify the route that reached it",
+      "to": "MOC - Historiography and method"
+    },
+    {
+      "from": "The optimum does not identify the route that reached it",
+      "to": "Practice answers the problem as posed and the proof says which problem that was"
+    },
+    {
+      "from": "The optimum does not identify the route that reached it",
+      "to": "Refusals are observations of the filter not inferences from survivors"
+    },
+    {
+      "from": "The optimum does not identify the route that reached it",
+      "to": "Taleb reads survival as evidence about the survivor and we read it as evidence about the filter"
+    },
+    {
+      "from": "The optimum does not identify the route that reached it",
+      "to": "The record of non-survivors survives where failure was administered"
+    },
+    {
+      "from": "The optimum does not identify the route that reached it",
+      "to": "The theory predicts recurrence not independent origins"
+    },
+    {
+      "from": "The optimum does not identify the route that reached it",
+      "to": "Time-average optimization is a survivorship property not an intention"
     },
     {
       "from": "The ortoq is the discriminating instrument",

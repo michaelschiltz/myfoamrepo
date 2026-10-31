@@ -51,6 +51,7 @@ The Part 2 WP1 session's *ideas* are written as atomic notes (below) and kept un
 
 - [[Stoic loci on cooperation - only two argue from interdependence]] — the candidate passages sorted by whether they argue interdependence or mere membership, with the objection a classicist will raise and the case for citing *Meditations* 6.42 alongside the retained 6.54
 - [[Extending a pool along kin proximity buys N without buying decorrelation]] — the constraint the Hierocles passage exposes, and the coding consequence it hands Objective 1
+- [[The hexagon is optimal only among neighbours]] — the comb as the material object behind 6.54: optimum on the configuration, enjoyed by each cell severally; an emblem of cost-sharing, not of the time-average mechanism
 
 ## Links
 

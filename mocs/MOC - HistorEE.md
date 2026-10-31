@@ -315,3 +315,10 @@ Project hub for the book. Atomic notes hang off both this project MOC and a them
 - [[Harmless irrationality and costly ritual are licensed on opposite grounds]]
 - [[Ritual carries its function in its form and its circularity not in its content]]
 - [[Of Taleb's accounts of dietary law only the minority rule is a mechanism]]
+
+## Notes — honeycomb theorem session
+
+- [[Hales 2001 - the honeycomb theorem and the architecture of its proof]]
+- [[The hexagon is optimal only among neighbours]]
+- [[Practice answers the problem as posed and the proof says which problem that was]]
+- [[The optimum does not identify the route that reached it]]

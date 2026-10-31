@@ -49,6 +49,7 @@ A reviewer with classical training will notice if the epigraph is asked to carry
 - [[The theory predicts recurrence not independent origins]]
 - [[Time-average optimization is a survivorship property not an intention]]
 - [[Skin in the game]]
+- [[The hexagon is optimal only among neighbours]]
 - [[MOC - Risk-sharing vs risk-pricing]]
 - [[MOC - ERC Synergy Grant]]
 - [[MOC - HistorEE]]

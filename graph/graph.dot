@@ -200,6 +200,7 @@ digraph vault {
   "Guildhall Library and the City livery companies" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
   "Gurema - the insolvent estate distributed among creditors" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
   "HCA - the High Court of Admiralty" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
+  "Hales 2001 - the honeycomb theorem and the architecture of its proof" [fillcolor="#7570b3", fontcolor=white, shape=ellipse];
   "Hanafi and Maliki law part on who may force the liquidation of a mudaraba" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Hancock 2025 on trust in Barcelona and Mallorca contracts" [fillcolor="#7570b3", fontcolor=white, shape=ellipse];
   "Handoff - the non-European archive survey" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
@@ -327,6 +328,7 @@ digraph vault {
   "Persona ficta made the corporation a-moral ab initio" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Polonio on the Barcelona maritime comandas 1349-1450" [fillcolor="#7570b3", fontcolor=white, shape=ellipse];
   "Pooling's sign is set by the correlation of its baskets" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
+  "Practice answers the problem as posed and the proof says which problem that was" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Prefectural and municipal archives - the monjokan network" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
   "Preservation-grade overhead scanners - Zeutschel and i2S" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
   "Pricing is orthogonal to mitigation mechanism not a stage of it" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
@@ -498,6 +500,7 @@ digraph vault {
   "The general-particular boundary is unverifiable and its leakage subsidises sailing" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "The growth-rate criterion is asymptotic and the horizon comparison cuts both ways" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "The heter iska restores the fixed return by evidentiary barrier" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
+  "The hexagon is optimal only among neighbours" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "The ie as entity-shielding" [fillcolor="#666666", fontcolor=white, shape=ellipse];
   "The isqa is Lindy because captive not because robust" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "The isqa refuses the agent's shield" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
@@ -519,6 +522,7 @@ digraph vault {
   "The naties are a six-century Lindy institution" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "The notarial security clause is boilerplate and cannot carry a typology" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "The opgeld prices the peril without separating it from interest" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
+  "The optimum does not identify the route that reached it" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "The ortoq is the discriminating instrument" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "The published critique never engages absorption" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "The qirad envelops the sea loan" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
@@ -2182,6 +2186,12 @@ digraph vault {
   "HCA - the High Court of Admiralty" -> "The National Archives - Kew";
   "HCA - the High Court of Admiralty" -> "The Prize Papers - HCA 32 and the German money";
   "HCA - the High Court of Admiralty" -> "The amirautes - a series across the coastal departments";
+  "Hales 2001 - the honeycomb theorem and the architecture of its proof" -> "MOC - HistorEE";
+  "Hales 2001 - the honeycomb theorem and the architecture of its proof" -> "MOC - Historiography and method";
+  "Hales 2001 - the honeycomb theorem and the architecture of its proof" -> "Practice answers the problem as posed and the proof says which problem that was";
+  "Hales 2001 - the honeycomb theorem and the architecture of its proof" -> "Stoic loci on cooperation - only two argue from interdependence";
+  "Hales 2001 - the honeycomb theorem and the architecture of its proof" -> "The hexagon is optimal only among neighbours";
+  "Hales 2001 - the honeycomb theorem and the architecture of its proof" -> "The optimum does not identify the route that reached it";
   "Hanafi and Maliki law part on who may force the liquidation of a mudaraba" -> "Latin law lets the agent mix commended capital and Hanafi law does not";
   "Hanafi and Maliki law part on who may force the liquidation of a mudaraba" -> "Lock-in and outcome-coupling are distinct bindings";
   "Hanafi and Maliki law part on who may force the liquidation of a mudaraba" -> "MOC - Entity-shielding and corporate forms";
@@ -2805,6 +2815,7 @@ digraph vault {
   "MOC - Defending the ergodicity claim" -> "MOC - Historiography and method";
   "MOC - Defending the ergodicity claim" -> "MOC - Path dependence and sequence";
   "MOC - Defending the ergodicity claim" -> "Nothing in the ergodic theorem fails in geometric Brownian motion";
+  "MOC - Defending the ergodicity claim" -> "Practice answers the problem as posed and the proof says which problem that was";
   "MOC - Defending the ergodicity claim" -> "Prospect theory's parameters are neither population constants nor individual traits";
   "MOC - Defending the ergodicity claim" -> "Rationality is a property of the policy not of the belief that produces it";
   "MOC - Defending the ergodicity claim" -> "Restate the cost puzzle as a question about a trajectory";
@@ -2885,6 +2896,7 @@ digraph vault {
   "MOC - ERC Synergy Grant" -> "Stoic loci on cooperation - only two argue from interdependence";
   "MOC - ERC Synergy Grant" -> "The Roman universitas makes the JSC case parallelism not convergence";
   "MOC - ERC Synergy Grant" -> "The determinate-contingent typology carries the richness";
+  "MOC - ERC Synergy Grant" -> "The hexagon is optimal only among neighbours";
   "MOC - ERC Synergy Grant" -> "The isqa's bifurcation belongs to the Sasanian substrate question";
   "MOC - ERC Synergy Grant" -> "The ortoq is the discriminating instrument";
   "MOC - ERC Synergy Grant" -> "The qirad's antecedents are Sasanian not Sogdian";
@@ -2991,6 +3003,7 @@ digraph vault {
   "MOC - Ergodicity and the time-ensemble distinction" -> "Non-ergodicity collapses the likelihood ratio on outcomes";
   "MOC - Ergodicity and the time-ensemble distinction" -> "Nothing in the ergodic theorem fails in geometric Brownian motion";
   "MOC - Ergodicity and the time-ensemble distinction" -> "Persistence samples are conditioned on non-absorption";
+  "MOC - Ergodicity and the time-ensemble distinction" -> "Practice answers the problem as posed and the proof says which problem that was";
   "MOC - Ergodicity and the time-ensemble distinction" -> "Pricing risk does not remove it";
   "MOC - Ergodicity and the time-ensemble distinction" -> "Pure multiplicative dynamics are permutation-invariant";
   "MOC - Ergodicity and the time-ensemble distinction" -> "Rationality is a property of the policy not of the belief that produces it";
@@ -3227,6 +3240,7 @@ digraph vault {
   "MOC - HistorEE" -> "Gharar excludes designed-in unverifiability";
   "MOC - HistorEE" -> "Glaeser and Scheinkman 1998 on interest restrictions as social insurance";
   "MOC - HistorEE" -> "Guard against reverse-teleology";
+  "MOC - HistorEE" -> "Hales 2001 - the honeycomb theorem and the architecture of its proof";
   "MOC - HistorEE" -> "Harmless irrationality and costly ritual are licensed on opposite grounds";
   "MOC - HistorEE" -> "Hierro Anibarro 2005 on the asiento de averia and the privileged company";
   "MOC - HistorEE" -> "Hold the rater fixed and vary the evidence";
@@ -3258,6 +3272,7 @@ digraph vault {
   "MOC - HistorEE" -> "Olivares's junta coded the asiento as a privileged company";
   "MOC - HistorEE" -> "Path dependence literature";
   "MOC - HistorEE" -> "Path dependence requires naming the non-commuting operation";
+  "MOC - HistorEE" -> "Practice answers the problem as posed and the proof says which problem that was";
   "MOC - HistorEE" -> "Pricing risk does not remove it";
   "MOC - HistorEE" -> "Primary against secondary coding workflow - three arms, reveal, application";
   "MOC - HistorEE" -> "Pure multiplicative dynamics are permutation-invariant";
@@ -3316,6 +3331,7 @@ digraph vault {
   "MOC - HistorEE" -> "The four-step decoupling from participation to the veil";
   "MOC - HistorEE" -> "The growth-rate criterion is asymptotic and the horizon comparison cuts both ways";
   "MOC - HistorEE" -> "The heter iska restores the fixed return by evidentiary barrier";
+  "MOC - HistorEE" -> "The hexagon is optimal only among neighbours";
   "MOC - HistorEE" -> "The ie as entity-shielding";
   "MOC - HistorEE" -> "The isqa is Lindy because captive not because robust";
   "MOC - HistorEE" -> "The isqa refuses the agent's shield";
@@ -3327,6 +3343,7 @@ digraph vault {
   "MOC - HistorEE" -> "The mita critiques establish five nulls and none is the estimand";
   "MOC - HistorEE" -> "The moratorium held because leaving the pool is not a one-period cost";
   "MOC - HistorEE" -> "The naties are a six-century Lindy institution";
+  "MOC - HistorEE" -> "The optimum does not identify the route that reached it";
   "MOC - HistorEE" -> "The ortoq is the discriminating instrument";
   "MOC - HistorEE" -> "The published critique never engages absorption";
   "MOC - HistorEE" -> "The qirad envelops the sea loan";
@@ -3391,6 +3408,7 @@ digraph vault {
   "MOC - Historiography and method" -> "Galton's problem applies to the apparatus not only to the institutions";
   "MOC - Historiography and method" -> "Genoese notaries drafted the commenda as equity and Catalan notaries as credit";
   "MOC - Historiography and method" -> "Guard against reverse-teleology";
+  "MOC - Historiography and method" -> "Hales 2001 - the honeycomb theorem and the architecture of its proof";
   "MOC - Historiography and method" -> "Harmless irrationality and costly ritual are licensed on opposite grounds";
   "MOC - Historiography and method" -> "Harris 2020 on the late plurality of limited liability";
   "MOC - Historiography and method" -> "Hold the rater fixed and vary the evidence";
@@ -3444,6 +3462,7 @@ digraph vault {
   "MOC - Historiography and method" -> "The morphological matrix is dictated by the shape of the feature space";
   "MOC - Historiography and method" -> "The mujin's Buddhist name is not the rotating association's Buddhist descent";
   "MOC - Historiography and method" -> "The notarial security clause is boilerplate and cannot carry a typology";
+  "MOC - Historiography and method" -> "The optimum does not identify the route that reached it";
   "MOC - Historiography and method" -> "The ortoq is the discriminating instrument";
   "MOC - Historiography and method" -> "The qirad's antecedents are Sasanian not Sogdian";
   "MOC - Historiography and method" -> "The record of non-survivors survives where failure was administered";
@@ -3694,6 +3713,7 @@ digraph vault {
   "MOC - Risk-sharing vs risk-pricing" -> "The determinate-contingent typology carries the richness";
   "MOC - Risk-sharing vs risk-pricing" -> "The general-particular boundary is unverifiable and its leakage subsidises sailing";
   "MOC - Risk-sharing vs risk-pricing" -> "The heter iska restores the fixed return by evidentiary barrier";
+  "MOC - Risk-sharing vs risk-pricing" -> "The hexagon is optimal only among neighbours";
   "MOC - Risk-sharing vs risk-pricing" -> "The isqa refuses the agent's shield";
   "MOC - Risk-sharing vs risk-pricing" -> "The land comanda gave way to the censal after 1348";
   "MOC - Risk-sharing vs risk-pricing" -> "The liability principle was demoted from rule to maxim";
@@ -4223,6 +4243,18 @@ digraph vault {
   "Pooling's sign is set by the correlation of its baskets" -> "The Fugger diversified activity while concentrating the barrier";
   "Pooling's sign is set by the correlation of its baskets" -> "The real cut is shielded-and-pooled versus unshielded";
   "Pooling's sign is set by the correlation of its baskets" -> "Time-average";
+  "Practice answers the problem as posed and the proof says which problem that was" -> "An absorbing barrier breaks ergodicity by construction";
+  "Practice answers the problem as posed and the proof says which problem that was" -> "Economics had its ensemble moment in 1738 and psychologized it";
+  "Practice answers the problem as posed and the proof says which problem that was" -> "Hales 2001 - the honeycomb theorem and the architecture of its proof";
+  "Practice answers the problem as posed and the proof says which problem that was" -> "MOC - Defending the ergodicity claim";
+  "Practice answers the problem as posed and the proof says which problem that was" -> "MOC - Ergodicity and the time-ensemble distinction";
+  "Practice answers the problem as posed and the proof says which problem that was" -> "MOC - HistorEE";
+  "Practice answers the problem as posed and the proof says which problem that was" -> "Rationality is a property of the policy not of the belief that produces it";
+  "Practice answers the problem as posed and the proof says which problem that was" -> "Refusals are observations of the filter not inferences from survivors";
+  "Practice answers the problem as posed and the proof says which problem that was" -> "Taleb reads survival as evidence about the survivor and we read it as evidence about the filter";
+  "Practice answers the problem as posed and the proof says which problem that was" -> "The hexagon is optimal only among neighbours";
+  "Practice answers the problem as posed and the proof says which problem that was" -> "The optimum does not identify the route that reached it";
+  "Practice answers the problem as posed and the proof says which problem that was" -> "Time-average optimization is a survivorship property not an intention";
   "Prefectural and municipal archives - the monjokan network" -> "Japanese archives - custody follows the house";
   "Prefectural and municipal archives - the monjokan network" -> "MOC - Japanese archives";
   "Prefectural and municipal archives - the monjokan network" -> "Rijksarchief in Belgie - the state archives network";
@@ -4859,6 +4891,7 @@ digraph vault {
   "Stoic loci on cooperation - only two argue from interdependence" -> "MOC - HistorEE";
   "Stoic loci on cooperation - only two argue from interdependence" -> "MOC - Risk-sharing vs risk-pricing";
   "Stoic loci on cooperation - only two argue from interdependence" -> "Skin in the game";
+  "Stoic loci on cooperation - only two argue from interdependence" -> "The hexagon is optimal only among neighbours";
   "Stoic loci on cooperation - only two argue from interdependence" -> "The theory predicts recurrence not independent origins";
   "Stoic loci on cooperation - only two argue from interdependence" -> "Time-average optimization is a survivorship property not an intention";
   "Stora Kopparberg - the 1288 share" -> "Divergent arbitrary particulars are the independence diagnostic";
@@ -5572,6 +5605,14 @@ digraph vault {
   "The heter iska restores the fixed return by evidentiary barrier" -> "The amana-daman structure refuses to infer fault from loss";
   "The heter iska restores the fixed return by evidentiary barrier" -> "The isqa is Lindy because captive not because robust";
   "The heter iska restores the fixed return by evidentiary barrier" -> "isqa";
+  "The hexagon is optimal only among neighbours" -> "Hales 2001 - the honeycomb theorem and the architecture of its proof";
+  "The hexagon is optimal only among neighbours" -> "MOC - ERC Synergy Grant";
+  "The hexagon is optimal only among neighbours" -> "MOC - HistorEE";
+  "The hexagon is optimal only among neighbours" -> "MOC - Risk-sharing vs risk-pricing";
+  "The hexagon is optimal only among neighbours" -> "Pooling's sign is set by the correlation of its baskets";
+  "The hexagon is optimal only among neighbours" -> "Practice answers the problem as posed and the proof says which problem that was";
+  "The hexagon is optimal only among neighbours" -> "Stoic loci on cooperation - only two argue from interdependence";
+  "The hexagon is optimal only among neighbours" -> "Time-average optimization is a survivorship property not an intention";
   "The ie as entity-shielding" -> "Entity-shielding";
   "The ie as entity-shielding" -> "MOC - Entity-shielding and corporate forms";
   "The ie as entity-shielding" -> "MOC - HistorEE";
@@ -5756,6 +5797,16 @@ digraph vault {
   "The opgeld prices the peril without separating it from interest" -> "MOC - HistorEE";
   "The opgeld prices the peril without separating it from interest" -> "MOC - Risk-sharing vs risk-pricing";
   "The opgeld prices the peril without separating it from interest" -> "loss_mitigation_forms";
+  "The optimum does not identify the route that reached it" -> "Doctrine, deed and conduct are three layers and the time-average test needs all three";
+  "The optimum does not identify the route that reached it" -> "Hales 2001 - the honeycomb theorem and the architecture of its proof";
+  "The optimum does not identify the route that reached it" -> "MOC - HistorEE";
+  "The optimum does not identify the route that reached it" -> "MOC - Historiography and method";
+  "The optimum does not identify the route that reached it" -> "Practice answers the problem as posed and the proof says which problem that was";
+  "The optimum does not identify the route that reached it" -> "Refusals are observations of the filter not inferences from survivors";
+  "The optimum does not identify the route that reached it" -> "Taleb reads survival as evidence about the survivor and we read it as evidence about the filter";
+  "The optimum does not identify the route that reached it" -> "The record of non-survivors survives where failure was administered";
+  "The optimum does not identify the route that reached it" -> "The theory predicts recurrence not independent origins";
+  "The optimum does not identify the route that reached it" -> "Time-average optimization is a survivorship property not an intention";
   "The ortoq is the discriminating instrument" -> "MOC - ERC Synergy Grant";
   "The ortoq is the discriminating instrument" -> "MOC - HistorEE";
   "The ortoq is the discriminating instrument" -> "MOC - Historiography and method";

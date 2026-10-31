@@ -20,6 +20,8 @@ Thematic hub for the project's methodological guardrails: teleology and its inve
 - [[The ascent narrative is the Jensen error as historiography]]
 - [[Discipline the Whig epithet by pinning it to teleology and survivorship]]
 - [[The record of non-survivors survives where failure was administered]]
+- [[The optimum does not identify the route that reached it]]
+- [[Hales 2001 - the honeycomb theorem and the architecture of its proof]]
 - [[Guard against reverse-teleology]]
 - [[Kuran's brake is a refusal of immortal entities]]
 - [[Selection frequency trades against organizational memory]]

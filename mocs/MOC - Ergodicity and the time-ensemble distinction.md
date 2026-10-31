@@ -35,6 +35,7 @@ Written for WP3, to the standard a mathematically literate referee would apply.
 - [[Jensen gap]]
 - [[Separate the sociological and the methodological claims about economics]]
 - [[Economics had its ensemble moment in 1738 and psychologized it]]
+- [[Practice answers the problem as posed and the proof says which problem that was]]
 - [[Route Kolmogorov to ergodic theory not the theory of means]]
 - [[The ensemble average is the local descriptor of a barrier-shielded agent]]
 - [[The real cut is shielded-and-pooled versus unshielded]]
