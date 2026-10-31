@@ -323,3 +323,4 @@ Project hub for the book. Atomic notes hang off both this project MOC and a them
 - [[Practice answers the problem as posed and the proof says which problem that was]]
 - [[The optimum does not identify the route that reached it]]
 - [[The expectation value describes a pool that re-shares not a population]]
+- [[Pooling approaches the infinite ensemble and perpetual succession the infinite horizon]]

@@ -94,3 +94,7 @@ Thematic hub for the corporate-form apparatus: asset-partitioning, identity-wrap
 ## Added 2026-10-27
 
 - [[Comanda primary pass coding and adjudication 2026-10-27]] — 43 comanda cells coded blind from the Barcelona acts and adjudicated: `LP2` and `LR4` brought into line with the commenda family, `CI1` none, `CI3` P (the investor's rights pass by cession, the agent's not without consent); verification still rests on the Consolat alone
+
+## Added 2026-10-31
+
+- [[Pooling approaches the infinite ensemble and perpetual succession the infinite horizon]]

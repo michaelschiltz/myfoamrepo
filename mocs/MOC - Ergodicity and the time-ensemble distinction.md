@@ -39,6 +39,7 @@ Written for WP3, to the standard a mathematically literate referee would apply.
 - [[Route Kolmogorov to ergodic theory not the theory of means]]
 - [[The ensemble average is the local descriptor of a barrier-shielded agent]]
 - [[The expectation value describes a pool that re-shares not a population]]
+- [[Pooling approaches the infinite ensemble and perpetual succession the infinite horizon]]
 - [[The real cut is shielded-and-pooled versus unshielded]]
 - [[Time-average optimization is a survivorship property not an intention]]
 - [[Non-ergodicity collapses the likelihood ratio on outcomes]]

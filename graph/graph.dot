@@ -327,6 +327,7 @@ digraph vault {
   "Persistence samples are conditioned on non-absorption" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Persona ficta made the corporation a-moral ab initio" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Polonio on the Barcelona maritime comandas 1349-1450" [fillcolor="#7570b3", fontcolor=white, shape=ellipse];
+  "Pooling approaches the infinite ensemble and perpetual succession the infinite horizon" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Pooling's sign is set by the correlation of its baskets" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Practice answers the problem as posed and the proof says which problem that was" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Prefectural and municipal archives - the monjokan network" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
@@ -2558,6 +2559,7 @@ digraph vault {
   "Kuran's brake is a refusal of immortal entities" -> "Lock-in and outcome-coupling are distinct bindings";
   "Kuran's brake is a refusal of immortal entities" -> "MOC - HistorEE";
   "Kuran's brake is a refusal of immortal entities" -> "MOC - Historiography and method";
+  "Kuran's brake is a refusal of immortal entities" -> "Pooling approaches the infinite ensemble and perpetual succession the infinite horizon";
   "Kuran's brake is a refusal of immortal entities" -> "The ascent narrative is the Jensen error as historiography";
   "Kuran's brake is a refusal of immortal entities" -> "The mudaraba is revocable not locked in";
   "Kuyud-i Kadime Arsivi - Ankara" -> "MOC - Ottoman archives";
@@ -2932,6 +2934,7 @@ digraph vault {
   "MOC - Entity-shielding and corporate forms" -> "Natie is a false cognate";
   "MOC - Entity-shielding and corporate forms" -> "Perpetuity splits into adaptation and petrification";
   "MOC - Entity-shielding and corporate forms" -> "Persona ficta made the corporation a-moral ab initio";
+  "MOC - Entity-shielding and corporate forms" -> "Pooling approaches the infinite ensemble and perpetual succession the infinite horizon";
   "MOC - Entity-shielding and corporate forms" -> "Read the Nakai anomaly against the ie's horizon not the transaction's";
   "MOC - Entity-shielding and corporate forms" -> "Taleb specifies the firewall in chapter 4 and condemns it in chapter 23";
   "MOC - Entity-shielding and corporate forms" -> "The Antwerp phases separate on two cells and the boundary is textual";
@@ -3004,6 +3007,7 @@ digraph vault {
   "MOC - Ergodicity and the time-ensemble distinction" -> "Non-ergodicity collapses the likelihood ratio on outcomes";
   "MOC - Ergodicity and the time-ensemble distinction" -> "Nothing in the ergodic theorem fails in geometric Brownian motion";
   "MOC - Ergodicity and the time-ensemble distinction" -> "Persistence samples are conditioned on non-absorption";
+  "MOC - Ergodicity and the time-ensemble distinction" -> "Pooling approaches the infinite ensemble and perpetual succession the infinite horizon";
   "MOC - Ergodicity and the time-ensemble distinction" -> "Practice answers the problem as posed and the proof says which problem that was";
   "MOC - Ergodicity and the time-ensemble distinction" -> "Pricing risk does not remove it";
   "MOC - Ergodicity and the time-ensemble distinction" -> "Pure multiplicative dynamics are permutation-invariant";
@@ -3274,6 +3278,7 @@ digraph vault {
   "MOC - HistorEE" -> "Olivares's junta coded the asiento as a privileged company";
   "MOC - HistorEE" -> "Path dependence literature";
   "MOC - HistorEE" -> "Path dependence requires naming the non-commuting operation";
+  "MOC - HistorEE" -> "Pooling approaches the infinite ensemble and perpetual succession the infinite horizon";
   "MOC - HistorEE" -> "Practice answers the problem as posed and the proof says which problem that was";
   "MOC - HistorEE" -> "Pricing risk does not remove it";
   "MOC - HistorEE" -> "Primary against secondary coding workflow - three arms, reveal, application";
@@ -4237,6 +4242,18 @@ digraph vault {
   "Polonio on the Barcelona maritime comandas 1349-1450" -> "MOC - HistorEE";
   "Polonio on the Barcelona maritime comandas 1349-1450" -> "MOC - Spanish archives";
   "Polonio on the Barcelona maritime comandas 1349-1450" -> "The Catalan maritime comanda puts the whole capital loss on the investor";
+  "Pooling approaches the infinite ensemble and perpetual succession the infinite horizon" -> "Absorbing barrier";
+  "Pooling approaches the infinite ensemble and perpetual succession the infinite horizon" -> "Kuran's brake is a refusal of immortal entities";
+  "Pooling approaches the infinite ensemble and perpetual succession the infinite horizon" -> "MOC - Entity-shielding and corporate forms";
+  "Pooling approaches the infinite ensemble and perpetual succession the infinite horizon" -> "MOC - Ergodicity and the time-ensemble distinction";
+  "Pooling approaches the infinite ensemble and perpetual succession the infinite horizon" -> "MOC - HistorEE";
+  "Pooling approaches the infinite ensemble and perpetual succession the infinite horizon" -> "The corporation is not the omega - the naties are an undisplaced niche";
+  "Pooling approaches the infinite ensemble and perpetual succession the infinite horizon" -> "The ensemble average is the local descriptor of a barrier-shielded agent";
+  "Pooling approaches the infinite ensemble and perpetual succession the infinite horizon" -> "The expectation value describes a pool that re-shares not a population";
+  "Pooling approaches the infinite ensemble and perpetual succession the infinite horizon" -> "The fictive household supplied partition and perpetuity without legal personality";
+  "Pooling approaches the infinite ensemble and perpetual succession the infinite horizon" -> "The real cut is shielded-and-pooled versus unshielded";
+  "Pooling approaches the infinite ensemble and perpetual succession the infinite horizon" -> "The waqf and the nación flamenca diverge only at legal personality";
+  "Pooling approaches the infinite ensemble and perpetual succession the infinite horizon" -> "Whiggish history of finance names the ascent narrative";
   "Pooling's sign is set by the correlation of its baskets" -> "Absorbing barrier";
   "Pooling's sign is set by the correlation of its baskets" -> "Entity-shielding";
   "Pooling's sign is set by the correlation of its baskets" -> "Jensen gap";
@@ -5561,6 +5578,7 @@ digraph vault {
   "The expectation value describes a pool that re-shares not a population" -> "MOC - Ergodicity and the time-ensemble distinction";
   "The expectation value describes a pool that re-shares not a population" -> "MOC - HistorEE";
   "The expectation value describes a pool that re-shares not a population" -> "MOC - Risk-sharing vs risk-pricing";
+  "The expectation value describes a pool that re-shares not a population" -> "Pooling approaches the infinite ensemble and perpetual succession the infinite horizon";
   "The expectation value describes a pool that re-shares not a population" -> "Pooling's sign is set by the correlation of its baskets";
   "The expectation value describes a pool that re-shares not a population" -> "Practice answers the problem as posed and the proof says which problem that was";
   "The expectation value describes a pool that re-shares not a population" -> "The ensemble average is the local descriptor of a barrier-shielded agent";

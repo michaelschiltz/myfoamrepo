@@ -42,6 +42,7 @@ Does he treat the partial ensemble average without sharing and the pool with sha
 - [[Extending a pool along kin proximity buys N without buying decorrelation]]
 - [[Practice answers the problem as posed and the proof says which problem that was]]
 - [[Cooperation is an averaging puzzle and sovereign repayment is a barrier puzzle]]
+- [[Pooling approaches the infinite ensemble and perpetual succession the infinite horizon]]
 - [[Jensen gap]]
 - [[Time-average]]
 - [[MOC - Ergodicity and the time-ensemble distinction]]

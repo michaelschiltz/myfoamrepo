@@ -23,6 +23,7 @@ Guard the inverse error. The claim is *not* that the Islamic settlement was bett
 - [[Lock-in and outcome-coupling are distinct bindings]]
 - [[The mudaraba is revocable not locked in]]
 - [[Guard against reverse-teleology]]
+- [[Pooling approaches the infinite ensemble and perpetual succession the infinite horizon]]
 - [[The ascent narrative is the Jensen error as historiography]]
 - [[MOC - Historiography and method]]
 - [[MOC - HistorEE]]
