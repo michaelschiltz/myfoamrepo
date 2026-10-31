@@ -18,6 +18,7 @@ Thematic hub for the instrument axis: risk-*sharing* forms that keep every party
 - [[Pricing risk does not remove it]]
 - [[Pooling's sign is set by the correlation of its baskets]]
 - [[The hexagon is optimal only among neighbours]]
+- [[The expectation value describes a pool that re-shares not a population]]
 - [[The tontine is pooling in form and dispersal in function]]
 - [[The bidding ko transfers from the liquidity-constrained to the liquid]]
 - [[Warichi re-randomises after absorption rather than diversifying]]

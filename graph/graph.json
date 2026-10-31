@@ -1112,7 +1112,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Cooperation is an averaging puzzle and sovereign repayment is a barrier puzzle",
-      "value": 35,
+      "value": 36,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1481,7 +1481,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Extending a pool along kin proximity buys N without buying decorrelation",
-      "value": 17,
+      "value": 19,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -2156,7 +2156,7 @@
       "type": "permanent",
       "group": "stub",
       "label": "Jensen gap",
-      "value": 33,
+      "value": 35,
       "color": "#666666",
       "shape": "dot"
     },
@@ -2939,7 +2939,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Pooling's sign is set by the correlation of its baskets",
-      "value": 57,
+      "value": 59,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -2948,7 +2948,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Practice answers the problem as posed and the proof says which problem that was",
-      "value": 27,
+      "value": 30,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -4433,7 +4433,16 @@
       "type": "permanent",
       "group": "seed",
       "label": "The ensemble average is the local descriptor of a barrier-shielded agent",
-      "value": 26,
+      "value": 29,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "The expectation value describes a pool that re-shares not a population",
+      "type": "permanent",
+      "group": "seed",
+      "label": "The expectation value describes a pool that re-shares not a population",
+      "value": 21,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -4937,7 +4946,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Time-average",
-      "value": 47,
+      "value": 48,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -5342,7 +5351,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Ergodicity and the time-ensemble distinction",
-      "value": 185,
+      "value": 187,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -5387,7 +5396,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - HistorEE",
-      "value": 495,
+      "value": 497,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -5459,7 +5468,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Risk-sharing vs risk-pricing",
-      "value": 210,
+      "value": 212,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -15179,6 +15188,10 @@
     },
     {
       "from": "MOC - Ergodicity and the time-ensemble distinction",
+      "to": "The expectation value describes a pool that re-shares not a population"
+    },
+    {
+      "from": "MOC - Ergodicity and the time-ensemble distinction",
       "to": "The growth-rate criterion is asymptotic and the horizon comparison cuts both ways"
     },
     {
@@ -16384,6 +16397,10 @@
     {
       "from": "MOC - HistorEE",
       "to": "The ensemble average is the local descriptor of a barrier-shielded agent"
+    },
+    {
+      "from": "MOC - HistorEE",
+      "to": "The expectation value describes a pool that re-shares not a population"
     },
     {
       "from": "MOC - HistorEE",
@@ -17916,6 +17933,10 @@
     {
       "from": "MOC - Risk-sharing vs risk-pricing",
       "to": "The determinate-contingent typology carries the richness"
+    },
+    {
+      "from": "MOC - Risk-sharing vs risk-pricing",
+      "to": "The expectation value describes a pool that re-shares not a population"
     },
     {
       "from": "MOC - Risk-sharing vs risk-pricing",
@@ -20088,6 +20109,10 @@
     {
       "from": "Practice answers the problem as posed and the proof says which problem that was",
       "to": "The ensemble average is the local descriptor of a barrier-shielded agent"
+    },
+    {
+      "from": "Practice answers the problem as posed and the proof says which problem that was",
+      "to": "The expectation value describes a pool that re-shares not a population"
     },
     {
       "from": "Practice answers the problem as posed and the proof says which problem that was",
@@ -25267,7 +25292,51 @@
     },
     {
       "from": "The ensemble average is the local descriptor of a barrier-shielded agent",
+      "to": "The expectation value describes a pool that re-shares not a population"
+    },
+    {
+      "from": "The ensemble average is the local descriptor of a barrier-shielded agent",
       "to": "The real cut is shielded-and-pooled versus unshielded"
+    },
+    {
+      "from": "The expectation value describes a pool that re-shares not a population",
+      "to": "Cooperation is an averaging puzzle and sovereign repayment is a barrier puzzle"
+    },
+    {
+      "from": "The expectation value describes a pool that re-shares not a population",
+      "to": "Extending a pool along kin proximity buys N without buying decorrelation"
+    },
+    {
+      "from": "The expectation value describes a pool that re-shares not a population",
+      "to": "Jensen gap"
+    },
+    {
+      "from": "The expectation value describes a pool that re-shares not a population",
+      "to": "MOC - Ergodicity and the time-ensemble distinction"
+    },
+    {
+      "from": "The expectation value describes a pool that re-shares not a population",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "The expectation value describes a pool that re-shares not a population",
+      "to": "MOC - Risk-sharing vs risk-pricing"
+    },
+    {
+      "from": "The expectation value describes a pool that re-shares not a population",
+      "to": "Pooling's sign is set by the correlation of its baskets"
+    },
+    {
+      "from": "The expectation value describes a pool that re-shares not a population",
+      "to": "Practice answers the problem as posed and the proof says which problem that was"
+    },
+    {
+      "from": "The expectation value describes a pool that re-shares not a population",
+      "to": "The ensemble average is the local descriptor of a barrier-shielded agent"
+    },
+    {
+      "from": "The expectation value describes a pool that re-shares not a population",
+      "to": "Time-average"
     },
     {
       "from": "The fictive household supplied partition and perpetuity without legal personality",

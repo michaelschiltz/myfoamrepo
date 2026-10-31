@@ -22,6 +22,7 @@ So economics is the self-description of a civilization that engineered barrier-a
 - [[The real cut is shielded-and-pooled versus unshielded]]
 - [[Absorbing barrier]]
 - [[Entity-shielding]]
+- [[The expectation value describes a pool that re-shares not a population]]
 - [[MOC - Ergodicity and the time-ensemble distinction]]
 - [[MOC - Entity-shielding and corporate forms]]
 - [[MOC - HistorEE]]

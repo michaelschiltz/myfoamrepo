@@ -494,6 +494,7 @@ digraph vault {
   "The durable-and-coupled cell is the underexplored one" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "The eight thousand sacks - the Grand Secretariat archives sold as waste paper" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
   "The ensemble average is the local descriptor of a barrier-shielded agent" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
+  "The expectation value describes a pool that re-shares not a population" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "The fictive household supplied partition and perpetuity without legal personality" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "The four-step decoupling from participation to the veil" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "The fraterna and compagnia diverge in formation but converge at the barrier" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
@@ -3026,6 +3027,7 @@ digraph vault {
   "MOC - Ergodicity and the time-ensemble distinction" -> "The Nakai ledger scores as losses what present value scores as gains";
   "MOC - Ergodicity and the time-ensemble distinction" -> "The Wakker counterexample refutes expected log utility too";
   "MOC - Ergodicity and the time-ensemble distinction" -> "The ensemble average is the local descriptor of a barrier-shielded agent";
+  "MOC - Ergodicity and the time-ensemble distinction" -> "The expectation value describes a pool that re-shares not a population";
   "MOC - Ergodicity and the time-ensemble distinction" -> "The growth-rate criterion is asymptotic and the horizon comparison cuts both ways";
   "MOC - Ergodicity and the time-ensemble distinction" -> "The market selection literature is the project's nearest formal neighbour";
   "MOC - Ergodicity and the time-ensemble distinction" -> "The published critique never engages absorption";
@@ -3328,6 +3330,7 @@ digraph vault {
   "MOC - HistorEE" -> "The determinate-contingent typology carries the richness";
   "MOC - HistorEE" -> "The double refusal of the sea loan is evidence about the filter not about independence";
   "MOC - HistorEE" -> "The ensemble average is the local descriptor of a barrier-shielded agent";
+  "MOC - HistorEE" -> "The expectation value describes a pool that re-shares not a population";
   "MOC - HistorEE" -> "The four-step decoupling from participation to the veil";
   "MOC - HistorEE" -> "The growth-rate criterion is asymptotic and the horizon comparison cuts both ways";
   "MOC - HistorEE" -> "The heter iska restores the fixed return by evidentiary barrier";
@@ -3711,6 +3714,7 @@ digraph vault {
   "MOC - Risk-sharing vs risk-pricing" -> "The commenda family fixes the allocation of loss and proves it by the agent's oath";
   "MOC - Risk-sharing vs risk-pricing" -> "The contingent asiento is a missing form in loss_mitigation_forms";
   "MOC - Risk-sharing vs risk-pricing" -> "The determinate-contingent typology carries the richness";
+  "MOC - Risk-sharing vs risk-pricing" -> "The expectation value describes a pool that re-shares not a population";
   "MOC - Risk-sharing vs risk-pricing" -> "The general-particular boundary is unverifiable and its leakage subsidises sailing";
   "MOC - Risk-sharing vs risk-pricing" -> "The heter iska restores the fixed return by evidentiary barrier";
   "MOC - Risk-sharing vs risk-pricing" -> "The hexagon is optimal only among neighbours";
@@ -4254,6 +4258,7 @@ digraph vault {
   "Practice answers the problem as posed and the proof says which problem that was" -> "Refusals are observations of the filter not inferences from survivors";
   "Practice answers the problem as posed and the proof says which problem that was" -> "Taleb reads survival as evidence about the survivor and we read it as evidence about the filter";
   "Practice answers the problem as posed and the proof says which problem that was" -> "The ensemble average is the local descriptor of a barrier-shielded agent";
+  "Practice answers the problem as posed and the proof says which problem that was" -> "The expectation value describes a pool that re-shares not a population";
   "Practice answers the problem as posed and the proof says which problem that was" -> "The hexagon is optimal only among neighbours";
   "Practice answers the problem as posed and the proof says which problem that was" -> "The optimum does not identify the route that reached it";
   "Practice answers the problem as posed and the proof says which problem that was" -> "Time-average optimization is a survivorship property not an intention";
@@ -5548,7 +5553,18 @@ digraph vault {
   "The ensemble average is the local descriptor of a barrier-shielded agent" -> "MOC - Ergodicity and the time-ensemble distinction";
   "The ensemble average is the local descriptor of a barrier-shielded agent" -> "MOC - HistorEE";
   "The ensemble average is the local descriptor of a barrier-shielded agent" -> "Separate the sociological and the methodological claims about economics";
+  "The ensemble average is the local descriptor of a barrier-shielded agent" -> "The expectation value describes a pool that re-shares not a population";
   "The ensemble average is the local descriptor of a barrier-shielded agent" -> "The real cut is shielded-and-pooled versus unshielded";
+  "The expectation value describes a pool that re-shares not a population" -> "Cooperation is an averaging puzzle and sovereign repayment is a barrier puzzle";
+  "The expectation value describes a pool that re-shares not a population" -> "Extending a pool along kin proximity buys N without buying decorrelation";
+  "The expectation value describes a pool that re-shares not a population" -> "Jensen gap";
+  "The expectation value describes a pool that re-shares not a population" -> "MOC - Ergodicity and the time-ensemble distinction";
+  "The expectation value describes a pool that re-shares not a population" -> "MOC - HistorEE";
+  "The expectation value describes a pool that re-shares not a population" -> "MOC - Risk-sharing vs risk-pricing";
+  "The expectation value describes a pool that re-shares not a population" -> "Pooling's sign is set by the correlation of its baskets";
+  "The expectation value describes a pool that re-shares not a population" -> "Practice answers the problem as posed and the proof says which problem that was";
+  "The expectation value describes a pool that re-shares not a population" -> "The ensemble average is the local descriptor of a barrier-shielded agent";
+  "The expectation value describes a pool that re-shares not a population" -> "Time-average";
   "The fictive household supplied partition and perpetuity without legal personality" -> "Entity shielding and owner shielding protect different trajectories";
   "The fictive household supplied partition and perpetuity without legal personality" -> "Entity-shielding";
   "The fictive household supplied partition and perpetuity without legal personality" -> "Harris 2020 on the late plurality of limited liability";
