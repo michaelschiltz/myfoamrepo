@@ -4244,6 +4244,7 @@ digraph vault {
   "Pooling's sign is set by the correlation of its baskets" -> "The real cut is shielded-and-pooled versus unshielded";
   "Pooling's sign is set by the correlation of its baskets" -> "Time-average";
   "Practice answers the problem as posed and the proof says which problem that was" -> "An absorbing barrier breaks ergodicity by construction";
+  "Practice answers the problem as posed and the proof says which problem that was" -> "Cooperation is an averaging puzzle and sovereign repayment is a barrier puzzle";
   "Practice answers the problem as posed and the proof says which problem that was" -> "Economics had its ensemble moment in 1738 and psychologized it";
   "Practice answers the problem as posed and the proof says which problem that was" -> "Hales 2001 - the honeycomb theorem and the architecture of its proof";
   "Practice answers the problem as posed and the proof says which problem that was" -> "MOC - Defending the ergodicity claim";
@@ -4252,6 +4253,7 @@ digraph vault {
   "Practice answers the problem as posed and the proof says which problem that was" -> "Rationality is a property of the policy not of the belief that produces it";
   "Practice answers the problem as posed and the proof says which problem that was" -> "Refusals are observations of the filter not inferences from survivors";
   "Practice answers the problem as posed and the proof says which problem that was" -> "Taleb reads survival as evidence about the survivor and we read it as evidence about the filter";
+  "Practice answers the problem as posed and the proof says which problem that was" -> "The ensemble average is the local descriptor of a barrier-shielded agent";
   "Practice answers the problem as posed and the proof says which problem that was" -> "The hexagon is optimal only among neighbours";
   "Practice answers the problem as posed and the proof says which problem that was" -> "The optimum does not identify the route that reached it";
   "Practice answers the problem as posed and the proof says which problem that was" -> "Time-average optimization is a survivorship property not an intention";

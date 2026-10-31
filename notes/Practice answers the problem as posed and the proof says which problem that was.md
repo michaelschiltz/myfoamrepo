@@ -28,6 +28,12 @@ Expected-value economics is the thin-wall model. It evaluates a gamble over an e
 
 The lag has the same anatomy too. Fejes Tóth could prove the planar case in 1943 only by assuming convex cells, which excluded the curved-walled candidates isoperimetry marks as dangerous; Hales's proof is the removal of that assumption. Economics could analyse risk tractably by assuming ergodicity, which excluded the trajectories that end at the barrier. In both cases the convenient assumption removed precisely the cases that carried the content, and the long interval between practice and proof measures the difficulty of dropping it — not the superiority of practice.
 
+## An idealisation is harmless only where the optimum is continuous in what it idealises away
+
+Weaire and Phelan's switch was abrupt. As the films thickened, the interface did not drift from Fejes Tóth's base toward the bees'; it jumped. The zero-thickness model is therefore not an approximation that improves as walls thin. It is a different problem, whose optimum the real one never approaches. **An idealisation is innocent only when the optimum varies continuously in the parameter it removes; where it varies discontinuously, the idealised answer is not nearly right but the answer to another question.** That is a sharper charge against the Platonic set-up than unrealism, and one a mathematical referee will accept.
+
+The ensemble average fails the test differently, and the difference strengthens the argument. It is not a fiction of the zero-thickness kind: for $N$ agents pooling multiplicative returns, the time-average growth rate of each share rises continuously toward the ensemble rate as $N$ grows — in the simplest geometric-Brownian case the volatility drag falls from $\sigma^2/2$ to roughly $\sigma^2/2N$ (Peters and Adamou [verify reference and exact form]). **The ensemble average is the limit of a real process, and the process is cooperation.** Expected-value economics did not invent a false optimum; it took the asymptote of full pooling and ascribed it to the solitary agent, who never reaches it. It is the correct description of a pooled and shielded agent misapplied to an unpooled one ([[The ensemble average is the local descriptor of a barrier-shielded agent]]). The polemical consequence: the orthodox model silently presupposes the institutions it then classifies as anomalies.
+
 ## The sentence the proposal can use, and the one it cannot
 
 **Usable:** a practice that persisted across many environments is evidence about which problem was being solved, and a formalism that convicts it of irrationality must first be checked for a mis-specified constraint. This is forward, falsifiable, and cognate with [[Rationality is a property of the policy not of the belief that produces it]], whose conclusion it shares: the primacy of practice is a consequence of the dynamic, not an epistemology.
@@ -44,10 +50,12 @@ The lag has the same anatomy too. Fejes Tóth could prove the planar case in 194
 - [[Time-average optimization is a survivorship property not an intention]]
 - [[Taleb reads survival as evidence about the survivor and we read it as evidence about the filter]]
 - [[An absorbing barrier breaks ergodicity by construction]]
+- [[The ensemble average is the local descriptor of a barrier-shielded agent]]
+- [[Cooperation is an averaging puzzle and sovereign repayment is a barrier puzzle]]
 - [[MOC - Ergodicity and the time-ensemble distinction]]
 - [[MOC - Defending the ergodicity claim]]
 - [[MOC - HistorEE]]
 
 ## Source
 
-Honeycomb-theorem session, 31 October 2026. MS proposed the lesson that action, process and evolution are prior to and more fundamental than proof, the time average having been formalised only after centuries of cooperative practice. The note keeps the priority and recasts its warrant.
+Honeycomb-theorem session, 31 October 2026. MS proposed the lesson that action, process and evolution are prior to and more fundamental than proof, the time average having been formalised only after centuries of cooperative practice. The note keeps the priority and recasts its warrant. The discontinuity test and the reading of the ensemble average as the pooling limit were added in follow-up discussion the same day.

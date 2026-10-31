@@ -1112,7 +1112,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Cooperation is an averaging puzzle and sovereign repayment is a barrier puzzle",
-      "value": 34,
+      "value": 35,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -2948,7 +2948,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Practice answers the problem as posed and the proof says which problem that was",
-      "value": 24,
+      "value": 27,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -4433,7 +4433,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The ensemble average is the local descriptor of a barrier-shielded agent",
-      "value": 24,
+      "value": 26,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -20051,6 +20051,10 @@
     },
     {
       "from": "Practice answers the problem as posed and the proof says which problem that was",
+      "to": "Cooperation is an averaging puzzle and sovereign repayment is a barrier puzzle"
+    },
+    {
+      "from": "Practice answers the problem as posed and the proof says which problem that was",
       "to": "Economics had its ensemble moment in 1738 and psychologized it"
     },
     {
@@ -20080,6 +20084,10 @@
     {
       "from": "Practice answers the problem as posed and the proof says which problem that was",
       "to": "Taleb reads survival as evidence about the survivor and we read it as evidence about the filter"
+    },
+    {
+      "from": "Practice answers the problem as posed and the proof says which problem that was",
+      "to": "The ensemble average is the local descriptor of a barrier-shielded agent"
     },
     {
       "from": "Practice answers the problem as posed and the proof says which problem that was",
