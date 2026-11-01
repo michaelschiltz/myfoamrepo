@@ -1081,6 +1081,15 @@
       "shape": "dot"
     },
     {
+      "id": "Comanda coding collated with the editors' study 2026-11-01",
+      "type": "reference",
+      "group": "reference",
+      "label": "Comanda coding collated with the editors' study 2026-11-01",
+      "value": 9,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
       "id": "Comanda names several contracts in the Catalan sources",
       "type": "permanent",
       "group": "seed",
@@ -1094,7 +1103,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Comanda primary pass coding and adjudication 2026-10-27",
-      "value": 26,
+      "value": 27,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -3587,7 +3596,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Split provenance into priority and independence",
-      "value": 38,
+      "value": 39,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -5351,7 +5360,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Entity-shielding and corporate forms",
-      "value": 145,
+      "value": 147,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -5405,7 +5414,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - HistorEE",
-      "value": 499,
+      "value": 501,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -5531,7 +5540,7 @@
       "type": "database",
       "group": "database",
       "label": "organizational_forms",
-      "value": 38,
+      "value": 39,
       "color": "#a6761d",
       "shape": "database"
     },
@@ -5540,7 +5549,7 @@
       "type": "database",
       "group": "database",
       "label": "loss_mitigation_forms",
-      "value": 63,
+      "value": 64,
       "color": "#a6761d",
       "shape": "database"
     },
@@ -9138,6 +9147,30 @@
     {
       "from": "Comanda capital was mixed with the agent's own unless the contract said otherwise",
       "to": "The Consolat de Mar comanda chapters"
+    },
+    {
+      "from": "Comanda coding collated with the editors' study 2026-11-01",
+      "to": "Comanda primary pass coding and adjudication 2026-10-27"
+    },
+    {
+      "from": "Comanda coding collated with the editors' study 2026-11-01",
+      "to": "MOC - Entity-shielding and corporate forms"
+    },
+    {
+      "from": "Comanda coding collated with the editors' study 2026-11-01",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Comanda coding collated with the editors' study 2026-11-01",
+      "to": "Split provenance into priority and independence"
+    },
+    {
+      "from": "Comanda coding collated with the editors' study 2026-11-01",
+      "to": "loss_mitigation_forms"
+    },
+    {
+      "from": "Comanda coding collated with the editors' study 2026-11-01",
+      "to": "organizational_forms"
     },
     {
       "from": "Comanda names several contracts in the Catalan sources",
@@ -14733,6 +14766,10 @@
     },
     {
       "from": "MOC - Entity-shielding and corporate forms",
+      "to": "Comanda coding collated with the editors' study 2026-11-01"
+    },
+    {
+      "from": "MOC - Entity-shielding and corporate forms",
       "to": "Comanda primary pass coding and adjudication 2026-10-27"
     },
     {
@@ -15946,6 +15983,10 @@
     {
       "from": "MOC - HistorEE",
       "to": "Blind re-coding workflow - operator, coder, application"
+    },
+    {
+      "from": "MOC - HistorEE",
+      "to": "Comanda coding collated with the editors' study 2026-11-01"
     },
     {
       "from": "MOC - HistorEE",

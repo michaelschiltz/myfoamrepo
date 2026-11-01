@@ -121,6 +121,7 @@ digraph vault {
   "Chinese genealogies - Shanghai Library and FamilySearch" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
   "Chit funds and kuri - a living rotating association with no historical archive" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
   "Comanda capital was mixed with the agent's own unless the contract said otherwise" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
+  "Comanda coding collated with the editors' study 2026-11-01" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
   "Comanda names several contracts in the Catalan sources" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Comanda primary pass coding and adjudication 2026-10-27" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
   "Consulado de Burgos - the universidad de mercaderes" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
@@ -1514,6 +1515,12 @@ digraph vault {
   "Comanda capital was mixed with the agent's own unless the contract said otherwise" -> "MOC - Entity-shielding and corporate forms";
   "Comanda capital was mixed with the agent's own unless the contract said otherwise" -> "MOC - HistorEE";
   "Comanda capital was mixed with the agent's own unless the contract said otherwise" -> "The Consolat de Mar comanda chapters";
+  "Comanda coding collated with the editors' study 2026-11-01" -> "Comanda primary pass coding and adjudication 2026-10-27";
+  "Comanda coding collated with the editors' study 2026-11-01" -> "MOC - Entity-shielding and corporate forms";
+  "Comanda coding collated with the editors' study 2026-11-01" -> "MOC - HistorEE";
+  "Comanda coding collated with the editors' study 2026-11-01" -> "Split provenance into priority and independence";
+  "Comanda coding collated with the editors' study 2026-11-01" -> "loss_mitigation_forms";
+  "Comanda coding collated with the editors' study 2026-11-01" -> "organizational_forms";
   "Comanda names several contracts in the Catalan sources" -> "Fynn-Paul 2017 on the land commenda of Manresa";
   "Comanda names several contracts in the Catalan sources" -> "Garcia Sanz on the Vic commendas of the thirteenth century";
   "Comanda names several contracts in the Catalan sources" -> "MOC - HistorEE";
@@ -2912,6 +2919,7 @@ digraph vault {
   "MOC - Entity-shielding and corporate forms" -> "Absorption is a path-dependence mechanism distinct from reinforcement";
   "MOC - Entity-shielding and corporate forms" -> "Arthur's lock-in and capital lock-in are different objects";
   "MOC - Entity-shielding and corporate forms" -> "Barcelona law kept the commendatary's creditors off the comanda goods";
+  "MOC - Entity-shielding and corporate forms" -> "Comanda coding collated with the editors' study 2026-11-01";
   "MOC - Entity-shielding and corporate forms" -> "Comanda primary pass coding and adjudication 2026-10-27";
   "MOC - Entity-shielding and corporate forms" -> "Decoupling substitutes proxy legibility for outcome legibility";
   "MOC - Entity-shielding and corporate forms" -> "Entitlement by liability versus entitlement by membership";
@@ -3216,6 +3224,7 @@ digraph vault {
   "MOC - HistorEE" -> "Bad luck is what the ensemble average calls the modal trajectory";
   "MOC - HistorEE" -> "Bilateral names two different loss rules in Genoa and Catalonia";
   "MOC - HistorEE" -> "Blind re-coding workflow - operator, coder, application";
+  "MOC - HistorEE" -> "Comanda coding collated with the editors' study 2026-11-01";
   "MOC - HistorEE" -> "Comanda primary pass coding and adjudication 2026-10-27";
   "MOC - HistorEE" -> "Cooperation is an averaging puzzle and sovereign repayment is a barrier puzzle";
   "MOC - HistorEE" -> "Count degrees of freedom not cells";

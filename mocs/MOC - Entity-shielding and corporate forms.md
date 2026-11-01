@@ -94,6 +94,7 @@ Thematic hub for the corporate-form apparatus: asset-partitioning, identity-wrap
 ## Added 2026-10-27
 
 - [[Comanda primary pass coding and adjudication 2026-10-27]] — 43 comanda cells coded blind from the Barcelona acts and adjudicated: `LP2` and `LR4` brought into line with the commenda family, `CI1` none, `CI3` P (the investor's rights pass by cession, the agent's not without consent); verification still rests on the Consolat alone
+- [[Comanda coding collated with the editors' study 2026-11-01]] — the editor's own study read from the page images against the comanda coding: four coded years at odds with him, an unread fixed fee on capital from 1426 against `LR2`, the agent-bears acts read as exchanges, doc 255 a *comanda-seguro*; no value changed
 
 ## Added 2026-10-31
 
