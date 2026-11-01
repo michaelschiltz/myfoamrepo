@@ -37,7 +37,7 @@ No value, confidence or articulation. Dated notes on eight cells on MS's licence
 
 ## Open
 
-- **Two questions for MS, ruled as recommended on 2026-11-01** (collation, *For MS's decision*): D1, the 48 abbreviated acts and doc 240 stay with neither row, the convention recorded in the `CF2` note; D2, doc 252 stays as coded until its page image is read, open on that act.
+- **Two questions for MS, ruled as recommended on 2026-11-01** (collation, *For MS's decision*): D1, the 48 abbreviated acts and doc 240 stay with neither row, the convention recorded in the `CF2` note; D2, doc 252 stays as coded until its page image is read. **D2 closed the same day:** the page image shows no clause allocating loss, so the census stands and the editor's citation of the act falls (`records/COLLATION-madurell-D2-doc252-2026-11-01.md`); the edition's heading also reverses the parties.
 - **Page images, first:** docs 17, 178, 251, 255; 3; 93, 191; 240, 252; 214, 238.
 - **Whether the OCR layer truncates lines** or only the Zotero connector's rendering does: untested.
 - **The Latin part of the translation test**, docs 1-255, read from the images, is the means to close the list above.
