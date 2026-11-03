@@ -16,9 +16,14 @@ When coding from a printed primary edition, a clause the PDF text layer shows is
 
 The comanda pass coded Madurell Marimón & García Sanz 1973 from the text layer on 2026-10-27. The full reading of the page images on 2026-11-03 corrected it ([[Comanda records corrected from the Madurell translation 2026-11-03]]).
 
-- **The layer damaged the verbatim fields.** It produced 56 wrong or truncated amounts of 115, mostly a leading number word lost at a line break: doc 204 read 1 lb for 851 lb. It also lost 52 date lines, 60 declarants and 29 destinations, and left OCR forms in quotations flagged clean.
+- **The verbatim fields were damaged, but not by the layer.** 56 amounts of 115 were wrong or truncated (doc 204 read 1 lb for 851 lb), and 52 date lines, 60 declarants and 29 destinations were left empty. **[Corrected 2026-11-03:** first blamed on the layer. The coder's source text holds the full amount in 54 of the 56; a field extraction that kept only the number word next to the unit lost them.**]** The layer's own faults in the record are OCR forms in quotations flagged clean.
 - **None of that moved a cell**, because no cell drew on those fields. A few cell quotations were damaged.
+- **The layer does lose text, in blocks and line tails.** Measured against the image transcriptions on four pages, it scores 92–97 % word recall on three and 81.6 % on one, where a 40-word block is gone. That block is doc 110's risk clause, which makes it exactly the absence this note warns about.
 - **What did move the census was not OCR.** A convention sent abbreviated clauses to the neither row. A notary's full series shows that every written-out clause names the investor, and the corrected reading decided 60 of 202 acts. Misreadings of correct text did the rest: roles taken from a reversed editorial heading, a "sea" and a "surety" that are not in the deeds.
+
+## The OCR test
+
+Tested the same day (`records/OCR-TEST-madurell-venetian-2026-11-03.md`). On the Madurell pages, the `Latin` script model of `tessdata_best` scored 96.7–98.4 % against the layer's 81.6–97.0 %. On a Venetian page of the 150 ppi BEIC scan it scored 94.8 % against the layer's 89.0 %. The layer and a best-model re-run, both Tesseract, shared 23 wrong words of 362, so **a second Tesseract run is a correlated witness, not an independent one**.
 
 ## Consequences
 

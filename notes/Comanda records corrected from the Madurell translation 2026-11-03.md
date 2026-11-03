@@ -17,7 +17,7 @@ The Latin and Catalan acts of Madurell Marimón & García Sanz 1973 (docs 1-255)
 
 ## What kind of witness
 
-- **Independent on appearance.** The text layer the coder read dropped leading number words at line breaks: 56 amounts were wrong or truncated, doc 204 read 1 lb for 851 lb. It also dropped head date lines, declarants and destinations. On these the page image is the authority and the coding was not.
+- **Independent on appearance.** 56 amounts were wrong or truncated (doc 204 read 1 lb for 851 lb), and head date lines, declarants and destinations were left empty. On these the page image is the authority and the coding was not. **[Corrected 2026-11-03:** this was first blamed on the text layer. The coder's own source text holds the full amount in 54 of the 56 cases; the coding pass's field extraction lost them. See [[The OCR text layer evidences a clause's presence, not its absence]].**]**
 - **Not independent on assignment.** The form changes come from rulings, not from new evidence about any one act. A loss term that is abbreviated, implied by a salvage clause or incorporated by "simile" is read on the notary's own written-out clause. 27 of the 71 sample instances rest on such a reading, and every one is labelled in `loss_rule` so it can be switched off.
 
 ## What it found

@@ -1112,7 +1112,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Comanda records corrected from the Madurell translation 2026-11-03",
-      "value": 11,
+      "value": 12,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -4136,7 +4136,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The OCR text layer evidences a clause's presence, not its absence",
-      "value": 7,
+      "value": 8,
       "color": "#e6ab02",
       "shape": "dot"
     },
