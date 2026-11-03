@@ -41,6 +41,7 @@ No value, confidence or articulation. Dated notes on eight cells on MS's licence
 - **Page images, first:** docs 17, 178, 251, 255; 3; 93, 191; 240, 252; 214, 238.
 - **Whether the OCR layer truncates lines** or only the Zotero connector's rendering does: untested.
 - **The Latin part of the translation test**, docs 1-255, read from the images, is the means to close the list above.
+- **Superseded 2026-11-03:** D1 is replaced by the rulings D-ABBR, D-BELL, D-SALV and D-SIM, and the page-image list above is closed by the translation. See [[Comanda records corrected from the Madurell translation 2026-11-03]].
 
 ## Related
 

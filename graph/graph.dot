@@ -124,6 +124,7 @@ digraph vault {
   "Comanda coding collated with the editors' study 2026-11-01" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
   "Comanda names several contracts in the Catalan sources" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Comanda primary pass coding and adjudication 2026-10-27" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
+  "Comanda records corrected from the Madurell translation 2026-11-03" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
   "Consulado de Burgos - the universidad de mercaderes" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
   "Cooperation is an averaging puzzle and sovereign repayment is a barrier puzzle" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Count degrees of freedom not cells" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
@@ -1516,6 +1517,7 @@ digraph vault {
   "Comanda capital was mixed with the agent's own unless the contract said otherwise" -> "MOC - HistorEE";
   "Comanda capital was mixed with the agent's own unless the contract said otherwise" -> "The Consolat de Mar comanda chapters";
   "Comanda coding collated with the editors' study 2026-11-01" -> "Comanda primary pass coding and adjudication 2026-10-27";
+  "Comanda coding collated with the editors' study 2026-11-01" -> "Comanda records corrected from the Madurell translation 2026-11-03";
   "Comanda coding collated with the editors' study 2026-11-01" -> "MOC - Entity-shielding and corporate forms";
   "Comanda coding collated with the editors' study 2026-11-01" -> "MOC - HistorEE";
   "Comanda coding collated with the editors' study 2026-11-01" -> "Split provenance into priority and independence";
@@ -1544,6 +1546,12 @@ digraph vault {
   "Comanda primary pass coding and adjudication 2026-10-27" -> "The commenda family fixes the allocation of loss and proves it by the agent's oath";
   "Comanda primary pass coding and adjudication 2026-10-27" -> "loss_mitigation_forms";
   "Comanda primary pass coding and adjudication 2026-10-27" -> "organizational_forms";
+  "Comanda records corrected from the Madurell translation 2026-11-03" -> "Comanda coding collated with the editors' study 2026-11-01";
+  "Comanda records corrected from the Madurell translation 2026-11-03" -> "Comanda primary pass coding and adjudication 2026-10-27";
+  "Comanda records corrected from the Madurell translation 2026-11-03" -> "MOC - Entity-shielding and corporate forms";
+  "Comanda records corrected from the Madurell translation 2026-11-03" -> "MOC - HistorEE";
+  "Comanda records corrected from the Madurell translation 2026-11-03" -> "loss_mitigation_forms";
+  "Comanda records corrected from the Madurell translation 2026-11-03" -> "organizational_forms";
   "Consulado de Burgos - the universidad de mercaderes" -> "Archivo Foral de Bizkaia - the Consulado de Bilbao";
   "Consulado de Burgos - the universidad de mercaderes" -> "Identity-wrapper and perpetual-monopoly are distinct shielding facets";
   "Consulado de Burgos - the universidad de mercaderes" -> "MOC - Acquisitions and the antiquarian trade";

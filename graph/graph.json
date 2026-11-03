@@ -1085,7 +1085,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Comanda coding collated with the editors' study 2026-11-01",
-      "value": 9,
+      "value": 11,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1103,7 +1103,16 @@
       "type": "reference",
       "group": "reference",
       "label": "Comanda primary pass coding and adjudication 2026-10-27",
-      "value": 27,
+      "value": 28,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "Comanda records corrected from the Madurell translation 2026-11-03",
+      "type": "reference",
+      "group": "reference",
+      "label": "Comanda records corrected from the Madurell translation 2026-11-03",
+      "value": 8,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -5360,7 +5369,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Entity-shielding and corporate forms",
-      "value": 147,
+      "value": 148,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -5414,7 +5423,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - HistorEE",
-      "value": 501,
+      "value": 502,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -5540,7 +5549,7 @@
       "type": "database",
       "group": "database",
       "label": "organizational_forms",
-      "value": 39,
+      "value": 40,
       "color": "#a6761d",
       "shape": "database"
     },
@@ -5549,7 +5558,7 @@
       "type": "database",
       "group": "database",
       "label": "loss_mitigation_forms",
-      "value": 64,
+      "value": 65,
       "color": "#a6761d",
       "shape": "database"
     },
@@ -9154,6 +9163,10 @@
     },
     {
       "from": "Comanda coding collated with the editors' study 2026-11-01",
+      "to": "Comanda records corrected from the Madurell translation 2026-11-03"
+    },
+    {
+      "from": "Comanda coding collated with the editors' study 2026-11-01",
       "to": "MOC - Entity-shielding and corporate forms"
     },
     {
@@ -9262,6 +9275,30 @@
     },
     {
       "from": "Comanda primary pass coding and adjudication 2026-10-27",
+      "to": "organizational_forms"
+    },
+    {
+      "from": "Comanda records corrected from the Madurell translation 2026-11-03",
+      "to": "Comanda coding collated with the editors' study 2026-11-01"
+    },
+    {
+      "from": "Comanda records corrected from the Madurell translation 2026-11-03",
+      "to": "Comanda primary pass coding and adjudication 2026-10-27"
+    },
+    {
+      "from": "Comanda records corrected from the Madurell translation 2026-11-03",
+      "to": "MOC - Entity-shielding and corporate forms"
+    },
+    {
+      "from": "Comanda records corrected from the Madurell translation 2026-11-03",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Comanda records corrected from the Madurell translation 2026-11-03",
+      "to": "loss_mitigation_forms"
+    },
+    {
+      "from": "Comanda records corrected from the Madurell translation 2026-11-03",
       "to": "organizational_forms"
     },
     {
