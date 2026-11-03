@@ -1085,7 +1085,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Comanda coding collated with the editors' study 2026-11-01",
-      "value": 11,
+      "value": 12,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1112,7 +1112,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Comanda records corrected from the Madurell translation 2026-11-03",
-      "value": 8,
+      "value": 11,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -2273,7 +2273,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Kuzushiji OCR - the NDL and CODH stack",
-      "value": 22,
+      "value": 23,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -4132,6 +4132,15 @@
       "shape": "dot"
     },
     {
+      "id": "The OCR text layer evidences a clause's presence, not its absence",
+      "type": "permanent",
+      "group": "seed",
+      "label": "The OCR text layer evidences a clause's presence, not its absence",
+      "value": 7,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
       "id": "The Otani dispersal - Kyoto, Tokyo, Lushun, Seoul",
       "type": "reference",
       "group": "reference",
@@ -5423,7 +5432,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - HistorEE",
-      "value": 502,
+      "value": 503,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -9292,6 +9301,10 @@
     {
       "from": "Comanda records corrected from the Madurell translation 2026-11-03",
       "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Comanda records corrected from the Madurell translation 2026-11-03",
+      "to": "The OCR text layer evidences a clause's presence, not its absence"
     },
     {
       "from": "Comanda records corrected from the Madurell translation 2026-11-03",
@@ -24140,6 +24153,22 @@
     {
       "from": "The Nordic thinness - what is actually missing",
       "to": "The deficit reading of absence is the scalar ranking in evidentiary form"
+    },
+    {
+      "from": "The OCR text layer evidences a clause's presence, not its absence",
+      "to": "Comanda coding collated with the editors' study 2026-11-01"
+    },
+    {
+      "from": "The OCR text layer evidences a clause's presence, not its absence",
+      "to": "Comanda records corrected from the Madurell translation 2026-11-03"
+    },
+    {
+      "from": "The OCR text layer evidences a clause's presence, not its absence",
+      "to": "Kuzushiji OCR - the NDL and CODH stack"
+    },
+    {
+      "from": "The OCR text layer evidences a clause's presence, not its absence",
+      "to": "MOC - HistorEE"
     },
     {
       "from": "The Otani dispersal - Kyoto, Tokyo, Lushun, Seoul",

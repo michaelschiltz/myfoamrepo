@@ -47,6 +47,7 @@ Records only, plus logbooks 2, 4 and 5 and the CHANGELOG of 2026-11-03. No `data
 
 ## Related
 
+- [[The OCR text layer evidences a clause's presence, not its absence]]
 - [[Comanda coding collated with the editors' study 2026-11-01]]
 - [[Comanda primary pass coding and adjudication 2026-10-27]]
 - [[MOC - Entity-shielding and corporate forms]]

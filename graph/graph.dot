@@ -460,6 +460,7 @@ digraph vault {
   "The Nakai ledger scores as losses what present value scores as gains" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "The National Archives - Kew" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
   "The Nordic thinness - what is actually missing" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
+  "The OCR text layer evidences a clause's presence, not its absence" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "The Otani dispersal - Kyoto, Tokyo, Lushun, Seoul" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
   "The Ottoman documents at Dubrovnik" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
   "The Prize Papers - HCA 32 and the German money" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
@@ -1550,6 +1551,7 @@ digraph vault {
   "Comanda records corrected from the Madurell translation 2026-11-03" -> "Comanda primary pass coding and adjudication 2026-10-27";
   "Comanda records corrected from the Madurell translation 2026-11-03" -> "MOC - Entity-shielding and corporate forms";
   "Comanda records corrected from the Madurell translation 2026-11-03" -> "MOC - HistorEE";
+  "Comanda records corrected from the Madurell translation 2026-11-03" -> "The OCR text layer evidences a clause's presence, not its absence";
   "Comanda records corrected from the Madurell translation 2026-11-03" -> "loss_mitigation_forms";
   "Comanda records corrected from the Madurell translation 2026-11-03" -> "organizational_forms";
   "Consulado de Burgos - the universidad de mercaderes" -> "Archivo Foral de Bizkaia - the Consulado de Bilbao";
@@ -5262,6 +5264,10 @@ digraph vault {
   "The Nordic thinness - what is actually missing" -> "Stora Kopparberg - the 1288 share";
   "The Nordic thinness - what is actually missing" -> "The Sound Toll Registers";
   "The Nordic thinness - what is actually missing" -> "The deficit reading of absence is the scalar ranking in evidentiary form";
+  "The OCR text layer evidences a clause's presence, not its absence" -> "Comanda coding collated with the editors' study 2026-11-01";
+  "The OCR text layer evidences a clause's presence, not its absence" -> "Comanda records corrected from the Madurell translation 2026-11-03";
+  "The OCR text layer evidences a clause's presence, not its absence" -> "Kuzushiji OCR - the NDL and CODH stack";
+  "The OCR text layer evidences a clause's presence, not its absence" -> "MOC - HistorEE";
   "The Otani dispersal - Kyoto, Tokyo, Lushun, Seoul" -> "Japanese archives - custody follows the house";
   "The Otani dispersal - Kyoto, Tokyo, Lushun, Seoul" -> "MOC - Silk Road archives";
   "The Otani dispersal - Kyoto, Tokyo, Lushun, Seoul" -> "Ryukoku University and the Otani collection";
