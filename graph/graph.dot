@@ -131,6 +131,7 @@ digraph vault {
   "Croatian archives online - ARHiNET and the access layer" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
   "DHARMA - an ERC Synergy project that produced a TEI corpus of inscriptions" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
   "Danxin archives - National Taiwan University" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
+  "Darwin's bee series is a space-for-time substitution that licenses possibility not pathway" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Decoupling substitutes proxy legibility for outcome legibility" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Deep-roots variables are symplesiomorphies" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Defending expected utility by axiomatics forfeits its normative claim" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
@@ -1598,6 +1599,17 @@ digraph vault {
   "Danxin archives - National Taiwan University" -> "Ba County archive - Sichuan Provincial Archives";
   "Danxin archives - National Taiwan University" -> "Chinese archives - the Qing record divided by a sale and a strait";
   "Danxin archives - National Taiwan University" -> "MOC - Chinese archives";
+  "Darwin's bee series is a space-for-time substitution that licenses possibility not pathway" -> "A significant persistence coefficient is evidence against its own licensing condition";
+  "Darwin's bee series is a space-for-time substitution that licenses possibility not pathway" -> "Deep-roots variables are symplesiomorphies";
+  "Darwin's bee series is a space-for-time substitution that licenses possibility not pathway" -> "Hales 2001 - the honeycomb theorem and the architecture of its proof";
+  "Darwin's bee series is a space-for-time substitution that licenses possibility not pathway" -> "Homoplasy is the finding not the noise";
+  "Darwin's bee series is a space-for-time substitution that licenses possibility not pathway" -> "MOC - HistorEE";
+  "Darwin's bee series is a space-for-time substitution that licenses possibility not pathway" -> "MOC - Historiography and method";
+  "Darwin's bee series is a space-for-time substitution that licenses possibility not pathway" -> "The ascent narrative is the Jensen error as historiography";
+  "Darwin's bee series is a space-for-time substitution that licenses possibility not pathway" -> "The fictive household supplied partition and perpetuity without legal personality";
+  "Darwin's bee series is a space-for-time substitution that licenses possibility not pathway" -> "The hexagon is optimal only among neighbours";
+  "Darwin's bee series is a space-for-time substitution that licenses possibility not pathway" -> "The optimum does not identify the route that reached it";
+  "Darwin's bee series is a space-for-time substitution that licenses possibility not pathway" -> "Whiggish history of finance names the ascent narrative";
   "Decoupling substitutes proxy legibility for outcome legibility" -> "MOC - Entity-shielding and corporate forms";
   "Decoupling substitutes proxy legibility for outcome legibility" -> "MOC - HistorEE";
   "Decoupling substitutes proxy legibility for outcome legibility" -> "MOC - Risk-sharing vs risk-pricing";
@@ -2205,6 +2217,7 @@ digraph vault {
   "HCA - the High Court of Admiralty" -> "The National Archives - Kew";
   "HCA - the High Court of Admiralty" -> "The Prize Papers - HCA 32 and the German money";
   "HCA - the High Court of Admiralty" -> "The amirautes - a series across the coastal departments";
+  "Hales 2001 - the honeycomb theorem and the architecture of its proof" -> "Darwin's bee series is a space-for-time substitution that licenses possibility not pathway";
   "Hales 2001 - the honeycomb theorem and the architecture of its proof" -> "MOC - HistorEE";
   "Hales 2001 - the honeycomb theorem and the architecture of its proof" -> "MOC - Historiography and method";
   "Hales 2001 - the honeycomb theorem and the architecture of its proof" -> "Practice answers the problem as posed and the proof says which problem that was";
@@ -3238,6 +3251,7 @@ digraph vault {
   "MOC - HistorEE" -> "Comanda primary pass coding and adjudication 2026-10-27";
   "MOC - HistorEE" -> "Cooperation is an averaging puzzle and sovereign repayment is a barrier puzzle";
   "MOC - HistorEE" -> "Count degrees of freedom not cells";
+  "MOC - HistorEE" -> "Darwin's bee series is a space-for-time substitution that licenses possibility not pathway";
   "MOC - HistorEE" -> "Defending expected utility by axiomatics forfeits its normative claim";
   "MOC - HistorEE" -> "Discipline the Whig epithet by pinning it to teleology and survivorship";
   "MOC - HistorEE" -> "Divergent arbitrary particulars are the independence diagnostic";
@@ -3421,6 +3435,7 @@ digraph vault {
   "MOC - Historiography and method" -> "Bottomry and respondentia are one institution named twice in English";
   "MOC - Historiography and method" -> "Brown tests equality where a risk reading predicts dispersion";
   "MOC - Historiography and method" -> "Count degrees of freedom not cells";
+  "MOC - Historiography and method" -> "Darwin's bee series is a space-for-time substitution that licenses possibility not pathway";
   "MOC - Historiography and method" -> "Deep-roots variables are symplesiomorphies";
   "MOC - Historiography and method" -> "Discipline the Whig epithet by pinning it to teleology and survivorship";
   "MOC - Historiography and method" -> "Divergent arbitrary particulars are the independence diagnostic";
@@ -5664,10 +5679,12 @@ digraph vault {
   "The heter iska restores the fixed return by evidentiary barrier" -> "The amana-daman structure refuses to infer fault from loss";
   "The heter iska restores the fixed return by evidentiary barrier" -> "The isqa is Lindy because captive not because robust";
   "The heter iska restores the fixed return by evidentiary barrier" -> "isqa";
+  "The hexagon is optimal only among neighbours" -> "Darwin's bee series is a space-for-time substitution that licenses possibility not pathway";
   "The hexagon is optimal only among neighbours" -> "Hales 2001 - the honeycomb theorem and the architecture of its proof";
   "The hexagon is optimal only among neighbours" -> "MOC - ERC Synergy Grant";
   "The hexagon is optimal only among neighbours" -> "MOC - HistorEE";
   "The hexagon is optimal only among neighbours" -> "MOC - Risk-sharing vs risk-pricing";
+  "The hexagon is optimal only among neighbours" -> "Pooling approaches the infinite ensemble and perpetual succession the infinite horizon";
   "The hexagon is optimal only among neighbours" -> "Pooling's sign is set by the correlation of its baskets";
   "The hexagon is optimal only among neighbours" -> "Practice answers the problem as posed and the proof says which problem that was";
   "The hexagon is optimal only among neighbours" -> "Stoic loci on cooperation - only two argue from interdependence";

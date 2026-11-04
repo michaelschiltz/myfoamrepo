@@ -176,7 +176,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "A significant persistence coefficient is evidence against its own licensing condition",
-      "value": 36,
+      "value": 38,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1171,6 +1171,15 @@
       "shape": "dot"
     },
     {
+      "id": "Darwin's bee series is a space-for-time substitution that licenses possibility not pathway",
+      "type": "permanent",
+      "group": "seed",
+      "label": "Darwin's bee series is a space-for-time substitution that licenses possibility not pathway",
+      "value": 24,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
       "id": "Decoupling substitutes proxy legibility for outcome legibility",
       "type": "permanent",
       "group": "seed",
@@ -1184,7 +1193,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Deep-roots variables are symplesiomorphies",
-      "value": 62,
+      "value": 64,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1814,7 +1823,7 @@
       "type": "source",
       "group": "source",
       "label": "Hales 2001 - the honeycomb theorem and the architecture of its proof",
-      "value": 17,
+      "value": 19,
       "color": "#7570b3",
       "shape": "dot"
     },
@@ -1940,7 +1949,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Homoplasy is the finding not the noise",
-      "value": 71,
+      "value": 73,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -2957,7 +2966,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Pooling approaches the infinite ensemble and perpetual succession the infinite horizon",
-      "value": 27,
+      "value": 29,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -4298,7 +4307,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The ascent narrative is the Jensen error as historiography",
-      "value": 22,
+      "value": 24,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -4487,7 +4496,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The fictive household supplied partition and perpetuity without legal personality",
-      "value": 22,
+      "value": 24,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -4541,7 +4550,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The hexagon is optimal only among neighbours",
-      "value": 20,
+      "value": 25,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -4739,7 +4748,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The optimum does not identify the route that reached it",
-      "value": 22,
+      "value": 24,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -5207,7 +5216,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Whiggish history of finance names the ascent narrative",
-      "value": 26,
+      "value": 28,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -5432,7 +5441,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - HistorEE",
-      "value": 503,
+      "value": 505,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -5441,7 +5450,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Historiography and method",
-      "value": 237,
+      "value": 239,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -9491,6 +9500,50 @@
       "to": "MOC - Chinese archives"
     },
     {
+      "from": "Darwin's bee series is a space-for-time substitution that licenses possibility not pathway",
+      "to": "A significant persistence coefficient is evidence against its own licensing condition"
+    },
+    {
+      "from": "Darwin's bee series is a space-for-time substitution that licenses possibility not pathway",
+      "to": "Deep-roots variables are symplesiomorphies"
+    },
+    {
+      "from": "Darwin's bee series is a space-for-time substitution that licenses possibility not pathway",
+      "to": "Hales 2001 - the honeycomb theorem and the architecture of its proof"
+    },
+    {
+      "from": "Darwin's bee series is a space-for-time substitution that licenses possibility not pathway",
+      "to": "Homoplasy is the finding not the noise"
+    },
+    {
+      "from": "Darwin's bee series is a space-for-time substitution that licenses possibility not pathway",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Darwin's bee series is a space-for-time substitution that licenses possibility not pathway",
+      "to": "MOC - Historiography and method"
+    },
+    {
+      "from": "Darwin's bee series is a space-for-time substitution that licenses possibility not pathway",
+      "to": "The ascent narrative is the Jensen error as historiography"
+    },
+    {
+      "from": "Darwin's bee series is a space-for-time substitution that licenses possibility not pathway",
+      "to": "The fictive household supplied partition and perpetuity without legal personality"
+    },
+    {
+      "from": "Darwin's bee series is a space-for-time substitution that licenses possibility not pathway",
+      "to": "The hexagon is optimal only among neighbours"
+    },
+    {
+      "from": "Darwin's bee series is a space-for-time substitution that licenses possibility not pathway",
+      "to": "The optimum does not identify the route that reached it"
+    },
+    {
+      "from": "Darwin's bee series is a space-for-time substitution that licenses possibility not pathway",
+      "to": "Whiggish history of finance names the ascent narrative"
+    },
+    {
       "from": "Decoupling substitutes proxy legibility for outcome legibility",
       "to": "MOC - Entity-shielding and corporate forms"
     },
@@ -11917,6 +11970,10 @@
     {
       "from": "HCA - the High Court of Admiralty",
       "to": "The amirautes - a series across the coastal departments"
+    },
+    {
+      "from": "Hales 2001 - the honeycomb theorem and the architecture of its proof",
+      "to": "Darwin's bee series is a space-for-time substitution that licenses possibility not pathway"
     },
     {
       "from": "Hales 2001 - the honeycomb theorem and the architecture of its proof",
@@ -16052,6 +16109,10 @@
     },
     {
       "from": "MOC - HistorEE",
+      "to": "Darwin's bee series is a space-for-time substitution that licenses possibility not pathway"
+    },
+    {
+      "from": "MOC - HistorEE",
       "to": "Defending expected utility by axiomatics forfeits its normative claim"
     },
     {
@@ -16781,6 +16842,10 @@
     {
       "from": "MOC - Historiography and method",
       "to": "Count degrees of freedom not cells"
+    },
+    {
+      "from": "MOC - Historiography and method",
+      "to": "Darwin's bee series is a space-for-time substitution that licenses possibility not pathway"
     },
     {
       "from": "MOC - Historiography and method",
@@ -25756,6 +25821,10 @@
     },
     {
       "from": "The hexagon is optimal only among neighbours",
+      "to": "Darwin's bee series is a space-for-time substitution that licenses possibility not pathway"
+    },
+    {
+      "from": "The hexagon is optimal only among neighbours",
       "to": "Hales 2001 - the honeycomb theorem and the architecture of its proof"
     },
     {
@@ -25769,6 +25838,10 @@
     {
       "from": "The hexagon is optimal only among neighbours",
       "to": "MOC - Risk-sharing vs risk-pricing"
+    },
+    {
+      "from": "The hexagon is optimal only among neighbours",
+      "to": "Pooling approaches the infinite ensemble and perpetual succession the infinite horizon"
     },
     {
       "from": "The hexagon is optimal only among neighbours",

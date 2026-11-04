@@ -22,6 +22,7 @@ Thematic hub for the project's methodological guardrails: teleology and its inve
 - [[The record of non-survivors survives where failure was administered]]
 - [[The optimum does not identify the route that reached it]]
 - [[Hales 2001 - the honeycomb theorem and the architecture of its proof]]
+- [[Darwin's bee series is a space-for-time substitution that licenses possibility not pathway]]
 - [[Guard against reverse-teleology]]
 - [[Kuran's brake is a refusal of immortal entities]]
 - [[Selection frequency trades against organizational memory]]

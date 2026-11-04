@@ -63,6 +63,7 @@ The bulk of the paper (§§5–8, Appendix 1) proves Theorem 4: two cases on the
 - [[The hexagon is optimal only among neighbours]]
 - [[Practice answers the problem as posed and the proof says which problem that was]]
 - [[The optimum does not identify the route that reached it]]
+- [[Darwin's bee series is a space-for-time substitution that licenses possibility not pathway]]
 - [[Stoic loci on cooperation - only two argue from interdependence]]
 - [[MOC - Historiography and method]]
 - [[MOC - HistorEE]]

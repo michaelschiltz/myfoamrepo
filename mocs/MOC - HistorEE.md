@@ -325,3 +325,4 @@ Project hub for the book. Atomic notes hang off both this project MOC and a them
 - [[The optimum does not identify the route that reached it]]
 - [[The expectation value describes a pool that re-shares not a population]]
 - [[Pooling approaches the infinite ensemble and perpetual succession the infinite horizon]]
+- [[Darwin's bee series is a space-for-time substitution that licenses possibility not pathway]]
