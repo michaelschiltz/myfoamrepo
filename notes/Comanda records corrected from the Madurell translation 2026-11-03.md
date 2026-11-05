@@ -39,7 +39,7 @@ Records only, plus logbooks 2, 4 and 5 and the CHANGELOG of 2026-11-03. No `data
 
 ## Open
 
-- **The recount tranche** (eight items), for MS.
+- ~~**The recount tranche** (eight items), for MS.~~ **Ruled and applied 2026-11-05**: 21 cell notes amended, seven OCR quotations corrected, no value moved (`records/RULINGS-madurell-recount-2026-11-05.md`).
 - **Pere de Torre's "ad quartum lucri et usum maris"** (docs 75-85): custom, not abbreviation. It stays `neither` as an open theory call.
 - **Acts [2]-[n] of entries 81, 97, 99 and 102** (36 acts) are not instanced. 29 of them would enter the sample by D-ABBR.
 - **Clauses the census does not record:** cancellations, licences, insurance costs (224, 250, 251), commissions (214, 238), price ceilings.

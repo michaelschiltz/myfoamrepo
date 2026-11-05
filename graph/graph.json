@@ -1103,7 +1103,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Comanda primary pass coding and adjudication 2026-10-27",
-      "value": 28,
+      "value": 29,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1112,7 +1112,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Comanda records corrected from the Madurell translation 2026-11-03",
-      "value": 12,
+      "value": 13,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -9246,6 +9246,10 @@
     {
       "from": "Comanda primary pass coding and adjudication 2026-10-27",
       "to": "Comanda names several contracts in the Catalan sources"
+    },
+    {
+      "from": "Comanda primary pass coding and adjudication 2026-10-27",
+      "to": "Comanda records corrected from the Madurell translation 2026-11-03"
     },
     {
       "from": "Comanda primary pass coding and adjudication 2026-10-27",

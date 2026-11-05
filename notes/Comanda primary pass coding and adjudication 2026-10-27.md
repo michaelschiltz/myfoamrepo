@@ -65,6 +65,18 @@ This note records a primary pass on the commenda family: the blind coding of 43 
 - **Doc 255**: insurance (operator) or carriage at the carrier's whole risk (coder). No cell rests on it.
 - **Vault notes** on the comanda have not been re-read against the new values.
 
+## Superseded counts (2026-11-05)
+
+The counts above describe the pass as applied on 2026-10-27. The image-read records of 2026-11-03 changed the census and the sample, and the cell notes were recounted on 2026-11-05 (`records/RULINGS-madurell-recount-2026-11-05.md` in `HistorEE_codebooks`). No value moved.
+
+- **Census.** 202 `comanda` acts, 51 neither. The 48 abbreviated acts are now read on the notary's own clauses (D-ABBR, D-BELL, D-SALV, D-SIM); the 9 custom-only acts stay neither.
+- **Sample.** 71 instances, 27 of them by ruling: LP2 69 of 71, CI1 67, CI5 33, CF2 70.
+- **Withdrawn.** "All one quarter" for LR3 is false: docs 189 (⅛) and 240 (⅓) entered the sample.
+- **CI3.** The cessions of docs 213 and 217 are now in comanda acts, so "rests on cessions in acts the census assigns to neither row" holds only for doc 253.
+- **Open item answered.** "No quotation has been checked against a page image" no longer holds: the comanda cells' doc-cited quotations were checked against the image-read transcriptions, and seven OCR forms were corrected.
+
+See [[Comanda records corrected from the Madurell translation 2026-11-03]].
+
 ## Where this is soft
 
 - One edition, selected by its editors from what the archives kept; every count describes the printed set.
