@@ -326,3 +326,7 @@ Project hub for the book. Atomic notes hang off both this project MOC and a them
 - [[The expectation value describes a pool that re-shares not a population]]
 - [[Pooling approaches the infinite ensemble and perpetual succession the infinite horizon]]
 - [[Darwin's bee series is a space-for-time substitution that licenses possibility not pathway]]
+
+## Added 2026-11-06
+
+- [[Greif Mokyr and Tabellini 2025 on the clan and the corporation - loci for strand 3]]

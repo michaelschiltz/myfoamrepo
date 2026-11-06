@@ -198,6 +198,7 @@ digraph vault {
   "Gharar excludes designed-in unverifiability" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Glaeser and Scheinkman 1998 on interest restrictions as social insurance" [fillcolor="#7570b3", fontcolor=white, shape=ellipse];
   "Google Deep Review - checks the derivation not the archive" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
+  "Greif Mokyr and Tabellini 2025 on the clan and the corporation - loci for strand 3" [fillcolor="#7570b3", fontcolor=white, shape=ellipse];
   "Guard against reverse-teleology" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Guild stele inscriptions - the huiguan's surviving record" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
   "Guildhall Library and the City livery companies" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
@@ -2185,6 +2186,18 @@ digraph vault {
   "Google Deep Review - checks the derivation not the archive" -> "Blind re-coding workflow - operator, coder, application";
   "Google Deep Review - checks the derivation not the archive" -> "MOC - Digitisation and text recognition";
   "Google Deep Review - checks the derivation not the archive" -> "Transkribus - managed HTR platform";
+  "Greif Mokyr and Tabellini 2025 on the clan and the corporation - loci for strand 3" -> "Chinese genealogies - Shanghai Library and FamilySearch";
+  "Greif Mokyr and Tabellini 2025 on the clan and the corporation - loci for strand 3" -> "Darwin's bee series is a space-for-time substitution that licenses possibility not pathway";
+  "Greif Mokyr and Tabellini 2025 on the clan and the corporation - loci for strand 3" -> "Deep-roots variables are symplesiomorphies";
+  "Greif Mokyr and Tabellini 2025 on the clan and the corporation - loci for strand 3" -> "MOC - Entity-shielding and corporate forms";
+  "Greif Mokyr and Tabellini 2025 on the clan and the corporation - loci for strand 3" -> "MOC - HistorEE";
+  "Greif Mokyr and Tabellini 2025 on the clan and the corporation - loci for strand 3" -> "MOC - Historiography and method";
+  "Greif Mokyr and Tabellini 2025 on the clan and the corporation - loci for strand 3" -> "MOC - Risk-sharing vs risk-pricing";
+  "Greif Mokyr and Tabellini 2025 on the clan and the corporation - loci for strand 3" -> "Persistence samples are conditioned on non-absorption";
+  "Greif Mokyr and Tabellini 2025 on the clan and the corporation - loci for strand 3" -> "Stationarity is a precondition of ergodicity not a corollary";
+  "Greif Mokyr and Tabellini 2025 on the clan and the corporation - loci for strand 3" -> "The Bazacle records - a custody problem";
+  "Greif Mokyr and Tabellini 2025 on the clan and the corporation - loci for strand 3" -> "The ascent narrative is the Jensen error as historiography";
+  "Greif Mokyr and Tabellini 2025 on the clan and the corporation - loci for strand 3" -> "Zigong salt contracts - shareholding in the wells";
   "Guard against reverse-teleology" -> "Discipline the Whig epithet by pinning it to teleology and survivorship";
   "Guard against reverse-teleology" -> "MOC - HistorEE";
   "Guard against reverse-teleology" -> "MOC - Historiography and method";
@@ -2949,6 +2962,7 @@ digraph vault {
   "MOC - Entity-shielding and corporate forms" -> "Entitlement by liability versus entitlement by membership";
   "MOC - Entity-shielding and corporate forms" -> "Entity shielding and owner shielding protect different trajectories";
   "MOC - Entity-shielding and corporate forms" -> "Entity-shielding";
+  "MOC - Entity-shielding and corporate forms" -> "Greif Mokyr and Tabellini 2025 on the clan and the corporation - loci for strand 3";
   "MOC - Entity-shielding and corporate forms" -> "Hanafi and Maliki law part on who may force the liquidation of a mudaraba";
   "MOC - Entity-shielding and corporate forms" -> "Harris 2020 on the late plurality of limited liability";
   "MOC - Entity-shielding and corporate forms" -> "Identity-wrapper and perpetual-monopoly are distinct shielding facets";
@@ -3279,6 +3293,7 @@ digraph vault {
   "MOC - HistorEE" -> "Genoese notaries drafted the commenda as equity and Catalan notaries as credit";
   "MOC - HistorEE" -> "Gharar excludes designed-in unverifiability";
   "MOC - HistorEE" -> "Glaeser and Scheinkman 1998 on interest restrictions as social insurance";
+  "MOC - HistorEE" -> "Greif Mokyr and Tabellini 2025 on the clan and the corporation - loci for strand 3";
   "MOC - HistorEE" -> "Guard against reverse-teleology";
   "MOC - HistorEE" -> "Hales 2001 - the honeycomb theorem and the architecture of its proof";
   "MOC - HistorEE" -> "Harmless irrationality and costly ritual are licensed on opposite grounds";
@@ -3450,6 +3465,7 @@ digraph vault {
   "MOC - Historiography and method" -> "Galton's problem";
   "MOC - Historiography and method" -> "Galton's problem applies to the apparatus not only to the institutions";
   "MOC - Historiography and method" -> "Genoese notaries drafted the commenda as equity and Catalan notaries as credit";
+  "MOC - Historiography and method" -> "Greif Mokyr and Tabellini 2025 on the clan and the corporation - loci for strand 3";
   "MOC - Historiography and method" -> "Guard against reverse-teleology";
   "MOC - Historiography and method" -> "Hales 2001 - the honeycomb theorem and the architecture of its proof";
   "MOC - Historiography and method" -> "Harmless irrationality and costly ritual are licensed on opposite grounds";

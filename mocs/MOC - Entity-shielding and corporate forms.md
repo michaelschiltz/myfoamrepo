@@ -99,3 +99,7 @@ Thematic hub for the corporate-form apparatus: asset-partitioning, identity-wrap
 ## Added 2026-10-31
 
 - [[Pooling approaches the infinite ensemble and perpetual succession the infinite horizon]]
+
+## Added 2026-11-06
+
+- [[Greif Mokyr and Tabellini 2025 on the clan and the corporation - loci for strand 3]] — GMT use a loose 'corporation' (152) for the cause and Harris's feature bundle (158–59) for the payoff, and concede de facto legal personality and perpetuity to lineage trusts (170–71)

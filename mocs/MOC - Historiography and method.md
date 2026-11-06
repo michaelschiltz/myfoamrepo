@@ -176,3 +176,7 @@ Where the sources for the European companies are and are not machine-readable is
 - [[Ritual carries its function in its form and its circularity not in its content]] — the circle buys robustness to theory change and closes the casuist's option; content must be arbitrary for compliance to inform; the price is exposure to drafting and to a changed world
 - [[Of Taleb's accounts of dietary law only the minority rule is a mechanism]] — five functions, one genealogy, one mechanism; prevalence without endorsement; fasting is the one Jensen gap along a trajectory
 - [[Harmless irrationality and costly ritual are licensed on opposite grounds]] — place a practice in the cost-by-barrier grid before arguing for it
+
+## Added 2026-11-06 — *Two Paths to Prosperity*
+
+- [[Greif Mokyr and Tabellini 2025 on the clan and the corporation - loci for strand 3]] — the book's culturalist case rests on a riskless model, genealogy dates of claimed ancestors, and space-for-time regressions; strand 3's reference point

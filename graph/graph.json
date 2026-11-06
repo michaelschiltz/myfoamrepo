@@ -1058,7 +1058,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Chinese genealogies - Shanghai Library and FamilySearch",
-      "value": 10,
+      "value": 11,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1175,7 +1175,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Darwin's bee series is a space-for-time substitution that licenses possibility not pathway",
-      "value": 24,
+      "value": 25,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1193,7 +1193,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Deep-roots variables are symplesiomorphies",
-      "value": 64,
+      "value": 65,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1771,6 +1771,15 @@
       "label": "Google Deep Review - checks the derivation not the archive",
       "value": 6,
       "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "Greif Mokyr and Tabellini 2025 on the clan and the corporation - loci for strand 3",
+      "type": "source",
+      "group": "source",
+      "label": "Greif Mokyr and Tabellini 2025 on the clan and the corporation - loci for strand 3",
+      "value": 16,
+      "color": "#7570b3",
       "shape": "dot"
     },
     {
@@ -2939,7 +2948,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Persistence samples are conditioned on non-absorption",
-      "value": 66,
+      "value": 67,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -3731,7 +3740,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Stationarity is a precondition of ergodicity not a corollary",
-      "value": 30,
+      "value": 31,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -3974,7 +3983,7 @@
       "type": "reference",
       "group": "reference",
       "label": "The Bazacle records - a custody problem",
-      "value": 24,
+      "value": 25,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -4307,7 +4316,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The ascent narrative is the Jensen error as historiography",
-      "value": 24,
+      "value": 25,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -5270,7 +5279,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Zigong salt contracts - shareholding in the wells",
-      "value": 7,
+      "value": 8,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -5387,7 +5396,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Entity-shielding and corporate forms",
-      "value": 148,
+      "value": 150,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -5441,7 +5450,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - HistorEE",
-      "value": 505,
+      "value": 507,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -5450,7 +5459,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Historiography and method",
-      "value": 239,
+      "value": 241,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -5513,7 +5522,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Risk-sharing vs risk-pricing",
-      "value": 212,
+      "value": 213,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -11844,6 +11853,54 @@
       "to": "Transkribus - managed HTR platform"
     },
     {
+      "from": "Greif Mokyr and Tabellini 2025 on the clan and the corporation - loci for strand 3",
+      "to": "Chinese genealogies - Shanghai Library and FamilySearch"
+    },
+    {
+      "from": "Greif Mokyr and Tabellini 2025 on the clan and the corporation - loci for strand 3",
+      "to": "Darwin's bee series is a space-for-time substitution that licenses possibility not pathway"
+    },
+    {
+      "from": "Greif Mokyr and Tabellini 2025 on the clan and the corporation - loci for strand 3",
+      "to": "Deep-roots variables are symplesiomorphies"
+    },
+    {
+      "from": "Greif Mokyr and Tabellini 2025 on the clan and the corporation - loci for strand 3",
+      "to": "MOC - Entity-shielding and corporate forms"
+    },
+    {
+      "from": "Greif Mokyr and Tabellini 2025 on the clan and the corporation - loci for strand 3",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Greif Mokyr and Tabellini 2025 on the clan and the corporation - loci for strand 3",
+      "to": "MOC - Historiography and method"
+    },
+    {
+      "from": "Greif Mokyr and Tabellini 2025 on the clan and the corporation - loci for strand 3",
+      "to": "MOC - Risk-sharing vs risk-pricing"
+    },
+    {
+      "from": "Greif Mokyr and Tabellini 2025 on the clan and the corporation - loci for strand 3",
+      "to": "Persistence samples are conditioned on non-absorption"
+    },
+    {
+      "from": "Greif Mokyr and Tabellini 2025 on the clan and the corporation - loci for strand 3",
+      "to": "Stationarity is a precondition of ergodicity not a corollary"
+    },
+    {
+      "from": "Greif Mokyr and Tabellini 2025 on the clan and the corporation - loci for strand 3",
+      "to": "The Bazacle records - a custody problem"
+    },
+    {
+      "from": "Greif Mokyr and Tabellini 2025 on the clan and the corporation - loci for strand 3",
+      "to": "The ascent narrative is the Jensen error as historiography"
+    },
+    {
+      "from": "Greif Mokyr and Tabellini 2025 on the clan and the corporation - loci for strand 3",
+      "to": "Zigong salt contracts - shareholding in the wells"
+    },
+    {
       "from": "Guard against reverse-teleology",
       "to": "Discipline the Whig epithet by pinning it to teleology and survivorship"
     },
@@ -14901,6 +14958,10 @@
     },
     {
       "from": "MOC - Entity-shielding and corporate forms",
+      "to": "Greif Mokyr and Tabellini 2025 on the clan and the corporation - loci for strand 3"
+    },
+    {
+      "from": "MOC - Entity-shielding and corporate forms",
       "to": "Hanafi and Maliki law part on who may force the liquidation of a mudaraba"
     },
     {
@@ -16221,6 +16282,10 @@
     },
     {
       "from": "MOC - HistorEE",
+      "to": "Greif Mokyr and Tabellini 2025 on the clan and the corporation - loci for strand 3"
+    },
+    {
+      "from": "MOC - HistorEE",
       "to": "Guard against reverse-teleology"
     },
     {
@@ -16902,6 +16967,10 @@
     {
       "from": "MOC - Historiography and method",
       "to": "Genoese notaries drafted the commenda as equity and Catalan notaries as credit"
+    },
+    {
+      "from": "MOC - Historiography and method",
+      "to": "Greif Mokyr and Tabellini 2025 on the clan and the corporation - loci for strand 3"
     },
     {
       "from": "MOC - Historiography and method",
