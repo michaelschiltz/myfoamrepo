@@ -494,6 +494,7 @@ digraph vault {
   "The clearing records dataset has no archive yet" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
   "The coding commons must record stated rationale not only component presence" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "The colonial enquiry as South Asia's layer 3" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
+  "The colony's immune boundary is a graded configuration not a wall" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "The comanda ad societatem shares losses in the proportion of profits" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "The comanda ad societatem shares the isqa's allocation but not its construction" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "The commenda and the qirad do not separate on loss allocation" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
@@ -3026,6 +3027,7 @@ digraph vault {
   "MOC - Entity-shielding and corporate forms" -> "The Roman universitas makes the JSC case parallelism not convergence";
   "MOC - Entity-shielding and corporate forms" -> "The Sarta company held no common fund";
   "MOC - Entity-shielding and corporate forms" -> "The alleenrecht is monopoly held as tradable property";
+  "MOC - Entity-shielding and corporate forms" -> "The colony's immune boundary is a graded configuration not a wall";
   "MOC - Entity-shielding and corporate forms" -> "The corporation is not the omega - the naties are an undisplaced niche";
   "MOC - Entity-shielding and corporate forms" -> "The creditor limb of entity shielding has no witness";
   "MOC - Entity-shielding and corporate forms" -> "The durable-and-coupled cell is the underexplored one";
@@ -3423,6 +3425,7 @@ digraph vault {
   "MOC - HistorEE" -> "The ascent narrative is the Jensen error as historiography";
   "MOC - HistorEE" -> "The asiento de averia is the pooling-to-corporation hinge";
   "MOC - HistorEE" -> "The coding commons must record stated rationale not only component presence";
+  "MOC - HistorEE" -> "The colony's immune boundary is a graded configuration not a wall";
   "MOC - HistorEE" -> "The comanda ad societatem shares the isqa's allocation but not its construction";
   "MOC - HistorEE" -> "The commenda and the qirad do not separate on loss allocation";
   "MOC - HistorEE" -> "The commenda family fixes the allocation of loss and proves it by the agent's oath";
@@ -4848,6 +4851,7 @@ digraph vault {
   "Social immunity and superorganism immunity - loci" -> "MOC - HistorEE";
   "Social immunity and superorganism immunity - loci" -> "MOC - Historiography and method";
   "Social immunity and superorganism immunity - loci" -> "Social immunity is a consequence of individuation not evidence for it";
+  "Social immunity and superorganism immunity - loci" -> "The colony's immune boundary is a graded configuration not a wall";
   "Social immunity and superorganism immunity - loci" -> "The hexagon is optimal only among neighbours";
   "Social immunity and superorganism immunity - loci" -> "Three immune functions mark a pool that has become a person";
   "Social immunity is a consequence of individuation not evidence for it" -> "Homoplasy is the finding not the noise";
@@ -5577,6 +5581,14 @@ digraph vault {
   "The colonial enquiry as South Asia's layer 3" -> "Jichitaishi - the municipal histories as Japan's print layer 3";
   "The colonial enquiry as South Asia's layer 3" -> "MOC - South Asian archives";
   "The colonial enquiry as South Asia's layer 3" -> "Taiwan Shiho - the colonial survey of Chinese associations and shares";
+  "The colony's immune boundary is a graded configuration not a wall" -> "Entity shielding and owner shielding protect different trajectories";
+  "The colony's immune boundary is a graded configuration not a wall" -> "Legal scaffolding gives a pool collective properties it does not yet own";
+  "The colony's immune boundary is a graded configuration not a wall" -> "MOC - Entity-shielding and corporate forms";
+  "The colony's immune boundary is a graded configuration not a wall" -> "MOC - HistorEE";
+  "The colony's immune boundary is a graded configuration not a wall" -> "Social immunity and superorganism immunity - loci";
+  "The colony's immune boundary is a graded configuration not a wall" -> "Social immunity is a consequence of individuation not evidence for it";
+  "The colony's immune boundary is a graded configuration not a wall" -> "The hexagon is optimal only among neighbours";
+  "The colony's immune boundary is a graded configuration not a wall" -> "Three immune functions mark a pool that has become a person";
   "The comanda ad societatem shares losses in the proportion of profits" -> "Comanda names several contracts in the Catalan sources";
   "The comanda ad societatem shares losses in the proportion of profits" -> "Garcia Sanz on the Vic commendas of the thirteenth century";
   "The comanda ad societatem shares losses in the proportion of profits" -> "MOC - HistorEE";

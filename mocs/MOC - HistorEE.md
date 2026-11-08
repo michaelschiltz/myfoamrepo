@@ -342,3 +342,4 @@ Project hub for the book. Atomic notes hang off both this project MOC and a them
 - [[Fitness decoupling may be a short-horizon artefact]]
 - [[Legal scaffolding gives a pool collective properties it does not yet own]]
 - [[Mandeville's hive is the game-theoretic hive]]
+- [[The colony's immune boundary is a graded configuration not a wall]]

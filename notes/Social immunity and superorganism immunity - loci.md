@@ -29,6 +29,16 @@ Loci from the hive sweep of 8 November 2026 (Undermind workspace *HistorEE — t
 - † Organisational immunity: Stroeymeyt et al. 2018, *Science* 362: 941–45, doi:10.1126/science.aat4793.
 - † Social apoptosis: Page et al. 2016, *Scientific Reports* 6: 27210, doi:10.1038/srep27210 — measured mortality and removal of mite-infested and wounded *A. cerana* brood; virus infection not tested directly.
 
+## Chemical social immunity as a spatial configuration
+
+- † **Fernandes, Levina, Frost and Carter 2026**, "Spatially Organized Chemical Defences Shape Microbial Communities in Honey Bee Colonies," *ISME Communications* 6 (1): ycag247, doi:10.1093/ismeco/ycag247. Twenty-four *A. mellifera* colonies, five apiaries at one site (Tocal, NSW), one sampling event; amplicon sequencing, broth-microdilution assays against seven microbes, ¹H NMR.
+  - Framing: antimicrobial social immunity as a colony-level property emerging from spatial organisation and functional integration, not the property of any single material (2; again 10).
+  - Distance decay across ranked compartments: microbial communities (bacteria R² 0.170, fungi 0.069) and antimicrobial activity (R² 0.217), the latter driven by hive pathogens and absent for non-hive microbes (3–6, figs 1–2).
+  - Mediators: H₂O₂ in honey (ρ 0.570), flavonoids in propolis and wax, polar aliphatics in pollen (5–8). Defences both foraged and endogenous (2); honey's peroxide not attributed to bee glucose oxidase in the paper.
+  - Stressed hives show weaker spatial structure (bacteria R² 0.138 against 0.236; fungal decay negligible), read as loss of partitioning; spatial order proposed as a marker of colony health (3, 10).
+  - Apiary explains most variance in activity (R² 0.34); hive health and chalkbrood history not significant.
+  - Limits stated by the authors (11): ethanol extracts need not match in-hive concentrations; power is low; causal links remain inferential. Two further cautions of ours: the compartments are *ranked* by ecological and functional proximity, not measured distance, so part of the decay is built into the ordering, and the microbiome and activity analyses use different orderings; "permitting beneficial species" is interpretation, since beneficial microbes were not assayed.
+
 ## Individual against collective defence
 
 - † Masson et al. 2024, *Nature Communications* 15, doi:10.1038/s41467-024-53527-4. *Lasius niger*: systemic individual immunity against bacteria, none against fungi; grooming and group living protect against fungi only. Erosion of antifungal immunity by relaxed selection is proposed, not tested (8).
@@ -44,6 +54,7 @@ Loci from the hive sweep of 8 November 2026 (Undermind workspace *HistorEE — t
 
 - [[Social immunity is a consequence of individuation not evidence for it]]
 - [[Three immune functions mark a pool that has become a person]]
+- [[The colony's immune boundary is a graded configuration not a wall]]
 - [[The hexagon is optimal only among neighbours]]
 - [[Homoplasy is the finding not the noise]]
 - [[MOC - Historiography and method]]
