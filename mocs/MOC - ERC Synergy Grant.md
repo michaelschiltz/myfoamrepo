@@ -59,6 +59,11 @@ The Part 2 WP1 session's *ideas* are written as atomic notes (below) and kept un
 - [[MOC - Islamic contract doctrine]]
 - [[MOC - Historiography and method]]
 
+## Added 2026-11-08 — hive sweep
+
+- [[Endogenous games rewrite the rules but never the player]] — rewrite the game-theory claim before submission
+- [[Mandeville's hive is the game-theoretic hive]] — one sentence on the rival hive, at most
+
 
 [MOC - HistorEE]: <MOC - HistorEE.md> "MOC - Clearing and Settling the Realm"
 [MOC - Islamic contract doctrine]: <MOC - Islamic contract doctrine.md> "MOC - Islamic contract doctrine"

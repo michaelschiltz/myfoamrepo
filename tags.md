@@ -17,9 +17,11 @@ Keep tags lowercase, hyphenated, singular. Before coining a new tag, check this 
 
 ## Orthodoxy / equilibrium
 
-`general-equilibrium` · `representative-agent`
+`general-equilibrium` · `representative-agent` · `game-theory`
 
 **These label the target of the methodological critique, not the project's own apparatus.** They exist so the defensive notes are findable as a set — the arguments that must be got right before the historical claims can be heard. `general-equilibrium` marks the dated-commodity construction and its order-insensitivity; `representative-agent` marks the device by which the time/ensemble equivalence is installed in models that do iterate. Neither is a concept the project uses to describe historical material, and neither should be tagged onto a note about an institution.
+
+**Note on `game-theory`.** Added 2026-11-08, on the same footing: it labels the fixed-player, additive-payoff formalism as a target, so that the notes arguing against it are findable as a set. It does not mark a note that uses a game as an instrument. See [[Endogenous games rewrite the rules but never the player]].
 
 ## Path dependence / sequence
 
@@ -32,6 +34,12 @@ Keep tags lowercase, hyphenated, singular. Before coining a new tag, check this 
 ## Instruments & risk
 
 `risk-sharing` · `risk-pricing` · `pls` · `skin-in-the-game` · `contingent-claim` · `sea-loan` · `bottomry` · `foenus-nauticum` · `marine-insurance` · `qirad` · `mudaraba` · `commenda` · `general-average` · `averia` · `carrera-de-indias`
+
+## Levels and individuation
+
+`individuation`
+
+**Note on `individuation`.** Added 2026-11-08. Marks the transition by which a collective becomes a bearer of interests in its own right — a boundary, continuity, and the means to police and defend both — as distinct from pooling, in which the members remain the bearers. Do not tag a note merely because it concerns a pool; the tag asserts a claim about the second level. See [[Pooling raises the rate and individuation draws the boundary]].
 
 ## Corporate form / shielding
 

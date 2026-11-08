@@ -144,3 +144,8 @@ The persistence-design critique is *offensive* — it attacks a design class —
 ## Added 2026-10-31 — practice and proof
 
 - [[Practice answers the problem as posed and the proof says which problem that was]] — the honeycomb's 3D case: formalism convicted the bees under a thin-wall idealisation and a better formalisation acquitted them; expected value is the thin-wall model. Supplies the usable sentence and names the unusable one
+
+## Added 2026-11-08 — against fixed-game explanation
+
+- [[Endogenous games rewrite the rules but never the player]] — the unqualified "game theory fixes the game" is false; the defensible claim is that no fixed-player formalism constitutes a new player. Replacement wording for Part 1 in the hive report
+- [[Fitness decoupling may be a short-horizon artefact]] — to be put to Peters and Connaughton before use

@@ -147,3 +147,8 @@ Hubbed at [[MOC - Defending the ergodicity claim]]; listed here because the sour
 - [[Rationality is a property of the policy not of the belief that produces it]] — the primacy of process over correctness is the primacy of the objective over the estimate, licensed only where the payoff has a barrier; "rational is what survives" is a criterion forward and a fallacy backward
 - [[A heuristic is defended by its error distribution not by its accuracy]] — bias against variance under a lexicographic loss; the error asymmetry holds only for additive false alarms; teachability is a property of the rule as transmitted
 - [[Harmless irrationality and costly ritual are licensed on opposite grounds]] — ch. 16 sorts by cost, ch. 17 by barrier-relevance; the 2×2 places decoration, heuristic, ritual and convergence
+
+## Added 2026-11-08 — emergence and the horizon
+
+- [[More than the sum requires a non-additive aggregation rule]] — compounding, convex trade-offs and entangled resources: three Jensen-type routes to a whole that differs from the sum
+- [[Fitness decoupling may be a short-horizon artefact]] — hypothesis: Bourrat's commensurate fitnesses coincide asymptotically, so levels part only on short horizons; 6.54 as an asymmetry between horizons

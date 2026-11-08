@@ -302,7 +302,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Antifragility is defined by an ensemble Jensen gap",
-      "value": 23,
+      "value": 24,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1130,7 +1130,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Cooperation is an averaging puzzle and sovereign repayment is a barrier puzzle",
-      "value": 36,
+      "value": 37,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1175,7 +1175,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Darwin's bee series is a space-for-time substitution that licenses possibility not pathway",
-      "value": 25,
+      "value": 26,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1450,6 +1450,15 @@
       "shape": "dot"
     },
     {
+      "id": "Endogenous games rewrite the rules but never the player",
+      "type": "permanent",
+      "group": "seed",
+      "label": "Endogenous games rewrite the rules but never the player",
+      "value": 16,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
       "id": "Ensemble benchmarking of agents is biased against the honest",
       "type": "permanent",
       "group": "seed",
@@ -1472,7 +1481,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Entity shielding and owner shielding protect different trajectories",
-      "value": 44,
+      "value": 48,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1546,6 +1555,15 @@
       "label": "First Historical Archives of China - Beijing",
       "value": 13,
       "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "Fitness decoupling may be a short-horizon artefact",
+      "type": "permanent",
+      "group": "seed",
+      "label": "Fitness decoupling may be a short-horizon artefact",
+      "value": 16,
+      "color": "#e6ab02",
       "shape": "dot"
     },
     {
@@ -1778,7 +1796,7 @@
       "type": "source",
       "group": "source",
       "label": "Greif Mokyr and Tabellini 2025 on the clan and the corporation - loci for strand 3",
-      "value": 16,
+      "value": 17,
       "color": "#7570b3",
       "shape": "dot"
     },
@@ -1958,7 +1976,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Homoplasy is the finding not the noise",
-      "value": 73,
+      "value": 76,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -2192,7 +2210,7 @@
       "type": "permanent",
       "group": "stub",
       "label": "Jensen gap",
-      "value": 35,
+      "value": 37,
       "color": "#666666",
       "shape": "dot"
     },
@@ -2368,6 +2386,15 @@
       "shape": "dot"
     },
     {
+      "id": "Legal scaffolding gives a pool collective properties it does not yet own",
+      "type": "permanent",
+      "group": "seed",
+      "label": "Legal scaffolding gives a pool collective properties it does not yet own",
+      "value": 13,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
       "id": "Legal violence is the weapon of the militarily insufficient",
       "type": "permanent",
       "group": "seed",
@@ -2437,6 +2464,15 @@
       "label": "Maharashtra State Archives - the Peshwa Daftar",
       "value": 12,
       "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "Mandeville's hive is the game-theoretic hive",
+      "type": "permanent",
+      "group": "seed",
+      "label": "Mandeville's hive is the game-theoretic hive",
+      "value": 13,
+      "color": "#e6ab02",
       "shape": "dot"
     },
     {
@@ -2527,6 +2563,15 @@
       "label": "Monte delle doti coding session 2026-10-15",
       "value": 26,
       "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "More than the sum requires a non-additive aggregation rule",
+      "type": "permanent",
+      "group": "seed",
+      "label": "More than the sum requires a non-additive aggregation rule",
+      "value": 15,
+      "color": "#e6ab02",
       "shape": "dot"
     },
     {
@@ -2975,7 +3020,16 @@
       "type": "permanent",
       "group": "seed",
       "label": "Pooling approaches the infinite ensemble and perpetual succession the infinite horizon",
-      "value": 29,
+      "value": 34,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "Pooling raises the rate and individuation draws the boundary",
+      "type": "permanent",
+      "group": "seed",
+      "label": "Pooling raises the rate and individuation draws the boundary",
+      "value": 25,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -3479,7 +3533,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Skin in the game is asymmetric in the mudaraba",
-      "value": 36,
+      "value": 37,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -3489,6 +3543,24 @@
       "group": "seed",
       "label": "Skin in the game",
       "value": 68,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "Social immunity and superorganism immunity - loci",
+      "type": "source",
+      "group": "source",
+      "label": "Social immunity and superorganism immunity - loci",
+      "value": 12,
+      "color": "#7570b3",
+      "shape": "dot"
+    },
+    {
+      "id": "Social immunity is a consequence of individuation not evidence for it",
+      "type": "permanent",
+      "group": "seed",
+      "label": "Social immunity is a consequence of individuation not evidence for it",
+      "value": 19,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -3767,7 +3839,7 @@
       "type": "source",
       "group": "source",
       "label": "Stoic loci on cooperation - only two argue from interdependence",
-      "value": 16,
+      "value": 19,
       "color": "#7570b3",
       "shape": "dot"
     },
@@ -4325,7 +4397,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The asiento de averia is the pooling-to-corporation hinge",
-      "value": 27,
+      "value": 29,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -4424,7 +4496,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The creditor limb of entity shielding has no witness",
-      "value": 31,
+      "value": 32,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -4496,7 +4568,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The expectation value describes a pool that re-shares not a population",
-      "value": 24,
+      "value": 28,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -4541,7 +4613,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The growth-rate criterion is asymptotic and the horizon comparison cuts both ways",
-      "value": 36,
+      "value": 38,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -4559,7 +4631,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The hexagon is optimal only among neighbours",
-      "value": 25,
+      "value": 28,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -4586,7 +4658,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The isqa refuses the agent's shield",
-      "value": 38,
+      "value": 39,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -4802,7 +4874,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The real cut is shielded-and-pooled versus unshielded",
-      "value": 27,
+      "value": 28,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -4984,6 +5056,15 @@
       "label": "Thjodskjalasafn Islands - Iceland",
       "value": 9,
       "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "Three immune functions mark a pool that has become a person",
+      "type": "permanent",
+      "group": "seed",
+      "label": "Three immune functions mark a pool that has become a person",
+      "value": 21,
+      "color": "#e6ab02",
       "shape": "dot"
     },
     {
@@ -5360,7 +5441,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Defending the ergodicity claim",
-      "value": 115,
+      "value": 119,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -5387,7 +5468,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - ERC Synergy Grant",
-      "value": 77,
+      "value": 79,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -5396,7 +5477,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Entity-shielding and corporate forms",
-      "value": 150,
+      "value": 158,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -5405,7 +5486,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Ergodicity and the time-ensemble distinction",
-      "value": 189,
+      "value": 194,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -5450,7 +5531,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - HistorEE",
-      "value": 507,
+      "value": 525,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -5459,7 +5540,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Historiography and method",
-      "value": 241,
+      "value": 245,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -5567,7 +5648,7 @@
       "type": "reference",
       "group": "reference",
       "label": "tags",
-      "value": 15,
+      "value": 17,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -10617,6 +10698,34 @@
       "to": "loss_mitigation_forms"
     },
     {
+      "from": "Endogenous games rewrite the rules but never the player",
+      "to": "Cooperation is an averaging puzzle and sovereign repayment is a barrier puzzle"
+    },
+    {
+      "from": "Endogenous games rewrite the rules but never the player",
+      "to": "Greif Mokyr and Tabellini 2025 on the clan and the corporation - loci for strand 3"
+    },
+    {
+      "from": "Endogenous games rewrite the rules but never the player",
+      "to": "MOC - Defending the ergodicity claim"
+    },
+    {
+      "from": "Endogenous games rewrite the rules but never the player",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Endogenous games rewrite the rules but never the player",
+      "to": "Mandeville's hive is the game-theoretic hive"
+    },
+    {
+      "from": "Endogenous games rewrite the rules but never the player",
+      "to": "More than the sum requires a non-additive aggregation rule"
+    },
+    {
+      "from": "Endogenous games rewrite the rules but never the player",
+      "to": "Pooling raises the rate and individuation draws the boundary"
+    },
+    {
       "from": "Ensemble benchmarking of agents is biased against the honest",
       "to": "Decoupling substitutes proxy legibility for outcome legibility"
     },
@@ -10999,6 +11108,38 @@
     {
       "from": "First Historical Archives of China - Beijing",
       "to": "Zhang Chuanxi 1995 - the contract compilation behind the census's Chinese rows"
+    },
+    {
+      "from": "Fitness decoupling may be a short-horizon artefact",
+      "to": "MOC - Defending the ergodicity claim"
+    },
+    {
+      "from": "Fitness decoupling may be a short-horizon artefact",
+      "to": "MOC - Ergodicity and the time-ensemble distinction"
+    },
+    {
+      "from": "Fitness decoupling may be a short-horizon artefact",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Fitness decoupling may be a short-horizon artefact",
+      "to": "Pooling approaches the infinite ensemble and perpetual succession the infinite horizon"
+    },
+    {
+      "from": "Fitness decoupling may be a short-horizon artefact",
+      "to": "Pooling raises the rate and individuation draws the boundary"
+    },
+    {
+      "from": "Fitness decoupling may be a short-horizon artefact",
+      "to": "Social immunity is a consequence of individuation not evidence for it"
+    },
+    {
+      "from": "Fitness decoupling may be a short-horizon artefact",
+      "to": "Stoic loci on cooperation - only two argue from interdependence"
+    },
+    {
+      "from": "Fitness decoupling may be a short-horizon artefact",
+      "to": "The growth-rate criterion is asymptotic and the horizon comparison cuts both ways"
     },
     {
       "from": "Flows make the dynamic affine and affine maps do not commute",
@@ -13801,6 +13942,30 @@
       "to": "organizational_forms"
     },
     {
+      "from": "Legal scaffolding gives a pool collective properties it does not yet own",
+      "to": "MOC - Entity-shielding and corporate forms"
+    },
+    {
+      "from": "Legal scaffolding gives a pool collective properties it does not yet own",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Legal scaffolding gives a pool collective properties it does not yet own",
+      "to": "Pooling approaches the infinite ensemble and perpetual succession the infinite horizon"
+    },
+    {
+      "from": "Legal scaffolding gives a pool collective properties it does not yet own",
+      "to": "Pooling raises the rate and individuation draws the boundary"
+    },
+    {
+      "from": "Legal scaffolding gives a pool collective properties it does not yet own",
+      "to": "The asiento de averia is the pooling-to-corporation hinge"
+    },
+    {
+      "from": "Legal scaffolding gives a pool collective properties it does not yet own",
+      "to": "Three immune functions mark a pool that has become a person"
+    },
+    {
       "from": "Legal violence is the weapon of the militarily insufficient",
       "to": "Entity-shielding"
     },
@@ -14510,11 +14675,19 @@
     },
     {
       "from": "MOC - Defending the ergodicity claim",
+      "to": "Endogenous games rewrite the rules but never the player"
+    },
+    {
+      "from": "MOC - Defending the ergodicity claim",
       "to": "Ergodicity breaking and order-dependence are independent axes"
     },
     {
       "from": "MOC - Defending the ergodicity claim",
       "to": "Ergodicity is indecomposability not randomness"
+    },
+    {
+      "from": "MOC - Defending the ergodicity claim",
+      "to": "Fitness decoupling may be a short-horizon artefact"
     },
     {
       "from": "MOC - Defending the ergodicity claim",
@@ -14830,6 +15003,10 @@
     },
     {
       "from": "MOC - ERC Synergy Grant",
+      "to": "Endogenous games rewrite the rules but never the player"
+    },
+    {
+      "from": "MOC - ERC Synergy Grant",
       "to": "Extending a pool along kin proximity buys N without buying decorrelation"
     },
     {
@@ -14847,6 +15024,10 @@
     {
       "from": "MOC - ERC Synergy Grant",
       "to": "MOC - Islamic contract doctrine"
+    },
+    {
+      "from": "MOC - ERC Synergy Grant",
+      "to": "Mandeville's hive is the game-theoretic hive"
     },
     {
       "from": "MOC - ERC Synergy Grant",
@@ -14986,6 +15167,10 @@
     },
     {
       "from": "MOC - Entity-shielding and corporate forms",
+      "to": "Legal scaffolding gives a pool collective properties it does not yet own"
+    },
+    {
+      "from": "MOC - Entity-shielding and corporate forms",
       "to": "Legal violence is the weapon of the militarily insufficient"
     },
     {
@@ -15034,7 +15219,15 @@
     },
     {
       "from": "MOC - Entity-shielding and corporate forms",
+      "to": "Pooling raises the rate and individuation draws the boundary"
+    },
+    {
+      "from": "MOC - Entity-shielding and corporate forms",
       "to": "Read the Nakai anomaly against the ie's horizon not the transaction's"
+    },
+    {
+      "from": "MOC - Entity-shielding and corporate forms",
+      "to": "Social immunity is a consequence of individuation not evidence for it"
     },
     {
       "from": "MOC - Entity-shielding and corporate forms",
@@ -15119,6 +15312,10 @@
     {
       "from": "MOC - Entity-shielding and corporate forms",
       "to": "The waqf partition converts absence into refusal"
+    },
+    {
+      "from": "MOC - Entity-shielding and corporate forms",
+      "to": "Three immune functions mark a pool that has become a person"
     },
     {
       "from": "MOC - Entity-shielding and corporate forms",
@@ -15254,6 +15451,10 @@
     },
     {
       "from": "MOC - Ergodicity and the time-ensemble distinction",
+      "to": "Fitness decoupling may be a short-horizon artefact"
+    },
+    {
+      "from": "MOC - Ergodicity and the time-ensemble distinction",
       "to": "Flows make the dynamic affine and affine maps do not commute"
     },
     {
@@ -15303,6 +15504,10 @@
     {
       "from": "MOC - Ergodicity and the time-ensemble distinction",
       "to": "MOC - Risk-sharing vs risk-pricing"
+    },
+    {
+      "from": "MOC - Ergodicity and the time-ensemble distinction",
+      "to": "More than the sum requires a non-additive aggregation rule"
     },
     {
       "from": "MOC - Ergodicity and the time-ensemble distinction",
@@ -16226,6 +16431,10 @@
     },
     {
       "from": "MOC - HistorEE",
+      "to": "Endogenous games rewrite the rules but never the player"
+    },
+    {
+      "from": "MOC - HistorEE",
       "to": "Ensemble benchmarking of agents is biased against the honest"
     },
     {
@@ -16239,6 +16448,10 @@
     {
       "from": "MOC - HistorEE",
       "to": "Ergodicity breaking and order-dependence are independent axes"
+    },
+    {
+      "from": "MOC - HistorEE",
+      "to": "Fitness decoupling may be a short-horizon artefact"
     },
     {
       "from": "MOC - HistorEE",
@@ -16342,6 +16555,10 @@
     },
     {
       "from": "MOC - HistorEE",
+      "to": "Legal scaffolding gives a pool collective properties it does not yet own"
+    },
+    {
+      "from": "MOC - HistorEE",
       "to": "Legal violence is the weapon of the militarily insufficient"
     },
     {
@@ -16374,11 +16591,19 @@
     },
     {
       "from": "MOC - HistorEE",
+      "to": "Mandeville's hive is the game-theoretic hive"
+    },
+    {
+      "from": "MOC - HistorEE",
       "to": "Mare Liberum was a corporate legal weapon"
     },
     {
       "from": "MOC - HistorEE",
       "to": "Monte delle doti coding session 2026-10-15"
+    },
+    {
+      "from": "MOC - HistorEE",
+      "to": "More than the sum requires a non-additive aggregation rule"
     },
     {
       "from": "MOC - HistorEE",
@@ -16419,6 +16644,10 @@
     {
       "from": "MOC - HistorEE",
       "to": "Pooling approaches the infinite ensemble and perpetual succession the infinite horizon"
+    },
+    {
+      "from": "MOC - HistorEE",
+      "to": "Pooling raises the rate and individuation draws the boundary"
     },
     {
       "from": "MOC - HistorEE",
@@ -16511,6 +16740,14 @@
     {
       "from": "MOC - HistorEE",
       "to": "Skin in the game"
+    },
+    {
+      "from": "MOC - HistorEE",
+      "to": "Social immunity and superorganism immunity - loci"
+    },
+    {
+      "from": "MOC - HistorEE",
+      "to": "Social immunity is a consequence of individuation not evidence for it"
     },
     {
       "from": "MOC - HistorEE",
@@ -16774,6 +17011,10 @@
     },
     {
       "from": "MOC - HistorEE",
+      "to": "Three immune functions mark a pool that has become a person"
+    },
+    {
+      "from": "MOC - HistorEE",
       "to": "Time-average"
     },
     {
@@ -17030,6 +17271,10 @@
     },
     {
       "from": "MOC - Historiography and method",
+      "to": "Mandeville's hive is the game-theoretic hive"
+    },
+    {
+      "from": "MOC - Historiography and method",
       "to": "Multiplicative amplification is indifferent to what it amplifies"
     },
     {
@@ -17091,6 +17336,10 @@
     {
       "from": "MOC - Historiography and method",
       "to": "Selection frequency trades against organizational memory"
+    },
+    {
+      "from": "MOC - Historiography and method",
+      "to": "Social immunity and superorganism immunity - loci"
     },
     {
       "from": "MOC - Historiography and method",
@@ -18697,6 +18946,34 @@
       "to": "Modi script and the forty million documents"
     },
     {
+      "from": "Mandeville's hive is the game-theoretic hive",
+      "to": "Darwin's bee series is a space-for-time substitution that licenses possibility not pathway"
+    },
+    {
+      "from": "Mandeville's hive is the game-theoretic hive",
+      "to": "Endogenous games rewrite the rules but never the player"
+    },
+    {
+      "from": "Mandeville's hive is the game-theoretic hive",
+      "to": "Fitness decoupling may be a short-horizon artefact"
+    },
+    {
+      "from": "Mandeville's hive is the game-theoretic hive",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Mandeville's hive is the game-theoretic hive",
+      "to": "MOC - Historiography and method"
+    },
+    {
+      "from": "Mandeville's hive is the game-theoretic hive",
+      "to": "Social immunity is a consequence of individuation not evidence for it"
+    },
+    {
+      "from": "Mandeville's hive is the game-theoretic hive",
+      "to": "Stoic loci on cooperation - only two argue from interdependence"
+    },
+    {
       "from": "Mare Liberum was a corporate legal weapon",
       "to": "Entity-shielding"
     },
@@ -18939,6 +19216,34 @@
     {
       "from": "Monte delle doti coding session 2026-10-15",
       "to": "organizational_forms"
+    },
+    {
+      "from": "More than the sum requires a non-additive aggregation rule",
+      "to": "Antifragility is defined by an ensemble Jensen gap"
+    },
+    {
+      "from": "More than the sum requires a non-additive aggregation rule",
+      "to": "Endogenous games rewrite the rules but never the player"
+    },
+    {
+      "from": "More than the sum requires a non-additive aggregation rule",
+      "to": "Jensen gap"
+    },
+    {
+      "from": "More than the sum requires a non-additive aggregation rule",
+      "to": "MOC - Ergodicity and the time-ensemble distinction"
+    },
+    {
+      "from": "More than the sum requires a non-additive aggregation rule",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "More than the sum requires a non-additive aggregation rule",
+      "to": "Pooling raises the rate and individuation draws the boundary"
+    },
+    {
+      "from": "More than the sum requires a non-additive aggregation rule",
+      "to": "The expectation value describes a pool that re-shares not a population"
     },
     {
       "from": "Muhallefat and musadere - confiscation as an archive",
@@ -20327,6 +20632,42 @@
     {
       "from": "Pooling approaches the infinite ensemble and perpetual succession the infinite horizon",
       "to": "Whiggish history of finance names the ascent narrative"
+    },
+    {
+      "from": "Pooling raises the rate and individuation draws the boundary",
+      "to": "Entity shielding and owner shielding protect different trajectories"
+    },
+    {
+      "from": "Pooling raises the rate and individuation draws the boundary",
+      "to": "Fitness decoupling may be a short-horizon artefact"
+    },
+    {
+      "from": "Pooling raises the rate and individuation draws the boundary",
+      "to": "MOC - Entity-shielding and corporate forms"
+    },
+    {
+      "from": "Pooling raises the rate and individuation draws the boundary",
+      "to": "MOC - Ergodicity and the time-ensemble distinction"
+    },
+    {
+      "from": "Pooling raises the rate and individuation draws the boundary",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Pooling raises the rate and individuation draws the boundary",
+      "to": "Pooling approaches the infinite ensemble and perpetual succession the infinite horizon"
+    },
+    {
+      "from": "Pooling raises the rate and individuation draws the boundary",
+      "to": "Social immunity is a consequence of individuation not evidence for it"
+    },
+    {
+      "from": "Pooling raises the rate and individuation draws the boundary",
+      "to": "The expectation value describes a pool that re-shares not a population"
+    },
+    {
+      "from": "Pooling raises the rate and individuation draws the boundary",
+      "to": "Three immune functions mark a pool that has become a person"
     },
     {
       "from": "Pooling's sign is set by the correlation of its baskets",
@@ -22187,6 +22528,58 @@
     {
       "from": "Skin in the game is asymmetric in the mudaraba",
       "to": "organizational_forms"
+    },
+    {
+      "from": "Social immunity and superorganism immunity - loci",
+      "to": "Homoplasy is the finding not the noise"
+    },
+    {
+      "from": "Social immunity and superorganism immunity - loci",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Social immunity and superorganism immunity - loci",
+      "to": "MOC - Historiography and method"
+    },
+    {
+      "from": "Social immunity and superorganism immunity - loci",
+      "to": "Social immunity is a consequence of individuation not evidence for it"
+    },
+    {
+      "from": "Social immunity and superorganism immunity - loci",
+      "to": "The hexagon is optimal only among neighbours"
+    },
+    {
+      "from": "Social immunity and superorganism immunity - loci",
+      "to": "Three immune functions mark a pool that has become a person"
+    },
+    {
+      "from": "Social immunity is a consequence of individuation not evidence for it",
+      "to": "Homoplasy is the finding not the noise"
+    },
+    {
+      "from": "Social immunity is a consequence of individuation not evidence for it",
+      "to": "MOC - Entity-shielding and corporate forms"
+    },
+    {
+      "from": "Social immunity is a consequence of individuation not evidence for it",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Social immunity is a consequence of individuation not evidence for it",
+      "to": "Pooling raises the rate and individuation draws the boundary"
+    },
+    {
+      "from": "Social immunity is a consequence of individuation not evidence for it",
+      "to": "Social immunity and superorganism immunity - loci"
+    },
+    {
+      "from": "Social immunity is a consequence of individuation not evidence for it",
+      "to": "The hexagon is optimal only among neighbours"
+    },
+    {
+      "from": "Social immunity is a consequence of individuation not evidence for it",
+      "to": "Three immune functions mark a pool that has become a person"
     },
     {
       "from": "Sogdian commercial documents - thin but not empty",
@@ -27653,6 +28046,50 @@
       "to": "The alleenrecht is monopoly held as tradable property"
     },
     {
+      "from": "Three immune functions mark a pool that has become a person",
+      "to": "Entity shielding and owner shielding protect different trajectories"
+    },
+    {
+      "from": "Three immune functions mark a pool that has become a person",
+      "to": "Legal scaffolding gives a pool collective properties it does not yet own"
+    },
+    {
+      "from": "Three immune functions mark a pool that has become a person",
+      "to": "MOC - Entity-shielding and corporate forms"
+    },
+    {
+      "from": "Three immune functions mark a pool that has become a person",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Three immune functions mark a pool that has become a person",
+      "to": "Pooling raises the rate and individuation draws the boundary"
+    },
+    {
+      "from": "Three immune functions mark a pool that has become a person",
+      "to": "Skin in the game is asymmetric in the mudaraba"
+    },
+    {
+      "from": "Three immune functions mark a pool that has become a person",
+      "to": "Social immunity and superorganism immunity - loci"
+    },
+    {
+      "from": "Three immune functions mark a pool that has become a person",
+      "to": "Social immunity is a consequence of individuation not evidence for it"
+    },
+    {
+      "from": "Three immune functions mark a pool that has become a person",
+      "to": "The creditor limb of entity shielding has no witness"
+    },
+    {
+      "from": "Three immune functions mark a pool that has become a person",
+      "to": "The isqa refuses the agent's shield"
+    },
+    {
+      "from": "Three immune functions mark a pool that has become a person",
+      "to": "The real cut is shielded-and-pooled versus unshielded"
+    },
+    {
       "from": "Time-average",
       "to": "Absorbing barrier"
     },
@@ -28754,6 +29191,10 @@
     },
     {
       "from": "tags",
+      "to": "Endogenous games rewrite the rules but never the player"
+    },
+    {
+      "from": "tags",
       "to": "Formalism refuses evidence of results and of reasons because neither discriminates"
     },
     {
@@ -28775,6 +29216,10 @@
     {
       "from": "tags",
       "to": "Path dependence requires naming the non-commuting operation"
+    },
+    {
+      "from": "tags",
+      "to": "Pooling raises the rate and individuation draws the boundary"
     },
     {
       "from": "tags",

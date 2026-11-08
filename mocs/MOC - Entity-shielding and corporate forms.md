@@ -103,3 +103,10 @@ Thematic hub for the corporate-form apparatus: asset-partitioning, identity-wrap
 ## Added 2026-11-06
 
 - [[Greif Mokyr and Tabellini 2025 on the clan and the corporation - loci for strand 3]] — GMT use a loose 'corporation' (152) for the cause and Harris's feature bundle (158–59) for the payoff, and concede de facto legal personality and perpetuity to lineage trusts (170–71)
+
+## Added 2026-11-08 — the hive: pool and person
+
+- [[Pooling raises the rate and individuation draws the boundary]] — the ergodicity result aligns members' interests on the long horizon but forms no new unit; boundary, policing and perpetuity are the further step
+- [[Three immune functions mark a pool that has become a person]] — border defence (entity shielding), internal policing (anti-lopsidedness, lock-in) and membership control as a composite individuation probe
+- [[Legal scaffolding gives a pool collective properties it does not yet own]] — components first conferred from outside, the corporation as the internalised scaffold
+- [[Social immunity is a consequence of individuation not evidence for it]] — the colony's immune system presupposes the shift in the unit of selection and polices the new self

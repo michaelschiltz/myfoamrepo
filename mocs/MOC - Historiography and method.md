@@ -180,3 +180,8 @@ Where the sources for the European companies are and are not machine-readable is
 ## Added 2026-11-06 — *Two Paths to Prosperity*
 
 - [[Greif Mokyr and Tabellini 2025 on the clan and the corporation - loci for strand 3]] — the book's culturalist case rests on a riskless model, genealogy dates of claimed ancestors, and space-for-time regressions; strand 3's reference point
+
+## Added 2026-11-08 — the hive as analogy
+
+- [[Social immunity and superorganism immunity - loci]] — Cremer, Pull and McMahon; analogies declared phenomenological by their own authors
+- [[Mandeville's hive is the game-theoretic hive]] — the epigraph takes the Stoic side against Mandeville and Hayek; Rodgers's warning against naturalising analogies

@@ -330,3 +330,15 @@ Project hub for the book. Atomic notes hang off both this project MOC and a them
 ## Added 2026-11-06
 
 - [[Greif Mokyr and Tabellini 2025 on the clan and the corporation - loci for strand 3]]
+
+## Notes — hive emergence sweep
+
+- [[Social immunity and superorganism immunity - loci]]
+- [[Social immunity is a consequence of individuation not evidence for it]]
+- [[Endogenous games rewrite the rules but never the player]]
+- [[More than the sum requires a non-additive aggregation rule]]
+- [[Pooling raises the rate and individuation draws the boundary]]
+- [[Three immune functions mark a pool that has become a person]]
+- [[Fitness decoupling may be a short-horizon artefact]]
+- [[Legal scaffolding gives a pool collective properties it does not yet own]]
+- [[Mandeville's hive is the game-theoretic hive]]
