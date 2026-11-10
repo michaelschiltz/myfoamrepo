@@ -608,7 +608,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Archivo General de Indias - Sevilla",
-      "value": 21,
+      "value": 23,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -644,7 +644,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Archivo Historico Provincial de Sevilla - notarial protocols",
-      "value": 14,
+      "value": 17,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -680,7 +680,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Arxiu Historic de Protocols de Barcelona",
-      "value": 23,
+      "value": 24,
       "color": "#66a61e",
       "shape": "dot"
     },

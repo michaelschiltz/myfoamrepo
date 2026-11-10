@@ -26,6 +26,17 @@ status: seed
 
 **`ESCRIBANIA DE CAMARA`** and **`JUSTICIA`** — litigation. Where a pooling arrangement broke down, this is where the argument about who bore the loss survives.
 
+## The commenda and the partnership afterlife
+
+**Dave De ruysscher** (Tilburg/VUB legal historian, co-supervisor of the European commercial-law post) judged the Sevillian archives, this one and [[Archivo Historico Provincial de Sevilla - notarial protocols]] together, **unique within Europe for commenda material** (conversation of 10 November 2026). The vault had read the AGI almost entirely through the *averia*; this adds a second strand.
+
+The division of labour between the two repositories: **the protocol holds the contract, the AGI holds its afterlife.**
+
+- **`CONTRATACION`, *autos de bienes de difuntos*** — inventories of the estates of merchants who died in the Indies or at sea, often with partnership accounts attached. They show what became of *compania* assets at a partner's death: dissolution or continuation, and whether partnership creditors were paid ahead of heirs and personal creditors. That is direct evidence on two of the five corporate components, **perpetual succession** and **entity shielding**. Fully digitised (see below), which makes this the cheapest high-value series in the archive.
+- **`JUSTICIA` and `ESCRIBANIA DE CAMARA`** — partnership and sea-loan disputes, where the legal content of a notarial formula was actually tested.
+
+⚠️ **Two *averias*.** The convoy levy (*averia* in the Carrera sense, later farmed as an *asiento*) and general average (*averia gruesa*) share a name and must be coded as separate forms, or the pooling evidence double-counts.
+
 ## Digitisation
 
 **Partial, and unevenly.** Complete for passenger records, *bienes de difuntos* and *provisiones*; partial for *reales cedulas*, *registros de navios* and the slave-trade series. Layer 2 where imaged, layer 1 elsewhere. The digitised selection is weighted toward genealogical demand — which is a funding-shaped selection of exactly the kind [[The QDL corpus is conditioned on its funder's geography]] warns against, and it does not favour the commercial-institutional series this project needs.
