@@ -274,6 +274,7 @@ digraph vault {
   "Lloyd's and the marine insurance records" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
   "Lock-in and outcome-coupling are distinct bindings" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Loghi - the KNAW-Nationaal Archief HTR pipeline" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
+  "MICOLL - Padua ERC tracing commercial-law terms is a transmission control not a rival" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
   "Maharashtra State Archives - the Peshwa Daftar" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
   "Mandeville's hive is the game-theoretic hive" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Mare Liberum was a corporate legal weapon" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
@@ -2746,6 +2747,12 @@ digraph vault {
   "Loghi - the KNAW-Nationaal Archief HTR pipeline" -> "Open-source HTR stack - eScriptorium Kraken Loghi";
   "Loghi - the KNAW-Nationaal Archief HTR pipeline" -> "Transkribus - managed HTR platform";
   "Loghi - the KNAW-Nationaal Archief HTR pipeline" -> "VOC digital corpus - what is online and on what terms";
+  "MICOLL - Padua ERC tracing commercial-law terms is a transmission control not a rival" -> "Homoplasy is the finding not the noise";
+  "MICOLL - Padua ERC tracing commercial-law terms is a transmission control not a rival" -> "MOC - ERC Synergy Grant";
+  "MICOLL - Padua ERC tracing commercial-law terms is a transmission control not a rival" -> "MOC - Historiography and method";
+  "MICOLL - Padua ERC tracing commercial-law terms is a transmission control not a rival" -> "Ragusan collegantia is unilateral and Venetian collegantia is bilateral";
+  "MICOLL - Padua ERC tracing commercial-law terms is a transmission control not a rival" -> "Source editions - Italian and Mediterranean commerce";
+  "MICOLL - Padua ERC tracing commercial-law terms is a transmission control not a rival" -> "Transmission versus independent recurrence is the load-bearing test";
   "MOC - Acquisitions and the antiquarian trade" -> "Antiquarian booksellers - the top tier and where economic history sits";
   "MOC - Acquisitions and the antiquarian trade" -> "EIC digital corpus - what is online and on what terms";
   "MOC - Acquisitions and the antiquarian trade" -> "GLOBALISE removes the HTR question for the VOC and leaves it standing for the EIC";
@@ -2966,6 +2973,7 @@ digraph vault {
   "MOC - ERC Synergy Grant" -> "Endogenous games rewrite the rules but never the player";
   "MOC - ERC Synergy Grant" -> "Extending a pool along kin proximity buys N without buying decorrelation";
   "MOC - ERC Synergy Grant" -> "Jensen supplies the gap but only the dynamic privileges the logarithm";
+  "MOC - ERC Synergy Grant" -> "MICOLL - Padua ERC tracing commercial-law terms is a transmission control not a rival";
   "MOC - ERC Synergy Grant" -> "MOC - HistorEE";
   "MOC - ERC Synergy Grant" -> "MOC - Historiography and method";
   "MOC - ERC Synergy Grant" -> "MOC - Islamic contract doctrine";

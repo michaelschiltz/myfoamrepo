@@ -28,11 +28,11 @@ The protocols carry Genoese and Castilian *companias* and sea loans in one conti
 
 ## Literature
 
-- Enrique Otte, *Sevilla y sus mercaderes a fines de la Edad Media* (Sevilla, 1996) — the protocol-based account of the merchant community around 1500.
-- Ruth Pike, *Enterprise and Adventure: The Genoese in Seville and the Opening of the New World* (Ithaca, 1966) — the Genoese *companias* and their notarial footprint.
-- Antonio-Miguel Bernal, *La financiacion de la Carrera de Indias (1492-1824): dinero y credito en el comercio colonial espanol con America* (Sevilla, 1992) — the standard work on the sea loan as risk-sharing; the route in for *prestamos a riesgo*.
+- Enrique Otte, *Sevilla y sus mercaderes a fines de la Edad Media*, ed. Antonio-Miguel Bernal and Antonio Collantes de Teran Sanchez (Sevilla: Fundacion El Monte, 1996) — the protocol-based account of the merchant community around 1500. Zotero `FJ6Z24BT`.
+- Ruth Pike, *Enterprise and Adventure: The Genoese in Seville and the Opening of the New World* (Ithaca: Cornell University Press, 1966) — the Genoese *companias* and their notarial footprint. Zotero `WFHE3X9E`.
+- Antonio-Miguel Bernal, *La financiacion de la Carrera de Indias (1492-1824): dinero y credito en el comercio colonial espanol con America* (Sevilla: Fundacion El Monte; Madrid: Tabapress, 1992) — the standard work on the sea loan as risk-sharing; the route in for *prestamos a riesgo*. Zotero `Y4P7SKHE`.
 
-⚠️ Publishers and full titles to confirm against Zotero; none of the three is yet a source note in the vault.
+⚠️ Dates: the Universidad de Sevilla catalogue lists Otte as 1997, and library records give Bernal a 1993 depot date; both are conventionally cited as above. None of the three is yet a source note in the vault.
 
 ## Scale and finding aids
 

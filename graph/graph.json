@@ -1976,7 +1976,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Homoplasy is the finding not the noise",
-      "value": 76,
+      "value": 77,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -2454,6 +2454,15 @@
       "group": "reference",
       "label": "Loghi - the KNAW-Nationaal Archief HTR pipeline",
       "value": 17,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "MICOLL - Padua ERC tracing commercial-law terms is a transmission control not a rival",
+      "type": "reference",
+      "group": "reference",
+      "label": "MICOLL - Padua ERC tracing commercial-law terms is a transmission control not a rival",
+      "value": 9,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -3155,7 +3164,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Ragusan collegantia is unilateral and Venetian collegantia is bilateral",
-      "value": 28,
+      "value": 29,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -3623,7 +3632,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Source editions - Italian and Mediterranean commerce",
-      "value": 16,
+      "value": 17,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -5171,7 +5180,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Transmission versus independent recurrence is the load-bearing test",
-      "value": 53,
+      "value": 55,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -5477,7 +5486,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - ERC Synergy Grant",
-      "value": 79,
+      "value": 81,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -5549,7 +5558,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Historiography and method",
-      "value": 245,
+      "value": 246,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -14143,6 +14152,30 @@
       "to": "VOC digital corpus - what is online and on what terms"
     },
     {
+      "from": "MICOLL - Padua ERC tracing commercial-law terms is a transmission control not a rival",
+      "to": "Homoplasy is the finding not the noise"
+    },
+    {
+      "from": "MICOLL - Padua ERC tracing commercial-law terms is a transmission control not a rival",
+      "to": "MOC - ERC Synergy Grant"
+    },
+    {
+      "from": "MICOLL - Padua ERC tracing commercial-law terms is a transmission control not a rival",
+      "to": "MOC - Historiography and method"
+    },
+    {
+      "from": "MICOLL - Padua ERC tracing commercial-law terms is a transmission control not a rival",
+      "to": "Ragusan collegantia is unilateral and Venetian collegantia is bilateral"
+    },
+    {
+      "from": "MICOLL - Padua ERC tracing commercial-law terms is a transmission control not a rival",
+      "to": "Source editions - Italian and Mediterranean commerce"
+    },
+    {
+      "from": "MICOLL - Padua ERC tracing commercial-law terms is a transmission control not a rival",
+      "to": "Transmission versus independent recurrence is the load-bearing test"
+    },
+    {
       "from": "MOC - Acquisitions and the antiquarian trade",
       "to": "Antiquarian booksellers - the top tier and where economic history sits"
     },
@@ -15021,6 +15054,10 @@
     {
       "from": "MOC - ERC Synergy Grant",
       "to": "Jensen supplies the gap but only the dynamic privileges the logarithm"
+    },
+    {
+      "from": "MOC - ERC Synergy Grant",
+      "to": "MICOLL - Padua ERC tracing commercial-law terms is a transmission control not a rival"
     },
     {
       "from": "MOC - ERC Synergy Grant",

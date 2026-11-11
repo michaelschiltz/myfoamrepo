@@ -53,6 +53,10 @@ The Part 2 WP1 session's *ideas* are written as atomic notes (below) and kept un
 - [[Extending a pool along kin proximity buys N without buying decorrelation]] — the constraint the Hierocles passage exposes, and the coding consequence it hands Objective 1
 - [[The hexagon is optimal only among neighbours]] — the comb as the material object behind 6.54: optimum on the configuration, enjoyed by each cell severally; an emblem of cost-sharing, not of the time-average mechanism
 
+## Competition landscape
+
+- [[MICOLL - Padua ERC tracing commercial-law terms is a transmission control not a rival]] — the nearest live ERC project to the European commercial-law strand; traces terms where we code functions, and its glossary serves our transmission control
+
 ## Links
 
 - [[MOC - HistorEE]]
