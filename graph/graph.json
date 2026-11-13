@@ -1562,7 +1562,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Fitness decoupling may be a short-horizon artefact",
-      "value": 16,
+      "value": 18,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -2390,7 +2390,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Legal scaffolding gives a pool collective properties it does not yet own",
-      "value": 15,
+      "value": 17,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -3029,7 +3029,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Pooling approaches the infinite ensemble and perpetual succession the infinite horizon",
-      "value": 34,
+      "value": 36,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -4654,11 +4654,11 @@
       "shape": "dot"
     },
     {
-      "id": "The hive is the wrong model for pools of unrelated partners",
+      "id": "The hive models the corporation's emergent layer not the route by which it formed",
       "type": "permanent",
       "group": "seed",
-      "label": "The hive is the wrong model for pools of unrelated partners",
-      "value": 19,
+      "label": "The hive models the corporation's emergent layer not the route by which it formed",
+      "value": 25,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -15338,7 +15338,7 @@
     },
     {
       "from": "MOC - Entity-shielding and corporate forms",
-      "to": "The hive is the wrong model for pools of unrelated partners"
+      "to": "The hive models the corporation's emergent layer not the route by which it formed"
     },
     {
       "from": "MOC - Entity-shielding and corporate forms",
@@ -16970,7 +16970,7 @@
     },
     {
       "from": "MOC - HistorEE",
-      "to": "The hive is the wrong model for pools of unrelated partners"
+      "to": "The hive models the corporation's emergent layer not the route by which it formed"
     },
     {
       "from": "MOC - HistorEE",
@@ -20738,7 +20738,7 @@
     },
     {
       "from": "Pooling raises the rate and individuation draws the boundary",
-      "to": "The hive is the wrong model for pools of unrelated partners"
+      "to": "The hive models the corporation's emergent layer not the route by which it formed"
     },
     {
       "from": "Pooling raises the rate and individuation draws the boundary",
@@ -22658,7 +22658,7 @@
     },
     {
       "from": "Social immunity is a consequence of individuation not evidence for it",
-      "to": "The hive is the wrong model for pools of unrelated partners"
+      "to": "The hive models the corporation's emergent layer not the route by which it formed"
     },
     {
       "from": "Social immunity is a consequence of individuation not evidence for it",
@@ -26441,39 +26441,51 @@
       "to": "Time-average optimization is a survivorship property not an intention"
     },
     {
-      "from": "The hive is the wrong model for pools of unrelated partners",
+      "from": "The hive models the corporation's emergent layer not the route by which it formed",
       "to": "Arthur's lock-in and capital lock-in are different objects"
     },
     {
-      "from": "The hive is the wrong model for pools of unrelated partners",
+      "from": "The hive models the corporation's emergent layer not the route by which it formed",
+      "to": "Fitness decoupling may be a short-horizon artefact"
+    },
+    {
+      "from": "The hive models the corporation's emergent layer not the route by which it formed",
+      "to": "Legal scaffolding gives a pool collective properties it does not yet own"
+    },
+    {
+      "from": "The hive models the corporation's emergent layer not the route by which it formed",
       "to": "MOC - Entity-shielding and corporate forms"
     },
     {
-      "from": "The hive is the wrong model for pools of unrelated partners",
+      "from": "The hive models the corporation's emergent layer not the route by which it formed",
       "to": "MOC - HistorEE"
     },
     {
-      "from": "The hive is the wrong model for pools of unrelated partners",
+      "from": "The hive models the corporation's emergent layer not the route by which it formed",
       "to": "Mandeville's hive is the game-theoretic hive"
     },
     {
-      "from": "The hive is the wrong model for pools of unrelated partners",
+      "from": "The hive models the corporation's emergent layer not the route by which it formed",
+      "to": "Pooling approaches the infinite ensemble and perpetual succession the infinite horizon"
+    },
+    {
+      "from": "The hive models the corporation's emergent layer not the route by which it formed",
       "to": "Pooling raises the rate and individuation draws the boundary"
     },
     {
-      "from": "The hive is the wrong model for pools of unrelated partners",
+      "from": "The hive models the corporation's emergent layer not the route by which it formed",
       "to": "Social immunity is a consequence of individuation not evidence for it"
     },
     {
-      "from": "The hive is the wrong model for pools of unrelated partners",
+      "from": "The hive models the corporation's emergent layer not the route by which it formed",
       "to": "The fictive household supplied partition and perpetuity without legal personality"
     },
     {
-      "from": "The hive is the wrong model for pools of unrelated partners",
+      "from": "The hive models the corporation's emergent layer not the route by which it formed",
       "to": "The ie as entity-shielding"
     },
     {
-      "from": "The hive is the wrong model for pools of unrelated partners",
+      "from": "The hive models the corporation's emergent layer not the route by which it formed",
       "to": "Three immune functions mark a pool that has become a person"
     },
     {

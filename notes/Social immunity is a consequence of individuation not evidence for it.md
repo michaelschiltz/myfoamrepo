@@ -33,7 +33,7 @@ Two full-text readings bear on this note. **Support:** Boomsma and Gawne 2018 (1
 - [[Social immunity and superorganism immunity - loci]]
 - [[Three immune functions mark a pool that has become a person]]
 - [[Pooling raises the rate and individuation draws the boundary]]
-- [[The hive is the wrong model for pools of unrelated partners]]
+- [[The hive models the corporation's emergent layer not the route by which it formed]]
 - [[The hexagon is optimal only among neighbours]]
 - [[Homoplasy is the finding not the noise]]
 - [[MOC - Entity-shielding and corporate forms]]
