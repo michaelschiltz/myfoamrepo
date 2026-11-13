@@ -518,6 +518,7 @@ digraph vault {
   "The growth-rate criterion is asymptotic and the horizon comparison cuts both ways" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "The heter iska restores the fixed return by evidentiary barrier" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "The hexagon is optimal only among neighbours" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
+  "The hive is the wrong model for pools of unrelated partners" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "The ie as entity-shielding" [fillcolor="#666666", fontcolor=white, shape=ellipse];
   "The isqa is Lindy because captive not because robust" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "The isqa refuses the agent's shield" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
@@ -3041,6 +3042,7 @@ digraph vault {
   "MOC - Entity-shielding and corporate forms" -> "The durable-and-coupled cell is the underexplored one";
   "MOC - Entity-shielding and corporate forms" -> "The fictive household supplied partition and perpetuity without legal personality";
   "MOC - Entity-shielding and corporate forms" -> "The four-step decoupling from participation to the veil";
+  "MOC - Entity-shielding and corporate forms" -> "The hive is the wrong model for pools of unrelated partners";
   "MOC - Entity-shielding and corporate forms" -> "The ie as entity-shielding";
   "MOC - Entity-shielding and corporate forms" -> "The isqa is Lindy because captive not because robust";
   "MOC - Entity-shielding and corporate forms" -> "The isqa refuses the agent's shield";
@@ -3448,6 +3450,7 @@ digraph vault {
   "MOC - HistorEE" -> "The growth-rate criterion is asymptotic and the horizon comparison cuts both ways";
   "MOC - HistorEE" -> "The heter iska restores the fixed return by evidentiary barrier";
   "MOC - HistorEE" -> "The hexagon is optimal only among neighbours";
+  "MOC - HistorEE" -> "The hive is the wrong model for pools of unrelated partners";
   "MOC - HistorEE" -> "The ie as entity-shielding";
   "MOC - HistorEE" -> "The isqa is Lindy because captive not because robust";
   "MOC - HistorEE" -> "The isqa refuses the agent's shield";
@@ -4389,6 +4392,7 @@ digraph vault {
   "Pooling raises the rate and individuation draws the boundary" -> "Pooling approaches the infinite ensemble and perpetual succession the infinite horizon";
   "Pooling raises the rate and individuation draws the boundary" -> "Social immunity is a consequence of individuation not evidence for it";
   "Pooling raises the rate and individuation draws the boundary" -> "The expectation value describes a pool that re-shares not a population";
+  "Pooling raises the rate and individuation draws the boundary" -> "The hive is the wrong model for pools of unrelated partners";
   "Pooling raises the rate and individuation draws the boundary" -> "Three immune functions mark a pool that has become a person";
   "Pooling's sign is set by the correlation of its baskets" -> "Absorbing barrier";
   "Pooling's sign is set by the correlation of its baskets" -> "Entity-shielding";
@@ -4868,6 +4872,7 @@ digraph vault {
   "Social immunity is a consequence of individuation not evidence for it" -> "Pooling raises the rate and individuation draws the boundary";
   "Social immunity is a consequence of individuation not evidence for it" -> "Social immunity and superorganism immunity - loci";
   "Social immunity is a consequence of individuation not evidence for it" -> "The hexagon is optimal only among neighbours";
+  "Social immunity is a consequence of individuation not evidence for it" -> "The hive is the wrong model for pools of unrelated partners";
   "Social immunity is a consequence of individuation not evidence for it" -> "Three immune functions mark a pool that has become a person";
   "Sogdian commercial documents - thin but not empty" -> "Institute of Oriental Manuscripts - St Petersburg";
   "Sogdian commercial documents - thin but not empty" -> "Invisible East - an open corpus for the eastern Islamicate documents";
@@ -5813,6 +5818,15 @@ digraph vault {
   "The hexagon is optimal only among neighbours" -> "Practice answers the problem as posed and the proof says which problem that was";
   "The hexagon is optimal only among neighbours" -> "Stoic loci on cooperation - only two argue from interdependence";
   "The hexagon is optimal only among neighbours" -> "Time-average optimization is a survivorship property not an intention";
+  "The hive is the wrong model for pools of unrelated partners" -> "Arthur's lock-in and capital lock-in are different objects";
+  "The hive is the wrong model for pools of unrelated partners" -> "MOC - Entity-shielding and corporate forms";
+  "The hive is the wrong model for pools of unrelated partners" -> "MOC - HistorEE";
+  "The hive is the wrong model for pools of unrelated partners" -> "Mandeville's hive is the game-theoretic hive";
+  "The hive is the wrong model for pools of unrelated partners" -> "Pooling raises the rate and individuation draws the boundary";
+  "The hive is the wrong model for pools of unrelated partners" -> "Social immunity is a consequence of individuation not evidence for it";
+  "The hive is the wrong model for pools of unrelated partners" -> "The fictive household supplied partition and perpetuity without legal personality";
+  "The hive is the wrong model for pools of unrelated partners" -> "The ie as entity-shielding";
+  "The hive is the wrong model for pools of unrelated partners" -> "Three immune functions mark a pool that has become a person";
   "The ie as entity-shielding" -> "Entity-shielding";
   "The ie as entity-shielding" -> "MOC - Entity-shielding and corporate forms";
   "The ie as entity-shielding" -> "MOC - HistorEE";
@@ -6251,6 +6265,7 @@ digraph vault {
   "Three immune functions mark a pool that has become a person" -> "Skin in the game is asymmetric in the mudaraba";
   "Three immune functions mark a pool that has become a person" -> "Social immunity and superorganism immunity - loci";
   "Three immune functions mark a pool that has become a person" -> "Social immunity is a consequence of individuation not evidence for it";
+  "Three immune functions mark a pool that has become a person" -> "The colony's immune boundary is a graded configuration not a wall";
   "Three immune functions mark a pool that has become a person" -> "The creditor limb of entity shielding has no witness";
   "Three immune functions mark a pool that has become a person" -> "The isqa refuses the agent's shield";
   "Three immune functions mark a pool that has become a person" -> "The real cut is shielded-and-pooled versus unshielded";

@@ -24,11 +24,16 @@ Pull and McMahon 2020 treat colony immunity as itself a major transition in immu
 
 The colony–organism parallel is a functional homoplasy, declared phenomenological by its own authors (Cremer and Sixt 2009, 129), with stated disanalogies: workers are genetically diverse, colonies can expel members and abandon nests, and there is no social autoimmunity. The project's discipline is the same ([[Homoplasy is the finding not the noise]]). Nor does the literature establish that collective defence lets individual defence atrophy: the *Lasius* result is pathogen-specific and its erosion hypothesis untested, and the bees' thin immune repertoire precedes their sociality ([[Social immunity and superorganism immunity - loci]]). A transfer to institutions that has collective protection hollowing out individual protection must be stated as a possibility.
 
+## Revision 2026-11-13
+
+Two full-text readings bear on this note. **Support:** Boomsma and Gawne 2018 (19) state that caste-differentiated superorganisms, like the co-replicons of a multicellular body, "lack cross-purpose conflict" over "resource acquisition, infrastructure maintenance, and immune defence" — immune defence is one of the functions that becomes conflict-free only after the point of no return. **Qualification:** Pull and McMahon fold the policing of internal cheaters into superorganism immunity. Gardner and Grafen 2009 prove that policing cannot be a group adaptation, and Boomsma and Gawne date it after the transition, as a response to falling relatedness. Defence against parasites and maintenance of colony identity belong to the new individual. Policing is better read as the members' response to their own heterogeneity ([[Three immune functions mark a pool that has become a person]], revision of the same date).
+
 ## Links
 
 - [[Social immunity and superorganism immunity - loci]]
 - [[Three immune functions mark a pool that has become a person]]
 - [[Pooling raises the rate and individuation draws the boundary]]
+- [[The hive is the wrong model for pools of unrelated partners]]
 - [[The hexagon is optimal only among neighbours]]
 - [[Homoplasy is the finding not the noise]]
 - [[MOC - Entity-shielding and corporate forms]]

@@ -26,6 +26,16 @@ A form showing all three has crossed into individuation; one showing none is a p
 
 Colonies can expel members and abandon nests, which bodies cannot; institutions can do both. The correspondence is therefore closer for institutions than for organisms in one respect, and that is a reason to code it, not to celebrate it.
 
+## Revision 2026-11-13 — policing marks heterogeneity, not individuation
+
+Three sources read in full move the second function out of the composite.
+
+- Gardner and Grafen 2009 prove that policing and other conflict-repression mechanisms "cannot be regarded as group adaptations"; honey-bee worker policing is an individual-level, nepotistic adaptation that produces near-complete repression of competition, under which only four of their six group-as-maximising-agent correspondences hold.
+- Boomsma and Gawne 2018 (19) place policing among the secondary elaborations that followed the transition, arising "in response to lower offspring relatedness when colonies started to adopt or replace queens, or queens evolved multiple mating."
+- Hansmann, Kraakman and Squire 2006 (5) say the policing problem worsens with the number of owners and with transferable shares, "so that the set of owners is constantly changing."
+
+So internal policing is not a marker of crossing into individuation; it is a marker of heterogeneous or changing membership *within* a unit already constituted. Revised probe: border defence and membership control mark individuation; policing intensity is a separate variable, predicted to rise with member heterogeneity and turnover. Hansmann, Kraakman and Squire also grade border defence three ways — weak, strong, complete entity shielding — and the complete grade (non-profits, charitable trusts) is where the *waqf* belongs. See [[The colony's immune boundary is a graded configuration not a wall]].
+
 ## Links
 
 - [[Social immunity is a consequence of individuation not evidence for it]]

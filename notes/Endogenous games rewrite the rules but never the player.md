@@ -10,7 +10,7 @@ status: seed
 
 # Endogenous games rewrite the rules but never the player
 
-**"Game theory treats the game as fixed" describes the textbook, not the field, and a referee will say so. Since about 2007 payoffs, environments and interaction structures have all been endogenised. What none of these models lets change is the identity of the bearer of the payoff. A transition in individuality is precisely the appearance of a new bearer; the one game-theoretic model that represents it loses individual fitness as a defined quantity. The defensible claim is therefore narrower and stronger: fixed-player formalisms can rewrite the regulative rules of a game but cannot constitute a new player. In transition theory the hierarchy "moves from being part of the explanans to being part of the explanandum" (Okasha 2022, 6).**
+**"Game theory treats the game as fixed" describes the textbook, not the field, and a referee will say so. Since about 2007 payoffs, environments and interaction structures have all been endogenised, and the player set is not sacrosanct either: agents join self-assembling games, the number and identity of players drift as Greif and Laitin's quasi-parameters, and Clejan et al. end with "an evolutionary game with only one player, the group." What survives is narrower: a change of player is represented by re-specifying the game — before and after, parameter drift outside the game, or a comparison of regimes — never as a process inside one game. The constitution of a new bearer of interests is what the formalism leaves between its models. In transition theory the hierarchy "moves from being part of the explanans to being part of the explanandum" (Okasha 2022, 6).** *(Lead revised 2026-11-13 after full-text rereading; the 2026-11-08 version claimed every model fixes the player set and that endogenous games endogenise only regulative rules. Both claims fail; see the revision section.)*
 
 ## The literature that endogenises the game
 
@@ -34,6 +34,18 @@ The proposal's phrase — rewriting the rules of the game and the game itself �
 ## The strongest opposing case
 
 West et al. 2015 (*PNAS* 112: 10112–19) and Gardner and Grafen 2009 (*JEB* 22: 659–71) hold inclusive-fitness theory adequate to the transitions: the group becomes a maximising agent once within-group conflict is negligible. West et al. concede that satisfying Hamilton's rule is not sufficient for a transition (10118). The reply is that the alignment conditions are the explanandum, and that under multiplicative growth alignment can come from the dynamics rather than from relatedness ([[Pooling raises the rate and individuation draws the boundary]]).
+
+## Revision 2026-11-13 — what the full texts change
+
+Reread from the PDFs in the Zotero collection *HistorEE — the hive*.
+
+- **Barrett and Skyrms 2017** (*BJPS* 68: 329–53) ask where games come from — "how did individuals … come to interact in such a way that the interactions can usefully be characterized as a game with specified players" (330) — and model polymerisation, in which "as new agents are added, the composite game grows in complexity" (336). Players are added inside the dynamics. They are lower-level agents joining a chain, not a collective acquiring standing; their note 10 runs the other way, treating functional units inside one organism as agents.
+- **Greif and Laitin 2004** list "the number of players" among the parameters of the underlying game and let institutions shift identity and similar quasi-parameters over the long run; they note that organisations "are often assumed." Player change is admitted, and located outside the game, as slow drift of what each game takes as given.
+- **Clejan, Congleton and Lerch 2022** (*Evolution* 76: 1689–1705) do produce the new player inside evolutionary game theory: once part fitnesses are undefined, "we now have an evolutionary game with only one player, the group, and one fitness function", the dominant eigenvalue λ₁. They compare a sharing regime with a distinct regime; the passage between the two is not modelled. The earlier phrase "the formalism records emergence as its own breakdown" should read: the formalism records emergence by changing the game it is solving.
+- **Hédoin 2015** defines a rule as constitutive of a game "if a change in the rule necessarily entails a change in the game that is played", including strategy sets and payoff functions (440). On that definition, evolving payoff matrices are constitutive change, and the earlier mapping — endogenous games endogenise regulative rules — is wrong. What remains distinctive is the narrower class of status functions, Searle's "X counts as Y in C", which create a position and its deontic powers. Legal personality is a status function of exactly that kind. Hédoin's own thesis — constitutive rules need a non-individualist game theory (normative expectations, correlated devices) — still supports the project's line.
+- **Akçay 2020** (read in full) maps five evolving components of the setting — game, proximate mechanism, interaction network, demography, inheritance — and none of them is the level at which fitness is counted.
+
+Proposed rename, not applied (vault rule: no renames without confirmation): *Game models change the player only by re-specifying the game*.
 
 ## Links
 

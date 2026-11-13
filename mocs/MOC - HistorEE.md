@@ -343,3 +343,4 @@ Project hub for the book. Atomic notes hang off both this project MOC and a them
 - [[Legal scaffolding gives a pool collective properties it does not yet own]]
 - [[Mandeville's hive is the game-theoretic hive]]
 - [[The colony's immune boundary is a graded configuration not a wall]]
+- [[The hive is the wrong model for pools of unrelated partners]]

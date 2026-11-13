@@ -24,6 +24,10 @@ Scaffolded properties should be conferred by an outside party in each instance (
 
 Black, Bourrat and Rainey's scaffold is ecological and causes selection among patches; a legal scaffold is an instrument conferred by a party with its own interests, which may withdraw it. The transfer is an analogy of structure. Test against two or three coded cases — one pooling contract, one *waqf*, one shielded form — before it enters proposal text.
 
+## Revision 2026-11-13 — the scaffold is generalised, not internalised
+
+Hansmann, Kraakman and Squire 2006 (read in full, SSRN version, printed 4–6) defeat the internalisation thesis above. Entity shielding "requires law; owner shielding does not": members can contract for limited liability and for liquidation protection among themselves, but no contract among members binds their personal creditors, so the boundary against third parties exists only as a property rule imposed by the legal order. The corporation's boundary therefore never ceases to depend on an outside party. What changes is the *form* of the dependence: a privilege conferred case by case, revocable and jurisdiction-bound, becomes a standard form available to anyone who files — a general rule of property law, and a *numerus clausus* type. Black, Bourrat and Rainey's distinction survives in altered shape. The relevant transition is from particular scaffold to general scaffold, not from scaffold to self-support. The prediction in the section above stands for liquidation protection against owners, which Hansmann, Kraakman and Squire say contract can supply in degree. It does not stand for protection against creditors.
+
 ## Links
 
 - [[Three immune functions mark a pool that has become a person]]

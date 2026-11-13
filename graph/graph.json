@@ -671,7 +671,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Arthur's lock-in and capital lock-in are different objects",
-      "value": 22,
+      "value": 24,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -2480,7 +2480,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Mandeville's hive is the game-theoretic hive",
-      "value": 13,
+      "value": 14,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -3038,7 +3038,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Pooling raises the rate and individuation draws the boundary",
-      "value": 25,
+      "value": 29,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -3569,7 +3569,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Social immunity is a consequence of individuation not evidence for it",
-      "value": 21,
+      "value": 24,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -4451,7 +4451,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The colony's immune boundary is a graded configuration not a wall",
-      "value": 18,
+      "value": 19,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -4595,7 +4595,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The fictive household supplied partition and perpetuity without legal personality",
-      "value": 24,
+      "value": 26,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -4654,11 +4654,20 @@
       "shape": "dot"
     },
     {
+      "id": "The hive is the wrong model for pools of unrelated partners",
+      "type": "permanent",
+      "group": "seed",
+      "label": "The hive is the wrong model for pools of unrelated partners",
+      "value": 19,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
       "id": "The ie as entity-shielding",
       "type": "permanent",
       "group": "stub",
       "label": "The ie as entity-shielding",
-      "value": 23,
+      "value": 25,
       "color": "#666666",
       "shape": "dot"
     },
@@ -5081,7 +5090,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Three immune functions mark a pool that has become a person",
-      "value": 23,
+      "value": 26,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -5495,7 +5504,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Entity-shielding and corporate forms",
-      "value": 160,
+      "value": 162,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -5549,7 +5558,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - HistorEE",
-      "value": 527,
+      "value": 529,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -15329,6 +15338,10 @@
     },
     {
       "from": "MOC - Entity-shielding and corporate forms",
+      "to": "The hive is the wrong model for pools of unrelated partners"
+    },
+    {
+      "from": "MOC - Entity-shielding and corporate forms",
       "to": "The ie as entity-shielding"
     },
     {
@@ -16954,6 +16967,10 @@
     {
       "from": "MOC - HistorEE",
       "to": "The hexagon is optimal only among neighbours"
+    },
+    {
+      "from": "MOC - HistorEE",
+      "to": "The hive is the wrong model for pools of unrelated partners"
     },
     {
       "from": "MOC - HistorEE",
@@ -20721,6 +20738,10 @@
     },
     {
       "from": "Pooling raises the rate and individuation draws the boundary",
+      "to": "The hive is the wrong model for pools of unrelated partners"
+    },
+    {
+      "from": "Pooling raises the rate and individuation draws the boundary",
       "to": "Three immune functions mark a pool that has become a person"
     },
     {
@@ -22634,6 +22655,10 @@
     {
       "from": "Social immunity is a consequence of individuation not evidence for it",
       "to": "The hexagon is optimal only among neighbours"
+    },
+    {
+      "from": "Social immunity is a consequence of individuation not evidence for it",
+      "to": "The hive is the wrong model for pools of unrelated partners"
     },
     {
       "from": "Social immunity is a consequence of individuation not evidence for it",
@@ -26416,6 +26441,42 @@
       "to": "Time-average optimization is a survivorship property not an intention"
     },
     {
+      "from": "The hive is the wrong model for pools of unrelated partners",
+      "to": "Arthur's lock-in and capital lock-in are different objects"
+    },
+    {
+      "from": "The hive is the wrong model for pools of unrelated partners",
+      "to": "MOC - Entity-shielding and corporate forms"
+    },
+    {
+      "from": "The hive is the wrong model for pools of unrelated partners",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "The hive is the wrong model for pools of unrelated partners",
+      "to": "Mandeville's hive is the game-theoretic hive"
+    },
+    {
+      "from": "The hive is the wrong model for pools of unrelated partners",
+      "to": "Pooling raises the rate and individuation draws the boundary"
+    },
+    {
+      "from": "The hive is the wrong model for pools of unrelated partners",
+      "to": "Social immunity is a consequence of individuation not evidence for it"
+    },
+    {
+      "from": "The hive is the wrong model for pools of unrelated partners",
+      "to": "The fictive household supplied partition and perpetuity without legal personality"
+    },
+    {
+      "from": "The hive is the wrong model for pools of unrelated partners",
+      "to": "The ie as entity-shielding"
+    },
+    {
+      "from": "The hive is the wrong model for pools of unrelated partners",
+      "to": "Three immune functions mark a pool that has become a person"
+    },
+    {
       "from": "The ie as entity-shielding",
       "to": "Entity-shielding"
     },
@@ -28166,6 +28227,10 @@
     {
       "from": "Three immune functions mark a pool that has become a person",
       "to": "Social immunity is a consequence of individuation not evidence for it"
+    },
+    {
+      "from": "Three immune functions mark a pool that has become a person",
+      "to": "The colony's immune boundary is a graded configuration not a wall"
     },
     {
       "from": "Three immune functions mark a pool that has become a person",

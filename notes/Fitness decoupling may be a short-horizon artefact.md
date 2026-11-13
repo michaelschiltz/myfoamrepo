@@ -25,6 +25,10 @@ On the time-average horizon, what does not profit the swarm does not profit the 
 
 [[The growth-rate criterion is asymptotic and the horizon comparison cuts both ways]] binds the vault to naming the horizon and the relaxation time whenever an asymptotic criterion is invoked. The same holds here: the claim is that levels coincide in the limit, and the historical question is whether an institution's horizon reaches the limit. It connects to WP3's spatial-versus-temporal ergodicity distinction and to [[Pooling approaches the infinite ensemble and perpetual succession the infinite horizon]], where perpetual succession is the device that lets a trajectory reach the long horizon at all.
 
+## Revision 2026-11-13 — independent support
+
+Clejan, Congleton and Lerch 2022 define the emergent group fitness as the dominant eigenvalue of the linearised invasion dynamics, valid "assuming long enough times that the subdominant eigenvalue component has become negligible." Their group fitness is a long-run growth rate by construction. Over shorter horizons the subdominant component carries the parts' separate dynamics. That is the same structure Bourrat et al. find, reached independently, and it strengthens the horizon reading without yet making it a result.
+
 ## Links
 
 - [[The growth-rate criterion is asymptotic and the horizon comparison cuts both ways]]

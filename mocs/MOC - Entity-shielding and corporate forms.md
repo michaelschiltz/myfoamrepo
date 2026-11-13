@@ -111,3 +111,4 @@ Thematic hub for the corporate-form apparatus: asset-partitioning, identity-wrap
 - [[Legal scaffolding gives a pool collective properties it does not yet own]] — components first conferred from outside, the corporation as the internalised scaffold
 - [[Social immunity is a consequence of individuation not evidence for it]] — the colony's immune system presupposes the shift in the unit of selection and polices the new self
 - [[The colony's immune boundary is a graded configuration not a wall]] — Fernandes et al. 2026: colony defences as zones of graded, selective permeability; read border defence as weak/strong entity shielding and membership as terms of admission
+- [[The hive is the wrong model for pools of unrelated partners]] — Boomsma and Gawne: superorganisms arose only top-down from lifetime monogamy; the hive models the *ie*, not the partnership; capital lock-in as the institutional point of no return (reread 2026-11-13)

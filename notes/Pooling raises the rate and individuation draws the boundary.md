@@ -25,6 +25,12 @@ status: seed
 
 West et al. 2015 and Gardner and Grafen 2009 treat the group as a maximising agent once conflict is negligible. The alignment that permits this is, under multiplicative dynamics, a consequence of the dynamics: on the time-average horizon the members' and the pool's growth rates coincide. That is a derivation of the alignment condition, not an appeal to relatedness, and it is the project's distinctive contribution to the debate — provided it is not stretched into a derivation of the boundary, which it is not.
 
+## Revision 2026-11-13 — the boundary comes first
+
+Clejan, Congleton and Lerch 2022, read in full, reverse the order this note implies. A well-defined group fitness emerges only under two conditions, and the second is a boundary: resources produced inside the group "are not shared" with resident groups. When the invaders share with residents, each part's fitness is still maximised separately; when they do not, part fitnesses become undefined and the group's growth rate — the dominant eigenvalue — is the only fitness there is ("the distinctness condition implies some boundary for the invading group"). Read against Peters and Adamou, the bridge is exact: a pool that re-shares with everyone raises each member's time-average rate and creates no unit; the same pool closed to outsiders is the minimal case of a new individual. **Closure is not a later step after pooling. It is what turns a pool into a unit.** For the archive this is a coding question about every pooling form: was the shared fund open to outsiders' claims or closed against them? Closure against members' creditors is entity shielding; closure against non-members' participation is membership. Both, not pooling, are the markers of individuation.
+
+Boomsma and Gawne 2018 add a second constraint: in biology, aggregation of unrelated units has never produced a superorganism. See [[The hive is the wrong model for pools of unrelated partners]].
+
 ## Links
 
 - [[The expectation value describes a pool that re-shares not a population]]
@@ -33,6 +39,7 @@ West et al. 2015 and Gardner and Grafen 2009 treat the group as a maximising age
 - [[Social immunity is a consequence of individuation not evidence for it]]
 - [[Three immune functions mark a pool that has become a person]]
 - [[Fitness decoupling may be a short-horizon artefact]]
+- [[The hive is the wrong model for pools of unrelated partners]]
 - [[MOC - Entity-shielding and corporate forms]]
 - [[MOC - Ergodicity and the time-ensemble distinction]]
 - [[MOC - HistorEE]]

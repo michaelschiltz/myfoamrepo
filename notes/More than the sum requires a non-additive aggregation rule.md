@@ -18,7 +18,7 @@ status: seed
 |---|---|---|
 | Pooling under multiplicative growth | Peters and Adamou 2022; Fant et al. 2023 | the time average of a product is not the average of the factors: pooled growth $\mu - \sigma^2/2N$ against $\mu - \sigma^2/2$ alone |
 | Germ–soma specialisation | Michod 2006 | group fitness $W = VB$ equals mean cell fitness minus $\mathrm{Cov}(v,b)$; under a convex viability–fecundity trade-off the covariance is negative and the group outgrows its average member |
-| Emergent group fitness | Clejan, Congleton and Lerch 2022 | density-proportional resource contributions not shared with invaders entangle members' outcomes until individual fitness is undefined |
+| Emergent group fitness | Clejan, Congleton and Lerch 2022 | density-proportional resource contributions not shared with outsiders entangle members' outcomes until individual fitness is undefined; group fitness is the dominant eigenvalue, "not a sum or average of the constituent parts" (read in full 2026-11-13) |
 
 Michod 2006, *PNAS* 103: 9113–17 (read in full): specialisation costs each cell and benefits the group, so germ and soma are altruists in the accounting (9115–16). Peters and Adamou 2022, *Phil. Trans. R. Soc. A* 380: 20200425 (read in full): the gain $\tfrac{\sigma^2}{2}(1 - 1/N)$ comes from reduced volatility, not higher drift ([[The expectation value describes a pool that re-shares not a population]]).
 

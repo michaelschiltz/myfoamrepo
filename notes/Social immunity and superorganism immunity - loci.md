@@ -42,12 +42,12 @@ Loci from the hive sweep of 8 November 2026 (Undermind workspace *HistorEE — t
 ## Individual against collective defence
 
 - † Masson et al. 2024, *Nature Communications* 15, doi:10.1038/s41467-024-53527-4. *Lasius niger*: systemic individual immunity against bacteria, none against fungi; grooming and group living protect against fungi only. Erosion of antifungal immunity by relaxed selection is proposed, not tested (8).
-- López-Uribe et al. 2016, *Biology Letters* 12: 20150984 (reduced cellular response in social lineages; abstract only); He et al. 2021, *Proc. R. Soc. B* 288: 20203168 (termites).
+- López-Uribe et al. 2016, *Biology Letters* 12: 20150984 (encapsulation response falls with *colony size* across eleven lineages; the predictor is colony size, not eusociality as such); He et al. 2021, *Proc. R. Soc. B* 288: 20203168 (termites).
 - Barribeau et al. 2015, *Genome Biology* 16: 83 — the depauperate bee repertoire *precedes* sociality. The general trade-off is unproven.
 
 ## Genetic diversity
 
-- Tarpy 2003, *Proc. R. Soc. B* 270: 99–103, doi:10.1098/rspb.2002.2199 (prevents *severe* infections); Seeley and Tarpy 2007, *Proc. R. Soc. B* 274: 67–72, doi:10.1098/rspb.2006.3702; Oldroyd and Fewell 2007, *TREE* 22: 408–13.
+- † Tarpy 2003, *Proc. R. Soc. B* 270: 99–103, doi:10.1098/rspb.2002.2199. Chalkbrood inoculation, colonies of single-drone against pooled-semen queens (final n = 18 and 8). Means did not differ for disease, colony mass or final population; *variances* did — disease prevalence (Bartlett p < 0.0001), brood viability, hygienic behaviour, final population. Tarpy frames polyandry as bet-hedging on "reducing the variance in fitness over time" (after Gillespie 1976): monandrous colonies "are more likely to fail." Chalkbrood is benign (maximum ca. 2.3% of brood infected). The finding is variance, not growth; Seeley and Tarpy 2007, *Proc. R. Soc. B* 274: 67–72, doi:10.1098/rspb.2006.3702; Oldroyd and Fewell 2007, *TREE* 22: 408–13.
 - Caution: Soper, Ekroth and Martins 2021, *BMC Ecology and Evolution* 21, doi:10.1186/s12862-021-01925-3 — direct evidence only in eusocial Hymenoptera, small samples, publication bias.
 
 ## Links
