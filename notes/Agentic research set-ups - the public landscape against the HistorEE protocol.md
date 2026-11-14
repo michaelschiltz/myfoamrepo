@@ -85,8 +85,49 @@ Material: quantitative data, Stata/R/Python pipelines. No Zotero-held secondary 
 | Write authority | Agent proposes, human commits | `mhdbdb-tei-only`, `iconocracy-corpus` | Agent executes or commits |
 | Vault linked to dataset | `database:` frontmatter in this vault | `iconocracy-corpus` (`vault_sync.py`) | Present, sync rather than citation |
 
+## Addendum 2026-11-15 — transcription and extraction projects
+
+**A second sweep, on 2026-11-15, aimed at projects that turn primary sources into text or data with a model and publish the output. It confirms the first finding and qualifies it.** Several projects check their output more rigorously than HistorEE does: against a gold standard, by two models disagreeing, or against the source's own internal constraints. None of them codes interpretive characteristics through a blind channel. The protocol leads on governance and lags on measurement.
+
+### Corpus projects with output in the open
+
+- **`professorsolderin/project-lighthouse`.** See [[Model-read mathematical manuscripts - Godel had a proof checker, Lighthouse a false-positive protocol]]. It is the only case found with a ledger of killed candidates and a written false-positive protocol.
+- **`fkettelhoit/wittgensteinnachlass`.** Markdown transcriptions of the Wittgenstein Nachlass, served at wittgensteinnachlass.com. The README says the repo was built almost entirely with AI and defers to the Bergen Nachlass Edition as authoritative. Generated files in `md/` are never edited by hand: corrections go to `overrides/`, and every change passes branch → staging site → pull request → production. This separates generated text from human correction in the repo layout itself. ⚠️ Which layers are model-generated, beyond the code and the `md-en/` translations, is not stated.
+- **`xieguaiwu/wittgenstein-corpus`.** Derived from the previous repo: 394 coded passages on 447 facsimile pages in seven volumes, 357 of them never printed. It calls itself an independent study edition, not a critical one.
+- **`niclasgriesshaber/llm_patent_pipeline`.** Griesshaber & Streb, German patent registers 1877–1918: 306,070 entries from 9,562 scans with Gemini 2.5 Pro and Flash-Lite. Checked against a student-built benchmark (41 images, one per volume) and a separate "perfect" dataset. Pipeline, benchmark and dataset are open. Oxford Economic and Social History Working Paper 228; arXiv 2512.19675. The nearest economic-history case.
+- **Crown of Aragon chancery registers.** Jonathan Seyfried, written up by Fred Gibbs (UNM). PARES images; Gemini and Claude transcribe each page in parallel, the outputs are merged, and both raw outputs are kept. A 300-page register takes about 12 h and about $75. Output is published at jonathanseyfried.net (registers 1819 and 2053), not on GitHub. His verdict: good enough for full-text search, not good enough to cite without the manuscript; dates stay unreliable. No error rates.
+- **Bäcker-Peral, Meursault & Severen**, US county vehicle-registration tables. Federal Reserve Bank of Philadelphia WP 25-28; arXiv 2505.11599. The gold standard is 694 tables (49,225 data points). LLM output matches it at R² 98.6%, and downstream regression coefficients are statistically indistinguishable. ⚠️ Repository not checked.
+
+### Pipelines with a verification design
+
+- **`ai-historian/chronos`.** Hufe, Griesshaber, Greif, Eck, Torr; arXiv 2604.03553. Claude Opus orchestrates and Gemini extracts. Each prompt is tested on a representative page and shown beside the scan for review before batch extraction is proposed. Sessions are logged as JSONL.
+- **`mhumphries2323/Transcription_Pearl`.** Humphries et al., *Historical Methods* 58:3 (2025). CER 5.7–7% raw, 1.8% after LLM correction, on 18th–19th-century English hands. Its successor, Archive Pearl, runs two model families and sends only their disagreements to human review.
+- **`Gene-Weaver/VoucherVision`.** University of Michigan Herbarium; specimen labels into Darwin Core records. The finding that matters: zero-trust review, in which every AI suggestion is accepted by hand, is only 10–15% faster than transcribing from scratch. Review, not reading, becomes the bottleneck.
+- **`hepplerj/claude-transcribe`.** Batch transcription with Claude or Gemini into Obsidian markdown with YAML frontmatter and wikilinks. The nearest match to this vault's format.
+- **`Dieclerc/ArchiveVision-OCR`.** Italian civil-status registers via IIIF; diplomatic and normalised transcriptions side by side; can run locally.
+- **Weather records, EGU26-2509.** Outputs checked against physical relationships between meteorological variables; precision up to 97%.
+
+### Benchmarks
+
+- **`RISE-UNIBAS/humanities_data_benchmark`**: 11 datasets, 811 test configurations, Zenodo releases.
+- **`stanford-oval/Churro`**: 99,491 documents in 46 language clusters, including the first public Ottoman HTR set and CODH Japanese material.
+- **`impresso/llm-transcript-postcorrection`**: LLM post-correction of historical OCR, HTR and ASR output.
+
+### Three kinds of external check, and where HistorEE stands
+
+| Check | Who uses it | HistorEE |
+|---|---|---|
+| Gold-standard sample, error rate reported | Patents, vehicle registrations, Transcription Pearl | Absent. The OCR passes carry no measured error rate |
+| Two model families, review only where they disagree | Archive Pearl, Seyfried | Partial: blind re-coding compares coders, not transcribers |
+| Internal constraint of the source | Weather (physical relations); balance-sheet checks (Bessa Ribeiro 2026, via the RF Berlin practitioner's guide) | Unused. Commenda/comanda settlement accounts carry arithmetic of their own (capital returned plus each party's share) where they survive |
+| Blind channel for interpretive coding | None found | Present: [[A blind is a property of the channel not of the dataset]] |
+| Agent proposes, human commits | Wittgenstein repo (`overrides/`, PR to production) | Present |
+
+**Verdict.** HistorEE leads on rater independence and write authority, and there it has no public counterpart. It lags on measurement: no gold-standard sample for the OCR and translation passes, no reported error rate, no count audit of the kind Lighthouse runs (`validate.py`), and no use of the source's own arithmetic. A panel will ask for the first two. The VoucherVision finding also bears on the Resources annex: reading is cheap and review is what costs.
+
 ## Flags
 
+- ⚠️ Addendum 2026-11-15: GitHub code search was not available unauthenticated, so the second sweep matched only repository names and descriptions. No Lighthouse-type corpus project was found for Japanese, Chinese or Ottoman documentary material beyond benchmark datasets.
 - ⚠️ The code search ran signed in as MS. Other people's private repositories do not appear, so every claim of absence is bounded to public default branches. `HistorEE_codebooks` appeared because it is public: it is the one public instance of the configuration this note describes, and it is excluded from the comparison. (Corrected 2026-10-23: this flag first called it private.)
 - ⚠️ The search is keyword-bound. A project whose agent file does not name Zotero, or keeps its instructions outside `CLAUDE.md`/`AGENTS.md`, is invisible to it. The ChatGPT/Codex side is covered only through `AGENTS.md` queries and is thin.
 - ⚠️ Counts are files, not repositories; forks and copies inflate several of them.
@@ -109,3 +150,5 @@ Material: quantitative data, Stata/R/Python pipelines. No Zotero-held secondary 
 - `CLAUDE.md` files read from raw.githubusercontent.com, 2026-10-22: `anavvanzin/iconocracy-corpus` (`archive/text-dump/`), `avmphd/corpus`, `DigitalHumanitiesCraft/mhdbdb-tei-only`, `D3m0sthene5/Executive-Orders`, `estebandegetau/Fiscal-shocks`, `kgeographer/cedop`, `inactinique/cliobrain`, `Florentia-Project/CittaFracta`, `DeepSpawn/ragusa-geneology`.
 - pypi.org/project/zotero-mcp-local; pypi.org/project/zotero-fulltext-mcp; pypi.org/project/research-hub-pipeline; mcp.directory/blog/zotero-mcp-complete-guide-2026; glama.ai/mcp/servers/xiaofei03/cite-rag-mcp; dev.co/ai/mcp/claude-scholar; github.com/cliodeck/cliodeck-app/wiki — read 2026-10-22.
 - bcf.princeton.edu (Goldsmith-Pinkham series); causalinf.substack.com/s/claude-code/archive; github.com/pedrohcgs/claude-code-my-workflow (via a slide deck citing it) — read 2026-10-22.
+
+- Addendum, read 2026-11-15: github.com/professorsolderin/project-lighthouse; raw.githubusercontent.com READMEs of `fkettelhoit/wittgensteinnachlass`, `xieguaiwu/wittgenstein-corpus`, `ai-historian/chronos`, `Dieclerc/ArchiveVision-OCR`; GitHub repository search (unauthenticated API: names and descriptions only, not code); ora.ox.ac.uk (Griesshaber & Streb WP 228); arxiv.org/abs/2505.11599; philadelphiafed.org; amaranth.unm.edu/ai-workbench/research/atr-paleography.html; tandfonline.com/doi/abs/10.1080/01615440.2025.2500309; midas.umich.edu (VoucherVision talk); meetingorganizer.copernicus.org/EGU26/EGU26-2509.html; rfberlin.com practitioner's guide (2026); zenodo.org (RISE benchmark); arxiv.org/html/2509.19768 (CHURRO).

@@ -5,7 +5,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "A blind is a property of the channel not of the dataset",
-      "value": 22,
+      "value": 23,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -284,7 +284,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Agentic research set-ups - the public landscape against the HistorEE protocol",
-      "value": 14,
+      "value": 16,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -2606,7 +2606,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Model-read mathematical manuscripts - Godel had a proof checker, Lighthouse a false-positive protocol",
-      "value": 17,
+      "value": 18,
       "color": "#66a61e",
       "shape": "dot"
     },
