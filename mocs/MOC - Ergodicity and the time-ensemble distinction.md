@@ -152,3 +152,13 @@ Hubbed at [[MOC - Defending the ergodicity claim]]; listed here because the sour
 
 - [[More than the sum requires a non-additive aggregation rule]] — compounding, convex trade-offs and entangled resources: three Jensen-type routes to a whole that differs from the sum
 - [[Fitness decoupling may be a short-horizon artefact]] — hypothesis: Bourrat's commensurate fitnesses coincide asymptotically, so levels part only on short horizons; 6.54 as an asymmetry between horizons
+
+## Added 2026-11-14 — stationarity and the removal of time
+
+- [[Time-homogeneity not stationarity is what removes time]] — three properties travel as "stationarity"; the programme is not against stationarity, and a fixed law turns time into the exponent in $b^n$
+- [[The stationarity presumption has four sources and only one is an adage]] — inherited before it could be noticed, paid as the price of method, a theory of explanation, built into the tool; the third is sociological and needs a mechanism
+- [[Regression was invented as a stationarity argument]] — Galton's 1886 problem was a stable population distribution under heredity; mobility research inherits the premise
+- [[A stationary Gaussian AR(1) has no arrow of time]] — Clark's latent-status model in its linear-Gaussian form is time-reversible; a test of irreversibility is available
+- [[A decaying surname mean cannot separate one process from a mixture of lineages]] — the group mean is an ensemble average; Heckman's heterogeneity problem for lineages
+- [[Under multiplicative dynamics the restoring force is an institutional achievement]] — in reallocating GBM stationarity exists only with positive reallocation; Clark as the substantive opponent of Objective 1's mechanism
+- [[A pooled null can hide trajectories that never return]] — the German bombing case rebuilt with synthetic controls: the ensemble returns, a third of the cities do not

@@ -46,6 +46,15 @@
       "shape": "dot"
     },
     {
+      "id": "A decaying surname mean cannot separate one process from a mixture of lineages",
+      "type": "permanent",
+      "group": "seed",
+      "label": "A decaying surname mean cannot separate one process from a mixture of lineages",
+      "value": 15,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
       "id": "A difference between coded forms is a difference of evidence, vocabulary or form",
       "type": "permanent",
       "group": "seed",
@@ -95,7 +104,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "A persistence parameter stable across regime change indicts the measure",
-      "value": 23,
+      "value": 30,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -105,6 +114,15 @@
       "group": "seed",
       "label": "A pledge secures an obligation and does not enlarge it",
       "value": 11,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "A pooled null can hide trajectories that never return",
+      "type": "permanent",
+      "group": "seed",
+      "label": "A pooled null can hide trajectories that never return",
+      "value": 19,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -176,7 +194,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "A significant persistence coefficient is evidence against its own licensing condition",
-      "value": 38,
+      "value": 41,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -186,6 +204,15 @@
       "group": "seed",
       "label": "A single throw of dice cannot be evaluated by its expectation",
       "value": 16,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "A stationary Gaussian AR(1) has no arrow of time",
+      "type": "permanent",
+      "group": "seed",
+      "label": "A stationary Gaussian AR(1) has no arrow of time",
+      "value": 18,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -284,7 +311,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "An absorbing barrier breaks ergodicity by construction",
-      "value": 62,
+      "value": 64,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -662,7 +689,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Arrow-Debreu dissolves time rather than neglecting it",
-      "value": 19,
+      "value": 23,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -716,7 +743,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Attractor selection bounds what a persistence design can resolve",
-      "value": 41,
+      "value": 44,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1000,6 +1027,15 @@
       "shape": "dot"
     },
     {
+      "id": "Causal inference removes time as an interval where equilibrium removed it as iteration",
+      "type": "permanent",
+      "group": "seed",
+      "label": "Causal inference removes time as an interval where equilibrium removed it as iteration",
+      "value": 20,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
       "id": "Centrum for Naringslivshistoria - Stockholm",
       "type": "reference",
       "group": "reference",
@@ -1069,6 +1105,15 @@
       "label": "Chit funds and kuri - a living rotating association with no historical archive",
       "value": 10,
       "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "Clark's institution-invariant law leaves heredity as the only carrier",
+      "type": "permanent",
+      "group": "seed",
+      "label": "Clark's institution-invariant law leaves heredity as the only carrier",
+      "value": 19,
+      "color": "#e6ab02",
       "shape": "dot"
     },
     {
@@ -1274,7 +1319,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Distinguish strong from weak ergodicity breaking",
-      "value": 25,
+      "value": 30,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1292,7 +1337,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Do not claim history-dependence as the novelty",
-      "value": 36,
+      "value": 39,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1427,7 +1472,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Economics had its ensemble moment in 1738 and psychologized it",
-      "value": 24,
+      "value": 26,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1508,7 +1553,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Ergodicity is indecomposability not randomness",
-      "value": 32,
+      "value": 37,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1679,7 +1724,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Galton's problem",
-      "value": 47,
+      "value": 50,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -2795,7 +2840,7 @@
       "type": "permanent",
       "group": "stub",
       "label": "Never let the units slide from instruments to populations",
-      "value": 64,
+      "value": 66,
       "color": "#666666",
       "shape": "dot"
     },
@@ -2849,7 +2894,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Nothing in the ergodic theorem fails in geometric Brownian motion",
-      "value": 42,
+      "value": 44,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -2975,7 +3020,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Path dependence literature",
-      "value": 29,
+      "value": 33,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -3002,8 +3047,17 @@
       "type": "permanent",
       "group": "seed",
       "label": "Persistence samples are conditioned on non-absorption",
-      "value": 67,
+      "value": 68,
       "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "Persistence stationarity and mobility literature",
+      "type": "reference",
+      "group": "reference",
+      "label": "Persistence stationarity and mobility literature",
+      "value": 21,
+      "color": "#66a61e",
       "shape": "dot"
     },
     {
@@ -3029,7 +3083,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Pooling approaches the infinite ensemble and perpetual succession the infinite horizon",
-      "value": 36,
+      "value": 38,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -3214,6 +3268,15 @@
       "shape": "dot"
     },
     {
+      "id": "Recovery to the old configuration is not evidence of a single attractor",
+      "type": "permanent",
+      "group": "seed",
+      "label": "Recovery to the old configuration is not evidence of a single attractor",
+      "value": 18,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
       "id": "Reed and Bekar 2003 on the usury ban as protection of the survival pool",
       "type": "source",
       "group": "source",
@@ -3232,11 +3295,20 @@
       "shape": "dot"
     },
     {
+      "id": "Regression was invented as a stationarity argument",
+      "type": "permanent",
+      "group": "seed",
+      "label": "Regression was invented as a stationarity argument",
+      "value": 19,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
       "id": "Reinforcement selects an attractor the ensemble average never occupies",
       "type": "permanent",
       "group": "seed",
       "label": "Reinforcement selects an attractor the ensemble average never occupies",
-      "value": 27,
+      "value": 29,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -3281,7 +3353,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Retrodiction fails on non-invertibility not on induction",
-      "value": 26,
+      "value": 28,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -3452,7 +3524,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Separate the sociological and the methodological claims about economics",
-      "value": 19,
+      "value": 22,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -3587,7 +3659,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Sort the persistence objections by what they cost the referee",
-      "value": 35,
+      "value": 36,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -3821,7 +3893,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Stationarity is a precondition of ergodicity not a corollary",
-      "value": 31,
+      "value": 33,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -4586,7 +4658,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The expectation value describes a pool that re-shares not a population",
-      "value": 28,
+      "value": 30,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -4766,7 +4838,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The mita boundary separates two components not two points on a trajectory",
-      "value": 35,
+      "value": 36,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -4775,7 +4847,7 @@
       "type": "reference",
       "group": "reference",
       "label": "The mita critiques establish five nulls and none is the estimand",
-      "value": 18,
+      "value": 19,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -4870,6 +4942,15 @@
       "shape": "dot"
     },
     {
+      "id": "The persistence literature names non-ergodicity only in its geography branch",
+      "type": "permanent",
+      "group": "seed",
+      "label": "The persistence literature names non-ergodicity only in its geography branch",
+      "value": 23,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
       "id": "The published critique never engages absorption",
       "type": "permanent",
       "group": "seed",
@@ -4919,7 +5000,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The representative agent is the ergodicity assumption in costume",
-      "value": 29,
+      "value": 30,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -4955,7 +5036,25 @@
       "type": "permanent",
       "group": "seed",
       "label": "The split is over whether the explanandum is a state or a trajectory",
-      "value": 35,
+      "value": 37,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "The stationarity presumption has four sources and only one is an adage",
+      "type": "permanent",
+      "group": "seed",
+      "label": "The stationarity presumption has four sources and only one is an adage",
+      "value": 28,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "The survivor case should discriminate inside a single design",
+      "type": "permanent",
+      "group": "seed",
+      "label": "The survivor case should discriminate inside a single design",
+      "value": 22,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -5072,7 +5171,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The word ergodic carries four incompatible senses",
-      "value": 28,
+      "value": 34,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -5109,6 +5208,15 @@
       "group": "seed",
       "label": "Time-average",
       "value": 48,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "Time-homogeneity not stationarity is what removes time",
+      "type": "permanent",
+      "group": "seed",
+      "label": "Time-homogeneity not stationarity is what removes time",
+      "value": 28,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -5212,6 +5320,15 @@
       "shape": "dot"
     },
     {
+      "id": "Under multiplicative dynamics the restoring force is an institutional achievement",
+      "type": "permanent",
+      "group": "seed",
+      "label": "Under multiplicative dynamics the restoring force is an institutional achievement",
+      "value": 22,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
       "id": "Unilateral and bilateral commenda collapse on profit and separate on loss",
       "type": "permanent",
       "group": "seed",
@@ -5279,7 +5396,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Voigtlander and Voth measured the relaxation time and reported a mixture",
-      "value": 30,
+      "value": 33,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -5468,7 +5585,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Defending the ergodicity claim",
-      "value": 119,
+      "value": 126,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -5495,7 +5612,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - ERC Synergy Grant",
-      "value": 81,
+      "value": 87,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -5513,7 +5630,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Ergodicity and the time-ensemble distinction",
-      "value": 194,
+      "value": 207,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -5558,7 +5675,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - HistorEE",
-      "value": 529,
+      "value": 555,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -5567,7 +5684,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Historiography and method",
-      "value": 246,
+      "value": 269,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -5621,7 +5738,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Path dependence and sequence",
-      "value": 35,
+      "value": 40,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -5630,7 +5747,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Risk-sharing vs risk-pricing",
-      "value": 213,
+      "value": 214,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -5883,6 +6000,42 @@
     {
       "from": "A contingency clause priced at zero is evidence for a time-average criterion",
       "to": "loss_mitigation_forms"
+    },
+    {
+      "from": "A decaying surname mean cannot separate one process from a mixture of lineages",
+      "to": "A pooled null can hide trajectories that never return"
+    },
+    {
+      "from": "A decaying surname mean cannot separate one process from a mixture of lineages",
+      "to": "Clark's institution-invariant law leaves heredity as the only carrier"
+    },
+    {
+      "from": "A decaying surname mean cannot separate one process from a mixture of lineages",
+      "to": "Ergodicity is indecomposability not randomness"
+    },
+    {
+      "from": "A decaying surname mean cannot separate one process from a mixture of lineages",
+      "to": "MOC - Ergodicity and the time-ensemble distinction"
+    },
+    {
+      "from": "A decaying surname mean cannot separate one process from a mixture of lineages",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "A decaying surname mean cannot separate one process from a mixture of lineages",
+      "to": "MOC - Historiography and method"
+    },
+    {
+      "from": "A decaying surname mean cannot separate one process from a mixture of lineages",
+      "to": "Persistence samples are conditioned on non-absorption"
+    },
+    {
+      "from": "A decaying surname mean cannot separate one process from a mixture of lineages",
+      "to": "Persistence stationarity and mobility literature"
+    },
+    {
+      "from": "A decaying surname mean cannot separate one process from a mixture of lineages",
+      "to": "Voigtlander and Voth measured the relaxation time and reported a mixture"
     },
     {
       "from": "A difference between coded forms is a difference of evidence, vocabulary or form",
@@ -6175,6 +6328,42 @@
     {
       "from": "A pledge secures an obligation and does not enlarge it",
       "to": "loss_mitigation_forms"
+    },
+    {
+      "from": "A pooled null can hide trajectories that never return",
+      "to": "Ergodicity is indecomposability not randomness"
+    },
+    {
+      "from": "A pooled null can hide trajectories that never return",
+      "to": "MOC - Ergodicity and the time-ensemble distinction"
+    },
+    {
+      "from": "A pooled null can hide trajectories that never return",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "A pooled null can hide trajectories that never return",
+      "to": "MOC - Historiography and method"
+    },
+    {
+      "from": "A pooled null can hide trajectories that never return",
+      "to": "Persistence stationarity and mobility literature"
+    },
+    {
+      "from": "A pooled null can hide trajectories that never return",
+      "to": "Recovery to the old configuration is not evidence of a single attractor"
+    },
+    {
+      "from": "A pooled null can hide trajectories that never return",
+      "to": "Reinforcement selects an attractor the ensemble average never occupies"
+    },
+    {
+      "from": "A pooled null can hide trajectories that never return",
+      "to": "The survivor case should discriminate inside a single design"
+    },
+    {
+      "from": "A pooled null can hide trajectories that never return",
+      "to": "Voigtlander and Voth measured the relaxation time and reported a mixture"
     },
     {
       "from": "A prediction is evidence only if its priority is committed",
@@ -6559,6 +6748,38 @@
     {
       "from": "A single throw of dice cannot be evaluated by its expectation",
       "to": "Time-average"
+    },
+    {
+      "from": "A stationary Gaussian AR(1) has no arrow of time",
+      "to": "An absorbing barrier breaks ergodicity by construction"
+    },
+    {
+      "from": "A stationary Gaussian AR(1) has no arrow of time",
+      "to": "Clark's institution-invariant law leaves heredity as the only carrier"
+    },
+    {
+      "from": "A stationary Gaussian AR(1) has no arrow of time",
+      "to": "MOC - Ergodicity and the time-ensemble distinction"
+    },
+    {
+      "from": "A stationary Gaussian AR(1) has no arrow of time",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "A stationary Gaussian AR(1) has no arrow of time",
+      "to": "MOC - Historiography and method"
+    },
+    {
+      "from": "A stationary Gaussian AR(1) has no arrow of time",
+      "to": "Regression was invented as a stationarity argument"
+    },
+    {
+      "from": "A stationary Gaussian AR(1) has no arrow of time",
+      "to": "Retrodiction fails on non-invertibility not on induction"
+    },
+    {
+      "from": "A stationary Gaussian AR(1) has no arrow of time",
+      "to": "Time-homogeneity not stationarity is what removes time"
     },
     {
       "from": "ASI epigraphy and the published corpora",
@@ -9077,6 +9298,38 @@
       "to": "Whiggish history of finance names the ascent narrative"
     },
     {
+      "from": "Causal inference removes time as an interval where equilibrium removed it as iteration",
+      "to": "A significant persistence coefficient is evidence against its own licensing condition"
+    },
+    {
+      "from": "Causal inference removes time as an interval where equilibrium removed it as iteration",
+      "to": "Arrow-Debreu dissolves time rather than neglecting it"
+    },
+    {
+      "from": "Causal inference removes time as an interval where equilibrium removed it as iteration",
+      "to": "MOC - Defending the ergodicity claim"
+    },
+    {
+      "from": "Causal inference removes time as an interval where equilibrium removed it as iteration",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Causal inference removes time as an interval where equilibrium removed it as iteration",
+      "to": "MOC - Historiography and method"
+    },
+    {
+      "from": "Causal inference removes time as an interval where equilibrium removed it as iteration",
+      "to": "The split is over whether the explanandum is a state or a trajectory"
+    },
+    {
+      "from": "Causal inference removes time as an interval where equilibrium removed it as iteration",
+      "to": "The stationarity presumption has four sources and only one is an adage"
+    },
+    {
+      "from": "Causal inference removes time as an interval where equilibrium removed it as iteration",
+      "to": "Time-homogeneity not stationarity is what removes time"
+    },
+    {
       "from": "Centrum for Naringslivshistoria - Stockholm",
       "to": "Archives nationales du monde du travail - Roubaix"
     },
@@ -9271,6 +9524,38 @@
     {
       "from": "Chit funds and kuri - a living rotating association with no historical archive",
       "to": "The colonial enquiry as South Asia's layer 3"
+    },
+    {
+      "from": "Clark's institution-invariant law leaves heredity as the only carrier",
+      "to": "A decaying surname mean cannot separate one process from a mixture of lineages"
+    },
+    {
+      "from": "Clark's institution-invariant law leaves heredity as the only carrier",
+      "to": "A persistence parameter stable across regime change indicts the measure"
+    },
+    {
+      "from": "Clark's institution-invariant law leaves heredity as the only carrier",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Clark's institution-invariant law leaves heredity as the only carrier",
+      "to": "MOC - Historiography and method"
+    },
+    {
+      "from": "Clark's institution-invariant law leaves heredity as the only carrier",
+      "to": "Never let the units slide from instruments to populations"
+    },
+    {
+      "from": "Clark's institution-invariant law leaves heredity as the only carrier",
+      "to": "Regression was invented as a stationarity argument"
+    },
+    {
+      "from": "Clark's institution-invariant law leaves heredity as the only carrier",
+      "to": "Time-homogeneity not stationarity is what removes time"
+    },
+    {
+      "from": "Clark's institution-invariant law leaves heredity as the only carrier",
+      "to": "Under multiplicative dynamics the restoring force is an institutional achievement"
     },
     {
       "from": "Comanda capital was mixed with the agent's own unless the contract said otherwise",
@@ -14702,6 +14987,10 @@
     },
     {
       "from": "MOC - Defending the ergodicity claim",
+      "to": "Causal inference removes time as an interval where equilibrium removed it as iteration"
+    },
+    {
+      "from": "MOC - Defending the ergodicity claim",
       "to": "Cooperation is an averaging puzzle and sovereign repayment is a barrier puzzle"
     },
     {
@@ -14846,6 +15135,10 @@
     },
     {
       "from": "MOC - Defending the ergodicity claim",
+      "to": "The persistence literature names non-ergodicity only in its geography branch"
+    },
+    {
+      "from": "MOC - Defending the ergodicity claim",
       "to": "The published critique never engages absorption"
     },
     {
@@ -14859,6 +15152,10 @@
     {
       "from": "MOC - Defending the ergodicity claim",
       "to": "The split is over whether the explanandum is a state or a trajectory"
+    },
+    {
+      "from": "MOC - Defending the ergodicity claim",
+      "to": "The stationarity presumption has four sources and only one is an adage"
     },
     {
       "from": "MOC - Defending the ergodicity claim",
@@ -14879,6 +15176,10 @@
     {
       "from": "MOC - Defending the ergodicity claim",
       "to": "Time-average optimization is a survivorship property not an intention"
+    },
+    {
+      "from": "MOC - Defending the ergodicity claim",
+      "to": "Time-homogeneity not stationarity is what removes time"
     },
     {
       "from": "MOC - Defending the ergodicity claim",
@@ -15130,7 +15431,15 @@
     },
     {
       "from": "MOC - ERC Synergy Grant",
+      "to": "The persistence literature names non-ergodicity only in its geography branch"
+    },
+    {
+      "from": "MOC - ERC Synergy Grant",
       "to": "The qirad's antecedents are Sasanian not Sogdian"
+    },
+    {
+      "from": "MOC - ERC Synergy Grant",
+      "to": "The survivor case should discriminate inside a single design"
     },
     {
       "from": "MOC - ERC Synergy Grant",
@@ -15143,6 +15452,10 @@
     {
       "from": "MOC - ERC Synergy Grant",
       "to": "Transmission versus independent recurrence is the load-bearing test"
+    },
+    {
+      "from": "MOC - ERC Synergy Grant",
+      "to": "Under multiplicative dynamics the restoring force is an institutional achievement"
     },
     {
       "from": "MOC - ERC Synergy Grant",
@@ -15406,6 +15719,10 @@
     },
     {
       "from": "MOC - Ergodicity and the time-ensemble distinction",
+      "to": "A decaying surname mean cannot separate one process from a mixture of lineages"
+    },
+    {
+      "from": "MOC - Ergodicity and the time-ensemble distinction",
       "to": "A fair wager lowers both trajectories which maysir forbids and skin in the game permits"
     },
     {
@@ -15418,11 +15735,19 @@
     },
     {
       "from": "MOC - Ergodicity and the time-ensemble distinction",
+      "to": "A pooled null can hide trajectories that never return"
+    },
+    {
+      "from": "MOC - Ergodicity and the time-ensemble distinction",
       "to": "A significant persistence coefficient is evidence against its own licensing condition"
     },
     {
       "from": "MOC - Ergodicity and the time-ensemble distinction",
       "to": "A single throw of dice cannot be evaluated by its expectation"
+    },
+    {
+      "from": "MOC - Ergodicity and the time-ensemble distinction",
+      "to": "A stationary Gaussian AR(1) has no arrow of time"
     },
     {
       "from": "MOC - Ergodicity and the time-ensemble distinction",
@@ -15618,6 +15943,10 @@
     },
     {
       "from": "MOC - Ergodicity and the time-ensemble distinction",
+      "to": "Regression was invented as a stationarity argument"
+    },
+    {
+      "from": "MOC - Ergodicity and the time-ensemble distinction",
       "to": "Reinforcement selects an attractor the ensemble average never occupies"
     },
     {
@@ -15718,6 +16047,10 @@
     },
     {
       "from": "MOC - Ergodicity and the time-ensemble distinction",
+      "to": "The stationarity presumption has four sources and only one is an adage"
+    },
+    {
+      "from": "MOC - Ergodicity and the time-ensemble distinction",
       "to": "The sustainability criterion assumes the ergodicity it should be testing"
     },
     {
@@ -15742,6 +16075,10 @@
     },
     {
       "from": "MOC - Ergodicity and the time-ensemble distinction",
+      "to": "Time-homogeneity not stationarity is what removes time"
+    },
+    {
+      "from": "MOC - Ergodicity and the time-ensemble distinction",
       "to": "Toda 2023 on ergodicity economics as pseudoscience"
     },
     {
@@ -15751,6 +16088,10 @@
     {
       "from": "MOC - Ergodicity and the time-ensemble distinction",
       "to": "Toda's own example makes EE more falsifiable than expected utility"
+    },
+    {
+      "from": "MOC - Ergodicity and the time-ensemble distinction",
+      "to": "Under multiplicative dynamics the restoring force is an institutional achievement"
     },
     {
       "from": "MOC - European archives and digital collections",
@@ -16326,6 +16667,10 @@
     },
     {
       "from": "MOC - HistorEE",
+      "to": "A decaying surname mean cannot separate one process from a mixture of lineages"
+    },
+    {
+      "from": "MOC - HistorEE",
       "to": "A difference between coded forms is a difference of evidence, vocabulary or form"
     },
     {
@@ -16343,6 +16688,10 @@
     {
       "from": "MOC - HistorEE",
       "to": "A pledge secures an obligation and does not enlarge it"
+    },
+    {
+      "from": "MOC - HistorEE",
+      "to": "A pooled null can hide trajectories that never return"
     },
     {
       "from": "MOC - HistorEE",
@@ -16367,6 +16716,10 @@
     {
       "from": "MOC - HistorEE",
       "to": "A single throw of dice cannot be evaluated by its expectation"
+    },
+    {
+      "from": "MOC - HistorEE",
+      "to": "A stationary Gaussian AR(1) has no arrow of time"
     },
     {
       "from": "MOC - HistorEE",
@@ -16423,6 +16776,14 @@
     {
       "from": "MOC - HistorEE",
       "to": "Blind re-coding workflow - operator, coder, application"
+    },
+    {
+      "from": "MOC - HistorEE",
+      "to": "Causal inference removes time as an interval where equilibrium removed it as iteration"
+    },
+    {
+      "from": "MOC - HistorEE",
+      "to": "Clark's institution-invariant law leaves heredity as the only carrier"
     },
     {
       "from": "MOC - HistorEE",
@@ -16706,6 +17067,10 @@
     },
     {
       "from": "MOC - HistorEE",
+      "to": "Persistence stationarity and mobility literature"
+    },
+    {
+      "from": "MOC - HistorEE",
       "to": "Pooling approaches the infinite ensemble and perpetual succession the infinite horizon"
     },
     {
@@ -16742,7 +17107,15 @@
     },
     {
       "from": "MOC - HistorEE",
+      "to": "Recovery to the old configuration is not evidence of a single attractor"
+    },
+    {
+      "from": "MOC - HistorEE",
       "to": "Reed and Bekar 2003 on the usury ban as protection of the survival pool"
+    },
+    {
+      "from": "MOC - HistorEE",
+      "to": "Regression was invented as a stationarity argument"
     },
     {
       "from": "MOC - HistorEE",
@@ -17026,6 +17399,10 @@
     },
     {
       "from": "MOC - HistorEE",
+      "to": "The persistence literature names non-ergodicity only in its geography branch"
+    },
+    {
+      "from": "MOC - HistorEE",
       "to": "The published critique never engages absorption"
     },
     {
@@ -17055,6 +17432,14 @@
     {
       "from": "MOC - HistorEE",
       "to": "The split is over whether the explanandum is a state or a trajectory"
+    },
+    {
+      "from": "MOC - HistorEE",
+      "to": "The stationarity presumption has four sources and only one is an adage"
+    },
+    {
+      "from": "MOC - HistorEE",
+      "to": "The survivor case should discriminate inside a single design"
     },
     {
       "from": "MOC - HistorEE",
@@ -17094,6 +17479,10 @@
     },
     {
       "from": "MOC - HistorEE",
+      "to": "Time-homogeneity not stationarity is what removes time"
+    },
+    {
+      "from": "MOC - HistorEE",
       "to": "Toda 2023 on ergodicity economics as pseudoscience"
     },
     {
@@ -17115,6 +17504,10 @@
     {
       "from": "MOC - HistorEE",
       "to": "Typology and character coding literature"
+    },
+    {
+      "from": "MOC - HistorEE",
+      "to": "Under multiplicative dynamics the restoring force is an institutional achievement"
     },
     {
       "from": "MOC - HistorEE",
@@ -17158,6 +17551,10 @@
     },
     {
       "from": "MOC - Historiography and method",
+      "to": "A decaying surname mean cannot separate one process from a mixture of lineages"
+    },
+    {
+      "from": "MOC - Historiography and method",
       "to": "A difference between coded forms is a difference of evidence, vocabulary or form"
     },
     {
@@ -17167,6 +17564,10 @@
     {
       "from": "MOC - Historiography and method",
       "to": "A persistence parameter stable across regime change indicts the measure"
+    },
+    {
+      "from": "MOC - Historiography and method",
+      "to": "A pooled null can hide trajectories that never return"
     },
     {
       "from": "MOC - Historiography and method",
@@ -17187,6 +17588,10 @@
     {
       "from": "MOC - Historiography and method",
       "to": "A significant persistence coefficient is evidence against its own licensing condition"
+    },
+    {
+      "from": "MOC - Historiography and method",
+      "to": "A stationary Gaussian AR(1) has no arrow of time"
     },
     {
       "from": "MOC - Historiography and method",
@@ -17219,6 +17624,14 @@
     {
       "from": "MOC - Historiography and method",
       "to": "Brown tests equality where a risk reading predicts dispersion"
+    },
+    {
+      "from": "MOC - Historiography and method",
+      "to": "Causal inference removes time as an interval where equilibrium removed it as iteration"
+    },
+    {
+      "from": "MOC - Historiography and method",
+      "to": "Clark's institution-invariant law leaves heredity as the only carrier"
     },
     {
       "from": "MOC - Historiography and method",
@@ -17370,6 +17783,10 @@
     },
     {
       "from": "MOC - Historiography and method",
+      "to": "Persistence stationarity and mobility literature"
+    },
+    {
+      "from": "MOC - Historiography and method",
       "to": "Primary against secondary coding workflow - three arms, reveal, application"
     },
     {
@@ -17378,7 +17795,15 @@
     },
     {
       "from": "MOC - Historiography and method",
+      "to": "Recovery to the old configuration is not evidence of a single attractor"
+    },
+    {
+      "from": "MOC - Historiography and method",
       "to": "Refusals are observations of the filter not inferences from survivors"
+    },
+    {
+      "from": "MOC - Historiography and method",
+      "to": "Regression was invented as a stationarity argument"
     },
     {
       "from": "MOC - Historiography and method",
@@ -17522,6 +17947,10 @@
     },
     {
       "from": "MOC - Historiography and method",
+      "to": "The persistence literature names non-ergodicity only in its geography branch"
+    },
+    {
+      "from": "MOC - Historiography and method",
       "to": "The qirad's antecedents are Sasanian not Sogdian"
     },
     {
@@ -17535,6 +17964,14 @@
     {
       "from": "MOC - Historiography and method",
       "to": "The split is over whether the explanandum is a state or a trajectory"
+    },
+    {
+      "from": "MOC - Historiography and method",
+      "to": "The stationarity presumption has four sources and only one is an adage"
+    },
+    {
+      "from": "MOC - Historiography and method",
+      "to": "The survivor case should discriminate inside a single design"
     },
     {
       "from": "MOC - Historiography and method",
@@ -18166,6 +18603,10 @@
     },
     {
       "from": "MOC - Path dependence and sequence",
+      "to": "A pooled null can hide trajectories that never return"
+    },
+    {
+      "from": "MOC - Path dependence and sequence",
       "to": "Absorption is a path-dependence mechanism distinct from reinforcement"
     },
     {
@@ -18226,11 +18667,19 @@
     },
     {
       "from": "MOC - Path dependence and sequence",
+      "to": "Recovery to the old configuration is not evidence of a single attractor"
+    },
+    {
+      "from": "MOC - Path dependence and sequence",
       "to": "Reinforcement selects an attractor the ensemble average never occupies"
     },
     {
       "from": "MOC - Path dependence and sequence",
       "to": "Terminal wealth is permutation-invariant but survival is not"
+    },
+    {
+      "from": "MOC - Path dependence and sequence",
+      "to": "The persistence literature names non-ergodicity only in its geography branch"
     },
     {
       "from": "MOC - Risk-sharing vs risk-pricing",
@@ -20617,6 +21066,42 @@
       "to": "Voigtlander and Voth measured the relaxation time and reported a mixture"
     },
     {
+      "from": "Persistence stationarity and mobility literature",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Persistence stationarity and mobility literature",
+      "to": "MOC - Historiography and method"
+    },
+    {
+      "from": "Persistence stationarity and mobility literature",
+      "to": "Path dependence literature"
+    },
+    {
+      "from": "Persistence stationarity and mobility literature",
+      "to": "The mita critiques establish five nulls and none is the estimand"
+    },
+    {
+      "from": "Persistence stationarity and mobility literature",
+      "to": "The persistence literature names non-ergodicity only in its geography branch"
+    },
+    {
+      "from": "Persistence stationarity and mobility literature",
+      "to": "The stationarity presumption has four sources and only one is an adage"
+    },
+    {
+      "from": "Persistence stationarity and mobility literature",
+      "to": "The survivor case should discriminate inside a single design"
+    },
+    {
+      "from": "Persistence stationarity and mobility literature",
+      "to": "The word ergodic carries four incompatible senses"
+    },
+    {
+      "from": "Persistence stationarity and mobility literature",
+      "to": "Under multiplicative dynamics the restoring force is an institutional achievement"
+    },
+    {
       "from": "Persona ficta made the corporation a-moral ab initio",
       "to": "Entitlement by liability versus entitlement by membership"
     },
@@ -21389,6 +21874,42 @@
       "to": "The coding commons must record stated rationale not only component presence"
     },
     {
+      "from": "Recovery to the old configuration is not evidence of a single attractor",
+      "to": "A pooled null can hide trajectories that never return"
+    },
+    {
+      "from": "Recovery to the old configuration is not evidence of a single attractor",
+      "to": "Attractor selection bounds what a persistence design can resolve"
+    },
+    {
+      "from": "Recovery to the old configuration is not evidence of a single attractor",
+      "to": "Distinguish strong from weak ergodicity breaking"
+    },
+    {
+      "from": "Recovery to the old configuration is not evidence of a single attractor",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Recovery to the old configuration is not evidence of a single attractor",
+      "to": "MOC - Historiography and method"
+    },
+    {
+      "from": "Recovery to the old configuration is not evidence of a single attractor",
+      "to": "MOC - Path dependence and sequence"
+    },
+    {
+      "from": "Recovery to the old configuration is not evidence of a single attractor",
+      "to": "Persistence stationarity and mobility literature"
+    },
+    {
+      "from": "Recovery to the old configuration is not evidence of a single attractor",
+      "to": "Reinforcement selects an attractor the ensemble average never occupies"
+    },
+    {
+      "from": "Recovery to the old configuration is not evidence of a single attractor",
+      "to": "The survivor case should discriminate inside a single design"
+    },
+    {
       "from": "Reed and Bekar 2003 on the usury ban as protection of the survival pool",
       "to": "Absorbing barrier"
     },
@@ -21467,6 +21988,34 @@
     {
       "from": "Refusals are observations of the filter not inferences from survivors",
       "to": "Time-average optimization is a survivorship property not an intention"
+    },
+    {
+      "from": "Regression was invented as a stationarity argument",
+      "to": "A stationary Gaussian AR(1) has no arrow of time"
+    },
+    {
+      "from": "Regression was invented as a stationarity argument",
+      "to": "Clark's institution-invariant law leaves heredity as the only carrier"
+    },
+    {
+      "from": "Regression was invented as a stationarity argument",
+      "to": "Galton's problem"
+    },
+    {
+      "from": "Regression was invented as a stationarity argument",
+      "to": "MOC - Ergodicity and the time-ensemble distinction"
+    },
+    {
+      "from": "Regression was invented as a stationarity argument",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Regression was invented as a stationarity argument",
+      "to": "MOC - Historiography and method"
+    },
+    {
+      "from": "Regression was invented as a stationarity argument",
+      "to": "The stationarity presumption has four sources and only one is an adage"
     },
     {
       "from": "Reinforcement selects an attractor the ensemble average never occupies",
@@ -27293,6 +27842,46 @@
       "to": "Transmission versus independent recurrence is the load-bearing test"
     },
     {
+      "from": "The persistence literature names non-ergodicity only in its geography branch",
+      "to": "Distinguish strong from weak ergodicity breaking"
+    },
+    {
+      "from": "The persistence literature names non-ergodicity only in its geography branch",
+      "to": "Do not claim history-dependence as the novelty"
+    },
+    {
+      "from": "The persistence literature names non-ergodicity only in its geography branch",
+      "to": "MOC - ERC Synergy Grant"
+    },
+    {
+      "from": "The persistence literature names non-ergodicity only in its geography branch",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "The persistence literature names non-ergodicity only in its geography branch",
+      "to": "MOC - Historiography and method"
+    },
+    {
+      "from": "The persistence literature names non-ergodicity only in its geography branch",
+      "to": "MOC - Path dependence and sequence"
+    },
+    {
+      "from": "The persistence literature names non-ergodicity only in its geography branch",
+      "to": "Persistence stationarity and mobility literature"
+    },
+    {
+      "from": "The persistence literature names non-ergodicity only in its geography branch",
+      "to": "Recovery to the old configuration is not evidence of a single attractor"
+    },
+    {
+      "from": "The persistence literature names non-ergodicity only in its geography branch",
+      "to": "Sort the persistence objections by what they cost the referee"
+    },
+    {
+      "from": "The persistence literature names non-ergodicity only in its geography branch",
+      "to": "The word ergodic carries four incompatible senses"
+    },
+    {
       "from": "The published critique never engages absorption",
       "to": "Absorption is a path-dependence mechanism distinct from reinforcement"
     },
@@ -27707,6 +28296,94 @@
     {
       "from": "The split is over whether the explanandum is a state or a trajectory",
       "to": "The sustainability criterion assumes the ergodicity it should be testing"
+    },
+    {
+      "from": "The stationarity presumption has four sources and only one is an adage",
+      "to": "Causal inference removes time as an interval where equilibrium removed it as iteration"
+    },
+    {
+      "from": "The stationarity presumption has four sources and only one is an adage",
+      "to": "Do not claim history-dependence as the novelty"
+    },
+    {
+      "from": "The stationarity presumption has four sources and only one is an adage",
+      "to": "Economics had its ensemble moment in 1738 and psychologized it"
+    },
+    {
+      "from": "The stationarity presumption has four sources and only one is an adage",
+      "to": "MOC - Defending the ergodicity claim"
+    },
+    {
+      "from": "The stationarity presumption has four sources and only one is an adage",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "The stationarity presumption has four sources and only one is an adage",
+      "to": "MOC - Historiography and method"
+    },
+    {
+      "from": "The stationarity presumption has four sources and only one is an adage",
+      "to": "Path dependence literature"
+    },
+    {
+      "from": "The stationarity presumption has four sources and only one is an adage",
+      "to": "Persistence stationarity and mobility literature"
+    },
+    {
+      "from": "The stationarity presumption has four sources and only one is an adage",
+      "to": "Regression was invented as a stationarity argument"
+    },
+    {
+      "from": "The stationarity presumption has four sources and only one is an adage",
+      "to": "Separate the sociological and the methodological claims about economics"
+    },
+    {
+      "from": "The stationarity presumption has four sources and only one is an adage",
+      "to": "The word ergodic carries four incompatible senses"
+    },
+    {
+      "from": "The stationarity presumption has four sources and only one is an adage",
+      "to": "Time-homogeneity not stationarity is what removes time"
+    },
+    {
+      "from": "The survivor case should discriminate inside a single design",
+      "to": "A pooled null can hide trajectories that never return"
+    },
+    {
+      "from": "The survivor case should discriminate inside a single design",
+      "to": "A significant persistence coefficient is evidence against its own licensing condition"
+    },
+    {
+      "from": "The survivor case should discriminate inside a single design",
+      "to": "Attractor selection bounds what a persistence design can resolve"
+    },
+    {
+      "from": "The survivor case should discriminate inside a single design",
+      "to": "MOC - ERC Synergy Grant"
+    },
+    {
+      "from": "The survivor case should discriminate inside a single design",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "The survivor case should discriminate inside a single design",
+      "to": "MOC - Historiography and method"
+    },
+    {
+      "from": "The survivor case should discriminate inside a single design",
+      "to": "Persistence stationarity and mobility literature"
+    },
+    {
+      "from": "The survivor case should discriminate inside a single design",
+      "to": "Recovery to the old configuration is not evidence of a single attractor"
+    },
+    {
+      "from": "The survivor case should discriminate inside a single design",
+      "to": "The mita boundary separates two components not two points on a trajectory"
+    },
+    {
+      "from": "The survivor case should discriminate inside a single design",
+      "to": "The persistence literature names non-ergodicity only in its geography branch"
     },
     {
       "from": "The sustainability criterion assumes the ergodicity it should be testing",
@@ -28329,6 +29006,46 @@
       "to": "Time-average"
     },
     {
+      "from": "Time-homogeneity not stationarity is what removes time",
+      "to": "A persistence parameter stable across regime change indicts the measure"
+    },
+    {
+      "from": "Time-homogeneity not stationarity is what removes time",
+      "to": "Arrow-Debreu dissolves time rather than neglecting it"
+    },
+    {
+      "from": "Time-homogeneity not stationarity is what removes time",
+      "to": "Causal inference removes time as an interval where equilibrium removed it as iteration"
+    },
+    {
+      "from": "Time-homogeneity not stationarity is what removes time",
+      "to": "Ergodicity is indecomposability not randomness"
+    },
+    {
+      "from": "Time-homogeneity not stationarity is what removes time",
+      "to": "MOC - Defending the ergodicity claim"
+    },
+    {
+      "from": "Time-homogeneity not stationarity is what removes time",
+      "to": "MOC - Ergodicity and the time-ensemble distinction"
+    },
+    {
+      "from": "Time-homogeneity not stationarity is what removes time",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Time-homogeneity not stationarity is what removes time",
+      "to": "Nothing in the ergodic theorem fails in geometric Brownian motion"
+    },
+    {
+      "from": "Time-homogeneity not stationarity is what removes time",
+      "to": "Stationarity is a precondition of ergodicity not a corollary"
+    },
+    {
+      "from": "Time-homogeneity not stationarity is what removes time",
+      "to": "Under multiplicative dynamics the restoring force is an institutional achievement"
+    },
+    {
       "from": "Toda 2023 on ergodicity economics as pseudoscience",
       "to": "Do not claim history-dependence as the novelty"
     },
@@ -28647,6 +29364,50 @@
     {
       "from": "Typology and character coding literature",
       "to": "organizational_forms"
+    },
+    {
+      "from": "Under multiplicative dynamics the restoring force is an institutional achievement",
+      "to": "A persistence parameter stable across regime change indicts the measure"
+    },
+    {
+      "from": "Under multiplicative dynamics the restoring force is an institutional achievement",
+      "to": "Clark's institution-invariant law leaves heredity as the only carrier"
+    },
+    {
+      "from": "Under multiplicative dynamics the restoring force is an institutional achievement",
+      "to": "Distinguish strong from weak ergodicity breaking"
+    },
+    {
+      "from": "Under multiplicative dynamics the restoring force is an institutional achievement",
+      "to": "MOC - ERC Synergy Grant"
+    },
+    {
+      "from": "Under multiplicative dynamics the restoring force is an institutional achievement",
+      "to": "MOC - Ergodicity and the time-ensemble distinction"
+    },
+    {
+      "from": "Under multiplicative dynamics the restoring force is an institutional achievement",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Under multiplicative dynamics the restoring force is an institutional achievement",
+      "to": "MOC - Risk-sharing vs risk-pricing"
+    },
+    {
+      "from": "Under multiplicative dynamics the restoring force is an institutional achievement",
+      "to": "Pooling approaches the infinite ensemble and perpetual succession the infinite horizon"
+    },
+    {
+      "from": "Under multiplicative dynamics the restoring force is an institutional achievement",
+      "to": "The expectation value describes a pool that re-shares not a population"
+    },
+    {
+      "from": "Under multiplicative dynamics the restoring force is an institutional achievement",
+      "to": "The representative agent is the ergodicity assumption in costume"
+    },
+    {
+      "from": "Under multiplicative dynamics the restoring force is an institutional achievement",
+      "to": "Time-homogeneity not stationarity is what removes time"
     },
     {
       "from": "Unilateral and bilateral commenda collapse on profit and separate on loss",

@@ -72,3 +72,9 @@ The Part 2 WP1 session's *ideas* are written as atomic notes (below) and kept un
 [MOC - HistorEE]: <MOC - HistorEE.md> "MOC - Clearing and Settling the Realm"
 [MOC - Islamic contract doctrine]: <MOC - Islamic contract doctrine.md> "MOC - Islamic contract doctrine"
 [MOC - Historiography and method]: <MOC - Historiography and method.md> "MOC - Historiography and method"
+
+## Added 2026-11-14 — WP3 survivor case and the novelty claim
+
+- [[The survivor case should discriminate inside a single design]] — closes the gap between Part 1's "name in advance" and Part 2's "record before re-analysis"; decision log D1
+- [[The persistence literature names non-ergodicity only in its geography branch]] — narrow the "without naming the property" sentence in Part 2 §3
+- [[Under multiplicative dynamics the restoring force is an institutional achievement]] — bears on decision log D2: Clark is the substantive opponent of Objective 1's mechanism, not only a stress test

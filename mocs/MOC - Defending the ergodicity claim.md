@@ -149,3 +149,10 @@ The persistence-design critique is *offensive* — it attacks a design class —
 
 - [[Endogenous games rewrite the rules but never the player]] — the unqualified "game theory fixes the game" is false; the defensible claim is that no fixed-player formalism constitutes a new player. Replacement wording for Part 1 in the hive report
 - [[Fitness decoupling may be a short-horizon artefact]] — to be put to Peters and Connaughton before use
+
+## Added 2026-11-14 — where the presumption comes from
+
+- [[Time-homogeneity not stationarity is what removes time]] — aim at the homogeneity of the law across regimes, not at stationarity as such
+- [[The stationarity presumption has four sources and only one is an adage]] — layers 1, 2 and 4 can be pressed as hygiene; layer 3 belongs to the thinking pieces
+- [[Causal inference removes time as an interval where equilibrium removed it as iteration]] — the persistence literature holds no equilibrium to attack; aim at the exchangeability it does hold
+- [[The persistence literature names non-ergodicity only in its geography branch]] — the novelty claim must be narrowed to deep-roots regressions; cite Wolf, Bernard and Durlauf, Heckman, Stachurski, Maseland

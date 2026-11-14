@@ -64,3 +64,9 @@ The cluster is built around one negative result and three mechanisms that escape
 [MOC - Entity-shielding and corporate forms]: <MOC - Entity-shielding and corporate forms.md> "MOC - Entity-shielding and corporate forms"
 [MOC - Historiography and method]: <MOC - Historiography and method.md> "MOC - Historiography and method"
 [MOC - HistorEE]: <MOC - HistorEE.md> "MOC - Clearing and Settling the Realm"
+
+## Added 2026-11-14 — persistence sweep
+
+- [[The persistence literature names non-ergodicity only in its geography branch]] — David, Heckman and Stachurski on the theory side; Wolf files the shock studies as tests of non-ergodicity
+- [[Recovery to the old configuration is not evidence of a single attractor]] — reversion shows a restoring force, not uniqueness; regime dependence in Brakman et al. and Mikhailova
+- [[A pooled null can hide trajectories that never return]]

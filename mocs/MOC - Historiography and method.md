@@ -185,3 +185,17 @@ Where the sources for the European companies are and are not machine-readable is
 
 - [[Social immunity and superorganism immunity - loci]] — Cremer, Pull and McMahon; analogies declared phenomenological by their own authors
 - [[Mandeville's hive is the game-theoretic hive]] — the epigraph takes the Stoic side against Mandeville and Hayek; Rodgers's warning against naturalising analogies
+
+## Added 2026-11-14 — persistence sweep and the stationarity presumption
+
+- [[The persistence literature names non-ergodicity only in its geography branch]] — path-dependence theory, convergence empirics and economic geography already use the word; the deep-roots critiques do not
+- [[Recovery to the old configuration is not evidence of a single attractor]] — Hiroshima's centre came back by agglomeration and expectation, not fundamentals
+- [[A pooled null can hide trajectories that never return]] — Miguel and Roland is the design in which opposite trajectories are invisible
+- [[The survivor case should discriminate inside a single design]] — four conditions; Grosfeld and Zhuravskaya with Backhaus recommended
+- [[The stationarity presumption has four sources and only one is an adage]]
+- [[Regression was invented as a stationarity argument]] — not [[Galton's problem]]: the tool, not the comparison
+- [[Causal inference removes time as an interval where equilibrium removed it as iteration]]
+- [[Clark's institution-invariant law leaves heredity as the only carrier]] — the hereditarian reading is what a time-homogeneous model leaves room for
+- [[A decaying surname mean cannot separate one process from a mixture of lineages]]
+- [[A stationary Gaussian AR(1) has no arrow of time]]
+- [[Persistence stationarity and mobility literature]] — reference note; Zotero `YUSEHB22`, 47 items

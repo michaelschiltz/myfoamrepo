@@ -344,3 +344,19 @@ Project hub for the book. Atomic notes hang off both this project MOC and a them
 - [[Mandeville's hive is the game-theoretic hive]]
 - [[The colony's immune boundary is a graded configuration not a wall]]
 - [[The hive models the corporation's emergent layer not the route by which it formed]]
+
+## Notes — persistence sweep and the stationarity presumption (2026-11-14)
+
+- [[The persistence literature names non-ergodicity only in its geography branch]]
+- [[Recovery to the old configuration is not evidence of a single attractor]]
+- [[A pooled null can hide trajectories that never return]]
+- [[The survivor case should discriminate inside a single design]]
+- [[Time-homogeneity not stationarity is what removes time]]
+- [[The stationarity presumption has four sources and only one is an adage]]
+- [[Regression was invented as a stationarity argument]]
+- [[Causal inference removes time as an interval where equilibrium removed it as iteration]]
+- [[A stationary Gaussian AR(1) has no arrow of time]]
+- [[Clark's institution-invariant law leaves heredity as the only carrier]]
+- [[A decaying surname mean cannot separate one process from a mixture of lineages]]
+- [[Under multiplicative dynamics the restoring force is an institutional achievement]]
+- [[Persistence stationarity and mobility literature]]
