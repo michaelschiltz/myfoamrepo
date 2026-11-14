@@ -117,13 +117,13 @@ Material: quantitative data, Stata/R/Python pipelines. No Zotero-held secondary 
 
 | Check | Who uses it | HistorEE |
 |---|---|---|
-| Gold-standard sample, error rate reported | Patents, vehicle registrations, Transcription Pearl | Absent. The OCR passes carry no measured error rate |
+| Gold-standard sample, error rate reported | Patents, vehicle registrations, Transcription Pearl | Partial. Rates exist but are one-off and scattered: word recall per engine in `OCR-TEST-madurell-venetian-2026-11-03`, character recall in the Yamamoto pilot, correction counts in the Venetian CORRECTIONS files. Most references are the assistant's own image reads, not independent, and no sample was drawn at random |
 | Two model families, review only where they disagree | Archive Pearl, Seyfried | Partial: blind re-coding compares coders, not transcribers |
 | Internal constraint of the source | Weather (physical relations); balance-sheet checks (Bessa Ribeiro 2026, via the RF Berlin practitioner's guide) | Unused. Commenda/comanda settlement accounts carry arithmetic of their own (capital returned plus each party's share) where they survive |
 | Blind channel for interpretive coding | None found | Present: [[A blind is a property of the channel not of the dataset]] |
 | Agent proposes, human commits | Wittgenstein repo (`overrides/`, PR to production) | Present |
 
-**Verdict.** HistorEE leads on rater independence and write authority, and there it has no public counterpart. It lags on measurement: no gold-standard sample for the OCR and translation passes, no reported error rate, no count audit of the kind Lighthouse runs (`validate.py`), and no use of the source's own arithmetic. A panel will ask for the first two. The VoucherVision finding also bears on the Resources annex: reading is cheap and review is what costs.
+**Verdict.** HistorEE leads on rater independence and write authority, and there it has no public counterpart. It lags on measurement, though less than the first draft of this addendum said. Error rates have been measured, but pass by pass, against references that are mostly the assistant's own reads, and they are not collected in one place. There is no randomly drawn, independently read sample. Coverage was audited once (`records/SCRIPTS-venetian-ocr-2026-11-05/cover.py`, ink not covered by the text layer), but no count audit runs in CI. The source's own arithmetic is unused. A panel will ask for the random sample and the standing audit. (Corrected 2026-11-15: the first draft said no error rate had been measured.) The VoucherVision finding also bears on the Resources annex: reading is cheap and review is what costs.
 
 ## Flags
 
