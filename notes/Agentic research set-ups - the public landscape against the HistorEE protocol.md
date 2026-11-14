@@ -101,6 +101,7 @@ Material: quantitative data, Stata/R/Python pipelines. No Zotero-held secondary 
 - [[Retrieval report workflow - reading the codebooks and the vault back as evidence]]
 - [[A blind is a property of the channel not of the dataset]]
 - [[Split provenance into priority and independence]]
+- [[Model-read mathematical manuscripts - Godel had a proof checker, Lighthouse a false-positive protocol]]
 
 ## Source
 

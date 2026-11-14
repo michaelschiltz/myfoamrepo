@@ -165,6 +165,10 @@ Where the sources for the European companies are and are not machine-readable is
 
 - [[Agentic research set-ups - the public landscape against the HistorEE protocol]] — every component in wide use, the configuration in none; the nearest repositories give the agent the commit the protocol withholds
 
+## Added 2026-11-15 — model-read manuscripts
+
+- [[Model-read mathematical manuscripts - Godel had a proof checker, Lighthouse a false-positive protocol]] — in the Gödel case the model synthesised a human transcription and Coq judged the output; Lighthouse writes down the twelve ways a model-generated find dies, and most of them carry over to coding contract forms
+
 ## Added 2026-10-25 — laboratory, archive and the layers of the record
 
 - [[The laboratory tests the choice and the archive tests the pool]] — experiments observe a choice, the archive a pool; the log-utility objection reaches only the first

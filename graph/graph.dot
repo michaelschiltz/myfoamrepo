@@ -290,6 +290,7 @@ digraph vault {
   "Minna de Honkoku - crowdsourced transcription" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
   "Minutier central des notaires de Paris" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
   "Mitsui Bunko - the Mitsui house archive" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
+  "Model-read mathematical manuscripts - Godel had a proof checker, Lighthouse a false-positive protocol" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
   "Modi script and the forty million documents" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
   "Monte delle doti coding session 2026-10-15" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
   "More than the sum requires a non-additive aggregation rule" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
@@ -955,6 +956,7 @@ digraph vault {
   "Agentic research set-ups - the public landscape against the HistorEE protocol" -> "Blind re-coding workflow - operator, coder, application";
   "Agentic research set-ups - the public landscape against the HistorEE protocol" -> "MOC - HistorEE";
   "Agentic research set-ups - the public landscape against the HistorEE protocol" -> "MOC - Historiography and method";
+  "Agentic research set-ups - the public landscape against the HistorEE protocol" -> "Model-read mathematical manuscripts - Godel had a proof checker, Lighthouse a false-positive protocol";
   "Agentic research set-ups - the public landscape against the HistorEE protocol" -> "Primary against secondary coding workflow - three arms, reveal, application";
   "Agentic research set-ups - the public landscape against the HistorEE protocol" -> "Retrieval report workflow - reading the codebooks and the vault back as evidence";
   "Agentic research set-ups - the public landscape against the HistorEE protocol" -> "Split provenance into priority and independence";
@@ -3038,6 +3040,7 @@ digraph vault {
   "MOC - ERC Synergy Grant" -> "MOC - Historiography and method";
   "MOC - ERC Synergy Grant" -> "MOC - Islamic contract doctrine";
   "MOC - ERC Synergy Grant" -> "Mandeville's hive is the game-theoretic hive";
+  "MOC - ERC Synergy Grant" -> "Model-read mathematical manuscripts - Godel had a proof checker, Lighthouse a false-positive protocol";
   "MOC - ERC Synergy Grant" -> "Nothing in the ergodic theorem fails in geometric Brownian motion";
   "MOC - ERC Synergy Grant" -> "Persistence samples are conditioned on non-absorption";
   "MOC - ERC Synergy Grant" -> "Retrodiction fails on non-invertibility not on induction";
@@ -3631,6 +3634,7 @@ digraph vault {
   "MOC - Historiography and method" -> "MOC - HistorEE";
   "MOC - Historiography and method" -> "MOC - Path dependence and sequence";
   "MOC - Historiography and method" -> "Mandeville's hive is the game-theoretic hive";
+  "MOC - Historiography and method" -> "Model-read mathematical manuscripts - Godel had a proof checker, Lighthouse a false-positive protocol";
   "MOC - Historiography and method" -> "Multiplicative amplification is indifferent to what it amplifies";
   "MOC - Historiography and method" -> "Never let the units slide from instruments to populations";
   "MOC - Historiography and method" -> "Of Taleb's accounts of dietary law only the minority rule is a mechanism";
@@ -4106,6 +4110,18 @@ digraph vault {
   "Mitsui Bunko - the Mitsui house archive" -> "MOC - Japanese archives";
   "Mitsui Bunko - the Mitsui house archive" -> "Sumitomo Historical Archives - Kyoto";
   "Mitsui Bunko - the Mitsui house archive" -> "The clearing records dataset has no archive yet";
+  "Model-read mathematical manuscripts - Godel had a proof checker, Lighthouse a false-positive protocol" -> "A blind is a property of the channel not of the dataset";
+  "Model-read mathematical manuscripts - Godel had a proof checker, Lighthouse a false-positive protocol" -> "Agentic research set-ups - the public landscape against the HistorEE protocol";
+  "Model-read mathematical manuscripts - Godel had a proof checker, Lighthouse a false-positive protocol" -> "Blind re-coding workflow - operator, coder, application";
+  "Model-read mathematical manuscripts - Godel had a proof checker, Lighthouse a false-positive protocol" -> "Doctrine, deed and conduct are three layers and the time-average test needs all three";
+  "Model-read mathematical manuscripts - Godel had a proof checker, Lighthouse a false-positive protocol" -> "MICOLL - Padua ERC tracing commercial-law terms is a transmission control not a rival";
+  "Model-read mathematical manuscripts - Godel had a proof checker, Lighthouse a false-positive protocol" -> "MOC - ERC Synergy Grant";
+  "Model-read mathematical manuscripts - Godel had a proof checker, Lighthouse a false-positive protocol" -> "MOC - HistorEE";
+  "Model-read mathematical manuscripts - Godel had a proof checker, Lighthouse a false-positive protocol" -> "MOC - Historiography and method";
+  "Model-read mathematical manuscripts - Godel had a proof checker, Lighthouse a false-positive protocol" -> "MOC - Source editions";
+  "Model-read mathematical manuscripts - Godel had a proof checker, Lighthouse a false-positive protocol" -> "MiDRASH - the machine transcription of the Geniza";
+  "Model-read mathematical manuscripts - Godel had a proof checker, Lighthouse a false-positive protocol" -> "The OCR text layer evidences a clause's presence, not its absence";
+  "Model-read mathematical manuscripts - Godel had a proof checker, Lighthouse a false-positive protocol" -> "Typology and character coding literature";
   "Modi script and the forty million documents" -> "Kuzushiji OCR - the NDL and CODH stack";
   "Modi script and the forty million documents" -> "MOC - Digitisation and text recognition";
   "Modi script and the forty million documents" -> "MOC - South Asian archives";

@@ -5,7 +5,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "A blind is a property of the channel not of the dataset",
-      "value": 21,
+      "value": 22,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -284,7 +284,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Agentic research set-ups - the public landscape against the HistorEE protocol",
-      "value": 12,
+      "value": 14,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -869,7 +869,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Blind re-coding workflow - operator, coder, application",
-      "value": 25,
+      "value": 26,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1373,7 +1373,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Doctrine, deed and conduct are three layers and the time-average test needs all three",
-      "value": 23,
+      "value": 24,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -2507,7 +2507,7 @@
       "type": "reference",
       "group": "reference",
       "label": "MICOLL - Padua ERC tracing commercial-law terms is a transmission control not a rival",
-      "value": 9,
+      "value": 10,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -2561,7 +2561,7 @@
       "type": "reference",
       "group": "reference",
       "label": "MiDRASH - the machine transcription of the Geniza",
-      "value": 17,
+      "value": 18,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -2598,6 +2598,15 @@
       "group": "reference",
       "label": "Mitsui Bunko - the Mitsui house archive",
       "value": 18,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "Model-read mathematical manuscripts - Godel had a proof checker, Lighthouse a false-positive protocol",
+      "type": "reference",
+      "group": "reference",
+      "label": "Model-read mathematical manuscripts - Godel had a proof checker, Lighthouse a false-positive protocol",
+      "value": 17,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -4307,7 +4316,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The OCR text layer evidences a clause's presence, not its absence",
-      "value": 8,
+      "value": 10,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -5315,7 +5324,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Typology and character coding literature",
-      "value": 25,
+      "value": 26,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -5612,7 +5621,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - ERC Synergy Grant",
-      "value": 87,
+      "value": 89,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -5675,7 +5684,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - HistorEE",
-      "value": 555,
+      "value": 556,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -5684,7 +5693,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Historiography and method",
-      "value": 269,
+      "value": 271,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -5765,7 +5774,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Source editions",
-      "value": 56,
+      "value": 57,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -7052,6 +7061,10 @@
     {
       "from": "Agentic research set-ups - the public landscape against the HistorEE protocol",
       "to": "MOC - Historiography and method"
+    },
+    {
+      "from": "Agentic research set-ups - the public landscape against the HistorEE protocol",
+      "to": "Model-read mathematical manuscripts - Godel had a proof checker, Lighthouse a false-positive protocol"
     },
     {
       "from": "Agentic research set-ups - the public landscape against the HistorEE protocol",
@@ -15387,6 +15400,10 @@
     },
     {
       "from": "MOC - ERC Synergy Grant",
+      "to": "Model-read mathematical manuscripts - Godel had a proof checker, Lighthouse a false-positive protocol"
+    },
+    {
+      "from": "MOC - ERC Synergy Grant",
       "to": "Nothing in the ergodic theorem fails in geometric Brownian motion"
     },
     {
@@ -17759,6 +17776,10 @@
     },
     {
       "from": "MOC - Historiography and method",
+      "to": "Model-read mathematical manuscripts - Godel had a proof checker, Lighthouse a false-positive protocol"
+    },
+    {
+      "from": "MOC - Historiography and method",
       "to": "Multiplicative amplification is indifferent to what it amplifies"
     },
     {
@@ -19656,6 +19677,54 @@
     {
       "from": "Mitsui Bunko - the Mitsui house archive",
       "to": "The clearing records dataset has no archive yet"
+    },
+    {
+      "from": "Model-read mathematical manuscripts - Godel had a proof checker, Lighthouse a false-positive protocol",
+      "to": "A blind is a property of the channel not of the dataset"
+    },
+    {
+      "from": "Model-read mathematical manuscripts - Godel had a proof checker, Lighthouse a false-positive protocol",
+      "to": "Agentic research set-ups - the public landscape against the HistorEE protocol"
+    },
+    {
+      "from": "Model-read mathematical manuscripts - Godel had a proof checker, Lighthouse a false-positive protocol",
+      "to": "Blind re-coding workflow - operator, coder, application"
+    },
+    {
+      "from": "Model-read mathematical manuscripts - Godel had a proof checker, Lighthouse a false-positive protocol",
+      "to": "Doctrine, deed and conduct are three layers and the time-average test needs all three"
+    },
+    {
+      "from": "Model-read mathematical manuscripts - Godel had a proof checker, Lighthouse a false-positive protocol",
+      "to": "MICOLL - Padua ERC tracing commercial-law terms is a transmission control not a rival"
+    },
+    {
+      "from": "Model-read mathematical manuscripts - Godel had a proof checker, Lighthouse a false-positive protocol",
+      "to": "MOC - ERC Synergy Grant"
+    },
+    {
+      "from": "Model-read mathematical manuscripts - Godel had a proof checker, Lighthouse a false-positive protocol",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Model-read mathematical manuscripts - Godel had a proof checker, Lighthouse a false-positive protocol",
+      "to": "MOC - Historiography and method"
+    },
+    {
+      "from": "Model-read mathematical manuscripts - Godel had a proof checker, Lighthouse a false-positive protocol",
+      "to": "MOC - Source editions"
+    },
+    {
+      "from": "Model-read mathematical manuscripts - Godel had a proof checker, Lighthouse a false-positive protocol",
+      "to": "MiDRASH - the machine transcription of the Geniza"
+    },
+    {
+      "from": "Model-read mathematical manuscripts - Godel had a proof checker, Lighthouse a false-positive protocol",
+      "to": "The OCR text layer evidences a clause's presence, not its absence"
+    },
+    {
+      "from": "Model-read mathematical manuscripts - Godel had a proof checker, Lighthouse a false-positive protocol",
+      "to": "Typology and character coding literature"
     },
     {
       "from": "Modi script and the forty million documents",
