@@ -82,3 +82,4 @@ The Part 2 WP1 session's *ideas* are written as atomic notes (below) and kept un
 ## Added 2026-11-15 — precedents for the B2 method
 
 - [[Model-read mathematical manuscripts - Godel had a proof checker, Lighthouse a false-positive protocol]] — two outside precedents for model reading under external verification; the blind-coding design does the work Coq does for von Plato
+- [[Two blind model transcribers agree where both are wrong - agreement is not a reference]] — first measured transcription error rates of the protocol (ER-0023, ER-0024), and why agreement between model readers is not a reference

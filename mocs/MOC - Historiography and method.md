@@ -168,6 +168,7 @@ Where the sources for the European companies are and are not machine-readable is
 ## Added 2026-11-15 — model-read manuscripts
 
 - [[Model-read mathematical manuscripts - Godel had a proof checker, Lighthouse a false-positive protocol]] — in the Gödel case the model synthesised a human transcription and Coq judged the output; Lighthouse writes down the twelve ways a model-generated find dies, and most of them carry over to coding contract forms
+- [[Two blind model transcribers agree where both are wrong - agreement is not a reference]] — the Yamamoto ledgers double transcription: five shared errors behind 57 disagreements; both measured rates are lower bounds, and the adjudicator's own crops failed at low zoom
 
 ## Added 2026-10-25 — laboratory, archive and the layers of the record
 

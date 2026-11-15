@@ -592,6 +592,7 @@ digraph vault {
   "Transkribus - managed HTR platform" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
   "Transmission versus independent recurrence is the load-bearing test" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Tung Wah Coffin Home Archives - Hong Kong" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
+  "Two blind model transcribers agree where both are wrong - agreement is not a reference" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Typology and character coding literature" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
   "Under multiplicative dynamics the restoring force is an institutional achievement" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Unilateral and bilateral commenda collapse on profit and separate on loss" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
@@ -3058,6 +3059,7 @@ digraph vault {
   "MOC - ERC Synergy Grant" -> "The three Kelly critiques establish different nulls";
   "MOC - ERC Synergy Grant" -> "The word ergodic carries four incompatible senses";
   "MOC - ERC Synergy Grant" -> "Transmission versus independent recurrence is the load-bearing test";
+  "MOC - ERC Synergy Grant" -> "Two blind model transcribers agree where both are wrong - agreement is not a reference";
   "MOC - ERC Synergy Grant" -> "Under multiplicative dynamics the restoring force is an institutional achievement";
   "MOC - ERC Synergy Grant" -> "Voigtlander and Voth measured the relaxation time and reported a mixture";
   "MOC - Entity-shielding and corporate forms" -> "A pledge secures an obligation and does not enlarge it";
@@ -3692,6 +3694,7 @@ digraph vault {
   "MOC - Historiography and method" -> "The theory predicts recurrence not independent origins";
   "MOC - Historiography and method" -> "The three Kelly critiques establish different nulls";
   "MOC - Historiography and method" -> "Transmission versus independent recurrence is the load-bearing test";
+  "MOC - Historiography and method" -> "Two blind model transcribers agree where both are wrong - agreement is not a reference";
   "MOC - Historiography and method" -> "Typology and character coding literature";
   "MOC - Historiography and method" -> "Unilateral and bilateral commenda collapse on profit and separate on loss";
   "MOC - Historiography and method" -> "VOC digital corpus - what is online and on what terms";
@@ -6539,6 +6542,13 @@ digraph vault {
   "Tung Wah Coffin Home Archives - Hong Kong" -> "Guild stele inscriptions - the huiguan's surviving record";
   "Tung Wah Coffin Home Archives - Hong Kong" -> "Leiden University Library - the Kong Koan archive of Batavia";
   "Tung Wah Coffin Home Archives - Hong Kong" -> "MOC - Chinese archives";
+  "Two blind model transcribers agree where both are wrong - agreement is not a reference" -> "Agentic research set-ups - the public landscape against the HistorEE protocol";
+  "Two blind model transcribers agree where both are wrong - agreement is not a reference" -> "Dunhuang she associations - bylaws for a funeral fund";
+  "Two blind model transcribers agree where both are wrong - agreement is not a reference" -> "MOC - ERC Synergy Grant";
+  "Two blind model transcribers agree where both are wrong - agreement is not a reference" -> "MOC - Historiography and method";
+  "Two blind model transcribers agree where both are wrong - agreement is not a reference" -> "Model-read mathematical manuscripts - Godel had a proof checker, Lighthouse a false-positive protocol";
+  "Two blind model transcribers agree where both are wrong - agreement is not a reference" -> "The OCR text layer evidences a clause's presence, not its absence";
+  "Two blind model transcribers agree where both are wrong - agreement is not a reference" -> "loss_mitigation_forms";
   "Typology and character coding literature" -> "Borrow the diagnostics not the tree";
   "Typology and character coding literature" -> "Count degrees of freedom not cells";
   "Typology and character coding literature" -> "Galton's problem";
