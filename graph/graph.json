@@ -5,7 +5,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "A blind is a property of the channel not of the dataset",
-      "value": 23,
+      "value": 24,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -671,7 +671,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Archivo Historico Provincial de Sevilla - notarial protocols",
-      "value": 17,
+      "value": 19,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -869,7 +869,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Blind re-coding workflow - operator, coder, application",
-      "value": 26,
+      "value": 28,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1148,7 +1148,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Comanda primary pass coding and adjudication 2026-10-27",
-      "value": 29,
+      "value": 30,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1184,7 +1184,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Count degrees of freedom not cells",
-      "value": 65,
+      "value": 67,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -2543,7 +2543,7 @@
       "type": "source",
       "group": "source",
       "label": "Martinez Gijon on the comenda in Spanish law",
-      "value": 11,
+      "value": 13,
       "color": "#7570b3",
       "shape": "dot"
     },
@@ -3547,6 +3547,15 @@
       "shape": "dot"
     },
     {
+      "id": "Seville compania y factoria coding and application 2026-11-19",
+      "type": "reference",
+      "group": "reference",
+      "label": "Seville compania y factoria coding and application 2026-11-19",
+      "value": 21,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
       "id": "Shanxi piaohao records - letters, house rules and a collector's compilation",
       "type": "reference",
       "group": "reference",
@@ -4190,7 +4199,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The Catalan maritime comanda puts the whole capital loss on the investor",
-      "value": 17,
+      "value": 18,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -4316,7 +4325,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The OCR text layer evidences a clause's presence, not its absence",
-      "value": 11,
+      "value": 13,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -4541,7 +4550,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The comanda ad societatem shares losses in the proportion of profits",
-      "value": 17,
+      "value": 19,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -5639,7 +5648,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Entity-shielding and corporate forms",
-      "value": 162,
+      "value": 164,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -5693,7 +5702,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - HistorEE",
-      "value": 556,
+      "value": 558,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -5819,7 +5828,7 @@
       "type": "database",
       "group": "database",
       "label": "organizational_forms",
-      "value": 40,
+      "value": 41,
       "color": "#a6761d",
       "shape": "database"
     },
@@ -15625,6 +15634,10 @@
     },
     {
       "from": "MOC - Entity-shielding and corporate forms",
+      "to": "Seville compania y factoria coding and application 2026-11-19"
+    },
+    {
+      "from": "MOC - Entity-shielding and corporate forms",
       "to": "Social immunity is a consequence of individuation not evidence for it"
     },
     {
@@ -17198,6 +17211,10 @@
     {
       "from": "MOC - HistorEE",
       "to": "Separate the sociological and the methodological claims about economics"
+    },
+    {
+      "from": "MOC - HistorEE",
+      "to": "Seville compania y factoria coding and application 2026-11-19"
     },
     {
       "from": "MOC - HistorEE",
@@ -22890,6 +22907,54 @@
     {
       "from": "Service historique de la Defense - Lorient and the Compagnie des Indes",
       "to": "VOC digital corpus - what is online and on what terms"
+    },
+    {
+      "from": "Seville compania y factoria coding and application 2026-11-19",
+      "to": "A blind is a property of the channel not of the dataset"
+    },
+    {
+      "from": "Seville compania y factoria coding and application 2026-11-19",
+      "to": "Archivo Historico Provincial de Sevilla - notarial protocols"
+    },
+    {
+      "from": "Seville compania y factoria coding and application 2026-11-19",
+      "to": "Blind re-coding workflow - operator, coder, application"
+    },
+    {
+      "from": "Seville compania y factoria coding and application 2026-11-19",
+      "to": "Comanda primary pass coding and adjudication 2026-10-27"
+    },
+    {
+      "from": "Seville compania y factoria coding and application 2026-11-19",
+      "to": "Count degrees of freedom not cells"
+    },
+    {
+      "from": "Seville compania y factoria coding and application 2026-11-19",
+      "to": "MOC - Entity-shielding and corporate forms"
+    },
+    {
+      "from": "Seville compania y factoria coding and application 2026-11-19",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Seville compania y factoria coding and application 2026-11-19",
+      "to": "Martinez Gijon on the comenda in Spanish law"
+    },
+    {
+      "from": "Seville compania y factoria coding and application 2026-11-19",
+      "to": "The Catalan maritime comanda puts the whole capital loss on the investor"
+    },
+    {
+      "from": "Seville compania y factoria coding and application 2026-11-19",
+      "to": "The OCR text layer evidences a clause's presence, not its absence"
+    },
+    {
+      "from": "Seville compania y factoria coding and application 2026-11-19",
+      "to": "The comanda ad societatem shares losses in the proportion of profits"
+    },
+    {
+      "from": "Seville compania y factoria coding and application 2026-11-19",
+      "to": "organizational_forms"
     },
     {
       "from": "Shanxi piaohao records - letters, house rules and a collector's compilation",

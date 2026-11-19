@@ -112,3 +112,7 @@ Thematic hub for the corporate-form apparatus: asset-partitioning, identity-wrap
 - [[Social immunity is a consequence of individuation not evidence for it]] — the colony's immune system presupposes the shift in the unit of selection and polices the new self
 - [[The colony's immune boundary is a graded configuration not a wall]] — Fernandes et al. 2026: colony defences as zones of graded, selective permeability; read border defence as weak/strong entity shielding and membership as terms of admission
 - [[The hive models the corporation's emergent layer not the route by which it formed]] — the hive is the right image of a layer with its own horizon and rules, not of its route: kinship in the hive, mutual gain and outside law among the corporation's strangers; the corporation locks in capital, not members (revised 2026-11-13)
+
+## Added 2026-11-19
+
+- [[Seville compania y factoria coding and application 2026-11-19]] — a new row, `compania_factoria_sevilla`, coded blind from three Seville deeds of 1542–1550 (Martínez Gijón 1970): a labour-only factor-partner in the Indies; in doc. 8 he bears a quarter of any loss, in docs. 3 and 9 the capital partners bear it; no split, with a split criterion fixed in advance

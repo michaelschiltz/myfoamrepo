@@ -360,3 +360,7 @@ Project hub for the book. Atomic notes hang off both this project MOC and a them
 - [[A decaying surname mean cannot separate one process from a mixture of lineages]]
 - [[Under multiplicative dynamics the restoring force is an institutional achievement]]
 - [[Persistence stationarity and mobility literature]]
+
+## Notes — Seville compañía y factoría (2026-11-19)
+
+- [[Seville compania y factoria coding and application 2026-11-19]]
