@@ -129,6 +129,7 @@ digraph vault {
   "Comanda coding collated with the editors' study 2026-11-01" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
   "Comanda names several contracts in the Catalan sources" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Comanda primary pass coding and adjudication 2026-10-27" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
+  "Comanda record eyeball check against the print 2026-11-20" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
   "Comanda records corrected from the Madurell translation 2026-11-03" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
   "Consulado de Burgos - the universidad de mercaderes" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
   "Cooperation is an averaging puzzle and sovereign repayment is a barrier puzzle" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
@@ -1621,6 +1622,13 @@ digraph vault {
   "Comanda primary pass coding and adjudication 2026-10-27" -> "The commenda family fixes the allocation of loss and proves it by the agent's oath";
   "Comanda primary pass coding and adjudication 2026-10-27" -> "loss_mitigation_forms";
   "Comanda primary pass coding and adjudication 2026-10-27" -> "organizational_forms";
+  "Comanda record eyeball check against the print 2026-11-20" -> "Comanda primary pass coding and adjudication 2026-10-27";
+  "Comanda record eyeball check against the print 2026-11-20" -> "Comanda records corrected from the Madurell translation 2026-11-03";
+  "Comanda record eyeball check against the print 2026-11-20" -> "MOC - HistorEE";
+  "Comanda record eyeball check against the print 2026-11-20" -> "The OCR text layer evidences a clause's presence, not its absence";
+  "Comanda record eyeball check against the print 2026-11-20" -> "Two blind model transcribers agree where both are wrong - agreement is not a reference";
+  "Comanda record eyeball check against the print 2026-11-20" -> "loss_mitigation_forms";
+  "Comanda record eyeball check against the print 2026-11-20" -> "organizational_forms";
   "Comanda records corrected from the Madurell translation 2026-11-03" -> "Comanda coding collated with the editors' study 2026-11-01";
   "Comanda records corrected from the Madurell translation 2026-11-03" -> "Comanda primary pass coding and adjudication 2026-10-27";
   "Comanda records corrected from the Madurell translation 2026-11-03" -> "MOC - Entity-shielding and corporate forms";
@@ -3397,6 +3405,7 @@ digraph vault {
   "MOC - HistorEE" -> "Clark's institution-invariant law leaves heredity as the only carrier";
   "MOC - HistorEE" -> "Comanda coding collated with the editors' study 2026-11-01";
   "MOC - HistorEE" -> "Comanda primary pass coding and adjudication 2026-10-27";
+  "MOC - HistorEE" -> "Comanda record eyeball check against the print 2026-11-20";
   "MOC - HistorEE" -> "Cooperation is an averaging puzzle and sovereign repayment is a barrier puzzle";
   "MOC - HistorEE" -> "Count degrees of freedom not cells";
   "MOC - HistorEE" -> "Darwin's bee series is a space-for-time substitution that licenses possibility not pathway";

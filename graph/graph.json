@@ -1148,7 +1148,16 @@
       "type": "reference",
       "group": "reference",
       "label": "Comanda primary pass coding and adjudication 2026-10-27",
-      "value": 30,
+      "value": 31,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "Comanda record eyeball check against the print 2026-11-20",
+      "type": "reference",
+      "group": "reference",
+      "label": "Comanda record eyeball check against the print 2026-11-20",
+      "value": 10,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -1157,7 +1166,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Comanda records corrected from the Madurell translation 2026-11-03",
-      "value": 13,
+      "value": 14,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -4325,7 +4334,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The OCR text layer evidences a clause's presence, not its absence",
-      "value": 13,
+      "value": 14,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -5333,7 +5342,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Two blind model transcribers agree where both are wrong - agreement is not a reference",
-      "value": 10,
+      "value": 12,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -5702,7 +5711,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - HistorEE",
-      "value": 558,
+      "value": 560,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -5828,7 +5837,7 @@
       "type": "database",
       "group": "database",
       "label": "organizational_forms",
-      "value": 41,
+      "value": 42,
       "color": "#a6761d",
       "shape": "database"
     },
@@ -5837,7 +5846,7 @@
       "type": "database",
       "group": "database",
       "label": "loss_mitigation_forms",
-      "value": 66,
+      "value": 67,
       "color": "#a6761d",
       "shape": "database"
     },
@@ -9730,6 +9739,34 @@
     },
     {
       "from": "Comanda primary pass coding and adjudication 2026-10-27",
+      "to": "organizational_forms"
+    },
+    {
+      "from": "Comanda record eyeball check against the print 2026-11-20",
+      "to": "Comanda primary pass coding and adjudication 2026-10-27"
+    },
+    {
+      "from": "Comanda record eyeball check against the print 2026-11-20",
+      "to": "Comanda records corrected from the Madurell translation 2026-11-03"
+    },
+    {
+      "from": "Comanda record eyeball check against the print 2026-11-20",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Comanda record eyeball check against the print 2026-11-20",
+      "to": "The OCR text layer evidences a clause's presence, not its absence"
+    },
+    {
+      "from": "Comanda record eyeball check against the print 2026-11-20",
+      "to": "Two blind model transcribers agree where both are wrong - agreement is not a reference"
+    },
+    {
+      "from": "Comanda record eyeball check against the print 2026-11-20",
+      "to": "loss_mitigation_forms"
+    },
+    {
+      "from": "Comanda record eyeball check against the print 2026-11-20",
       "to": "organizational_forms"
     },
     {
@@ -16835,6 +16872,10 @@
     {
       "from": "MOC - HistorEE",
       "to": "Comanda primary pass coding and adjudication 2026-10-27"
+    },
+    {
+      "from": "MOC - HistorEE",
+      "to": "Comanda record eyeball check against the print 2026-11-20"
     },
     {
       "from": "MOC - HistorEE",

@@ -295,6 +295,7 @@ Project hub for the book. Atomic notes hang off both this project MOC and a them
 
 - [[Comanda primary pass coding and adjudication 2026-10-27]]
 - [[Comanda coding collated with the editors' study 2026-11-01]]
+- [[Comanda record eyeball check against the print 2026-11-20]]
 
 ## Notes — agentic set-up landscape
 
