@@ -61,6 +61,8 @@ $p$ and $p^N$ are probabilities across paths. For the project that is legitimate
 - [[MOC - Ergodicity and the time-ensemble distinction]]
 - [[MOC - Risk-sharing vs risk-pricing]]
 - [[MOC - HistorEE]]
+- [[Polyandry is pooling under an absorbing barrier]]
+- [[Individuation moves the absorbing barrier from the member to the unit]]
 
 ## Source
 

@@ -346,6 +346,12 @@ Project hub for the book. Atomic notes hang off both this project MOC and a them
 - [[The colony's immune boundary is a graded configuration not a wall]]
 - [[The hive models the corporation's emergent layer not the route by which it formed]]
 
+### Third version of the hive report (2026-11-21)
+
+- [[Individuation moves the absorbing barrier from the member to the unit]] — in a unit the barrier is the unit's dissolution, not the member's ruin; 6.54 as nested barriers; the hive shields one way, the limited-liability corporation both
+- [[A constant projection matrix has no ergodicity content]] — Bourrat's eigenvalue is deterministic; in a random environment the time-average rate is the top Lyapunov exponent (Tuljapurkar and Orzack 1980); the horizon proposal restated
+- [[Polyandry is pooling under an absorbing barrier]] — Tarpy's same mean, lower variance, fewer failures; patrilines as the colony's bottoms
+
 ## Notes — persistence sweep and the stationarity presumption (2026-11-14)
 
 - [[The persistence literature names non-ergodicity only in its geography branch]]

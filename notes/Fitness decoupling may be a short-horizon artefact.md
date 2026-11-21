@@ -29,6 +29,10 @@ On the time-average horizon, what does not profit the swarm does not profit the 
 
 Clejan, Congleton and Lerch 2022 define the emergent group fitness as the dominant eigenvalue of the linearised invasion dynamics, valid "assuming long enough times that the subdominant eigenvalue component has become negligible." Their group fitness is a long-run growth rate by construction. Over shorter horizons the subdominant component carries the parts' separate dynamics. That is the same structure Bourrat et al. find, reached independently, and it strengthens the horizon reading without yet making it a result.
 
+## Revision 2026-11-21 — restated in Lyapunov terms
+
+"An asymptotic growth rate is a time-average quantity" was too quick. Bourrat et al.'s eigenvalue belongs to a constant projection matrix (§2.2), and in a constant environment time and ensemble averages coincide. The reading has content only in a random environment, where the time-average rate is the top Lyapunov exponent and lies below the growth rate of the mean dynamics (Tuljapurkar and Orzack 1980). The equality of particle and collective fitness survives the restatement; what it adds is a second artefact, replicate-line averaging, besides the short window. The Black et al. patch cycle is a divergence between horizons, not between ensemble and time, unless the cycle is random. See [[A constant projection matrix has no ergodicity content]]. For 6.54, [[Individuation moves the absorbing barrier from the member to the unit]] gives a barrier reading that needs nothing from Bourrat and should be preferred.
+
 ## Links
 
 - [[The growth-rate criterion is asymptotic and the horizon comparison cuts both ways]]
@@ -38,6 +42,8 @@ Clejan, Congleton and Lerch 2022 define the emergent group fitness as the domina
 - [[MOC - Ergodicity and the time-ensemble distinction]]
 - [[MOC - Defending the ergodicity claim]]
 - [[MOC - HistorEE]]
+- [[A constant projection matrix has no ergodicity content]]
+- [[Individuation moves the absorbing barrier from the member to the unit]]
 
 ## Source
 

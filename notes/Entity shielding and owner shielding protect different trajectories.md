@@ -41,6 +41,10 @@ It also converts the falsification protocol into something that can fail. Not "t
 
 The trade-off is asserted from four coded forms, three of which I coded. It is a hypothesis with an illustration, not a result. It also assumes the member's and the entity's barriers are genuinely in tension rather than jointly satisfiable by some device not yet in the census — and [[Transferable claims reconcile lock-in with member exit]] is precisely a candidate for such a device, which weakens the trade-off claim in its strong form.
 
+## Addendum 2026-11-21 — the hive shields in one direction
+
+The colony has entity shielding without owner shielding: it survives any worker, and no worker survives it. The limited-liability corporation has both. See [[Individuation moves the absorbing barrier from the member to the unit]].
+
 ## Links
 
 - [[Transferable claims reconcile lock-in with member exit]]
@@ -56,6 +60,7 @@ The trade-off is asserted from four coded forms, three of which I coded. It is a
 - [[MOC - Ergodicity and the time-ensemble distinction]]
 - [[MOC - HistorEE]]
 - [[MOC - ERC Synergy Grant]]
+- [[Individuation moves the absorbing barrier from the member to the unit]]
 
 ## Source
 

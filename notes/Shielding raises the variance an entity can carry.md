@@ -29,6 +29,7 @@ On the multiplicative limb this is a statement about leverage. A trajectory expo
 - [[Persona ficta made the corporation a-moral ab initio]]
 - [[MOC - Entity-shielding and corporate forms]]
 - [[MOC - HistorEE]]
+- [[Individuation moves the absorbing barrier from the member to the unit]]
 
 ## Source
 

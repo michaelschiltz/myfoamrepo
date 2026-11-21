@@ -174,3 +174,7 @@ The persistence-design critique is *offensive* — it attacks a design class —
 - [[The stationarity presumption has four sources and only one is an adage]] — layers 1, 2 and 4 can be pressed as hygiene; layer 3 belongs to the thinking pieces
 - [[Causal inference removes time as an interval where equilibrium removed it as iteration]] — the persistence literature holds no equilibrium to attack; aim at the exchangeability it does hold
 - [[The persistence literature names non-ergodicity only in its geography branch]] — the novelty claim must be narrowed to deep-roots regressions; cite Wolf, Bernard and Durlauf, Heckman, Stachurski, Maseland
+
+## Added 2026-11-21 — the hive report, third version
+
+- [[A constant projection matrix has no ergodicity content]] — Bourrat's eigenvalue is deterministic; in a random environment the time-average rate is the top Lyapunov exponent (Tuljapurkar and Orzack 1980); the horizon proposal restated — correction before the horizon note goes to Peters and Connaughton

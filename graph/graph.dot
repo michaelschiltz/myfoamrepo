@@ -5,6 +5,7 @@ digraph vault {
   "A blind re-coding is only blind if the value sets are" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "A claim set chosen after the coding reports the analyst" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "A concealed premium is evidence about the notary not about the price" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
+  "A constant projection matrix has no ergodicity content" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "A contingency clause priced at zero is evidence for a time-average criterion" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "A decaying surname mean cannot separate one process from a mixture of lineages" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "A difference between coded forms is a difference of evidence, vocabulary or form" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
@@ -244,6 +245,7 @@ digraph vault {
   "Independence of apparatus is not independence of question" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Indian inscriptions - the endowment recorded in stone" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
   "Indian merchant account books - bahi khata and kadai kanakku" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
+  "Individuation moves the absorbing barrier from the member to the unit" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Insolvente Boedelskamer - Antwerp" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
   "Institut fur Stadtgeschichte Frankfurt" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
   "Institute of Oriental Manuscripts - St Petersburg" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
@@ -356,6 +358,7 @@ digraph vault {
   "Peters and Adamou 2026 on the time interpretation of expected utility theory" [fillcolor="#7570b3", fontcolor=white, shape=ellipse];
   "Peters's growth criterion is the boundary-free case of the first-passage ordering" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Polonio on the Barcelona maritime comandas 1349-1450" [fillcolor="#7570b3", fontcolor=white, shape=ellipse];
+  "Polyandry is pooling under an absorbing barrier" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Pooling approaches the infinite ensemble and perpetual succession the infinite horizon" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Pooling pays only where ventures grow on average" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Pooling raises the rate and individuation draws the boundary" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
@@ -714,6 +717,14 @@ digraph vault {
   "A concealed premium is evidence about the notary not about the price" -> "Refusals are observations of the filter not inferences from survivors";
   "A concealed premium is evidence about the notary not about the price" -> "The deficit reading of absence is the scalar ranking in evidentiary form";
   "A concealed premium is evidence about the notary not about the price" -> "loss_mitigation_forms";
+  "A constant projection matrix has no ergodicity content" -> "Adamou Berman and Peters 2026 on the two growth rates";
+  "A constant projection matrix has no ergodicity content" -> "Conditioning on survival is an ensemble operation";
+  "A constant projection matrix has no ergodicity content" -> "Fitness decoupling may be a short-horizon artefact";
+  "A constant projection matrix has no ergodicity content" -> "MOC - Defending the ergodicity claim";
+  "A constant projection matrix has no ergodicity content" -> "MOC - Ergodicity and the time-ensemble distinction";
+  "A constant projection matrix has no ergodicity content" -> "MOC - HistorEE";
+  "A constant projection matrix has no ergodicity content" -> "More than the sum requires a non-additive aggregation rule";
+  "A constant projection matrix has no ergodicity content" -> "The growth-rate criterion is asymptotic and the horizon comparison cuts both ways";
   "A contingency clause priced at zero is evidence for a time-average criterion" -> "Drelichman and Voth 2014 on the debts and defaults of Philip II";
   "A contingency clause priced at zero is evidence for a time-average criterion" -> "MOC - Ergodicity and the time-ensemble distinction";
   "A contingency clause priced at zero is evidence for a time-average criterion" -> "MOC - HistorEE";
@@ -1869,6 +1880,7 @@ digraph vault {
   "Diversification runs across bottoms not across partners" -> "MOC - HistorEE";
   "Diversification runs across bottoms not across partners" -> "MOC - Risk-sharing vs risk-pricing";
   "Diversification runs across bottoms not across partners" -> "Permanent capital pools across voyages as well as across partners";
+  "Diversification runs across bottoms not across partners" -> "Polyandry is pooling under an absorbing barrier";
   "Diversification runs across bottoms not across partners" -> "Pooling's sign is set by the correlation of its baskets";
   "Diversification runs across bottoms not across partners" -> "The Fugger diversified activity while concentrating the barrier";
   "Diversification runs across bottoms not across partners" -> "The proverbs of diversification state the rule and omit its conditions";
@@ -2069,6 +2081,7 @@ digraph vault {
   "Entity shielding and owner shielding protect different trajectories" -> "Absorbing barrier";
   "Entity shielding and owner shielding protect different trajectories" -> "Entity-shielding";
   "Entity shielding and owner shielding protect different trajectories" -> "Harris 2020 on the late plurality of limited liability";
+  "Entity shielding and owner shielding protect different trajectories" -> "Individuation moves the absorbing barrier from the member to the unit";
   "Entity shielding and owner shielding protect different trajectories" -> "Kuran's brake is a refusal of immortal entities";
   "Entity shielding and owner shielding protect different trajectories" -> "Lock-in and outcome-coupling are distinct bindings";
   "Entity shielding and owner shielding protect different trajectories" -> "MOC - ERC Synergy Grant";
@@ -2155,6 +2168,8 @@ digraph vault {
   "First Historical Archives of China - Beijing" -> "PRC archival access - photography forbidden and catalogues curated";
   "First Historical Archives of China - Beijing" -> "Qing grain price database - a denominator from the memorials";
   "First Historical Archives of China - Beijing" -> "Zhang Chuanxi 1995 - the contract compilation behind the census's Chinese rows";
+  "Fitness decoupling may be a short-horizon artefact" -> "A constant projection matrix has no ergodicity content";
+  "Fitness decoupling may be a short-horizon artefact" -> "Individuation moves the absorbing barrier from the member to the unit";
   "Fitness decoupling may be a short-horizon artefact" -> "MOC - Defending the ergodicity claim";
   "Fitness decoupling may be a short-horizon artefact" -> "MOC - Ergodicity and the time-ensemble distinction";
   "Fitness decoupling may be a short-horizon artefact" -> "MOC - HistorEE";
@@ -2623,6 +2638,20 @@ digraph vault {
   "Indian merchant account books - bahi khata and kadai kanakku" -> "MOC - Acquisitions and the antiquarian trade";
   "Indian merchant account books - bahi khata and kadai kanakku" -> "MOC - South Asian archives";
   "Indian merchant account books - bahi khata and kadai kanakku" -> "Rajasthan State Archives - Bikaner and the princely bahis";
+  "Individuation moves the absorbing barrier from the member to the unit" -> "Entity shielding and owner shielding protect different trajectories";
+  "Individuation moves the absorbing barrier from the member to the unit" -> "Fitness decoupling may be a short-horizon artefact";
+  "Individuation moves the absorbing barrier from the member to the unit" -> "Legal scaffolding gives a pool collective properties it does not yet own";
+  "Individuation moves the absorbing barrier from the member to the unit" -> "MOC - Entity-shielding and corporate forms";
+  "Individuation moves the absorbing barrier from the member to the unit" -> "MOC - Ergodicity and the time-ensemble distinction";
+  "Individuation moves the absorbing barrier from the member to the unit" -> "MOC - HistorEE";
+  "Individuation moves the absorbing barrier from the member to the unit" -> "Perpetual succession redefines the unit of survival from a line to a union of lines";
+  "Individuation moves the absorbing barrier from the member to the unit" -> "Pooling raises the rate and individuation draws the boundary";
+  "Individuation moves the absorbing barrier from the member to the unit" -> "Shielding raises the variance an entity can carry";
+  "Individuation moves the absorbing barrier from the member to the unit" -> "Stoic loci on cooperation - only two argue from interdependence";
+  "Individuation moves the absorbing barrier from the member to the unit" -> "The hive models the corporation's emergent layer not the route by which it formed";
+  "Individuation moves the absorbing barrier from the member to the unit" -> "Three immune functions mark a pool that has become a person";
+  "Individuation moves the absorbing barrier from the member to the unit" -> "Under absorption pooling raises the probability of ruin to the power of the pool";
+  "Individuation moves the absorbing barrier from the member to the unit" -> "Vanhoyweghen Verbeken and Ginis 2026 on absorbing boundaries";
   "Insolvente Boedelskamer - Antwerp" -> "Desolate Boedelkamer - Amsterdam";
   "Insolvente Boedelskamer - Antwerp" -> "FelixArchief - Antwerp city archive";
   "Insolvente Boedelskamer - Antwerp" -> "MOC - Entity-shielding and corporate forms";
@@ -3045,6 +3074,7 @@ digraph vault {
   "MOC - Croatian archives" -> "The Dubrovnik quarantine of 1377";
   "MOC - Croatian archives" -> "The Ottoman documents at Dubrovnik";
   "MOC - Croatian archives" -> "The Ragusan chancery and notarial series";
+  "MOC - Defending the ergodicity claim" -> "A constant projection matrix has no ergodicity content";
   "MOC - Defending the ergodicity claim" -> "A heuristic is defended by its error distribution not by its accuracy";
   "MOC - Defending the ergodicity claim" -> "A refutation that shares the estimand inherits the defect";
   "MOC - Defending the ergodicity claim" -> "Absorption without ergodicity economics is just ruin theory";
@@ -3199,6 +3229,7 @@ digraph vault {
   "MOC - Entity-shielding and corporate forms" -> "Harris 2020 on the late plurality of limited liability";
   "MOC - Entity-shielding and corporate forms" -> "Identity-wrapper and perpetual-monopoly are distinct shielding facets";
   "MOC - Entity-shielding and corporate forms" -> "Independence of apparatus is not independence of question";
+  "MOC - Entity-shielding and corporate forms" -> "Individuation moves the absorbing barrier from the member to the unit";
   "MOC - Entity-shielding and corporate forms" -> "Isqa qirad and commenda are a liability-variable triad";
   "MOC - Entity-shielding and corporate forms" -> "Le Bris Goetzmann Pouget 2023 on convergent evolution toward the joint-stock company";
   "MOC - Entity-shielding and corporate forms" -> "Legal scaffolding gives a pool collective properties it does not yet own";
@@ -3251,6 +3282,7 @@ digraph vault {
   "MOC - Entity-shielding and corporate forms" -> "Where ko rules name a bearer beyond the drawer's security it follows the drafting regime";
   "MOC - Entity-shielding and corporate forms" -> "Who answers for a ko member's default was drafted not given";
   "MOC - Entity-shielding and corporate forms" -> "Yui 1934 - the law of ko and who bears a member's default";
+  "MOC - Ergodicity and the time-ensemble distinction" -> "A constant projection matrix has no ergodicity content";
   "MOC - Ergodicity and the time-ensemble distinction" -> "A contingency clause priced at zero is evidence for a time-average criterion";
   "MOC - Ergodicity and the time-ensemble distinction" -> "A decaying surname mean cannot separate one process from a mixture of lineages";
   "MOC - Ergodicity and the time-ensemble distinction" -> "A fair wager lowers both trajectories which maysir forbids and skin in the game permits";
@@ -3294,6 +3326,7 @@ digraph vault {
   "MOC - Ergodicity and the time-ensemble distinction" -> "Galton-Watson is the extinction branch Peters named and did not develop";
   "MOC - Ergodicity and the time-ensemble distinction" -> "Harmless irrationality and costly ritual are licensed on opposite grounds";
   "MOC - Ergodicity and the time-ensemble distinction" -> "Hudson 2002 on clean slates as protection of the free population";
+  "MOC - Ergodicity and the time-ensemble distinction" -> "Individuation moves the absorbing barrier from the member to the unit";
   "MOC - Ergodicity and the time-ensemble distinction" -> "Jensen gap";
   "MOC - Ergodicity and the time-ensemble distinction" -> "Jensen supplies the gap but only the dynamic privileges the logarithm";
   "MOC - Ergodicity and the time-ensemble distinction" -> "MOC - Defending the ergodicity claim";
@@ -3505,6 +3538,7 @@ digraph vault {
   "MOC - German archives" -> "The German Wirtschaftsarchive - a distributed business archive";
   "MOC - HistorEE" -> "A blind is a property of the channel not of the dataset";
   "MOC - HistorEE" -> "A claim set chosen after the coding reports the analyst";
+  "MOC - HistorEE" -> "A constant projection matrix has no ergodicity content";
   "MOC - HistorEE" -> "A contingency clause priced at zero is evidence for a time-average criterion";
   "MOC - HistorEE" -> "A decaying surname mean cannot separate one process from a mixture of lineages";
   "MOC - HistorEE" -> "A difference between coded forms is a difference of evidence, vocabulary or form";
@@ -3586,6 +3620,7 @@ digraph vault {
   "MOC - HistorEE" -> "Hudson 2002 on clean slates as protection of the free population";
   "MOC - HistorEE" -> "Identity-wrapper and perpetual-monopoly are distinct shielding facets";
   "MOC - HistorEE" -> "Independence of apparatus is not independence of question";
+  "MOC - HistorEE" -> "Individuation moves the absorbing barrier from the member to the unit";
   "MOC - HistorEE" -> "Institutions substitute state-verification for outcome-inference as ruin exposure rises";
   "MOC - HistorEE" -> "Islamic doctrine refuses risk-commodification at step one";
   "MOC - HistorEE" -> "Isqa qirad and commenda are a liability-variable triad";
@@ -3619,6 +3654,7 @@ digraph vault {
   "MOC - HistorEE" -> "Persistence stationarity and mobility literature";
   "MOC - HistorEE" -> "Peters and Adamou 2026 on the time interpretation of expected utility theory";
   "MOC - HistorEE" -> "Peters's growth criterion is the boundary-free case of the first-passage ordering";
+  "MOC - HistorEE" -> "Polyandry is pooling under an absorbing barrier";
   "MOC - HistorEE" -> "Pooling approaches the infinite ensemble and perpetual succession the infinite horizon";
   "MOC - HistorEE" -> "Pooling pays only where ventures grow on average";
   "MOC - HistorEE" -> "Pooling raises the rate and individuation draws the boundary";
@@ -4085,6 +4121,7 @@ digraph vault {
   "MOC - Risk-sharing vs risk-pricing" -> "Outcome-coupling is the condition of legibility";
   "MOC - Risk-sharing vs risk-pricing" -> "Permanent capital pools across voyages as well as across partners";
   "MOC - Risk-sharing vs risk-pricing" -> "Polonio on the Barcelona maritime comandas 1349-1450";
+  "MOC - Risk-sharing vs risk-pricing" -> "Polyandry is pooling under an absorbing barrier";
   "MOC - Risk-sharing vs risk-pricing" -> "Pooling pays only where ventures grow on average";
   "MOC - Risk-sharing vs risk-pricing" -> "Pooling's sign is set by the correlation of its baskets";
   "MOC - Risk-sharing vs risk-pricing" -> "Pricing is orthogonal to mitigation mechanism not a stage of it";
@@ -4329,7 +4366,9 @@ digraph vault {
   "More than the sum requires a non-additive aggregation rule" -> "MOC - Ergodicity and the time-ensemble distinction";
   "More than the sum requires a non-additive aggregation rule" -> "MOC - HistorEE";
   "More than the sum requires a non-additive aggregation rule" -> "Pooling raises the rate and individuation draws the boundary";
+  "More than the sum requires a non-additive aggregation rule" -> "The absorbing barrier is a second route to the hypothesis not a sharpening of the first";
   "More than the sum requires a non-additive aggregation rule" -> "The expectation value describes a pool that re-shares not a population";
+  "More than the sum requires a non-additive aggregation rule" -> "Under absorption pooling raises the probability of ruin to the power of the pool";
   "Muhallefat and musadere - confiscation as an archive" -> "Gurema - the insolvent estate distributed among creditors";
   "Muhallefat and musadere - confiscation as an archive" -> "MOC - Ottoman archives";
   "Muhallefat and musadere - confiscation as an archive" -> "Orta sandigi records - the guild and Janissary chests";
@@ -4722,6 +4761,13 @@ digraph vault {
   "Polonio on the Barcelona maritime comandas 1349-1450" -> "MOC - HistorEE";
   "Polonio on the Barcelona maritime comandas 1349-1450" -> "MOC - Spanish archives";
   "Polonio on the Barcelona maritime comandas 1349-1450" -> "The Catalan maritime comanda puts the whole capital loss on the investor";
+  "Polyandry is pooling under an absorbing barrier" -> "Diversification runs across bottoms not across partners";
+  "Polyandry is pooling under an absorbing barrier" -> "Individuation moves the absorbing barrier from the member to the unit";
+  "Polyandry is pooling under an absorbing barrier" -> "MOC - HistorEE";
+  "Polyandry is pooling under an absorbing barrier" -> "MOC - Risk-sharing vs risk-pricing";
+  "Polyandry is pooling under an absorbing barrier" -> "Social immunity and superorganism immunity - loci";
+  "Polyandry is pooling under an absorbing barrier" -> "The proverbs of diversification state the rule and omit its conditions";
+  "Polyandry is pooling under an absorbing barrier" -> "Under absorption pooling raises the probability of ruin to the power of the pool";
   "Pooling approaches the infinite ensemble and perpetual succession the infinite horizon" -> "Absorbing barrier";
   "Pooling approaches the infinite ensemble and perpetual succession the infinite horizon" -> "Kuran's brake is a refusal of immortal entities";
   "Pooling approaches the infinite ensemble and perpetual succession the infinite horizon" -> "MOC - Entity-shielding and corporate forms";
@@ -4747,6 +4793,7 @@ digraph vault {
   "Pooling pays only where ventures grow on average" -> "Vanhoyweghen Verbeken and Ginis 2026 on absorbing boundaries";
   "Pooling raises the rate and individuation draws the boundary" -> "Entity shielding and owner shielding protect different trajectories";
   "Pooling raises the rate and individuation draws the boundary" -> "Fitness decoupling may be a short-horizon artefact";
+  "Pooling raises the rate and individuation draws the boundary" -> "Individuation moves the absorbing barrier from the member to the unit";
   "Pooling raises the rate and individuation draws the boundary" -> "MOC - Entity-shielding and corporate forms";
   "Pooling raises the rate and individuation draws the boundary" -> "MOC - Ergodicity and the time-ensemble distinction";
   "Pooling raises the rate and individuation draws the boundary" -> "MOC - HistorEE";
@@ -4755,6 +4802,7 @@ digraph vault {
   "Pooling raises the rate and individuation draws the boundary" -> "The expectation value describes a pool that re-shares not a population";
   "Pooling raises the rate and individuation draws the boundary" -> "The hive models the corporation's emergent layer not the route by which it formed";
   "Pooling raises the rate and individuation draws the boundary" -> "Three immune functions mark a pool that has become a person";
+  "Pooling raises the rate and individuation draws the boundary" -> "Under absorption pooling raises the probability of ruin to the power of the pool";
   "Pooling's sign is set by the correlation of its baskets" -> "Absorbing barrier";
   "Pooling's sign is set by the correlation of its baskets" -> "Diversification runs across bottoms not across partners";
   "Pooling's sign is set by the correlation of its baskets" -> "Entity-shielding";
@@ -5192,6 +5240,7 @@ digraph vault {
   "Shanxi piaohao records - letters, house rules and a collector's compilation" -> "MOC - Acquisitions and the antiquarian trade";
   "Shanxi piaohao records - letters, house rules and a collector's compilation" -> "MOC - Chinese archives";
   "Shanxi piaohao records - letters, house rules and a collector's compilation" -> "Zhang Chuanxi 1995 - the contract compilation behind the census's Chinese rows";
+  "Shielding raises the variance an entity can carry" -> "Individuation moves the absorbing barrier from the member to the unit";
   "Shielding raises the variance an entity can carry" -> "MOC - Entity-shielding and corporate forms";
   "Shielding raises the variance an entity can carry" -> "MOC - HistorEE";
   "Shielding raises the variance an entity can carry" -> "Persona ficta made the corporation a-moral ab initio";
@@ -6952,10 +7001,12 @@ digraph vault {
   "Under absorption pooling raises the probability of ruin to the power of the pool" -> "Cooperation is an averaging puzzle and sovereign repayment is a barrier puzzle";
   "Under absorption pooling raises the probability of ruin to the power of the pool" -> "Diversification runs across bottoms not across partners";
   "Under absorption pooling raises the probability of ruin to the power of the pool" -> "Galton-Watson is the extinction branch Peters named and did not develop";
+  "Under absorption pooling raises the probability of ruin to the power of the pool" -> "Individuation moves the absorbing barrier from the member to the unit";
   "Under absorption pooling raises the probability of ruin to the power of the pool" -> "MOC - Ergodicity and the time-ensemble distinction";
   "Under absorption pooling raises the probability of ruin to the power of the pool" -> "MOC - HistorEE";
   "Under absorption pooling raises the probability of ruin to the power of the pool" -> "MOC - Risk-sharing vs risk-pricing";
   "Under absorption pooling raises the probability of ruin to the power of the pool" -> "Perpetual succession redefines the unit of survival from a line to a union of lines";
+  "Under absorption pooling raises the probability of ruin to the power of the pool" -> "Polyandry is pooling under an absorbing barrier";
   "Under absorption pooling raises the probability of ruin to the power of the pool" -> "Pooling pays only where ventures grow on average";
   "Under absorption pooling raises the probability of ruin to the power of the pool" -> "Pooling's sign is set by the correlation of its baskets";
   "Under absorption pooling raises the probability of ruin to the power of the pool" -> "Scott 1976 on the subsistence ethic as safety-first";

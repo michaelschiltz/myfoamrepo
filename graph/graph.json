@@ -37,6 +37,15 @@
       "shape": "dot"
     },
     {
+      "id": "A constant projection matrix has no ergodicity content",
+      "type": "permanent",
+      "group": "seed",
+      "label": "A constant projection matrix has no ergodicity content",
+      "value": 17,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
       "id": "A contingency clause priced at zero is evidence for a time-average criterion",
       "type": "permanent",
       "group": "seed",
@@ -275,7 +284,7 @@
       "type": "source",
       "group": "source",
       "label": "Adamou Berman and Peters 2026 on the two growth rates",
-      "value": 13,
+      "value": 15,
       "color": "#7570b3",
       "shape": "dot"
     },
@@ -1202,7 +1211,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Conditioning on survival is an ensemble operation",
-      "value": 24,
+      "value": 26,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1391,7 +1400,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Diversification runs across bottoms not across partners",
-      "value": 22,
+      "value": 25,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1589,7 +1598,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Entity shielding and owner shielding protect different trajectories",
-      "value": 50,
+      "value": 54,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1679,7 +1688,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Fitness decoupling may be a short-horizon artefact",
-      "value": 18,
+      "value": 26,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -2188,6 +2197,15 @@
       "shape": "dot"
     },
     {
+      "id": "Individuation moves the absorbing barrier from the member to the unit",
+      "type": "permanent",
+      "group": "seed",
+      "label": "Individuation moves the absorbing barrier from the member to the unit",
+      "value": 33,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
       "id": "Insolvente Boedelskamer - Antwerp",
       "type": "reference",
       "group": "reference",
@@ -2507,7 +2525,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Legal scaffolding gives a pool collective properties it does not yet own",
-      "value": 17,
+      "value": 18,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -2705,7 +2723,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "More than the sum requires a non-additive aggregation rule",
-      "value": 15,
+      "value": 19,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -3128,7 +3146,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Perpetual succession redefines the unit of survival from a line to a union of lines",
-      "value": 21,
+      "value": 23,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -3196,6 +3214,15 @@
       "shape": "dot"
     },
     {
+      "id": "Polyandry is pooling under an absorbing barrier",
+      "type": "permanent",
+      "group": "seed",
+      "label": "Polyandry is pooling under an absorbing barrier",
+      "value": 15,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
       "id": "Pooling approaches the infinite ensemble and perpetual succession the infinite horizon",
       "type": "permanent",
       "group": "seed",
@@ -3218,7 +3245,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Pooling raises the rate and individuation draws the boundary",
-      "value": 29,
+      "value": 35,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -3704,7 +3731,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Shielding raises the variance an entity can carry",
-      "value": 16,
+      "value": 18,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -3794,7 +3821,7 @@
       "type": "source",
       "group": "source",
       "label": "Social immunity and superorganism immunity - loci",
-      "value": 15,
+      "value": 16,
       "color": "#7570b3",
       "shape": "dot"
     },
@@ -4100,7 +4127,7 @@
       "type": "source",
       "group": "source",
       "label": "Stoic loci on cooperation - only two argue from interdependence",
-      "value": 19,
+      "value": 20,
       "color": "#7570b3",
       "shape": "dot"
     },
@@ -4622,7 +4649,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The absorbing barrier is a second route to the hypothesis not a sharpening of the first",
-      "value": 25,
+      "value": 26,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -4910,7 +4937,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The growth-rate criterion is asymptotic and the horizon comparison cuts both ways",
-      "value": 38,
+      "value": 39,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -4937,7 +4964,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The hive models the corporation's emergent layer not the route by which it formed",
-      "value": 25,
+      "value": 27,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -5162,7 +5189,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The proverbs of diversification state the rule and omit its conditions",
-      "value": 22,
+      "value": 24,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -5423,7 +5450,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Three immune functions mark a pool that has become a person",
-      "value": 26,
+      "value": 27,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -5567,7 +5594,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Under absorption pooling raises the probability of ruin to the power of the pool",
-      "value": 46,
+      "value": 56,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -5657,7 +5684,7 @@
       "type": "source",
       "group": "source",
       "label": "Vanhoyweghen Verbeken and Ginis 2026 on absorbing boundaries",
-      "value": 29,
+      "value": 30,
       "color": "#7570b3",
       "shape": "dot"
     },
@@ -5864,7 +5891,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Defending the ergodicity claim",
-      "value": 150,
+      "value": 152,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -5900,7 +5927,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Entity-shielding and corporate forms",
-      "value": 173,
+      "value": 175,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -5909,7 +5936,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Ergodicity and the time-ensemble distinction",
-      "value": 242,
+      "value": 246,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -5954,7 +5981,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - HistorEE",
-      "value": 614,
+      "value": 620,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -6026,7 +6053,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Risk-sharing vs risk-pricing",
-      "value": 227,
+      "value": 229,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -6243,6 +6270,38 @@
     {
       "from": "A concealed premium is evidence about the notary not about the price",
       "to": "loss_mitigation_forms"
+    },
+    {
+      "from": "A constant projection matrix has no ergodicity content",
+      "to": "Adamou Berman and Peters 2026 on the two growth rates"
+    },
+    {
+      "from": "A constant projection matrix has no ergodicity content",
+      "to": "Conditioning on survival is an ensemble operation"
+    },
+    {
+      "from": "A constant projection matrix has no ergodicity content",
+      "to": "Fitness decoupling may be a short-horizon artefact"
+    },
+    {
+      "from": "A constant projection matrix has no ergodicity content",
+      "to": "MOC - Defending the ergodicity claim"
+    },
+    {
+      "from": "A constant projection matrix has no ergodicity content",
+      "to": "MOC - Ergodicity and the time-ensemble distinction"
+    },
+    {
+      "from": "A constant projection matrix has no ergodicity content",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "A constant projection matrix has no ergodicity content",
+      "to": "More than the sum requires a non-additive aggregation rule"
+    },
+    {
+      "from": "A constant projection matrix has no ergodicity content",
+      "to": "The growth-rate criterion is asymptotic and the horizon comparison cuts both ways"
     },
     {
       "from": "A contingency clause priced at zero is evidence for a time-average criterion",
@@ -10866,6 +10925,10 @@
     },
     {
       "from": "Diversification runs across bottoms not across partners",
+      "to": "Polyandry is pooling under an absorbing barrier"
+    },
+    {
+      "from": "Diversification runs across bottoms not across partners",
       "to": "Pooling's sign is set by the correlation of its baskets"
     },
     {
@@ -11666,6 +11729,10 @@
     },
     {
       "from": "Entity shielding and owner shielding protect different trajectories",
+      "to": "Individuation moves the absorbing barrier from the member to the unit"
+    },
+    {
+      "from": "Entity shielding and owner shielding protect different trajectories",
       "to": "Kuran's brake is a refusal of immortal entities"
     },
     {
@@ -12007,6 +12074,14 @@
     {
       "from": "First Historical Archives of China - Beijing",
       "to": "Zhang Chuanxi 1995 - the contract compilation behind the census's Chinese rows"
+    },
+    {
+      "from": "Fitness decoupling may be a short-horizon artefact",
+      "to": "A constant projection matrix has no ergodicity content"
+    },
+    {
+      "from": "Fitness decoupling may be a short-horizon artefact",
+      "to": "Individuation moves the absorbing barrier from the member to the unit"
     },
     {
       "from": "Fitness decoupling may be a short-horizon artefact",
@@ -13881,6 +13956,62 @@
       "to": "Rajasthan State Archives - Bikaner and the princely bahis"
     },
     {
+      "from": "Individuation moves the absorbing barrier from the member to the unit",
+      "to": "Entity shielding and owner shielding protect different trajectories"
+    },
+    {
+      "from": "Individuation moves the absorbing barrier from the member to the unit",
+      "to": "Fitness decoupling may be a short-horizon artefact"
+    },
+    {
+      "from": "Individuation moves the absorbing barrier from the member to the unit",
+      "to": "Legal scaffolding gives a pool collective properties it does not yet own"
+    },
+    {
+      "from": "Individuation moves the absorbing barrier from the member to the unit",
+      "to": "MOC - Entity-shielding and corporate forms"
+    },
+    {
+      "from": "Individuation moves the absorbing barrier from the member to the unit",
+      "to": "MOC - Ergodicity and the time-ensemble distinction"
+    },
+    {
+      "from": "Individuation moves the absorbing barrier from the member to the unit",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Individuation moves the absorbing barrier from the member to the unit",
+      "to": "Perpetual succession redefines the unit of survival from a line to a union of lines"
+    },
+    {
+      "from": "Individuation moves the absorbing barrier from the member to the unit",
+      "to": "Pooling raises the rate and individuation draws the boundary"
+    },
+    {
+      "from": "Individuation moves the absorbing barrier from the member to the unit",
+      "to": "Shielding raises the variance an entity can carry"
+    },
+    {
+      "from": "Individuation moves the absorbing barrier from the member to the unit",
+      "to": "Stoic loci on cooperation - only two argue from interdependence"
+    },
+    {
+      "from": "Individuation moves the absorbing barrier from the member to the unit",
+      "to": "The hive models the corporation's emergent layer not the route by which it formed"
+    },
+    {
+      "from": "Individuation moves the absorbing barrier from the member to the unit",
+      "to": "Three immune functions mark a pool that has become a person"
+    },
+    {
+      "from": "Individuation moves the absorbing barrier from the member to the unit",
+      "to": "Under absorption pooling raises the probability of ruin to the power of the pool"
+    },
+    {
+      "from": "Individuation moves the absorbing barrier from the member to the unit",
+      "to": "Vanhoyweghen Verbeken and Ginis 2026 on absorbing boundaries"
+    },
+    {
       "from": "Insolvente Boedelskamer - Antwerp",
       "to": "Desolate Boedelkamer - Amsterdam"
     },
@@ -15570,6 +15701,10 @@
     },
     {
       "from": "MOC - Defending the ergodicity claim",
+      "to": "A constant projection matrix has no ergodicity content"
+    },
+    {
+      "from": "MOC - Defending the ergodicity claim",
       "to": "A heuristic is defended by its error distribution not by its accuracy"
     },
     {
@@ -16186,6 +16321,10 @@
     },
     {
       "from": "MOC - Entity-shielding and corporate forms",
+      "to": "Individuation moves the absorbing barrier from the member to the unit"
+    },
+    {
+      "from": "MOC - Entity-shielding and corporate forms",
       "to": "Isqa qirad and commenda are a liability-variable triad"
     },
     {
@@ -16394,6 +16533,10 @@
     },
     {
       "from": "MOC - Ergodicity and the time-ensemble distinction",
+      "to": "A constant projection matrix has no ergodicity content"
+    },
+    {
+      "from": "MOC - Ergodicity and the time-ensemble distinction",
       "to": "A contingency clause priced at zero is evidence for a time-average criterion"
     },
     {
@@ -16563,6 +16706,10 @@
     {
       "from": "MOC - Ergodicity and the time-ensemble distinction",
       "to": "Hudson 2002 on clean slates as protection of the free population"
+    },
+    {
+      "from": "MOC - Ergodicity and the time-ensemble distinction",
+      "to": "Individuation moves the absorbing barrier from the member to the unit"
     },
     {
       "from": "MOC - Ergodicity and the time-ensemble distinction",
@@ -17410,6 +17557,10 @@
     },
     {
       "from": "MOC - HistorEE",
+      "to": "A constant projection matrix has no ergodicity content"
+    },
+    {
+      "from": "MOC - HistorEE",
       "to": "A contingency clause priced at zero is evidence for a time-average criterion"
     },
     {
@@ -17734,6 +17885,10 @@
     },
     {
       "from": "MOC - HistorEE",
+      "to": "Individuation moves the absorbing barrier from the member to the unit"
+    },
+    {
+      "from": "MOC - HistorEE",
       "to": "Institutions substitute state-verification for outcome-inference as ruin exposure rises"
     },
     {
@@ -17863,6 +18018,10 @@
     {
       "from": "MOC - HistorEE",
       "to": "Peters's growth criterion is the boundary-free case of the first-passage ordering"
+    },
+    {
+      "from": "MOC - HistorEE",
+      "to": "Polyandry is pooling under an absorbing barrier"
     },
     {
       "from": "MOC - HistorEE",
@@ -19730,6 +19889,10 @@
     },
     {
       "from": "MOC - Risk-sharing vs risk-pricing",
+      "to": "Polyandry is pooling under an absorbing barrier"
+    },
+    {
+      "from": "MOC - Risk-sharing vs risk-pricing",
       "to": "Pooling pays only where ventures grow on average"
     },
     {
@@ -20706,7 +20869,15 @@
     },
     {
       "from": "More than the sum requires a non-additive aggregation rule",
+      "to": "The absorbing barrier is a second route to the hypothesis not a sharpening of the first"
+    },
+    {
+      "from": "More than the sum requires a non-additive aggregation rule",
       "to": "The expectation value describes a pool that re-shares not a population"
+    },
+    {
+      "from": "More than the sum requires a non-additive aggregation rule",
+      "to": "Under absorption pooling raises the probability of ruin to the power of the pool"
     },
     {
       "from": "Muhallefat and musadere - confiscation as an archive",
@@ -22277,6 +22448,34 @@
       "to": "The Catalan maritime comanda puts the whole capital loss on the investor"
     },
     {
+      "from": "Polyandry is pooling under an absorbing barrier",
+      "to": "Diversification runs across bottoms not across partners"
+    },
+    {
+      "from": "Polyandry is pooling under an absorbing barrier",
+      "to": "Individuation moves the absorbing barrier from the member to the unit"
+    },
+    {
+      "from": "Polyandry is pooling under an absorbing barrier",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Polyandry is pooling under an absorbing barrier",
+      "to": "MOC - Risk-sharing vs risk-pricing"
+    },
+    {
+      "from": "Polyandry is pooling under an absorbing barrier",
+      "to": "Social immunity and superorganism immunity - loci"
+    },
+    {
+      "from": "Polyandry is pooling under an absorbing barrier",
+      "to": "The proverbs of diversification state the rule and omit its conditions"
+    },
+    {
+      "from": "Polyandry is pooling under an absorbing barrier",
+      "to": "Under absorption pooling raises the probability of ruin to the power of the pool"
+    },
+    {
       "from": "Pooling approaches the infinite ensemble and perpetual succession the infinite horizon",
       "to": "Absorbing barrier"
     },
@@ -22378,6 +22577,10 @@
     },
     {
       "from": "Pooling raises the rate and individuation draws the boundary",
+      "to": "Individuation moves the absorbing barrier from the member to the unit"
+    },
+    {
+      "from": "Pooling raises the rate and individuation draws the boundary",
       "to": "MOC - Entity-shielding and corporate forms"
     },
     {
@@ -22407,6 +22610,10 @@
     {
       "from": "Pooling raises the rate and individuation draws the boundary",
       "to": "Three immune functions mark a pool that has become a person"
+    },
+    {
+      "from": "Pooling raises the rate and individuation draws the boundary",
+      "to": "Under absorption pooling raises the probability of ruin to the power of the pool"
     },
     {
       "from": "Pooling's sign is set by the correlation of its baskets",
@@ -24155,6 +24362,10 @@
     {
       "from": "Shanxi piaohao records - letters, house rules and a collector's compilation",
       "to": "Zhang Chuanxi 1995 - the contract compilation behind the census's Chinese rows"
+    },
+    {
+      "from": "Shielding raises the variance an entity can carry",
+      "to": "Individuation moves the absorbing barrier from the member to the unit"
     },
     {
       "from": "Shielding raises the variance an entity can carry",
@@ -31198,6 +31409,10 @@
     },
     {
       "from": "Under absorption pooling raises the probability of ruin to the power of the pool",
+      "to": "Individuation moves the absorbing barrier from the member to the unit"
+    },
+    {
+      "from": "Under absorption pooling raises the probability of ruin to the power of the pool",
       "to": "MOC - Ergodicity and the time-ensemble distinction"
     },
     {
@@ -31211,6 +31426,10 @@
     {
       "from": "Under absorption pooling raises the probability of ruin to the power of the pool",
       "to": "Perpetual succession redefines the unit of survival from a line to a union of lines"
+    },
+    {
+      "from": "Under absorption pooling raises the probability of ruin to the power of the pool",
+      "to": "Polyandry is pooling under an absorbing barrier"
     },
     {
       "from": "Under absorption pooling raises the probability of ruin to the power of the pool",

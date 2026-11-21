@@ -30,6 +30,10 @@ A standard payoff is a number added to a running total, independent of the histo
 
 It licenses the claim that emergence in the strong sense is invisible to an additive accounting, which is a precise version of the proposal's break with the Olson–North–Greif framing. It does not license treating every non-additive gain as a new individual: the pool in the first row raises each member's rate and creates no unit ([[Pooling raises the rate and individuation draws the boundary]]).
 
+## Revision 2026-11-21 — a fourth route, and the root restated
+
+"Where payoffs add, the whole is the sum by construction" is false as worded. Where a loss is final, pooling lowers each member's chance of ruin from $p$ to $p^N$ while expected wealth is unchanged, even when gains merely add ([[Under absorption pooling raises the probability of ruin to the power of the pool]]; Vanhoyweghen, Verbeken and Ginis 2026). No Jensen gap is involved. The claim survives in a sharper form because the standard payoff has two properties, not one: it is additive *and* history-independent. Compounding breaks the first; an absorbing barrier breaks the second, since a ruined player does not play the next round. Either suffices. The root is therefore that the outcome is not a linear sum of per-period payoffs, and the table gains a fourth row: *pooling under an absorbing barrier | Vanhoyweghen, Verbeken and Ginis 2026; Galton–Watson | the outcome stops at first passage.* The note's title now states only the first half; it is kept for link stability. Hive report, third version, §§5.2, 6.5.
+
 ## Links
 
 - [[Endogenous games rewrite the rules but never the player]]
@@ -39,6 +43,8 @@ It licenses the claim that emergence in the strong sense is invisible to an addi
 - [[Antifragility is defined by an ensemble Jensen gap]]
 - [[MOC - Ergodicity and the time-ensemble distinction]]
 - [[MOC - HistorEE]]
+- [[Under absorption pooling raises the probability of ruin to the power of the pool]]
+- [[The absorbing barrier is a second route to the hypothesis not a sharpening of the first]]
 
 ## Source
 

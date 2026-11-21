@@ -31,6 +31,10 @@ Clejan, Congleton and Lerch 2022, read in full, reverse the order this note impl
 
 Boomsma and Gawne 2018 add that in insects aggregation of unrelated units has never produced a superorganism: unrelated partners need something other than kinship to align them, and closure plus the time-average gain is the candidate. See [[The hive models the corporation's emergent layer not the route by which it formed]].
 
+## Revision 2026-11-21 — a second route, and the barrier moves
+
+Pooling has a second route that does not need compounding: under an absorbing barrier it lowers each member's chance of ruin with the mean unchanged ([[Under absorption pooling raises the probability of ruin to the power of the pool]]). Individuation also has a third marker beside closure and the immune boundary: it moves the barrier from the member to the unit ([[Individuation moves the absorbing barrier from the member to the unit]]). That note corrects the claim above that ergodicity does not explain perpetuity: the barrier route says why perpetuity pays, though law supplies the means.
+
 ## Links
 
 - [[The expectation value describes a pool that re-shares not a population]]
@@ -43,6 +47,8 @@ Boomsma and Gawne 2018 add that in insects aggregation of unrelated units has ne
 - [[MOC - Entity-shielding and corporate forms]]
 - [[MOC - Ergodicity and the time-ensemble distinction]]
 - [[MOC - HistorEE]]
+- [[Individuation moves the absorbing barrier from the member to the unit]]
+- [[Under absorption pooling raises the probability of ruin to the power of the pool]]
 
 ## Source
 

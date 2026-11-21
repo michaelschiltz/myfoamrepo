@@ -179,3 +179,8 @@ Hubbed at [[MOC - Defending the ergodicity claim]]; listed here because the sour
 - [[A decaying surname mean cannot separate one process from a mixture of lineages]] — the group mean is an ensemble average; Heckman's heterogeneity problem for lineages
 - [[Under multiplicative dynamics the restoring force is an institutional achievement]] — in reallocating GBM stationarity exists only with positive reallocation; Clark as the substantive opponent of Objective 1's mechanism
 - [[A pooled null can hide trajectories that never return]] — the German bombing case rebuilt with synthetic controls: the ensemble returns, a third of the cities do not
+
+## Added 2026-11-21 — the hive report, third version
+
+- [[A constant projection matrix has no ergodicity content]] — Bourrat's eigenvalue is deterministic; in a random environment the time-average rate is the top Lyapunov exponent (Tuljapurkar and Orzack 1980); the horizon proposal restated
+- [[Individuation moves the absorbing barrier from the member to the unit]] — in a unit the barrier is the unit's dissolution, not the member's ruin; 6.54 as nested barriers; the hive shields one way, the limited-liability corporation both
