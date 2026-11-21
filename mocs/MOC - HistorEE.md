@@ -384,3 +384,13 @@ Project hub for the book. Atomic notes hang off both this project MOC and a them
 - [[Under absorption the time-average criterion is an ordering not a maximand]]
 - [[The time-average growth rate from cross-sections is a licensed space-for-time step]]
 - [[Stipend debtors live at the perpetuity point]]
+
+## Notes — pooling under a barrier, and the proverbs of diversification (2026-11-21)
+
+- [[Under absorption pooling raises the probability of ruin to the power of the pool]]
+- [[Pooling pays only where ventures grow on average]]
+- [[Diversification runs across bottoms not across partners]]
+- [[Permanent capital pools across voyages as well as across partners]]
+- [[Perpetual succession redefines the unit of survival from a line to a union of lines]]
+- [[The proverbs of diversification state the rule and omit its conditions]]
+- [[Bernoulli split Sempronius's cargo by the logarithm and Roy by the probability of disaster]]

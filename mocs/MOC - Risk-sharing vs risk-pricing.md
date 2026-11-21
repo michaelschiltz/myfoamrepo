@@ -152,3 +152,12 @@ Thematic hub for the instrument axis: risk-*sharing* forms that keep every party
 ## Added 2026-10-30 — formalism
 
 - [[Formalism refuses evidence of results and of reasons because neither discriminates]] — what "deeds, not words" becomes when the deed's result is noise
+
+## Added 2026-11-21 — pooling under a barrier, and the proverbs
+
+- [[Under absorption pooling raises the probability of ruin to the power of the pool]] — five partners at 40 per cent each, about 1 per cent together; the same formula as Galton–Watson extinction
+- [[Pooling pays only where ventures grow on average]] — the regime prediction: pooling clusters where ventures grow on average, palliates decline, postpones ruin in stagnation
+- [[Diversification runs across bottoms not across partners]] — five partners in one hull are one fortune; Antonio's three axes; the convoy trades one correlation for another; code fleet against single sailing
+- [[Permanent capital pools across voyages as well as across partners]] — voyage stocks pool partners, permanent stocks pool voyages
+- [[The proverbs of diversification state the rule and omit its conditions]] — Antonio, Ecclesiastes, Bava Metzia 42a, the wily hare's three burrows, the egg basket and Twain's inversion
+- [[Bernoulli split Sempronius's cargo by the logarithm and Roy by the probability of disaster]] — Bernoulli on the variance limb, Roy on the ruin limb

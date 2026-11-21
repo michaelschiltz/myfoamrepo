@@ -73,6 +73,10 @@ Written for WP3, to the standard a mathematically literate referee would apply.
 - [[The commenda splits a dynamic that has no utility representation]]
 - [[The time-average growth rate from cross-sections is a licensed space-for-time step]]
 - [[Stipend debtors live at the perpetuity point]]
+- [[Under absorption pooling raises the probability of ruin to the power of the pool]]
+- [[Pooling pays only where ventures grow on average]]
+- [[Perpetual succession redefines the unit of survival from a line to a union of lines]]
+- [[Bernoulli split Sempronius's cargo by the logarithm and Roy by the probability of disaster]]
 
 ## Links
 

@@ -40,6 +40,7 @@ This is an agent-based model calibrated on ethnography, not historical evidence 
 
 ## Links
 
+- [[Under absorption pooling raises the probability of ruin to the power of the pool]]
 - [[Pooling's sign is set by the correlation of its baskets]]
 - [[Cooperation is an averaging puzzle and sovereign repayment is a barrier puzzle]]
 - [[Gharar excludes designed-in unverifiability]]

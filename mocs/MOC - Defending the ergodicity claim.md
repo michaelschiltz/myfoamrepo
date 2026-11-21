@@ -44,6 +44,8 @@ Not "economics ignores time" — that loses in one move. These locate the disagr
 - [[Ergodicity breaking and order-dependence are independent axes]] — the two clusters are orthogonal, with a witness in each direction; absorption is the cell that does both jobs
 - [[Restate the cost puzzle as a question about a trajectory]] — the operative move on the "why X despite its cost" class
 - [[Cooperation is an averaging puzzle and sovereign repayment is a barrier puzzle]] — the showcase cases are dissolved by different mechanisms and make different evidential demands
+- [[Under absorption pooling raises the probability of ruin to the power of the pool]] — the barrier route to cooperation: ruin probability $p \to p^N$, no Jensen gap, the same algebra as Galton–Watson extinction; classical, and the pairing is the contribution
+- [[Bernoulli split Sempronius's cargo by the logarithm and Roy by the probability of disaster]] — the merchant's rule formalised on each limb; answers the Bernoulli charge on the project's own material
 
 ## The objection nobody has published
 

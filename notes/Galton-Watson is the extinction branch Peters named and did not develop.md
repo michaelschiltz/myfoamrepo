@@ -34,6 +34,8 @@ The project's units are lineages that either produce successors or do not. House
 
 **A lead worth following.** Adoption — *yōshi* — is, in these terms, a technology for raising the offspring distribution of a lineage whose biological succession has failed, and therefore for lowering $q$. That is [[The ie as entity-shielding]] restated as a parameter of a branching process rather than as an analogy, and it would give the *ie* argument a formal statement it currently lacks. Whether the demographic record supports estimating anything of the kind is a separate question and probably a hard one [verify].
 
+**Developed 2026-11-21.** The union-of-lines reading of the trust, the *ie* and perpetual succession is at [[Perpetual succession redefines the unit of survival from a line to a union of lines]], and the identity between Galton–Watson extinction ($q^k$) and ruin under pooling ($p^N$) at [[Under absorption pooling raises the probability of ruin to the power of the pool]].
+
 **The methodological payoff, which is larger.** If extinction probability is the quantity, then survivorship is not a bias to be corrected but the observable itself, and [[Refusals are observations of the filter not inferences from survivors]] becomes a statement about a well-defined object rather than a methodological caution.
 
 ## Two cautions
@@ -44,6 +46,8 @@ The project's units are lineages that either produce successors or do not. House
 
 ## Links
 
+- [[Under absorption pooling raises the probability of ruin to the power of the pool]]
+- [[Perpetual succession redefines the unit of survival from a line to a union of lines]]
 - [[An absorbing barrier breaks ergodicity by construction]]
 - [[Absorption without ergodicity economics is just ruin theory]]
 - [[The published critique never engages absorption]]

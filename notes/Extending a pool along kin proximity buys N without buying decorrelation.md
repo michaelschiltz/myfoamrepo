@@ -35,6 +35,7 @@ The Fugger case shows the constraint operating on the other side of the ledger: 
 
 ## Links
 
+- [[Perpetual succession redefines the unit of survival from a line to a union of lines]]
 - [[Pooling's sign is set by the correlation of its baskets]]
 - [[A perfectly correlated peril leaves only the time average]]
 - [[Forms are not independent observations when a village runs a portfolio]]

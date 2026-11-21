@@ -18,6 +18,7 @@ So the honest historical claim is the sharper and more damning one: economics ha
 
 ## Links
 
+- [[Bernoulli split Sempronius's cargo by the logarithm and Roy by the probability of disaster]]
 - [[Separate the sociological and the methodological claims about economics]]
 - [[Route Kolmogorov to ergodic theory not the theory of means]]
 - [[Time-average]]

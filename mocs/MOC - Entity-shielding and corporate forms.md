@@ -116,3 +116,8 @@ Thematic hub for the corporate-form apparatus: asset-partitioning, identity-wrap
 ## Added 2026-11-19
 
 - [[Seville compania y factoria coding and application 2026-11-19]] — a new row, `compania_factoria_sevilla`, coded blind from three Seville deeds of 1542–1550 (Martínez Gijón 1970): a labour-only factor-partner in the Indies; in doc. 8 he bears a quarter of any loss, in docs. 3 and 9 the capital partners bear it; no split, with a split criterion fixed in advance
+
+## Added 2026-11-21
+
+- [[Perpetual succession redefines the unit of survival from a line to a union of lines]] — the trust, the *ie* with adoption and perpetual succession as the ruin-limb counterpart of pooling ($q^k$), bounded by the correlation of lines within a family
+- [[Permanent capital pools across voyages as well as across partners]] — permanent capital spreads a ruinous voyage across all the others; a claim about effect, not about why permanence was adopted

@@ -41,6 +41,8 @@ The corporation is the form in which both limits are approached together, which 
 
 ## Links
 
+- [[Permanent capital pools across voyages as well as across partners]]
+- [[Perpetual succession redefines the unit of survival from a line to a union of lines]]
 - [[The expectation value describes a pool that re-shares not a population]]
 - [[The ensemble average is the local descriptor of a barrier-shielded agent]]
 - [[The real cut is shielded-and-pooled versus unshielded]]

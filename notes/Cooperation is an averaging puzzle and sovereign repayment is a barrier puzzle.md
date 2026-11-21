@@ -30,8 +30,13 @@ It is more useful. The two mechanisms make different demands on evidence. The av
 
 [[The moratorium held because leaving the pool is not a one-period cost]] is filed under cooperation but is not a clean instance of it. Refusal to break ranks is a pooling-and-growth-rate argument, which is the averaging mechanism; exclusion from the relationship is a barrier argument. Both are present, and the note's strength is that it runs the first without needing the second. Do not retrofit the barrier onto it.
 
+## Qualification, 2026-11-21
+
+"Cooperation is an averaging problem, and nothing else" holds for Peters and Adamou's resolution, not for cooperation. Where there is an absorbing loss, pooling also lowers each member's probability of ruin from $p$ to $p^N$ with no change in expected gain and no Jensen gap, so cooperation is a barrier puzzle as well, and it then makes the barrier case's evidential demands: identify the absorbing state and the sign of the drift. See [[Under absorption pooling raises the probability of ruin to the power of the pool]] and [[Pooling pays only where ventures grow on average]]. The distinction this note draws between the two mechanisms stands; what falls is the claim that only one of them resolves cooperation.
+
 ## Links
 
+- [[Under absorption pooling raises the probability of ruin to the power of the pool]]
 - [[Ergodicity breaking and order-dependence are independent axes]]
 - [[Restate the cost puzzle as a question about a trajectory]]
 - [[Terminal wealth is permutation-invariant but survival is not]]

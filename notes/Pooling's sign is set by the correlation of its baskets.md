@@ -22,6 +22,8 @@ The corollary belongs to the shielding axis: staying small-and-decorrelated (the
 
 ## Links
 
+- [[Diversification runs across bottoms not across partners]]
+- [[Under absorption pooling raises the probability of ruin to the power of the pool]]
 - [[Skin in the game]]
 - [[Jensen gap]]
 - [[Absorbing barrier]]

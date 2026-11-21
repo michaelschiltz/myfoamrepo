@@ -55,6 +55,8 @@ James C. Scott, *The Moral Economy of the Peasant: Rebellion and Subsistence in 
 
 ## Links
 
+- [[Bernoulli split Sempronius's cargo by the logarithm and Roy by the probability of disaster]]
+- [[Under absorption pooling raises the probability of ruin to the power of the pool]]
 - [[The split is over whether the explanandum is a state or a trajectory]]
 - [[Lock-in and outcome-coupling are distinct bindings]]
 - [[Outcome-coupling is the condition of legibility]]
