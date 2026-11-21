@@ -387,6 +387,7 @@ digraph vault {
   "Rekihaku - the National Museum of Japanese History and khirin" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
   "Relief ko for a named person is claimed to be unattested outside Japan" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Restate the cost puzzle as a question about a trajectory" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
+  "Retained surplus gives a form a multiplicative trajectory of its own" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Retrieval report workflow - reading the codebooks and the vault back as evidence" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
   "Retrodiction fails on non-invertibility not on induction" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Ribbit mandates exposure rather than forbidding gain" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
@@ -411,6 +412,7 @@ digraph vault {
   "Service historique de la Defense - Lorient and the Compagnie des Indes" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
   "Seville compania y factoria coding and application 2026-11-19" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
   "Shanxi piaohao records - letters, house rules and a collector's compilation" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
+  "Shielding raises the variance an entity can carry" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Shiga University - the Omi merchant archives" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
   "Shiho kenkyu 1928 - who answers for a ko and how it was defrauded" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
   "Shiryo Net and the disaster survival rule" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
@@ -3216,7 +3218,9 @@ digraph vault {
   "MOC - Entity-shielding and corporate forms" -> "Pooling approaches the infinite ensemble and perpetual succession the infinite horizon";
   "MOC - Entity-shielding and corporate forms" -> "Pooling raises the rate and individuation draws the boundary";
   "MOC - Entity-shielding and corporate forms" -> "Read the Nakai anomaly against the ie's horizon not the transaction's";
+  "MOC - Entity-shielding and corporate forms" -> "Retained surplus gives a form a multiplicative trajectory of its own";
   "MOC - Entity-shielding and corporate forms" -> "Seville compania y factoria coding and application 2026-11-19";
+  "MOC - Entity-shielding and corporate forms" -> "Shielding raises the variance an entity can carry";
   "MOC - Entity-shielding and corporate forms" -> "Social immunity is a consequence of individuation not evidence for it";
   "MOC - Entity-shielding and corporate forms" -> "Taleb specifies the firewall in chapter 4 and condemns it in chapter 23";
   "MOC - Entity-shielding and corporate forms" -> "The Antwerp phases separate on two cells and the boundary is textual";
@@ -3631,6 +3635,7 @@ digraph vault {
   "MOC - HistorEE" -> "Regression was invented as a stationarity argument";
   "MOC - HistorEE" -> "Reinforcement selects an attractor the ensemble average never occupies";
   "MOC - HistorEE" -> "Restate the cost puzzle as a question about a trajectory";
+  "MOC - HistorEE" -> "Retained surplus gives a form a multiplicative trajectory of its own";
   "MOC - HistorEE" -> "Retrieval report workflow - reading the codebooks and the vault back as evidence";
   "MOC - HistorEE" -> "Retrodiction fails on non-invertibility not on induction";
   "MOC - HistorEE" -> "Ribbit mandates exposure rather than forbidding gain";
@@ -3643,6 +3648,7 @@ digraph vault {
   "MOC - HistorEE" -> "Seitai chosa shiryo 36 - court-district reports on ko from Aomori, Tokushima and Okinawa";
   "MOC - HistorEE" -> "Separate the sociological and the methodological claims about economics";
   "MOC - HistorEE" -> "Seville compania y factoria coding and application 2026-11-19";
+  "MOC - HistorEE" -> "Shielding raises the variance an entity can carry";
   "MOC - HistorEE" -> "Simonsohn 2016 on East Syrian civil law and the Sasanian substrate";
   "MOC - HistorEE" -> "Skin in the game";
   "MOC - HistorEE" -> "Social immunity and superorganism immunity - loci";
@@ -4987,6 +4993,23 @@ digraph vault {
   "Restate the cost puzzle as a question about a trajectory" -> "The moratorium held because leaving the pool is not a one-period cost";
   "Restate the cost puzzle as a question about a trajectory" -> "The split is over whether the explanandum is a state or a trajectory";
   "Restate the cost puzzle as a question about a trajectory" -> "Time-average optimization is a survivorship property not an intention";
+  "Retained surplus gives a form a multiplicative trajectory of its own" -> "Brown tests equality where a risk reading predicts dispersion";
+  "Retained surplus gives a form a multiplicative trajectory of its own" -> "Guard against reverse-teleology";
+  "Retained surplus gives a form a multiplicative trajectory of its own" -> "Kuran's brake is a refusal of immortal entities";
+  "Retained surplus gives a form a multiplicative trajectory of its own" -> "Lock-in and outcome-coupling are distinct bindings";
+  "Retained surplus gives a form a multiplicative trajectory of its own" -> "MOC - Entity-shielding and corporate forms";
+  "Retained surplus gives a form a multiplicative trajectory of its own" -> "MOC - HistorEE";
+  "Retained surplus gives a form a multiplicative trajectory of its own" -> "Permanent capital pools across voyages as well as across partners";
+  "Retained surplus gives a form a multiplicative trajectory of its own" -> "Persona ficta made the corporation a-moral ab initio";
+  "Retained surplus gives a form a multiplicative trajectory of its own" -> "Pooling approaches the infinite ensemble and perpetual succession the infinite horizon";
+  "Retained surplus gives a form a multiplicative trajectory of its own" -> "Shielding raises the variance an entity can carry";
+  "Retained surplus gives a form a multiplicative trajectory of its own" -> "The Roman universitas makes the JSC case parallelism not convergence";
+  "Retained surplus gives a form a multiplicative trajectory of its own" -> "The absorbing barrier is a second route to the hypothesis not a sharpening of the first";
+  "Retained surplus gives a form a multiplicative trajectory of its own" -> "The ascent narrative is the Jensen error as historiography";
+  "Retained surplus gives a form a multiplicative trajectory of its own" -> "The fictive household supplied partition and perpetuity without legal personality";
+  "Retained surplus gives a form a multiplicative trajectory of its own" -> "The real cut is shielded-and-pooled versus unshielded";
+  "Retained surplus gives a form a multiplicative trajectory of its own" -> "Warichi and general average spread the incidence of an irreversible loss";
+  "Retained surplus gives a form a multiplicative trajectory of its own" -> "Warichi re-randomises after absorption rather than diversifying";
   "Retrieval report workflow - reading the codebooks and the vault back as evidence" -> "A difference between coded forms is a difference of evidence, vocabulary or form";
   "Retrieval report workflow - reading the codebooks and the vault back as evidence" -> "Agent-borne capital loss clusters in local contracts";
   "Retrieval report workflow - reading the codebooks and the vault back as evidence" -> "Bilateral names two different loss rules in Genoa and Catalonia";
@@ -5169,6 +5192,13 @@ digraph vault {
   "Shanxi piaohao records - letters, house rules and a collector's compilation" -> "MOC - Acquisitions and the antiquarian trade";
   "Shanxi piaohao records - letters, house rules and a collector's compilation" -> "MOC - Chinese archives";
   "Shanxi piaohao records - letters, house rules and a collector's compilation" -> "Zhang Chuanxi 1995 - the contract compilation behind the census's Chinese rows";
+  "Shielding raises the variance an entity can carry" -> "MOC - Entity-shielding and corporate forms";
+  "Shielding raises the variance an entity can carry" -> "MOC - HistorEE";
+  "Shielding raises the variance an entity can carry" -> "Persona ficta made the corporation a-moral ab initio";
+  "Shielding raises the variance an entity can carry" -> "Retained surplus gives a form a multiplicative trajectory of its own";
+  "Shielding raises the variance an entity can carry" -> "The ensemble average is the local descriptor of a barrier-shielded agent";
+  "Shielding raises the variance an entity can carry" -> "The real cut is shielded-and-pooled versus unshielded";
+  "Shielding raises the variance an entity can carry" -> "Under absorption pooling raises the probability of ruin to the power of the pool";
   "Shiga University - the Omi merchant archives" -> "Independence of apparatus is not independence of question";
   "Shiga University - the Omi merchant archives" -> "Japanese archives - custody follows the house";
   "Shiga University - the Omi merchant archives" -> "MOC - Japanese archives";
@@ -6191,7 +6221,9 @@ digraph vault {
   "The ensemble average is the local descriptor of a barrier-shielded agent" -> "MOC - Entity-shielding and corporate forms";
   "The ensemble average is the local descriptor of a barrier-shielded agent" -> "MOC - Ergodicity and the time-ensemble distinction";
   "The ensemble average is the local descriptor of a barrier-shielded agent" -> "MOC - HistorEE";
+  "The ensemble average is the local descriptor of a barrier-shielded agent" -> "Retained surplus gives a form a multiplicative trajectory of its own";
   "The ensemble average is the local descriptor of a barrier-shielded agent" -> "Separate the sociological and the methodological claims about economics";
+  "The ensemble average is the local descriptor of a barrier-shielded agent" -> "Shielding raises the variance an entity can carry";
   "The ensemble average is the local descriptor of a barrier-shielded agent" -> "The expectation value describes a pool that re-shares not a population";
   "The ensemble average is the local descriptor of a barrier-shielded agent" -> "The real cut is shielded-and-pooled versus unshielded";
   "The expectation value describes a pool that re-shares not a population" -> "Cooperation is an averaging puzzle and sovereign repayment is a barrier puzzle";
@@ -6546,6 +6578,8 @@ digraph vault {
   "The real cut is shielded-and-pooled versus unshielded" -> "Entity-shielding";
   "The real cut is shielded-and-pooled versus unshielded" -> "MOC - Entity-shielding and corporate forms";
   "The real cut is shielded-and-pooled versus unshielded" -> "MOC - HistorEE";
+  "The real cut is shielded-and-pooled versus unshielded" -> "Retained surplus gives a form a multiplicative trajectory of its own";
+  "The real cut is shielded-and-pooled versus unshielded" -> "Shielding raises the variance an entity can carry";
   "The real cut is shielded-and-pooled versus unshielded" -> "The ensemble average is the local descriptor of a barrier-shielded agent";
   "The real cut is shielded-and-pooled versus unshielded" -> "The ie as entity-shielding";
   "The real cut is shielded-and-pooled versus unshielded" -> "Time-average optimization is a survivorship property not an intention";
@@ -7054,6 +7088,7 @@ digraph vault {
   "Warichi re-randomises after absorption rather than diversifying" -> "MOC - HistorEE";
   "Warichi re-randomises after absorption rather than diversifying" -> "MOC - Risk-sharing vs risk-pricing";
   "Warichi re-randomises after absorption rather than diversifying" -> "Pooling's sign is set by the correlation of its baskets";
+  "Warichi re-randomises after absorption rather than diversifying" -> "Retained surplus gives a form a multiplicative trajectory of its own";
   "Warichi re-randomises after absorption rather than diversifying" -> "Stationarity is a precondition of ergodicity not a corollary";
   "Warichi re-randomises after absorption rather than diversifying" -> "Terminal wealth is permutation-invariant but survival is not";
   "Warichi re-randomises after absorption rather than diversifying" -> "Time-average";

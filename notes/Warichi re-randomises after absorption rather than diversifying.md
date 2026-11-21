@@ -39,6 +39,7 @@ The test this implies is concrete and uses his own data: re-score the villages f
 
 ## Links
 
+- [[Retained surplus gives a form a multiplicative trajectory of its own]]
 - [[Brown tests equality where a risk reading predicts dispersion]]
 - [[An absorbing barrier breaks ergodicity by construction]]
 - [[Absorbing barrier]]

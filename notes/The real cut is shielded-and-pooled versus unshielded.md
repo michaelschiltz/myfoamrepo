@@ -16,6 +16,8 @@ Tokugawa Japan engineered its own barrier-management: *mujin* and *tanomoshi-kō
 
 ## Links
 
+- [[Shielding raises the variance an entity can carry]]
+- [[Retained surplus gives a form a multiplicative trajectory of its own]]
 - [[The ensemble average is the local descriptor of a barrier-shielded agent]]
 - [[Time-average optimization is a survivorship property not an intention]]
 - [[The ie as entity-shielding]]

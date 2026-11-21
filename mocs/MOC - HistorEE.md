@@ -396,3 +396,5 @@ Project hub for the book. Atomic notes hang off both this project MOC and a them
 - [[Bernoulli split Sempronius's cargo by the logarithm and Roy by the probability of disaster]]
 - [[Peters's growth criterion is the boundary-free case of the first-passage ordering]]
 - [[The absorbing barrier is a second route to the hypothesis not a sharpening of the first]]
+- [[Retained surplus gives a form a multiplicative trajectory of its own]]
+- [[Shielding raises the variance an entity can carry]]

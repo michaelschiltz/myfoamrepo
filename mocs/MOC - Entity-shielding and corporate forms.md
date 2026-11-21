@@ -121,3 +121,5 @@ Thematic hub for the corporate-form apparatus: asset-partitioning, identity-wrap
 
 - [[Perpetual succession redefines the unit of survival from a line to a union of lines]] — the trust, the *ie* with adoption and perpetual succession as the ruin-limb counterpart of pooling ($q^k$), bounded by the correlation of lines within a family
 - [[Permanent capital pools across voyages as well as across partners]] — permanent capital spreads a ruinous voyage across all the others; a claim about effect, not about why permanence was adopted
+- [[Retained surplus gives a form a multiplicative trajectory of its own]] — hypothesis, kept out of the application: whose trajectory a form protects and whether it retains its surplus; retention should co-occur with shielding
+- [[Shielding raises the variance an entity can carry]] — pooling lowers members' variance, shielding raises the variance the entity may bear

@@ -995,7 +995,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Brown tests equality where a risk reading predicts dispersion",
-      "value": 20,
+      "value": 21,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1922,7 +1922,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Guard against reverse-teleology",
-      "value": 41,
+      "value": 42,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -2408,7 +2408,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Kuran's brake is a refusal of immortal entities",
-      "value": 21,
+      "value": 22,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -2561,7 +2561,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Lock-in and outcome-coupling are distinct bindings",
-      "value": 42,
+      "value": 43,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -3119,7 +3119,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Permanent capital pools across voyages as well as across partners",
-      "value": 21,
+      "value": 22,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -3164,7 +3164,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Persona ficta made the corporation a-moral ab initio",
-      "value": 14,
+      "value": 17,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -3200,7 +3200,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Pooling approaches the infinite ensemble and perpetual succession the infinite horizon",
-      "value": 43,
+      "value": 44,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -3475,6 +3475,15 @@
       "shape": "dot"
     },
     {
+      "id": "Retained surplus gives a form a multiplicative trajectory of its own",
+      "type": "permanent",
+      "group": "seed",
+      "label": "Retained surplus gives a form a multiplicative trajectory of its own",
+      "value": 25,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
       "id": "Retrieval report workflow - reading the codebooks and the vault back as evidence",
       "type": "reference",
       "group": "reference",
@@ -3688,6 +3697,15 @@
       "label": "Shanxi piaohao records - letters, house rules and a collector's compilation",
       "value": 8,
       "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "Shielding raises the variance an entity can carry",
+      "type": "permanent",
+      "group": "seed",
+      "label": "Shielding raises the variance an entity can carry",
+      "value": 16,
+      "color": "#e6ab02",
       "shape": "dot"
     },
     {
@@ -4532,7 +4550,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The Roman universitas makes the JSC case parallelism not convergence",
-      "value": 33,
+      "value": 34,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -4604,7 +4622,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The absorbing barrier is a second route to the hypothesis not a sharpening of the first",
-      "value": 24,
+      "value": 25,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -4649,7 +4667,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The ascent narrative is the Jensen error as historiography",
-      "value": 28,
+      "value": 29,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -4838,7 +4856,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The ensemble average is the local descriptor of a barrier-shielded agent",
-      "value": 31,
+      "value": 35,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -4856,7 +4874,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The fictive household supplied partition and perpetuity without legal personality",
-      "value": 27,
+      "value": 28,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -5180,7 +5198,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The real cut is shielded-and-pooled versus unshielded",
-      "value": 28,
+      "value": 32,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -5549,7 +5567,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Under absorption pooling raises the probability of ruin to the power of the pool",
-      "value": 45,
+      "value": 46,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -5666,7 +5684,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Warichi and general average spread the incidence of an irreversible loss",
-      "value": 20,
+      "value": 21,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -5675,7 +5693,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Warichi re-randomises after absorption rather than diversifying",
-      "value": 24,
+      "value": 26,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -5882,7 +5900,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Entity-shielding and corporate forms",
-      "value": 169,
+      "value": 173,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -5936,7 +5954,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - HistorEE",
-      "value": 610,
+      "value": 614,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -16244,7 +16262,15 @@
     },
     {
       "from": "MOC - Entity-shielding and corporate forms",
+      "to": "Retained surplus gives a form a multiplicative trajectory of its own"
+    },
+    {
+      "from": "MOC - Entity-shielding and corporate forms",
       "to": "Seville compania y factoria coding and application 2026-11-19"
+    },
+    {
+      "from": "MOC - Entity-shielding and corporate forms",
+      "to": "Shielding raises the variance an entity can carry"
     },
     {
       "from": "MOC - Entity-shielding and corporate forms",
@@ -17904,6 +17930,10 @@
     },
     {
       "from": "MOC - HistorEE",
+      "to": "Retained surplus gives a form a multiplicative trajectory of its own"
+    },
+    {
+      "from": "MOC - HistorEE",
       "to": "Retrieval report workflow - reading the codebooks and the vault back as evidence"
     },
     {
@@ -17949,6 +17979,10 @@
     {
       "from": "MOC - HistorEE",
       "to": "Seville compania y factoria coding and application 2026-11-19"
+    },
+    {
+      "from": "MOC - HistorEE",
+      "to": "Shielding raises the variance an entity can carry"
     },
     {
       "from": "MOC - HistorEE",
@@ -23327,6 +23361,74 @@
       "to": "Time-average optimization is a survivorship property not an intention"
     },
     {
+      "from": "Retained surplus gives a form a multiplicative trajectory of its own",
+      "to": "Brown tests equality where a risk reading predicts dispersion"
+    },
+    {
+      "from": "Retained surplus gives a form a multiplicative trajectory of its own",
+      "to": "Guard against reverse-teleology"
+    },
+    {
+      "from": "Retained surplus gives a form a multiplicative trajectory of its own",
+      "to": "Kuran's brake is a refusal of immortal entities"
+    },
+    {
+      "from": "Retained surplus gives a form a multiplicative trajectory of its own",
+      "to": "Lock-in and outcome-coupling are distinct bindings"
+    },
+    {
+      "from": "Retained surplus gives a form a multiplicative trajectory of its own",
+      "to": "MOC - Entity-shielding and corporate forms"
+    },
+    {
+      "from": "Retained surplus gives a form a multiplicative trajectory of its own",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Retained surplus gives a form a multiplicative trajectory of its own",
+      "to": "Permanent capital pools across voyages as well as across partners"
+    },
+    {
+      "from": "Retained surplus gives a form a multiplicative trajectory of its own",
+      "to": "Persona ficta made the corporation a-moral ab initio"
+    },
+    {
+      "from": "Retained surplus gives a form a multiplicative trajectory of its own",
+      "to": "Pooling approaches the infinite ensemble and perpetual succession the infinite horizon"
+    },
+    {
+      "from": "Retained surplus gives a form a multiplicative trajectory of its own",
+      "to": "Shielding raises the variance an entity can carry"
+    },
+    {
+      "from": "Retained surplus gives a form a multiplicative trajectory of its own",
+      "to": "The Roman universitas makes the JSC case parallelism not convergence"
+    },
+    {
+      "from": "Retained surplus gives a form a multiplicative trajectory of its own",
+      "to": "The absorbing barrier is a second route to the hypothesis not a sharpening of the first"
+    },
+    {
+      "from": "Retained surplus gives a form a multiplicative trajectory of its own",
+      "to": "The ascent narrative is the Jensen error as historiography"
+    },
+    {
+      "from": "Retained surplus gives a form a multiplicative trajectory of its own",
+      "to": "The fictive household supplied partition and perpetuity without legal personality"
+    },
+    {
+      "from": "Retained surplus gives a form a multiplicative trajectory of its own",
+      "to": "The real cut is shielded-and-pooled versus unshielded"
+    },
+    {
+      "from": "Retained surplus gives a form a multiplicative trajectory of its own",
+      "to": "Warichi and general average spread the incidence of an irreversible loss"
+    },
+    {
+      "from": "Retained surplus gives a form a multiplicative trajectory of its own",
+      "to": "Warichi re-randomises after absorption rather than diversifying"
+    },
+    {
       "from": "Retrieval report workflow - reading the codebooks and the vault back as evidence",
       "to": "A difference between coded forms is a difference of evidence, vocabulary or form"
     },
@@ -24053,6 +24155,34 @@
     {
       "from": "Shanxi piaohao records - letters, house rules and a collector's compilation",
       "to": "Zhang Chuanxi 1995 - the contract compilation behind the census's Chinese rows"
+    },
+    {
+      "from": "Shielding raises the variance an entity can carry",
+      "to": "MOC - Entity-shielding and corporate forms"
+    },
+    {
+      "from": "Shielding raises the variance an entity can carry",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Shielding raises the variance an entity can carry",
+      "to": "Persona ficta made the corporation a-moral ab initio"
+    },
+    {
+      "from": "Shielding raises the variance an entity can carry",
+      "to": "Retained surplus gives a form a multiplicative trajectory of its own"
+    },
+    {
+      "from": "Shielding raises the variance an entity can carry",
+      "to": "The ensemble average is the local descriptor of a barrier-shielded agent"
+    },
+    {
+      "from": "Shielding raises the variance an entity can carry",
+      "to": "The real cut is shielded-and-pooled versus unshielded"
+    },
+    {
+      "from": "Shielding raises the variance an entity can carry",
+      "to": "Under absorption pooling raises the probability of ruin to the power of the pool"
     },
     {
       "from": "Shiga University - the Omi merchant archives",
@@ -28144,7 +28274,15 @@
     },
     {
       "from": "The ensemble average is the local descriptor of a barrier-shielded agent",
+      "to": "Retained surplus gives a form a multiplicative trajectory of its own"
+    },
+    {
+      "from": "The ensemble average is the local descriptor of a barrier-shielded agent",
       "to": "Separate the sociological and the methodological claims about economics"
+    },
+    {
+      "from": "The ensemble average is the local descriptor of a barrier-shielded agent",
+      "to": "Shielding raises the variance an entity can carry"
     },
     {
       "from": "The ensemble average is the local descriptor of a barrier-shielded agent",
@@ -29561,6 +29699,14 @@
     {
       "from": "The real cut is shielded-and-pooled versus unshielded",
       "to": "MOC - HistorEE"
+    },
+    {
+      "from": "The real cut is shielded-and-pooled versus unshielded",
+      "to": "Retained surplus gives a form a multiplicative trajectory of its own"
+    },
+    {
+      "from": "The real cut is shielded-and-pooled versus unshielded",
+      "to": "Shielding raises the variance an entity can carry"
     },
     {
       "from": "The real cut is shielded-and-pooled versus unshielded",
@@ -31593,6 +31739,10 @@
     {
       "from": "Warichi re-randomises after absorption rather than diversifying",
       "to": "Pooling's sign is set by the correlation of its baskets"
+    },
+    {
+      "from": "Warichi re-randomises after absorption rather than diversifying",
+      "to": "Retained surplus gives a form a multiplicative trajectory of its own"
     },
     {
       "from": "Warichi re-randomises after absorption rather than diversifying",

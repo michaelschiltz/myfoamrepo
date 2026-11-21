@@ -18,6 +18,8 @@ So economics is the self-description of a civilization that engineered barrier-a
 
 ## Links
 
+- [[Shielding raises the variance an entity can carry]]
+- [[Retained surplus gives a form a multiplicative trajectory of its own]]
 - [[Separate the sociological and the methodological claims about economics]]
 - [[The real cut is shielded-and-pooled versus unshielded]]
 - [[Absorbing barrier]]
