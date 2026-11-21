@@ -22,8 +22,14 @@ The vocabulary is contested in a way the applied literature rarely acknowledges,
 
 This is the same hygiene point as [[Route Kolmogorov to ergodic theory not the theory of means]], applied to the word rather than to the lineage. Physics did not move on by declaring ensemble averages bad; it moved on by stating its conditions. Our comparative advantage over the existing critique is that we can name which condition, over which observable, in which sense.
 
+## Relation to the hierarchy of the 2026 theme issue
+
+Connaughton, Lamb and Paillusson (2026) and Underwood and Paillusson (2026) state a *nested* hierarchy — metric indecomposability, then equality of distributions for an observable, then equality of averages for an observable, each weaker than the last. That does not contradict this note. Their hierarchy runs inside the first and third senses here: indecomposability is the first sense, and equality of averages for an observable is the econometric sense, now with a finite-sample test. The applied-probability sense, which adds aperiodicity and positive recurrence, sits above indecomposability and outside their ladder; the Post-Keynesian sense is on no ladder at all. The non-nesting claim stands for the four senses taken together. What changes is the citation: the claim WP3 should press — equality of averages for the coefficient's observable over the design's horizon — now has a co-PI's published definition behind it. See [[Connaughton Lamb and Paillusson 2026 on what ergodicity is]] and [[Underwood and Paillusson 2026 on the ergodicity spectrum]].
+
 ## Links
 
+- [[Connaughton Lamb and Paillusson 2026 on what ergodicity is]]
+- [[Underwood and Paillusson 2026 on the ergodicity spectrum]]
 - [[Ergodicity is indecomposability not randomness]]
 - [[Stationarity is a precondition of ergodicity not a corollary]]
 - [[Route Kolmogorov to ergodic theory not the theory of means]]

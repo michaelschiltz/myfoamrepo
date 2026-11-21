@@ -26,8 +26,12 @@ Stating it that way converts the "which utility function?" problem into a "which
 
 The available answer is that dynamics are in principle observable and testable while preferences are not — a real asymmetry, and the one on which the framework's scientific claim rests. But it is weaker in our setting than in a laboratory one, because for historical cases the dynamic is inferred, frequently from the same evidence the argument then explains. **This is a live vulnerability for WP3 and should be named in the application rather than left for the panel to find**, particularly given the falsifiability charge already lodged against the framework.
 
+**Update, 2026-11-21.** The objection is now the programme's own published position: Peters and Adamou's Theorem 4.1 makes every invertible utility growth-optimal under some dynamic — [[Every utility function is growth-optimal under some dynamic]]. Two things in the same theme issue bear on the answer. Britto (2026) proposes a likelihood estimator for the transformation itself, which makes the dynamic an estimated quantity rather than an assumed one wherever a long series exists; and the logarithm's privilege acquires a structural ground, that it is the only concave isoelastic transform needing no boundary — [[Among isoelastic transforms only the logarithm has no boundary]]. See [[The 2026 Phil Trans A theme issue on ergodicity breaking]].
+
 ## Links
 
+- [[Every utility function is growth-optimal under some dynamic]]
+- [[Among isoelastic transforms only the logarithm has no boundary]]
 - [[Jensen gap]]
 - [[Nothing in the ergodic theorem fails in geometric Brownian motion]]
 - [[Route Kolmogorov to ergodic theory not the theory of means]]

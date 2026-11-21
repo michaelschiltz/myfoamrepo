@@ -48,6 +48,7 @@ Where the outcome invoked is itself an absorbing event — deportation, extermin
 
 ## Links
 
+- [[Conditioning on survival is an ensemble operation]] — the drift change under survival conditioning in closed form, and its application to merchant archives
 - [[Voigtlander and Voth measured the relaxation time and reported a mixture]]
 - [[Fat tails do not require fat-tailed inputs]]
 - [[Deep-roots variables are symplesiomorphies]]

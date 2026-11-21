@@ -34,6 +34,8 @@ Three prohibitions follow, and they bind.
 
 ## Links
 
+- [[The commenda splits a dynamic that has no utility representation]] — a within-form comparison that needs no cross-dynamic ranking
+- [[Peters and Adamou 2026 on the time interpretation of expected utility theory]] — whose criterion 3.7 ranks only within one dynamic, without saying so
 - [[Ford and Kay 2023 on growth-optimal decision making]]
 - [[The selective claim is falsifiable where the prescriptive claim is not]]
 - [[Time-average optimization is a survivorship property not an intention]]

@@ -37,9 +37,11 @@ Under additive dynamics time pressure has no effect, and both groups sit near ri
 
 - **Vanhoyweghen and Ginis 2023.** "Human Decision-Making in a Non-Ergodic Additive Environment." *Proceedings of the Royal Society A* 479 (2278): 20230544. DOI `10.1098/rspa.2023.0544`. Zotero `M78ALGIF`. Risk of ruin introduced into additive dynamics; risk aversion varies with distance to ruin. **The laboratory analogue of the absorption limb**, and the nearest experimental neighbour of [[An absorbing barrier breaks ergodicity by construction]].
 - **Vanhoyweghen, Macharis and Ginis 2025.** "Investigating the Origins of Redistributive Behaviour in Non-Ergodic Contexts." *Proceedings of the Royal Society A* 481 (2326). DOI `10.1098/rspa.2025.0598`. Zotero `HFZQ27RX`. Two iterations, n = 200 each, thirty multiplicative gambles: subjects redistribute gains and losses against expected gain, read as self-interested growth rather than altruism. **The only experiment in the set about pooling**, so it must be read before anything is written about the laboratory and cooperation. It remains an individual's stated preference over sharing; it does not observe a pool surviving.
+- **Vanhoyweghen, Verbeken and Ginis 2026.** "Ergodicity Economics beyond Asymptotics: A Time-Average Decision Framework for Dynamics with Absorbing Boundaries." *Philosophical Transactions of the Royal Society A* 384 (2334): 20250167. DOI `10.1098/rsta.2025.0167`. Zotero `ENRE2FVB`. **The formal counterpart of the 2023 ruin experiment**: a lexicographic ordering under absorbing boundaries, and the paper that confines the Bernoulli identity to boundary-free dynamics. See [[Vanhoyweghen Verbeken and Ginis 2026 on absorbing boundaries]].
 
 ## Links
 
+- [[Vanhoyweghen Verbeken and Ginis 2026 on absorbing boundaries]]
 - [[The Copenhagen experiment - Meder et al 2021 and its pre-registered successor]]
 - [[The laboratory tests the choice and the archive tests the pool]]
 - [[Ford and Kay 2023 on growth-optimal decision making]]

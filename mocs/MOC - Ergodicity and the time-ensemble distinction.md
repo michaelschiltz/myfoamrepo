@@ -23,6 +23,8 @@ Written for WP3, to the standard a mathematically literate referee would apply.
 - [[Nothing in the ergodic theorem fails in geometric Brownian motion]]
 - [[An absorbing barrier breaks ergodicity by construction]]
 - [[Distinguish strong from weak ergodicity breaking]]
+- [[Connaughton Lamb and Paillusson 2026 on what ergodicity is]] — the co-PI's hierarchy: indecomposability, equality of distributions, equality of averages
+- [[Underwood and Paillusson 2026 on the ergodicity spectrum]] — counting ergodic components from data
 - [[Jensen supplies the gap but only the dynamic privileges the logarithm]]
 
 ## Notes
@@ -62,6 +64,15 @@ Written for WP3, to the standard a mathematically literate referee would apply.
 - [[Bad luck is what the ensemble average calls the modal trajectory]]
 - [[A contingency clause priced at zero is evidence for a time-average criterion]]
 - [[Syndication and the misma moneda are pooling not prudence]]
+- [[The 2026 Phil Trans A theme issue on ergodicity breaking]]
+- [[Every utility function is growth-optimal under some dynamic]]
+- [[The utility mapping fails exactly where absorption begins]]
+- [[Conditioning on survival is an ensemble operation]]
+- [[Among isoelastic transforms only the logarithm has no boundary]]
+- [[Under absorption the time-average criterion is an ordering not a maximand]]
+- [[The commenda splits a dynamic that has no utility representation]]
+- [[The time-average growth rate from cross-sections is a licensed space-for-time step]]
+- [[Stipend debtors live at the perpetuity point]]
 
 ## Links
 

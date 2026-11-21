@@ -53,6 +53,17 @@ Sharper than any of the three, because it follows from the project's own best mo
 - [[Galton-Watson is the extinction branch Peters named and did not develop]] — the constructive reply: a supercritical branching process has a diverging ensemble mean and a positive extinction probability, with no logarithm and no Jensen gap anywhere. The cleanest proof that the ruin limb is independent of the variance limb
 - [[The market selection literature is the project's nearest formal neighbour]] — Blume and Easley in *Econometrica*, unread and un-held. The literature a referee from economics will name
 
+## The 2026 theme issue
+
+The programme's founders concede the Bernoulli identity and generalise it; the same issue carries the paper that shows where it breaks. Hub: [[The 2026 Phil Trans A theme issue on ergodicity breaking]].
+
+- [[Every utility function is growth-optimal under some dynamic]] — the concession; what survives is the observability of dynamics
+- [[The utility mapping fails exactly where absorption begins]] — the stronger answer to the relabelling charge: orderings no stable expected-utility agent can produce
+- [[Under absorption the time-average criterion is an ordering not a maximand]] — the wording a mathematician will check
+- [[Among isoelastic transforms only the logarithm has no boundary]] — the structural sense in which the logarithm is special
+- [[Conditioning on survival is an ensemble operation]] — what must not be cited from either absorption paper
+- [[The time-average growth rate from cross-sections is a licensed space-for-time step]] — say it before the referee does
+
 ## Tier 4 — guardrails
 
 What must not be claimed. Each exists because the overreach it forbids is tempting and fatal.
@@ -65,7 +76,7 @@ What must not be claimed. Each exists because the overreach it forbids is tempti
 
 Named here so they are answered in text rather than found by a panel.
 
-- **The which-dynamic problem.** Specifying the dynamic is formally as free as specifying the utility function; the apparatus has relocated the arbitrariness, not removed it. The answer — dynamics are observable, preferences are not — is weaker for historical cases, where the dynamic is inferred from the same evidence the argument then explains. Stated at [[Jensen supplies the gap but only the dynamic privileges the logarithm]] and flagged there as live for WP3.
+- **The which-dynamic problem.** Specifying the dynamic is formally as free as specifying the utility function; the apparatus has relocated the arbitrariness, not removed it. The answer — dynamics are observable, preferences are not — is weaker for historical cases, where the dynamic is inferred from the same evidence the argument then explains. Stated at [[Jensen supplies the gap but only the dynamic privileges the logarithm]] and flagged there as live for WP3. Since November 2026 it is also the programme's own published position — [[Every utility function is growth-optimal under some dynamic]].
 - **Strong/weak slippage.** Using "non-ergodic" unqualified claims the rhetorical force of decomposition on evidence that supports only timescale separation. This is exactly where a referee will locate the slippage; see [[Distinguish strong from weak ergodicity breaking]].
 - **The criterion forfeits the empirical critics as allies.** A study reporting that a persistence contrast has vanished computes the same unlicensed quantity as the study it refutes, so it cannot be cited as support without conceding the estimand. Stated at [[A refutation that shares the estimand inherits the defect]], together with the pre-committed intact case that answers the unfalsifiability charge it invites.
 - **Peters's reply to Doctor, Wakker and Wang is unread.** Paywalled beyond its opening line; nothing in the vault should characterise its argument until the text is obtained. See [[Doctor Wakker and Wang 2020 on the ergodicity problem]].

@@ -365,3 +365,22 @@ Project hub for the book. Atomic notes hang off both this project MOC and a them
 ## Notes — Seville compañía y factoría (2026-11-19)
 
 - [[Seville compania y factoria coding and application 2026-11-19]]
+
+## Notes — Phil Trans A theme issue on ergodicity (2026-11-21)
+
+- [[The 2026 Phil Trans A theme issue on ergodicity breaking]]
+- [[Peters and Adamou 2026 on the time interpretation of expected utility theory]]
+- [[Vanhoyweghen Verbeken and Ginis 2026 on absorbing boundaries]]
+- [[Connaughton Lamb and Paillusson 2026 on what ergodicity is]]
+- [[Soysal 2026 on the ergodicity assumption in climate damages]]
+- [[Underwood and Paillusson 2026 on the ergodicity spectrum]]
+- [[Adamou Berman and Peters 2026 on the two growth rates]]
+- [[Raposo and Pulido 2026 on additive ruin with borrowing]]
+- [[Every utility function is growth-optimal under some dynamic]]
+- [[The utility mapping fails exactly where absorption begins]]
+- [[Conditioning on survival is an ensemble operation]]
+- [[Among isoelastic transforms only the logarithm has no boundary]]
+- [[The commenda splits a dynamic that has no utility representation]]
+- [[Under absorption the time-average criterion is an ordering not a maximand]]
+- [[The time-average growth rate from cross-sections is a licensed space-for-time step]]
+- [[Stipend debtors live at the perpetuity point]]

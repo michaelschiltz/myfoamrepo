@@ -140,7 +140,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "A refutation that shares the estimand inherits the defect",
-      "value": 32,
+      "value": 33,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -248,7 +248,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Absorption without ergodicity economics is just ruin theory",
-      "value": 38,
+      "value": 39,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -268,6 +268,15 @@
       "label": "Acta Turcarum - the Ottoman series at Dubrovnik",
       "value": 20,
       "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "Adamou Berman and Peters 2026 on the two growth rates",
+      "type": "source",
+      "group": "source",
+      "label": "Adamou Berman and Peters 2026 on the two growth rates",
+      "value": 13,
+      "color": "#7570b3",
       "shape": "dot"
     },
     {
@@ -298,6 +307,15 @@
       "shape": "dot"
     },
     {
+      "id": "Among isoelastic transforms only the logarithm has no boundary",
+      "type": "permanent",
+      "group": "seed",
+      "label": "Among isoelastic transforms only the logarithm has no boundary",
+      "value": 18,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
       "id": "Amsterdam notaries drafted ship-pledged and goods-pledged bodemerij as one instrument",
       "type": "permanent",
       "group": "seed",
@@ -311,7 +329,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "An absorbing barrier breaks ergodicity by construction",
-      "value": 64,
+      "value": 69,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -743,7 +761,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Attractor selection bounds what a persistence design can resolve",
-      "value": 44,
+      "value": 45,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1121,7 +1139,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Comanda capital was mixed with the agent's own unless the contract said otherwise",
-      "value": 14,
+      "value": 15,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1168,6 +1186,24 @@
       "label": "Comanda records corrected from the Madurell translation 2026-11-03",
       "value": 14,
       "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "Conditioning on survival is an ensemble operation",
+      "type": "permanent",
+      "group": "seed",
+      "label": "Conditioning on survival is an ensemble operation",
+      "value": 22,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "Connaughton Lamb and Paillusson 2026 on what ergodicity is",
+      "type": "source",
+      "group": "source",
+      "label": "Connaughton Lamb and Paillusson 2026 on what ergodicity is",
+      "value": 20,
+      "color": "#7570b3",
       "shape": "dot"
     },
     {
@@ -1229,7 +1265,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Darwin's bee series is a space-for-time substitution that licenses possibility not pathway",
-      "value": 26,
+      "value": 27,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1328,7 +1364,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Distinguish strong from weak ergodicity breaking",
-      "value": 30,
+      "value": 31,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1355,7 +1391,7 @@
       "type": "source",
       "group": "source",
       "label": "Doctor Wakker and Wang 2020 on the ergodicity problem",
-      "value": 53,
+      "value": 54,
       "color": "#7570b3",
       "shape": "dot"
     },
@@ -1454,7 +1490,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "EE cannot rank across dynamics and the comparative project must not need it to",
-      "value": 32,
+      "value": 36,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1481,7 +1517,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Economics had its ensemble moment in 1738 and psychologized it",
-      "value": 26,
+      "value": 28,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1562,7 +1598,16 @@
       "type": "permanent",
       "group": "seed",
       "label": "Ergodicity is indecomposability not randomness",
-      "value": 37,
+      "value": 39,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "Every utility function is growth-optimal under some dynamic",
+      "type": "permanent",
+      "group": "seed",
+      "label": "Every utility function is growth-optimal under some dynamic",
+      "value": 23,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -2156,7 +2201,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Institutions substitute state-verification for outcome-inference as ruin exposure rises",
-      "value": 31,
+      "value": 32,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -2192,7 +2237,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Isqa qirad and commenda are a liability-variable triad",
-      "value": 35,
+      "value": 36,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -2264,7 +2309,7 @@
       "type": "permanent",
       "group": "stub",
       "label": "Jensen gap",
-      "value": 37,
+      "value": 38,
       "color": "#666666",
       "shape": "dot"
     },
@@ -2273,7 +2318,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Jensen supplies the gap but only the dynamic privileges the logarithm",
-      "value": 40,
+      "value": 51,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -2471,7 +2516,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Licensing the ensemble is a dynamical question not a metaphysical one",
-      "value": 15,
+      "value": 19,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -2705,7 +2750,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Natie and kabu-nakama are a convergence pair",
-      "value": 25,
+      "value": 26,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -3065,7 +3110,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Persistence samples are conditioned on non-absorption",
-      "value": 68,
+      "value": 72,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -3085,6 +3130,15 @@
       "label": "Persona ficta made the corporation a-moral ab initio",
       "value": 14,
       "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "Peters and Adamou 2026 on the time interpretation of expected utility theory",
+      "type": "source",
+      "group": "source",
+      "label": "Peters and Adamou 2026 on the time interpretation of expected utility theory",
+      "value": 26,
+      "color": "#7570b3",
       "shape": "dot"
     },
     {
@@ -3259,11 +3313,20 @@
       "shape": "dot"
     },
     {
+      "id": "Raposo and Pulido 2026 on additive ruin with borrowing",
+      "type": "source",
+      "group": "source",
+      "label": "Raposo and Pulido 2026 on additive ruin with borrowing",
+      "value": 11,
+      "color": "#7570b3",
+      "shape": "dot"
+    },
+    {
       "id": "Rationality is a property of the policy not of the belief that produces it",
       "type": "permanent",
       "group": "seed",
       "label": "Rationality is a property of the policy not of the belief that produces it",
-      "value": 36,
+      "value": 37,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -3452,7 +3515,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Route Kolmogorov to ergodic theory not the theory of means",
-      "value": 31,
+      "value": 32,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -3713,7 +3776,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Source editions - Edo Japan",
-      "value": 14,
+      "value": 15,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -3796,6 +3859,15 @@
       "label": "South Asian archives - the colonial state kept the record and the merchants kept their own",
       "value": 16,
       "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "Soysal 2026 on the ergodicity assumption in climate damages",
+      "type": "source",
+      "group": "source",
+      "label": "Soysal 2026 on the ergodicity assumption in climate damages",
+      "value": 19,
+      "color": "#7570b3",
       "shape": "dot"
     },
     {
@@ -3920,7 +3992,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Stationarity is a precondition of ergodicity not a corollary",
-      "value": 33,
+      "value": 34,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -3931,6 +4003,15 @@
       "label": "Stiftung Hanseatisches Wirtschaftsarchiv - Hamburg",
       "value": 11,
       "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
+      "id": "Stipend debtors live at the perpetuity point",
+      "type": "permanent",
+      "group": "stub",
+      "label": "Stipend debtors live at the perpetuity point",
+      "value": 13,
+      "color": "#666666",
       "shape": "dot"
     },
     {
@@ -4028,7 +4109,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Taleb reads survival as evidence about the survivor and we read it as evidence about the filter",
-      "value": 53,
+      "value": 54,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -4093,6 +4174,15 @@
       "label": "Terminal wealth is permutation-invariant but survival is not",
       "value": 33,
       "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "The 2026 Phil Trans A theme issue on ergodicity breaking",
+      "type": "source",
+      "group": "source",
+      "label": "The 2026 Phil Trans A theme issue on ergodicity breaking",
+      "value": 33,
+      "color": "#7570b3",
       "shape": "dot"
     },
     {
@@ -4190,7 +4280,7 @@
       "type": "source",
       "group": "source",
       "label": "The Brussels experiment - Vanhoyweghen et al 2022 and its sequels",
-      "value": 19,
+      "value": 22,
       "color": "#7570b3",
       "shape": "dot"
     },
@@ -4226,7 +4316,7 @@
       "type": "source",
       "group": "source",
       "label": "The Copenhagen experiment - Meder et al 2021 and its pre-registered successor",
-      "value": 23,
+      "value": 24,
       "color": "#7570b3",
       "shape": "dot"
     },
@@ -4496,7 +4586,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The ascent narrative is the Jensen error as historiography",
-      "value": 25,
+      "value": 28,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -4586,7 +4676,16 @@
       "type": "permanent",
       "group": "seed",
       "label": "The commenda family fixes the allocation of loss and proves it by the agent's oath",
-      "value": 26,
+      "value": 27,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "The commenda splits a dynamic that has no utility representation",
+      "type": "permanent",
+      "group": "seed",
+      "label": "The commenda splits a dynamic that has no utility representation",
+      "value": 18,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -4865,7 +4964,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The mita boundary separates two components not two points on a trajectory",
-      "value": 36,
+      "value": 39,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -4874,7 +4973,7 @@
       "type": "reference",
       "group": "reference",
       "label": "The mita critiques establish five nulls and none is the estimand",
-      "value": 19,
+      "value": 20,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -4973,7 +5072,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The persistence literature names non-ergodicity only in its geography branch",
-      "value": 23,
+      "value": 27,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -4982,7 +5081,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The published critique never engages absorption",
-      "value": 47,
+      "value": 48,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -5018,7 +5117,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The record of non-survivors survives where failure was administered",
-      "value": 41,
+      "value": 42,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -5045,7 +5144,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The selective claim is falsifiable where the prescriptive claim is not",
-      "value": 37,
+      "value": 38,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -5081,7 +5180,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The survivor case should discriminate inside a single design",
-      "value": 22,
+      "value": 23,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -5090,7 +5189,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The sustainability criterion assumes the ergodicity it should be testing",
-      "value": 14,
+      "value": 16,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -5140,6 +5239,15 @@
       "shape": "dot"
     },
     {
+      "id": "The time-average growth rate from cross-sections is a licensed space-for-time step",
+      "type": "permanent",
+      "group": "seed",
+      "label": "The time-average growth rate from cross-sections is a licensed space-for-time step",
+      "value": 17,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
       "id": "The tontine is pooling in form and dispersal in function",
       "type": "permanent",
       "group": "seed",
@@ -5163,6 +5271,15 @@
       "group": "seed",
       "label": "The unfalsifiability charge is really a scope-and-productivity charge",
       "value": 24,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
+      "id": "The utility mapping fails exactly where absorption begins",
+      "type": "permanent",
+      "group": "seed",
+      "label": "The utility mapping fails exactly where absorption begins",
+      "value": 23,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -5198,7 +5315,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The word ergodic carries four incompatible senses",
-      "value": 34,
+      "value": 41,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -5225,7 +5342,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Time-average optimization is a survivorship property not an intention",
-      "value": 64,
+      "value": 67,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -5261,7 +5378,7 @@
       "type": "permanent",
       "group": "stub",
       "label": "Toda's citation allegations must be checked before we cite Peters",
-      "value": 21,
+      "value": 22,
       "color": "#666666",
       "shape": "dot"
     },
@@ -5356,6 +5473,15 @@
       "shape": "dot"
     },
     {
+      "id": "Under absorption the time-average criterion is an ordering not a maximand",
+      "type": "permanent",
+      "group": "seed",
+      "label": "Under absorption the time-average criterion is an ordering not a maximand",
+      "value": 14,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
       "id": "Under multiplicative dynamics the restoring force is an institutional achievement",
       "type": "permanent",
       "group": "seed",
@@ -5365,11 +5491,20 @@
       "shape": "dot"
     },
     {
+      "id": "Underwood and Paillusson 2026 on the ergodicity spectrum",
+      "type": "source",
+      "group": "source",
+      "label": "Underwood and Paillusson 2026 on the ergodicity spectrum",
+      "value": 20,
+      "color": "#7570b3",
+      "shape": "dot"
+    },
+    {
       "id": "Unilateral and bilateral commenda collapse on profit and separate on loss",
       "type": "permanent",
       "group": "seed",
       "label": "Unilateral and bilateral commenda collapse on profit and separate on loss",
-      "value": 24,
+      "value": 25,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -5415,6 +5550,15 @@
       "group": "source",
       "label": "Van Dam's Beschryvinge - the VOC described by its own advocaat",
       "value": 39,
+      "color": "#7570b3",
+      "shape": "dot"
+    },
+    {
+      "id": "Vanhoyweghen Verbeken and Ginis 2026 on absorbing boundaries",
+      "type": "source",
+      "group": "source",
+      "label": "Vanhoyweghen Verbeken and Ginis 2026 on absorbing boundaries",
+      "value": 21,
       "color": "#7570b3",
       "shape": "dot"
     },
@@ -5621,7 +5765,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Defending the ergodicity claim",
-      "value": 126,
+      "value": 143,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -5657,7 +5801,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Entity-shielding and corporate forms",
-      "value": 164,
+      "value": 165,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -5666,7 +5810,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Ergodicity and the time-ensemble distinction",
-      "value": 207,
+      "value": 232,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -5711,7 +5855,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - HistorEE",
-      "value": 560,
+      "value": 592,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -5720,7 +5864,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Historiography and method",
-      "value": 273,
+      "value": 277,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -5774,7 +5918,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Path dependence and sequence",
-      "value": 40,
+      "value": 41,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -5783,7 +5927,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Risk-sharing vs risk-pricing",
-      "value": 214,
+      "value": 215,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -7030,6 +7174,34 @@
       "to": "The Ragusan chancery and notarial series"
     },
     {
+      "from": "Adamou Berman and Peters 2026 on the two growth rates",
+      "to": "Jensen gap"
+    },
+    {
+      "from": "Adamou Berman and Peters 2026 on the two growth rates",
+      "to": "MOC - Ergodicity and the time-ensemble distinction"
+    },
+    {
+      "from": "Adamou Berman and Peters 2026 on the two growth rates",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Adamou Berman and Peters 2026 on the two growth rates",
+      "to": "MOC - Historiography and method"
+    },
+    {
+      "from": "Adamou Berman and Peters 2026 on the two growth rates",
+      "to": "The 2026 Phil Trans A theme issue on ergodicity breaking"
+    },
+    {
+      "from": "Adamou Berman and Peters 2026 on the two growth rates",
+      "to": "The ascent narrative is the Jensen error as historiography"
+    },
+    {
+      "from": "Adamou Berman and Peters 2026 on the two growth rates",
+      "to": "The time-average growth rate from cross-sections is a licensed space-for-time step"
+    },
+    {
       "from": "Agent-borne capital loss clusters in local contracts",
       "to": "Absorbing barrier"
     },
@@ -7148,6 +7320,38 @@
     {
       "from": "Aktipis and Cronk on need-based transfers and herd survival",
       "to": "Pooling's sign is set by the correlation of its baskets"
+    },
+    {
+      "from": "Among isoelastic transforms only the logarithm has no boundary",
+      "to": "Conditioning on survival is an ensemble operation"
+    },
+    {
+      "from": "Among isoelastic transforms only the logarithm has no boundary",
+      "to": "Jensen supplies the gap but only the dynamic privileges the logarithm"
+    },
+    {
+      "from": "Among isoelastic transforms only the logarithm has no boundary",
+      "to": "MOC - Defending the ergodicity claim"
+    },
+    {
+      "from": "Among isoelastic transforms only the logarithm has no boundary",
+      "to": "MOC - Ergodicity and the time-ensemble distinction"
+    },
+    {
+      "from": "Among isoelastic transforms only the logarithm has no boundary",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Among isoelastic transforms only the logarithm has no boundary",
+      "to": "Peters and Adamou 2026 on the time interpretation of expected utility theory"
+    },
+    {
+      "from": "Among isoelastic transforms only the logarithm has no boundary",
+      "to": "Route Kolmogorov to ergodic theory not the theory of means"
+    },
+    {
+      "from": "Among isoelastic transforms only the logarithm has no boundary",
+      "to": "The utility mapping fails exactly where absorption begins"
     },
     {
       "from": "Amsterdam notaries drafted ship-pledged and goods-pledged bodemerij as one instrument",
@@ -9798,6 +10002,78 @@
       "to": "organizational_forms"
     },
     {
+      "from": "Conditioning on survival is an ensemble operation",
+      "to": "MOC - Ergodicity and the time-ensemble distinction"
+    },
+    {
+      "from": "Conditioning on survival is an ensemble operation",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Conditioning on survival is an ensemble operation",
+      "to": "MOC - Historiography and method"
+    },
+    {
+      "from": "Conditioning on survival is an ensemble operation",
+      "to": "Persistence samples are conditioned on non-absorption"
+    },
+    {
+      "from": "Conditioning on survival is an ensemble operation",
+      "to": "Peters and Adamou 2026 on the time interpretation of expected utility theory"
+    },
+    {
+      "from": "Conditioning on survival is an ensemble operation",
+      "to": "Taleb reads survival as evidence about the survivor and we read it as evidence about the filter"
+    },
+    {
+      "from": "Conditioning on survival is an ensemble operation",
+      "to": "The record of non-survivors survives where failure was administered"
+    },
+    {
+      "from": "Conditioning on survival is an ensemble operation",
+      "to": "Time-average optimization is a survivorship property not an intention"
+    },
+    {
+      "from": "Conditioning on survival is an ensemble operation",
+      "to": "Vanhoyweghen Verbeken and Ginis 2026 on absorbing boundaries"
+    },
+    {
+      "from": "Connaughton Lamb and Paillusson 2026 on what ergodicity is",
+      "to": "Ergodicity is indecomposability not randomness"
+    },
+    {
+      "from": "Connaughton Lamb and Paillusson 2026 on what ergodicity is",
+      "to": "Licensing the ensemble is a dynamical question not a metaphysical one"
+    },
+    {
+      "from": "Connaughton Lamb and Paillusson 2026 on what ergodicity is",
+      "to": "MOC - Defending the ergodicity claim"
+    },
+    {
+      "from": "Connaughton Lamb and Paillusson 2026 on what ergodicity is",
+      "to": "MOC - Ergodicity and the time-ensemble distinction"
+    },
+    {
+      "from": "Connaughton Lamb and Paillusson 2026 on what ergodicity is",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Connaughton Lamb and Paillusson 2026 on what ergodicity is",
+      "to": "Soysal 2026 on the ergodicity assumption in climate damages"
+    },
+    {
+      "from": "Connaughton Lamb and Paillusson 2026 on what ergodicity is",
+      "to": "The 2026 Phil Trans A theme issue on ergodicity breaking"
+    },
+    {
+      "from": "Connaughton Lamb and Paillusson 2026 on what ergodicity is",
+      "to": "The word ergodic carries four incompatible senses"
+    },
+    {
+      "from": "Connaughton Lamb and Paillusson 2026 on what ergodicity is",
+      "to": "Underwood and Paillusson 2026 on the ergodicity spectrum"
+    },
+    {
       "from": "Consulado de Burgos - the universidad de mercaderes",
       "to": "Archivo Foral de Bizkaia - the Consulado de Bilbao"
     },
@@ -10915,7 +11191,15 @@
     },
     {
       "from": "EE cannot rank across dynamics and the comparative project must not need it to",
+      "to": "Peters and Adamou 2026 on the time interpretation of expected utility theory"
+    },
+    {
+      "from": "EE cannot rank across dynamics and the comparative project must not need it to",
       "to": "Terminal wealth is permutation-invariant but survival is not"
+    },
+    {
+      "from": "EE cannot rank across dynamics and the comparative project must not need it to",
+      "to": "The commenda splits a dynamic that has no utility representation"
     },
     {
       "from": "EE cannot rank across dynamics and the comparative project must not need it to",
@@ -11336,6 +11620,42 @@
     {
       "from": "Ergodicity is indecomposability not randomness",
       "to": "Time-average"
+    },
+    {
+      "from": "Every utility function is growth-optimal under some dynamic",
+      "to": "Economics had its ensemble moment in 1738 and psychologized it"
+    },
+    {
+      "from": "Every utility function is growth-optimal under some dynamic",
+      "to": "Jensen supplies the gap but only the dynamic privileges the logarithm"
+    },
+    {
+      "from": "Every utility function is growth-optimal under some dynamic",
+      "to": "MOC - Defending the ergodicity claim"
+    },
+    {
+      "from": "Every utility function is growth-optimal under some dynamic",
+      "to": "MOC - Ergodicity and the time-ensemble distinction"
+    },
+    {
+      "from": "Every utility function is growth-optimal under some dynamic",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Every utility function is growth-optimal under some dynamic",
+      "to": "Peters and Adamou 2026 on the time interpretation of expected utility theory"
+    },
+    {
+      "from": "Every utility function is growth-optimal under some dynamic",
+      "to": "The commenda splits a dynamic that has no utility representation"
+    },
+    {
+      "from": "Every utility function is growth-optimal under some dynamic",
+      "to": "The selective claim is falsifiable where the prescriptive claim is not"
+    },
+    {
+      "from": "Every utility function is growth-optimal under some dynamic",
+      "to": "The utility mapping fails exactly where absorption begins"
     },
     {
       "from": "Extending a pool along kin proximity buys N without buying decorrelation",
@@ -13847,7 +14167,15 @@
     },
     {
       "from": "Jensen supplies the gap but only the dynamic privileges the logarithm",
+      "to": "Among isoelastic transforms only the logarithm has no boundary"
+    },
+    {
+      "from": "Jensen supplies the gap but only the dynamic privileges the logarithm",
       "to": "Economics had its ensemble moment in 1738 and psychologized it"
+    },
+    {
+      "from": "Jensen supplies the gap but only the dynamic privileges the logarithm",
+      "to": "Every utility function is growth-optimal under some dynamic"
     },
     {
       "from": "Jensen supplies the gap but only the dynamic privileges the logarithm",
@@ -13876,6 +14204,10 @@
     {
       "from": "Jensen supplies the gap but only the dynamic privileges the logarithm",
       "to": "Stationarity is a precondition of ergodicity not a corollary"
+    },
+    {
+      "from": "Jensen supplies the gap but only the dynamic privileges the logarithm",
+      "to": "The 2026 Phil Trans A theme issue on ergodicity breaking"
     },
     {
       "from": "Jensen supplies the gap but only the dynamic privileges the logarithm",
@@ -15043,6 +15375,10 @@
     },
     {
       "from": "MOC - Defending the ergodicity claim",
+      "to": "Among isoelastic transforms only the logarithm has no boundary"
+    },
+    {
+      "from": "MOC - Defending the ergodicity claim",
       "to": "An absorbing barrier breaks ergodicity by construction"
     },
     {
@@ -15056,6 +15392,10 @@
     {
       "from": "MOC - Defending the ergodicity claim",
       "to": "Causal inference removes time as an interval where equilibrium removed it as iteration"
+    },
+    {
+      "from": "MOC - Defending the ergodicity claim",
+      "to": "Conditioning on survival is an ensemble operation"
     },
     {
       "from": "MOC - Defending the ergodicity claim",
@@ -15092,6 +15432,10 @@
     {
       "from": "MOC - Defending the ergodicity claim",
       "to": "Ergodicity is indecomposability not randomness"
+    },
+    {
+      "from": "MOC - Defending the ergodicity claim",
+      "to": "Every utility function is growth-optimal under some dynamic"
     },
     {
       "from": "MOC - Defending the ergodicity claim",
@@ -15171,6 +15515,10 @@
     },
     {
       "from": "MOC - Defending the ergodicity claim",
+      "to": "The 2026 Phil Trans A theme issue on ergodicity breaking"
+    },
+    {
+      "from": "MOC - Defending the ergodicity claim",
       "to": "The Brussels experiment - Vanhoyweghen et al 2022 and its sequels"
     },
     {
@@ -15235,7 +15583,15 @@
     },
     {
       "from": "MOC - Defending the ergodicity claim",
+      "to": "The time-average growth rate from cross-sections is a licensed space-for-time step"
+    },
+    {
+      "from": "MOC - Defending the ergodicity claim",
       "to": "The unfalsifiability charge is really a scope-and-productivity charge"
+    },
+    {
+      "from": "MOC - Defending the ergodicity claim",
+      "to": "The utility mapping fails exactly where absorption begins"
     },
     {
       "from": "MOC - Defending the ergodicity claim",
@@ -15260,6 +15616,10 @@
     {
       "from": "MOC - Defending the ergodicity claim",
       "to": "Toda's own example makes EE more falsifiable than expected utility"
+    },
+    {
+      "from": "MOC - Defending the ergodicity claim",
+      "to": "Under absorption the time-average criterion is an ordering not a maximand"
     },
     {
       "from": "MOC - Digitisation and text recognition",
@@ -15847,6 +16207,10 @@
     },
     {
       "from": "MOC - Ergodicity and the time-ensemble distinction",
+      "to": "Among isoelastic transforms only the logarithm has no boundary"
+    },
+    {
+      "from": "MOC - Ergodicity and the time-ensemble distinction",
       "to": "An absorbing barrier breaks ergodicity by construction"
     },
     {
@@ -15868,6 +16232,14 @@
     {
       "from": "MOC - Ergodicity and the time-ensemble distinction",
       "to": "Bad luck is what the ensemble average calls the modal trajectory"
+    },
+    {
+      "from": "MOC - Ergodicity and the time-ensemble distinction",
+      "to": "Conditioning on survival is an ensemble operation"
+    },
+    {
+      "from": "MOC - Ergodicity and the time-ensemble distinction",
+      "to": "Connaughton Lamb and Paillusson 2026 on what ergodicity is"
     },
     {
       "from": "MOC - Ergodicity and the time-ensemble distinction",
@@ -15912,6 +16284,10 @@
     {
       "from": "MOC - Ergodicity and the time-ensemble distinction",
       "to": "Ergodicity is indecomposability not randomness"
+    },
+    {
+      "from": "MOC - Ergodicity and the time-ensemble distinction",
+      "to": "Every utility function is growth-optimal under some dynamic"
     },
     {
       "from": "MOC - Ergodicity and the time-ensemble distinction",
@@ -16059,6 +16435,10 @@
     },
     {
       "from": "MOC - Ergodicity and the time-ensemble distinction",
+      "to": "Stipend debtors live at the perpetuity point"
+    },
+    {
+      "from": "MOC - Ergodicity and the time-ensemble distinction",
       "to": "Syndication and the misma moneda are pooling not prudence"
     },
     {
@@ -16083,11 +16463,19 @@
     },
     {
       "from": "MOC - Ergodicity and the time-ensemble distinction",
+      "to": "The 2026 Phil Trans A theme issue on ergodicity breaking"
+    },
+    {
+      "from": "MOC - Ergodicity and the time-ensemble distinction",
       "to": "The Nakai ledger scores as losses what present value scores as gains"
     },
     {
       "from": "MOC - Ergodicity and the time-ensemble distinction",
       "to": "The Wakker counterexample refutes expected log utility too"
+    },
+    {
+      "from": "MOC - Ergodicity and the time-ensemble distinction",
+      "to": "The commenda splits a dynamic that has no utility representation"
     },
     {
       "from": "MOC - Ergodicity and the time-ensemble distinction",
@@ -16139,7 +16527,15 @@
     },
     {
       "from": "MOC - Ergodicity and the time-ensemble distinction",
+      "to": "The time-average growth rate from cross-sections is a licensed space-for-time step"
+    },
+    {
+      "from": "MOC - Ergodicity and the time-ensemble distinction",
       "to": "The unfalsifiability charge is really a scope-and-productivity charge"
+    },
+    {
+      "from": "MOC - Ergodicity and the time-ensemble distinction",
+      "to": "The utility mapping fails exactly where absorption begins"
     },
     {
       "from": "MOC - Ergodicity and the time-ensemble distinction",
@@ -16171,7 +16567,15 @@
     },
     {
       "from": "MOC - Ergodicity and the time-ensemble distinction",
+      "to": "Under absorption the time-average criterion is an ordering not a maximand"
+    },
+    {
+      "from": "MOC - Ergodicity and the time-ensemble distinction",
       "to": "Under multiplicative dynamics the restoring force is an institutional achievement"
+    },
+    {
+      "from": "MOC - Ergodicity and the time-ensemble distinction",
+      "to": "Underwood and Paillusson 2026 on the ergodicity spectrum"
     },
     {
       "from": "MOC - European archives and digital collections",
@@ -16815,6 +17219,10 @@
     },
     {
       "from": "MOC - HistorEE",
+      "to": "Adamou Berman and Peters 2026 on the two growth rates"
+    },
+    {
+      "from": "MOC - HistorEE",
       "to": "Agent-borne capital loss clusters in local contracts"
     },
     {
@@ -16824,6 +17232,10 @@
     {
       "from": "MOC - HistorEE",
       "to": "Aktipis and Cronk on need-based transfers and herd survival"
+    },
+    {
+      "from": "MOC - HistorEE",
+      "to": "Among isoelastic transforms only the logarithm has no boundary"
     },
     {
       "from": "MOC - HistorEE",
@@ -16876,6 +17288,14 @@
     {
       "from": "MOC - HistorEE",
       "to": "Comanda record eyeball check against the print 2026-11-20"
+    },
+    {
+      "from": "MOC - HistorEE",
+      "to": "Conditioning on survival is an ensemble operation"
+    },
+    {
+      "from": "MOC - HistorEE",
+      "to": "Connaughton Lamb and Paillusson 2026 on what ergodicity is"
     },
     {
       "from": "MOC - HistorEE",
@@ -16956,6 +17376,10 @@
     {
       "from": "MOC - HistorEE",
       "to": "Ergodicity breaking and order-dependence are independent axes"
+    },
+    {
+      "from": "MOC - HistorEE",
+      "to": "Every utility function is growth-optimal under some dynamic"
     },
     {
       "from": "MOC - HistorEE",
@@ -17155,6 +17579,10 @@
     },
     {
       "from": "MOC - HistorEE",
+      "to": "Peters and Adamou 2026 on the time interpretation of expected utility theory"
+    },
+    {
+      "from": "MOC - HistorEE",
       "to": "Pooling approaches the infinite ensemble and perpetual succession the infinite horizon"
     },
     {
@@ -17184,6 +17612,10 @@
     {
       "from": "MOC - HistorEE",
       "to": "Ragusan collegantia is unilateral and Venetian collegantia is bilateral"
+    },
+    {
+      "from": "MOC - HistorEE",
+      "to": "Raposo and Pulido 2026 on additive ruin with borrowing"
     },
     {
       "from": "MOC - HistorEE",
@@ -17279,6 +17711,14 @@
     },
     {
       "from": "MOC - HistorEE",
+      "to": "Soysal 2026 on the ergodicity assumption in climate damages"
+    },
+    {
+      "from": "MOC - HistorEE",
+      "to": "Stipend debtors live at the perpetuity point"
+    },
+    {
+      "from": "MOC - HistorEE",
       "to": "Stora Kopparberg and the oldest-share claim"
     },
     {
@@ -17312,6 +17752,10 @@
     {
       "from": "MOC - HistorEE",
       "to": "Terminal wealth is permutation-invariant but survival is not"
+    },
+    {
+      "from": "MOC - HistorEE",
+      "to": "The 2026 Phil Trans A theme issue on ergodicity breaking"
     },
     {
       "from": "MOC - HistorEE",
@@ -17384,6 +17828,10 @@
     {
       "from": "MOC - HistorEE",
       "to": "The commenda family fixes the allocation of loss and proves it by the agent's oath"
+    },
+    {
+      "from": "MOC - HistorEE",
+      "to": "The commenda splits a dynamic that has no utility representation"
     },
     {
       "from": "MOC - HistorEE",
@@ -17547,7 +17995,15 @@
     },
     {
       "from": "MOC - HistorEE",
+      "to": "The time-average growth rate from cross-sections is a licensed space-for-time step"
+    },
+    {
+      "from": "MOC - HistorEE",
       "to": "The unfalsifiability charge is really a scope-and-productivity charge"
+    },
+    {
+      "from": "MOC - HistorEE",
+      "to": "The utility mapping fails exactly where absorption begins"
     },
     {
       "from": "MOC - HistorEE",
@@ -17595,7 +18051,15 @@
     },
     {
       "from": "MOC - HistorEE",
+      "to": "Under absorption the time-average criterion is an ordering not a maximand"
+    },
+    {
+      "from": "MOC - HistorEE",
       "to": "Under multiplicative dynamics the restoring force is an institutional achievement"
+    },
+    {
+      "from": "MOC - HistorEE",
+      "to": "Underwood and Paillusson 2026 on the ergodicity spectrum"
     },
     {
       "from": "MOC - HistorEE",
@@ -17608,6 +18072,10 @@
     {
       "from": "MOC - HistorEE",
       "to": "Van Dam's Beschryvinge - the VOC described by its own advocaat"
+    },
+    {
+      "from": "MOC - HistorEE",
+      "to": "Vanhoyweghen Verbeken and Ginis 2026 on absorbing boundaries"
     },
     {
       "from": "MOC - HistorEE",
@@ -21163,6 +21631,10 @@
     },
     {
       "from": "Persistence samples are conditioned on non-absorption",
+      "to": "Conditioning on survival is an ensemble operation"
+    },
+    {
+      "from": "Persistence samples are conditioned on non-absorption",
       "to": "Deep-roots variables are symplesiomorphies"
     },
     {
@@ -21268,6 +21740,70 @@
     {
       "from": "Persona ficta made the corporation a-moral ab initio",
       "to": "The waqf partition converts absence into refusal"
+    },
+    {
+      "from": "Peters and Adamou 2026 on the time interpretation of expected utility theory",
+      "to": "Among isoelastic transforms only the logarithm has no boundary"
+    },
+    {
+      "from": "Peters and Adamou 2026 on the time interpretation of expected utility theory",
+      "to": "Conditioning on survival is an ensemble operation"
+    },
+    {
+      "from": "Peters and Adamou 2026 on the time interpretation of expected utility theory",
+      "to": "Doctor Wakker and Wang 2020 on the ergodicity problem"
+    },
+    {
+      "from": "Peters and Adamou 2026 on the time interpretation of expected utility theory",
+      "to": "EE cannot rank across dynamics and the comparative project must not need it to"
+    },
+    {
+      "from": "Peters and Adamou 2026 on the time interpretation of expected utility theory",
+      "to": "Economics had its ensemble moment in 1738 and psychologized it"
+    },
+    {
+      "from": "Peters and Adamou 2026 on the time interpretation of expected utility theory",
+      "to": "Every utility function is growth-optimal under some dynamic"
+    },
+    {
+      "from": "Peters and Adamou 2026 on the time interpretation of expected utility theory",
+      "to": "Jensen supplies the gap but only the dynamic privileges the logarithm"
+    },
+    {
+      "from": "Peters and Adamou 2026 on the time interpretation of expected utility theory",
+      "to": "MOC - Defending the ergodicity claim"
+    },
+    {
+      "from": "Peters and Adamou 2026 on the time interpretation of expected utility theory",
+      "to": "MOC - Ergodicity and the time-ensemble distinction"
+    },
+    {
+      "from": "Peters and Adamou 2026 on the time interpretation of expected utility theory",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Peters and Adamou 2026 on the time interpretation of expected utility theory",
+      "to": "The 2026 Phil Trans A theme issue on ergodicity breaking"
+    },
+    {
+      "from": "Peters and Adamou 2026 on the time interpretation of expected utility theory",
+      "to": "The Copenhagen experiment - Meder et al 2021 and its pre-registered successor"
+    },
+    {
+      "from": "Peters and Adamou 2026 on the time interpretation of expected utility theory",
+      "to": "The commenda splits a dynamic that has no utility representation"
+    },
+    {
+      "from": "Peters and Adamou 2026 on the time interpretation of expected utility theory",
+      "to": "The utility mapping fails exactly where absorption begins"
+    },
+    {
+      "from": "Peters and Adamou 2026 on the time interpretation of expected utility theory",
+      "to": "Toda's citation allegations must be checked before we cite Peters"
+    },
+    {
+      "from": "Peters and Adamou 2026 on the time interpretation of expected utility theory",
+      "to": "Vanhoyweghen Verbeken and Ginis 2026 on absorbing boundaries"
     },
     {
       "from": "Polonio on the Barcelona maritime comandas 1349-1450",
@@ -21896,6 +22432,30 @@
     {
       "from": "Rajasthan State Archives - Bikaner and the princely bahis",
       "to": "Maharashtra State Archives - the Peshwa Daftar"
+    },
+    {
+      "from": "Raposo and Pulido 2026 on additive ruin with borrowing",
+      "to": "An absorbing barrier breaks ergodicity by construction"
+    },
+    {
+      "from": "Raposo and Pulido 2026 on additive ruin with borrowing",
+      "to": "MOC - Ergodicity and the time-ensemble distinction"
+    },
+    {
+      "from": "Raposo and Pulido 2026 on additive ruin with borrowing",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Raposo and Pulido 2026 on additive ruin with borrowing",
+      "to": "Stipend debtors live at the perpetuity point"
+    },
+    {
+      "from": "Raposo and Pulido 2026 on additive ruin with borrowing",
+      "to": "The 2026 Phil Trans A theme issue on ergodicity breaking"
+    },
+    {
+      "from": "Raposo and Pulido 2026 on additive ruin with borrowing",
+      "to": "The sustainability criterion assumes the ergodicity it should be testing"
     },
     {
       "from": "Rationality is a property of the policy not of the belief that produces it",
@@ -23806,6 +24366,46 @@
       "to": "The joint Hindu family is a law-report institution"
     },
     {
+      "from": "Soysal 2026 on the ergodicity assumption in climate damages",
+      "to": "Connaughton Lamb and Paillusson 2026 on what ergodicity is"
+    },
+    {
+      "from": "Soysal 2026 on the ergodicity assumption in climate damages",
+      "to": "Darwin's bee series is a space-for-time substitution that licenses possibility not pathway"
+    },
+    {
+      "from": "Soysal 2026 on the ergodicity assumption in climate damages",
+      "to": "MOC - Ergodicity and the time-ensemble distinction"
+    },
+    {
+      "from": "Soysal 2026 on the ergodicity assumption in climate damages",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Soysal 2026 on the ergodicity assumption in climate damages",
+      "to": "MOC - Historiography and method"
+    },
+    {
+      "from": "Soysal 2026 on the ergodicity assumption in climate damages",
+      "to": "Persistence samples are conditioned on non-absorption"
+    },
+    {
+      "from": "Soysal 2026 on the ergodicity assumption in climate damages",
+      "to": "The 2026 Phil Trans A theme issue on ergodicity breaking"
+    },
+    {
+      "from": "Soysal 2026 on the ergodicity assumption in climate damages",
+      "to": "The mita boundary separates two components not two points on a trajectory"
+    },
+    {
+      "from": "Soysal 2026 on the ergodicity assumption in climate damages",
+      "to": "The mita critiques establish five nulls and none is the estimand"
+    },
+    {
+      "from": "Soysal 2026 on the ergodicity assumption in climate damages",
+      "to": "The persistence literature names non-ergodicity only in its geography branch"
+    },
+    {
       "from": "Split provenance into priority and independence",
       "to": "MOC - HistorEE"
     },
@@ -24148,6 +24748,34 @@
     {
       "from": "Stiftung Hanseatisches Wirtschaftsarchiv - Hamburg",
       "to": "The German Wirtschaftsarchive - a distributed business archive"
+    },
+    {
+      "from": "Stipend debtors live at the perpetuity point",
+      "to": "An absorbing barrier breaks ergodicity by construction"
+    },
+    {
+      "from": "Stipend debtors live at the perpetuity point",
+      "to": "MOC - Entity-shielding and corporate forms"
+    },
+    {
+      "from": "Stipend debtors live at the perpetuity point",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Stipend debtors live at the perpetuity point",
+      "to": "Natie and kabu-nakama are a convergence pair"
+    },
+    {
+      "from": "Stipend debtors live at the perpetuity point",
+      "to": "Raposo and Pulido 2026 on additive ruin with borrowing"
+    },
+    {
+      "from": "Stipend debtors live at the perpetuity point",
+      "to": "Source editions - Edo Japan"
+    },
+    {
+      "from": "Stipend debtors live at the perpetuity point",
+      "to": "The sustainability criterion assumes the ergodicity it should be testing"
     },
     {
       "from": "Stockholms stadsarkiv and the Swedish town records",
@@ -24782,6 +25410,82 @@
       "to": "Time-average optimization is a survivorship property not an intention"
     },
     {
+      "from": "The 2026 Phil Trans A theme issue on ergodicity breaking",
+      "to": "Adamou Berman and Peters 2026 on the two growth rates"
+    },
+    {
+      "from": "The 2026 Phil Trans A theme issue on ergodicity breaking",
+      "to": "Among isoelastic transforms only the logarithm has no boundary"
+    },
+    {
+      "from": "The 2026 Phil Trans A theme issue on ergodicity breaking",
+      "to": "Conditioning on survival is an ensemble operation"
+    },
+    {
+      "from": "The 2026 Phil Trans A theme issue on ergodicity breaking",
+      "to": "Connaughton Lamb and Paillusson 2026 on what ergodicity is"
+    },
+    {
+      "from": "The 2026 Phil Trans A theme issue on ergodicity breaking",
+      "to": "Every utility function is growth-optimal under some dynamic"
+    },
+    {
+      "from": "The 2026 Phil Trans A theme issue on ergodicity breaking",
+      "to": "Jensen supplies the gap but only the dynamic privileges the logarithm"
+    },
+    {
+      "from": "The 2026 Phil Trans A theme issue on ergodicity breaking",
+      "to": "MOC - Defending the ergodicity claim"
+    },
+    {
+      "from": "The 2026 Phil Trans A theme issue on ergodicity breaking",
+      "to": "MOC - Ergodicity and the time-ensemble distinction"
+    },
+    {
+      "from": "The 2026 Phil Trans A theme issue on ergodicity breaking",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "The 2026 Phil Trans A theme issue on ergodicity breaking",
+      "to": "Peters and Adamou 2026 on the time interpretation of expected utility theory"
+    },
+    {
+      "from": "The 2026 Phil Trans A theme issue on ergodicity breaking",
+      "to": "Raposo and Pulido 2026 on additive ruin with borrowing"
+    },
+    {
+      "from": "The 2026 Phil Trans A theme issue on ergodicity breaking",
+      "to": "Soysal 2026 on the ergodicity assumption in climate damages"
+    },
+    {
+      "from": "The 2026 Phil Trans A theme issue on ergodicity breaking",
+      "to": "Stipend debtors live at the perpetuity point"
+    },
+    {
+      "from": "The 2026 Phil Trans A theme issue on ergodicity breaking",
+      "to": "The commenda splits a dynamic that has no utility representation"
+    },
+    {
+      "from": "The 2026 Phil Trans A theme issue on ergodicity breaking",
+      "to": "The time-average growth rate from cross-sections is a licensed space-for-time step"
+    },
+    {
+      "from": "The 2026 Phil Trans A theme issue on ergodicity breaking",
+      "to": "The utility mapping fails exactly where absorption begins"
+    },
+    {
+      "from": "The 2026 Phil Trans A theme issue on ergodicity breaking",
+      "to": "Under absorption the time-average criterion is an ordering not a maximand"
+    },
+    {
+      "from": "The 2026 Phil Trans A theme issue on ergodicity breaking",
+      "to": "Underwood and Paillusson 2026 on the ergodicity spectrum"
+    },
+    {
+      "from": "The 2026 Phil Trans A theme issue on ergodicity breaking",
+      "to": "Vanhoyweghen Verbeken and Ginis 2026 on absorbing boundaries"
+    },
+    {
       "from": "The Adriatic scope edge - Kotor and the modern borders",
       "to": "Drzavni arhiv u Zadru"
     },
@@ -25092,6 +25796,10 @@
     {
       "from": "The Brussels experiment - Vanhoyweghen et al 2022 and its sequels",
       "to": "The laboratory tests the choice and the archive tests the pool"
+    },
+    {
+      "from": "The Brussels experiment - Vanhoyweghen et al 2022 and its sequels",
+      "to": "Vanhoyweghen Verbeken and Ginis 2026 on absorbing boundaries"
     },
     {
       "from": "The Business Archives Council and the UK business archives",
@@ -26512,6 +27220,50 @@
     {
       "from": "The commenda family fixes the allocation of loss and proves it by the agent's oath",
       "to": "loss_mitigation_forms"
+    },
+    {
+      "from": "The commenda splits a dynamic that has no utility representation",
+      "to": "Comanda capital was mixed with the agent's own unless the contract said otherwise"
+    },
+    {
+      "from": "The commenda splits a dynamic that has no utility representation",
+      "to": "EE cannot rank across dynamics and the comparative project must not need it to"
+    },
+    {
+      "from": "The commenda splits a dynamic that has no utility representation",
+      "to": "Every utility function is growth-optimal under some dynamic"
+    },
+    {
+      "from": "The commenda splits a dynamic that has no utility representation",
+      "to": "Isqa qirad and commenda are a liability-variable triad"
+    },
+    {
+      "from": "The commenda splits a dynamic that has no utility representation",
+      "to": "MOC - Ergodicity and the time-ensemble distinction"
+    },
+    {
+      "from": "The commenda splits a dynamic that has no utility representation",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "The commenda splits a dynamic that has no utility representation",
+      "to": "MOC - Risk-sharing vs risk-pricing"
+    },
+    {
+      "from": "The commenda splits a dynamic that has no utility representation",
+      "to": "Peters and Adamou 2026 on the time interpretation of expected utility theory"
+    },
+    {
+      "from": "The commenda splits a dynamic that has no utility representation",
+      "to": "The commenda family fixes the allocation of loss and proves it by the agent's oath"
+    },
+    {
+      "from": "The commenda splits a dynamic that has no utility representation",
+      "to": "Time-average optimization is a survivorship property not an intention"
+    },
+    {
+      "from": "The commenda splits a dynamic that has no utility representation",
+      "to": "Unilateral and bilateral commenda collapse on profit and separate on loss"
     },
     {
       "from": "The contingent asiento is a missing form in loss_mitigation_forms",
@@ -28071,6 +28823,10 @@
     },
     {
       "from": "The persistence literature names non-ergodicity only in its geography branch",
+      "to": "Soysal 2026 on the ergodicity assumption in climate damages"
+    },
+    {
+      "from": "The persistence literature names non-ergodicity only in its geography branch",
       "to": "The word ergodic carries four incompatible senses"
     },
     {
@@ -28770,6 +29526,42 @@
       "to": "Toda 2023 on ergodicity economics as pseudoscience"
     },
     {
+      "from": "The time-average growth rate from cross-sections is a licensed space-for-time step",
+      "to": "A refutation that shares the estimand inherits the defect"
+    },
+    {
+      "from": "The time-average growth rate from cross-sections is a licensed space-for-time step",
+      "to": "Adamou Berman and Peters 2026 on the two growth rates"
+    },
+    {
+      "from": "The time-average growth rate from cross-sections is a licensed space-for-time step",
+      "to": "Conditioning on survival is an ensemble operation"
+    },
+    {
+      "from": "The time-average growth rate from cross-sections is a licensed space-for-time step",
+      "to": "Licensing the ensemble is a dynamical question not a metaphysical one"
+    },
+    {
+      "from": "The time-average growth rate from cross-sections is a licensed space-for-time step",
+      "to": "MOC - Defending the ergodicity claim"
+    },
+    {
+      "from": "The time-average growth rate from cross-sections is a licensed space-for-time step",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "The time-average growth rate from cross-sections is a licensed space-for-time step",
+      "to": "MOC - Historiography and method"
+    },
+    {
+      "from": "The time-average growth rate from cross-sections is a licensed space-for-time step",
+      "to": "Soysal 2026 on the ergodicity assumption in climate damages"
+    },
+    {
+      "from": "The time-average growth rate from cross-sections is a licensed space-for-time step",
+      "to": "The ascent narrative is the Jensen error as historiography"
+    },
+    {
       "from": "The tontine is pooling in form and dispersal in function",
       "to": "Absorbing barrier"
     },
@@ -28914,6 +29706,50 @@
       "to": "Toda's own example makes EE more falsifiable than expected utility"
     },
     {
+      "from": "The utility mapping fails exactly where absorption begins",
+      "to": "Among isoelastic transforms only the logarithm has no boundary"
+    },
+    {
+      "from": "The utility mapping fails exactly where absorption begins",
+      "to": "An absorbing barrier breaks ergodicity by construction"
+    },
+    {
+      "from": "The utility mapping fails exactly where absorption begins",
+      "to": "Conditioning on survival is an ensemble operation"
+    },
+    {
+      "from": "The utility mapping fails exactly where absorption begins",
+      "to": "Every utility function is growth-optimal under some dynamic"
+    },
+    {
+      "from": "The utility mapping fails exactly where absorption begins",
+      "to": "MOC - Defending the ergodicity claim"
+    },
+    {
+      "from": "The utility mapping fails exactly where absorption begins",
+      "to": "MOC - Ergodicity and the time-ensemble distinction"
+    },
+    {
+      "from": "The utility mapping fails exactly where absorption begins",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "The utility mapping fails exactly where absorption begins",
+      "to": "Peters and Adamou 2026 on the time interpretation of expected utility theory"
+    },
+    {
+      "from": "The utility mapping fails exactly where absorption begins",
+      "to": "The published critique never engages absorption"
+    },
+    {
+      "from": "The utility mapping fails exactly where absorption begins",
+      "to": "Under absorption the time-average criterion is an ordering not a maximand"
+    },
+    {
+      "from": "The utility mapping fails exactly where absorption begins",
+      "to": "Vanhoyweghen Verbeken and Ginis 2026 on absorbing boundaries"
+    },
+    {
       "from": "The waqf and the nación flamenca diverge only at legal personality",
       "to": "Entity-shielding"
     },
@@ -29023,6 +29859,10 @@
     },
     {
       "from": "The word ergodic carries four incompatible senses",
+      "to": "Connaughton Lamb and Paillusson 2026 on what ergodicity is"
+    },
+    {
+      "from": "The word ergodic carries four incompatible senses",
       "to": "Economics had its ensemble moment in 1738 and psychologized it"
     },
     {
@@ -29056,6 +29896,10 @@
     {
       "from": "The word ergodic carries four incompatible senses",
       "to": "Stationarity is a precondition of ergodicity not a corollary"
+    },
+    {
+      "from": "The word ergodic carries four incompatible senses",
+      "to": "Underwood and Paillusson 2026 on the ergodicity spectrum"
     },
     {
       "from": "Thjodskjalasafn Islands - Iceland",
@@ -29586,6 +30430,34 @@
       "to": "organizational_forms"
     },
     {
+      "from": "Under absorption the time-average criterion is an ordering not a maximand",
+      "to": "An absorbing barrier breaks ergodicity by construction"
+    },
+    {
+      "from": "Under absorption the time-average criterion is an ordering not a maximand",
+      "to": "MOC - Defending the ergodicity claim"
+    },
+    {
+      "from": "Under absorption the time-average criterion is an ordering not a maximand",
+      "to": "MOC - Ergodicity and the time-ensemble distinction"
+    },
+    {
+      "from": "Under absorption the time-average criterion is an ordering not a maximand",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Under absorption the time-average criterion is an ordering not a maximand",
+      "to": "Rationality is a property of the policy not of the belief that produces it"
+    },
+    {
+      "from": "Under absorption the time-average criterion is an ordering not a maximand",
+      "to": "The utility mapping fails exactly where absorption begins"
+    },
+    {
+      "from": "Under absorption the time-average criterion is an ordering not a maximand",
+      "to": "Vanhoyweghen Verbeken and Ginis 2026 on absorbing boundaries"
+    },
+    {
       "from": "Under multiplicative dynamics the restoring force is an institutional achievement",
       "to": "A persistence parameter stable across regime change indicts the measure"
     },
@@ -29628,6 +30500,54 @@
     {
       "from": "Under multiplicative dynamics the restoring force is an institutional achievement",
       "to": "Time-homogeneity not stationarity is what removes time"
+    },
+    {
+      "from": "Underwood and Paillusson 2026 on the ergodicity spectrum",
+      "to": "Attractor selection bounds what a persistence design can resolve"
+    },
+    {
+      "from": "Underwood and Paillusson 2026 on the ergodicity spectrum",
+      "to": "Connaughton Lamb and Paillusson 2026 on what ergodicity is"
+    },
+    {
+      "from": "Underwood and Paillusson 2026 on the ergodicity spectrum",
+      "to": "Distinguish strong from weak ergodicity breaking"
+    },
+    {
+      "from": "Underwood and Paillusson 2026 on the ergodicity spectrum",
+      "to": "Ergodicity is indecomposability not randomness"
+    },
+    {
+      "from": "Underwood and Paillusson 2026 on the ergodicity spectrum",
+      "to": "MOC - Ergodicity and the time-ensemble distinction"
+    },
+    {
+      "from": "Underwood and Paillusson 2026 on the ergodicity spectrum",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Underwood and Paillusson 2026 on the ergodicity spectrum",
+      "to": "MOC - Path dependence and sequence"
+    },
+    {
+      "from": "Underwood and Paillusson 2026 on the ergodicity spectrum",
+      "to": "Stationarity is a precondition of ergodicity not a corollary"
+    },
+    {
+      "from": "Underwood and Paillusson 2026 on the ergodicity spectrum",
+      "to": "The 2026 Phil Trans A theme issue on ergodicity breaking"
+    },
+    {
+      "from": "Underwood and Paillusson 2026 on the ergodicity spectrum",
+      "to": "The mita boundary separates two components not two points on a trajectory"
+    },
+    {
+      "from": "Underwood and Paillusson 2026 on the ergodicity spectrum",
+      "to": "The survivor case should discriminate inside a single design"
+    },
+    {
+      "from": "Underwood and Paillusson 2026 on the ergodicity spectrum",
+      "to": "The word ergodic carries four incompatible senses"
     },
     {
       "from": "Unilateral and bilateral commenda collapse on profit and separate on loss",
@@ -29828,6 +30748,54 @@
     {
       "from": "Van Dam's Beschryvinge - the VOC described by its own advocaat",
       "to": "Transkribus - managed HTR platform"
+    },
+    {
+      "from": "Vanhoyweghen Verbeken and Ginis 2026 on absorbing boundaries",
+      "to": "Absorption without ergodicity economics is just ruin theory"
+    },
+    {
+      "from": "Vanhoyweghen Verbeken and Ginis 2026 on absorbing boundaries",
+      "to": "An absorbing barrier breaks ergodicity by construction"
+    },
+    {
+      "from": "Vanhoyweghen Verbeken and Ginis 2026 on absorbing boundaries",
+      "to": "Conditioning on survival is an ensemble operation"
+    },
+    {
+      "from": "Vanhoyweghen Verbeken and Ginis 2026 on absorbing boundaries",
+      "to": "Institutions substitute state-verification for outcome-inference as ruin exposure rises"
+    },
+    {
+      "from": "Vanhoyweghen Verbeken and Ginis 2026 on absorbing boundaries",
+      "to": "MOC - Defending the ergodicity claim"
+    },
+    {
+      "from": "Vanhoyweghen Verbeken and Ginis 2026 on absorbing boundaries",
+      "to": "MOC - Ergodicity and the time-ensemble distinction"
+    },
+    {
+      "from": "Vanhoyweghen Verbeken and Ginis 2026 on absorbing boundaries",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Vanhoyweghen Verbeken and Ginis 2026 on absorbing boundaries",
+      "to": "Peters and Adamou 2026 on the time interpretation of expected utility theory"
+    },
+    {
+      "from": "Vanhoyweghen Verbeken and Ginis 2026 on absorbing boundaries",
+      "to": "The 2026 Phil Trans A theme issue on ergodicity breaking"
+    },
+    {
+      "from": "Vanhoyweghen Verbeken and Ginis 2026 on absorbing boundaries",
+      "to": "The Brussels experiment - Vanhoyweghen et al 2022 and its sequels"
+    },
+    {
+      "from": "Vanhoyweghen Verbeken and Ginis 2026 on absorbing boundaries",
+      "to": "The utility mapping fails exactly where absorption begins"
+    },
+    {
+      "from": "Vanhoyweghen Verbeken and Ginis 2026 on absorbing boundaries",
+      "to": "Under absorption the time-average criterion is an ordering not a maximand"
     },
     {
       "from": "Visby and the Gotland sea law",

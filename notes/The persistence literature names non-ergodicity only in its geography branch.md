@@ -28,12 +28,17 @@ The deep-roots critiques — Kelly (2020), Conley and Kelly, Casey and Klemp, Vo
 
 Maseland (2021) re-runs 43 deep determinants at successive dates and classifies their trajectories as persistence, multiple equilibria or regime transition. The effects neither hold constant nor wane slowly; they rise or peak around 2000, which he reads as a hybrid of multiple equilibria and regime transitions. This is the closest thing in print to WP3's re-analysis, done without the vocabulary, and Part 2 must cite it. Maseland (2017), on the declining weight of colonial legacies in Africa, is its companion.
 
+## A fourth branch, added 2026-11-21
+
+**Climate econometrics.** Soysal (2026), from inside LML, names the ergodicity assumption in regression-based climate-damage projections, under the keyword *space-for-time substitution*, and shows an absorbing state (a flooded region) sufficient to invalidate it. It does not touch persistence regressions, so the deep-roots gap stands; it is the nearest published statement of WP3's argument in any field. See [[Soysal 2026 on the ergodicity assumption in climate damages]].
+
 ## Consequence for the text
 
-Narrow the claim: the property has been named in path-dependence theory, in convergence empirics and in economic geography, but never as a condition on reading a deep-roots coefficient as within-society propagation. Cite Wolf 2025, Bernard and Durlauf 1996, Heckman 1991, Stachurski 2003 and Maseland 2021. The guardrail is [[Do not claim history-dependence as the novelty]].
+Narrow the claim: the property has been named in path-dependence theory, in convergence empirics and in economic geography, but never as a condition on reading a deep-roots coefficient as within-society propagation. Cite Wolf 2025, Bernard and Durlauf 1996, Heckman 1991, Stachurski 2003 and Maseland 2021. The guardrail is [[Do not claim history-dependence as the novelty]]. Part 1 §3 now adds, since 2026-11-21: "Soysal (2026) has since named it for climate econometrics."
 
 ## Links
 
+- [[Soysal 2026 on the ergodicity assumption in climate damages]]
 - [[Distinguish strong from weak ergodicity breaking]]
 - [[The word ergodic carries four incompatible senses]]
 - [[Do not claim history-dependence as the novelty]]
