@@ -28,6 +28,8 @@ Source note. The Brussels group's formal paper: the time-average decision framew
 - **It formalises the noise–ruin distinction** on which the Objective 1 prediction against Holmström turns, and is cited at the head of the WP1 epistemics paragraph. The worked example is the shape of that prediction: equal expectation, different exposure to ruin. See [[Institutions substitute state-verification for outcome-inference as ruin exposure rises]].
 - **It decides the Bernoulli question by implication.** Because the representation depends on the starting point, the boundary and, in two regimes, the horizon, no fixed utility of wealth reproduces it — [[The utility mapping fails exactly where absorption begins]]. The authors do not draw the inference. Cited at Part 1 §1.
 
+- **It makes the barrier an independent route to the hypothesis.** How far it departs from Peters is set out at [[Peters's growth criterion is the boundary-free case of the first-passage ordering]]; why that matters for the application, and the three text changes it prompted on 2026-11-21, at [[The absorbing barrier is a second route to the hypothesis not a sharpening of the first]].
+
 ## What must not be cited from it
 
 - **$g_\theta$ is not a time average.** Each path's asymptotic growth is $g$ or zero; $g_\theta$ is the ensemble expectation of that two-point outcome — [[Conditioning on survival is an ensemble operation]]. Cite the paper for boundary-dependence, never for the formula.
@@ -35,6 +37,8 @@ Source note. The Brussels group's formal paper: the time-average decision framew
 
 ## Links
 
+- [[Peters's growth criterion is the boundary-free case of the first-passage ordering]]
+- [[The absorbing barrier is a second route to the hypothesis not a sharpening of the first]]
 - [[The 2026 Phil Trans A theme issue on ergodicity breaking]]
 - [[Peters and Adamou 2026 on the time interpretation of expected utility theory]]
 - [[The Brussels experiment - Vanhoyweghen et al 2022 and its sequels]]

@@ -248,7 +248,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Absorption without ergodicity economics is just ruin theory",
-      "value": 40,
+      "value": 42,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -311,7 +311,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Among isoelastic transforms only the logarithm has no boundary",
-      "value": 18,
+      "value": 19,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -329,7 +329,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "An absorbing barrier breaks ergodicity by construction",
-      "value": 70,
+      "value": 71,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1202,7 +1202,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Conditioning on survival is an ensemble operation",
-      "value": 23,
+      "value": 24,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1229,7 +1229,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Cooperation is an averaging puzzle and sovereign repayment is a barrier puzzle",
-      "value": 42,
+      "value": 43,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1805,7 +1805,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Galton-Watson is the extinction branch Peters named and did not develop",
-      "value": 47,
+      "value": 48,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -3128,7 +3128,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Perpetual succession redefines the unit of survival from a line to a union of lines",
-      "value": 20,
+      "value": 21,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -3146,7 +3146,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Persistence samples are conditioned on non-absorption",
-      "value": 72,
+      "value": 73,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -3173,8 +3173,17 @@
       "type": "source",
       "group": "source",
       "label": "Peters and Adamou 2026 on the time interpretation of expected utility theory",
-      "value": 27,
+      "value": 28,
       "color": "#7570b3",
+      "shape": "dot"
+    },
+    {
+      "id": "Peters's growth criterion is the boundary-free case of the first-passage ordering",
+      "type": "permanent",
+      "group": "seed",
+      "label": "Peters's growth criterion is the boundary-free case of the first-passage ordering",
+      "value": 20,
+      "color": "#e6ab02",
       "shape": "dot"
     },
     {
@@ -3200,7 +3209,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Pooling pays only where ventures grow on average",
-      "value": 17,
+      "value": 18,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -4591,6 +4600,15 @@
       "shape": "dot"
     },
     {
+      "id": "The absorbing barrier is a second route to the hypothesis not a sharpening of the first",
+      "type": "permanent",
+      "group": "seed",
+      "label": "The absorbing barrier is a second route to the hypothesis not a sharpening of the first",
+      "value": 24,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
       "id": "The alleenrecht is monopoly held as tradable property",
       "type": "permanent",
       "group": "seed",
@@ -5135,7 +5153,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The published critique never engages absorption",
-      "value": 48,
+      "value": 49,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -5333,7 +5351,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The utility mapping fails exactly where absorption begins",
-      "value": 23,
+      "value": 25,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -5531,7 +5549,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Under absorption pooling raises the probability of ruin to the power of the pool",
-      "value": 42,
+      "value": 45,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -5540,7 +5558,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Under absorption the time-average criterion is an ordering not a maximand",
-      "value": 16,
+      "value": 17,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -5621,7 +5639,7 @@
       "type": "source",
       "group": "source",
       "label": "Vanhoyweghen Verbeken and Ginis 2026 on absorbing boundaries",
-      "value": 23,
+      "value": 29,
       "color": "#7570b3",
       "shape": "dot"
     },
@@ -5828,7 +5846,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Defending the ergodicity claim",
-      "value": 146,
+      "value": 150,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -5873,7 +5891,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Ergodicity and the time-ensemble distinction",
-      "value": 238,
+      "value": 242,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -5918,7 +5936,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - HistorEE",
-      "value": 606,
+      "value": 610,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -7167,6 +7185,10 @@
     {
       "from": "Absorption without ergodicity economics is just ruin theory",
       "to": "Persistence samples are conditioned on non-absorption"
+    },
+    {
+      "from": "Absorption without ergodicity economics is just ruin theory",
+      "to": "The absorbing barrier is a second route to the hypothesis not a sharpening of the first"
     },
     {
       "from": "Absorption without ergodicity economics is just ruin theory",
@@ -15654,6 +15676,10 @@
     },
     {
       "from": "MOC - Defending the ergodicity claim",
+      "to": "Peters's growth criterion is the boundary-free case of the first-passage ordering"
+    },
+    {
+      "from": "MOC - Defending the ergodicity claim",
       "to": "Practice answers the problem as posed and the proof says which problem that was"
     },
     {
@@ -15699,6 +15725,10 @@
     {
       "from": "MOC - Defending the ergodicity claim",
       "to": "The Wakker counterexample refutes expected log utility too"
+    },
+    {
+      "from": "MOC - Defending the ergodicity claim",
+      "to": "The absorbing barrier is a second route to the hypothesis not a sharpening of the first"
     },
     {
       "from": "MOC - Defending the ergodicity claim",
@@ -16562,6 +16592,10 @@
     },
     {
       "from": "MOC - Ergodicity and the time-ensemble distinction",
+      "to": "Peters's growth criterion is the boundary-free case of the first-passage ordering"
+    },
+    {
+      "from": "MOC - Ergodicity and the time-ensemble distinction",
       "to": "Pooling approaches the infinite ensemble and perpetual succession the infinite horizon"
     },
     {
@@ -16667,6 +16701,10 @@
     {
       "from": "MOC - Ergodicity and the time-ensemble distinction",
       "to": "The Wakker counterexample refutes expected log utility too"
+    },
+    {
+      "from": "MOC - Ergodicity and the time-ensemble distinction",
+      "to": "The absorbing barrier is a second route to the hypothesis not a sharpening of the first"
     },
     {
       "from": "MOC - Ergodicity and the time-ensemble distinction",
@@ -17798,6 +17836,10 @@
     },
     {
       "from": "MOC - HistorEE",
+      "to": "Peters's growth criterion is the boundary-free case of the first-passage ordering"
+    },
+    {
+      "from": "MOC - HistorEE",
       "to": "Pooling approaches the infinite ensemble and perpetual succession the infinite horizon"
     },
     {
@@ -18011,6 +18053,10 @@
     {
       "from": "MOC - HistorEE",
       "to": "The Wakker counterexample refutes expected log utility too"
+    },
+    {
+      "from": "MOC - HistorEE",
+      "to": "The absorbing barrier is a second route to the hypothesis not a sharpening of the first"
     },
     {
       "from": "MOC - HistorEE",
@@ -22130,6 +22176,54 @@
     },
     {
       "from": "Peters and Adamou 2026 on the time interpretation of expected utility theory",
+      "to": "Vanhoyweghen Verbeken and Ginis 2026 on absorbing boundaries"
+    },
+    {
+      "from": "Peters's growth criterion is the boundary-free case of the first-passage ordering",
+      "to": "Among isoelastic transforms only the logarithm has no boundary"
+    },
+    {
+      "from": "Peters's growth criterion is the boundary-free case of the first-passage ordering",
+      "to": "Conditioning on survival is an ensemble operation"
+    },
+    {
+      "from": "Peters's growth criterion is the boundary-free case of the first-passage ordering",
+      "to": "Galton-Watson is the extinction branch Peters named and did not develop"
+    },
+    {
+      "from": "Peters's growth criterion is the boundary-free case of the first-passage ordering",
+      "to": "MOC - Defending the ergodicity claim"
+    },
+    {
+      "from": "Peters's growth criterion is the boundary-free case of the first-passage ordering",
+      "to": "MOC - Ergodicity and the time-ensemble distinction"
+    },
+    {
+      "from": "Peters's growth criterion is the boundary-free case of the first-passage ordering",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Peters's growth criterion is the boundary-free case of the first-passage ordering",
+      "to": "Peters and Adamou 2026 on the time interpretation of expected utility theory"
+    },
+    {
+      "from": "Peters's growth criterion is the boundary-free case of the first-passage ordering",
+      "to": "The absorbing barrier is a second route to the hypothesis not a sharpening of the first"
+    },
+    {
+      "from": "Peters's growth criterion is the boundary-free case of the first-passage ordering",
+      "to": "The utility mapping fails exactly where absorption begins"
+    },
+    {
+      "from": "Peters's growth criterion is the boundary-free case of the first-passage ordering",
+      "to": "Under absorption pooling raises the probability of ruin to the power of the pool"
+    },
+    {
+      "from": "Peters's growth criterion is the boundary-free case of the first-passage ordering",
+      "to": "Under absorption the time-average criterion is an ordering not a maximand"
+    },
+    {
+      "from": "Peters's growth criterion is the boundary-free case of the first-passage ordering",
       "to": "Vanhoyweghen Verbeken and Ginis 2026 on absorbing boundaries"
     },
     {
@@ -27041,6 +27135,62 @@
       "to": "The published critique never engages absorption"
     },
     {
+      "from": "The absorbing barrier is a second route to the hypothesis not a sharpening of the first",
+      "to": "Absorption without ergodicity economics is just ruin theory"
+    },
+    {
+      "from": "The absorbing barrier is a second route to the hypothesis not a sharpening of the first",
+      "to": "An absorbing barrier breaks ergodicity by construction"
+    },
+    {
+      "from": "The absorbing barrier is a second route to the hypothesis not a sharpening of the first",
+      "to": "Cooperation is an averaging puzzle and sovereign repayment is a barrier puzzle"
+    },
+    {
+      "from": "The absorbing barrier is a second route to the hypothesis not a sharpening of the first",
+      "to": "MOC - Defending the ergodicity claim"
+    },
+    {
+      "from": "The absorbing barrier is a second route to the hypothesis not a sharpening of the first",
+      "to": "MOC - Ergodicity and the time-ensemble distinction"
+    },
+    {
+      "from": "The absorbing barrier is a second route to the hypothesis not a sharpening of the first",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "The absorbing barrier is a second route to the hypothesis not a sharpening of the first",
+      "to": "Perpetual succession redefines the unit of survival from a line to a union of lines"
+    },
+    {
+      "from": "The absorbing barrier is a second route to the hypothesis not a sharpening of the first",
+      "to": "Persistence samples are conditioned on non-absorption"
+    },
+    {
+      "from": "The absorbing barrier is a second route to the hypothesis not a sharpening of the first",
+      "to": "Peters's growth criterion is the boundary-free case of the first-passage ordering"
+    },
+    {
+      "from": "The absorbing barrier is a second route to the hypothesis not a sharpening of the first",
+      "to": "Pooling pays only where ventures grow on average"
+    },
+    {
+      "from": "The absorbing barrier is a second route to the hypothesis not a sharpening of the first",
+      "to": "The published critique never engages absorption"
+    },
+    {
+      "from": "The absorbing barrier is a second route to the hypothesis not a sharpening of the first",
+      "to": "The utility mapping fails exactly where absorption begins"
+    },
+    {
+      "from": "The absorbing barrier is a second route to the hypothesis not a sharpening of the first",
+      "to": "Under absorption pooling raises the probability of ruin to the power of the pool"
+    },
+    {
+      "from": "The absorbing barrier is a second route to the hypothesis not a sharpening of the first",
+      "to": "Vanhoyweghen Verbeken and Ginis 2026 on absorbing boundaries"
+    },
+    {
       "from": "The alleenrecht is monopoly held as tradable property",
       "to": "Entity-shielding"
     },
@@ -31286,11 +31436,19 @@
     },
     {
       "from": "Vanhoyweghen Verbeken and Ginis 2026 on absorbing boundaries",
+      "to": "Peters's growth criterion is the boundary-free case of the first-passage ordering"
+    },
+    {
+      "from": "Vanhoyweghen Verbeken and Ginis 2026 on absorbing boundaries",
       "to": "The 2026 Phil Trans A theme issue on ergodicity breaking"
     },
     {
       "from": "Vanhoyweghen Verbeken and Ginis 2026 on absorbing boundaries",
       "to": "The Brussels experiment - Vanhoyweghen et al 2022 and its sequels"
+    },
+    {
+      "from": "Vanhoyweghen Verbeken and Ginis 2026 on absorbing boundaries",
+      "to": "The absorbing barrier is a second route to the hypothesis not a sharpening of the first"
     },
     {
       "from": "Vanhoyweghen Verbeken and Ginis 2026 on absorbing boundaries",

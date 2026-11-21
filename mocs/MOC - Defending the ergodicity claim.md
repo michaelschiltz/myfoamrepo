@@ -66,6 +66,11 @@ The programme's founders concede the Bernoulli identity and generalise it; the s
 - [[Conditioning on survival is an ensemble operation]] — what must not be cited from either absorption paper
 - [[The time-average growth rate from cross-sections is a licensed space-for-time step]] — say it before the referee does
 
+## The barrier as an independent route (2026-11-21)
+
+- [[The absorbing barrier is a second route to the hypothesis not a sharpening of the first]] — the hypothesis has two sufficient conditions, compounding and an absorbing loss; Part 1 §1 and Part 2 §0 now say so
+- [[Peters's growth criterion is the boundary-free case of the first-passage ordering]] — what the first-passage ordering shares with Peters and what it adds
+
 ## Tier 4 — guardrails
 
 What must not be claimed. Each exists because the overreach it forbids is tempting and fatal.

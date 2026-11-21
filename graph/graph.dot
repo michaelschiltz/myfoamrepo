@@ -354,6 +354,7 @@ digraph vault {
   "Persistence stationarity and mobility literature" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
   "Persona ficta made the corporation a-moral ab initio" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Peters and Adamou 2026 on the time interpretation of expected utility theory" [fillcolor="#7570b3", fontcolor=white, shape=ellipse];
+  "Peters's growth criterion is the boundary-free case of the first-passage ordering" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Polonio on the Barcelona maritime comandas 1349-1450" [fillcolor="#7570b3", fontcolor=white, shape=ellipse];
   "Pooling approaches the infinite ensemble and perpetual succession the infinite horizon" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Pooling pays only where ventures grow on average" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
@@ -511,6 +512,7 @@ digraph vault {
   "The VOC-EIC digital asymmetry is an access regime not a survival difference" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "The Virtual Record Treasury and reconstruction as method" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
   "The Wakker counterexample refutes expected log utility too" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
+  "The absorbing barrier is a second route to the hypothesis not a sharpening of the first" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "The alleenrecht is monopoly held as tradable property" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "The amana-daman structure refuses to infer fault from loss" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "The amirautes - a series across the coastal departments" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
@@ -950,6 +952,7 @@ digraph vault {
   "Absorption without ergodicity economics is just ruin theory" -> "MOC - HistorEE";
   "Absorption without ergodicity economics is just ruin theory" -> "MOC - Historiography and method";
   "Absorption without ergodicity economics is just ruin theory" -> "Persistence samples are conditioned on non-absorption";
+  "Absorption without ergodicity economics is just ruin theory" -> "The absorbing barrier is a second route to the hypothesis not a sharpening of the first";
   "Absorption without ergodicity economics is just ruin theory" -> "The market selection literature is the project's nearest formal neighbour";
   "Absorption without ergodicity economics is just ruin theory" -> "The published critique never engages absorption";
   "Absorption without ergodicity economics is just ruin theory" -> "The sustainability criterion assumes the ergodicity it should be testing";
@@ -3071,6 +3074,7 @@ digraph vault {
   "MOC - Defending the ergodicity claim" -> "MOC - Historiography and method";
   "MOC - Defending the ergodicity claim" -> "MOC - Path dependence and sequence";
   "MOC - Defending the ergodicity claim" -> "Nothing in the ergodic theorem fails in geometric Brownian motion";
+  "MOC - Defending the ergodicity claim" -> "Peters's growth criterion is the boundary-free case of the first-passage ordering";
   "MOC - Defending the ergodicity claim" -> "Practice answers the problem as posed and the proof says which problem that was";
   "MOC - Defending the ergodicity claim" -> "Prospect theory's parameters are neither population constants nor individual traits";
   "MOC - Defending the ergodicity claim" -> "Rationality is a property of the policy not of the belief that produces it";
@@ -3083,6 +3087,7 @@ digraph vault {
   "MOC - Defending the ergodicity claim" -> "The Brussels experiment - Vanhoyweghen et al 2022 and its sequels";
   "MOC - Defending the ergodicity claim" -> "The Copenhagen experiment - Meder et al 2021 and its pre-registered successor";
   "MOC - Defending the ergodicity claim" -> "The Wakker counterexample refutes expected log utility too";
+  "MOC - Defending the ergodicity claim" -> "The absorbing barrier is a second route to the hypothesis not a sharpening of the first";
   "MOC - Defending the ergodicity claim" -> "The growth-rate criterion is asymptotic and the horizon comparison cuts both ways";
   "MOC - Defending the ergodicity claim" -> "The laboratory tests the choice and the archive tests the pool";
   "MOC - Defending the ergodicity claim" -> "The market selection literature is the project's nearest formal neighbour";
@@ -3298,6 +3303,7 @@ digraph vault {
   "MOC - Ergodicity and the time-ensemble distinction" -> "Nothing in the ergodic theorem fails in geometric Brownian motion";
   "MOC - Ergodicity and the time-ensemble distinction" -> "Perpetual succession redefines the unit of survival from a line to a union of lines";
   "MOC - Ergodicity and the time-ensemble distinction" -> "Persistence samples are conditioned on non-absorption";
+  "MOC - Ergodicity and the time-ensemble distinction" -> "Peters's growth criterion is the boundary-free case of the first-passage ordering";
   "MOC - Ergodicity and the time-ensemble distinction" -> "Pooling approaches the infinite ensemble and perpetual succession the infinite horizon";
   "MOC - Ergodicity and the time-ensemble distinction" -> "Pooling pays only where ventures grow on average";
   "MOC - Ergodicity and the time-ensemble distinction" -> "Practice answers the problem as posed and the proof says which problem that was";
@@ -3325,6 +3331,7 @@ digraph vault {
   "MOC - Ergodicity and the time-ensemble distinction" -> "The 2026 Phil Trans A theme issue on ergodicity breaking";
   "MOC - Ergodicity and the time-ensemble distinction" -> "The Nakai ledger scores as losses what present value scores as gains";
   "MOC - Ergodicity and the time-ensemble distinction" -> "The Wakker counterexample refutes expected log utility too";
+  "MOC - Ergodicity and the time-ensemble distinction" -> "The absorbing barrier is a second route to the hypothesis not a sharpening of the first";
   "MOC - Ergodicity and the time-ensemble distinction" -> "The commenda splits a dynamic that has no utility representation";
   "MOC - Ergodicity and the time-ensemble distinction" -> "The ensemble average is the local descriptor of a barrier-shielded agent";
   "MOC - Ergodicity and the time-ensemble distinction" -> "The expectation value describes a pool that re-shares not a population";
@@ -3607,6 +3614,7 @@ digraph vault {
   "MOC - HistorEE" -> "Perpetual succession redefines the unit of survival from a line to a union of lines";
   "MOC - HistorEE" -> "Persistence stationarity and mobility literature";
   "MOC - HistorEE" -> "Peters and Adamou 2026 on the time interpretation of expected utility theory";
+  "MOC - HistorEE" -> "Peters's growth criterion is the boundary-free case of the first-passage ordering";
   "MOC - HistorEE" -> "Pooling approaches the infinite ensemble and perpetual succession the infinite horizon";
   "MOC - HistorEE" -> "Pooling pays only where ventures grow on average";
   "MOC - HistorEE" -> "Pooling raises the rate and individuation draws the boundary";
@@ -3661,6 +3669,7 @@ digraph vault {
   "MOC - HistorEE" -> "The Kux carries transferability with unlimited liability";
   "MOC - HistorEE" -> "The Roman universitas makes the JSC case parallelism not convergence";
   "MOC - HistorEE" -> "The Wakker counterexample refutes expected log utility too";
+  "MOC - HistorEE" -> "The absorbing barrier is a second route to the hypothesis not a sharpening of the first";
   "MOC - HistorEE" -> "The alleenrecht is monopoly held as tradable property";
   "MOC - HistorEE" -> "The amana-daman structure refuses to infer fault from loss";
   "MOC - HistorEE" -> "The ascent narrative is the Jensen error as historiography";
@@ -4691,6 +4700,18 @@ digraph vault {
   "Peters and Adamou 2026 on the time interpretation of expected utility theory" -> "The utility mapping fails exactly where absorption begins";
   "Peters and Adamou 2026 on the time interpretation of expected utility theory" -> "Toda's citation allegations must be checked before we cite Peters";
   "Peters and Adamou 2026 on the time interpretation of expected utility theory" -> "Vanhoyweghen Verbeken and Ginis 2026 on absorbing boundaries";
+  "Peters's growth criterion is the boundary-free case of the first-passage ordering" -> "Among isoelastic transforms only the logarithm has no boundary";
+  "Peters's growth criterion is the boundary-free case of the first-passage ordering" -> "Conditioning on survival is an ensemble operation";
+  "Peters's growth criterion is the boundary-free case of the first-passage ordering" -> "Galton-Watson is the extinction branch Peters named and did not develop";
+  "Peters's growth criterion is the boundary-free case of the first-passage ordering" -> "MOC - Defending the ergodicity claim";
+  "Peters's growth criterion is the boundary-free case of the first-passage ordering" -> "MOC - Ergodicity and the time-ensemble distinction";
+  "Peters's growth criterion is the boundary-free case of the first-passage ordering" -> "MOC - HistorEE";
+  "Peters's growth criterion is the boundary-free case of the first-passage ordering" -> "Peters and Adamou 2026 on the time interpretation of expected utility theory";
+  "Peters's growth criterion is the boundary-free case of the first-passage ordering" -> "The absorbing barrier is a second route to the hypothesis not a sharpening of the first";
+  "Peters's growth criterion is the boundary-free case of the first-passage ordering" -> "The utility mapping fails exactly where absorption begins";
+  "Peters's growth criterion is the boundary-free case of the first-passage ordering" -> "Under absorption pooling raises the probability of ruin to the power of the pool";
+  "Peters's growth criterion is the boundary-free case of the first-passage ordering" -> "Under absorption the time-average criterion is an ordering not a maximand";
+  "Peters's growth criterion is the boundary-free case of the first-passage ordering" -> "Vanhoyweghen Verbeken and Ginis 2026 on absorbing boundaries";
   "Polonio on the Barcelona maritime comandas 1349-1450" -> "Arxiu Historic de Protocols de Barcelona";
   "Polonio on the Barcelona maritime comandas 1349-1450" -> "MOC - HistorEE";
   "Polonio on the Barcelona maritime comandas 1349-1450" -> "MOC - Spanish archives";
@@ -5918,6 +5939,20 @@ digraph vault {
   "The Wakker counterexample refutes expected log utility too" -> "Terminal wealth is permutation-invariant but survival is not";
   "The Wakker counterexample refutes expected log utility too" -> "The growth-rate criterion is asymptotic and the horizon comparison cuts both ways";
   "The Wakker counterexample refutes expected log utility too" -> "The published critique never engages absorption";
+  "The absorbing barrier is a second route to the hypothesis not a sharpening of the first" -> "Absorption without ergodicity economics is just ruin theory";
+  "The absorbing barrier is a second route to the hypothesis not a sharpening of the first" -> "An absorbing barrier breaks ergodicity by construction";
+  "The absorbing barrier is a second route to the hypothesis not a sharpening of the first" -> "Cooperation is an averaging puzzle and sovereign repayment is a barrier puzzle";
+  "The absorbing barrier is a second route to the hypothesis not a sharpening of the first" -> "MOC - Defending the ergodicity claim";
+  "The absorbing barrier is a second route to the hypothesis not a sharpening of the first" -> "MOC - Ergodicity and the time-ensemble distinction";
+  "The absorbing barrier is a second route to the hypothesis not a sharpening of the first" -> "MOC - HistorEE";
+  "The absorbing barrier is a second route to the hypothesis not a sharpening of the first" -> "Perpetual succession redefines the unit of survival from a line to a union of lines";
+  "The absorbing barrier is a second route to the hypothesis not a sharpening of the first" -> "Persistence samples are conditioned on non-absorption";
+  "The absorbing barrier is a second route to the hypothesis not a sharpening of the first" -> "Peters's growth criterion is the boundary-free case of the first-passage ordering";
+  "The absorbing barrier is a second route to the hypothesis not a sharpening of the first" -> "Pooling pays only where ventures grow on average";
+  "The absorbing barrier is a second route to the hypothesis not a sharpening of the first" -> "The published critique never engages absorption";
+  "The absorbing barrier is a second route to the hypothesis not a sharpening of the first" -> "The utility mapping fails exactly where absorption begins";
+  "The absorbing barrier is a second route to the hypothesis not a sharpening of the first" -> "Under absorption pooling raises the probability of ruin to the power of the pool";
+  "The absorbing barrier is a second route to the hypothesis not a sharpening of the first" -> "Vanhoyweghen Verbeken and Ginis 2026 on absorbing boundaries";
   "The alleenrecht is monopoly held as tradable property" -> "Entity-shielding";
   "The alleenrecht is monopoly held as tradable property" -> "MOC - Entity-shielding and corporate forms";
   "The alleenrecht is monopoly held as tradable property" -> "MOC - HistorEE";
@@ -6979,8 +7014,10 @@ digraph vault {
   "Vanhoyweghen Verbeken and Ginis 2026 on absorbing boundaries" -> "MOC - Ergodicity and the time-ensemble distinction";
   "Vanhoyweghen Verbeken and Ginis 2026 on absorbing boundaries" -> "MOC - HistorEE";
   "Vanhoyweghen Verbeken and Ginis 2026 on absorbing boundaries" -> "Peters and Adamou 2026 on the time interpretation of expected utility theory";
+  "Vanhoyweghen Verbeken and Ginis 2026 on absorbing boundaries" -> "Peters's growth criterion is the boundary-free case of the first-passage ordering";
   "Vanhoyweghen Verbeken and Ginis 2026 on absorbing boundaries" -> "The 2026 Phil Trans A theme issue on ergodicity breaking";
   "Vanhoyweghen Verbeken and Ginis 2026 on absorbing boundaries" -> "The Brussels experiment - Vanhoyweghen et al 2022 and its sequels";
+  "Vanhoyweghen Verbeken and Ginis 2026 on absorbing boundaries" -> "The absorbing barrier is a second route to the hypothesis not a sharpening of the first";
   "Vanhoyweghen Verbeken and Ginis 2026 on absorbing boundaries" -> "The utility mapping fails exactly where absorption begins";
   "Vanhoyweghen Verbeken and Ginis 2026 on absorbing boundaries" -> "Under absorption the time-average criterion is an ordering not a maximand";
   "Visby and the Gotland sea law" -> "A migrated institution collects local names not local forms";

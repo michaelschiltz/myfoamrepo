@@ -394,3 +394,5 @@ Project hub for the book. Atomic notes hang off both this project MOC and a them
 - [[Perpetual succession redefines the unit of survival from a line to a union of lines]]
 - [[The proverbs of diversification state the rule and omit its conditions]]
 - [[Bernoulli split Sempronius's cargo by the logarithm and Roy by the probability of disaster]]
+- [[Peters's growth criterion is the boundary-free case of the first-passage ordering]]
+- [[The absorbing barrier is a second route to the hypothesis not a sharpening of the first]]

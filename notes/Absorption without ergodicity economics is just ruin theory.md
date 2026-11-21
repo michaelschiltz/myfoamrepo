@@ -40,6 +40,7 @@ The objection is not fully answered, and pretending otherwise would be the failu
 
 ## Links
 
+- [[The absorbing barrier is a second route to the hypothesis not a sharpening of the first]] — since 2026-11-21 the barrier carries the hypothesis independently, so this objection now applies in full
 - [[The published critique never engages absorption]]
 - [[Galton-Watson is the extinction branch Peters named and did not develop]]
 - [[The market selection literature is the project's nearest formal neighbour]]
