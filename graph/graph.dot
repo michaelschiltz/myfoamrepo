@@ -1709,6 +1709,7 @@ digraph vault {
   "Conditioning on survival is an ensemble operation" -> "The record of non-survivors survives where failure was administered";
   "Conditioning on survival is an ensemble operation" -> "Time-average optimization is a survivorship property not an intention";
   "Conditioning on survival is an ensemble operation" -> "Vanhoyweghen Verbeken and Ginis 2026 on absorbing boundaries";
+  "Connaughton Lamb and Paillusson 2026 on what ergodicity is" -> "Conditioning on survival is an ensemble operation";
   "Connaughton Lamb and Paillusson 2026 on what ergodicity is" -> "Ergodicity is indecomposability not randomness";
   "Connaughton Lamb and Paillusson 2026 on what ergodicity is" -> "Licensing the ensemble is a dynamical question not a metaphysical one";
   "Connaughton Lamb and Paillusson 2026 on what ergodicity is" -> "MOC - Defending the ergodicity claim";
@@ -1716,8 +1717,11 @@ digraph vault {
   "Connaughton Lamb and Paillusson 2026 on what ergodicity is" -> "MOC - HistorEE";
   "Connaughton Lamb and Paillusson 2026 on what ergodicity is" -> "Soysal 2026 on the ergodicity assumption in climate damages";
   "Connaughton Lamb and Paillusson 2026 on what ergodicity is" -> "The 2026 Phil Trans A theme issue on ergodicity breaking";
+  "Connaughton Lamb and Paillusson 2026 on what ergodicity is" -> "The absorbing barrier is a second route to the hypothesis not a sharpening of the first";
   "Connaughton Lamb and Paillusson 2026 on what ergodicity is" -> "The word ergodic carries four incompatible senses";
+  "Connaughton Lamb and Paillusson 2026 on what ergodicity is" -> "Under absorption pooling raises the probability of ruin to the power of the pool";
   "Connaughton Lamb and Paillusson 2026 on what ergodicity is" -> "Underwood and Paillusson 2026 on the ergodicity spectrum";
+  "Connaughton Lamb and Paillusson 2026 on what ergodicity is" -> "Vanhoyweghen Verbeken and Ginis 2026 on absorbing boundaries";
   "Consulado de Burgos - the universidad de mercaderes" -> "Archivo Foral de Bizkaia - the Consulado de Bilbao";
   "Consulado de Burgos - the universidad de mercaderes" -> "Identity-wrapper and perpetual-monopoly are distinct shielding facets";
   "Consulado de Burgos - the universidad de mercaderes" -> "MOC - Acquisitions and the antiquarian trade";

@@ -30,6 +30,22 @@ Source note. The theme issue's introduction, co-written by the project's corresp
 
 An introduction, not a result. It supplies vocabulary and a hierarchy, and the test that cashes the hierarchy is Underwood and Paillusson's — [[Underwood and Paillusson 2026 on the ergodicity spectrum]]. The acknowledgements thank Peters and Soysal for comments on the draft.
 
+## Addendum 2026-11-22 — where absorption sits in the paper's framework
+
+Reread in full from page images. The paper names three ways the ergodicity question fails and does not name absorption: "absorbing" never occurs, and Vanhoyweghen, Verbeken and Ginis 2026 appear only in the opening list of contributions, filed under behavioural science (ref. 7, p. 2). Raposo and Pulido (ref. 6), whose subject is additive ruin, are cited in §5 for their transformation of mixed additive–multiplicative increments, not for the ruin (p. 13).
+
+- **§2, decomposition (pp. 3–5).** Several ergodic invariant measures; the time average depends on the initial condition (doubling map). "Every non-ergodic invariant measure is the weighted average of two or more ergodic invariant measures" (p. 4). Kac's lemma ties ergodic measures to recurrence (p. 5).
+- **§4, infinite ergodicity (pp. 9–11).** Non-normalisable invariant measure, infinite mean return time, sublinear cumulative sums with a random limit, trajectories keeping order-1 differences forever (simple random walk, $S_N \sim c\sqrt N$; Pomeau–Manneville map with its "sticky" neutral fixed point).
+- **§5, non-stationarity (pp. 11–13).** Multiplicative random walk, $\lambda = \mathbb E[\log z] < \mu = \log \mathbb E[z]$ by Jensen; the growth rate is the observable with equality of averages (eq. 5.9); Box–Cox family as the ergodicity transformation (eq. 5.10). The section opens by calling it "arguably misleading" to describe non-stationary processes as "non-ergodic", since ergodicity in §§2–3 is a property of stationary systems (p. 11).
+
+**Absorption mapped onto it (ours, not the paper's).**
+
+1. *Escape possible* (Vanhoyweghen regime I): paths split into an absorbed class, whose time average is the barrier, and an escaped class growing at $g$ — a decomposition in the §2 sense. Vanhoyweghen's $g_\theta = (1-p)g$ is exactly a weighted average of components, with weights $p$ and $1-p$, which confirms that $g_\theta$ is an ensemble quantity ([[Conditioning on survival is an ensemble operation]]). Pooling lowers the weight on the absorbed component from $p$ to $p^N$ ([[Under absorption pooling raises the probability of ruin to the power of the pool]]).
+2. *Driftless* (regime III): the §4 random walk with a barrier. First-passage time to the barrier has infinite mean, the same heavy tail that makes the free walk infinitely ergodic.
+3. *Absorption certain*: trivially ergodic in the limit, since every path ends at the barrier. The time–ensemble difference exists only over finite horizons, which is where the §6 operational notion applies.
+
+**Consequence for the application.** Both of the project's routes fail ergodicity in the strict §§2–3 sense only loosely: multiplicative growth is non-stationary, absorption ends recurrence. The usage survives in the §6 sense, equality of averages for the observable at issue, which Part 2 already invokes with this citation. Part 1 should not speak of "non-ergodic dynamics" without that anchor where the co-author will read it. For the note to Connaughton and Peters, question (b) is best put in this vocabulary: is absorption a decomposition in the §2 sense, with pooling lowering the weight on the absorbed component?
+
 ## Links
 
 - [[The 2026 Phil Trans A theme issue on ergodicity breaking]]
@@ -41,6 +57,10 @@ An introduction, not a result. It supplies vocabulary and a hierarchy, and the t
 - [[MOC - Defending the ergodicity claim]]
 - [[MOC - Ergodicity and the time-ensemble distinction]]
 - [[MOC - HistorEE]]
+- [[Under absorption pooling raises the probability of ruin to the power of the pool]]
+- [[Conditioning on survival is an ensemble operation]]
+- [[Vanhoyweghen Verbeken and Ginis 2026 on absorbing boundaries]]
+- [[The absorbing barrier is a second route to the hypothesis not a sharpening of the first]]
 
 ## Source
 

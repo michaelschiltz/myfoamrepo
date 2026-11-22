@@ -1211,7 +1211,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Conditioning on survival is an ensemble operation",
-      "value": 26,
+      "value": 28,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1220,7 +1220,7 @@
       "type": "source",
       "group": "source",
       "label": "Connaughton Lamb and Paillusson 2026 on what ergodicity is",
-      "value": 20,
+      "value": 26,
       "color": "#7570b3",
       "shape": "dot"
     },
@@ -4649,7 +4649,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The absorbing barrier is a second route to the hypothesis not a sharpening of the first",
-      "value": 26,
+      "value": 27,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -5594,7 +5594,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Under absorption pooling raises the probability of ruin to the power of the pool",
-      "value": 56,
+      "value": 58,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -5684,7 +5684,7 @@
       "type": "source",
       "group": "source",
       "label": "Vanhoyweghen Verbeken and Ginis 2026 on absorbing boundaries",
-      "value": 30,
+      "value": 31,
       "color": "#7570b3",
       "shape": "dot"
     },
@@ -10241,6 +10241,10 @@
     },
     {
       "from": "Connaughton Lamb and Paillusson 2026 on what ergodicity is",
+      "to": "Conditioning on survival is an ensemble operation"
+    },
+    {
+      "from": "Connaughton Lamb and Paillusson 2026 on what ergodicity is",
       "to": "Ergodicity is indecomposability not randomness"
     },
     {
@@ -10269,11 +10273,23 @@
     },
     {
       "from": "Connaughton Lamb and Paillusson 2026 on what ergodicity is",
+      "to": "The absorbing barrier is a second route to the hypothesis not a sharpening of the first"
+    },
+    {
+      "from": "Connaughton Lamb and Paillusson 2026 on what ergodicity is",
       "to": "The word ergodic carries four incompatible senses"
     },
     {
       "from": "Connaughton Lamb and Paillusson 2026 on what ergodicity is",
+      "to": "Under absorption pooling raises the probability of ruin to the power of the pool"
+    },
+    {
+      "from": "Connaughton Lamb and Paillusson 2026 on what ergodicity is",
       "to": "Underwood and Paillusson 2026 on the ergodicity spectrum"
+    },
+    {
+      "from": "Connaughton Lamb and Paillusson 2026 on what ergodicity is",
+      "to": "Vanhoyweghen Verbeken and Ginis 2026 on absorbing boundaries"
     },
     {
       "from": "Consulado de Burgos - the universidad de mercaderes",
