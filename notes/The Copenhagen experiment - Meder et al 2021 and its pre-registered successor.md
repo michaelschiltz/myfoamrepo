@@ -37,7 +37,16 @@ Risk aversion rises under multiplicative dynamics, and the fitted η cluster nea
 
 Skjold, Benjamin, Simon R. Steinkamp, Colm Connaughton, Oliver J. Hulme and Ole Peters. 2026. "Ergodicity Transformations Predict Human Decision-Making under Risk." *PLOS Computational Biology* 22 (7). DOI `10.1371/journal.pcbi.1014409`.
 
-Pre-registered; wealth updated on every trial; a separate utility function estimated for each dynamic by Bayesian modelling. It reports strong evidence for the model's quantitative predictions, with risk-taking shifting quickly with the dynamic and close to the growth-optimal values. **Not in the library; abstract read only**; sample size and the handling of the Ford–Kay design points unchecked. Probably the published form of the OSF preprint "Are Risk Preferences Optimal?" listed under *To acquire* at [[Ford and Kay 2023 on growth-optimal decision making]] [verify].
+Published 20 July 2026 (received 23 September 2025, accepted 4 June 2026). Checked against the article page 2026-11-22; full text not yet in Zotero.
+
+- **Registered report.** Pre-registered on OSF before data collection as "Are Risk Preferences Optimal?" (doi:10.31219/osf.io/ew2sx, 2023) — so the *To acquire* item at [[Ford and Kay 2023 on growth-optimal decision making]] is this paper's protocol. Stopping rule: Bayes factor above 10, minimum 50, maximum 150 participants.
+- **Sample.** 68 recruited, 10 excluded (2 inclusion criteria, 8 below 80% on the no-brainer task), 58 analysed, aged 18–48.
+- **Design.** Within participant, additive and multiplicative sessions; order randomised per participant (formal counterbalancing not described); break of more than 10 minutes between sessions. Wealth updated on every learning and decision trial; payment DKK 500 plus DKK 0–5,000 proportional to final in-game wealth. This removes Meder's day-order confound.
+- **Hypotheses.** (1) the ergodicity model predicts the quantitative values; (2) weak form: η higher under multiplicative than additive dynamics. Rival: expected utility with a fixed individual utility function.
+- **Results.** Group-level multiplicative η: mode 1.062, 95% CI [0.655, 1.463]. Additive η "slightly higher" than 0 (value in a figure, not read). All 58 participants show higher η under multiplicative dynamics. Strong evidence for the weak form and extreme evidence for the quantitative form against fixed-utility EUT (Bayes factors in figures, not read). Model comparison across three datasets: PXP for the ergodicity model 0.999 (this study), 0.982 (pilot), 0.986 (Meder et al. data).
+- **What it does not do.** No comparison with prospect theory; Ford and Kay and Doctor, Wakker and Wang not addressed on the article page. The environment-dependent-curvature objection above therefore stands. Authors' own limits: short timeframe, no real losses, unexplained additive estimate above 0, lab-to-world generalisation not established, earlier replication supports the qualitative pattern mainly.
+
+**Cited in Part 1 §1 beside Meder et al. 2021 (2026-11-22).**
 
 ## Links
 
