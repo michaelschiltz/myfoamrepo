@@ -57,8 +57,13 @@ Part 2 pre-commits to naming a canonical persistence result the critique is expe
 
 So the pre-committed case should be sought among designs with modest effects, or with observables that plausibly mix quickly, and the selection criterion should be stated in those terms *before* the case is chosen. Pre-committing to a headline result and then finding it ergodic would be the more impressive outcome; it is also the less likely one, and promising it is a hostage.
 
+## Qualified 2026-11-23
+
+The relaxation-time inequality above holds only under homogeneous steady states and regular coupling. In general a long-horizon coefficient tends to the alignment of the initial configuration with steady-state differences and bounds no relaxation time; the fork also needs a third reading, fixed heterogeneity. See [[A long-horizon persistence coefficient bounds no relaxation time]].
+
 ## Links
 
+- [[A long-horizon persistence coefficient bounds no relaxation time]]
 - [[Ergodicity is indecomposability not randomness]]
 - [[Distinguish strong from weak ergodicity breaking]]
 - [[Retrodiction fails on non-invertibility not on induction]]

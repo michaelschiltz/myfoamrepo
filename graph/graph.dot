@@ -4,6 +4,7 @@ digraph vault {
   "A blind is a property of the channel not of the dataset" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "A blind re-coding is only blind if the value sets are" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "A claim set chosen after the coding reports the analyst" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
+  "A common shock defeats the pool through its mean loading and the cross-section through its dispersion" [fillcolor="#666666", fontcolor=white, shape=ellipse];
   "A concealed premium is evidence about the notary not about the price" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "A constant projection matrix has no ergodicity content" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "A contingency clause priced at zero is evidence for a time-average criterion" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
@@ -11,6 +12,7 @@ digraph vault {
   "A difference between coded forms is a difference of evidence, vocabulary or form" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "A fair wager lowers both trajectories which maysir forbids and skin in the game permits" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "A heuristic is defended by its error distribution not by its accuracy" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
+  "A long-horizon persistence coefficient bounds no relaxation time" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "A migrated institution collects local names not local forms" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "A perfectly correlated peril leaves only the time average" [fillcolor="#1b9e77", fontcolor=white, shape=ellipse];
   "A persistence parameter stable across regime change indicts the measure" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
@@ -135,6 +137,7 @@ digraph vault {
   "Comanda primary pass coding and adjudication 2026-10-27" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
   "Comanda record eyeball check against the print 2026-11-20" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
   "Comanda records corrected from the Madurell translation 2026-11-03" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
+  "Common shocks leave the cross-section a single realisation" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Conditioning on survival is an ensemble operation" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Connaughton Lamb and Paillusson 2026 on what ergodicity is" [fillcolor="#7570b3", fontcolor=white, shape=ellipse];
   "Consulado de Burgos - the universidad de mercaderes" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
@@ -270,6 +273,7 @@ digraph vault {
   "Kadijski spisi - the kadi documents at Dubrovnik" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
   "Kamer van Assurantie en Averij - Amsterdam" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
   "Kansallisarkisto - Finland" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
+  "Kelly 2026 on the mechanisms of historical persistence" [fillcolor="#7570b3", fontcolor=white, shape=ellipse];
   "Kuran's brake is a refusal of immortal entities" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Kuyud-i Kadime Arsivi - Ankara" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
   "Kuzushiji OCR - the NDL and CODH stack" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
@@ -576,6 +580,7 @@ digraph vault {
   "The opgeld prices the peril without separating it from interest" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "The optimum does not identify the route that reached it" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "The ortoq is the discriminating instrument" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
+  "The persistence coefficient fails even where the dynamics are ergodic" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "The persistence literature names non-ergodicity only in its geography branch" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "The proverbs of diversification state the rule and omit its conditions" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "The published critique never engages absorption" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
@@ -708,6 +713,13 @@ digraph vault {
   "A claim set chosen after the coding reports the analyst" -> "The morphological matrix is dictated by the shape of the feature space";
   "A claim set chosen after the coding reports the analyst" -> "loss_mitigation_forms";
   "A claim set chosen after the coding reports the analyst" -> "organizational_forms";
+  "A common shock defeats the pool through its mean loading and the cross-section through its dispersion" -> "A perfectly correlated peril leaves only the time average";
+  "A common shock defeats the pool through its mean loading and the cross-section through its dispersion" -> "Common shocks leave the cross-section a single realisation";
+  "A common shock defeats the pool through its mean loading and the cross-section through its dispersion" -> "Kelly 2026 on the mechanisms of historical persistence";
+  "A common shock defeats the pool through its mean loading and the cross-section through its dispersion" -> "MOC - Ergodicity and the time-ensemble distinction";
+  "A common shock defeats the pool through its mean loading and the cross-section through its dispersion" -> "MOC - HistorEE";
+  "A common shock defeats the pool through its mean loading and the cross-section through its dispersion" -> "MOC - Risk-sharing vs risk-pricing";
+  "A common shock defeats the pool through its mean loading and the cross-section through its dispersion" -> "Pooling's sign is set by the correlation of its baskets";
   "A concealed premium is evidence about the notary not about the price" -> "Insurance is a split-off from the sea loan not a coordinate mechanism";
   "A concealed premium is evidence about the notary not about the price" -> "MOC - HistorEE";
   "A concealed premium is evidence about the notary not about the price" -> "MOC - Risk-sharing vs risk-pricing";
@@ -778,6 +790,17 @@ digraph vault {
   "A heuristic is defended by its error distribution not by its accuracy" -> "The Brussels experiment - Vanhoyweghen et al 2022 and its sequels";
   "A heuristic is defended by its error distribution not by its accuracy" -> "The laboratory tests the choice and the archive tests the pool";
   "A heuristic is defended by its error distribution not by its accuracy" -> "Time-average optimization is a survivorship property not an intention";
+  "A long-horizon persistence coefficient bounds no relaxation time" -> "A significant persistence coefficient is evidence against its own licensing condition";
+  "A long-horizon persistence coefficient bounds no relaxation time" -> "Attractor selection bounds what a persistence design can resolve";
+  "A long-horizon persistence coefficient bounds no relaxation time" -> "Distinguish strong from weak ergodicity breaking";
+  "A long-horizon persistence coefficient bounds no relaxation time" -> "Kelly 2026 on the mechanisms of historical persistence";
+  "A long-horizon persistence coefficient bounds no relaxation time" -> "MOC - ERC Synergy Grant";
+  "A long-horizon persistence coefficient bounds no relaxation time" -> "MOC - Ergodicity and the time-ensemble distinction";
+  "A long-horizon persistence coefficient bounds no relaxation time" -> "MOC - HistorEE";
+  "A long-horizon persistence coefficient bounds no relaxation time" -> "MOC - Historiography and method";
+  "A long-horizon persistence coefficient bounds no relaxation time" -> "Recovery to the old configuration is not evidence of a single attractor";
+  "A long-horizon persistence coefficient bounds no relaxation time" -> "The persistence coefficient fails even where the dynamics are ergodic";
+  "A long-horizon persistence coefficient bounds no relaxation time" -> "Voigtlander and Voth measured the relaxation time and reported a mixture";
   "A migrated institution collects local names not local forms" -> "Borrow the diagnostics not the tree";
   "A migrated institution collects local names not local forms" -> "MOC - HistorEE";
   "A migrated institution collects local names not local forms" -> "MOC - Historiography and method";
@@ -900,6 +923,7 @@ digraph vault {
   "A scheme for extending the entity census" -> "organizational_forms";
   "A shared compilation never licenses an inference to shared practice" -> "MOC - HistorEE";
   "A shared compilation never licenses an inference to shared practice" -> "MOC - Historiography and method";
+  "A significant persistence coefficient is evidence against its own licensing condition" -> "A long-horizon persistence coefficient bounds no relaxation time";
   "A significant persistence coefficient is evidence against its own licensing condition" -> "A persistence parameter stable across regime change indicts the measure";
   "A significant persistence coefficient is evidence against its own licensing condition" -> "Attractor selection bounds what a persistence design can resolve";
   "A significant persistence coefficient is evidence against its own licensing condition" -> "Deep-roots variables are symplesiomorphies";
@@ -1700,6 +1724,15 @@ digraph vault {
   "Comanda records corrected from the Madurell translation 2026-11-03" -> "The OCR text layer evidences a clause's presence, not its absence";
   "Comanda records corrected from the Madurell translation 2026-11-03" -> "loss_mitigation_forms";
   "Comanda records corrected from the Madurell translation 2026-11-03" -> "organizational_forms";
+  "Common shocks leave the cross-section a single realisation" -> "A common shock defeats the pool through its mean loading and the cross-section through its dispersion";
+  "Common shocks leave the cross-section a single realisation" -> "Ergodicity is indecomposability not randomness";
+  "Common shocks leave the cross-section a single realisation" -> "Kelly 2026 on the mechanisms of historical persistence";
+  "Common shocks leave the cross-section a single realisation" -> "MOC - Ergodicity and the time-ensemble distinction";
+  "Common shocks leave the cross-section a single realisation" -> "MOC - HistorEE";
+  "Common shocks leave the cross-section a single realisation" -> "MOC - Historiography and method";
+  "Common shocks leave the cross-section a single realisation" -> "Stationarity is a precondition of ergodicity not a corollary";
+  "Common shocks leave the cross-section a single realisation" -> "The persistence coefficient fails even where the dynamics are ergodic";
+  "Common shocks leave the cross-section a single realisation" -> "The three Kelly critiques establish different nulls";
   "Conditioning on survival is an ensemble operation" -> "MOC - Ergodicity and the time-ensemble distinction";
   "Conditioning on survival is an ensemble operation" -> "MOC - HistorEE";
   "Conditioning on survival is an ensemble operation" -> "MOC - Historiography and method";
@@ -2827,6 +2860,18 @@ digraph vault {
   "Kansallisarkisto - Finland" -> "MOC - Nordic archives";
   "Kansallisarkisto - Finland" -> "Nordic archives online - the access layers";
   "Kansallisarkisto - Finland" -> "Riksarkivet Sweden - the national archives and the AI lab";
+  "Kelly 2026 on the mechanisms of historical persistence" -> "A common shock defeats the pool through its mean loading and the cross-section through its dispersion";
+  "Kelly 2026 on the mechanisms of historical persistence" -> "A long-horizon persistence coefficient bounds no relaxation time";
+  "Kelly 2026 on the mechanisms of historical persistence" -> "Common shocks leave the cross-section a single realisation";
+  "Kelly 2026 on the mechanisms of historical persistence" -> "MOC - Ergodicity and the time-ensemble distinction";
+  "Kelly 2026 on the mechanisms of historical persistence" -> "MOC - HistorEE";
+  "Kelly 2026 on the mechanisms of historical persistence" -> "MOC - Historiography and method";
+  "Kelly 2026 on the mechanisms of historical persistence" -> "Persistence stationarity and mobility literature";
+  "Kelly 2026 on the mechanisms of historical persistence" -> "The persistence coefficient fails even where the dynamics are ergodic";
+  "Kelly 2026 on the mechanisms of historical persistence" -> "The persistence literature names non-ergodicity only in its geography branch";
+  "Kelly 2026 on the mechanisms of historical persistence" -> "The three Kelly critiques establish different nulls";
+  "Kelly 2026 on the mechanisms of historical persistence" -> "Time-average optimization is a survivorship property not an intention";
+  "Kelly 2026 on the mechanisms of historical persistence" -> "Voigtlander and Voth measured the relaxation time and reported a mixture";
   "Kuran's brake is a refusal of immortal entities" -> "Guard against reverse-teleology";
   "Kuran's brake is a refusal of immortal entities" -> "Lock-in and outcome-coupling are distinct bindings";
   "Kuran's brake is a refusal of immortal entities" -> "MOC - HistorEE";
@@ -3286,6 +3331,7 @@ digraph vault {
   "MOC - Entity-shielding and corporate forms" -> "Where ko rules name a bearer beyond the drawer's security it follows the drafting regime";
   "MOC - Entity-shielding and corporate forms" -> "Who answers for a ko member's default was drafted not given";
   "MOC - Entity-shielding and corporate forms" -> "Yui 1934 - the law of ko and who bears a member's default";
+  "MOC - Ergodicity and the time-ensemble distinction" -> "A common shock defeats the pool through its mean loading and the cross-section through its dispersion";
   "MOC - Ergodicity and the time-ensemble distinction" -> "A constant projection matrix has no ergodicity content";
   "MOC - Ergodicity and the time-ensemble distinction" -> "A contingency clause priced at zero is evidence for a time-average criterion";
   "MOC - Ergodicity and the time-ensemble distinction" -> "A decaying surname mean cannot separate one process from a mixture of lineages";
@@ -3308,6 +3354,7 @@ digraph vault {
   "MOC - Ergodicity and the time-ensemble distinction" -> "Attractor selection bounds what a persistence design can resolve";
   "MOC - Ergodicity and the time-ensemble distinction" -> "Bad luck is what the ensemble average calls the modal trajectory";
   "MOC - Ergodicity and the time-ensemble distinction" -> "Bernoulli split Sempronius's cargo by the logarithm and Roy by the probability of disaster";
+  "MOC - Ergodicity and the time-ensemble distinction" -> "Common shocks leave the cross-section a single realisation";
   "MOC - Ergodicity and the time-ensemble distinction" -> "Conditioning on survival is an ensemble operation";
   "MOC - Ergodicity and the time-ensemble distinction" -> "Connaughton Lamb and Paillusson 2026 on what ergodicity is";
   "MOC - Ergodicity and the time-ensemble distinction" -> "Cooperation is an averaging puzzle and sovereign repayment is a barrier puzzle";
@@ -3378,6 +3425,7 @@ digraph vault {
   "MOC - Ergodicity and the time-ensemble distinction" -> "The expectation value describes a pool that re-shares not a population";
   "MOC - Ergodicity and the time-ensemble distinction" -> "The growth-rate criterion is asymptotic and the horizon comparison cuts both ways";
   "MOC - Ergodicity and the time-ensemble distinction" -> "The market selection literature is the project's nearest formal neighbour";
+  "MOC - Ergodicity and the time-ensemble distinction" -> "The persistence coefficient fails even where the dynamics are ergodic";
   "MOC - Ergodicity and the time-ensemble distinction" -> "The published critique never engages absorption";
   "MOC - Ergodicity and the time-ensemble distinction" -> "The real cut is shielded-and-pooled versus unshielded";
   "MOC - Ergodicity and the time-ensemble distinction" -> "The representative agent is the ergodicity assumption in costume";
@@ -3798,6 +3846,7 @@ digraph vault {
   "MOC - Historiography and method" -> "A claim set chosen after the coding reports the analyst";
   "MOC - Historiography and method" -> "A decaying surname mean cannot separate one process from a mixture of lineages";
   "MOC - Historiography and method" -> "A difference between coded forms is a difference of evidence, vocabulary or form";
+  "MOC - Historiography and method" -> "A long-horizon persistence coefficient bounds no relaxation time";
   "MOC - Historiography and method" -> "A migrated institution collects local names not local forms";
   "MOC - Historiography and method" -> "A persistence parameter stable across regime change indicts the measure";
   "MOC - Historiography and method" -> "A pooled null can hide trajectories that never return";
@@ -3817,6 +3866,7 @@ digraph vault {
   "MOC - Historiography and method" -> "Brown tests equality where a risk reading predicts dispersion";
   "MOC - Historiography and method" -> "Causal inference removes time as an interval where equilibrium removed it as iteration";
   "MOC - Historiography and method" -> "Clark's institution-invariant law leaves heredity as the only carrier";
+  "MOC - Historiography and method" -> "Common shocks leave the cross-section a single realisation";
   "MOC - Historiography and method" -> "Count degrees of freedom not cells";
   "MOC - Historiography and method" -> "Darwin's bee series is a space-for-time substitution that licenses possibility not pathway";
   "MOC - Historiography and method" -> "Deep-roots variables are symplesiomorphies";
@@ -3841,6 +3891,7 @@ digraph vault {
   "MOC - Historiography and method" -> "Homoplasy is the finding not the noise";
   "MOC - Historiography and method" -> "Independence of apparatus is not independence of question";
   "MOC - Historiography and method" -> "Isqa qirad and commenda are a liability-variable triad";
+  "MOC - Historiography and method" -> "Kelly 2026 on the mechanisms of historical persistence";
   "MOC - Historiography and method" -> "Kuran's brake is a refusal of immortal entities";
   "MOC - Historiography and method" -> "Kye is not a ROSCA and the equation is an artefact of comparison with mujin";
   "MOC - Historiography and method" -> "MOC - Defending the ergodicity claim";
@@ -3896,6 +3947,7 @@ digraph vault {
   "MOC - Historiography and method" -> "The notarial security clause is boilerplate and cannot carry a typology";
   "MOC - Historiography and method" -> "The optimum does not identify the route that reached it";
   "MOC - Historiography and method" -> "The ortoq is the discriminating instrument";
+  "MOC - Historiography and method" -> "The persistence coefficient fails even where the dynamics are ergodic";
   "MOC - Historiography and method" -> "The persistence literature names non-ergodicity only in its geography branch";
   "MOC - Historiography and method" -> "The qirad's antecedents are Sasanian not Sogdian";
   "MOC - Historiography and method" -> "The record of non-survivors survives where failure was administered";
@@ -6571,6 +6623,18 @@ digraph vault {
   "The ortoq is the discriminating instrument" -> "The Silk Road record is documents and the census codes chronicles";
   "The ortoq is the discriminating instrument" -> "The qirad's antecedents are Sasanian not Sogdian";
   "The ortoq is the discriminating instrument" -> "Transmission versus independent recurrence is the load-bearing test";
+  "The persistence coefficient fails even where the dynamics are ergodic" -> "A long-horizon persistence coefficient bounds no relaxation time";
+  "The persistence coefficient fails even where the dynamics are ergodic" -> "A significant persistence coefficient is evidence against its own licensing condition";
+  "The persistence coefficient fails even where the dynamics are ergodic" -> "Connaughton Lamb and Paillusson 2026 on what ergodicity is";
+  "The persistence coefficient fails even where the dynamics are ergodic" -> "Kelly 2026 on the mechanisms of historical persistence";
+  "The persistence coefficient fails even where the dynamics are ergodic" -> "Licensing the ensemble is a dynamical question not a metaphysical one";
+  "The persistence coefficient fails even where the dynamics are ergodic" -> "MOC - ERC Synergy Grant";
+  "The persistence coefficient fails even where the dynamics are ergodic" -> "MOC - Ergodicity and the time-ensemble distinction";
+  "The persistence coefficient fails even where the dynamics are ergodic" -> "MOC - HistorEE";
+  "The persistence coefficient fails even where the dynamics are ergodic" -> "MOC - Historiography and method";
+  "The persistence coefficient fails even where the dynamics are ergodic" -> "Persistence stationarity and mobility literature";
+  "The persistence coefficient fails even where the dynamics are ergodic" -> "The mita boundary separates two components not two points on a trajectory";
+  "The persistence coefficient fails even where the dynamics are ergodic" -> "The word ergodic carries four incompatible senses";
   "The persistence literature names non-ergodicity only in its geography branch" -> "Distinguish strong from weak ergodicity breaking";
   "The persistence literature names non-ergodicity only in its geography branch" -> "Do not claim history-dependence as the novelty";
   "The persistence literature names non-ergodicity only in its geography branch" -> "MOC - ERC Synergy Grant";
@@ -6755,6 +6819,7 @@ digraph vault {
   "The theory predicts recurrence not independent origins" -> "Transmission versus independent recurrence is the load-bearing test";
   "The three Kelly critiques establish different nulls" -> "Deep-roots variables are symplesiomorphies";
   "The three Kelly critiques establish different nulls" -> "Galton's problem";
+  "The three Kelly critiques establish different nulls" -> "Kelly 2026 on the mechanisms of historical persistence";
   "The three Kelly critiques establish different nulls" -> "MOC - ERC Synergy Grant";
   "The three Kelly critiques establish different nulls" -> "MOC - HistorEE";
   "The three Kelly critiques establish different nulls" -> "MOC - Historiography and method";
@@ -7114,8 +7179,10 @@ digraph vault {
   "Visby and the Gotland sea law" -> "Averijgrossen - the general average adjudications";
   "Visby and the Gotland sea law" -> "MOC - Nordic archives";
   "Visby and the Gotland sea law" -> "MOC - Risk-sharing vs risk-pricing";
+  "Voigtlander and Voth measured the relaxation time and reported a mixture" -> "A long-horizon persistence coefficient bounds no relaxation time";
   "Voigtlander and Voth measured the relaxation time and reported a mixture" -> "Deep-roots variables are symplesiomorphies";
   "Voigtlander and Voth measured the relaxation time and reported a mixture" -> "Ergodicity is indecomposability not randomness";
+  "Voigtlander and Voth measured the relaxation time and reported a mixture" -> "Kelly 2026 on the mechanisms of historical persistence";
   "Voigtlander and Voth measured the relaxation time and reported a mixture" -> "MOC - ERC Synergy Grant";
   "Voigtlander and Voth measured the relaxation time and reported a mixture" -> "MOC - HistorEE";
   "Voigtlander and Voth measured the relaxation time and reported a mixture" -> "MOC - Historiography and method";

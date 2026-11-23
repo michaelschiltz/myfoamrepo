@@ -34,8 +34,13 @@ What it delivers is a statement about the **estimand** rather than the estimator
 
 That distinction has to be stated explicitly in the WP3 text. Left implicit, the work package reads as Kelly with a Greek letter — the same failure mode [[Deep-roots variables are symplesiomorphies]] warns against when it declines to restate Galton's problem in cladistic vocabulary.
 
+## A fourth item, 2026
+
+*The Mechanisms of Historical Persistence* (2026, unrefereed working paper) is the first Kelly item that addresses the estimand: under a latent spatial VAR the persistence coefficient is a configuration-dependent mixture of a steady-state term and eigenvalues, not a structural parameter. That narrows the margin claimed above — "a statement about the estimand rather than the estimator" is no longer WP3's alone for the linear case. What remains WP3's is the non-linear regime: reducible decompositions, absorption and survivorship, which Kelly's model cannot represent. The title of this note now undercounts; renaming is left to the maintainer. See [[Kelly 2026 on the mechanisms of historical persistence]].
+
 ## Links
 
+- [[Kelly 2026 on the mechanisms of historical persistence]]
 - [[Voigtlander and Voth measured the relaxation time and reported a mixture]]
 - [[Persistence samples are conditioned on non-absorption]]
 - [[Deep-roots variables are symplesiomorphies]]

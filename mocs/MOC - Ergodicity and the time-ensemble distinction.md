@@ -184,3 +184,9 @@ Hubbed at [[MOC - Defending the ergodicity claim]]; listed here because the sour
 
 - [[A constant projection matrix has no ergodicity content]] — Bourrat's eigenvalue is deterministic; in a random environment the time-average rate is the top Lyapunov exponent (Tuljapurkar and Orzack 1980); the horizon proposal restated
 - [[Individuation moves the absorbing barrier from the member to the unit]] — in a unit the barrier is the unit's dissolution, not the member's ruin; 6.54 as nested barriers; the hive shields one way, the limited-liability corporation both
+
+## Added 2026-11-23 — Kelly's mechanisms paper
+
+- [[The persistence coefficient fails even where the dynamics are ergodic]] — the licence restated for the cross-unit ensemble
+- [[Common shocks leave the cross-section a single realisation]] — the law of large numbers across the wrong index
+- [[A common shock defeats the pool through its mean loading and the cross-section through its dispersion]] — stub; the Objective 1–3 link as a contrast, not a shared mechanism

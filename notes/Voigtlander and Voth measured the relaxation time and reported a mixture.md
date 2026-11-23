@@ -54,8 +54,15 @@ That gap is the mechanism by which a conditional-mean finding on a few per cent 
 
 Finley and Koyama attribute plague-era persecution intensity to political fragmentation — bishoprics, archbishoprics, imperial free cities — rather than to local sentiment. Becker and Pascali find the geography of German antisemitism inverting after 1517 with the Protestant loss of the moneylending advantage. Both imply the treatment proxies a structural variable with dynamics of its own, against which the paper's defence (that medieval correlates do not predict twentieth-century outcomes) is underpowered.
 
+## Added 2026-11-23 — Kelly's century series
+
+Kelly (2026, §5, pp. 17–19; unrefereed working paper) runs logits of a locality's pogrom in each century on a fourteenth-century pogrom, on the Becker–Pascali (2019) data: 13th century *p* = 0.15, 15th *p* = 0.00, 16th *p* = 0.79, 17th *p* = 0.36, with counts falling to 45, 20 and 4 in the seventeenth, eighteenth and nineteenth centuries. Separately (Table 1), re-estimating the 1928 vote in logs rather than levels raises the *p*-value on medieval pogroms to 0.11 — a specification change, not the 2020 Bavarian drop recorded in [[The three Kelly critiques establish different nulls]].
+
+For this note the series is the first direct look at intermediate dates. On the pogrom observable itself the aftershock lasts about one century and then vanishes, which is a relaxation time of that order. A 1928 correlation surviving it must be either a different, slower-relaxing observable or steady-state heterogeneity — the reading the rival accounts below supply. See [[A long-horizon persistence coefficient bounds no relaxation time]]. The data are published, so the series can be re-run by the project without relying on Kelly's paper. [verify] his logit specification before citing any figure.
+
 ## Links
 
+- [[Kelly 2026 on the mechanisms of historical persistence]]
 - [[Persistence samples are conditioned on non-absorption]]
 - [[The three Kelly critiques establish different nulls]]
 - [[Deep-roots variables are symplesiomorphies]]

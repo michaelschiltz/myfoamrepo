@@ -204,3 +204,10 @@ Where the sources for the European companies are and are not machine-readable is
 - [[A decaying surname mean cannot separate one process from a mixture of lineages]]
 - [[A stationary Gaussian AR(1) has no arrow of time]]
 - [[Persistence stationarity and mobility literature]] — reference note; Zotero `YUSEHB22`, 47 items
+
+## Added 2026-11-23 — Kelly's mechanisms paper
+
+- [[Kelly 2026 on the mechanisms of historical persistence]] — source note; unrefereed working paper, the first Kelly item on the estimand
+- [[The persistence coefficient fails even where the dynamics are ergodic]] — dynamical ergodicity is necessary, not sufficient; add homogeneous steady states and no interference
+- [[A long-horizon persistence coefficient bounds no relaxation time]] — qualifies the squeeze inequality; fixed heterogeneity as the third reading
+- [[Common shocks leave the cross-section a single realisation]] — §3.1 as Birkhoff's failure case; where spatial and temporal failures meet

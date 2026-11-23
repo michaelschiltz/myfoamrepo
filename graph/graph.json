@@ -28,6 +28,15 @@
       "shape": "dot"
     },
     {
+      "id": "A common shock defeats the pool through its mean loading and the cross-section through its dispersion",
+      "type": "permanent",
+      "group": "stub",
+      "label": "A common shock defeats the pool through its mean loading and the cross-section through its dispersion",
+      "value": 14,
+      "color": "#666666",
+      "shape": "dot"
+    },
+    {
       "id": "A concealed premium is evidence about the notary not about the price",
       "type": "permanent",
       "group": "seed",
@@ -91,6 +100,15 @@
       "shape": "dot"
     },
     {
+      "id": "A long-horizon persistence coefficient bounds no relaxation time",
+      "type": "permanent",
+      "group": "seed",
+      "label": "A long-horizon persistence coefficient bounds no relaxation time",
+      "value": 22,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
       "id": "A migrated institution collects local names not local forms",
       "type": "permanent",
       "group": "seed",
@@ -104,7 +122,7 @@
       "type": "permanent",
       "group": "superseded",
       "label": "A perfectly correlated peril leaves only the time average",
-      "value": 21,
+      "value": 22,
       "color": "#1b9e77",
       "shape": "dot"
     },
@@ -203,7 +221,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "A significant persistence coefficient is evidence against its own licensing condition",
-      "value": 41,
+      "value": 46,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -770,7 +788,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Attractor selection bounds what a persistence design can resolve",
-      "value": 45,
+      "value": 47,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1207,6 +1225,15 @@
       "shape": "dot"
     },
     {
+      "id": "Common shocks leave the cross-section a single realisation",
+      "type": "permanent",
+      "group": "seed",
+      "label": "Common shocks leave the cross-section a single realisation",
+      "value": 16,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
       "id": "Conditioning on survival is an ensemble operation",
       "type": "permanent",
       "group": "seed",
@@ -1220,7 +1247,7 @@
       "type": "source",
       "group": "source",
       "label": "Connaughton Lamb and Paillusson 2026 on what ergodicity is",
-      "value": 26,
+      "value": 28,
       "color": "#7570b3",
       "shape": "dot"
     },
@@ -1382,7 +1409,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Distinguish strong from weak ergodicity breaking",
-      "value": 31,
+      "value": 32,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -1625,7 +1652,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Ergodicity is indecomposability not randomness",
-      "value": 39,
+      "value": 40,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -2422,6 +2449,15 @@
       "shape": "dot"
     },
     {
+      "id": "Kelly 2026 on the mechanisms of historical persistence",
+      "type": "source",
+      "group": "source",
+      "label": "Kelly 2026 on the mechanisms of historical persistence",
+      "value": 28,
+      "color": "#7570b3",
+      "shape": "dot"
+    },
+    {
       "id": "Kuran's brake is a refusal of immortal entities",
       "type": "permanent",
       "group": "seed",
@@ -2552,7 +2588,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Licensing the ensemble is a dynamical question not a metaphysical one",
-      "value": 19,
+      "value": 20,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -3173,7 +3209,7 @@
       "type": "reference",
       "group": "reference",
       "label": "Persistence stationarity and mobility literature",
-      "value": 21,
+      "value": 23,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -3254,7 +3290,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Pooling's sign is set by the correlation of its baskets",
-      "value": 65,
+      "value": 67,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -3434,7 +3470,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Recovery to the old configuration is not evidence of a single attractor",
-      "value": 18,
+      "value": 19,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -4091,7 +4127,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Stationarity is a precondition of ergodicity not a corollary",
-      "value": 34,
+      "value": 35,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -5072,7 +5108,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The mita boundary separates two components not two points on a trajectory",
-      "value": 39,
+      "value": 41,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -5176,11 +5212,20 @@
       "shape": "dot"
     },
     {
+      "id": "The persistence coefficient fails even where the dynamics are ergodic",
+      "type": "permanent",
+      "group": "seed",
+      "label": "The persistence coefficient fails even where the dynamics are ergodic",
+      "value": 24,
+      "color": "#e6ab02",
+      "shape": "dot"
+    },
+    {
       "id": "The persistence literature names non-ergodicity only in its geography branch",
       "type": "permanent",
       "group": "seed",
       "label": "The persistence literature names non-ergodicity only in its geography branch",
-      "value": 27,
+      "value": 29,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -5342,7 +5387,7 @@
       "type": "reference",
       "group": "reference",
       "label": "The three Kelly critiques establish different nulls",
-      "value": 24,
+      "value": 29,
       "color": "#66a61e",
       "shape": "dot"
     },
@@ -5432,7 +5477,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The word ergodic carries four incompatible senses",
-      "value": 41,
+      "value": 43,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -5459,7 +5504,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Time-average optimization is a survivorship property not an intention",
-      "value": 69,
+      "value": 70,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -5702,7 +5747,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Voigtlander and Voth measured the relaxation time and reported a mixture",
-      "value": 33,
+      "value": 39,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -5918,7 +5963,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - ERC Synergy Grant",
-      "value": 91,
+      "value": 93,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -5936,7 +5981,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Ergodicity and the time-ensemble distinction",
-      "value": 246,
+      "value": 254,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -5981,7 +6026,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - HistorEE",
-      "value": 620,
+      "value": 625,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -5990,7 +6035,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Historiography and method",
-      "value": 278,
+      "value": 286,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -6053,7 +6098,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Risk-sharing vs risk-pricing",
-      "value": 229,
+      "value": 230,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -6234,6 +6279,34 @@
     {
       "from": "A claim set chosen after the coding reports the analyst",
       "to": "organizational_forms"
+    },
+    {
+      "from": "A common shock defeats the pool through its mean loading and the cross-section through its dispersion",
+      "to": "A perfectly correlated peril leaves only the time average"
+    },
+    {
+      "from": "A common shock defeats the pool through its mean loading and the cross-section through its dispersion",
+      "to": "Common shocks leave the cross-section a single realisation"
+    },
+    {
+      "from": "A common shock defeats the pool through its mean loading and the cross-section through its dispersion",
+      "to": "Kelly 2026 on the mechanisms of historical persistence"
+    },
+    {
+      "from": "A common shock defeats the pool through its mean loading and the cross-section through its dispersion",
+      "to": "MOC - Ergodicity and the time-ensemble distinction"
+    },
+    {
+      "from": "A common shock defeats the pool through its mean loading and the cross-section through its dispersion",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "A common shock defeats the pool through its mean loading and the cross-section through its dispersion",
+      "to": "MOC - Risk-sharing vs risk-pricing"
+    },
+    {
+      "from": "A common shock defeats the pool through its mean loading and the cross-section through its dispersion",
+      "to": "Pooling's sign is set by the correlation of its baskets"
     },
     {
       "from": "A concealed premium is evidence about the notary not about the price",
@@ -6514,6 +6587,50 @@
     {
       "from": "A heuristic is defended by its error distribution not by its accuracy",
       "to": "Time-average optimization is a survivorship property not an intention"
+    },
+    {
+      "from": "A long-horizon persistence coefficient bounds no relaxation time",
+      "to": "A significant persistence coefficient is evidence against its own licensing condition"
+    },
+    {
+      "from": "A long-horizon persistence coefficient bounds no relaxation time",
+      "to": "Attractor selection bounds what a persistence design can resolve"
+    },
+    {
+      "from": "A long-horizon persistence coefficient bounds no relaxation time",
+      "to": "Distinguish strong from weak ergodicity breaking"
+    },
+    {
+      "from": "A long-horizon persistence coefficient bounds no relaxation time",
+      "to": "Kelly 2026 on the mechanisms of historical persistence"
+    },
+    {
+      "from": "A long-horizon persistence coefficient bounds no relaxation time",
+      "to": "MOC - ERC Synergy Grant"
+    },
+    {
+      "from": "A long-horizon persistence coefficient bounds no relaxation time",
+      "to": "MOC - Ergodicity and the time-ensemble distinction"
+    },
+    {
+      "from": "A long-horizon persistence coefficient bounds no relaxation time",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "A long-horizon persistence coefficient bounds no relaxation time",
+      "to": "MOC - Historiography and method"
+    },
+    {
+      "from": "A long-horizon persistence coefficient bounds no relaxation time",
+      "to": "Recovery to the old configuration is not evidence of a single attractor"
+    },
+    {
+      "from": "A long-horizon persistence coefficient bounds no relaxation time",
+      "to": "The persistence coefficient fails even where the dynamics are ergodic"
+    },
+    {
+      "from": "A long-horizon persistence coefficient bounds no relaxation time",
+      "to": "Voigtlander and Voth measured the relaxation time and reported a mixture"
     },
     {
       "from": "A migrated institution collects local names not local forms",
@@ -7002,6 +7119,10 @@
     {
       "from": "A shared compilation never licenses an inference to shared practice",
       "to": "MOC - Historiography and method"
+    },
+    {
+      "from": "A significant persistence coefficient is evidence against its own licensing condition",
+      "to": "A long-horizon persistence coefficient bounds no relaxation time"
     },
     {
       "from": "A significant persistence coefficient is evidence against its own licensing condition",
@@ -10202,6 +10323,42 @@
     {
       "from": "Comanda records corrected from the Madurell translation 2026-11-03",
       "to": "organizational_forms"
+    },
+    {
+      "from": "Common shocks leave the cross-section a single realisation",
+      "to": "A common shock defeats the pool through its mean loading and the cross-section through its dispersion"
+    },
+    {
+      "from": "Common shocks leave the cross-section a single realisation",
+      "to": "Ergodicity is indecomposability not randomness"
+    },
+    {
+      "from": "Common shocks leave the cross-section a single realisation",
+      "to": "Kelly 2026 on the mechanisms of historical persistence"
+    },
+    {
+      "from": "Common shocks leave the cross-section a single realisation",
+      "to": "MOC - Ergodicity and the time-ensemble distinction"
+    },
+    {
+      "from": "Common shocks leave the cross-section a single realisation",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Common shocks leave the cross-section a single realisation",
+      "to": "MOC - Historiography and method"
+    },
+    {
+      "from": "Common shocks leave the cross-section a single realisation",
+      "to": "Stationarity is a precondition of ergodicity not a corollary"
+    },
+    {
+      "from": "Common shocks leave the cross-section a single realisation",
+      "to": "The persistence coefficient fails even where the dynamics are ergodic"
+    },
+    {
+      "from": "Common shocks leave the cross-section a single realisation",
+      "to": "The three Kelly critiques establish different nulls"
     },
     {
       "from": "Conditioning on survival is an ensemble operation",
@@ -14712,6 +14869,54 @@
       "to": "Riksarkivet Sweden - the national archives and the AI lab"
     },
     {
+      "from": "Kelly 2026 on the mechanisms of historical persistence",
+      "to": "A common shock defeats the pool through its mean loading and the cross-section through its dispersion"
+    },
+    {
+      "from": "Kelly 2026 on the mechanisms of historical persistence",
+      "to": "A long-horizon persistence coefficient bounds no relaxation time"
+    },
+    {
+      "from": "Kelly 2026 on the mechanisms of historical persistence",
+      "to": "Common shocks leave the cross-section a single realisation"
+    },
+    {
+      "from": "Kelly 2026 on the mechanisms of historical persistence",
+      "to": "MOC - Ergodicity and the time-ensemble distinction"
+    },
+    {
+      "from": "Kelly 2026 on the mechanisms of historical persistence",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Kelly 2026 on the mechanisms of historical persistence",
+      "to": "MOC - Historiography and method"
+    },
+    {
+      "from": "Kelly 2026 on the mechanisms of historical persistence",
+      "to": "Persistence stationarity and mobility literature"
+    },
+    {
+      "from": "Kelly 2026 on the mechanisms of historical persistence",
+      "to": "The persistence coefficient fails even where the dynamics are ergodic"
+    },
+    {
+      "from": "Kelly 2026 on the mechanisms of historical persistence",
+      "to": "The persistence literature names non-ergodicity only in its geography branch"
+    },
+    {
+      "from": "Kelly 2026 on the mechanisms of historical persistence",
+      "to": "The three Kelly critiques establish different nulls"
+    },
+    {
+      "from": "Kelly 2026 on the mechanisms of historical persistence",
+      "to": "Time-average optimization is a survivorship property not an intention"
+    },
+    {
+      "from": "Kelly 2026 on the mechanisms of historical persistence",
+      "to": "Voigtlander and Voth measured the relaxation time and reported a mixture"
+    },
+    {
       "from": "Kuran's brake is a refusal of immortal entities",
       "to": "Guard against reverse-teleology"
     },
@@ -16549,6 +16754,10 @@
     },
     {
       "from": "MOC - Ergodicity and the time-ensemble distinction",
+      "to": "A common shock defeats the pool through its mean loading and the cross-section through its dispersion"
+    },
+    {
+      "from": "MOC - Ergodicity and the time-ensemble distinction",
       "to": "A constant projection matrix has no ergodicity content"
     },
     {
@@ -16634,6 +16843,10 @@
     {
       "from": "MOC - Ergodicity and the time-ensemble distinction",
       "to": "Bernoulli split Sempronius's cargo by the logarithm and Roy by the probability of disaster"
+    },
+    {
+      "from": "MOC - Ergodicity and the time-ensemble distinction",
+      "to": "Common shocks leave the cross-section a single realisation"
     },
     {
       "from": "MOC - Ergodicity and the time-ensemble distinction",
@@ -16914,6 +17127,10 @@
     {
       "from": "MOC - Ergodicity and the time-ensemble distinction",
       "to": "The market selection literature is the project's nearest formal neighbour"
+    },
+    {
+      "from": "MOC - Ergodicity and the time-ensemble distinction",
+      "to": "The persistence coefficient fails even where the dynamics are ergodic"
     },
     {
       "from": "MOC - Ergodicity and the time-ensemble distinction",
@@ -18597,6 +18814,10 @@
     },
     {
       "from": "MOC - Historiography and method",
+      "to": "A long-horizon persistence coefficient bounds no relaxation time"
+    },
+    {
+      "from": "MOC - Historiography and method",
       "to": "A migrated institution collects local names not local forms"
     },
     {
@@ -18670,6 +18891,10 @@
     {
       "from": "MOC - Historiography and method",
       "to": "Clark's institution-invariant law leaves heredity as the only carrier"
+    },
+    {
+      "from": "MOC - Historiography and method",
+      "to": "Common shocks leave the cross-section a single realisation"
     },
     {
       "from": "MOC - Historiography and method",
@@ -18766,6 +18991,10 @@
     {
       "from": "MOC - Historiography and method",
       "to": "Isqa qirad and commenda are a liability-variable triad"
+    },
+    {
+      "from": "MOC - Historiography and method",
+      "to": "Kelly 2026 on the mechanisms of historical persistence"
     },
     {
       "from": "MOC - Historiography and method",
@@ -18986,6 +19215,10 @@
     {
       "from": "MOC - Historiography and method",
       "to": "The ortoq is the discriminating instrument"
+    },
+    {
+      "from": "MOC - Historiography and method",
+      "to": "The persistence coefficient fails even where the dynamics are ergodic"
     },
     {
       "from": "MOC - Historiography and method",
@@ -29688,6 +29921,54 @@
       "to": "Transmission versus independent recurrence is the load-bearing test"
     },
     {
+      "from": "The persistence coefficient fails even where the dynamics are ergodic",
+      "to": "A long-horizon persistence coefficient bounds no relaxation time"
+    },
+    {
+      "from": "The persistence coefficient fails even where the dynamics are ergodic",
+      "to": "A significant persistence coefficient is evidence against its own licensing condition"
+    },
+    {
+      "from": "The persistence coefficient fails even where the dynamics are ergodic",
+      "to": "Connaughton Lamb and Paillusson 2026 on what ergodicity is"
+    },
+    {
+      "from": "The persistence coefficient fails even where the dynamics are ergodic",
+      "to": "Kelly 2026 on the mechanisms of historical persistence"
+    },
+    {
+      "from": "The persistence coefficient fails even where the dynamics are ergodic",
+      "to": "Licensing the ensemble is a dynamical question not a metaphysical one"
+    },
+    {
+      "from": "The persistence coefficient fails even where the dynamics are ergodic",
+      "to": "MOC - ERC Synergy Grant"
+    },
+    {
+      "from": "The persistence coefficient fails even where the dynamics are ergodic",
+      "to": "MOC - Ergodicity and the time-ensemble distinction"
+    },
+    {
+      "from": "The persistence coefficient fails even where the dynamics are ergodic",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "The persistence coefficient fails even where the dynamics are ergodic",
+      "to": "MOC - Historiography and method"
+    },
+    {
+      "from": "The persistence coefficient fails even where the dynamics are ergodic",
+      "to": "Persistence stationarity and mobility literature"
+    },
+    {
+      "from": "The persistence coefficient fails even where the dynamics are ergodic",
+      "to": "The mita boundary separates two components not two points on a trajectory"
+    },
+    {
+      "from": "The persistence coefficient fails even where the dynamics are ergodic",
+      "to": "The word ergodic carries four incompatible senses"
+    },
+    {
       "from": "The persistence literature names non-ergodicity only in its geography branch",
       "to": "Distinguish strong from weak ergodicity breaking"
     },
@@ -30422,6 +30703,10 @@
     {
       "from": "The three Kelly critiques establish different nulls",
       "to": "Galton's problem"
+    },
+    {
+      "from": "The three Kelly critiques establish different nulls",
+      "to": "Kelly 2026 on the mechanisms of historical persistence"
     },
     {
       "from": "The three Kelly critiques establish different nulls",
@@ -31861,11 +32146,19 @@
     },
     {
       "from": "Voigtlander and Voth measured the relaxation time and reported a mixture",
+      "to": "A long-horizon persistence coefficient bounds no relaxation time"
+    },
+    {
+      "from": "Voigtlander and Voth measured the relaxation time and reported a mixture",
       "to": "Deep-roots variables are symplesiomorphies"
     },
     {
       "from": "Voigtlander and Voth measured the relaxation time and reported a mixture",
       "to": "Ergodicity is indecomposability not randomness"
+    },
+    {
+      "from": "Voigtlander and Voth measured the relaxation time and reported a mixture",
+      "to": "Kelly 2026 on the mechanisms of historical persistence"
     },
     {
       "from": "Voigtlander and Voth measured the relaxation time and reported a mixture",
