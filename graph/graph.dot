@@ -468,6 +468,7 @@ digraph vault {
   "Stora Kopparberg and the oldest-share claim" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Sumitomo Historical Archives - Kyoto" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
   "Svenska Ostindiska Companiet - the Gothenburg archive" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
+  "Sweep 2026-11-24 - medieval and early modern statements of diversification" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
   "Syndication and the misma moneda are pooling not prudence" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
   "Taiwan Shiho - the colonial survey of Chinese associations and shares" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
   "Taleb 2012 on antifragility - loci for the time-ensemble distinction" [fillcolor="#7570b3", fontcolor=white, shape=ellipse];
@@ -5647,6 +5648,14 @@ digraph vault {
   "Svenska Ostindiska Companiet - the Gothenburg archive" -> "MOC - Nordic archives";
   "Svenska Ostindiska Companiet - the Gothenburg archive" -> "Riksarkivet Sweden - the national archives and the AI lab";
   "Svenska Ostindiska Companiet - the Gothenburg archive" -> "Service historique de la Defense - Lorient and the Compagnie des Indes";
+  "Sweep 2026-11-24 - medieval and early modern statements of diversification" -> "Diversification runs across bottoms not across partners";
+  "Sweep 2026-11-24 - medieval and early modern statements of diversification" -> "Institutions substitute state-verification for outcome-inference as ruin exposure rises";
+  "Sweep 2026-11-24 - medieval and early modern statements of diversification" -> "MOC - HistorEE";
+  "Sweep 2026-11-24 - medieval and early modern statements of diversification" -> "MOC - Historiography and method";
+  "Sweep 2026-11-24 - medieval and early modern statements of diversification" -> "MOC - Risk-sharing vs risk-pricing";
+  "Sweep 2026-11-24 - medieval and early modern statements of diversification" -> "The proverbs of diversification state the rule and omit its conditions";
+  "Sweep 2026-11-24 - medieval and early modern statements of diversification" -> "Transmission versus independent recurrence is the load-bearing test";
+  "Sweep 2026-11-24 - medieval and early modern statements of diversification" -> "Under absorption pooling raises the probability of ruin to the power of the pool";
   "Syndication and the misma moneda are pooling not prudence" -> "Drelichman and Voth 2014 on the debts and defaults of Philip II";
   "Syndication and the misma moneda are pooling not prudence" -> "MOC - Ergodicity and the time-ensemble distinction";
   "Syndication and the misma moneda are pooling not prudence" -> "MOC - HistorEE";
@@ -6655,6 +6664,7 @@ digraph vault {
   "The proverbs of diversification state the rule and omit its conditions" -> "Pooling's sign is set by the correlation of its baskets";
   "The proverbs of diversification state the rule and omit its conditions" -> "Rationality is a property of the policy not of the belief that produces it";
   "The proverbs of diversification state the rule and omit its conditions" -> "Scott 1976 on the subsistence ethic as safety-first";
+  "The proverbs of diversification state the rule and omit its conditions" -> "Sweep 2026-11-24 - medieval and early modern statements of diversification";
   "The proverbs of diversification state the rule and omit its conditions" -> "The coding commons must record stated rationale not only component presence";
   "The proverbs of diversification state the rule and omit its conditions" -> "Time-average optimization is a survivorship property not an intention";
   "The proverbs of diversification state the rule and omit its conditions" -> "Under absorption pooling raises the probability of ruin to the power of the pool";

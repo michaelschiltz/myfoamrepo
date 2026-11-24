@@ -1427,7 +1427,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Diversification runs across bottoms not across partners",
-      "value": 25,
+      "value": 27,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -2264,7 +2264,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Institutions substitute state-verification for outcome-inference as ruin exposure rises",
-      "value": 33,
+      "value": 34,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -4204,6 +4204,15 @@
       "shape": "dot"
     },
     {
+      "id": "Sweep 2026-11-24 - medieval and early modern statements of diversification",
+      "type": "reference",
+      "group": "reference",
+      "label": "Sweep 2026-11-24 - medieval and early modern statements of diversification",
+      "value": 13,
+      "color": "#66a61e",
+      "shape": "dot"
+    },
+    {
       "id": "Syndication and the misma moneda are pooling not prudence",
       "type": "permanent",
       "group": "seed",
@@ -5234,7 +5243,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "The proverbs of diversification state the rule and omit its conditions",
-      "value": 24,
+      "value": 27,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -5603,7 +5612,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Transmission versus independent recurrence is the load-bearing test",
-      "value": 55,
+      "value": 57,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -5639,7 +5648,7 @@
       "type": "permanent",
       "group": "seed",
       "label": "Under absorption pooling raises the probability of ruin to the power of the pool",
-      "value": 58,
+      "value": 59,
       "color": "#e6ab02",
       "shape": "dot"
     },
@@ -6026,7 +6035,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - HistorEE",
-      "value": 625,
+      "value": 626,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -6035,7 +6044,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Historiography and method",
-      "value": 286,
+      "value": 287,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -6098,7 +6107,7 @@
       "type": "moc",
       "group": "moc",
       "label": "MOC - Risk-sharing vs risk-pricing",
-      "value": 230,
+      "value": 231,
       "color": "#d95f02",
       "shape": "dot"
     },
@@ -26017,6 +26026,38 @@
       "to": "Service historique de la Defense - Lorient and the Compagnie des Indes"
     },
     {
+      "from": "Sweep 2026-11-24 - medieval and early modern statements of diversification",
+      "to": "Diversification runs across bottoms not across partners"
+    },
+    {
+      "from": "Sweep 2026-11-24 - medieval and early modern statements of diversification",
+      "to": "Institutions substitute state-verification for outcome-inference as ruin exposure rises"
+    },
+    {
+      "from": "Sweep 2026-11-24 - medieval and early modern statements of diversification",
+      "to": "MOC - HistorEE"
+    },
+    {
+      "from": "Sweep 2026-11-24 - medieval and early modern statements of diversification",
+      "to": "MOC - Historiography and method"
+    },
+    {
+      "from": "Sweep 2026-11-24 - medieval and early modern statements of diversification",
+      "to": "MOC - Risk-sharing vs risk-pricing"
+    },
+    {
+      "from": "Sweep 2026-11-24 - medieval and early modern statements of diversification",
+      "to": "The proverbs of diversification state the rule and omit its conditions"
+    },
+    {
+      "from": "Sweep 2026-11-24 - medieval and early modern statements of diversification",
+      "to": "Transmission versus independent recurrence is the load-bearing test"
+    },
+    {
+      "from": "Sweep 2026-11-24 - medieval and early modern statements of diversification",
+      "to": "Under absorption pooling raises the probability of ruin to the power of the pool"
+    },
+    {
       "from": "Syndication and the misma moneda are pooling not prudence",
       "to": "Drelichman and Voth 2014 on the debts and defaults of Philip II"
     },
@@ -30047,6 +30088,10 @@
     {
       "from": "The proverbs of diversification state the rule and omit its conditions",
       "to": "Scott 1976 on the subsistence ethic as safety-first"
+    },
+    {
+      "from": "The proverbs of diversification state the rule and omit its conditions",
+      "to": "Sweep 2026-11-24 - medieval and early modern statements of diversification"
     },
     {
       "from": "The proverbs of diversification state the rule and omit its conditions",

@@ -64,6 +64,7 @@ The same practice was formalised twice, along the two limbs — [[Bernoulli spli
 ## Links
 
 - [[Diversification runs across bottoms not across partners]]
+- [[Sweep 2026-11-24 - medieval and early modern statements of diversification]]
 - [[Under absorption pooling raises the probability of ruin to the power of the pool]]
 - [[Bernoulli split Sempronius's cargo by the logarithm and Roy by the probability of disaster]]
 - [[Pooling's sign is set by the correlation of its baskets]]
