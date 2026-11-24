@@ -97,4 +97,4 @@ Canonical rather than medieval, but transmitted with Buddhaghosa's fifth-century
 
 ## Source
 
-Session of 2026-11-24. Undermind workspace https://app.undermind.ai/projects/386a4745-23d0-4e8c-9705-7675719de087. The translations of the *Qābus-nāma* and the Sigālovāda verse are mine. The primary texts quoted are in the public domain; secondary works are paraphrased.
+Session of 2026-11-24. Undermind workspace https://app.undermind.ai/projects/386a4745-23d0-4e8c-9705-7675719de087. Zotero collection *HistorEE — diversification maxims sweep 2026-11-24*, key `77WL8PPP` (30 items, tag `diversification-maxims-sweep-2026-11-24`; items with unchecked metadata also carry `metadata-unverified`). The translations of the *Qābus-nāma* and the Sigālovāda verse are mine. The primary texts quoted are in the public domain; secondary works are paraphrased.
