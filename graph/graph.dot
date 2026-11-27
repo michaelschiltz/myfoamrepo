@@ -342,6 +342,7 @@ digraph vault {
   "Okurasho 1915 - a Finance Ministry survey of mujin with eleven rulebooks" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
   "Old Uyghur contracts - the documentary layer under the ortoq" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
   "Olivares's junta coded the asiento as a privileged company" [fillcolor="#e6ab02", fontcolor=white, shape=ellipse];
+  "Omiyi 2026 on truth-seeking as the constitutive nature of reasoners" [fillcolor="#7570b3", fontcolor=white, shape=ellipse];
   "Open-source HTR stack - eScriptorium Kraken Loghi" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
   "Orta sandigi records - the guild and Janissary chests" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
   "Osaka Museum of History - the Konoike family documents" [fillcolor="#66a61e", fontcolor=white, shape=ellipse];
@@ -4656,6 +4657,19 @@ digraph vault {
   "Olivares's junta coded the asiento as a privileged company" -> "The deficit reading of absence is the scalar ranking in evidentiary form";
   "Olivares's junta coded the asiento as a privileged company" -> "The depersonalised share was produced by honour not by pooling logic";
   "Olivares's junta coded the asiento as a privileged company" -> "Transmission versus independent recurrence is the load-bearing test";
+  "Omiyi 2026 on truth-seeking as the constitutive nature of reasoners" -> "A perfectly correlated peril leaves only the time average";
+  "Omiyi 2026 on truth-seeking as the constitutive nature of reasoners" -> "Absorption without ergodicity economics is just ruin theory";
+  "Omiyi 2026 on truth-seeking as the constitutive nature of reasoners" -> "An absorbing barrier breaks ergodicity by construction";
+  "Omiyi 2026 on truth-seeking as the constitutive nature of reasoners" -> "MOC - Defending the ergodicity claim";
+  "Omiyi 2026 on truth-seeking as the constitutive nature of reasoners" -> "MOC - Ergodicity and the time-ensemble distinction";
+  "Omiyi 2026 on truth-seeking as the constitutive nature of reasoners" -> "MOC - HistorEE";
+  "Omiyi 2026 on truth-seeking as the constitutive nature of reasoners" -> "Pooling's sign is set by the correlation of its baskets";
+  "Omiyi 2026 on truth-seeking as the constitutive nature of reasoners" -> "Stoic loci on cooperation - only two argue from interdependence";
+  "Omiyi 2026 on truth-seeking as the constitutive nature of reasoners" -> "Taleb reads survival as evidence about the survivor and we read it as evidence about the filter";
+  "Omiyi 2026 on truth-seeking as the constitutive nature of reasoners" -> "The record of non-survivors survives where failure was administered";
+  "Omiyi 2026 on truth-seeking as the constitutive nature of reasoners" -> "Two blind model transcribers agree where both are wrong - agreement is not a reference";
+  "Omiyi 2026 on truth-seeking as the constitutive nature of reasoners" -> "Under absorption pooling raises the probability of ruin to the power of the pool";
+  "Omiyi 2026 on truth-seeking as the constitutive nature of reasoners" -> "Under absorption the time-average criterion is an ordering not a maximand";
   "Open-source HTR stack - eScriptorium Kraken Loghi" -> "Kuzushiji OCR - the NDL and CODH stack";
   "Open-source HTR stack - eScriptorium Kraken Loghi" -> "Loghi - the KNAW-Nationaal Archief HTR pipeline";
   "Open-source HTR stack - eScriptorium Kraken Loghi" -> "MOC - Digitisation and text recognition";
